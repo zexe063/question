@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a mirage appear inverted?",
+        "hindi": "मरीचिका उल्टी क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Total internal reflection in air layers",
+          "Simple reflection",
+          "Surface refraction",
+          "Atmospheric absorption"
+        ],
+        "hindi": [
+          "वायु परतों में पूर्ण आंतरिक परावर्तन",
+          "सरल परावर्तन",
+          "सतह अपवर्तन",
+          "वायुमंडलीय अवशोषण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers show waveguide dispersion?",
+        "hindi": "प्रकाशिक तंतु तरंगपथ विक्षेपण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Mode-dependent group velocity",
+          "Material defect",
+          "Temperature change",
+          "Pressure effect"
+        ],
+        "hindi": [
+          "विधा-निर्भर समूह वेग",
+          "पदार्थ दोष",
+          "तापमान परिवर्तन",
+          "दाब प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does coma aberration increase with off-axis distance?",
+        "hindi": "अक्ष से दूरी के साथ कोमा विपथन क्यों बढ़ता है?"
+      },
+      "option": {
+        "english": [
+          "Asymmetric ray convergence",
+          "Light intensity",
+          "Temperature effect",
+          "Material property"
+        ],
+        "hindi": [
+          "असममित किरण अभिसरण",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "पदार्थ का गुण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Nine media with refractive indices following Lucas sequence (first two=1.2,1.3). If i₁=60°, final angle is:",
+        "hindi": "नौ माध्यम जिनके अपवर्तनांक लूकस श्रेढ़ी का अनुसरण करते हैं (पहले दो=1.2,1.3)। यदि i₁=60° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "17.4°",
+          "20°",
+          "15°",
+          "25°"
+        ],
+        "hindi": [
+          "17.4°",
+          "20°",
+          "15°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with variable magnification, if tube length varies exponentially with magnification, the relationship is:",
+        "hindi": "परिवर्तनीय आवर्धन वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई आवर्धन के साथ चरघातांकी रूप से बदलती है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "L = ke^m",
+          "L = km",
+          "L = k/m",
+          "L = km²"
+        ],
+        "hindi": [
+          "L = ke^m",
+          "L = km",
+          "L = k/m",
+          "L = km²"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of parhelic circle?",
+        "hindi": "कौन सा किरण आरेख परिसूर्य वृत्त का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Horizontal ice crystal reflection",
+          "Vertical reflection",
+          "Random reflection",
+          "No reflection"
+        ],
+        "hindi": [
+          "क्षैतिज बर्फ क्रिस्टल परावर्तन",
+          "ऊर्ध्वाधर परावर्तन",
+          "यादृच्छिक परावर्तन",
+          "कोई परावर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of circumzenithal arc?",
+        "hindi": "कौन सा किरण आरेख परिशीर्ष चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Upper tangent arc",
+          "Lower tangent arc",
+          "Random arc",
+          "No arc"
+        ],
+        "hindi": [
+          "ऊपरी स्पर्श चाप",
+          "निचली स्पर्श चाप",
+          "यादृच्छिक चाप",
+          "कोई चाप नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,125 Q150,25 200,125' stroke='red' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of sun pillar?",
+        "hindi": "कौन सा किरण आरेख सूर्य स्तंभ का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Vertical ice crystal reflection",
+          "Horizontal reflection",
+          "Random reflection",
+          "No reflection"
+        ],
+        "hindi": [
+          "ऊर्ध्वाधर बर्फ क्रिस्टल परावर्तन",
+          "क्षैतिज परावर्तन",
+          "यादृच्छिक परावर्तन",
+          "कोई परावर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' stroke='yellow' fill='yellow'/><line x1='150' y1='25' x2='150' y2='125' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Nine thin lenses of powers forming arithmetic-geometric sequence (first=+4D, d=1, r=1.2) are separated by 4cm each. Net power is:",
+        "hindi": "नौ पतले लेंस जिनकी क्षमताएं समांतर-गुणोत्तर श्रेढ़ी बनाती हैं (पहला=+4D, d=1, r=1.2), 4सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+11.8D",
+          "+10D",
+          "+12D",
+          "+13D"
+        ],
+        "hindi": [
+          "+11.8D",
+          "+10D",
+          "+12D",
+          "+13D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope with six elements, if angular magnification is 1000 and objective focal length is 500cm, sum of eyepiece focal lengths is:",
+        "hindi": "छह तत्वों वाली दूरबीन में, यदि कोणीय आवर्धन 1000 और अभिदृश्यक की फोकस दूरी 500सेमी है, तो नेत्रिका फोकस दूरियों का योग है:"
+      },
+      "option": {
+        "english": [
+          "30mm",
+          "35mm",
+          "25mm",
+          "40mm"
+        ],
+        "hindi": [
+          "30मिमी",
+          "35मिमी",
+          "25मिमी",
+          "40मिमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

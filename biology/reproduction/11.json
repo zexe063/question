@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of the hypothalamus in reproduction?",
+        "hindi": "प्रजनन में हाइपोथैलेमस की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Milk production",
+          "Sperm storage",
+          "Hormone control",
+          "Egg storage"
+        ],
+        "hindi": [
+          "दूध उत्पादन",
+          "शुक्राणु संग्रह",
+          "हार्मोन नियंत्रण",
+          "अंडा संग्रह"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces milk in females?",
+        "hindi": "महिलाओं में कौन सी ग्रंथि दूध का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Mammary glands",
+          "Pituitary gland",
+          "Thyroid gland",
+          "Adrenal gland"
+        ],
+        "hindi": [
+          "स्तन ग्रंथियां",
+          "पीयूष ग्रंथि",
+          "थायरॉइड ग्रंथि",
+          "एड्रेनल ग्रंथि"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of the cervix?",
+        "hindi": "गर्भाशय ग्रीवा का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store eggs",
+          "Connect uterus",
+          "Produce hormones",
+          "Filter blood"
+        ],
+        "hindi": [
+          "अंडे संग्रह",
+          "गर्भाशय को जोड़ना",
+          "हार्मोन उत्पादन",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes secondary sexual characters?",
+        "hindi": "द्वितीयक यौन लक्षण किससे होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Growth hormone",
+          "Insulin",
+          "Thyroxine",
+          "Sex hormones"
+        ],
+        "hindi": [
+          "वृद्धि हार्मोन",
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "यौन हार्मोन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of fimbriae?",
+        "hindi": "फिम्ब्रिए की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Support ovary",
+          "Filter blood",
+          "Catch egg",
+          "Store sperm"
+        ],
+        "hindi": [
+          "अंडाशय को सहारा",
+          "रक्त छानना",
+          "अंडा पकड़ना",
+          "शुक्राणु संग्रह"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes menstrual cramps?",
+        "hindi": "मासिक धर्म में ऐंठन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "High estrogen",
+          "Uterine contractions",
+          "Low progesterone",
+          "Dehydration"
+        ],
+        "hindi": [
+          "उच्च एस्ट्रोजन",
+          "गर्भाशय संकुचन",
+          "कम प्रोजेस्टेरोन",
+          "निर्जलीकरण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which vitamin is essential for reproduction?",
+        "hindi": "प्रजनन के लिए कौन सा विटामिन आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Vitamin E",
+          "Vitamin C",
+          "Vitamin D",
+          "Vitamin K"
+        ],
+        "hindi": [
+          "विटामिन E",
+          "विटामिन C",
+          "विटामिन D",
+          "विटामिन K"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of amniotic fluid?",
+        "hindi": "उल्ब द्रव का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Nutrient supply",
+          "Waste removal",
+          "Shock absorption"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "पोषक तत्व आपूर्ति",
+          "अपशिष्ट निष्कासन",
+          "आघात अवशोषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of the corona radiata?",
+        "hindi": "कोरोना रेडिएटा की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Sperm attraction",
+          "Egg protection",
+          "Waste removal"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "शुक्राणु आकर्षण",
+          "अंडे की सुरक्षा",
+          "अपशिष्ट निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What regulates the menstrual cycle length?",
+        "hindi": "मासिक धर्म चक्र की लंबाई को क्या नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Age",
+          "Hormones",
+          "Diet",
+          "Exercise"
+        ],
+        "hindi": [
+          "उम्र",
+          "हार्मोन",
+          "आहार",
+          "व्यायाम"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

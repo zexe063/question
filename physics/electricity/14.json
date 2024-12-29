@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Identify the electrical component shown in the diagram:",
+        "hindi": "चित्र में दर्शाए गए विद्युत घटक की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Resistor",
+          "Battery",
+          "Bulb",
+          "Switch"
+        ],
+        "hindi": [
+          "प्रतिरोधक",
+          "बैटरी",
+          "बल्ब",
+          "स्विच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='100' height='20' fill='none' stroke='black'/><text x='140' y='30'>?</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of electrical meter is shown?",
+        "hindi": "किस प्रकार का विद्युत मीटर दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Ammeter",
+          "Voltmeter",
+          "Galvanometer",
+          "Wattmeter"
+        ],
+        "hindi": [
+          "एमीटर",
+          "वोल्टमीटर",
+          "गैल्वेनोमीटर",
+          "वाटमीटर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='50' r='20' fill='none' stroke='black'/><text x='145' y='55'>A</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which type of fuse symbol is this?",
+        "hindi": "यह किस प्रकार का फ्यूज प्रतीक है?"
+      },
+      "option": {
+        "english": [
+          "Cartridge fuse",
+          "Wire fuse",
+          "HRC fuse",
+          "Rewirable fuse"
+        ],
+        "hindi": [
+          "कार्ट्रिज फ्यूज",
+          "तार फ्यूज",
+          "HRC फ्यूज",
+          "पुनः तार योग्य फ्यूज"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='200' y2='50' stroke='black'/><line x1='130' y1='50' x2='170' y2='50' stroke='black' stroke-width='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What does this combination of symbols represent?",
+        "hindi": "प्रतीकों का यह संयोजन क्या दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Series circuit",
+          "Parallel circuit",
+          "Mixed circuit",
+          "Open circuit"
+        ],
+        "hindi": [
+          "श्रेणी परिपथ",
+          "समानांतर परिपथ",
+          "मिश्रित परिपथ",
+          "खुला परिपथ"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='100' stroke='black'/><line x1='250' y1='30' x2='250' y2='100' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the type of switch shown:",
+        "hindi": "दर्शाए गए स्विच के प्रकार की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "SPST switch",
+          "DPST switch",
+          "SPDT switch",
+          "DPDT switch"
+        ],
+        "hindi": [
+          "SPST स्विच",
+          "DPST स्विच",
+          "SPDT स्विच",
+          "DPDT स्विच"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='150' y2='30' stroke='black'/><circle cx='100' cy='50' r='3' fill='black'/><circle cx='180' cy='30' r='3' fill='black'/><circle cx='180' cy='70' r='3' fill='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of bulb connection is shown in the diagram?",
+        "hindi": "चित्र में किस प्रकार का बल्ब कनेक्शन दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Series connection",
+          "Parallel connection",
+          "Mixed connection",
+          "Single bulb"
+        ],
+        "hindi": [
+          "श्रेणी कनेक्शन",
+          "समानांतर कनेक्शन",
+          "मिश्रित कनेक्शन",
+          "एकल बल्ब"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='50' r='15' fill='none' stroke='black'/><circle cx='200' cy='50' r='15' fill='none' stroke='black'/><line x1='50' y1='50' x2='250' y2='50' stroke='black'/><text x='95' y='55'>×</text><text x='195' y='55'>×</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which electrical component is connected incorrectly?",
+        "hindi": "कौन सा विद्युत घटक गलत जुड़ा है?"
+      },
+      "option": {
+        "english": [
+          "Ammeter",
+          "Voltmeter",
+          "Battery",
+          "Switch"
+        ],
+        "hindi": [
+          "एमीटर",
+          "वोल्टमीटर",
+          "बैटरी",
+          "स्विच"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='40' height='20' fill='none' stroke='black'/><circle cx='200' cy='60' r='15' fill='none' stroke='black'/><text x='195' y='65'>V</text><line x1='200' y1='45' x2='200' y2='75' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What does this heating element symbol represent?",
+        "hindi": "यह तापन तत्व प्रतीक क्या दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Electric heater",
+          "Electric iron",
+          "Water heater",
+          "Room heater"
+        ],
+        "hindi": [
+          "विद्युत हीटर",
+          "विद्युत इस्तरी",
+          "जल तापक",
+          "कमरा हीटर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><path d='M 100 50 Q 150 30 200 50' fill='none' stroke='black'/><path d='M 100 60 Q 150 80 200 60' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the earth connection symbol:",
+        "hindi": "अर्थ कनेक्शन प्रतीक की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Symbol A",
+          "Symbol B",
+          "Symbol C",
+          "Symbol D"
+        ],
+        "hindi": [
+          "प्रतीक A",
+          "प्रतीक B",
+          "प्रतीक C",
+          "प्रतीक D"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='50' y2='70' stroke='black'/><line x1='30' y1='70' x2='70' y2='70' stroke='black'/><line x1='35' y1='80' x2='65' y2='80' stroke='black'/><line x1='40' y1='90' x2='60' y2='90' stroke='black'/><text x='40' y='110'>C</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of meter connection is shown for measuring high voltage?",
+        "hindi": "उच्च वोल्टेज मापने के लिए किस प्रकार का मीटर कनेक्शन दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Direct connection",
+          "Series connection",
+          "Parallel connection",
+          "Multiplier connection"
+        ],
+        "hindi": [
+          "प्रत्यक्ष कनेक्शन",
+          "श्रेणी कनेक्शन",
+          "समानांतर कनेक्शन",
+          "गुणक कनेक्शन"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='60' r='20' fill='none' stroke='black'/><text x='145' y='65'>V</text><rect x='200' y='50' width='40' height='20' fill='none' stroke='black'/><text x='210' y='65'>R</text></svg>",
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do we see multiple images in a kaleidoscope?",
+        "hindi": "कैलीडोस्कोप में हमें कई प्रतिबिंब क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to multiple reflections",
+          "Due to single reflection",
+          "Due to refraction",
+          "Due to diffraction"
+        ],
+        "hindi": [
+          "बहु परावर्तन के कारण",
+          "एकल परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we use curved mirrors in solar cookers instead of plane mirrors?",
+        "hindi": "सौर कुकर में समतल दर्पण के बजाय वक्र दर्पण का उपयोग क्यों करते हैं?"
+      },
+      "option": {
+        "english": [
+          "To concentrate sunlight at a point",
+          "To spread sunlight",
+          "To make it look better",
+          "To reduce cost"
+        ],
+        "hindi": [
+          "सूर्य प्रकाश को एक बिंदु पर केंद्रित करने के लिए",
+          "सूर्य प्रकाश को फैलाने के लिए",
+          "बेहतर दिखने के लिए",
+          "लागत कम करने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see ourselves upright in a plane mirror even when the mirror is upside down?",
+        "hindi": "समतल दर्पण को उल्टा करने पर भी हम अपने आप को सीधा क्यों देखते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to lateral inversion only",
+          "Due to vertical inversion",
+          "Due to both inversions",
+          "Due to no inversion"
+        ],
+        "hindi": [
+          "केवल पार्श्व उत्क्रमण के कारण",
+          "ऊर्ध्वाधर उत्क्रमण के कारण",
+          "दोनों उत्क्रमण के कारण",
+          "कोई उत्क्रमण नहीं होने के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror forms an image 3 times the object size. If f = 10 cm, find image distance.",
+        "hindi": "एक अवतल दर्पण वस्तु से 3 गुना बड़ा प्रतिबिंब बनाता है। यदि f = 10 सेमी है, तो प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "40 cm",
+          "30 cm",
+          "20 cm",
+          "50 cm"
+        ],
+        "hindi": [
+          "40 सेमी",
+          "30 सेमी",
+          "20 सेमी",
+          "50 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If object moves 5 cm towards a concave mirror, its image moves 20 cm away. The focal length is:",
+        "hindi": "यदि वस्तु अवतल दर्पण की ओर 5 सेमी चलती है, तो उसका प्रतिबिंब 20 सेमी दूर जाता है। फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows image formation when object is at focus of concave mirror?",
+        "hindi": "कौन सा किरण आरेख अवतल दर्पण के फोकस पर वस्तु होने पर प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Rays parallel to axis",
+          "Rays converging at F",
+          "Rays diverging from F",
+          "Rays through C"
+        ],
+        "hindi": [
+          "अक्ष के समानांतर किरणें",
+          "F पर अभिसरित किरणें",
+          "F से अपसरित किरणें",
+          "C से होकर जाती किरणें"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows correct path for ray passing through center of curvature?",
+        "hindi": "कौन सा किरण आरेख वक्रता केंद्र से गुजरने वाली किरण का सही पथ दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Retraces its path",
+          "Parallel to axis",
+          "Through focus",
+          "Random direction"
+        ],
+        "hindi": [
+          "अपने पथ पर वापस लौटती है",
+          "अक्ष के समानांतर",
+          "फोकस से होकर",
+          "यादृच्छिक दिशा में"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='150' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='150' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows position of real image in concave mirror?",
+        "hindi": "कौन सा किरण आरेख अवतल दर्पण में वास्तविक प्रतिबिंब की स्थिति दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Beyond C",
+          "Between F and C",
+          "At F",
+          "Behind mirror"
+        ],
+        "hindi": [
+          "C से परे",
+          "F और C के बीच",
+          "F पर",
+          "दर्पण के पीछे"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='200' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Two mirrors are placed at 40°. Number of images formed of an object between them is:",
+        "hindi": "दो दर्पण 40° पर रखे गए हैं। उनके बीच रखी वस्तु के बनने वाले प्रतिबिंबों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "8",
+          "9",
+          "7",
+          "6"
+        ],
+        "hindi": [
+          "8",
+          "9",
+          "7",
+          "6"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror's focal length increases by 2 cm when heated. If original f was 20 cm, percentage change in radius is:",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी गरम करने पर 2 सेमी बढ़ जाती है। यदि मूल f 20 सेमी था, तो त्रिज्या में प्रतिशत परिवर्तन है:"
+      },
+      "option": {
+        "english": [
+          "10%",
+          "5%",
+          "20%",
+          "15%"
+        ],
+        "hindi": [
+          "10%",
+          "5%",
+          "20%",
+          "15%"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

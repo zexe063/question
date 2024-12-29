@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a pencil appear broken when partially immersed in water at an angle?",
+        "hindi": "पानी में तिरछा आंशिक रूप से डुबोने पर पेंसिल टूटी हुई क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Different refractive indices at interface",
+          "Water pressure",
+          "Optical illusion",
+          "Pencil material"
+        ],
+        "hindi": [
+          "अंतरापृष्ठ पर विभिन्न अपवर्तनांक",
+          "जल दाब",
+          "प्रकाशीय भ्रम",
+          "पेंसिल का पदार्थ"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers have minimum bending radius?",
+        "hindi": "प्रकाशिक तंतुओं में न्यूनतम मोड़ त्रिज्या क्यों होती है?"
+      },
+      "option": {
+        "english": [
+          "To maintain total internal reflection",
+          "For mechanical strength",
+          "For signal speed",
+          "For cost reduction"
+        ],
+        "hindi": [
+          "पूर्ण आंतरिक परावर्तन बनाए रखने के लिए",
+          "यांत्रिक मजबूती के लिए",
+          "संकेत की गति के लिए",
+          "लागत कम करने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a diamond's fire increase with its refractive index?",
+        "hindi": "हीरे की चमक उसके अपवर्तनांक के साथ क्यों बढ़ती है?"
+      },
+      "option": {
+        "english": [
+          "Increased dispersion and TIR",
+          "Only reflection increases",
+          "Only absorption changes",
+          "Surface area effect"
+        ],
+        "hindi": [
+          "वर्णविक्षेपण और पूर्ण आंतरिक परावर्तन में वृद्धि",
+          "केवल परावर्तन बढ़ता है",
+          "केवल अवशोषण बदलता है",
+          "सतह क्षेत्रफल का प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray passes through media with n₁=1.4, n₂=1.6, n₃=1.5, n₄=1.8, n₅=1.3. If i₁=30°, final angle is:",
+        "hindi": "एक किरण n₁=1.4, n₂=1.6, n₃=1.5, n₄=1.8, n₅=1.3 अपवर्तनांक वाले माध्यमों से गुजरती है। यदि i₁=30° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "32.8°",
+          "30°",
+          "35°",
+          "28°"
+        ],
+        "hindi": [
+          "32.8°",
+          "30°",
+          "35°",
+          "28°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope with three lenses, if individual magnifications are 5, 4, and 3, total magnification is:",
+        "hindi": "तीन लेंस वाले संयुक्त सूक्ष्मदर्शी में, यदि व्यक्तिगत आवर्धन 5, 4, और 3 हैं, तो कुल आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "60",
+          "12",
+          "45",
+          "20"
+        ],
+        "hindi": [
+          "60",
+          "12",
+          "45",
+          "20"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of multiple images in thick glass plate?",
+        "hindi": "कौन सा किरण आरेख मोटी कांच की प्लेट में बहु प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple internal reflections",
+          "Single reflection",
+          "Only refraction",
+          "No reflection"
+        ],
+        "hindi": [
+          "बहु आंतरिक परावर्तन",
+          "एकल परावर्तन",
+          "केवल अपवर्तन",
+          "कोई परावर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='25' width='100' height='100' stroke='black' fill='none'/><path d='M50,75 L300,75' stroke='red'/><path d='M50,75 L300,65' stroke='blue' stroke-dasharray='5,5'/><path d='M50,75 L300,85' stroke='green' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of caustics in a glass of water?",
+        "hindi": "कौन सा किरण आरेख पानी के गिलास में कॉस्टिक्स का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Envelope of refracted rays",
+          "Single ray",
+          "Parallel rays",
+          "Random rays"
+        ],
+        "hindi": [
+          "अपवर्तित किरणों का आवरण",
+          "एकल किरण",
+          "समांतर किरणें",
+          "यादृच्छिक किरणें"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 Q200,75 100,125' stroke='black' fill='none'/><path d='M50,75 C150,25 200,75 250,25' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of glory around shadow?",
+        "hindi": "कौन सा किरण आरेख छाया के चारों ओर प्रभामंडल का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Backward scattering",
+          "Forward scattering",
+          "Side scattering",
+          "No scattering"
+        ],
+        "hindi": [
+          "पश्च प्रकीर्णन",
+          "अग्र प्रकीर्णन",
+          "पार्श्व प्रकीर्णन",
+          "कोई प्रकीर्णन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><path d='M100,75 C150,25 150,125 200,75' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Five thin lenses of powers +4D, -3D, +5D, -2D, +1D are separated by 5cm each. Net power is:",
+        "hindi": "पांच पतले लेंस जिनकी क्षमताएं +4D, -3D, +5D, -2D, +1D हैं, 5सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+3.75D",
+          "+5D",
+          "+2.5D",
+          "+4D"
+        ],
+        "hindi": [
+          "+3.75D",
+          "+5D",
+          "+2.5D",
+          "+4D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with tube length 20cm, if magnification is 400 and eyepiece focal length is 5cm, objective focal length is:",
+        "hindi": "20सेमी ट्यूब लंबाई वाले सूक्ष्मदर्शी में, यदि आवर्धन 400 और नेत्रिका की फोकस दूरी 5सेमी है, तो अभिदृश्यक की फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "2mm",
+          "4mm",
+          "6mm",
+          "8mm"
+        ],
+        "hindi": [
+          "2मिमी",
+          "4मिमी",
+          "6मिमी",
+          "8मिमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

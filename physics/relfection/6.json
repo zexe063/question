@@ -1,0 +1,239 @@
+
+
+
+[
+    {
+      "question_name": {
+        "english": "A plane mirror forms an image that is:",
+        "hindi": "एक समतल दर्पण द्वारा बनने वाला प्रतिबिंब होता है:"
+      },
+      "option": {
+        "english": [
+          "Virtual, erect and same size",
+          "Real, erect and same size",
+          "Virtual, inverted and enlarged",
+          "Real, inverted and same size"
+        ],
+        "hindi": [
+          "आभासी, सीधा और समान आकार",
+          "वास्तविक, सीधा और समान आकार",
+          "आभासी, उल्टा और बड़ा",
+          "वास्तविक, उल्टा और समान आकार"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='50' stroke='red' stroke-dasharray='2'/><text x='90' y='45'>O</text><text x='205' y='45'>I</text></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "When object is placed beyond C of a concave mirror, image formed is:",
+        "hindi": "जब वस्तु अवतल दर्पण के C से परे रखी जाती है, तो बनने वाला प्रतिबिंब होता है:"
+      },
+      "option": {
+        "english": [
+          "Real, inverted and smaller",
+          "Virtual, erect and larger",
+          "Real, inverted and larger",
+          "Virtual, inverted and smaller"
+        ],
+        "hindi": [
+          "वास्तविक, उल्टा और छोटा",
+          "आभासी, सीधा और बड़ा",
+          "वास्तविक, उल्टा और बड़ा",
+          "आभासी, उल्टा और छोटा"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><text x='95' y='70'>F</text><circle cx='150' cy='75' r='2'/><text x='145' y='70'>C</text><line x1='200' y1='50' x2='200' y2='75' stroke='blue'/><line x1='75' y1='90' x2='75' y2='75' stroke='red'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A convex mirror always forms an image that is:",
+        "hindi": "एक उत्तल दर्पण हमेशा बनाता है एक प्रतिबिंब जो होता है:"
+      },
+      "option": {
+        "english": [
+          "Virtual, erect and smaller",
+          "Real, inverted and larger",
+          "Virtual, erect and larger",
+          "Real, erect and smaller"
+        ],
+        "hindi": [
+          "आभासी, सीधा और छोटा",
+          "वास्तविक, उल्टा और बड़ा",
+          "आभासी, सीधा और बड़ा",
+          "वास्तविक, सीधा और छोटा"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='25' cy='75' r='2'/><text x='20' y='70'>F</text><line x1='100' y1='50' x2='100' y2='75' stroke='blue'/><line x1='35' y1='65' x2='35' y2='75' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the focal length of a concave mirror that forms a real image at 40 cm when object is at 20 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी ज्ञात करें जो 20 सेमी पर रखी वस्तु का वास्तविक प्रतिबिंब 40 सेमी पर बनाता है।"
+      },
+      "option": {
+        "english": [
+          "13.33 cm",
+          "26.67 cm",
+          "40 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "13.33 सेमी",
+          "26.67 सेमी",
+          "40 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "explanation": "Using 1/f = 1/u + 1/v = 1/20 + 1/40 = 3/40, f = 13.33 cm",
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A 2 cm tall object gives a 6 cm tall real image. If u = 10 cm, find v.",
+        "hindi": "2 सेमी ऊंची वस्तु 6 सेमी ऊंचा वास्तविक प्रतिबिंब बनाती है। यदि u = 10 सेमी है, तो v ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "30 cm",
+          "-30 cm",
+          "20 cm",
+          "-20 cm"
+        ],
+        "hindi": [
+          "30 सेमी",
+          "-30 सेमी",
+          "20 सेमी",
+          "-20 सेमी"
+        ]
+      },
+      "answer": 0,
+      "explanation": "Using m = -v/u = -h₂/h₁, -3 = -v/10, v = 30 cm",
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the type of mirror and image formation in the given ray diagram:",
+        "hindi": "दिए गए किरण आरेख में दर्पण का प्रकार और प्रतिबिंब निर्माण की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Concave mirror, real image",
+          "Convex mirror, virtual image",
+          "Plane mirror, virtual image",
+          "Concave mirror, virtual image"
+        ],
+        "hindi": [
+          "अवतल दर्पण, वास्तविक प्रतिबिंब",
+          "उत्तल दर्पण, आभासी प्रतिबिंब",
+          "समतल दर्पण, आभासी प्रतिबिंब",
+          "अवतल दर्पण, आभासी प्रतिबिंब"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='65' stroke='red' stroke-dasharray='2'/><circle cx='25' cy='75' r='2'/><text x='20' y='70'>F</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In the given periscope setup, what is the final direction of light ray?",
+        "hindi": "दिए गए पेरिस्कोप सेटअप में, प्रकाश किरण की अंतिम दिशा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Parallel to incident ray",
+          "Perpendicular to incident ray",
+          "Opposite to incident ray",
+          "At 45° to incident ray"
+        ],
+        "hindi": [
+          "आपतित किरण के समानांतर",
+          "आपतित किरण के लंबवत",
+          "आपतित किरण के विपरीत",
+          "आपतित किरण से 45° पर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='150' y2='50' stroke='black'/><line x1='150' y1='50' x2='150' y2='150' stroke='black'/><line x1='150' y1='150' x2='250' y2='150' stroke='black'/><line x1='75' y1='25' x2='150' y2='50' stroke='blue'/><line x1='150' y1='50' x2='150' y2='150' stroke='red'/><line x1='150' y1='150' x2='225' y2='175' stroke='green'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "For the given combination of mirrors at 60°, find the number of images formed:",
+        "hindi": "60° पर रखे गए दर्पणों के संयोजन के लिए, बनने वाले प्रतिबिंबों की संख्या ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "5",
+          "6",
+          "4",
+          "3"
+        ],
+        "hindi": [
+          "5",
+          "6",
+          "4",
+          "3"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='150' y1='75' x2='250' y2='125' stroke='black'/><circle cx='175' cy='50' r='2' fill='blue'/><circle cx='175' cy='100' r='2' fill='red' stroke-dasharray='2'/><circle cx='125' cy='50' r='2' fill='red' stroke-dasharray='2'/><circle cx='125' cy='100' r='2' fill='red' stroke-dasharray='2'/><circle cx='200' cy='75' r='2' fill='red' stroke-dasharray='2'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror of focal length 15 cm is used in a solar cooker. At what distance should the cooking vessel be placed for maximum efficiency?",
+        "hindi": "15 सेमी फोकस दूरी वाले अवतल दर्पण का उपयोग सौर कुकर में किया जाता है। अधिकतम दक्षता के लिए खाना पकाने का बर्तन किस दूरी पर रखा जाना चाहिए?"
+      },
+      "option": {
+        "english": [
+          "15 cm",
+          "30 cm",
+          "45 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "15 सेमी",
+          "30 सेमी",
+          "45 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+ 
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a beauty parlor mirror setup, if object distance is 5 cm and focal length is 15 cm, what is the nature and size of image?",
+        "hindi": "ब्यूटी पार्लर के दर्पण सेटअप में, यदि वस्तु दूरी 5 सेमी और फोकस दूरी 15 सेमी है, तो प्रतिबिंब की प्रकृति और आकार क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "Virtual and 3 times enlarged",
+          "Real and 3 times enlarged",
+          "Virtual and 2 times enlarged",
+          "Real and 2 times enlarged"
+        ],
+        "hindi": [
+          "आभासी और 3 गुना बड़ा",
+          "वास्तविक और 3 गुना बड़ा",
+          "आभासी और 2 गुना बड़ा",
+          "वास्तविक और 2 गुना बड़ा"
+        ]
+      },
+      "answer": 0,
+     
+      "image": null,
+      "medium": "hard"
+    }
+  ]

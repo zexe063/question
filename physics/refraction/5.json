@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a swimming pool appear shallower from above but deeper from inside?",
+        "hindi": "स्विमिंग पूल ऊपर से कम गहरा लेकिन अंदर से अधिक गहरा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Different refractive indices for different views",
+          "Water pressure effect",
+          "Optical illusion",
+          "Pool design"
+        ],
+        "hindi": [
+          "विभिन्न दृश्यों के लिए विभिन्न अपवर्तनांक",
+          "जल दाब का प्रभाव",
+          "प्रकाशीय भ्रम",
+          "पूल डिजाइन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers need cladding of lower refractive index?",
+        "hindi": "प्रकाशिक तंतुओं को कम अपवर्तनांक के आवरण की आवश्यकता क्यों होती है?"
+      },
+      "option": {
+        "english": [
+          "For total internal reflection",
+          "For protection",
+          "For flexibility",
+          "For strength"
+        ],
+        "hindi": [
+          "पूर्ण आंतरिक परावर्तन के लिए",
+          "सुरक्षा के लिए",
+          "लचीलेपन के लिए",
+          "मजबूती के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a lens form different colored images at different positions?",
+        "hindi": "लेंस विभिन्न स्थितियों पर विभिन्न रंगों के प्रतिबिंब क्यों बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Due to dispersion",
+          "Due to reflection",
+          "Due to absorption",
+          "Due to scattering"
+        ],
+        "hindi": [
+          "वर्णविक्षेपण के कारण",
+          "परावर्तन के कारण",
+          "अवशोषण के कारण",
+          "प्रकीर्णन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from diamond(n=2.42) to glass(n=1.5). If angle of incidence is 20°, angle of refraction is:",
+        "hindi": "एक किरण हीरे(n=2.42) से कांच(n=1.5) में जाती है। यदि आपतन कोण 20° है, तो अपवर्तन कोण है:"
+      },
+      "option": {
+        "english": [
+          "33.1°",
+          "20°",
+          "25°",
+          "40°"
+        ],
+        "hindi": [
+          "33.1°",
+          "20°",
+          "25°",
+          "40°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A glass slab of thickness 3cm shifts a ray by 1cm. If angle of incidence is 45°, refractive index is:",
+        "hindi": "3सेमी मोटी कांच की सिल्ली एक किरण को 1सेमी विस्थापित करती है। यदि आपतन कोण 45° है, तो अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "1.5",
+          "1.33",
+          "1.7",
+          "2.0"
+        ],
+        "hindi": [
+          "1.5",
+          "1.33",
+          "1.7",
+          "2.0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of image at infinity by a convex lens?",
+        "hindi": "कौन सा किरण आरेख उत्तल लेंस द्वारा अनंत पर प्रतिबिंब का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Object at F",
+          "Object at 2F",
+          "Object beyond 2F",
+          "Object within F"
+        ],
+        "hindi": [
+          "वस्तु F पर",
+          "वस्तु 2F पर",
+          "वस्तु 2F से परे",
+          "वस्तु F के भीतर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of rainbow?",
+        "hindi": "कौन सा किरण आरेख इंद्रधनुष का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Dispersion + TIR + Refraction",
+          "Only dispersion",
+          "Only reflection",
+          "Only refraction"
+        ],
+        "hindi": [
+          "वर्णविक्षेपण + पूर्ण आंतरिक परावर्तन + अपवर्तन",
+          "केवल वर्णविक्षेपण",
+          "केवल परावर्तन",
+          "केवल अपवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><path d='M100,75 Q150,25 200,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of mirage?",
+        "hindi": "कौन सा किरण आरेख मृगतृष्णा का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Total internal reflection in air",
+          "Normal reflection",
+          "Simple refraction",
+          "Dispersion"
+        ],
+        "hindi": [
+          "वायु में पूर्ण आंतरिक परावर्तन",
+          "सामान्य परावर्तन",
+          "सरल अपवर्तन",
+          "वर्णविक्षेपण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,25 Q150,75 250,25' stroke='black' fill='none'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='50' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A convex lens forms an image 4 times the object size. If f=10cm, object distance is:",
+        "hindi": "एक उत्तल लेंस वस्तु से 4 गुना बड़ा प्रतिबिंब बनाता है। यदि f=10सेमी है, तो वस्तु दूरी है:"
+      },
+      "option": {
+        "english": [
+          "12.5 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "12.5 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope, if tube length is 15cm and focal lengths are 2mm and 5cm, total magnification is:",
+        "hindi": "एक सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 15सेमी और फोकस दूरियां 2मिमी और 5सेमी हैं, तो कुल आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "300",
+          "150",
+          "450",
+          "600"
+        ],
+        "hindi": [
+          "300",
+          "150",
+          "450",
+          "600"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

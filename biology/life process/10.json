@@ -1,0 +1,232 @@
+[
+  {
+    "question_name": {
+      "english": "What is the function of heart valves?",
+      "hindi": "हृदय वाल्व का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Prevent backflow",
+        "Pump blood",
+        "Filter blood",
+        "Mix blood"
+      ],
+      "hindi": [
+        "रक्त का उल्टा बहाव रोकना",
+        "रक्त पंप करना",
+        "रक्त छानना",
+        "रक्त मिश्रित करना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which process helps in water absorption in roots?",
+      "hindi": "जड़ों में जल अवशोषण में कौन सी प्रक्रिया सहायक है?"
+    },
+    "option": {
+      "english": [
+        "Osmosis",
+        "Active transport",
+        "Transpiration",
+        "Diffusion"
+      ],
+      "hindi": [
+        "परासरण",
+        "सक्रिय परिवहन",
+        "वाष्पोत्सर्जन",
+        "विसरण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of nephrons?",
+      "hindi": "नेफ्रॉन का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Store urine",
+        "Produce hormones",
+        "Transport minerals",
+        "Filter blood"
+      ],
+      "hindi": [
+        "मूत्र संग्रह",
+        "हार्मोन उत्पादन",
+        "खनिज परिवहन",
+        "रक्त छानना"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which organ stores glycogen?",
+      "hindi": "ग्लाइकोजन का संग्रह किस अंग में होता है?"
+    },
+    "option": {
+      "english": [
+        "Pancreas",
+        "Stomach",
+        "Liver",
+        "Kidney"
+      ],
+      "hindi": [
+        "अग्न्याशय",
+        "आमाशय",
+        "यकृत",
+        "गुर्दा"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the role of bile in digestion?",
+      "hindi": "पाचन में पित्त की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Emulsify fats",
+        "Break fats",
+        "Absorb minerals",
+        "Digest proteins"
+      ],
+      "hindi": [
+        "वसा का पायसीकरण",
+        "वसा तोड़ना",
+        "खनिज अवशोषित करना",
+        "प्रोटीन पचाना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What causes the cardiac cycle?",
+      "hindi": "हृदय चक्र किस कारण होता है?"
+    },
+    "option": {
+      "english": [
+        "Blood pressure",
+        "Hormones",
+        "Nervous system",
+        "Electrical signals"
+      ],
+      "hindi": [
+        "रक्तचाप",
+        "हार्मोन",
+        "तंत्रिका तंत्र",
+        "विद्युत संकेत"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "How do plants transport sugar?",
+      "hindi": "पौधे शर्करा का परिवहन कैसे करते हैं?"
+    },
+    "option": {
+      "english": [
+        "By osmosis",
+        "Through phloem",
+        "By diffusion",
+        "Through xylem"
+      ],
+      "hindi": [
+        "परासरण द्वारा",
+        "फ्लोएम द्वारा",
+        "विसरण द्वारा",
+        "जाइलम द्वारा"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What regulates breathing rate?",
+      "hindi": "श्वसन दर को क्या नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Carbon dioxide level",
+        "Oxygen level",
+        "Brain stem",
+        "All of these"
+      ],
+      "hindi": [
+        "कार्बन डाइऑक्साइड स्तर",
+        "ऑक्सीजन स्तर",
+        "मस्तिष्क स्तंभ",
+        "ये सभी"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What causes atherosclerosis?",
+      "hindi": "धमनी कठोरता किस कारण होती है?"
+    },
+    "option": {
+      "english": [
+        "Fat deposits",
+        "Blood clots",
+        "Multiple factors",
+        "High blood pressure"
+      ],
+      "hindi": [
+        "वसा जमाव",
+        "रक्त के थक्के",
+        "कई कारक",
+        "उच्च रक्तचाप"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "How is blood osmotic pressure maintained?",
+      "hindi": "रक्त का परासरणी दाब कैसे बना रहता है?"
+    },
+    "option": {
+      "english": [
+        "By glucose",
+        "By minerals",
+        "By proteins",
+        "By all of these"
+      ],
+      "hindi": [
+        "ग्लूकोज द्वारा",
+        "खनिज द्वारा",
+        "प्रोटीन द्वारा",
+        "इन सभी द्वारा"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard"
+  }
+]

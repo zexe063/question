@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is hydroelectric power?",
+        "hindi": "जलविद्युत शक्ति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Power from wind",
+          "Power from falling water",
+          "Power from sun",
+          "Power from coal"
+        ],
+        "hindi": [
+          "हवा से शक्ति",
+          "गिरते पानी से शक्ति",
+          "सूर्य से शक्ति",
+          "कोयले से शक्ति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main fuel in thermal power plants?",
+        "hindi": "थर्मल पावर प्लांट में मुख्य ईंधन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Water",
+          "Coal",
+          "Wind",
+          "Sunlight"
+        ],
+        "hindi": [
+          "पानी",
+          "कोयला",
+          "हवा",
+          "सूर्य का प्रकाश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is not a fossil fuel?",
+        "hindi": "कौन सा जीवाश्म ईंधन नहीं है?"
+      },
+      "option": {
+        "english": [
+          "Coal",
+          "Petroleum",
+          "Wood",
+          "Natural gas"
+        ],
+        "hindi": [
+          "कोयला",
+          "पेट्रोलियम",
+          "लकड़ी",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is needed for biogas production?",
+        "hindi": "बायोगैस उत्पादन के लिए क्या आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Sunlight",
+          "Wind",
+          "Animal waste",
+          "Coal"
+        ],
+        "hindi": [
+          "सूर्य का प्रकाश",
+          "हवा",
+          "पशु अपशिष्ट",
+          "कोयला"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main advantage of hydropower?",
+        "hindi": "जलविद्युत का मुख्य लाभ क्या है?"
+      },
+      "option": {
+        "english": [
+          "Very cheap",
+          "Always available",
+          "No pollution",
+          "Easy to build"
+        ],
+        "hindi": [
+          "बहुत सस्ता",
+          "हमेशा उपलब्ध",
+          "कोई प्रदूषण नहीं",
+          "बनाने में आसान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of energy is stored in coal?",
+        "hindi": "कोयले में किस प्रकार की ऊर्जा संग्रहित होती है?"
+      },
+      "option": {
+        "english": [
+          "Kinetic",
+          "Chemical",
+          "Nuclear",
+          "Electrical"
+        ],
+        "hindi": [
+          "गतिज",
+          "रासायनिक",
+          "नाभिकीय",
+          "विद्युत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which device converts solar energy to electricity?",
+        "hindi": "कौन सा उपकरण सौर ऊर्जा को विद्युत में बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Solar cell",
+          "Wind mill",
+          "Generator",
+          "Battery"
+        ],
+        "hindi": [
+          "सौर सेल",
+          "पवन चक्की",
+          "जनरेटर",
+          "बैटरी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is wind energy not reliable?",
+        "hindi": "पवन ऊर्जा विश्वसनीय क्यों नहीं है?"
+      },
+      "option": {
+        "english": [
+          "Too expensive",
+          "Difficult to build",
+          "Wind speed varies",
+          "Takes more space"
+        ],
+        "hindi": [
+          "बहुत महंगी",
+          "बनाने में कठिन",
+          "हवा की गति बदलती है",
+          "अधिक जगह लेती है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main problem with nuclear energy?",
+        "hindi": "नाभिकीय ऊर्जा की मुख्य समस्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "Low power output",
+          "Radioactive waste",
+          "High cost",
+          "Difficult operation"
+        ],
+        "hindi": [
+          "कम बिजली उत्पादन",
+          "रेडियोधर्मी कचरा",
+          "उच्च लागत",
+          "कठिन संचालन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source has least environmental impact?",
+        "hindi": "किस ऊर्जा स्रोत का पर्यावरण पर सबसे कम प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear",
+          "Coal",
+          "Wind",
+          "Oil"
+        ],
+        "hindi": [
+          "नाभिकीय",
+          "कोयला",
+          "पवन",
+          "तेल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

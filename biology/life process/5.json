@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of epiglottis?",
+        "hindi": "एपिग्लोटिस का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Produces saliva",
+          "Prevents food entering windpipe",
+          "Helps in swallowing",
+          "Produces mucus"
+        ],
+        "hindi": [
+          "लार उत्पन्न करता है",
+          "भोजन को श्वास नली में जाने से रोकता है",
+          "निगलने में मदद करता है",
+          "श्लेष्मा उत्पन्न करता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of nephron filters blood?",
+        "hindi": "नेफ्रॉन का कौन सा भाग रक्त को छानता है?"
+      },
+      "option": {
+        "english": [
+          "Bowman's capsule",
+          "Collecting duct",
+          "Loop of Henle",
+          "Tubules"
+        ],
+        "hindi": [
+          "बोमन संपुट",
+          "संग्रही नलिका",
+          "हेनले का लूप",
+          "नलिकाएं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of mucus in stomach?",
+        "hindi": "आमाशय में श्लेष्मा की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Digests food",
+          "Kills bacteria",
+          "Protects stomach wall",
+          "Absorbs nutrients"
+        ],
+        "hindi": [
+          "भोजन पचाता है",
+          "जीवाणुओं को मारता है",
+          "आमाशय की दीवार की रक्षा करता है",
+          "पोषक तत्व अवशोषित करता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of alveoli?",
+        "hindi": "वायु कूपिकाओं का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Filter air",
+          "Warm air",
+          "Gas exchange",
+          "Produce mucus"
+        ],
+        "hindi": [
+          "वायु छानना",
+          "वायु गरम करना",
+          "गैसों का आदान-प्रदान",
+          "श्लेष्मा उत्पन्न करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which enzyme breaks down fats?",
+        "hindi": "कौन सा एंजाइम वसा को तोड़ता है?"
+      },
+      "option": {
+        "english": [
+          "Amylase",
+          "Pepsin",
+          "Lipase",
+          "Trypsin"
+        ],
+        "hindi": [
+          "एमाइलेज",
+          "पेप्सिन",
+          "लाइपेज",
+          "ट्रिप्सिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during systole?",
+        "hindi": "सिस्टोल के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Heart relaxes",
+          "Ventricles contract",
+          "Blood pressure drops",
+          "Valves close"
+        ],
+        "hindi": [
+          "हृदय शिथिल होता है",
+          "निलय संकुचित होते हैं",
+          "रक्तचाप घटता है",
+          "वाल्व बंद होते हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How do plants transport water against gravity?",
+        "hindi": "पौधे गुरुत्वाकर्षण के विरुद्ध जल का परिवहन कैसे करते हैं?"
+      },
+      "option": {
+        "english": [
+          "Root pressure only",
+          "Transpiration pull only",
+          "Both root pressure and transpiration",
+          "Osmotic pressure"
+        ],
+        "hindi": [
+          "केवल मूल दाब",
+          "केवल वाष्पोत्सर्जन खिंचाव",
+          "मूल दाब और वाष्पोत्सर्जन दोनों",
+          "परासरणी दाब"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of ATP in active transport?",
+        "hindi": "सक्रिय परिवहन में ATP की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Provides energy",
+          "Forms membrane",
+          "Makes proteins",
+          "Controls pressure"
+        ],
+        "hindi": [
+          "ऊर्जा प्रदान करता है",
+          "झिल्ली बनाता है",
+          "प्रोटीन बनाता है",
+          "दाब नियंत्रित करता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does blood pressure remain high in arteries?",
+        "hindi": "धमनियों में रक्तचाप अधिक क्यों रहता है?"
+      },
+      "option": {
+        "english": [
+          "Due to thin walls",
+          "Due to elastic nature and narrow lumen",
+          "Due to blood volume",
+          "Due to gravity"
+        ],
+        "hindi": [
+          "पतली दीवारों के कारण",
+          "लोचदार प्रकृति और संकीर्ण गुहा के कारण",
+          "रक्त मात्रा के कारण",
+          "गुरुत्वाकर्षण के कारण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes autoregulation of blood flow?",
+        "hindi": "रक्त प्रवाह का स्वतः नियमन किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Nervous system",
+          "Hormones",
+          "Local tissue needs",
+          "Blood pressure"
+        ],
+        "hindi": [
+          "तंत्रिका तंत्र",
+          "हार्मोन",
+          "स्थानीय ऊतक की आवश्यकताएं",
+          "रक्तचाप"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

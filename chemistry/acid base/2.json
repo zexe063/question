@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of the following salts has water of crystallization?",
+        "hindi": "निम्नलिखित में से किस लवण में क्रिस्टलीकरण का जल होता है?"
+      },
+      "option": {
+        "english": [
+          "NaCl",
+          "Na₂CO₃",
+          "KCl",
+          "Na₂CO₃·10H₂O"
+        ],
+        "hindi": [
+          "NaCl",
+          "Na₂CO₃",
+          "KCl",
+          "Na₂CO₃·10H₂O"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The acid present in sour milk (curd) is:",
+        "hindi": "खट्टे दूध (दही) में उपस्थित अम्ल है:"
+      },
+      "option": {
+        "english": [
+          "Citric acid",
+          "Lactic acid",
+          "Tartaric acid",
+          "Acetic acid"
+        ],
+        "hindi": [
+          "साइट्रिक अम्ल",
+          "लैक्टिक अम्ल",
+          "टार्टरिक अम्ल",
+          "एसीटिक अम्ल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A solution turns red litmus blue and phenolphthalein pink. The solution is:",
+        "hindi": "एक विलयन लाल लिटमस को नीला और फिनॉल्फ्थेलीन को गुलाबी करता है। विलयन है:"
+      },
+      "option": {
+        "english": [
+          "Basic",
+          "Acidic",
+          "Neutral",
+          "Cannot be determined"
+        ],
+        "hindi": [
+          "क्षारीय",
+          "अम्लीय",
+          "उदासीन",
+          "निर्धारित नहीं किया जा सकता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "When zinc metal reacts with sodium hydroxide, the compound formed is:",
+        "hindi": "जब जिंक धातु सोडियम हाइड्रॉक्साइड से अभिक्रिया करती है, तो बनने वाला यौगिक है:"
+      },
+      "option": {
+        "english": [
+          "Zinc oxide",
+          "Sodium zincate",
+          "Sodium zinc hydroxide",
+          "Zinc hydroxide"
+        ],
+        "hindi": [
+          "जिंक ऑक्साइड",
+          "सोडियम जिंकेट",
+          "सोडियम जिंक हाइड्रॉक्साइड",
+          "जिंक हाइड्रॉक्साइड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The pH value of human blood is:",
+        "hindi": "मानव रक्त का pH मान है:"
+      },
+      "option": {
+        "english": [
+          "6.5",
+          "8.5",
+          "7.0",
+          "7.4"
+        ],
+        "hindi": [
+          "6.5",
+          "8.5",
+          "7.0",
+          "7.4"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt produces hydroxide ions in water?",
+        "hindi": "कौन सा लवण जल में हाइड्रॉक्साइड आयन उत्पन्न करता है?"
+      },
+      "option": {
+        "english": [
+          "KCl",
+          "NH₄Cl",
+          "NaCl",
+          "CH₃COONa"
+        ],
+        "hindi": [
+          "KCl",
+          "NH₄Cl",
+          "NaCl",
+          "CH₃COONa"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "On adding dilute HCl to copper oxide, the color of the solution becomes:",
+        "hindi": "तनु HCl को कॉपर ऑक्साइड में मिलाने पर विलयन का रंग हो जाता है:"
+      },
+      "option": {
+        "english": [
+          "Colorless",
+          "Blue-green",
+          "Red",
+          "Yellow"
+        ],
+        "hindi": [
+          "रंगहीन",
+          "नीला-हरा",
+          "लाल",
+          "पीला"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which indicator is suitable for distinguishing a strong acid from a weak acid?",
+        "hindi": "प्रबल अम्ल को दुर्बल अम्ल से पहचानने के लिए कौन सा सूचक उपयुक्त है?"
+      },
+      "option": {
+        "english": [
+          "Phenolphthalein",
+          "Red litmus",
+          "Methyl orange",
+          "Blue litmus"
+        ],
+        "hindi": [
+          "फिनॉल्फ्थेलीन",
+          "लाल लिटमस",
+          "मिथाइल ऑरेंज",
+          "नीला लिटमस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the hydronium ion (H₃O⁺) concentration in a solution of pH = 3?",
+        "hindi": "pH = 3 वाले विलयन में हाइड्रोनियम आयन (H₃O⁺) की सांद्रता क्या होगी?"
+      },
+      "option": {
+        "english": [
+          "1 × 10⁻³ M",
+          "3 × 10⁻³ M",
+          "1 × 10⁻⁴ M",
+          "1 × 10⁻² M"
+        ],
+        "hindi": [
+          "1 × 10⁻³ M",
+          "3 × 10⁻³ M",
+          "1 × 10⁻⁴ M",
+          "1 × 10⁻² M"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which among the following is an example of a neutral salt?",
+        "hindi": "निम्नलिखित में से कौन उदासीन लवण का उदाहरण है?"
+      },
+      "option": {
+        "english": [
+          "NaCl",
+          "Na₂CO₃",
+          "NH₄Cl",
+          "CH₃COONa"
+        ],
+        "hindi": [
+          "NaCl",
+          "Na₂CO₃",
+          "NH₄Cl",
+          "CH₃COONa"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

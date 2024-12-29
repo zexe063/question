@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What happens in a combination reaction?",
+        "hindi": "संयोजन अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Three elements form",
+          "Two or more combine",
+          "One element breaks",
+          "No change occurs"
+        ],
+        "hindi": [
+          "तीन तत्व बनते हैं",
+          "दो या अधिक जुड़ते हैं",
+          "एक तत्व टूटता है",
+          "कोई परिवर्तन नहीं होता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which equation represents a balanced chemical equation?",
+        "hindi": "कौन सा समीकरण संतुलित रासायनिक समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → H₂O",
+          "3H₂ + O₂ → 2H₂O",
+          "H₂ + 2O₂ → H₂O"
+        ],
+        "hindi": [
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → H₂O",
+          "3H₂ + O₂ → 2H₂O",
+          "H₂ + 2O₂ → H₂O"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is CaCO₃ → CaO + CO₂?",
+        "hindi": "CaCO₃ → CaO + CO₂ किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Displacement",
+          "Decomposition",
+          "Double displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "विस्थापन",
+          "अपघटन",
+          "द्विविस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens in an exothermic reaction?",
+        "hindi": "ऊष्माक्षेपी अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Heat is absorbed",
+          "No heat change",
+          "Temperature drops",
+          "Heat is released"
+        ],
+        "hindi": [
+          "ऊष्मा अवशोषित होती है",
+          "कोई ऊष्मा परिवर्तन नहीं",
+          "तापमान गिरता है",
+          "ऊष्मा निकलती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is oxidation?",
+        "hindi": "ऑक्सीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gain of hydrogen",
+          "Loss of electrons",
+          "Gain of electrons",
+          "Loss of oxygen"
+        ],
+        "hindi": [
+          "हाइड्रोजन की प्राप्ति",
+          "इलेक्ट्रॉन का ह्रास",
+          "इलेक्ट्रॉन की प्राप्ति",
+          "ऑक्सीजन का ह्रास"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is an example of displacement reaction?",
+        "hindi": "विस्थापन अभिक्रिया का उदाहरण कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "NaCl + AgNO₃",
+          "CaO + H₂O",
+          "Zn + CuSO₄",
+          "Na₂SO₄ + BaCl₂"
+        ],
+        "hindi": [
+          "NaCl + AgNO₃",
+          "CaO + H₂O",
+          "Zn + CuSO₄",
+          "Na₂SO₄ + BaCl₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is evolved when zinc reacts with dilute H₂SO₄?",
+        "hindi": "जब जिंक तनु H₂SO₄ से क्रिया करता है तो कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens in photosynthesis reaction?",
+        "hindi": "प्रकाश संश्लेषण अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only CO₂ used",
+          "Only H₂O used",
+          "Only O₂ produced",
+          "Glucose formed"
+        ],
+        "hindi": [
+          "केवल CO₂ प्रयुक्त",
+          "केवल H₂O प्रयुक्त",
+          "केवल O₂ उत्पन्न",
+          "ग्लूकोज बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is reduction?",
+        "hindi": "अपचयन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Loss of oxygen",
+          "Gain of electrons",
+          "Loss of electrons",
+          "Gain of oxygen"
+        ],
+        "hindi": [
+          "ऑक्सीजन का ह्रास",
+          "इलेक्ट्रॉन की प्राप्ति",
+          "इलेक्ट्रॉन का ह्रास",
+          "ऑक्सीजन की प्राप्ति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which type of reaction produces precipitate?",
+        "hindi": "किस प्रकार की अभिक्रिया में अवक्षेप बनता है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Decomposition",
+          "Precipitation",
+          "Displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "अपघटन",
+          "अवक्षेपण",
+          "विस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

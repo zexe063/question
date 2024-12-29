@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does Novaya Zemlya effect show sun above horizon?",
+        "hindi": "नोवाया ज़ेम्ल्या प्रभाव क्षितिज के ऊपर सूर्य को क्यों दिखाता है?"
+      },
+      "option": {
+        "english": [
+          "Ducting in temperature inversion",
+          "Simple refraction",
+          "Normal reflection",
+          "Scattering only"
+        ],
+        "hindi": [
+          "तापमान उत्क्रमण में डक्टिंग",
+          "सरल अपवर्तन",
+          "सामान्य परावर्तन",
+          "केवल प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do metamaterial fibers show negative refraction?",
+        "hindi": "मेटामटीरियल तंतु ऋणात्मक अपवर्तन क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Engineered permittivity/permeability",
+          "Core material only",
+          "Cladding only",
+          "Length effect"
+        ],
+        "hindi": [
+          "अभियांत्रिकी परावैद्युतांक/पारगम्यता",
+          "केवल क्रोड पदार्थ",
+          "केवल आवरण",
+          "लंबाई प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does distortion vary with aperture position?",
+        "hindi": "विरूपण द्वारक की स्थिति के साथ क्यों बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Chief ray angle variation",
+          "Light intensity",
+          "Temperature effect",
+          "Pressure change"
+        ],
+        "hindi": [
+          "मुख्य किरण कोण परिवर्तन",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "दाब परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Twelve media with refractive indices following Narayana sequence (first three=1.2,1.3,1.5). If i₁=45°, final angle is:",
+        "hindi": "बारह माध्यम जिनके अपवर्तनांक नारायण श्रेढ़ी का अनुसरण करते हैं (पहले तीन=1.2,1.3,1.5)। यदि i₁=45° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "12.8°",
+          "15°",
+          "10°",
+          "18°"
+        ],
+        "hindi": [
+          "12.8°",
+          "15°",
+          "10°",
+          "18°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope, if magnification varies as elliptic function of tube length, the relationship is:",
+        "hindi": "सूक्ष्मदर्शी में, यदि आवर्धन ट्यूब लंबाई के दीर्घवृत्तीय फलन के रूप में बदलता है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m = k sn(L)",
+          "m = k cn(L)",
+          "m = k dn(L)",
+          "m = k am(L)"
+        ],
+        "hindi": [
+          "m = k sn(L)",
+          "m = k cn(L)",
+          "m = k dn(L)",
+          "m = k am(L)"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Hastings arc?",
+        "hindi": "कौन सा किरण आरेख हेस्टिंग्स चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Pyramid-plate combination",
+          "Simple pyramid",
+          "Simple plate",
+          "Random crystal"
+        ],
+        "hindi": [
+          "पिरामिड-प्लेट संयोजन",
+          "सरल पिरामिड",
+          "सरल प्लेट",
+          "यादृच्छिक क्रिस्टल"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M150,25 L100,75 L200,75 Z' stroke='black' fill='none'/><rect x='125' y='85' width='50' height='10' stroke='black' fill='none'/><path d='M100,50 Q150,100 200,50' stroke='red' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Ulloa circle?",
+        "hindi": "कौन सा किरण आरेख उल्लोआ वृत्त का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Anti-corona diffraction",
+          "Simple diffraction",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "प्रति-प्रभामंडल विवर्तन",
+          "सरल विवर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><circle cx='150' cy='75' r='30' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Bravais arc?",
+        "hindi": "कौन सा किरण आरेख ब्रावे चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple plate reflection",
+          "Single plate",
+          "Simple column",
+          "Random crystal"
+        ],
+        "hindi": [
+          "बहु प्लेट परावर्तन",
+          "एकल प्लेट",
+          "सरल स्तंभ",
+          "यादृच्छिक क्रिस्टल"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='125' y='50' width='50' height='10' stroke='black' fill='none'/><rect x='125' y='70' width='50' height='10' stroke='black' fill='none'/><path d='M100,25 Q150,125 200,25' stroke='red' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Twelve thin lenses of powers forming Tetranacci sequence (first four=+2D,+3D,+4D,+5D) are separated by 4cm each. Net power is:",
+        "hindi": "बारह पतले लेंस जिनकी क्षमताएं टेट्रानाची श्रेढ़ी बनाती हैं (पहले चार=+2D,+3D,+4D,+5D), 4सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+18.5D",
+          "+16D",
+          "+19D",
+          "+20D"
+        ],
+        "hindi": [
+          "+18.5D",
+          "+16D",
+          "+19D",
+          "+20D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope with nine elements, if angular magnification is 5000 and eyepiece focal length is 2mm, product of objective focal lengths is:",
+        "hindi": "नौ तत्वों वाली दूरबीन में, यदि कोणीय आवर्धन 5000 और नेत्रिका की फोकस दूरी 2मिमी है, तो अभिदृश्यक फोकस दूरियों का गुणनफल है:"
+      },
+      "option": {
+        "english": [
+          "50m",
+          "45m",
+          "55m",
+          "60m"
+        ],
+        "hindi": [
+          "50मी",
+          "45मी",
+          "55मी",
+          "60मी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

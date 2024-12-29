@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gas is essential for photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण के लिए कौन सी गैस आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen",
+          "Helium"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "हीलियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of pollinators?",
+        "hindi": "परागणकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Eat plants",
+          "Plant reproduction",
+          "Kill plants",
+          "Damage flowers"
+        ],
+        "hindi": [
+          "पौधों को खाना",
+          "पौधों का प्रजनन",
+          "पौधों को मारना",
+          "फूलों को नुकसान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of acid rain?",
+        "hindi": "अम्ल वर्षा का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Plant growth",
+          "Soil health",
+          "Clean water",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "पौधों की वृद्धि",
+          "मिट्टी का स्वास्थ्य",
+          "स्वच्छ जल",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is bioremediation?",
+        "hindi": "जैव उपचार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Soil damage",
+          "Water pollution",
+          "Pollution cleanup",
+          "Air pollution"
+        ],
+        "hindi": [
+          "मिट्टी क्षति",
+          "जल प्रदूषण",
+          "प्रदूषण सफाई",
+          "वायु प्रदूषण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a biodegradable material?",
+        "hindi": "जैव-निम्नीकरणीय पदार्थ कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Paper",
+          "Plastic",
+          "Metal",
+          "Glass"
+        ],
+        "hindi": [
+          "कागज",
+          "प्लास्टिक",
+          "धातु",
+          "कांच"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of overfishing?",
+        "hindi": "अति-मत्स्यन का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "More fish",
+          "Better marine life",
+          "Healthy oceans",
+          "Species extinction"
+        ],
+        "hindi": [
+          "अधिक मछलियां",
+          "बेहतर समुद्री जीवन",
+          "स्वस्थ महासागर",
+          "प्रजाति विलुप्ति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is organic farming?",
+        "hindi": "जैविक खेती क्या है?"
+      },
+      "option": {
+        "english": [
+          "Chemical farming",
+          "Natural farming",
+          "Industrial farming",
+          "Synthetic farming"
+        ],
+        "hindi": [
+          "रासायनिक खेती",
+          "प्राकृतिक खेती",
+          "औद्योगिक खेती",
+          "कृत्रिम खेती"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of green belt?",
+        "hindi": "हरित पट्टी का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Decoration",
+          "Tourism",
+          "Pollution control",
+          "Entertainment"
+        ],
+        "hindi": [
+          "सजावट",
+          "पर्यटन",
+          "प्रदूषण नियंत्रण",
+          "मनोरंजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural carbon sink?",
+        "hindi": "प्राकृतिक कार्बन सिंक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Forest",
+          "Factory",
+          "Vehicle",
+          "Building"
+        ],
+        "hindi": [
+          "जंगल",
+          "कारखाना",
+          "वाहन",
+          "इमारत"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of habitat loss?",
+        "hindi": "आवास हानि का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Species growth",
+          "Better survival",
+          "More animals",
+          "Species decline"
+        ],
+        "hindi": [
+          "प्रजाति वृद्धि",
+          "बेहतर जीवन",
+          "अधिक जानवर",
+          "प्रजाति गिरावट"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,210 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do we use shiny surfaces in solar cookers?",
+        "hindi": "सौर कुकर में चमकीली सतहों का उपयोग क्यों करते हैं?"
+      },
+      "option": {
+        "english": [
+          "To reflect maximum sunlight",
+          "For better appearance",
+          "To absorb heat",
+          "To reduce weight"
+        ],
+        "hindi": [
+          "अधिकतम सूर्य प्रकाश परावर्तित करने के लिए",
+          "बेहतर दिखने के लिए",
+          "ऊष्मा अवशोषित करने के लिए",
+          "वजन कम करने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see ourselves upright in a plane mirror even when we are standing on our head?",
+        "hindi": "सिर के बल खड़े होने पर भी समतल दर्पण में हम अपने आप को सीधा क्यों देखते हैं?"
+      },
+      "option": {
+        "english": [
+          "Double inversion occurs",
+          "No inversion occurs",
+          "Single inversion occurs",
+          "Mirror rotates image"
+        ],
+        "hindi": [
+          "दोहरा उल्टाव होता है",
+          "कोई उल्टाव नहीं होता",
+          "एकल उल्टाव होता है",
+          "दर्पण प्रतिबिंब को घुमाता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we prefer white or silver colored back surface in mirrors?",
+        "hindi": "दर्पणों में पीछे की सतह सफेद या चांदी रंग की क्यों पसंद की जाती है?"
+      },
+      "option": {
+        "english": [
+          "Maximum reflection",
+          "Better appearance",
+          "Less cost",
+          "Easy to make"
+        ],
+        "hindi": [
+          "अधिकतम परावर्तन",
+          "बेहतर दिखावट",
+          "कम लागत",
+          "बनाने में आसान"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror forms an image 5 times the object size. If f = 12 cm, find object distance.",
+        "hindi": "एक अवतल दर्पण वस्तु से 5 गुना बड़ा प्रतिबिंब बनाता है। यदि f = 12 सेमी है, तो वस्तु दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "14.4 cm",
+          "15 cm",
+          "16 cm",
+          "18 cm"
+        ],
+        "hindi": [
+          "14.4 सेमी",
+          "15 सेमी",
+          "16 सेमी",
+          "18 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><text x='95' y='70'>F</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray strikes a concave mirror at 30° to the principal axis. The angle between incident and reflected ray is:",
+        "hindi": "एक किरण मुख्य अक्ष से 30° पर अवतल दर्पण पर पड़ती है। आपतित और परावर्तित किरण के बीच का कोण है:"
+      },
+      "option": {
+        "english": [
+          "60°",
+          "30°",
+          "45°",
+          "90°"
+        ],
+        "hindi": [
+          "60°",
+          "30°",
+          "45°",
+          "90°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='50' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If focal length of a spherical mirror is increased by 20%, its radius of curvature will:",
+        "hindi": "यदि गोलीय दर्पण की फोकस दूरी 20% बढ़ाई जाए, तो इसकी वक्रता त्रिज्या:"
+      },
+      "option": {
+        "english": [
+          "Increase by 20%",
+          "Decrease by 20%",
+          "Increase by 40%",
+          "Decrease by 40%"
+        ],
+        "hindi": [
+          "20% बढ़ेगी",
+          "20% घटेगी",
+          "40% बढ़ेगी",
+          "40% घटेगी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A person walks towards a plane mirror at 2 m/s. The relative velocity between person and image is:",
+        "hindi": "एक व्यक्ति 2 मी/से की चाल से समतल दर्पण की ओर चलता है। व्यक्ति और प्रतिबिंब के बीच सापेक्ष वेग है:"
+      },
+      "option": {
+        "english": [
+          "4 m/s",
+          "2 m/s",
+          "1 m/s",
+          "0.5 m/s"
+        ],
+        "hindi": [
+          "4 मी/से",
+          "2 मी/से",
+          "1 मी/से",
+          "0.5 मी/से"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For a spherical mirror, if R→∞, then focal length f will:",
+        "hindi": "एक गोलीय दर्पण के लिए, यदि R→∞, तो फोकस दूरी f होगी:"
+      },
+      "option": {
+        "english": [
+          "Approach infinity",
+          "Become zero",
+          "Remain constant",
+          "Become negative"
+        ],
+        "hindi": [
+          "अनंत की ओर जाएगी",
+          "शून्य हो जाएगी",
+          "स्थिर रहेगी",
+          "ऋणात्मक हो जाएगी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If a mirror's surface deviates from spherical shape by less than λ/4, it will form:",
+        "hindi": "यदि दर्पण की सतह गोलीय आकार से λ/4 से कम विचलित होती है, तो वह बनाएगी:"
+      },
+      "option": {
+        "english": [
+          "Diffraction limited image",
+          "Blurred image",
+          "Multiple images",
+          "No image"
+        ],
+        "hindi": [
+          "विवर्तन सीमित प्रतिबिंब",
+          "धुंधला प्रतिबिंब",
+          "बहु प्रतिबिंब",
+          "कोई प्रतिबिंब नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

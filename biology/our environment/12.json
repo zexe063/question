@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the effect of oil spills?",
+        "hindi": "तेल रिसाव का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better marine life",
+          "Healthy ocean",
+          "Marine destruction"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर समुद्री जीवन",
+          "स्वस्थ महासागर",
+          "समुद्री विनाश"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is soil conservation?",
+        "hindi": "मृदा संरक्षण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Soil removal",
+          "Soil damage",
+          "Soil protection",
+          "Soil erosion"
+        ],
+        "hindi": [
+          "मिट्टी हटाना",
+          "मिट्टी क्षति",
+          "मिट्टी संरक्षण",
+          "मिट्टी कटाव"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is called greenhouse gas?",
+        "hindi": "किस गैस को ग्रीनहाउस गैस कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "ऑक्सीजन",
+          "हाइड्रोजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of producers in ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र में उत्पादकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Consume food",
+          "Make food",
+          "Break down",
+          "Clean water"
+        ],
+        "hindi": [
+          "भोजन खाना",
+          "भोजन बनाना",
+          "विघटन करना",
+          "जल साफ करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of plastic pollution?",
+        "hindi": "प्लास्टिक प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean environment",
+          "Better soil",
+          "Good health",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "स्वच्छ पर्यावरण",
+          "बेहतर मिट्टी",
+          "अच्छा स्वास्थ्य",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a renewable energy source?",
+        "hindi": "नवीकरणीय ऊर्जा स्रोत कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "hindi": [
+          "सौर ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is watershed management?",
+        "hindi": "जलग्रहण प्रबंधन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Water waste",
+          "Water pollution",
+          "Water conservation",
+          "Water removal"
+        ],
+        "hindi": [
+          "जल बर्बादी",
+          "जल प्रदूषण",
+          "जल संरक्षण",
+          "जल निकासी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is sustainable agriculture?",
+        "hindi": "सतत कृषि क्या है?"
+      },
+      "option": {
+        "english": [
+          "Harmful farming",
+          "Balanced farming",
+          "Chemical farming",
+          "Destructive farming"
+        ],
+        "hindi": [
+          "हानिकारक खेती",
+          "संतुलित खेती",
+          "रासायनिक खेती",
+          "विनाशकारी खेती"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of climate change?",
+        "hindi": "जलवायु परिवर्तन का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better weather",
+          "Normal climate",
+          "Good environment",
+          "Global impact"
+        ],
+        "hindi": [
+          "बेहतर मौसम",
+          "सामान्य जलवायु",
+          "अच्छा पर्यावरण",
+          "वैश्विक प्रभाव"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which process helps in soil formation?",
+        "hindi": "मृदा निर्माण में कौन सी प्रक्रिया मदद करती है?"
+      },
+      "option": {
+        "english": [
+          "Weathering",
+          "Erosion",
+          "Mining",
+          "Burning"
+        ],
+        "hindi": [
+          "अपक्षय",
+          "कटाव",
+          "खनन",
+          "जलना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

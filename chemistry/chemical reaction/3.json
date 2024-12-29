@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the balanced equation for water formation?",
+        "hindi": "जल निर्माण का संतुलित समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → H₂O",
+          "H₂ + O → H₂O",
+          "2H + O₂ → H₂O"
+        ],
+        "hindi": [
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → H₂O",
+          "H₂ + O → H₂O",
+          "2H + O₂ → H₂O"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is AgNO₃ + NaCl → AgCl + NaNO₃?",
+        "hindi": "AgNO₃ + NaCl → AgCl + NaNO₃ किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Decomposition",
+          "Double displacement",
+          "Single displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "अपघटन",
+          "द्विविस्थापन",
+          "एकल विस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when CuSO₄ solution reacts with iron?",
+        "hindi": "जब CuSO₄ विलयन लोहे से अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Gas evolution",
+          "Color remains",
+          "Blue color fades"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "गैस निकलती है",
+          "रंग रहता है",
+          "नीला रंग फीका पड़ता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of catalyst in a reaction?",
+        "hindi": "अभिक्रिया में उत्प्रेरक की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Slows reaction",
+          "Changes speed",
+          "Stops reaction",
+          "No effect"
+        ],
+        "hindi": [
+          "अभिक्रिया धीमी करता है",
+          "गति बदलता है",
+          "अभिक्रिया रोकता है",
+          "कोई प्रभाव नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows photochemical reaction?",
+        "hindi": "कौन सा समीकरण प्रकाश रासायनिक अभिक्रिया दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+          "CaO + H₂O → Ca(OH)₂",
+          "2H₂ + O₂ → 2H₂O",
+          "ZnO + C → Zn + CO"
+        ],
+        "hindi": [
+          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+          "CaO + H₂O → Ca(OH)₂",
+          "2H₂ + O₂ → 2H₂O",
+          "ZnO + C → Zn + CO"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of temperature on reaction rate?",
+        "hindi": "अभिक्रिया दर पर तापमान का क्या प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Decreases rate",
+          "Stops reaction",
+          "Increases rate"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "दर घटती है",
+          "अभिक्रिया रुकती है",
+          "दर बढ़ती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which reaction produces oxygen gas?",
+        "hindi": "कौन सी अभिक्रिया ऑक्सीजन गैस उत्पन्न करती है?"
+      },
+      "option": {
+        "english": [
+          "NaCl + AgNO₃",
+          "2KClO₃ → 2KCl + 3O₂",
+          "Zn + HCl",
+          "CaCO₃ → CaO + CO₂"
+        ],
+        "hindi": [
+          "NaCl + AgNO₃",
+          "2KClO₃ → 2KCl + 3O₂",
+          "Zn + HCl",
+          "CaCO₃ → CaO + CO₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of energy change in decomposition?",
+        "hindi": "अपघटन में ऊर्जा परिवर्तन की प्रकृति क्या है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Endothermic",
+          "Exothermic",
+          "Both types"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "ऊष्माशोषी",
+          "ऊष्माक्षेपी",
+          "दोनों प्रकार"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which method is used to prevent rusting?",
+        "hindi": "जंग लगने से रोकने के लिए कौन सी विधि प्रयोग की जाती है?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Crystallization",
+          "Evaporation",
+          "Sublimation"
+        ],
+        "hindi": [
+          "जस्ताकरण",
+          "क्रिस्टलीकरण",
+          "वाष्पीकरण",
+          "ऊर्ध्वपातन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a precipitation reaction?",
+        "hindi": "अवक्षेपण अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Gas forms",
+          "Liquid forms",
+          "Solid forms",
+          "No change"
+        ],
+        "hindi": [
+          "गैस बनती है",
+          "द्रव बनता है",
+          "ठोस बनता है",
+          "कोई परिवर्तन नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

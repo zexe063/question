@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is solar thermal energy?",
+        "hindi": "सौर तापीय ऊर्जा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Energy from moon",
+          "Heat energy from sun",
+          "Energy from wind",
+          "Energy from water"
+        ],
+        "hindi": [
+          "चंद्रमा से ऊर्जा",
+          "सूर्य से ऊष्मा ऊर्जा",
+          "हवा से ऊर्जा",
+          "पानी से ऊर्जा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the working principle of solar cooker?",
+        "hindi": "सौर कुकर का कार्य सिद्धांत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Conduction",
+          "Convection",
+          "Greenhouse effect",
+          "Radiation"
+        ],
+        "hindi": [
+          "चालन",
+          "संवहन",
+          "ग्रीनहाउस प्रभाव",
+          "विकिरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which material is used in solar cells?",
+        "hindi": "सौर सेल में किस पदार्थ का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Copper",
+          "Silicon",
+          "Iron"
+        ],
+        "hindi": [
+          "सोना",
+          "तांबा",
+          "सिलिकॉन",
+          "लोहा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main component of biogas?",
+        "hindi": "बायोगैस का मुख्य घटक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon dioxide",
+          "Methane"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "हाइड्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "मीथेन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is geothermal energy?",
+        "hindi": "भू-तापीय ऊर्जा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Energy from plants",
+          "Energy from earth's heat",
+          "Energy from wind",
+          "Energy from water"
+        ],
+        "hindi": [
+          "पौधों से ऊर्जा",
+          "पृथ्वी की गर्मी से ऊर्जा",
+          "हवा से ऊर्जा",
+          "पानी से ऊर्जा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of solar cooker?",
+        "hindi": "सौर कुकर का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Fast cooking",
+          "Works at night",
+          "Saves fuel",
+          "Easy to carry"
+        ],
+        "hindi": [
+          "तेज खाना पकाना",
+          "रात में काम करता है",
+          "ईंधन बचाता है",
+          "ले जाने में आसान"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced in nuclear power plants?",
+        "hindi": "नाभिकीय ऊर्जा संयंत्रों में कौन सी गैस उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "Steam",
+          "Oxygen",
+          "Carbon dioxide",
+          "Methane"
+        ],
+        "hindi": [
+          "भाप",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "मीथेन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the main disadvantage of tidal energy?",
+        "hindi": "ज्वारीय ऊर्जा की मुख्य कमी क्या है?"
+      },
+      "option": {
+        "english": [
+          "Too expensive",
+          "Not available",
+          "Location specific",
+          "Low power"
+        ],
+        "hindi": [
+          "बहुत महंगी",
+          "उपलब्ध नहीं",
+          "स्थान विशिष्ट",
+          "कम शक्ति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is biogas plant eco-friendly?",
+        "hindi": "बायोगैस संयंत्र पर्यावरण अनुकूल क्यों है?"
+      },
+      "option": {
+        "english": [
+          "Uses expensive technology",
+          "Produces clean fuel",
+          "Needs less space",
+          "Works faster"
+        ],
+        "hindi": [
+          "महंगी तकनीक का उपयोग",
+          "स्वच्छ ईंधन उत्पन्न करता है",
+          "कम जगह की जरूरत",
+          "तेजी से काम करता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source has highest initial cost?",
+        "hindi": "किस ऊर्जा स्रोत की प्रारंभिक लागत सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Wind",
+          "Solar",
+          "Nuclear",
+          "Biogas"
+        ],
+        "hindi": [
+          "पवन",
+          "सौर",
+          "नाभिकीय",
+          "बायोगैस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

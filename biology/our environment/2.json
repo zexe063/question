@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the major cause of global warming?",
+        "hindi": "ग्लोबल वार्मिंग का प्रमुख कारण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy",
+          "Wind power",
+          "Natural cycles",
+          "Greenhouse gases"
+        ],
+        "hindi": [
+          "सौर ऊर्जा",
+          "पवन ऊर्जा",
+          "प्राकृतिक चक्र",
+          "ग्रीनहाउस गैसें"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is most abundant in air?",
+        "hindi": "वायु में कौन सी गैस सबसे अधिक मात्रा में पाई जाती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which organism makes its own food?",
+        "hindi": "कौन सा जीव अपना भोजन स्वयं बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Green plants",
+          "Animals",
+          "Fungi",
+          "Bacteria"
+        ],
+        "hindi": [
+          "हरे पौधे",
+          "जानवर",
+          "कवक",
+          "जीवाणु"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is deforestation?",
+        "hindi": "वनों की कटाई क्या है?"
+      },
+      "option": {
+        "english": [
+          "Growing trees",
+          "Protecting forests",
+          "Cutting forests",
+          "Planting trees"
+        ],
+        "hindi": [
+          "पेड़ों का बढ़ना",
+          "जंगलों की रक्षा",
+          "जंगलों की कटाई",
+          "पेड़ लगाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of plastic pollution?",
+        "hindi": "प्लास्टिक प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Healthy soil",
+          "Better air",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "स्वस्थ मिट्टी",
+          "बेहतर वायु",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a non-biodegradable waste?",
+        "hindi": "अजैव-निम्नीकरणीय कचरा कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Plastic",
+          "Food waste",
+          "Paper",
+          "Leaves"
+        ],
+        "hindi": [
+          "प्लास्टिक",
+          "खाद्य कचरा",
+          "कागज",
+          "पत्तियां"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of ozone layer?",
+        "hindi": "ओजोन परत की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "UV protection",
+          "Heat production",
+          "Rain formation",
+          "Wind control"
+        ],
+        "hindi": [
+          "पराबैंगनी संरक्षण",
+          "ऊष्मा उत्पादन",
+          "वर्षा निर्माण",
+          "वायु नियंत्रण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is sustainable development?",
+        "hindi": "सतत विकास क्या है?"
+      },
+      "option": {
+        "english": [
+          "Rapid growth",
+          "Fast development",
+          "Balanced growth",
+          "Quick progress"
+        ],
+        "hindi": [
+          "तीव्र वृद्धि",
+          "तेज विकास",
+          "संतुलित विकास",
+          "त्वरित प्रगति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes soil erosion?",
+        "hindi": "मृदा अपरदन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Tree planting",
+          "Soil conservation",
+          "Forest protection",
+          "Deforestation"
+        ],
+        "hindi": [
+          "वृक्षारोपण",
+          "मृदा संरक्षण",
+          "वन संरक्षण",
+          "वनों की कटाई"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural ecosystem?",
+        "hindi": "प्राकृतिक पारिस्थितिकी तंत्र कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Forest",
+          "Garden",
+          "Farm",
+          "Zoo"
+        ],
+        "hindi": [
+          "जंगल",
+          "बगीचा",
+          "खेत",
+          "चिड़ियाघर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

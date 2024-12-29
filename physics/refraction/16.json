@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Why does a superior mirage appear upright?",
+        "hindi": "उच्च मरीचिका सीधी क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Temperature inversion layer",
+          "Normal temperature gradient",
+          "Pressure effect",
+          "Wind effect"
+        ],
+        "hindi": [
+          "तापमान उत्क्रमण परत",
+          "सामान्य तापमान प्रवणता",
+          "दाब प्रभाव",
+          "वायु प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do graded-index fibers show less modal dispersion?",
+        "hindi": "क्रमित-सूचकांक तंतु कम मोडल विक्षेपण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Continuous ray bending",
+          "Material property",
+          "Core size",
+          "Wavelength effect"
+        ],
+        "hindi": [
+          "सतत किरण मुड़ाव",
+          "पदार्थ का गुण",
+          "क्रोड का आकार",
+          "तरंगदैर्ध्य प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does astigmatism vary with field angle?",
+        "hindi": "दृष्टिवैषम्य क्षेत्र कोण के साथ क्यों बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Different meridional focusing",
+          "Light intensity",
+          "Temperature effect",
+          "Pressure change"
+        ],
+        "hindi": [
+          "विभिन्न यामोत्तरीय फोकसन",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "दाब परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Ten media with refractive indices following Pell sequence (first two=1.2,1.4). If i₁=45°, final angle is:",
+        "hindi": "दस माध्यम जिनके अपवर्तनांक पेल श्रेढ़ी का अनुसरण करते हैं (पहले दो=1.2,1.4)। यदि i₁=45° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "15.6°",
+          "18°",
+          "14°",
+          "20°"
+        ],
+        "hindi": [
+          "15.6°",
+          "18°",
+          "14°",
+          "20°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope, if magnification varies logarithmically with tube length, the relationship is:",
+        "hindi": "संयुक्त सूक्ष्मदर्शी में, यदि आवर्धन ट्यूब लंबाई के साथ लघुगणकीय रूप से बदलता है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m = k ln(L)",
+          "m = kL",
+          "m = k/L",
+          "m = kL²"
+        ],
+        "hindi": [
+          "m = k ln(L)",
+          "m = kL",
+          "m = k/L",
+          "m = kL²"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Wegener arc?",
+        "hindi": "कौन सा किरण आरेख वेगनर चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Complex ice crystal refraction",
+          "Simple refraction",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "जटिल बर्फ क्रिस्टल अपवर्तन",
+          "सरल अपवर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,75 Q150,25 200,75' stroke='red' fill='none'/><path d='M100,75 Q150,125 200,75' stroke='blue' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Parry arc?",
+        "hindi": "कौन सा किरण आरेख पैरी चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Oriented ice crystal refraction",
+          "Random refraction",
+          "Simple reflection",
+          "No refraction"
+        ],
+        "hindi": [
+          "अभिविन्यस्त बर्फ क्रिस्टल अपवर्तन",
+          "यादृच्छिक अपवर्तन",
+          "सरल परावर्तन",
+          "कोई अपवर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 Q150,75 200,25' stroke='red' fill='none'/><path d='M100,125 Q150,75 200,125' stroke='blue' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Bottlinger's rings?",
+        "hindi": "कौन सा किरण आरेख बॉटलिंगर की वलयों का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Diffraction by stratified air",
+          "Simple diffraction",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "स्तरित वायु द्वारा विवर्तन",
+          "सरल विवर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' stroke='black' fill='none'/><circle cx='150' cy='75' r='35' stroke='red' stroke-dasharray='5,5'/><circle cx='150' cy='75' r='50' stroke='blue' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Ten thin lenses of powers forming harmonic sequence (first=+6D, d=0.1) are separated by 6cm each. Net power is:",
+        "hindi": "दस पतले लेंस जिनकी क्षमताएं हरात्मक श्रेढ़ी बनाती हैं (पहला=+6D, d=0.1), 6सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+13.5D",
+          "+12D",
+          "+14D",
+          "+15D"
+        ],
+        "hindi": [
+          "+13.5D",
+          "+12D",
+          "+14D",
+          "+15D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with seven stages, if tube length is 15cm and magnification is 10000, product of focal lengths (in mm) is:",
+        "hindi": "सात चरण वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 15सेमी और आवर्धन 10000 है, तो फोकस दूरियों का गुणनफल (मिमी में) है:"
+      },
+      "option": {
+        "english": [
+          "22.5",
+          "25",
+          "20",
+          "30"
+        ],
+        "hindi": [
+          "22.5",
+          "25",
+          "20",
+          "30"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

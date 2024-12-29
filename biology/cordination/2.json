@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which part of brain controls blood pressure and breathing rate?",
+        "hindi": "मस्तिष्क का कौन सा भाग रक्तचाप और श्वसन दर को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Cerebrum",
+          "Cerebellum",
+          "Hypothalamus",
+          "Medulla"
+        ],
+        "hindi": [
+          "प्रमस्तिष्क",
+          "अनुमस्तिष्क",
+          "हाइपोथैलेमस",
+          "मेडुला"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is secreted during emergency situations?",
+        "hindi": "आपातकालीन स्थितियों में कौन सा हार्मोन स्रावित होता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Adrenaline",
+          "Insulin",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "एड्रेनालिन",
+          "इंसुलिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes growth hormone?",
+        "hindi": "वृद्धि हार्मोन किस ग्रंथि से स्रावित होता है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीयूष ग्रंथि",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes bending of shoot towards light?",
+        "hindi": "प्रकाश की ओर प्ररोह का मुड़ना किसके कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Cytokinin",
+          "Gibberellin",
+          "Auxin",
+          "Ethylene"
+        ],
+        "hindi": [
+          "साइटोकाइनिन",
+          "जिबरेलिन",
+          "ऑक्सिन",
+          "एथिलीन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure connects left and right cerebral hemispheres?",
+        "hindi": "कौन सी संरचना बाएं और दाएं प्रमस्तिष्क गोलार्धों को जोड़ती है?"
+      },
+      "option": {
+        "english": [
+          "Thalamus",
+          "Hypothalamus",
+          "Pons",
+          "Corpus callosum"
+        ],
+        "hindi": [
+          "थैलेमस",
+          "हाइपोथैलेमस",
+          "पोंस",
+          "कॉर्पस कैलोसम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone helps in cell division?",
+        "hindi": "कौन सा पादप हार्मोन कोशिका विभाजन में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Cytokinin",
+          "Abscisic acid",
+          "Ethylene",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड",
+          "एथिलीन",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of hypothalamus in human body?",
+        "hindi": "मानव शरीर में हाइपोथैलेमस की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Memory",
+          "Homeostasis",
+          "Vision",
+          "Movement"
+        ],
+        "hindi": [
+          "स्मृति",
+          "समस्थिति",
+          "दृष्टि",
+          "गति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone maintains calcium balance in blood?",
+        "hindi": "कौन सा हार्मोन रक्त में कैल्शियम संतुलन बनाए रखता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Thyroxine",
+          "Calcitonin",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "कैल्सीटोनिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of cerebrospinal fluid?",
+        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Blood filtration",
+          "Hormone production",
+          "Waste removal",
+          "Shock absorption"
+        ],
+        "hindi": [
+          "रक्त छनन",
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "आघात अवशोषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for seed dormancy in plants?",
+        "hindi": "पौधों में बीज प्रसुप्ति के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Abscisic acid",
+          "Auxin",
+          "Cytokinin",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "एब्सिसिक एसिड",
+          "ऑक्सिन",
+          "साइटोकाइनिन",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

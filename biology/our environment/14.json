@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which layer contains ozone?",
+        "hindi": "किस परत में ओजोन होती है?"
+      },
+      "option": {
+        "english": [
+          "Stratosphere",
+          "Troposphere",
+          "Mesosphere",
+          "Thermosphere"
+        ],
+        "hindi": [
+          "समताप मंडल",
+          "क्षोभ मंडल",
+          "मध्य मंडल",
+          "ताप मंडल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is water conservation?",
+        "hindi": "जल संरक्षण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Water waste",
+          "Water saving",
+          "Water pollution",
+          "Water removal"
+        ],
+        "hindi": [
+          "जल बर्बादी",
+          "जल बचत",
+          "जल प्रदूषण",
+          "जल निकासी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of air pollution?",
+        "hindi": "वायु प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better health",
+          "Clean air",
+          "Good breathing",
+          "Health problems"
+        ],
+        "hindi": [
+          "बेहतर स्वास्थ्य",
+          "स्वच्छ वायु",
+          "अच्छा श्वसन",
+          "स्वास्थ्य समस्याएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of decomposers?",
+        "hindi": "अपघटकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Make food",
+          "Eat food",
+          "Break down waste",
+          "Store energy"
+        ],
+        "hindi": [
+          "भोजन बनाना",
+          "भोजन खाना",
+          "कचरा विघटन",
+          "ऊर्जा भंडारण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a primary producer?",
+        "hindi": "प्राथमिक उत्पादक कौन है?"
+      },
+      "option": {
+        "english": [
+          "Green plant",
+          "Animal",
+          "Human",
+          "Bacteria"
+        ],
+        "hindi": [
+          "हरा पौधा",
+          "जानवर",
+          "मानव",
+          "बैक्टीरिया"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of mining?",
+        "hindi": "खनन का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better land",
+          "Good soil",
+          "Clean area",
+          "Land destruction"
+        ],
+        "hindi": [
+          "बेहतर भूमि",
+          "अच्छी मिट्टी",
+          "स्वच्छ क्षेत्र",
+          "भूमि विनाश"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is organic waste?",
+        "hindi": "जैविक कचरा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Plastic",
+          "Biodegradable waste",
+          "Metal",
+          "Glass"
+        ],
+        "hindi": [
+          "प्लास्टिक",
+          "जैव-निम्नीकरणीय कचरा",
+          "धातु",
+          "कांच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is environmental impact assessment?",
+        "hindi": "पर्यावरणीय प्रभाव आकलन क्या है?"
+      },
+      "option": {
+        "english": [
+          "No study",
+          "Random check",
+          "Impact study",
+          "Quick review"
+        ],
+        "hindi": [
+          "कोई अध्ययन नहीं",
+          "यादृच्छिक जांच",
+          "प्रभाव अध्ययन",
+          "त्वरित समीक्षा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural pollinator?",
+        "hindi": "प्राकृतिक परागणक कौन है?"
+      },
+      "option": {
+        "english": [
+          "Bee",
+          "Machine",
+          "Human",
+          "Robot"
+        ],
+        "hindi": [
+          "मधुमक्खी",
+          "मशीन",
+          "मानव",
+          "रोबोट"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of invasive species?",
+        "hindi": "आक्रामक प्रजातियों का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better diversity",
+          "Good balance",
+          "More species",
+          "Ecosystem damage"
+        ],
+        "hindi": [
+          "बेहतर विविधता",
+          "अच्छा संतुलन",
+          "अधिक प्रजातियां",
+          "पारिस्थितिकी क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of consumers in ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र में उपभोक्ताओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Make food",
+          "Eat food",
+          "Clean water",
+          "Produce oxygen"
+        ],
+        "hindi": [
+          "भोजन बनाना",
+          "भोजन खाना",
+          "जल साफ करना",
+          "ऑक्सीजन उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of deforestation?",
+        "hindi": "वनों की कटाई का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better climate",
+          "More oxygen",
+          "Clean air",
+          "Climate change"
+        ],
+        "hindi": [
+          "बेहतर जलवायु",
+          "अधिक ऑक्सीजन",
+          "स्वच्छ वायु",
+          "जलवायु परिवर्तन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is waste recycling?",
+        "hindi": "कचरा पुनर्चक्रण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Waste burning",
+          "Waste dumping",
+          "Waste reuse",
+          "Waste spreading"
+        ],
+        "hindi": [
+          "कचरा जलाना",
+          "कचरा डंपिंग",
+          "कचरा पुनर्उपयोग",
+          "कचरा फैलाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is most abundant in atmosphere?",
+        "hindi": "वायुमंडल में कौन सी गैस सबसे अधिक मात्रा में है?"
+      },
+      "option": {
+        "english": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of national parks?",
+        "hindi": "राष्ट्रीय उद्यानों का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Only tourism",
+          "Conservation",
+          "Entertainment",
+          "Research only"
+        ],
+        "hindi": [
+          "केवल पर्यटन",
+          "संरक्षण",
+          "मनोरंजन",
+          "केवल अनुसंधान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological restoration?",
+        "hindi": "पारिस्थितिक पुनर्स्थापना क्या है?"
+      },
+      "option": {
+        "english": [
+          "Ecosystem damage",
+          "No change",
+          "Ecosystem recovery",
+          "More damage"
+        ],
+        "hindi": [
+          "पारिस्थितिकी क्षति",
+          "कोई परिवर्तन नहीं",
+          "पारिस्थितिकी पुनर्प्राप्ति",
+          "अधिक क्षति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of soil erosion?",
+        "hindi": "मृदा अपरदन का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better soil",
+          "More fertility",
+          "Good growth",
+          "Land degradation"
+        ],
+        "hindi": [
+          "बेहतर मिट्टी",
+          "अधिक उर्वरता",
+          "अच्छी वृद्धि",
+          "भूमि क्षरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural fertilizer?",
+        "hindi": "प्राकृतिक उर्वरक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Compost",
+          "Urea",
+          "DAP",
+          "NPK"
+        ],
+        "hindi": [
+          "कम्पोस्ट",
+          "यूरिया",
+          "डीएपी",
+          "एनपीके"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is environmental monitoring?",
+        "hindi": "पर्यावरण निगरानी क्या है?"
+      },
+      "option": {
+        "english": [
+          "No checking",
+          "Regular checking",
+          "Random check",
+          "One time check"
+        ],
+        "hindi": [
+          "कोई जांच नहीं",
+          "नियमित जांच",
+          "यादृच्छिक जांच",
+          "एक बार जांच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is carrying capacity?",
+        "hindi": "वहन क्षमता क्या है?"
+      },
+      "option": {
+        "english": [
+          "No limit",
+          "Random number",
+          "Population limit",
+          "Unlimited growth"
+        ],
+        "hindi": [
+          "कोई सीमा नहीं",
+          "यादृच्छिक संख्या",
+          "जनसंख्या सीमा",
+          "असीमित वृद्धि"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

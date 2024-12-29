@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is electromagnetic induction?",
+        "hindi": "विद्युत चुंबकीय प्रेरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Current producing magnetism",
+          "Heat producing current",
+          "Magnetic field producing current",
+          "Motion producing heat"
+        ],
+        "hindi": [
+          "धारा से चुंबकत्व उत्पन्न होना",
+          "ऊष्मा से धारा उत्पन्न होना",
+          "चुंबकीय क्षेत्र से धारा उत्पन्न होना",
+          "गति से ऊष्मा उत्पन्न होना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Who discovered electromagnetic induction?",
+        "hindi": "विद्युत चुंबकीय प्रेरण की खोज किसने की?"
+      },
+      "option": {
+        "english": [
+          "Einstein",
+          "Newton",
+          "Faraday",
+          "Maxwell"
+        ],
+        "hindi": [
+          "आइंस्टीन",
+          "न्यूटन",
+          "फैराडे",
+          "मैक्सवेल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes electromagnetic induction?",
+        "hindi": "विद्युत चुंबकीय प्रेरण का कारण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Static magnetic field",
+          "Static electric field",
+          "Constant current",
+          "Changing magnetic field"
+        ],
+        "hindi": [
+          "स्थिर चुंबकीय क्षेत्र",
+          "स्थिर विद्युत क्षेत्र",
+          "स्थिर धारा",
+          "परिवर्तनशील चुंबकीय क्षेत्र"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is Faraday's first law of electromagnetic induction?",
+        "hindi": "फैराडे का विद्युत चुंबकीय प्रेरण का पहला नियम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Heat production",
+          "Current flow",
+          "Magnetic flux change",
+          "Energy conservation"
+        ],
+        "hindi": [
+          "ऊष्मा उत्पादन",
+          "धारा प्रवाह",
+          "चुंबकीय फ्लक्स परिवर्तन",
+          "ऊर्जा संरक्षण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of magnetic flux in electromagnetic induction?",
+        "hindi": "विद्युत चुंबकीय प्रेरण में चुंबकीय फ्लक्स की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Minor role",
+          "Major role",
+          "Indirect role"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "छोटी भूमिका",
+          "प्रमुख भूमिका",
+          "अप्रत्यक्ष भूमिका"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does relative motion affect electromagnetic induction?",
+        "hindi": "सापेक्ष गति विद्युत चुंबकीय प्रेरण को कैसे प्रभावित करती है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Induces EMF",
+          "Reduces current",
+          "Increases resistance"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "विद्युत वाहक बल प्रेरित करती है",
+          "धारा कम करती है",
+          "प्रतिरोध बढ़ाती है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='100' height='50' stroke='black' fill='none'/><path d='M150,50 L150,25' stroke='blue'/><path d='M150,100 L150,125' stroke='blue'/><path d='M120,75 L180,75' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when magnet moves faster through a coil?",
+        "hindi": "जब चुंबक कुंडली में तेजी से गति करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Induced EMF increases",
+          "EMF decreases",
+          "Current stops"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "प्रेरित विद्युत वाहक बल बढ़ता है",
+          "विद्युत वाहक बल घटता है",
+          "धारा रुक जाती है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,75 C100,50 200,50 200,75 S100,100 100,75' stroke='black' fill='none'/><line x1='150' y1='25' x2='150' y2='125' stroke='red'/><path d='M140,50 L160,50 M150,40 L150,60' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does changing magnetic field direction affect induced current direction?",
+        "hindi": "चुंबकीय क्षेत्र की दिशा बदलने से प्रेरित धारा की दिशा कैसे प्रभावित होती है?"
+      },
+      "option": {
+        "english": [
+          "Remains same",
+          "Becomes zero",
+          "No effect",
+          "Reverses"
+        ],
+        "hindi": [
+          "समान रहती है",
+          "शून्य हो जाती है",
+          "कोई प्रभाव नहीं",
+          "उलट जाती है"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M150,35 L150,115' stroke='black'/><path d='M130,75 L170,75' stroke='black'/><path d='M150,75 C180,75 180,45 150,45' stroke='red' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is Lenz's law in electromagnetic induction?",
+        "hindi": "विद्युत चुंबकीय प्रेरण में लेन्ज का नियम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Supports change",
+          "No opposition",
+          "Opposes change",
+          "Random effect"
+        ],
+        "hindi": [
+          "परिवर्तन का समर्थन",
+          "कोई विरोध नहीं",
+          "परिवर्तन का विरोध",
+          "यादृच्छिक प्रभाव"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is electromagnetic induction important in daily life?",
+        "hindi": "दैनिक जीवन में विद्युत चुंबकीय प्रेरण क्यों महत्वपूर्ण है?"
+      },
+      "option": {
+        "english": [
+          "Only in labs",
+          "No practical use",
+          "Electricity generation",
+          "Heat production"
+        ],
+        "hindi": [
+          "केवल प्रयोगशालाओं में",
+          "कोई व्यावहारिक उपयोग नहीं",
+          "विद्युत उत्पादन",
+          "ऊष्मा उत्पादन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

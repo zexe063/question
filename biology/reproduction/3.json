@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which hormone regulates menstrual cycle?",
+        "hindi": "मासिक धर्म चक्र को कौन सा हार्मोन नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Insulin",
+          "Adrenaline",
+          "Thyroxine"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "इंसुलिन",
+          "एड्रेनालिन",
+          "थायरॉक्सिन"
+        ]
+      },
+      "answer": 0,  
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is vegetative propagation?",
+        "hindi": "काययिक प्रवर्धन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Sexual reproduction",
+          "Both types",
+          "Asexual reproduction",
+          "None"
+        ],
+        "hindi": [
+          "लैंगिक जनन",
+          "दोनों प्रकार",
+          "अलैंगिक जनन",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure protects developing embryo?",
+        "hindi": "कौन सी संरचना विकसित भ्रूण की रक्षा करती है?"
+      },
+      "option": {
+        "english": [
+          "Placenta",
+          "Uterus",
+          "Cervix",
+          "Amnion"
+        ],
+        "hindi": [
+          "प्लेसेंटा",
+          "गर्भाशय",
+          "सर्विक्स",
+          "उल्बकोष"
+        ]
+      },
+      "answer": 3,  
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of epididymis?",
+        "hindi": "एपिडिडिमिस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Filter sperm",
+          "Store sperm",
+          "Transport sperm",
+          "Produce sperm"
+        ],
+        "hindi": [
+          "शुक्राणु छानना",
+          "शुक्राणु संग्रह",
+          "शुक्राणु परिवहन",
+          "शुक्राणु उत्पादन"
+        ]
+      },
+      "answer": 1,  
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which process forms female gametes?",
+        "hindi": "कौन सी प्रक्रिया मादा युग्मक बनाती है?"
+      },
+      "option": {
+        "english": [
+          "Oogenesis",
+          "Binary fission",
+          "Budding",
+          "Mitosis"
+        ],
+        "hindi": [
+          "अंडजनन",
+          "द्विखंडन",
+          "मुकुलन",
+          "समसूत्री विभाजन"
+        ]
+      },
+      "answer": 0,  
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of fimbriae?",
+        "hindi": "फिम्ब्रिए की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Support ovary",
+          "Filter blood",
+          "Produce hormones",
+          "Collect egg"
+        ],
+        "hindi": [
+          "अंडाशय को सहारा",
+          "रक्त छानना",
+          "हार्मोन उत्पादन",
+          "अंडा एकत्र करना"
+        ]
+      },
+      "answer": 3,  
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which layer of uterus hosts embryo?",
+        "hindi": "गर्भाशय की कौन सी परत भ्रूण की मेजबानी करती है?"
+      },
+      "option": {
+        "english": [
+          "Myometrium",
+          "Perimetrium",
+          "Endometrium",
+          "Epithelium"
+        ],
+        "hindi": [
+          "मायोमेट्रियम",
+          "पेरीमेट्रियम",
+          "एंडोमेट्रियम",
+          "एपिथीलियम"
+        ]
+      },
+      "answer": 2,  
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of acrosome?",
+        "hindi": "एक्रोसोम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy",
+          "Penetration",
+          "Division",
+          "Movement"
+        ],
+        "hindi": [
+          "ऊर्जा",
+          "प्रवेश",
+          "विभाजन",
+          "गति"
+        ]
+      },
+      "answer": 1,  
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone maintains pregnancy?",
+        "hindi": "कौन सा हार्मोन गर्भावस्था को बनाए रखता है?"
+      },
+      "option": {
+        "english": [
+          "Progesterone",
+          "LH",
+          "GnRH",
+          "FSH"
+        ],
+        "hindi": [
+          "प्रोजेस्टेरोन",
+          "LH",
+          "GnRH",
+          "FSH"
+        ]
+      },
+      "answer": 0,  
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes multiple pregnancy?",
+        "hindi": "बहु गर्भावस्था का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Split embryo",
+          "Large uterus",
+          "Multiple ovulation",
+          "Multiple sperms"
+        ],
+        "hindi": [
+          "विभाजित भ्रूण",
+          "बड़ा गर्भाशय",
+          "बहु अंडोत्सर्ग",
+          "कई शुक्राणु"
+        ]
+      },
+    "answer": 2,  
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "In the thermite reaction Fe₂O₃ + 2Al → Al₂O₃ + 2Fe + Heat, what is the temperature reached?",
+        "hindi": "थर्माइट अभिक्रिया Fe₂O₃ + 2Al → Al₂O₃ + 2Fe + ऊष्मा में, कौन सा तापमान प्राप्त होता है?"
+      },
+      "option": {
+        "english": [
+          "About 1000°C",
+          "About 2000°C",
+          "About 3000°C",
+          "About 4000°C"
+        ],
+        "hindi": [
+          "लगभग 1000°C",
+          "लगभग 2000°C",
+          "लगभग 3000°C",
+          "लगभग 4000°C"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of these reactions represents the Haber process?",
+        "hindi": "इनमें से कौन सी अभिक्रिया हैबर प्रक्रिया को दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "N₂ + 3H₂ → 2NH₃",
+          "N₂ + 3H₂ ⇌ 2NH₃",
+          "2N₂ + 3H₂ → 2NH₃",
+          "N₂ + H₂ → NH₃"
+        ],
+        "hindi": [
+          "N₂ + 3H₂ → 2NH₃",
+          "N₂ + 3H₂ ⇌ 2NH₃",
+          "2N₂ + 3H₂ → 2NH₃",
+          "N₂ + H₂ → NH₃"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium-hard"
+    },
+    {
+      "question_name": {
+        "english": "The chemical name of baking soda is:",
+        "hindi": "बेकिंग सोडा का रासायनिक नाम है:"
+      },
+      "option": {
+        "english": [
+          "Sodium hydrogen carbonate",
+          "Sodium carbonate",
+          "Calcium carbonate",
+          "Potassium carbonate"
+        ],
+        "hindi": [
+          "सोडियम हाइड्रोजन कार्बोनेट",
+          "सोडियम कार्बोनेट",
+          "कैल्शियम कार्बोनेट",
+          "पोटैशियम कार्बोनेट"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Galvanization is a process of coating iron with:",
+        "hindi": "यशदलेपन लोहे पर किसकी परत चढ़ाने की प्रक्रिया है:"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Zinc",
+          "Tin",
+          "Aluminum"
+        ],
+        "hindi": [
+          "कॉपर",
+          "जिंक",
+          "टिन",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when CO₂ is passed through lime water until it turns milky and then clear?",
+        "hindi": "जब CO₂ को चूने के पानी से तब तक प्रवाहित किया जाता है जब तक कि वह दूधिया और फिर साफ़ न हो जाए, तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only CaCO₃ forms",
+          "Only Ca(HCO₃)₂ forms",
+          "First CaCO₃, then Ca(HCO₃)₂",
+          "No reaction occurs"
+        ],
+        "hindi": [
+          "केवल CaCO₃ बनता है",
+          "केवल Ca(HCO₃)₂ बनता है",
+          "पहले CaCO₃, फिर Ca(HCO₃)₂ बनता है",
+          "कोई अभिक्रिया नहीं होती"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when sodium carbonate reacts with dilute HCl?",
+        "hindi": "सोडियम कार्बोनेट की तनु HCl से अभिक्रिया में कौन सी गैस बनती है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Hydrogen",
+          "Chlorine",
+          "Oxygen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "क्लोरीन",
+          "ऑक्सीजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in photochemical smog formation?",
+        "hindi": "प्रकाश-रासायनिक धुंध के निर्माण में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Only oxidation",
+          "Only reduction",
+          "Redox reactions",
+          "Neutralization"
+        ],
+        "hindi": [
+          "केवल ऑक्सीकरण",
+          "केवल अपचयन",
+          "रेडॉक्स अभिक्रियाएं",
+          "उदासीनीकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium-hard"
+    },
+    {
+      "question_name": {
+        "english": "The pH of a solution changes from 6 to 2. The solution becomes:",
+        "hindi": "एक विलयन का pH 6 से 2 हो जाता है। विलयन हो जाता है:"
+      },
+      "option": {
+        "english": [
+          "Less acidic",
+          "More acidic",
+          "Neutral",
+          "Basic"
+        ],
+        "hindi": [
+          "कम अम्लीय",
+          "अधिक अम्लीय",
+          "उदासीन",
+          "क्षारीय"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In electrolysis of water, what is the ratio of H₂ and O₂ gases produced?",
+        "hindi": "जल के विद्युत अपघटन में, उत्पन्न H₂ और O₂ गैसों का अनुपात क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "3:1"
+        ],
+        "hindi": [
+          "1:1",
+          "1:2",
+          "2:1",
+          "3:1"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of calcium oxide?",
+        "hindi": "कैल्शियम ऑक्साइड का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Quick lime",
+          "Slaked lime",
+          "Limestone",
+          "Lime water"
+        ],
+        "hindi": [
+          "बिना बुझा चूना",
+          "बुझा हुआ चूना",
+          "चूना पत्थर",
+          "चूने का पानी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of carbon cycle?",
+        "hindi": "कार्बन चक्र की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Water movement",
+          "Carbon balance",
+          "Nitrogen fixing",
+          "Oxygen production"
+        ],
+        "hindi": [
+          "जल गति",
+          "कार्बन संतुलन",
+          "नाइट्रोजन स्थिरीकरण",
+          "ऑक्सीजन उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of desertification?",
+        "hindi": "मरुस्थलीकरण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "More vegetation",
+          "Better soil",
+          "More water",
+          "Land degradation"
+        ],
+        "hindi": [
+          "अधिक वनस्पति",
+          "बेहतर मिट्टी",
+          "अधिक पानी",
+          "भूमि क्षरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of wetlands?",
+        "hindi": "आर्द्रभूमि का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Water storage",
+          "Land filling",
+          "Water filtration",
+          "Water removal"
+        ],
+        "hindi": [
+          "जल भंडारण",
+          "भूमि भराव",
+          "जल छनन",
+          "जल निकासी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas helps in ozone formation?",
+        "hindi": "कौन सी गैस ओजोन निर्माण में मदद करती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of afforestation?",
+        "hindi": "वनरोपण का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Remove trees",
+          "Plant trees",
+          "Cut trees",
+          "Burn trees"
+        ],
+        "hindi": [
+          "पेड़ हटाना",
+          "पेड़ लगाना",
+          "पेड़ काटना",
+          "पेड़ जलाना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological pyramid?",
+        "hindi": "पारिस्थितिक पिरामिड क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random structure",
+          "No structure",
+          "Energy structure",
+          "Simple shape"
+        ],
+        "hindi": [
+          "यादृच्छिक संरचना",
+          "कोई संरचना नहीं",
+          "ऊर्जा संरचना",
+          "साधारण आकार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of light pollution?",
+        "hindi": "प्रकाश प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better vision",
+          "Natural cycles",
+          "Clear sky",
+          "Disrupted cycles"
+        ],
+        "hindi": [
+          "बेहतर दृष्टि",
+          "प्राकृतिक चक्र",
+          "स्वच्छ आकाश",
+          "बाधित चक्र"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural pesticide?",
+        "hindi": "प्राकृतिक कीटनाशक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Neem extract",
+          "DDT",
+          "Chemical spray",
+          "Synthetic compounds"
+        ],
+        "hindi": [
+          "नीम अर्क",
+          "डीडीटी",
+          "रासायनिक स्प्रे",
+          "कृत्रिम यौगिक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of endemic species?",
+        "hindi": "स्थानिक प्रजातियों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Biodiversity",
+          "Common species",
+          "Widespread species"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "जैव विविधता",
+          "सामान्य प्रजातियां",
+          "व्यापक प्रजातियां"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological niche?",
+        "hindi": "पारिस्थितिक निकेत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random place",
+          "Any habitat",
+          "Species role",
+          "Living area"
+        ],
+        "hindi": [
+          "यादृच्छिक स्थान",
+          "कोई आवास",
+          "प्रजाति भूमिका",
+          "रहने का क्षेत्र"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

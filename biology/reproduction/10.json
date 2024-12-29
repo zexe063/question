@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of seminiferous tubules?",
+        "hindi": "शुक्रजनक नलिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Sperm production",
+          "Hormone production",
+          "Sperm storage",
+          "Sperm transport"
+        ],
+        "hindi": [
+          "शुक्राणु उत्पादन",
+          "हार्मोन उत्पादन",
+          "शुक्राणु संग्रह",
+          "शुक्राणु परिवहन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure produces testosterone?",
+        "hindi": "टेस्टोस्टेरोन किस संरचना से बनता है?"
+      },
+      "option": {
+        "english": [
+          "Seminiferous tubules",
+          "Leydig cells",
+          "Sertoli cells",
+          "Epididymis"
+        ],
+        "hindi": [
+          "शुक्रजनक नलिकाएं",
+          "लीडिग कोशिकाएं",
+          "सर्टोली कोशिकाएं",
+          "एपिडिडिमिस"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What triggers labor contractions?",
+        "hindi": "प्रसव संकुचन को क्या प्रेरित करता है?"
+      },
+      "option": {
+        "english": [
+          "Progesterone",
+          "Relaxin",
+          "Estrogen",
+          "Oxytocin"
+        ],
+        "hindi": [
+          "प्रोजेस्टेरोन",
+          "रिलैक्सिन",
+          "एस्ट्रोजन",
+          "ऑक्सीटोसिन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of cervical mucus?",
+        "hindi": "सर्विकल म्यूकस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Block bacteria",
+          "Store nutrients",
+          "Help sperm movement",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "बैक्टीरिया रोकना",
+          "पोषक तत्व संग्रह",
+          "शुक्राणु गति में मदद",
+          "हार्मोन उत्पादन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which enzyme helps sperm penetrate egg?",
+        "hindi": "कौन सा एंजाइम शुक्राणु को अंडे में प्रवेश में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Acrosin",
+          "Amylase",
+          "Lipase",
+          "Protease"
+        ],
+        "hindi": [
+          "एक्रोसिन",
+          "एमाइलेज",
+          "लाइपेज",
+          "प्रोटीएज"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes milk ejection?",
+        "hindi": "दूध निकलने का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Prolactin",
+          "Estrogen",
+          "Progesterone",
+          "Oxytocin"
+        ],
+        "hindi": [
+          "प्रोलैक्टिन",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन",
+          "ऑक्सीटोसिन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of FSH in females?",
+        "hindi": "महिलाओं में FSH की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Trigger ovulation",
+          "Follicle development",
+          "Maintain pregnancy",
+          "Milk production"
+        ],
+        "hindi": [
+          "अंडोत्सर्जन प्रेरित करना",
+          "पुटिका विकास",
+          "गर्भावस्था बनाए रखना",
+          "दूध उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of placental barrier?",
+        "hindi": "प्लेसेंटल अवरोध का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Nutrient storage",
+          "Selective transport",
+          "Waste removal"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "पोषक तत्व संग्रह",
+          "चयनात्मक परिवहन",
+          "अपशिष्ट निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What initiates sperm production?",
+        "hindi": "शुक्राणु उत्पादन की शुरुआत क्या करता है?"
+      },
+      "option": {
+        "english": [
+          "GnRH",
+          "Testosterone",
+          "Estrogen",
+          "Progesterone"
+        ],
+        "hindi": [
+          "GnRH",
+          "टेस्टोस्टेरोन",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes blastocyst implantation?",
+        "hindi": "ब्लास्टोसिस्ट रोपण का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "FSH",
+          "LH",
+          "Enzymes"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "FSH",
+          "LH",
+          "एंजाइम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What happens in a chain reaction?",
+        "hindi": "श्रृंखला अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "One step reaction",
+          "Two step reaction",
+          "Random steps",
+          "Continuous steps"
+        ],
+        "hindi": [
+          "एक चरण अभिक्रिया",
+          "दो चरण अभिक्रिया",
+          "यादृच्छिक चरण",
+          "निरंतर चरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in nuclear fusion?",
+        "hindi": "नाभिकीय संलयन में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Breaking",
+          "Displacement",
+          "Combination",
+          "Decomposition"
+        ],
+        "hindi": [
+          "टूटना",
+          "विस्थापन",
+          "संयोजन",
+          "अपघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows decomposition of ozone?",
+        "hindi": "ओजोन का अपघटन कौन सा समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "2O₃ → 3O₂",
+          "O₃ → O₂",
+          "3O₂ → 2O₃",
+          "O₂ → O₃"
+        ],
+        "hindi": [
+          "2O₃ → 3O₂",
+          "O₃ → O₂",
+          "3O₂ → 2O₃",
+          "O₂ → O₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of catalyst in chemical equilibrium?",
+        "hindi": "रासायनिक साम्यावस्था में उत्प्रेरक की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Changes equilibrium",
+          "Speeds up reaction",
+          "Stops reaction",
+          "No effect"
+        ],
+        "hindi": [
+          "साम्य बदलता है",
+          "अभिक्रिया तेज करता है",
+          "अभिक्रिया रोकता है",
+          "कोई प्रभाव नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a reversible reaction?",
+        "hindi": "उत्क्रमणीय अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only forward",
+          "Only backward",
+          "No reaction",
+          "Both directions"
+        ],
+        "hindi": [
+          "केवल आगे",
+          "केवल पीछे",
+          "कोई अभिक्रिया नहीं",
+          "दोनों दिशाओं में"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which equation represents Haber process?",
+        "hindi": "हैबर प्रक्रिया को कौन सा समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "N₂ + 3H₂ ⇌ 2NH₃",
+          "N₂ + H₂ → NH₃",
+          "2N₂ + H₂ → 2NH₃",
+          "N₂ + 2H₂ → NH₃"
+        ],
+        "hindi": [
+          "N₂ + 3H₂ ⇌ 2NH₃",
+          "N₂ + H₂ → NH₃",
+          "2N₂ + H₂ → 2NH₃",
+          "N₂ + 2H₂ → NH₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in electroplating?",
+        "hindi": "विद्युतलेपन में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Displacement",
+          "Combination",
+          "Redox",
+          "Decomposition"
+        ],
+        "hindi": [
+          "विस्थापन",
+          "संयोजन",
+          "रेडॉक्स",
+          "अपघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of inhibitors in reactions?",
+        "hindi": "अभिक्रियाओं में निरोधकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Speed up",
+          "Slow down",
+          "No effect",
+          "Stop completely"
+        ],
+        "hindi": [
+          "तेज करना",
+          "धीमा करना",
+          "कोई प्रभाव नहीं",
+          "पूर्णतः रोकना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a spontaneous reaction?",
+        "hindi": "स्वतःप्रवर्तित अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Needs energy",
+          "Needs catalyst",
+          "Needs heat",
+          "Occurs naturally"
+        ],
+        "hindi": [
+          "ऊर्जा की आवश्यकता",
+          "उत्प्रेरक की आवश्यकता",
+          "ऊष्मा की आवश्यकता",
+          "स्वाभाविक रूप से होती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which process shows chemical change?",
+        "hindi": "कौन सी प्रक्रिया रासायनिक परिवर्तन दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "Rusting of iron",
+          "Melting ice",
+          "Breaking glass",
+          "Cutting paper"
+        ],
+        "hindi": [
+          "लोहे में जंग लगना",
+          "बर्फ पिघलना",
+          "कांच टूटना",
+          "कागज काटना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

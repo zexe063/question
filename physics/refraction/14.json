@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a glass rod become nearly invisible in glycerine mixed with water?",
+        "hindi": "कांच की छड़ी पानी मिश्रित ग्लिसरीन में लगभग अदृश्य क्यों हो जाती है?"
+      },
+      "option": {
+        "english": [
+          "Matched refractive indices",
+          "Chemical reaction",
+          "Temperature effect",
+          "Pressure effect"
+        ],
+        "hindi": [
+          "मिलते-जुलते अपवर्तनांक",
+          "रासायनिक प्रतिक्रिया",
+          "तापमान प्रभाव",
+          "दाब प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers show material dispersion?",
+        "hindi": "प्रकाशिक तंतु पदार्थ विक्षेपण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Wavelength dependent index",
+          "Length variation",
+          "Temperature change",
+          "Pressure variation"
+        ],
+        "hindi": [
+          "तरंगदैर्ध्य पर निर्भर अपवर्तनांक",
+          "लंबाई में परिवर्तन",
+          "तापमान परिवर्तन",
+          "दाब में परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does spherical aberration depend on aperture size?",
+        "hindi": "गोलीय विपथन द्वारक के आकार पर क्यों निर्भर करता है?"
+      },
+      "option": {
+        "english": [
+          "Different zones contribution",
+          "Light intensity",
+          "Temperature effect",
+          "Material property"
+        ],
+        "hindi": [
+          "विभिन्न क्षेत्रों का योगदान",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "पदार्थ का गुण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray passes through eight media with refractive indices forming Fibonacci sequence (first two=1.2,1.3). If i₁=45°, final angle is:",
+        "hindi": "एक किरण आठ माध्यमों से गुजरती है जिनके अपवर्तनांक फिबोनाची श्रेढ़ी बनाते हैं (पहले दो=1.2,1.3)। यदि i₁=45° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "19.8°",
+          "22°",
+          "18°",
+          "25°"
+        ],
+        "hindi": [
+          "19.8°",
+          "22°",
+          "18°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope with variable separation, if magnification varies inversely as cube of separation, the relationship is:",
+        "hindi": "परिवर्तनीय पृथक्करण वाली दूरबीन में, यदि आवर्धन पृथक्करण के घन के व्युत्क्रमानुपाती है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m ∝ 1/d³",
+          "m ∝ d³",
+          "m ∝ 1/d²",
+          "m ∝ d"
+        ],
+        "hindi": [
+          "m ∝ 1/d³",
+          "m ∝ d³",
+          "m ∝ 1/d²",
+          "m ∝ d"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Bishop's ring?",
+        "hindi": "कौन सा किरण आरेख बिशप की वलय का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Diffraction by fine particles",
+          "Simple reflection",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "सूक्ष्म कणों द्वारा विवर्तन",
+          "सरल परावर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='30' stroke='black' fill='none'/><circle cx='150' cy='75' r='50' stroke='brown' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Brocken spectre?",
+        "hindi": "कौन सा किरण आरेख ब्रोकन स्पेक्टर का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Shadow magnification",
+          "Simple shadow",
+          "Multiple shadows",
+          "No shadow"
+        ],
+        "hindi": [
+          "छाया आवर्धन",
+          "सरल छाया",
+          "बहु छायाएं",
+          "कोई छाया नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,125' stroke='black'/><path d='M50,75 L250,75' stroke='red'/><path d='M150,75 L200,125' stroke='blue' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of subsun?",
+        "hindi": "कौन सा किरण आरेख उपसूर्य का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Ice crystal reflection",
+          "Water reflection",
+          "Air reflection",
+          "Random reflection"
+        ],
+        "hindi": [
+          "बर्फ क्रिस्टल परावर्तन",
+          "जल परावर्तन",
+          "वायु परावर्तन",
+          "यादृच्छिक परावर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='100' height='50' stroke='black' fill='none'/><path d='M150,25 L150,125' stroke='red'/><circle cx='150' cy='125' r='5' fill='yellow'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Eight thin lenses of powers forming geometric sequence (first=+5D, r=0.8) are separated by 5cm each. Net power is:",
+        "hindi": "आठ पतले लेंस जिनकी क्षमताएं ज्यामितीय श्रेढ़ी बनाती हैं (पहला=+5D, r=0.8), 5सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+9.6D",
+          "+8D",
+          "+10D",
+          "+11D"
+        ],
+        "hindi": [
+          "+9.6D",
+          "+8D",
+          "+10D",
+          "+11D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with five stages, if tube length is 20cm and magnification is 5000, the product of focal lengths (in mm) is:",
+        "hindi": "पांच चरण वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 20सेमी और आवर्धन 5000 है, तो फोकस दूरियों का गुणनफल (मिमी में) है:"
+      },
+      "option": {
+        "english": [
+          "32",
+          "35",
+          "30",
+          "40"
+        ],
+        "hindi": [
+          "32",
+          "35",
+          "30",
+          "40"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

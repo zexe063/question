@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which solution has the highest concentration of H⁺ ions?",
+        "hindi": "किस विलयन में H⁺ आयनों की सांद्रता सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "pH = 4",
+          "pH = 5",
+          "pH = 6",
+          "pH = 3"
+        ],
+        "hindi": [
+          "pH = 4",
+          "pH = 5",
+          "pH = 6",
+          "pH = 3"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt is used to remove permanent hardness of water?",
+        "hindi": "जल की स्थायी कठोरता दूर करने के लिए किस लवण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaCl",
+          "KCl",
+          "Na₂CO₃",
+          "CaCl₂"
+        ],
+        "hindi": [
+          "NaCl",
+          "KCl",
+          "Na₂CO₃",
+          "CaCl₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is a weak base?",
+        "hindi": "इनमें से कौन एक दुर्बल क्षार है?"
+      },
+      "option": {
+        "english": [
+          "NH₄OH",
+          "KOH",
+          "NaOH",
+          "Ca(OH)₂"
+        ],
+        "hindi": [
+          "NH₄OH",
+          "KOH",
+          "NaOH",
+          "Ca(OH)₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The pH of pure water at 25°C is 7 because:",
+        "hindi": "25°C पर शुद्ध जल का pH 7 होता है क्योंकि:"
+      },
+      "option": {
+        "english": [
+          "[H⁺] = [OH⁻]",
+          "[H⁺] > [OH⁻]",
+          "[H⁺] < [OH⁻]",
+          "No ions present"
+        ],
+        "hindi": [
+          "[H⁺] = [OH⁻]",
+          "[H⁺] > [OH⁻]",
+          "[H⁺] < [OH⁻]",
+          "कोई आयन नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when HCl reacts with sodium ethanoate?",
+        "hindi": "जब HCl सोडियम एथनोएट से अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "H₂ gas evolves",
+          "CO₂ gas evolves",
+          "No reaction",
+          "Vinegar smell forms"
+        ],
+        "hindi": [
+          "H₂ गैस निकलती है",
+          "CO₂ गैस निकलती है",
+          "कोई अभिक्रिया नहीं",
+          "सिरके की गंध बनती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is present in sour milk?",
+        "hindi": "खट्टे दूध में कौन सा अम्ल पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Lactic acid",
+          "Citric acid",
+          "Acetic acid",
+          "Tartaric acid"
+        ],
+        "hindi": [
+          "लैक्टिक एसिड",
+          "साइट्रिक एसिड",
+          "एसीटिक एसिड",
+          "टार्टरिक एसिड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of calcium oxide in the manufacture of NaOH?",
+        "hindi": "NaOH के निर्माण में कैल्शियम ऑक्साइड की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Reactant",
+          "Dehydrating agent",
+          "Reducing agent"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "अभिकारक",
+          "निर्जलीकारक",
+          "अपचायक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which salt gives basic solution in water?",
+        "hindi": "कौन सा लवण जल में क्षारीय विलयन देता है?"
+      },
+      "option": {
+        "english": [
+          "NH₄Cl",
+          "Na₂CO₃",
+          "NaCl",
+          "FeCl₃"
+        ],
+        "hindi": [
+          "NH₄Cl",
+          "Na₂CO₃",
+          "NaCl",
+          "FeCl₃"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate pOH when [H⁺] = 1×10⁻² M",
+        "hindi": "pOH की गणना करें जब [H⁺] = 1×10⁻² M हो"
+      },
+      "option": {
+        "english": [
+          "2",
+          "12",
+          "10",
+          "14"
+        ],
+        "hindi": [
+          "2",
+          "12",
+          "10",
+          "14"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does tooth decay occur in acidic conditions?",
+        "hindi": "अम्लीय परिस्थितियों में दांत क्षय क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "Bacteria growth",
+          "Sugar breakdown",
+          "Calcium dissolves",
+          "Enamel softens"
+        ],
+        "hindi": [
+          "बैक्टीरिया वृद्धि",
+          "शक्कर टूटना",
+          "कैल्शियम घुलना",
+          "एनेमल का नरम होना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

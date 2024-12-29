@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of mRNA in protein synthesis?",
+        "hindi": "प्रोटीन संश्लेषण में mRNA की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy transfer",
+          "Message carrier",
+          "Protein storage",
+          "DNA repair"
+        ],
+        "hindi": [
+          "ऊर्जा स्थानांतरण",
+          "संदेश वाहक",
+          "प्रोटीन भंडारण",
+          "DNA मरम्मत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of mutations in evolution?",
+        "hindi": "विकास में उत्परिवर्तन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Reduce diversity",
+          "Stop evolution",
+          "Maintain stability",
+          "Create variation"
+        ],
+        "hindi": [
+          "विविधता कम करना",
+          "विकास रोकना",
+          "स्थिरता बनाए रखना",
+          "विभिन्नता उत्पन्न करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What determines the sequence of amino acids in a protein?",
+        "hindi": "प्रोटीन में अमीनो एसिड का क्रम क्या निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "RNA sequence",
+          "Protein structure",
+          "DNA sequence",
+          "Cell type"
+        ],
+        "hindi": [
+          "RNA अनुक्रम",
+          "प्रोटीन संरचना",
+          "DNA अनुक्रम",
+          "कोशिका प्रकार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which process produces gametes?",
+        "hindi": "कौन सी प्रक्रिया युग्मक उत्पन्न करती है?"
+      },
+      "option": {
+        "english": [
+          "Meiosis",
+          "Mitosis",
+          "Binary fission",
+          "Budding"
+        ],
+        "hindi": [
+          "अर्धसूत्री विभाजन",
+          "समसूत्री विभाजन",
+          "द्विखंडन",
+          "मुकुलन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of ribosomes?",
+        "hindi": "राइबोसोम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "DNA synthesis",
+          "Protein synthesis",
+          "Energy production",
+          "Cell division"
+        ],
+        "hindi": [
+          "DNA संश्लेषण",
+          "प्रोटीन संश्लेषण",
+          "ऊर्जा उत्पादन",
+          "कोशिका विभाजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is genetic recombination?",
+        "hindi": "आनुवंशिक पुनर्संयोजन क्या है?"
+      },
+      "option": {
+        "english": [
+          "DNA repair",
+          "Gene copying",
+          "Gene mixing",
+          "DNA deletion"
+        ],
+        "hindi": [
+          "DNA मरम्मत",
+          "जीन प्रतिलिपि",
+          "जीन मिश्रण",
+          "DNA विलोपन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic engineering?",
+        "hindi": "आनुवंशिक अभियांत्रिकी का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Natural selection",
+          "Evolution study",
+          "Gene preservation",
+          "DNA modification"
+        ],
+        "hindi": [
+          "प्राकृतिक चयन",
+          "विकास अध्ययन",
+          "जीन संरक्षण",
+          "DNA संशोधन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which molecule stores genetic code?",
+        "hindi": "कौन सा अणु आनुवंशिक कोड संग्रहित करता है?"
+      },
+      "option": {
+        "english": [
+          "DNA",
+          "Protein",
+          "Lipid",
+          "Carbohydrate"
+        ],
+        "hindi": [
+          "DNA",
+          "प्रोटीन",
+          "लिपिड",
+          "कार्बोहाइड्रेट"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is gene therapy?",
+        "hindi": "जीन थेरेपी क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gene removal",
+          "Gene treatment",
+          "Gene deletion",
+          "Gene copying"
+        ],
+        "hindi": [
+          "जीन निष्कासन",
+          "जीन उपचार",
+          "जीन विलोपन",
+          "जीन प्रतिलिपि"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of genetic counseling in inherited disorders?",
+        "hindi": "वंशागत विकारों में आनुवंशिक परामर्श की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Treatment",
+          "Prevention",
+          "Risk assessment",
+          "Cure"
+        ],
+        "hindi": [
+          "उपचार",
+          "रोकथाम",
+          "जोखिम मूल्यांकन",
+          "इलाज"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

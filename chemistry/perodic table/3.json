@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which group elements are called halogens?",
+        "hindi": "किस समूह के तत्वों को हैलोजन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Group 17",
+          "Group 16",
+          "Group 15",
+          "Group 18"
+        ],
+        "hindi": [
+          "समूह 17",
+          "समूह 16",
+          "समूह 15",
+          "समूह 18"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many elements are there in period 2?",
+        "hindi": "आवर्त 2 में कितने तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "hindi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has highest metallic character?",
+        "hindi": "किस तत्व में धात्विक गुण सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Na",
+          "Li",
+          "K",
+          "Rb"
+        ],
+        "hindi": [
+          "Na",
+          "Li",
+          "K",
+          "Rb"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the atomic number of first noble gas?",
+        "hindi": "पहली उत्कृष्ट गैस की परमाणु संख्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "8",
+          "10"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "8",
+          "10"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element is most reactive non-metal?",
+        "hindi": "कौन सा तत्व सबसे अधिक क्रियाशील अधातु है?"
+      },
+      "option": {
+        "english": [
+          "Fluorine",
+          "Chlorine",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "फ्लोरीन",
+          "क्लोरीन",
+          "ऑक्सीजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do metals generally form basic oxides?",
+        "hindi": "धातुएं सामान्यतः क्षारीय ऑक्साइड क्यों बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "High electronegativity",
+          "Low electronegativity",
+          "High ionization",
+          "Electron donation"
+        ],
+        "hindi": [
+          "उच्च विद्युतऋणात्मकता",
+          "निम्न विद्युतऋणात्मकता",
+          "उच्च आयनीकरण",
+          "इलेक्ट्रॉन दान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes zigzag line in periodic table?",
+        "hindi": "आवर्त सारणी में टेढ़ी-मेढ़ी रेखा का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Atomic size",
+          "Metallic character",
+          "Electronic configuration",
+          "Atomic mass"
+        ],
+        "hindi": [
+          "परमाणु आकार",
+          "धात्विक गुण",
+          "इलेक्ट्रॉनिक विन्यास",
+          "परमाणु द्रव्यमान"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does atomic size increase down a group?",
+        "hindi": "एक समूह में नीचे जाने पर परमाणु आकार क्यों बढ़ता है?"
+      },
+      "option": {
+        "english": [
+          "New shell addition",
+          "More electrons",
+          "More protons",
+          "Nuclear charge"
+        ],
+        "hindi": [
+          "नया कोश जुड़ने से",
+          "अधिक इलेक्ट्रॉन",
+          "अधिक प्रोटॉन",
+          "नाभकीय आवेश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which element was not discovered when Mendeleev made periodic table?",
+        "hindi": "मेंडलीफ के आवर्त सारणी बनाते समय कौन सा तत्व नहीं खोजा गया था?"
+      },
+      "option": {
+        "english": [
+          "Germanium",
+          "Silicon",
+          "Carbon",
+          "Lead"
+        ],
+        "hindi": [
+          "जर्मेनियम",
+          "सिलिकॉन",
+          "कार्बन",
+          "लेड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do noble gases have low boiling points?",
+        "hindi": "उत्कृष्ट गैसों का क्वथनांक कम क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "High reactivity",
+          "Complete shells",
+          "Weak forces",
+          "High stability"
+        ],
+        "hindi": [
+          "उच्च क्रियाशीलता",
+          "पूर्ण कोश",
+          "कमजोर बल",
+          "उच्च स्थायित्व"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

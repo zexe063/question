@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Which structure in DNA carries genetic code?",
+        "hindi": "DNA में कौन सी संरचना आनुवंशिक कोड वहन करती है?"
+      },
+      "option": {
+        "english": [
+          "Bases",
+          "Sugar",
+          "Phosphate",
+          "Hydrogen bonds"
+        ],
+        "hindi": [
+          "क्षार",
+          "शर्करा",
+          "फॉस्फेट",
+          "हाइड्रोजन बंध"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of RNA in protein synthesis?",
+        "hindi": "प्रोटीन संश्लेषण में RNA की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy source",
+          "Messenger",
+          "Storage",
+          "Transport"
+        ],
+        "hindi": [
+          "ऊर्जा स्रोत",
+          "संदेशवाहक",
+          "भंडारण",
+          "परिवहन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during crossing over?",
+        "hindi": "क्रॉसिंग ओवर के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Gene mutation",
+          "Chromosome breakage",
+          "DNA replication",
+          "Exchange of segments"
+        ],
+        "hindi": [
+          "जीन उत्परिवर्तन",
+          "गुणसूत्र टूटना",
+          "DNA प्रतिकृति",
+          "खंडों का विनिमय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of centromere in a chromosome?",
+        "hindi": "गुणसूत्र में सेंट्रोमियर का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Gene storage",
+          "DNA protection",
+          "Chromosome movement",
+          "Protein synthesis"
+        ],
+        "hindi": [
+          "जीन भंडारण",
+          "DNA सुरक्षा",
+          "गुणसूत्र गति",
+          "प्रोटीन संश्लेषण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which base pair is not found in DNA?",
+        "hindi": "कौन सा क्षार युग्म DNA में नहीं पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "AU",
+          "AT",
+          "GC",
+          "CG"
+        ],
+        "hindi": [
+          "AU",
+          "AT",
+          "GC",
+          "CG"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of mutation in evolution?",
+        "hindi": "विकास में उत्परिवर्तन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Reduces variation",
+          "Creates variation",
+          "Stops evolution"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "विभिन्नता घटाता है",
+          "विभिन्नता उत्पन्न करता है",
+          "विकास रोकता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic code being universal?",
+        "hindi": "आनुवंशिक कोड के सार्वभौमिक होने का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No significance",
+          "Shows diversity",
+          "Shows adaptation",
+          "Shows common ancestry"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "विविधता दर्शाता है",
+          "अनुकूलन दर्शाता है",
+          "समान पूर्वज दर्शाता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does natural selection affect harmful mutations?",
+        "hindi": "प्राकृतिक चयन हानिकारक उत्परिवर्तनों को कैसे प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Promotes them",
+          "Eliminates them",
+          "No effect",
+          "Increases them"
+        ],
+        "hindi": [
+          "बढ़ावा देता है",
+          "समाप्त करता है",
+          "कोई प्रभाव नहीं",
+          "बढ़ाता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of sexual reproduction in evolution?",
+        "hindi": "विकास में लैंगिक प्रजनन का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Genetic variation",
+          "Rapid reproduction",
+          "Energy efficiency",
+          "Simple process"
+        ],
+        "hindi": [
+          "आनुवंशिक विभिन्नता",
+          "तीव्र प्रजनन",
+          "ऊर्जा दक्षता",
+          "सरल प्रक्रिया"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic drift in small populations?",
+        "hindi": "छोटी जनसंख्या में आनुवंशिक अपवाह का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Minor changes",
+          "Major changes",
+          "No changes"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "मामूली परिवर्तन",
+          "प्रमुख परिवर्तन",
+          "कोई परिवर्तन नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

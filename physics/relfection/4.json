@@ -1,0 +1,229 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "If image height (h₂) is 15 cm and object height (h₁) is 5 cm, what is the magnification (m)?",
+        "hindi": "यदि प्रतिबिंब की ऊंचाई (h₂) 15 सेमी और वस्तु की ऊंचाई (h₁) 5 सेमी है, तो आवर्धन (m) क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "-3",
+          "+3",
+          "-2",
+          "+2"
+        ],
+        "hindi": [
+          "-3",
+          "+3",
+          "-2",
+          "+2"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "english": "Using formula: m = -h₂/h₁ = -(15/5) = -3",
+        "hindi": "सूत्र का उपयोग: m = -h₂/h₁ = -(15/5) = -3"
+      },
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which formula correctly relates object distance (u), image distance (v), and focal length (f)?",
+        "hindi": "कौन सा सूत्र वस्तु दूरी (u), प्रतिबिंब दूरी (v), और फोकस दूरी (f) को सही ढंग से संबंधित करता है?"
+      },
+      "option": {
+        "english": [
+          "1/f = 1/u + 1/v",
+          "1/f = 1/u - 1/v",
+          "1/f = -1/u + 1/v",
+          "1/f = -1/u - 1/v"
+        ],
+        "hindi": [
+          "1/f = 1/u + 1/v",
+          "1/f = 1/u - 1/v",
+          "1/f = -1/u + 1/v",
+          "1/f = -1/u - 1/v"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "english": "Mirror formula: 1/f = 1/u + 1/v",
+        "hindi": "दर्पण सूत्र: 1/f = 1/u + 1/v"
+      },
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "For a real image formed by concave mirror, which sign convention is correct?",
+        "hindi": "अवतल दर्पण द्वारा बने वास्तविक प्रतिबिंब के लिए, कौन सा चिह्न परिपाटी सही है?"
+      },
+      "option": {
+        "english": [
+          "u(-), v(+), f(+)",
+          "u(-), v(-), f(+)",
+          "u(+), v(-), f(-)",
+          "u(+), v(+), f(-)"
+        ],
+        "hindi": [
+          "u(-), v(+), f(+)",
+          "u(-), v(-), f(+)",
+          "u(+), v(-), f(-)",
+          "u(+), v(+), f(-)"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='130' stroke='black'/><text x='160' y='75'>P</text><text x='50' y='70'>-ve</text><text x='230' y='70'>+ve</text><line x1='50' y1='75' x2='250' y2='75' stroke='black'/></svg>",
+        
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A 4 cm tall object is placed 20 cm from a concave mirror of focal length 15 cm. Calculate image height if v = 60 cm.",
+        "hindi": "4 सेमी ऊंची वस्तु 15 सेमी फोकस दूरी वाले अवतल दर्पण से 20 सेमी दूर रखी गई है। यदि v = 60 सेमी हो तो प्रतिबिंब की ऊंचाई की गणना करें।"
+      },
+      "option": {
+        "english": [
+          "8 cm",
+          "12 cm",
+          "-12 cm",
+          "-8 cm"
+        ],
+        "hindi": [
+          "8 सेमी",
+          "12 सेमी",
+          "-12 सेमी",
+          "-8 सेमी"
+        ]
+      },
+      "answer": 2,
+      "explanation": {
+        "english": "Using m = -v/u = -h₂/h₁, h₂ = -(v/u)h₁ = -(60/20)4 = -12 cm",
+        "hindi": "m = -v/u = -h₂/h₁ का उपयोग, h₂ = -(v/u)h₁ = -(60/20)4 = -12 सेमी"
+      },
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If magnification is -2 and object distance is 15 cm, find the focal length using mirror formula.",
+        "hindi": "यदि आवर्धन -2 है और वस्तु दूरी 15 सेमी है, तो दर्पण सूत्र का उपयोग करके फोकस दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "20 cm",
+          "30 cm",
+          "40 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "20 सेमी",
+          "30 सेमी",
+          "40 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Analyze the image formation when object moves from infinity to focus:",
+        "hindi": "वस्तु के अनंत से फोकस तक जाने पर प्रतिबिंब निर्माण का विश्लेषण करें:"
+      },
+      "option": {
+        "english": [
+          "Image size increases",
+          "Image size decreases",
+          "Image remains same size",
+          "No image forms"
+        ],
+        "hindi": [
+          "प्रतिबिंब का आकार बढ़ता है",
+          "प्रतिबिंब का आकार घटता है",
+          "प्रतिबिंब का आकार समान रहता है",
+          "कोई प्रतिबिंब नहीं बनता"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='50' x2='150' y2='150' stroke='black'/><line x1='150' y1='100' x2='250' y2='150' stroke='black'/><line x1='100' y1='80' x2='150' y2='100' stroke='blue'/><line x1='150' y1='100' x2='200' y2='120' stroke='red'/><line x1='200' y1='120' x2='220' y2='90' stroke='green'/><path d='M 140,90 A 10,10 0 0 1 160,90' fill='none' stroke='gray'/><text x='145' y='85'>30°</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For the given ray diagram, calculate the focal length if u = 20 cm and v = -10 cm:",
+        "hindi": "दिए गए किरण आरेख के लिए, यदि u = 20 सेमी और v = -10 सेमी है, तो फोकस दूरी की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "-6.67 cm",
+          "+6.67 cm",
+          "-20 cm",
+          "+20 cm"
+        ],
+        "hindi": [
+          "-6.67 सेमी",
+          "+6.67 सेमी",
+          "-20 सेमी",
+          "+20 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='170' y1='55' x2='170' y2='75' stroke='blue'/><line x1='130' y1='95' x2='130' y2='75' stroke='red' stroke-dasharray='4'/><text x='165' y='90'>20 cm</text><text x='125' y='90'>-10 cm</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror forms an image 3 times the size of object. If u = 20 cm, find v and f.",
+        "hindi": "एक अवतल दर्पण वस्तु से 3 गुना बड़ा प्रतिबिंब बनाता है। यदि u = 20 सेमी है, तो v और f ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "v=60cm, f=15cm",
+          "v=-60cm, f=15cm",
+          "v=60cm, f=30cm",
+          "v=-60cm, f=30cm"
+        ],
+        "hindi": [
+          "v=60 सेमी, f=15 सेमी",
+          "v=-60 सेमी, f=15 सेमी",
+          "v=60 सेमी, f=30 सेमी",
+          "v=-60 सेमी, f=30 सेमी"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "english": "m = -v/u = -3, v = 60cm, Using 1/f = 1/u + 1/v = 1/20 + 1/60 = 1/15",
+        "hindi": "m = -v/u = -3, v = 60 सेमी, 1/f = 1/u + 1/v = 1/20 + 1/60 = 1/15 का उपयोग"
+      },
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Two mirrors are placed at 60°. A ray strikes first mirror at 30°. Find final angle of reflection from second mirror.",
+        "hindi": "दो दर्पण 60° पर रखे गए हैं। एक किरण पहले दर्पण पर 30° पर टकराती है। दूसरे दर्पण से अंतिम परावर्तन कोण ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "30°",
+          "60°",
+          "90°",
+          "120°"
+        ],
+        "hindi": [
+          "30°",
+          "60°",
+          "90°",
+          "120°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='50' x2='150' y2='150' stroke='black'/><line x1='150' y1='100' x2='250' y2='100' stroke='black'/><circle cx='180' cy='80' r='3' fill='blue'/><circle cx='180' cy='120' r='3' fill='red' stroke-dasharray='2'/><circle cx='120' cy='80' r='3' fill='red' stroke-dasharray='2'/><circle cx='120' cy='120' r='3' fill='red' stroke-dasharray='2'/><line x1='180' y1='80' x2='180' y2='120' stroke='orange' stroke-width='1'/><line x1='180' y1='80' x2='120' y2='80' stroke='orange' stroke-width='1'/></svg>",
+        
+      "medium": "hard"
+    }
+  ]

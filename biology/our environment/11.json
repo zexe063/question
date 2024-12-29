@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of food pyramid?",
+        "hindi": "खाद्य पिरामिड की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Random order",
+          "No structure",
+          "Energy flow",
+          "Just shape"
+        ],
+        "hindi": [
+          "यादृच्छिक क्रम",
+          "कोई संरचना नहीं",
+          "ऊर्जा प्रवाह",
+          "केवल आकार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas causes ozone depletion?",
+        "hindi": "कौन सी गैस ओजोन क्षरण का कारण बनती है?"
+      },
+      "option": {
+        "english": [
+          "CFC",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "सीएफसी",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of biodiversity?",
+        "hindi": "जैव विविधता का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Ecosystem balance",
+          "Just variety",
+          "Random species"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "पारिस्थितिक संतुलन",
+          "केवल विविधता",
+          "यादृच्छिक प्रजातियां"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of noise pollution?",
+        "hindi": "ध्वनि प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better hearing",
+          "No effect",
+          "Good health",
+          "Health problems"
+        ],
+        "hindi": [
+          "बेहतर श्रवण",
+          "कोई प्रभाव नहीं",
+          "अच्छा स्वास्थ्य",
+          "स्वास्थ्य समस्याएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological balance?",
+        "hindi": "पारिस्थितिक संतुलन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random state",
+          "No balance",
+          "Natural balance",
+          "Artificial state"
+        ],
+        "hindi": [
+          "यादृच्छिक स्थिति",
+          "कोई संतुलन नहीं",
+          "प्राकृतिक संतुलन",
+          "कृत्रिम स्थिति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is waste management?",
+        "hindi": "अपशिष्ट प्रबंधन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Waste dumping",
+          "Waste control",
+          "Waste spreading",
+          "Waste burning"
+        ],
+        "hindi": [
+          "कचरा डंपिंग",
+          "कचरा नियंत्रण",
+          "कचरा फैलाना",
+          "कचरा जलाना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural ecosystem?",
+        "hindi": "प्राकृतिक पारिस्थितिकी तंत्र कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Forest",
+          "Garden",
+          "Farm",
+          "Zoo"
+        ],
+        "hindi": [
+          "जंगल",
+          "बगीचा",
+          "खेत",
+          "चिड़ियाघर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of urbanization?",
+        "hindi": "शहरीकरण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better environment",
+          "More forests",
+          "Clean air",
+          "Environmental stress"
+        ],
+        "hindi": [
+          "बेहतर पर्यावरण",
+          "अधिक जंगल",
+          "स्वच्छ वायु",
+          "पर्यावरणीय तनाव"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is environmental ethics?",
+        "hindi": "पर्यावरण नैतिकता क्या है?"
+      },
+      "option": {
+        "english": [
+          "No rules",
+          "Random behavior",
+          "Moral principles",
+          "Just laws"
+        ],
+        "hindi": [
+          "कोई नियम नहीं",
+          "यादृच्छिक व्यवहार",
+          "नैतिक सिद्धांत",
+          "केवल कानून"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological footprint?",
+        "hindi": "पारिस्थितिक पदचिह्न क्या है?"
+      },
+      "option": {
+        "english": [
+          "Animal tracks",
+          "Environmental impact",
+          "Foot marks",
+          "Walking path"
+        ],
+        "hindi": [
+          "जानवरों के निशान",
+          "पर्यावरणीय प्रभाव",
+          "पैरों के निशान",
+          "चलने का रास्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

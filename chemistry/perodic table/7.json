@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the maximum electrons in p-subshell?",
+        "hindi": "p-उपकोश में अधिकतम इलेक्ट्रॉन कितने होते हैं?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "6",
+          "10",
+          "14"
+        ],
+        "hindi": [
+          "2",
+          "6",
+          "10",
+          "14"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which block contains alkali metals?",
+        "hindi": "क्षार धातुएं किस ब्लॉक में होती हैं?"
+      },
+      "option": {
+        "english": [
+          "s-block",
+          "p-block",
+          "d-block",
+          "f-block"
+        ],
+        "hindi": [
+          "s-ब्लॉक",
+          "p-ब्लॉक",
+          "d-ब्लॉक",
+          "f-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of elements are present in p-block?",
+        "hindi": "p-ब्लॉक में किस प्रकार के तत्व होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Only metals",
+          "Non-metals and metalloids",
+          "Only non-metals",
+          "Only metalloids"
+        ],
+        "hindi": [
+          "केवल धातुएं",
+          "अधातु और उपधातु",
+          "केवल अधातु",
+          "केवल उपधातु"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has highest electron affinity?",
+        "hindi": "किस तत्व की इलेक्ट्रॉन बंधुता सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Magnesium",
+          "Fluorine",
+          "Chlorine"
+        ],
+        "hindi": [
+          "सोडियम",
+          "मैग्नीशियम",
+          "फ्लोरीन",
+          "क्लोरीन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the atomic number of first transition element?",
+        "hindi": "पहले संक्रमण तत्व की परमाणु संख्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ],
+        "hindi": [
+          "19",
+          "20",
+          "21",
+          "22"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do transition metals form complex compounds?",
+        "hindi": "संक्रमण धातुएं जटिल यौगिक क्यों बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Empty d-orbitals",
+          "Full d-orbitals",
+          "No d-orbitals",
+          "Half d-orbitals"
+        ],
+        "hindi": [
+          "खाली d-कक्षक",
+          "पूर्ण d-कक्षक",
+          "d-कक्षक नहीं",
+          "अर्ध d-कक्षक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which orbital fills first according to Aufbau principle?",
+        "hindi": "आफबाउ सिद्धांत के अनुसार कौन सा कक्षक पहले भरता है?"
+      },
+      "option": {
+        "english": [
+          "4s",
+          "3d",
+          "4p",
+          "3p"
+        ],
+        "hindi": [
+          "4s",
+          "3d",
+          "4p",
+          "3p"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes diagonal relationship in elements?",
+        "hindi": "तत्वों में विकर्ण संबंध का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Similar mass",
+          "Similar size",
+          "Similar charge",
+          "Similar properties"
+        ],
+        "hindi": [
+          "समान द्रव्यमान",
+          "समान आकार",
+          "समान आवेश",
+          "समान गुण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do inner transition elements show similar properties?",
+        "hindi": "आंतरिक संक्रमण तत्व समान गुण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "s-electrons",
+          "p-electrons",
+          "f-electrons",
+          "d-electrons"
+        ],
+        "hindi": [
+          "s-इलेक्ट्रॉन",
+          "p-इलेक्ट्रॉन",
+          "f-इलेक्ट्रॉन",
+          "d-इलेक्ट्रॉन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What determines the nature of oxide of an element?",
+        "hindi": "किसी तत्व के ऑक्साइड की प्रकृति क्या निर्धारित करती है?"
+      },
+      "option": {
+        "english": [
+          "Atomic mass",
+          "Electronegativity",
+          "Atomic size",
+          "Atomic number"
+        ],
+        "hindi": [
+          "परमाणु द्रव्यमान",
+          "विद्युतऋणात्मकता",
+          "परमाणु आकार",
+          "परमाणु संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

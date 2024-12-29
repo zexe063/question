@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a straw in a glass of water appear broken at different angles?",
+        "hindi": "पानी के गिलास में स्ट्रॉ विभिन्न कोणों पर टूटी हुई क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Multiple refractions at different angles",
+          "Due to reflection only",
+          "Due to water pressure",
+          "Due to glass thickness"
+        ],
+        "hindi": [
+          "विभिन्न कोणों पर बहु अपवर्तन",
+          "केवल परावर्तन के कारण",
+          "जल दाब के कारण",
+          "कांच की मोटाई के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do stars appear higher in sky than they actually are?",
+        "hindi": "तारे अपनी वास्तविक स्थिति से आकाश में ऊपर क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Atmospheric refraction",
+          "Atmospheric reflection",
+          "Star's brightness",
+          "Earth's rotation"
+        ],
+        "hindi": [
+          "वायुमंडलीय अपवर्तन",
+          "वायुमंडलीय परावर्तन",
+          "तारों की चमक",
+          "पृथ्वी का घूर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a convex lens form different sized images at different distances?",
+        "hindi": "उत्तल लेंस विभिन्न दूरियों पर विभिन्न आकार के प्रतिबिंब क्यों बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Due to varying object distances from focal point",
+          "Due to lens material",
+          "Due to lens thickness",
+          "Due to reflection"
+        ],
+        "hindi": [
+          "फोकस बिंदु से वस्तु की दूरी में परिवर्तन के कारण",
+          "लेंस के पदार्थ के कारण",
+          "लेंस की मोटाई के कारण",
+          "परावर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from glass(n=1.5) to water(n=1.33). If angle of incidence is 40°, angle of refraction is:",
+        "hindi": "एक किरण कांच(n=1.5) से जल(n=1.33) में जाती है। यदि आपतन कोण 40° है, तो अपवर्तन कोण है:"
+      },
+      "option": {
+        "english": [
+          "45.6°",
+          "40°",
+          "35°",
+          "50°"
+        ],
+        "hindi": [
+          "45.6°",
+          "40°",
+          "35°",
+          "50°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a glass prism(n=1.5), minimum deviation is 30°. The prism angle is:",
+        "hindi": "कांच के प्रिज्म(n=1.5) में, न्यूनतम विचलन 30° है। प्रिज्म कोण है:"
+      },
+      "option": {
+        "english": [
+          "40°",
+          "30°",
+          "45°",
+          "60°"
+        ],
+        "hindi": [
+          "40°",
+          "30°",
+          "45°",
+          "60°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of virtual image by convex lens?",
+        "hindi": "कौन सा किरण आरेख उत्तल लेंस द्वारा आभासी प्रतिबिंब का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Object between F and lens",
+          "Object at F",
+          "Object at 2F",
+          "Object beyond 2F"
+        ],
+        "hindi": [
+          "वस्तु F और लेंस के बीच",
+          "वस्तु F पर",
+          "वस्तु 2F पर",
+          "वस्तु 2F से परे"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='50' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows total internal reflection in a prism?",
+        "hindi": "कौन सा किरण आरेख प्रिज्म में पूर्ण आंतरिक परावर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Angle > critical angle",
+          "Angle = critical angle",
+          "Angle < critical angle",
+          "Any angle"
+        ],
+        "hindi": [
+          "कोण > क्रांतिक कोण",
+          "कोण = क्रांतिक कोण",
+          "कोण < क्रांतिक कोण",
+          "कोई भी कोण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,75 L100,125 Z' stroke='black' fill='none'/><line x1='50' y1='50' x2='100' y2='75' stroke='blue'/><line x1='100' y1='75' x2='150' y2='50' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows spherical aberration in a lens?",
+        "hindi": "कौन सा किरण आरेख लेंस में गोलीय विपथन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Different focal points for different zones",
+          "Single focal point",
+          "No focal point",
+          "Random focus"
+        ],
+        "hindi": [
+          "विभिन्न क्षेत्रों के लिए विभिन्न फोकस बिंदु",
+          "एकल फोकस बिंदु",
+          "कोई फोकस बिंदु नहीं",
+          "यादृच्छिक फोकस"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><path d='M50,75 L150,75 L250,60 M150,75 L250,90' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A glass(n=1.5) hemisphere of radius 10cm is placed on a page. The apparent depth of a point on the page is:",
+        "hindi": "10 सेमी त्रिज्या का कांच(n=1.5) का अर्धगोला एक पृष्ठ पर रखा है। पृष्ठ पर एक बिंदु की आभासी गहराई है:"
+      },
+      "option": {
+        "english": [
+          "6.67 cm",
+          "10 cm",
+          "15 cm",
+          "5 cm"
+        ],
+        "hindi": [
+          "6.67 सेमी",
+          "10 सेमी",
+          "15 सेमी",
+          "5 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope, if objective and eyepiece focal lengths are 2cm and 5cm, the magnification for 25cm near point is:",
+        "hindi": "एक संयुक्त सूक्ष्मदर्शी में, यदि अभिदृश्यक और नेत्रिका की फोकस दूरियां 2सेमी और 5सेमी हैं, तो 25सेमी निकट बिंदु के लिए आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "150",
+          "100",
+          "200",
+          "250"
+        ],
+        "hindi": [
+          "150",
+          "100",
+          "200",
+          "250"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

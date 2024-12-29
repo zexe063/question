@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is a solar constant?",
+        "hindi": "सौर स्थिरांक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy per area",
+          "Solar panel size",
+          "Solar temperature",
+          "Solar radiation"
+        ],
+        "hindi": [
+          "प्रति क्षेत्रफल सौर ऊर्जा",
+          "सौर पैनल का आकार",
+          "सौर तापमान",
+          "सौर विकिरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biomass energy?",
+        "hindi": "बायोमास ऊर्जा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Energy from sun",
+          "Energy from organic matter",
+          "Energy from wind",
+          "Energy from water"
+        ],
+        "hindi": [
+          "सूर्य से ऊर्जा",
+          "जैविक पदार्थ से ऊर्जा",
+          "हवा से ऊर्जा",
+          "पानी से ऊर्जा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is nuclear fission?",
+        "hindi": "नाभिकीय विखंडन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Joining atoms",
+          "Breaking atoms",
+          "Heating atoms",
+          "Cooling atoms"
+        ],
+        "hindi": [
+          "परमाणुओं का जुड़ना",
+          "परमाणुओं का टूटना",
+          "परमाणुओं का गरम होना",
+          "परमाणुओं का ठंडा होना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main component of natural gas?",
+        "hindi": "प्राकृतिक गैस का मुख्य घटक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Propane",
+          "Methane",
+          "Butane"
+        ],
+        "hindi": [
+          "ईथेन",
+          "प्रोपेन",
+          "मीथेन",
+          "ब्यूटेन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the efficiency of solar cells?",
+        "hindi": "सौर सेल की दक्षता क्या है?"
+      },
+      "option": {
+        "english": [
+          "100%",
+          "75%",
+          "25%",
+          "50%"
+        ],
+        "hindi": [
+          "100%",
+          "75%",
+          "25%",
+          "50%"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is used to control nuclear reactions?",
+        "hindi": "नाभिकीय प्रतिक्रियाओं को नियंत्रित करने के लिए क्या उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Control rods",
+          "Fuel rods",
+          "Steam",
+          "Water"
+        ],
+        "hindi": [
+          "नियंत्रण छड़ें",
+          "ईंधन छड़ें",
+          "भाप",
+          "पानी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the main advantage of wind energy?",
+        "hindi": "पवन ऊर्जा का मुख्य लाभ क्या है?"
+      },
+      "option": {
+        "english": [
+          "No pollution",
+          "Low cost",
+          "High efficiency",
+          "Easy setup"
+        ],
+        "hindi": [
+          "कोई प्रदूषण नहीं",
+          "कम लागत",
+          "उच्च दक्षता",
+          "आसान स्थापना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What affects hydropower generation?",
+        "hindi": "जलविद्युत उत्पादन को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Temperature",
+          "Rainfall",
+          "Wind speed",
+          "Sunlight"
+        ],
+        "hindi": [
+          "तापमान",
+          "वर्षा",
+          "हवा की गति",
+          "सूर्य का प्रकाश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is coal called fossil fuel?",
+        "hindi": "कोयले को जीवाश्म ईंधन क्यों कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Found underground",
+          "Made from dead organisms",
+          "Black in color",
+          "Burns easily"
+        ],
+        "hindi": [
+          "जमीन के नीचे पाया जाता है",
+          "मृत जीवों से बना",
+          "काले रंग का",
+          "आसानी से जलता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source has least environmental impact?",
+        "hindi": "किस ऊर्जा स्रोत का पर्यावरण पर सबसे कम प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear",
+          "Coal",
+          "Wind",
+          "Oil"
+        ],
+        "hindi": [
+          "नाभिकीय",
+          "कोयला",
+          "पवन",
+          "तेल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

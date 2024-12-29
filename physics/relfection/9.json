@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "A periscope uses two mirrors at what angle to each other?",
+        "hindi": "एक पेरिस्कोप में दो दर्पण एक दूसरे से किस कोण पर होते हैं?"
+      },
+      "option": {
+        "english": [
+          "45°",
+          "90°",
+          "180°",
+          "60°"
+        ],
+        "hindi": [
+          "45°",
+          "90°",
+          "180°",
+          "60°"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='200' y2='50' stroke='black'/><line x1='200' y1='50' x2='200' y2='150' stroke='black'/><line x1='125' y1='25' x2='200' y2='50' stroke='blue'/><line x1='200' y1='50' x2='200' y2='150' stroke='red'/><line x1='200' y1='150' x2='225' y2='175' stroke='green'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "When an object moves from C to F of a concave mirror, the image moves:",
+        "hindi": "जब कोई वस्तु अवतल दर्पण के C से F तक जाती है, तो प्रतिबिंब जाता है:"
+      },
+      "option": {
+        "english": [
+          "From C to infinity",
+          "From infinity to F",
+          "From F to C",
+          "From C to F"
+        ],
+        "hindi": [
+          "C से अनंत तक",
+          "अनंत से F तक",
+          "F से C तक",
+          "C से F तक"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><text x='95' y='70'>F</text><circle cx='150' cy='75' r='2'/><text x='145' y='70'>C</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror combination is used in a corner cube reflector?",
+        "hindi": "कॉर्नर क्यूब रिफ्लेक्टर में किस दर्पण संयोजन का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Three mirrors at 90°",
+          "Two mirrors at 45°",
+          "Four mirrors at 60°",
+          "Two mirrors at 90°"
+        ],
+        "hindi": [
+          "90° पर तीन दर्पण",
+          "45° पर दो दर्पण",
+          "60° पर चार दर्पण",
+          "90° पर दो दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='150' y1='75' x2='250' y2='75' stroke='black'/><line x1='150' y1='75' x2='150' y2='125' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 15 cm. At what distance should an object be placed to get 3 times magnified real image?",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 15 सेमी है। 3 गुना आवर्धित वास्तविक प्रतिबिंब प्राप्त करने के लिए वस्तु को कितनी दूरी पर रखना चाहिए?"
+      },
+      "option": {
+        "english": [
+          "20 cm",
+          "30 cm",
+          "40 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "20 सेमी",
+          "30 सेमी",
+          "40 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of image when object is at infinity for a convex mirror?",
+        "hindi": "उत्तल दर्पण के लिए जब वस्तु अनंत पर हो तो प्रतिबिंब की प्रकृति क्या होगी?"
+      },
+      "option": {
+        "english": [
+          "Virtual at F",
+          "Real at F",
+          "Virtual beyond F",
+          "Real beyond F"
+        ],
+        "hindi": [
+          "F पर आभासी",
+          "F पर वास्तविक",
+          "F से परे आभासी",
+          "F से परे वास्तविक"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='25' cy='75' r='2'/><text x='20' y='70'>F</text><line x1='250' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='75' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a magic show, a ghost appears to float in air. This is achieved using:",
+        "hindi": "एक जादू के शो में, एक भूत हवा में तैरता हुआ दिखाई देता है। यह प्राप्त किया जाता है:"
+      },
+      "option": {
+        "english": [
+          "Two plane mirrors at 45°",
+          "Concave mirror",
+          "Convex mirror",
+          "Single plane mirror"
+        ],
+        "hindi": [
+          "45° पर दो समतल दर्पण",
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "एक समतल दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A ray parallel to principal axis falls on a concave mirror. After reflection it will:",
+        "hindi": "मुख्य अक्ष के समानांतर एक किरण अवतल दर्पण पर पड़ती है। परावर्तन के बाद वह:"
+      },
+      "option": {
+        "english": [
+          "Pass through F",
+          "Pass through C",
+          "Reflect parallel",
+          "Reflect at 45°"
+        ],
+        "hindi": [
+          "F से होकर गुजरेगी",
+          "C से होकर गुजरेगी",
+          "समानांतर परावर्तित होगी",
+          "45° पर परावर्तित होगी"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='100' y1='50' x2='150' y2='50' stroke='blue'/><line x1='150' y1='50' x2='100' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used in a solar furnace?",
+        "hindi": "सौर भट्टी में किस दर्पण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Parabolic mirror",
+          "Spherical mirror",
+          "Plane mirror",
+          "Convex mirror"
+        ],
+        "hindi": [
+          "परवलयिक दर्पण",
+          "गोलीय दर्पण",
+          "समतल दर्पण",
+          "उत्तल दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A person 1.8m tall stands 2m from a plane mirror. The minimum height of mirror to see full image is:",
+        "hindi": "1.8 मीटर लंबा व्यक्ति समतल दर्पण से 2 मीटर दूर खड़ा है। पूरा प्रतिबिंब देखने के लिए दर्पण की न्यूनतम ऊंचाई है:"
+      },
+      "option": {
+        "english": [
+          "0.9m",
+          "1.8m",
+          "3.6m",
+          "1.2m"
+        ],
+        "hindi": [
+          "0.9 मीटर",
+          "1.8 मीटर",
+          "3.6 मीटर",
+          "1.2 मीटर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope mirror system, which combination gives maximum magnification?",
+        "hindi": "दूरबीन दर्पण प्रणाली में, कौन सा संयोजन अधिकतम आवर्धन देता है?"
+      },
+      "option": {
+        "english": [
+          "Large objective, small eyepiece",
+          "Small objective, large eyepiece",
+          "Equal sized mirrors",
+          "Depends on distance"
+        ],
+        "hindi": [
+          "बड़ा अभिदृश्यक, छोटा नेत्रिका",
+          "छोटा अभिदृश्यक, बड़ा नेत्रिका",
+          "समान आकार के दर्पण",
+          "दूरी पर निर्भर करता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

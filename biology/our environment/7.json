@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of nitrogen cycle?",
+        "hindi": "नाइट्रोजन चक्र की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Water circulation",
+          "Carbon storage",
+          "Nitrogen fixation",
+          "Oxygen release"
+        ],
+        "hindi": [
+          "जल परिसंचरण",
+          "कार्बन भंडारण",
+          "नाइट्रोजन स्थिरीकरण",
+          "ऑक्सीजन विमोचन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas causes the most greenhouse effect?",
+        "hindi": "कौन सी गैस सबसे अधिक ग्रीनहाउस प्रभाव पैदा करती है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of soil conservation?",
+        "hindi": "मृदा संरक्षण का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Soil protection",
+          "Soil damage",
+          "Soil removal"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "मिट्टी का संरक्षण",
+          "मिट्टी की क्षति",
+          "मिट्टी का निष्कासन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of plastic on marine life?",
+        "hindi": "समुद्री जीवन पर प्लास्टिक का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Better growth",
+          "More food",
+          "Marine death"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "बेहतर विकास",
+          "अधिक भोजन",
+          "समुद्री मृत्यु"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of water treatment?",
+        "hindi": "जल उपचार का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Store water",
+          "Waste water",
+          "Clean water",
+          "Heat water"
+        ],
+        "hindi": [
+          "जल भंडारण",
+          "अपशिष्ट जल",
+          "जल शुद्धिकरण",
+          "जल तापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is vermicomposting?",
+        "hindi": "वर्मी कम्पोस्टिंग क्या है?"
+      },
+      "option": {
+        "english": [
+          "Waste disposal",
+          "Organic composting",
+          "Waste burning",
+          "Chemical treatment"
+        ],
+        "hindi": [
+          "कचरा निपटान",
+          "जैविक खाद",
+          "कचरा जलाना",
+          "रासायनिक उपचार"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a primary consumer in food chain?",
+        "hindi": "खाद्य श्रृंखला में प्राथमिक उपभोक्ता कौन है?"
+      },
+      "option": {
+        "english": [
+          "Herbivore",
+          "Carnivore",
+          "Omnivore",
+          "Producer"
+        ],
+        "hindi": [
+          "शाकाहारी",
+          "मांसाहारी",
+          "सर्वाहारी",
+          "उत्पादक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of thermal pollution?",
+        "hindi": "तापीय प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better aquatic life",
+          "More oxygen",
+          "Normal temperature",
+          "Aquatic death"
+        ],
+        "hindi": [
+          "बेहतर जलीय जीवन",
+          "अधिक ऑक्सीजन",
+          "सामान्य तापमान",
+          "जलीय मृत्यु"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is bioaccumulation?",
+        "hindi": "जैव संचयन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Toxin removal",
+          "Clean process",
+          "Toxin buildup",
+          "Natural process"
+        ],
+        "hindi": [
+          "विष निष्कासन",
+          "स्वच्छ प्रक्रिया",
+          "विष संचय",
+          "प्राकृतिक प्रक्रिया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of bioindicators?",
+        "hindi": "जैव संकेतकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Environmental health",
+          "Food production",
+          "Water storage"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "पर्यावरण स्वास्थ्य",
+          "खाद्य उत्पादन",
+          "जल भंडारण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

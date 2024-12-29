@@ -1,0 +1,234 @@
+
+[
+    {
+      "question_name": {
+        "english": "A person has high blood pressure and irregular heartbeat. Which part of the heart might be affected?",
+        "hindi": "एक व्यक्ति को उच्च रक्तचाप और अनियमित हृदय गति है। हृदय का कौन सा भाग प्रभावित हो सकता है?"
+      },
+      "option": {
+        "english": [
+          "Bundle of His",
+          "AV node",
+          "Purkinje fibers",
+          "SA node"
+        ],
+        "hindi": [
+          "हिस बंडल",
+          "AV नोड",
+          "पुरकिंजे फाइबर",
+          "SA नोड"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "During a marathon, an athlete experiences muscle cramps. What could be the reason?",
+        "hindi": "मैराथन के दौरान, एक एथलीट को मांसपेशियों में ऐंठन होती है। इसका क्या कारण हो सकता है?"
+      },
+      "option": {
+        "english": [
+          "Excess oxygen",
+          "High blood sugar",
+          "Lactic acid accumulation",
+          "Low blood pressure"
+        ],
+        "hindi": [
+          "अतिरिक्त ऑक्सीजन",
+          "उच्च रक्त शर्करा",
+          "लैक्टिक अम्ल का जमाव",
+          "निम्न रक्तचाप"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A plant shows wilting despite adequate water in soil. What could be the issue?",
+        "hindi": "मिट्टी में पर्याप्त पानी होने के बावजूद एक पौधा मुरझा रहा है। क्या समस्या हो सकती है?"
+      },
+      "option": {
+        "english": [
+          "All of these",
+          "Root damage",
+          "Excess transpiration",
+          "Blocked xylem"
+        ],
+        "hindi": [
+          "ये सभी",
+          "जड़ क्षति",
+          "अत्यधिक वाष्पोत्सर्जन",
+          "अवरुद्ध जाइलम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A person's urine test shows glucose. What might be happening?",
+        "hindi": "एक व्यक्ति के मूत्र परीक्षण में ग्लूकोज दिखता है। क्या हो रहा हो सकता है?"
+      },
+      "option": {
+        "english": [
+          "Kidney damage",
+          "Both B and C",
+          "Reabsorption failure",
+          "Diabetes"
+        ],
+        "hindi": [
+          "गुर्दे की क्षति",
+          "B और C दोनों",
+          "पुनरावशोषण विफलता",
+          "मधुमेह"
+        ]
+      },
+      "answer": 1,  
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "After eating fatty food, a person experiences indigestion. Which organ's secretion might be insufficient?",
+        "hindi": "वसायुक्त भोजन खाने के बाद, एक व्यक्ति को अपच होती है। किस अंग का स्राव अपर्याप्त हो सकता है?"
+      },
+      "option": {
+        "english": [
+          "Pancreas",
+          "Stomach",
+          "Liver",
+          "Gallbladder"
+        ],
+        "hindi": [
+          "अग्न्याशय",
+          "आमाशय",
+          "यकृत",
+          "पित्ताशय"
+        ]
+      },
+      "answer": 3,
+    "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A person's blood test shows low hemoglobin but normal RBC count. What could be missing?",
+        "hindi": "एक व्यक्ति के रक्त परीक्षण में हीमोग्लोबिन कम लेकिन RBC सामान्य है। क्या कमी हो सकती है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Calcium",
+          "Vitamin B12",
+          "Protein"
+        ],
+        "hindi": [
+          "लौह",
+          "कैल्शियम",
+          "विटामिन B12",
+          "प्रोटीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "During summer, plants in a greenhouse show reduced growth despite adequate nutrients. Why?",
+        "hindi": "गर्मियों में, पर्याप्त पोषक तत्वों के बावजूद ग्रीनहाउस में पौधों की वृद्धि कम हो जाती है। क्यों?"
+      },
+      "option": {
+        "english": [
+          "Excess light",
+          "Low carbon dioxide",
+          "High temperature affecting enzymes",
+          "Too much water"
+        ],
+        "hindi": [
+          "अत्यधिक प्रकाश",
+          "कम कार्बन डाइऑक्साइड",
+          "उच्च तापमान से एंजाइम प्रभावित",
+          "बहुत अधिक पानी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A person experiences breathing difficulty at high altitude. What adaptation occurs?",
+        "hindi": "ऊंचाई पर एक व्यक्ति को सांस लेने में कठिनाई होती है। कौन सा अनुकूलन होता है?"
+      },
+      "option": {
+        "english": [
+          "Decreased heart rate",
+          "Increased RBC production",
+          "Reduced oxygen consumption",
+          "Lower hemoglobin affinity"
+        ],
+        "hindi": [
+          "धीमी हृदय गति",
+          "RBC उत्पादन में वृद्धि",
+          "ऑक्सीजन खपत में कमी",
+          "कम हीमोग्लोबिन बंधुता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A person's blood pressure drops suddenly. What compensatory mechanism occurs first?",
+        "hindi": "एक व्यक्ति का रक्तचाप अचानक गिर जाता है। कौन सी क्षतिपूरक क्रिया पहले होती है?"
+      },
+      "option": {
+        "english": [
+          "Increased breathing",
+          "Hormone release",
+          "Increased heart rate",
+          "Vasoconstriction"
+        ],
+        "hindi": [
+          "बढ़ा हुआ श्वसन",
+          "हार्मोन स्राव",
+          "बढ़ी हुई हृदय गति",
+          "वाहिका संकुचन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "After exercise, why does breathing rate remain elevated even after heart rate normalizes?",
+        "hindi": "व्यायाम के बाद, हृदय गति सामान्य होने के बाद भी श्वसन दर ऊंची क्यों रहती है?"
+      },
+      "option": {
+        "english": [
+          "All of these",
+          "To supply more oxygen",
+          "To balance pH",
+          "To remove excess CO2"
+        ],
+        "hindi": [
+          "ये सभी",
+          "अधिक ऑक्सीजन देने के लिए",
+          "pH संतुलित करने के लिए",
+          "अतिरिक्त CO2 निकालने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+    
+  ]

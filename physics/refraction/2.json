@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a diamond sparkle more than glass?",
+        "hindi": "हीरा कांच से अधिक चमकता क्यों है?"
+      },
+      "option": {
+        "english": [
+          "Higher refractive index",
+          "Better reflection",
+          "More transparency",
+          "Better shape"
+        ],
+        "hindi": [
+          "उच्च अपवर्तनांक",
+          "बेहतर परावर्तन",
+          "अधिक पारदर्शिता",
+          "बेहतर आकार"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a mirage appear on hot roads?",
+        "hindi": "गर्म सड़कों पर मृगतृष्णा क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Total internal reflection in air",
+          "Regular reflection",
+          "Scattering of light",
+          "Absorption of light"
+        ],
+        "hindi": [
+          "वायु में पूर्ण आंतरिक परावर्तन",
+          "सामान्य परावर्तन",
+          "प्रकाश का प्रकीर्णन",
+          "प्रकाश का अवशोषण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers have a cladding of lower refractive index?",
+        "hindi": "प्रकाशिक तंतुओं में कम अपवर्तनांक का आवरण क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "For total internal reflection",
+          "For better strength",
+          "For flexibility",
+          "For protection"
+        ],
+        "hindi": [
+          "पूर्ण आंतरिक परावर्तन के लिए",
+          "बेहतर मजबूती के लिए",
+          "लचीलेपन के लिए",
+          "सुरक्षा के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Light travels from water (n=1.33) to glass (n=1.5). If angle of incidence is 45°, the angle of refraction is:",
+        "hindi": "प्रकाश जल (n=1.33) से कांच (n=1.5) में जाता है। यदि आपतन कोण 45° है, तो अपवर्तन कोण है:"
+      },
+      "option": {
+        "english": [
+          "39°",
+          "45°",
+          "50°",
+          "35°"
+        ],
+        "hindi": [
+          "39°",
+          "45°",
+          "50°",
+          "35°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A glass slab of refractive index 1.5 has thickness 4 cm. The lateral shift for a ray at 60° incidence is:",
+        "hindi": "1.5 अपवर्तनांक वाली 4 सेमी मोटी कांच की सिल्ली में 60° आपतन पर किरण का पार्श्व विस्थापन है:"
+      },
+      "option": {
+        "english": [
+          "2 cm",
+          "1 cm",
+          "3 cm",
+          "4 cm"
+        ],
+        "hindi": [
+          "2 सेमी",
+          "1 सेमी",
+          "3 सेमी",
+          "4 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows refraction through a prism at minimum deviation?",
+        "hindi": "कौन सा किरण आरेख प्रिज्म में न्यूनतम विचलन पर अपवर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "i₁ = i₂",
+          "i₁ > i₂",
+          "i₁ < i₂",
+          "i₁ = 0"
+        ],
+        "hindi": [
+          "i₁ = i₂",
+          "i₁ > i₂",
+          "i₁ < i₂",
+          "i₁ = 0"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,75 L100,125 Z' stroke='black' fill='none'/><line x1='50' y1='50' x2='100' y2='75' stroke='blue'/><line x1='200' y1='75' x2='250' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of rainbow?",
+        "hindi": "कौन सा किरण आरेख इंद्रधनुष के निर्माण को दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "TIR + Dispersion",
+          "Only dispersion",
+          "Only reflection",
+          "Only refraction"
+        ],
+        "hindi": [
+          "पूर्ण आंतरिक परावर्तन + वर्णविक्षेपण",
+          "केवल वर्णविक्षेपण",
+          "केवल परावर्तन",
+          "केवल अपवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><path d='M150,75 Q200,50 200,100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows dispersion in a prism?",
+        "hindi": "कौन सा किरण आरेख प्रिज्म में वर्णविक्षेपण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Violet bends most",
+          "Red bends most",
+          "All bend equally",
+          "No bending"
+        ],
+        "hindi": [
+          "बैंगनी सबसे अधिक मुड़ती है",
+          "लाल सबसे अधिक मुड़ती है",
+          "सभी बराबर मुड़ती हैं",
+          "कोई मुड़ान नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,75 L100,125 Z' stroke='black' fill='none'/><line x1='50' y1='75' x2='100' y2='75' stroke='white'/><path d='M200,75 L250,50 L250,100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For a medium of refractive index √3, if angle of incidence increases by 30°, the angle of refraction increases by:",
+        "hindi": "√3 अपवर्तनांक वाले माध्यम में, यदि आपतन कोण 30° बढ़ता है, तो अपवर्तन कोण बढ़ता है:"
+      },
+      "option": {
+        "english": [
+          "16.1°",
+          "30°",
+          "20°",
+          "25°"
+        ],
+        "hindi": [
+          "16.1°",
+          "30°",
+          "20°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In an equilateral prism, for minimum deviation, angle of incidence is:",
+        "hindi": "एक समबाहु प्रिज्म में, न्यूनतम विचलन के लिए, आपतन कोण है:"
+      },
+      "option": {
+        "english": [
+          "Equal to angle of emergence",
+          "Equal to prism angle",
+          "Equal to deviation angle",
+          "Equal to critical angle"
+        ],
+        "hindi": [
+          "निर्गम कोण के बराबर",
+          "प्रिज्म कोण के बराबर",
+          "विचलन कोण के बराबर",
+          "क्रांतिक कोण के बराबर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

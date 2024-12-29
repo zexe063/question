@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used to treat indigestion?",
+        "hindi": "अपच के इलाज में इनमें से किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Vinegar",
+          "Citric acid",
+          "Milk of magnesia",
+          "Boric acid"
+        ],
+        "hindi": [
+          "सिरका",
+          "साइट्रिक एसिड",
+          "मैग्नीशिया का दूध",
+          "बोरिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The pH range of human blood is:",
+        "hindi": "मानव रक्त का pH परास है:"
+      },
+      "option": {
+        "english": [
+          "7.3-7.5",
+          "6.5-7.0",
+          "8.0-8.5",
+          "5.0-6.0"
+        ],
+        "hindi": [
+          "7.3-7.5",
+          "6.5-7.0",
+          "8.0-8.5",
+          "5.0-6.0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which indicator turns pink in basic medium?",
+        "hindi": "कौन सा सूचक क्षारीय माध्यम में गुलाबी हो जाता है?"
+      },
+      "option": {
+        "english": [
+          "Methyl orange",
+          "Phenolphthalein",
+          "Red litmus",
+          "Methyl red"
+        ],
+        "hindi": [
+          "मिथाइल ऑरेंज",
+          "फिनॉल्फ्थेलीन",
+          "लाल लिटमस",
+          "मिथाइल रेड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of NaHCO₃?",
+        "hindi": "NaHCO₃ का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Washing soda",
+          "Caustic soda",
+          "Plaster of Paris",
+          "Baking soda"
+        ],
+        "hindi": [
+          "धावन सोडा",
+          "कास्टिक सोडा",
+          "प्लास्टर ऑफ पेरिस",
+          "बेकिंग सोडा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is present in curd?",
+        "hindi": "दही में कौन सा अम्ल पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Citric acid",
+          "Acetic acid",
+          "Lactic acid",
+          "Tartaric acid"
+        ],
+        "hindi": [
+          "साइट्रिक एसिड",
+          "एसीटिक एसिड",
+          "लैक्टिक एसिड",
+          "टार्टरिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt does not change the color of phenolphthalein?",
+        "hindi": "कौन सा लवण फिनॉल्फ्थेलीन का रंग नहीं बदलता?"
+      },
+      "option": {
+        "english": [
+          "Na₂CO₃",
+          "NaCl",
+          "CH₃COONa",
+          "NH₄Cl"
+        ],
+        "hindi": [
+          "Na₂CO₃",
+          "NaCl",
+          "CH₃COONa",
+          "NH₄Cl"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when zinc reacts with dilute HCl?",
+        "hindi": "जब जिंक तनु HCl से अभिक्रिया करता है तो क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "ZnCl₂ + H₂",
+          "ZnO + H₂O",
+          "Zn(OH)₂ + H₂",
+          "ZnCO₃ + H₂O"
+        ],
+        "hindi": [
+          "ZnCl₂ + H₂",
+          "ZnO + H₂O",
+          "Zn(OH)₂ + H₂",
+          "ZnCO₃ + H₂O"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which solution has the highest pH?",
+        "hindi": "किस विलयन का pH सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Milk",
+          "Pure water",
+          "Lemon juice",
+          "NaOH solution"
+        ],
+        "hindi": [
+          "दूध",
+          "शुद्ध जल",
+          "नींबू का रस",
+          "NaOH विलयन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the pH of a solution with [OH⁻] = 1 × 10⁻² M?",
+        "hindi": "[OH⁻] = 1 × 10⁻² M वाले विलयन का pH क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "12",
+          "10",
+          "4"
+        ],
+        "hindi": [
+          "2",
+          "12",
+          "10",
+          "4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which equation correctly shows the dissociation of H₂SO₄?",
+        "hindi": "कौन सा समीकरण H₂SO₄ के वियोजन को सही दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "H₂SO₄ → H⁺ + SO₄²⁻",
+          "H₂SO₄ → 2H⁺ + SO₄²⁻",
+          "H₂SO₄ → H⁺ + HSO₄⁻",
+          "H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻"
+        ],
+        "hindi": [
+          "H₂SO₄ → H⁺ + SO₄²⁻",
+          "H₂SO₄ → 2H⁺ + SO₄²⁻",
+          "H₂SO₄ → H⁺ + HSO₄⁻",
+          "H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

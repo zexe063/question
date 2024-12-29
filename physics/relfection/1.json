@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "A concave mirror produces three times magnified real image of an object. If the radius of curvature is 30cm, find the position of object. ",
+        "hindi": "एक अवतल दर्पण किसी वस्तु का तीन गुना आवर्धित वास्तविक प्रतिबिंब बनाता है। यदि वक्रता त्रिज्या 30cm है, तो वस्तु की स्थिति ज्ञात करें। "
+      },
+      "option": {
+        "english": [
+          "5 cm",
+          "7.5 cm",
+          "10 cm",
+          "15 cm"
+        ],
+        "hindi": [
+          "5 सेमी",
+          "7.5 सेमी",
+          "10 सेमी",
+          "15 सेमी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The image formed by a plane mirror is: ",
+        "hindi": "समतल दर्पण द्वारा बनने वाला प्रतिबिंब होता है:"
+      },
+      "option": {
+        "english": [
+          "Real and erect",
+          "Virtual and erect",
+          "Real and inverted",
+          "Virtual and inverted"
+        ],
+        "hindi": [
+          "वास्तविक और सीधा",
+          "आभासी और सीधा",
+          "वास्तविक और उल्टा",
+          "आभासी और उल्टा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length of 15 cm. At what distance should the object be placed so that it forms a real and inverted image of same size? ",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 15 सेमी है। वस्तु को कितनी दूरी पर रखा जाए ताकि समान आकार का वास्तविक और उल्टा प्रतिबिंब बने? "
+      },
+      "option": {
+        "english": [
+          "15 cm",
+          "30 cm",
+          "45 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "15 सेमी",
+          "30 सेमी",
+          "45 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used by a dentist to examine teeth?",
+        "hindi": "दंत चिकित्सक दांतों की जांच के लिए किस दर्पण का उपयोग करता है? "
+      },
+      "option": {
+        "english": [
+          "Plane mirror",
+          "Convex mirror",
+          "Concave mirror",
+          "None of these"
+        ],
+        "hindi": [
+          "समतल दर्पण",
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The radius of curvature of a spherical mirror is 20 cm. Its focal length is: ",
+        "hindi": "एक गोलीय दर्पण की वक्रता त्रिज्या 20 सेमी है। इसकी फोकस दूरी है: "
+      },
+      "option": {
+        "english": [
+          "5 cm",
+          "10 cm",
+          "20 cm",
+          "40 cm"
+        ],
+        "hindi": [
+          "5 सेमी",
+          "10 सेमी",
+          "20 सेमी",
+          "40 सेमी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray of light falls on a plane mirror making an angle of 30° with the mirror. The angle of reflection is: ",
+        "hindi": "एक प्रकाश किरण समतल दर्पण पर 30° का कोण बनाते हुए गिरती है। परावर्तन कोण है: "
+      },
+      "option": {
+        "english": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ],
+        "hindi": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "An object is placed at C (center of curvature) of a concave mirror. The image formed will be: ",
+        "hindi": "एक वस्तु को अवतल दर्पण के वक्रता केंद्र C पर रखा जाता है। बनने वाला प्रतिबिंब होगा: "
+      },
+      "option": {
+        "english": [
+          "At infinity",
+          "At focus",
+          "At C",
+          "Between F and C"
+        ],
+        "hindi": [
+          "अनंत पर",
+          "फोकस पर",
+          "C पर",
+          "F और C के बीच"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The magnification produced by a plane mirror is: ",
+        "hindi": "समतल दर्पण द्वारा उत्पन्न आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "+1",
+          "-1",
+          "0",
+          "∞"
+        ],
+        "hindi": [
+          "+1",
+          "-1",
+          "0",
+          "∞"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A convex mirror used in a bus has a radius of curvature of 3.2m. Find its focal length. ",
+        "hindi": "एक बस में प्रयुक्त उत्तल दर्पण की वक्रता त्रिज्या 3.2m है। इसकी फोकस दूरी ज्ञात करें। "
+      },
+      "option": {
+        "english": [
+          "1.4m",
+          "1.6m",
+          "1.8m",
+          "2.0m"
+        ],
+        "hindi": [
+          "1.4m",
+          "1.6m",
+          "1.8m",
+          "2.0m"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The image formed by a concave mirror is real, inverted and of same size as the object. The position of object is: ",
+        "hindi": "अवतल दर्पण द्वारा बना प्रतिबिंब वास्तविक, उल्टा और वस्तु के समान आकार का है। वस्तु की स्थिति है:"
+      },
+      "option": {
+        "english": [
+          "At focus",
+          "At infinity",
+          "At center of curvature",
+          "Beyond center of curvature"
+        ],
+        "hindi": [
+          "फोकस पर",
+          "अनंत पर",
+          "वक्रता केंद्र पर",
+          "वक्रता केंद्र से परे"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    }
+  ]

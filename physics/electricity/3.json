@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the commercial unit of electrical energy consumption?",
+        "hindi": "विद्युत ऊर्जा खपत की वाणिज्यिक इकाई क्या है?"
+      },
+      "option": {
+        "english": [
+          "Watt-hour",
+          "Kilowatt",
+          "Kilowatt-hour",
+          "Joule"
+        ],
+        "hindi": [
+          "वाट-घंटा",
+          "किलोवाट",
+          "किलोवाट-घंटा",
+          "जूल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which safety device is based on the heating effect of electric current?",
+        "hindi": "कौन सा सुरक्षा उपकरण विद्युत धारा के तापीय प्रभाव पर आधारित है?"
+      },
+      "option": {
+        "english": [
+          "Electric switch",
+          "Electric fuse",
+          "Electric meter",
+          "Electric socket"
+        ],
+        "hindi": [
+          "विद्युत स्विच",
+          "विद्युत फ्यूज",
+          "विद्युत मीटर",
+          "विद्युत सॉकेट"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to the resistance of a conductor when its temperature increases?",
+        "hindi": "चालक का तापमान बढ़ने पर उसके प्रतिरोध में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Increases",
+          "Decreases",
+          "Remains same",
+          "Becomes zero"
+        ],
+        "hindi": [
+          "बढ़ता है",
+          "घटता है",
+          "समान रहता है",
+          "शून्य हो जाता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the energy consumed by a 1000W heater in 2 hours.",
+        "hindi": "1000W के हीटर द्वारा 2 घंटे में खपत की गई ऊर्जा की गणना करें।"
+      },
+      "option": {
+        "english": [
+          "1 kWh",
+          "2 kWh",
+          "3 kWh",
+          "4 kWh"
+        ],
+        "hindi": [
+          "1 किलोवाट-घंटा",
+          "2 किलोवाट-घंटा",
+          "3 किलोवाट-घंटा",
+          "4 किलोवाट-घंटा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If a 220V electric iron draws 2A current, what is its power rating?",
+        "hindi": "यदि 220V का विद्युत इस्तरी 2A धारा लेता है, तो इसकी शक्ति क्या होगी?"
+      },
+      "option": {
+        "english": [
+          "110W",
+          "220W",
+          "440W",
+          "880W"
+        ],
+        "hindi": [
+          "110W",
+          "220W",
+          "440W",
+          "880W"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the type of connection shown in the circuit:",
+        "hindi": "सर्किट में दिखाए गए कनेक्शन का प्रकार पहचानें:"
+      },
+      "option": {
+        "english": [
+          "Series",
+          "Parallel",
+          "Mixed",
+          "None of these"
+        ],
+        "hindi": [
+          "श्रेणी",
+          "समानांतर",
+          "मिश्रित",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What does this circuit symbol represent?",
+        "hindi": "यह सर्किट प्रतीक क्या दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Ammeter",
+          "Voltmeter",
+          "Battery",
+          "Cell"
+        ],
+        "hindi": [
+          "एमीटर",
+          "वोल्टमीटर",
+          "बैटरी",
+          "सेल"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' fill='none' stroke='black'/><text x='145' y='80'>A</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which component is connected incorrectly in this household circuit?",
+        "hindi": "इस घरेलू सर्किट में कौन सा घटक गलत तरीके से जुड़ा है?"
+      },
+      "option": {
+        "english": [
+          "Switch",
+          "Fuse",
+          "Voltmeter",
+          "Earth wire"
+        ],
+        "hindi": [
+          "स्विच",
+          "फ्यूज",
+          "वोल्टमीटर",
+          "अर्थ तार"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='60' height='30' fill='none' stroke='black'/><text x='140' y='60'>V</text><line x1='150' y1='70' x2='150' y2='120' stroke='black'/><circle cx='150' cy='30' r='10' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the current through R₂ in the given parallel circuit if total current is 5A and R₁ = R₂:",
+        "hindi": "दिए गए समानांतर सर्किट में R₂ से प्रवाहित धारा की गणना करें यदि कुल धारा 5A है और R₁ = R₂ है:"
+      },
+      "option": {
+        "english": [
+          "1.5A",
+          "2.5A",
+          "3.5A",
+          "5A"
+        ],
+        "hindi": [
+          "1.5A",
+          "2.5A",
+          "3.5A",
+          "5A"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='110' y='65'>R₁</text><text x='110' y='105'>R₂</text><text x='30' y='75'>5A</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do we use parallel connection for household appliances instead of series connection? Explain with reason:",
+        "hindi": "घरेलू उपकरणों के लिए श्रेणी संयोजन के बजाय समानांतर संयोजन का उपयोग क्यों करते हैं? कारण सहित समझाएं:"
+      },
+      "option": {
+        "english": [
+          "Because parallel connection divides voltage",
+          "Because parallel connection provides same voltage to all appliances",
+          "Because parallel connection uses less current",
+          "Because parallel connection is easier to install"
+        ],
+        "hindi": [
+          "क्योंकि समानांतर संयोजन वोल्टेज को विभाजित करता है",
+          "क्योंकि समानांतर संयोजन सभी उपकरणों को समान वोल्टेज प्रदान करता है",
+          "क्योंकि समानांतर संयोजन कम धारा का उपयोग करता है",
+          "क्योंकि समानांतर संयोजन स्थापित करने में आसान होता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of wetlands?",
+        "hindi": "आर्द्रभूमि की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Water purification",
+          "Just water",
+          "Empty space"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "जल शुद्धिकरण",
+          "केवल पानी",
+          "खाली स्थान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is soil profile?",
+        "hindi": "मृदा प्रोफ़ाइल क्या है?"
+      },
+      "option": {
+        "english": [
+          "Surface only",
+          "Random layers",
+          "Soil layers",
+          "No layers"
+        ],
+        "hindi": [
+          "केवल सतह",
+          "यादृच्छिक परतें",
+          "मिट्टी की परतें",
+          "कोई परत नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a renewable resource?",
+        "hindi": "नवीकरणीय संसाधन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "hindi": [
+          "सौर ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of greenhouse gases?",
+        "hindi": "ग्रीनहाउस गैसों का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Cooling Earth",
+          "No effect",
+          "Better climate",
+          "Global warming"
+        ],
+        "hindi": [
+          "पृथ्वी को ठंडा करना",
+          "कोई प्रभाव नहीं",
+          "बेहतर जलवायु",
+          "वैश्विक तापन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is watershed?",
+        "hindi": "जलग्रहण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Water waste",
+          "Water area",
+          "Just river",
+          "Only lake"
+        ],
+        "hindi": [
+          "जल बर्बादी",
+          "जल क्षेत्र",
+          "केवल नदी",
+          "केवल झील"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of pesticides?",
+        "hindi": "कीटनाशकों का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better health",
+          "Clean environment",
+          "Good soil",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "बेहतर स्वास्थ्य",
+          "स्वच्छ पर्यावरण",
+          "अच्छी मिट्टी",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas causes acid rain?",
+        "hindi": "कौन सी गैस अम्ल वर्षा का कारण बनती है?"
+      },
+      "option": {
+        "english": [
+          "Sulfur dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "सल्फर डाइऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is wildlife sanctuary?",
+        "hindi": "वन्यजीव अभयारण्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Open area",
+          "Empty space",
+          "Protected area",
+          "Public park"
+        ],
+        "hindi": [
+          "खुला क्षेत्र",
+          "खाली स्थान",
+          "संरक्षित क्षेत्र",
+          "सार्वजनिक पार्क"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is energy conservation?",
+        "hindi": "ऊर्जा संरक्षण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Energy waste",
+          "Energy saving",
+          "Energy loss",
+          "Energy removal"
+        ],
+        "hindi": [
+          "ऊर्जा बर्बादी",
+          "ऊर्जा बचत",
+          "ऊर्जा हानि",
+          "ऊर्जा निकासी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of deforestation?",
+        "hindi": "वनों की कटाई का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better climate",
+          "More oxygen",
+          "Clean air",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "बेहतर जलवायु",
+          "अधिक ऑक्सीजन",
+          "स्वच्छ वायु",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

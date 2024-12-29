@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Which hormone regulates blood sugar level?",
+        "hindi": "कौन सा हार्मोन रक्त शर्करा स्तर को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Insulin",
+          "Adrenaline",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "इंसुलिन", 
+          "एड्रेनालिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls memory?",
+        "hindi": "मस्तिष्क का कौन सा भाग स्मृति को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebrum",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेब्रम",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes adrenaline?",
+        "hindi": "कौन सी ग्रंथि एड्रेनालिन स्रावित करती है?"
+      },
+      "option": {
+        "english": [
+          "Adrenal",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "एड्रेनल",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of myelin sheath?",
+        "hindi": "माइलिन आवरण का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Produce hormones",
+          "Filter blood",
+          "Insulate nerve"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "हार्मोन उत्पादन",
+          "रक्त छानना",
+          "तंत्रिका विद्युतरोधन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls calcium level?",
+        "hindi": "कौन सा हार्मोन कैल्शियम स्तर को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Calcitonin",
+          "Thyroxine",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "कैल्सीटोनिन",
+          "थायरॉक्सिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during reflex action?",
+        "hindi": "प्रतिवर्त क्रिया के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Slow response",
+          "Planned action",
+          "Brain processing",
+          "Quick response"
+        ],
+        "hindi": [
+          "धीमी प्रतिक्रिया",
+          "योजनाबद्ध क्रिया",
+          "मस्तिष्क प्रसंस्करण",
+          "त्वरित प्रतिक्रिया"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces thyroid hormones?",
+        "hindi": "कौन सी ग्रंथि थायरॉइड हार्मोन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone causes cell division?",
+        "hindi": "कौन सा पादप हार्मोन कोशिका विभाजन करता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Abscisic acid",
+          "Cytokinin",
+          "Ethylene"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "एब्सिसिक एसिड",
+          "साइटोकाइनिन",
+          "एथिलीन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls metamorphosis in insects?",
+        "hindi": "कौन सा हार्मोन कीटों में कायांतरण को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Ecdysone",
+          "Insulin",
+          "Auxin"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "एक्डाइसोन",
+          "इंसुलिन",
+          "ऑक्सिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of cerebrospinal fluid?",
+        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Blood filtration",
+          "Hormone production",
+          "Waste removal",
+          "Shock absorption"
+        ],
+        "hindi": [
+          "रक्त छनन",
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "आघात अवशोषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

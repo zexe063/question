@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of pancreas in digestion?",
+        "hindi": "पाचन में अग्न्याशय का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Produces bile",
+          "Stores enzymes",
+          "Secretes digestive enzymes",
+          "Absorbs nutrients"
+        ],
+        "hindi": [
+          "पित्त उत्पन्न करता है",
+          "एंजाइम संग्रह करता है",
+          "पाचक एंजाइम स्रावित करता है",
+          "पोषक तत्व अवशोषित करता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which blood vessel carries blood to kidneys?",
+        "hindi": "कौन सी रक्त वाहिनी गुर्दे तक रक्त ले जाती है?"
+      },
+      "option": {
+        "english": [
+          "Renal artery",
+          "Renal vein",
+          "Aorta",
+          "Vena cava"
+        ],
+        "hindi": [
+          "वृक्क धमनी",
+          "वृक्क शिरा",
+          "महाधमनी",
+          "महाशिरा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of phloem in plants?",
+        "hindi": "पौधों में फ्लोएम की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Transport water",
+          "Transport food",
+          "Store food",
+          "Produce food"
+        ],
+        "hindi": [
+          "जल का परिवहन",
+          "भोजन का परिवहन",
+          "भोजन का संग्रह",
+          "भोजन का उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of large intestine?",
+        "hindi": "बड़ी आंत का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Digest food",
+          "Absorb nutrients",
+          "Absorb water",
+          "Produce enzymes"
+        ],
+        "hindi": [
+          "भोजन का पाचन",
+          "पोषक तत्वों का अवशोषण",
+          "जल का अवशोषण",
+          "एंजाइम उत्पादन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which chamber of heart pumps blood to body?",
+        "hindi": "हृदय का कौन सा कक्ष शरीर में रक्त पंप करता है?"
+      },
+      "option": {
+        "english": [
+          "Right atrium",
+          "Left atrium",
+          "Right ventricle",
+          "Left ventricle"
+        ],
+        "hindi": [
+          "दायाँ आलिंद",
+          "बायाँ आलिंद",
+          "दायाँ निलय",
+          "बायाँ निलय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes the opening and closing of stomata?",
+        "hindi": "रंध्रों का खुलना और बंद होना किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Temperature change",
+          "Light intensity",
+          "Turgor pressure",
+          "Wind speed"
+        ],
+        "hindi": [
+          "तापमान परिवर्तन",
+          "प्रकाश की तीव्रता",
+          "दाब स्थितिस्थापकता",
+          "वायु की गति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does blood clotting occur?",
+        "hindi": "रक्त का थक्का कैसे जमता है?"
+      },
+      "option": {
+        "english": [
+          "By white blood cells",
+          "By red blood cells",
+          "By platelets and proteins",
+          "By plasma alone"
+        ],
+        "hindi": [
+          "श्वेत रक्त कोशिकाओं द्वारा",
+          "लाल रक्त कोशिकाओं द्वारा",
+          "प्लेटलेट्स और प्रोटीन द्वारा",
+          "केवल प्लाज्मा द्वारा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of vascular cambium?",
+        "hindi": "संवहनी कैम्बियम की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Produces bark",
+          "Forms new xylem and phloem",
+          "Stores food",
+          "Protects plant"
+        ],
+        "hindi": [
+          "छाल उत्पन्न करता है",
+          "नया जाइलम और फ्लोएम बनाता है",
+          "भोजन संग्रह करता है",
+          "पौधे की रक्षा करता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is glucose not found in urine normally?",
+        "hindi": "सामान्यतः मूत्र में ग्लूकोज क्यों नहीं पाया जाता?"
+      },
+      "option": {
+        "english": [
+          "Broken down in kidneys",
+          "Converted to other substances",
+          "Completely reabsorbed",
+          "Filtered out in blood"
+        ],
+        "hindi": [
+          "गुर्दे में टूट जाता है",
+          "अन्य पदार्थों में बदल जाता है",
+          "पूरी तरह पुनः अवशोषित हो जाता है",
+          "रक्त में छन जाता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes heart sounds 'lub' and 'dub'?",
+        "hindi": "'लब' और 'डब' हृदय ध्वनियाँ किस कारण होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Blood flow",
+          "Heart muscle contraction",
+          "Valve closure",
+          "Arterial movement"
+        ],
+        "hindi": [
+          "रक्त प्रवाह",
+          "हृदय पेशी संकुचन",
+          "वाल्व का बंद होना",
+          "धमनी की गति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

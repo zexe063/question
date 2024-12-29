@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What color does litmus paper turn in acidic solution?",
+        "hindi": "अम्लीय घोल में लिटमस पेपर का रंग क्या हो जाता है?"
+      },
+      "option": {
+        "english": [
+          "Green",
+          "Red",
+          "Blue",
+          "Black"
+        ],
+        "hindi": [
+          "हरा",
+          "लाल",
+          "नीला",
+          "काला"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used to treat soil acidity?",
+        "hindi": "मिट्टी की अम्लता को दूर करने के लिए किसका प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Calcium oxide (lime)",
+          "Vinegar",
+          "Common salt",
+          "Baking soda"
+        ],
+        "hindi": [
+          "कैल्शियम ऑक्साइड (चूना)",
+          "सिरका",
+          "साधारण नमक",
+          "बेकिंग सोडा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is found in car batteries?",
+        "hindi": "कार की बैटरी में इनमें से क्या पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Citric acid",
+          "Acetic acid",
+          "Sulphuric acid",
+          "Nitric acid"
+        ],
+        "hindi": [
+          "साइट्रिक एसिड",
+          "एसिटिक एसिड",
+          "सल्फ्यूरिक एसिड",
+          "नाइट्रिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the pH of pure water?",
+        "hindi": "शुद्ध जल का pH क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "5",
+          "14",
+          "0",
+          "7"
+        ],
+        "hindi": [
+          "5",
+          "14",
+          "0",
+          "7"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which substance is commonly used as an antacid?",
+        "hindi": "कौन सा पदार्थ एंटासिड के रूप में प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "HCl",
+          "Mg(OH)₂",
+          "NaCl",
+          "H₂SO₄"
+        ],
+        "hindi": [
+          "HCl",
+          "Mg(OH)₂",
+          "NaCl",
+          "H₂SO₄"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What gas is produced when acids react with metals?",
+        "hindi": "अम्ल जब धातुओं से क्रिया करते हैं तो कौन सी गैस उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which salt gives acidic solution in water?",
+        "hindi": "कौन सा लवण जल में अम्लीय विलयन देता है?"
+      },
+      "option": {
+        "english": [
+          "NH₄Cl",
+          "Na₂CO₃",
+          "NaCl",
+          "KCl"
+        ],
+        "hindi": [
+          "NH₄Cl",
+          "Na₂CO₃",
+          "NaCl",
+          "KCl"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of soap solution?",
+        "hindi": "साबुन के घोल की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Neutral",
+          "Acidic",
+          "Basic",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "उदासीन",
+          "अम्लीय",
+          "क्षारीय",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which reaction represents neutralization?",
+        "hindi": "कौन सी अभिक्रिया उदासीनीकरण को दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "NaOH + HCl → NaCl + H₂O",
+          "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂",
+          "2H₂ + O₂ → 2H₂O"
+        ],
+        "hindi": [
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "NaOH + HCl → NaCl + H₂O",
+          "CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂",
+          "2H₂ + O₂ → 2H₂O"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the H⁺ ion concentration if pH is 2",
+        "hindi": "यदि pH 2 है तो H⁺ आयन की सांद्रता की गणना करें"
+      },
+      "option": {
+        "english": [
+          "1 × 10⁻¹ M",
+          "1 × 10⁻² M",
+          "1 × 10⁻² M",
+          "1 × 10⁻¹⁴ M"
+        ],
+        "hindi": [
+          "1 × 10⁻¹ M",
+          "1 × 10⁻² M",
+          "1 × 10⁻² M",
+          "1 × 10⁻¹⁴ M"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

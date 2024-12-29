@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which part of brain is called the seat of intelligence?",
+        "hindi": "मस्तिष्क के किस भाग को बुद्धि का केंद्र कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebrum",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेब्रम",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes growth hormone?",
+        "hindi": "कौन सी ग्रंथि वृद्धि हार्मोन स्रावित करती है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीयूष",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone regulates blood glucose level?",
+        "hindi": "कौन सा हार्मोन रक्त ग्लूकोज स्तर को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Insulin",
+          "Adrenaline",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "इंसुलिन",
+          "एड्रेनालिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of motor neurons?",
+        "hindi": "प्रेरक तंत्रिका कोशिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Receive signals",
+          "Process information",
+          "Store memory",
+          "Carry commands"
+        ],
+        "hindi": [
+          "संकेत प्राप्त करना",
+          "सूचना प्रसंस्करण",
+          "स्मृति संग्रह",
+          "आदेश वहन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls voluntary actions?",
+        "hindi": "मस्तिष्क का कौन सा भाग ऐच्छिक क्रियाओं को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebrum",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेब्रम",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is called the fight or flight hormone?",
+        "hindi": "किस हार्मोन को लड़ो या भागो हार्मोन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Adrenaline",
+          "Insulin",
+          "Cortisol"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "एड्रेनालिन",
+          "इंसुलिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland is called the biological clock?",
+        "hindi": "किस ग्रंथि को जैविक घड़ी कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pineal",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीनियल",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens during multiple sclerosis?",
+        "hindi": "बहु स्क्लेरोसिस के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Brain inflammation",
+          "Nerve damage",
+          "Hormone imbalance",
+          "Myelin damage"
+        ],
+        "hindi": [
+          "मस्तिष्क सूजन",
+          "तंत्रिका क्षति",
+          "हार्मोन असंतुलन",
+          "माइलिन क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which neurotransmitter is deficient in Parkinson's disease?",
+        "hindi": "पार्किंसंस रोग में कौन सा न्यूरोट्रांसमीटर कम होता है?"
+      },
+      "option": {
+        "english": [
+          "Acetylcholine",
+          "Serotonin",
+          "Dopamine",
+          "GABA"
+        ],
+        "hindi": [
+          "एसिटिलकोलीन",
+          "सेरोटोनिन",
+          "डोपामाइन",
+          "गाबा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes dwarfism?",
+        "hindi": "किस हार्मोन की कमी से बौनापन होता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Growth hormone",
+          "Insulin",
+          "Cortisol"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन",
+          "इंसुलिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

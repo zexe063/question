@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which equation represents photosynthesis?",
+        "hindi": "कौन सा समीकरण प्रकाश संश्लेषण को दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+          "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+          "6CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+          "CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+        ],
+        "hindi": [
+          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+          "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+          "6CO₂ + H₂O → C₆H₁₂O₆ + O₂",
+          "CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of energy change in photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण में ऊर्जा परिवर्तन की प्रकृति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Exothermic",
+          "Endothermic",
+          "No change",
+          "Both types"
+        ],
+        "hindi": [
+          "ऊष्माक्षेपी",
+          "ऊष्माशोषी",
+          "कोई परिवर्तन नहीं",
+          "दोनों प्रकार"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens in decomposition of calcium carbonate?",
+        "hindi": "कैल्शियम कार्बोनेट के अपघटन में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only CaO forms",
+          "Only CO₂ forms",
+          "No reaction",
+          "CaO and CO₂ form"
+        ],
+        "hindi": [
+          "केवल CaO बनता है",
+          "केवल CO₂ बनती है",
+          "कोई अभिक्रिया नहीं",
+          "CaO और CO₂ बनते हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is respiration?",
+        "hindi": "श्वसन किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Endothermic",
+          "Combination",
+          "Oxidation",
+          "Reduction"
+        ],
+        "hindi": [
+          "ऊष्माशोषी",
+          "संयोजन",
+          "ऑक्सीकरण",
+          "अपचयन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced in anaerobic respiration?",
+        "hindi": "अवायवीय श्वसन में कौन सी गैस उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ],
+        "hindi": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in a glow stick?",
+        "hindi": "ग्लो स्टिक में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Displacement",
+          "Combination",
+          "Chemiluminescence",
+          "Decomposition"
+        ],
+        "hindi": [
+          "विस्थापन",
+          "संयोजन",
+          "रासायनिक प्रदीप्ति",
+          "अपघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of pressure on gaseous reactions?",
+        "hindi": "गैसीय अभिक्रियाओं पर दाब का क्या प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Decreases rate",
+          "Stops reaction",
+          "Increases rate"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "दर घटती है",
+          "अभिक्रिया रुकती है",
+          "दर बढ़ती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of yeast in fermentation?",
+        "hindi": "किण्वन में यीस्ट की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Product",
+          "Catalyst",
+          "Reactant",
+          "No role"
+        ],
+        "hindi": [
+          "उत्पाद",
+          "उत्प्रेरक",
+          "अभिकारक",
+          "कोई भूमिका नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is used in food packaging?",
+        "hindi": "खाद्य पैकेजिंग में कौन सी गैस प्रयोग की जाती है?"
+      },
+      "option": {
+        "english": [
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen",
+          "Carbon dioxide"
+        ],
+        "hindi": [
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "हाइड्रोजन",
+          "कार्बन डाइऑक्साइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reactions occur in batteries?",
+        "hindi": "बैटरियों में किस प्रकार की अभिक्रियाएं होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Only oxidation",
+          "Only reduction",
+          "Redox",
+          "Decomposition"
+        ],
+        "hindi": [
+          "केवल ऑक्सीकरण",
+          "केवल अपचयन",
+          "रेडॉक्स",
+          "अपघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

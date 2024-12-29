@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the basic unit of heredity?",
+        "hindi": "वंशानुक्रम की मूल इकाई क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gene",
+          "Chromosome",
+          "DNA",
+          "Nucleus"
+        ],
+        "hindi": [
+          "जीन",
+          "गुणसूत्र",
+          "डीएनए",
+          "केंद्रक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of genetic code?",
+        "hindi": "आनुवंशिक कोड की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Information storage",
+          "Waste removal",
+          "Cell division"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "सूचना भंडारण",
+          "अपशिष्ट निष्कासन",
+          "कोशिका विभाजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of DNA methylation?",
+        "hindi": "DNA मिथाइलीकरण का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Protein synthesis",
+          "Cell division",
+          "Gene regulation"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन",
+          "जीन नियमन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of nucleotides in DNA?",
+        "hindi": "DNA में न्यूक्लियोटाइड का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Protein synthesis",
+          "Genetic code",
+          "Cell division"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "प्रोटीन संश्लेषण",
+          "आनुवंशिक कोड",
+          "कोशिका विभाजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which process produces identical cells?",
+        "hindi": "कौन सी प्रक्रिया समान कोशिकाएं उत्पन्न करती है?"
+      },
+      "option": {
+        "english": [
+          "Mitosis",
+          "Meiosis",
+          "Budding",
+          "Binary fission"
+        ],
+        "hindi": [
+          "समसूत्री विभाजन",
+          "अर्धसूत्री विभाजन",
+          "मुकुलन",
+          "द्विखंडन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of chromosomal mutations in evolution?",
+        "hindi": "विकास में गुणसूत्रीय उत्परिवर्तन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Reduce variation",
+          "Stop evolution",
+          "Create new species"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "विभिन्नता कम करना",
+          "विकास रोकना",
+          "नई प्रजाति बनाना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of genetic mapping?",
+        "hindi": "आनुवंशिक मानचित्रण का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Gene location",
+          "Gene function",
+          "Gene structure",
+          "Gene expression"
+        ],
+        "hindi": [
+          "जीन स्थान",
+          "जीन कार्य",
+          "जीन संरचना",
+          "जीन अभिव्यक्ति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic diversity?",
+        "hindi": "आनुवंशिक विविधता का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Reduces adaptation",
+          "Increases disease",
+          "Survival advantage",
+          "Stops evolution"
+        ],
+        "hindi": [
+          "अनुकूलन कम करता है",
+          "रोग बढ़ाता है",
+          "उत्तरजीविता लाभ",
+          "विकास रोकता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the basis of genetic disorders?",
+        "hindi": "आनुवंशिक विकारों का आधार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gene defect",
+          "Protein excess",
+          "Cell division",
+          "Energy deficiency"
+        ],
+        "hindi": [
+          "जीन दोष",
+          "प्रोटीन अधिकता",
+          "कोशिका विभाजन",
+          "ऊर्जा की कमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of Human Genome Project?",
+        "hindi": "मानव जीनोम परियोजना का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Evolution study",
+          "Disease treatment",
+          "Cell study",
+          "Disease prevention"
+        ],
+        "hindi": [
+          "विकास अध्ययन",
+          "रोग उपचार",
+          "कोशिका अध्ययन",
+          "रोग निवारण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

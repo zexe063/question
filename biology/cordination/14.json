@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gland is called the conductor of endocrine orchestra?",
+        "hindi": "किस ग्रंथि को अंतःस्रावी ऑर्केस्ट्रा का संचालक कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीयूष",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is called the growth hormone?",
+        "hindi": "किस हार्मोन को वृद्धि हार्मोन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Somatotropin",
+          "Insulin",
+          "Cortisol"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "सोमैटोट्रोपिन",
+          "इंसुलिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of Schwann cells?",
+        "hindi": "श्वान कोशिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Signal processing",
+          "Waste removal",
+          "Myelin formation"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "संकेत प्रसंस्करण",
+          "अपशिष्ट निष्कासन",
+          "माइलिन निर्माण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls sleep and wakefulness?",
+        "hindi": "मस्तिष्क का कौन सा भाग नींद और जागृति को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Reticular formation",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "जालीय रचना",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces glucagon?",
+        "hindi": "कौन सी ग्रंथि ग्लूकागॉन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Pancreas",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "अग्न्याशय",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during synaptic transmission?",
+        "hindi": "सिनैप्टिक संचरण के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Blood filtration",
+          "Hormone production",
+          "Energy storage",
+          "Chemical release"
+        ],
+        "hindi": [
+          "रक्त छनन",
+          "हार्मोन उत्पादन",
+          "ऊर्जा भंडारण",
+          "रासायनिक मुक्ति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls water reabsorption in kidneys?",
+        "hindi": "कौन सा हार्मोन गुर्दे में जल पुनर्अवशोषण को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Vasopressin",
+          "Thyroxine",
+          "Cortisol"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "वैसोप्रेसिन",
+          "थायरॉक्सिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain processes smell?",
+        "hindi": "मस्तिष्क का कौन सा भाग गंध को संसाधित करता है?"
+      },
+      "option": {
+        "english": [
+          "Temporal lobe",
+          "Frontal lobe",
+          "Olfactory bulb",
+          "Parietal lobe"
+        ],
+        "hindi": [
+          "कनपटी पालि",
+          "ललाट पालि",
+          "घ्राण कंद",
+          "पार्श्व पालि"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland is affected in Graves' disease?",
+        "hindi": "ग्रेव्स रोग में कौन सी ग्रंथि प्रभावित होती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of blood-brain barrier?",
+        "hindi": "रक्त-मस्तिष्क अवरोध की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Hormone production",
+          "Waste removal",
+          "Selective permeability"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "चयनात्मक पारगम्यता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

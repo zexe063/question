@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which solution would turn red litmus blue?",
+        "hindi": "कौन सा विलयन लाल लिटमस को नीला कर देगा?"
+      },
+      "option": {
+        "english": [
+          "Lemon juice",
+          "Vinegar",
+          "Pure water",
+          "Soap solution"
+        ],
+        "hindi": [
+          "नींबू का रस",
+          "सिरका",
+          "शुद्ध जल",
+          "साबुन का घोल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The acid used in car batteries is:",
+        "hindi": "कार की बैटरियों में प्रयुक्त अम्ल है:"
+      },
+      "option": {
+        "english": [
+          "Nitric acid",
+          "Hydrochloric acid",
+          "Sulphuric acid",
+          "Acetic acid"
+        ],
+        "hindi": [
+          "नाइट्रिक एसिड",
+          "हाइड्रोक्लोरिक एसिड",
+          "सल्फ्यूरिक एसिड",
+          "एसीटिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is a weak base?",
+        "hindi": "इनमें से कौन एक दुर्बल क्षार है?"
+      },
+      "option": {
+        "english": [
+          "NH₄OH",
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂"
+        ],
+        "hindi": [
+          "NH₄OH",
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of antacid tablets?",
+        "hindi": "एंटासिड टैबलेट की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Basic",
+          "Neutral",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when metals react with acids?",
+        "hindi": "धातुएं जब अम्लों से अभिक्रिया करती हैं तो कौन सी गैस बनती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt gives acidic solution in water?",
+        "hindi": "कौन सा लवण जल में अम्लीय विलयन देता है?"
+      },
+      "option": {
+        "english": [
+          "NH₄Cl",
+          "NaCl",
+          "Na₂CO₃",
+          "CH₃COONa"
+        ],
+        "hindi": [
+          "NH₄Cl",
+          "NaCl",
+          "Na₂CO₃",
+          "CH₃COONa"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when an acid reacts with a base?",
+        "hindi": "जब एक अम्ल क्षार से अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only water forms",
+          "Only gas evolves",
+          "Salt and water form",
+          "No reaction occurs"
+        ],
+        "hindi": [
+          "केवल जल बनता है",
+          "केवल गैस निकलती है",
+          "लवण और जल बनते हैं",
+          "कोई अभिक्रिया नहीं होती"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The pH of gastric juices in our stomach is:",
+        "hindi": "हमारे पेट में गैस्ट्रिक जूस का pH होता है:"
+      },
+      "option": {
+        "english": [
+          "7.0",
+          "1.2",
+          "5.0",
+          "8.0"
+        ],
+        "hindi": [
+          "7.0",
+          "1.2",
+          "5.0",
+          "8.0"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If pOH of a solution is 4, its pH will be:",
+        "hindi": "यदि किसी विलयन का pOH 4 है, तो उसका pH होगा:"
+      },
+      "option": {
+        "english": [
+          "4",
+          "7",
+          "-4",
+          "10"
+        ],
+        "hindi": [
+          "4",
+          "7",
+          "-4",
+          "10"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is an amphoteric oxide?",
+        "hindi": "इनमें से कौन एक उभयधर्मी ऑक्साइड है?"
+      },
+      "option": {
+        "english": [
+          "Al₂O₃",
+          "Na₂O",
+          "SO₂",
+          "CO₂"
+        ],
+        "hindi": [
+          "Al₂O₃",
+          "Na₂O",
+          "SO₂",
+          "CO₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

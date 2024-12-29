@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do we see a bright ring around moon sometimes (corona)?",
+        "hindi": "कभी-कभी चंद्रमा के चारों ओर चमकीला घेरा (कोरोना) क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Due to reflection from water droplets",
+          "Due to direct moonlight",
+          "Due to earth's shadow",
+          "Due to moon's surface"
+        ],
+        "hindi": [
+          "जल की बूंदों से परावर्तन के कारण",
+          "सीधे चंद्र प्रकाश के कारण",
+          "पृथ्वी की छाया के कारण",
+          "चंद्रमा की सतह के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see sun twice during sunset near a calm lake?",
+        "hindi": "शांत झील के पास सूर्यास्त के समय सूर्य दो बार क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Due to reflection from water",
+          "Due to refraction",
+          "Due to diffraction",
+          "Due to scattering"
+        ],
+        "hindi": [
+          "जल से परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण",
+          "प्रकीर्णन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we use silver coating instead of aluminum in precision mirrors?",
+        "hindi": "परिशुद्ध दर्पणों में एल्युमीनियम के बजाय चांदी की परत क्यों लगाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Higher reflectivity",
+          "Lower cost",
+          "Better durability",
+          "Easy availability"
+        ],
+        "hindi": [
+          "उच्च परावर्तकता",
+          "कम लागत",
+          "बेहतर टिकाऊपन",
+          "आसान उपलब्धता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has radius 30 cm. Find image distance when object is at 45 cm.",
+        "hindi": "एक अवतल दर्पण की त्रिज्या 30 सेमी है। जब वस्तु 45 सेमी पर हो तो प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "18 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "18 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If magnification is -2 and object distance is 30 cm, the focal length is:",
+        "hindi": "यदि आवर्धन -2 है और वस्तु दूरी 30 सेमी है, तो फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "20 cm",
+          "30 cm",
+          "40 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "20 सेमी",
+          "30 सेमी",
+          "40 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows image formation in a periscope?",
+        "hindi": "कौन सा किरण आरेख पेरिस्कोप में प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Double reflection at 45°",
+          "Single reflection",
+          "Multiple reflections",
+          "No reflection"
+        ],
+        "hindi": [
+          "45° पर दोहरा परावर्तन",
+          "एकल परावर्तन",
+          "बहु परावर्तन",
+          "कोई परावर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='25' x2='50' y2='125' stroke='black'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='250' y1='25' x2='250' y2='125' stroke='black'/><line x1='50' y1='50' x2='250' y2='50' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of multiple images between parallel mirrors?",
+        "hindi": "कौन सा किरण आरेख समानांतर दर्पणों के बीच बहु प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Infinite reflections",
+          "Single reflection",
+          "Two reflections",
+          "No reflection"
+        ],
+        "hindi": [
+          "अनंत परावर्तन",
+          "एकल परावर्तन",
+          "दो परावर्तन",
+          "कोई परावर्तन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='25' x2='50' y2='125' stroke='black'/><line x1='250' y1='25' x2='250' y2='125' stroke='black'/><line x1='150' y1='75' x2='250' y2='50' stroke='blue'/><line x1='50' y1='50' x2='150' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of kaleidoscope pattern?",
+        "hindi": "कौन सा किरण आरेख कैलीडोस्कोप पैटर्न का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Three mirrors at 60°",
+          "Two mirrors at 90°",
+          "Four mirrors at 45°",
+          "Single mirror"
+        ],
+        "hindi": [
+          "60° पर तीन दर्पण",
+          "90° पर दो दर्पण",
+          "45° पर चार दर्पण",
+          "एकल दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M150,75 L200,125 L100,125 Z' stroke='black' fill='none'/><line x1='150' y1='75' x2='175' y2='100' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A spherical mirror satisfies the equation 1/u + 1/v = 1/f for all positions except:",
+        "hindi": "एक गोलीय दर्पण समीकरण 1/u + 1/v = 1/f को सभी स्थितियों के लिए संतुष्ट करता है सिवाय:"
+      },
+      "option": {
+        "english": [
+          "For paraxial rays only",
+          "For all rays",
+          "For virtual image",
+          "For real image"
+        ],
+        "hindi": [
+          "केवल समाक्षीय किरणों के लिए",
+          "सभी किरणों के लिए",
+          "आभासी प्रतिबिंब के लिए",
+          "वास्तविक प्रतिबिंब के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In an astronomical telescope with reflecting objective, the spherical aberration is minimum when mirror is:",
+        "hindi": "परावर्तक अभिदृश्यक वाले खगोलीय दूरबीन में, गोलीय विपथन न्यूनतम होता है जब दर्पण होता है:"
+      },
+      "option": {
+        "english": [
+          "Parabolic",
+          "Spherical",
+          "Elliptical",
+          "Plane"
+        ],
+        "hindi": [
+          "परवलयिक",
+          "गोलीय",
+          "दीर्घवृत्तीय",
+          "समतल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

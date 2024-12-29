@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What was the basis of Mendeleev's periodic law?",
+        "hindi": "मेंडलीफ के आवर्त नियम का आधार क्या था?"
+      },
+      "option": {
+        "english": [
+          "Atomic number",
+          "Atomic mass",
+          "Number of shells",
+          "Number of electrons"
+        ],
+        "hindi": [
+          "परमाणु संख्या",
+          "परमाणु द्रव्यमान",
+          "कोशों की संख्या",
+          "इलेक्ट्रॉनों की संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many elements were in Newland's law of octaves?",
+        "hindi": "न्यूलैंड के अष्टक नियम में कितने तत्व थे?"
+      },
+      "option": {
+        "english": [
+          "7",
+          "8",
+          "56",
+          "63"
+        ],
+        "hindi": [
+          "7",
+          "8",
+          "56",
+          "63"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which elements were not discovered in Mendeleev's time?",
+        "hindi": "मेंडलीफ के समय में कौन से तत्व नहीं खोजे गए थे?"
+      },
+      "option": {
+        "english": [
+          "Sodium, Potassium",
+          "Carbon, Nitrogen",
+          "Gallium, Germanium",
+          "Oxygen, Hydrogen"
+        ],
+        "hindi": [
+          "सोडियम, पोटैशियम",
+          "कार्बन, नाइट्रोजन",
+          "गैलियम, जर्मेनियम",
+          "ऑक्सीजन, हाइड्रोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which group was called zero group by Mendeleev?",
+        "hindi": "मेंडलीफ ने किस समूह को शून्य समूह कहा?"
+      },
+      "option": {
+        "english": [
+          "Group 18",
+          "Group 1",
+          "Group 17",
+          "Group 2"
+        ],
+        "hindi": [
+          "समूह 18",
+          "समूह 1",
+          "समूह 17",
+          "समूह 2"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What was the limitation of Dobereiner's triads?",
+        "hindi": "डोबेराइनर के त्रिक की सीमा क्या थी?"
+      },
+      "option": {
+        "english": [
+          "Based on mass",
+          "Limited elements",
+          "Wrong order",
+          "No patterns"
+        ],
+        "hindi": [
+          "द्रव्यमान पर आधारित",
+          "सीमित तत्व",
+          "गलत क्रम",
+          "कोई पैटर्न नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which property forms the basis of modern periodic law?",
+        "hindi": "आधुनिक आवर्त नियम का आधार कौन सा गुण है?"
+      },
+      "option": {
+        "english": [
+          "Mass number",
+          "Atomic mass",
+          "Atomic number",
+          "Neutron number"
+        ],
+        "hindi": [
+          "द्रव्यमान संख्या",
+          "परमाणु द्रव्यमान",
+          "परमाणु संख्या",
+          "न्यूट्रॉन संख्या"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why did Mendeleev leave gaps in his periodic table?",
+        "hindi": "मेंडलीफ ने अपनी आवर्त सारणी में रिक्त स्थान क्यों छोड़े?"
+      },
+      "option": {
+        "english": [
+          "For new elements",
+          "By mistake",
+          "For noble gases",
+          "No reason"
+        ],
+        "hindi": [
+          "नए तत्वों के लिए",
+          "गलती से",
+          "उत्कृष्ट गैसों के लिए",
+          "कोई कारण नहीं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What was wrong in Newland's law of octaves?",
+        "hindi": "न्यूलैंड के अष्टक नियम में क्या गलत था?"
+      },
+      "option": {
+        "english": [
+          "Only light elements",
+          "Wrong order",
+          "No pattern",
+          "Heavy elements"
+        ],
+        "hindi": [
+          "केवल हल्के तत्व",
+          "गलत क्रम",
+          "कोई पैटर्न नहीं",
+          "भारी तत्व"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why was Mendeleev's table more successful?",
+        "hindi": "मेंडलीफ की सारणी अधिक सफल क्यों थी?"
+      },
+      "option": {
+        "english": [
+          "Based on mass",
+          "Predicted elements",
+          "Included all elements",
+          "Based on number"
+        ],
+        "hindi": [
+          "द्रव्यमान पर आधारित",
+          "तत्वों की भविष्यवाणी",
+          "सभी तत्व शामिल",
+          "संख्या पर आधारित"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which arrangement was correct in Mendeleev's table?",
+        "hindi": "मेंडलीफ की सारणी में कौन सी व्यवस्था सही थी?"
+      },
+      "option": {
+        "english": [
+          "Atomic number",
+          "Properties",
+          "Mass number",
+          "Electron number"
+        ],
+        "hindi": [
+          "परमाणु संख्या",
+          "गुणधर्म",
+          "द्रव्यमान संख्या",
+          "इलेक्ट्रॉन संख्या"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

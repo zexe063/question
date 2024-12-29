@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do we see ourselves smaller in a convex security mirror?",
+        "hindi": "उत्तल सुरक्षा दर्पण में हम अपने आप को छोटा क्यों देखते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to diverging nature of mirror",
+          "Due to converging nature",
+          "Due to plane surface",
+          "Due to mirror size"
+        ],
+        "hindi": [
+          "दर्पण की अपसारी प्रकृति के कारण",
+          "अभिसारी प्रकृति के कारण",
+          "समतल सतह के कारण",
+          "दर्पण के आकार के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we use shaving mirrors in bathrooms?",
+        "hindi": "बाथरूम में शेविंग दर्पण का उपयोग क्यों करते हैं?"
+      },
+      "option": {
+        "english": [
+          "To get magnified view of face",
+          "To get clear view",
+          "To save space",
+          "To look stylish"
+        ],
+        "hindi": [
+          "चेहरे का आवर्धित दृश्य पाने के लिए",
+          "स्पष्ट दृश्य पाने के लिए",
+          "जगह बचाने के लिए",
+          "स्टाइलिश दिखने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see rainbow colors in a broken piece of mirror?",
+        "hindi": "टूटे हुए दर्पण के टुकड़े में इंद्रधनुषी रंग क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to dispersion of light",
+          "Due to reflection",
+          "Due to refraction",
+          "Due to diffraction"
+        ],
+        "hindi": [
+          "प्रकाश के परिक्षेपण के कारण",
+          "परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 15 cm. Find the image distance when object is at 10 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 15 सेमी है। जब वस्तु 10 सेमी पर हो तो प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "30 cm",
+          "20 cm",
+          "15 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "30 सेमी",
+          "20 सेमी",
+          "15 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If image is formed at 40 cm and object is at 20 cm from a mirror, the focal length is:",
+        "hindi": "यदि प्रतिबिंब 40 सेमी पर और वस्तु दर्पण से 20 सेमी पर है, तो फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "13.33 cm",
+          "15 cm",
+          "20 cm",
+          "40 cm"
+        ],
+        "hindi": [
+          "13.33 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "40 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows image formation when object is between F and C of concave mirror?",
+        "hindi": "कौन सा किरण आरेख अवतल दर्पण के F और C के बीच वस्तु होने पर प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Real, inverted, beyond C",
+          "Virtual, erect, behind mirror",
+          "At infinity",
+          "At focus"
+        ],
+        "hindi": [
+          "वास्तविक, उल्टा, C से परे",
+          "आभासी, सीधा, दर्पण के पीछे",
+          "अनंत पर",
+          "फोकस पर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='125' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='200' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For a convex mirror, which ray diagram shows correct path for incident parallel rays?",
+        "hindi": "उत्तल दर्पण के लिए, कौन सा किरण आरेख आपतित समानांतर किरणों का सही पथ दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Appears to diverge from F",
+          "Converges at F",
+          "Remains parallel",
+          "Goes through C"
+        ],
+        "hindi": [
+          "F से अपसरित प्रतीत होती हैं",
+          "F पर अभिसरित होती हैं",
+          "समानांतर रहती हैं",
+          "C से होकर जाती हैं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='200' y1='75' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows position of virtual image in convex mirror?",
+        "hindi": "कौन सा किरण आरेख उत्तल दर्पण में आभासी प्रतिबिंब की स्थिति दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Between F and mirror",
+          "Beyond F",
+          "At F",
+          "At C"
+        ],
+        "hindi": [
+          "F और दर्पण के बीच",
+          "F से परे",
+          "F पर",
+          "C पर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='150' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='65' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror produces an image 1/3 the size of object. If f = 15 cm, find object distance.",
+        "hindi": "एक अवतल दर्पण वस्तु का 1/3 आकार का प्रतिबिंब बनाता है। यदि f = 15 सेमी है, तो वस्तु दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "45 cm",
+          "30 cm",
+          "60 cm",
+          "15 cm"
+        ],
+        "hindi": [
+          "45 सेमी",
+          "30 सेमी",
+          "60 सेमी",
+          "15 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Two mirrors are at 72°. A ray strikes first mirror at 30°. Final deviation of ray is:",
+        "hindi": "दो दर्पण 72° पर हैं। एक किरण पहले दर्पण पर 30° पर पड़ती है। किरण का अंतिम विचलन है:"
+      },
+      "option": {
+        "english": [
+          "144°",
+          "72°",
+          "216°",
+          "108°"
+        ],
+        "hindi": [
+          "144°",
+          "72°",
+          "216°",
+          "108°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

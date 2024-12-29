@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which block contains the element with electronic configuration 2,8,7?",
+        "hindi": "इलेक्ट्रॉनिक विन्यास 2,8,7 वाला तत्व किस ब्लॉक में है?"
+      },
+      "option": {
+        "english": [
+          "p-block",
+          "s-block",
+          "d-block",
+          "f-block"
+        ],
+        "hindi": [
+          "p-ब्लॉक",
+          "s-ब्लॉक",
+          "d-ब्लॉक",
+          "f-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the trend of atomic radius in group 1?",
+        "hindi": "समूह 1 में परमाणु त्रिज्या की प्रवृत्ति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Decreases downward",
+          "Increases downward",
+          "Remains same",
+          "No pattern"
+        ],
+        "hindi": [
+          "नीचे की ओर घटती है",
+          "नीचे की ओर बढ़ती है",
+          "समान रहती है",
+          "कोई पैटर्न नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element shows both metallic and non-metallic properties?",
+        "hindi": "कौन सा तत्व धात्विक और अधात्विक दोनों गुण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Chlorine",
+          "Carbon",
+          "Silicon"
+        ],
+        "hindi": [
+          "सोडियम",
+          "क्लोरीन",
+          "कार्बन",
+          "सिलिकॉन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the electronic configuration of noble gases?",
+        "hindi": "उत्कृष्ट गैसों का इलेक्ट्रॉनिक विन्यास क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "ns¹",
+          "ns²",
+          "ns²np⁶",
+          "ns²np⁵"
+        ],
+        "hindi": [
+          "ns¹",
+          "ns²",
+          "ns²np⁶",
+          "ns²np⁵"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has highest first ionization energy?",
+        "hindi": "किस तत्व की प्रथम आयनन ऊर्जा सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Helium",
+          "Neon",
+          "Argon",
+          "Xenon"
+        ],
+        "hindi": [
+          "हीलियम",
+          "नियॉन",
+          "आर्गन",
+          "जीनॉन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do transition elements form colored compounds?",
+        "hindi": "संक्रमण तत्व रंगीन यौगिक क्यों बनाते हैं?"
+      },
+      "option": {
+        "english": [
+          "s-s transition",
+          "p-p transition",
+          "d-d transition",
+          "f-f transition"
+        ],
+        "hindi": [
+          "s-s संक्रमण",
+          "p-p संक्रमण",
+          "d-d संक्रमण",
+          "f-f संक्रमण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes lanthanoid contraction?",
+        "hindi": "लैंथेनाइड संकुचन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "d-orbital filling",
+          "s-orbital filling",
+          "p-orbital filling",
+          "f-orbital filling"
+        ],
+        "hindi": [
+          "d-कक्षक भरण",
+          "s-कक्षक भरण",
+          "p-कक्षक भरण",
+          "f-कक्षक भरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which quantum number determines subshell?",
+        "hindi": "कौन सी क्वांटम संख्या उप-कोश निर्धारित करती है?"
+      },
+      "option": {
+        "english": [
+          "Azimuthal",
+          "Principal",
+          "Magnetic",
+          "Spin"
+        ],
+        "hindi": [
+          "कोणीय",
+          "मुख्य",
+          "चुंबकीय",
+          "चक्रण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which block element shows variable oxidation states?",
+        "hindi": "किस ब्लॉक का तत्व परिवर्तनशील ऑक्सीकरण अवस्था दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "d-block",
+          "p-block",
+          "s-block",
+          "f-block"
+        ],
+        "hindi": [
+          "d-ब्लॉक",
+          "p-ब्लॉक",
+          "s-ब्लॉक",
+          "f-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the basis of modern periodic law?",
+        "hindi": "आधुनिक आवर्त नियम का आधार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Mass number",
+          "Atomic mass",
+          "Atomic number",
+          "Neutron number"
+        ],
+        "hindi": [
+          "द्रव्यमान संख्या",
+          "परमाणु द्रव्यमान",
+          "परमाणु संख्या",
+          "न्यूट्रॉन संख्या"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

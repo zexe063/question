@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the process of fusion of male and female gametes called?",
+        "hindi": "नर और मादा युग्मकों के संलयन की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Binary fission",
+          "Fertilization",
+          "Budding",
+          "Fragmentation"
+        ],
+        "hindi": [
+          "द्विखंडन",
+          "निषेचन",
+          "मुकुलन",
+          "खंडन"
+        ]
+      },
+      "answer": 1,      
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is an asexual method of reproduction?",
+        "hindi": "इनमें से कौन अलैंगिक जनन की विधि है?"
+      },
+      "option": {
+        "english": [
+          "Budding",
+          "Fertilization",
+          "Conjugation",
+          "Pollination"
+        ],
+        "hindi": [
+          "मुकुलन",
+          "निषेचन",
+          "संयुग्मन",
+          "परागण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of the flower develops into fruit after fertilization?",
+        "hindi": "निषेचन के बाद फूल का कौन सा भाग फल में विकसित होता है?"
+      },
+      "option": {
+        "english": [
+          "Sepal",
+          "Petal",
+          "Ovary",
+          "Anther"
+        ],
+        "hindi": [
+          "बाह्यदल",
+          "पंखुड़ी",
+          "अंडाशय",
+          "परागकोश"
+        ]
+      },
+      "answer": 2,
+        "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for secondary sexual characters in human males?",
+        "hindi": "मानव पुरुषों में द्वितीयक लैंगिक लक्षणों के लिए कौन सा हार्मोन उत्तरदायी है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Thyroxine",
+          "Adrenaline",
+          "Testosterone"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "थायरॉक्सिन",
+          "एड्रेनालिन",
+          "टेस्टोस्टेरोन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of placenta in human reproduction?",
+        "hindi": "मानव प्रजनन में प्लेसेंटा का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Nutrient exchange",
+          "Waste removal",
+          "All of these"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "पोषक तत्वों का आदान-प्रदान",
+          "अपशिष्ट निष्कासन",
+          "ये सभी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which process ensures genetic variation in sexually reproducing organisms?",
+        "hindi": "लैंगिक प्रजनन करने वाले जीवों में आनुवंशिक विविधता कौन सी प्रक्रिया सुनिश्चित करती है?"
+      },
+      "option": {
+        "english": [
+          "Mitosis",
+          "Cell division",
+          "Meiosis",
+          "Binary fission"
+        ],
+        "hindi": [
+          "समसूत्री विभाजन",
+          "कोशिका विभाजन",
+          "अर्धसूत्री विभाजन",
+          "द्विखंडन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which reproductive part produces pollen grains?",
+        "hindi": "कौन सा प्रजनन भाग परागकण उत्पन्न करता है?"
+      },
+      "option": {
+        "english": [
+          "Anther",
+          "Stigma",
+          "Ovary",
+          "Style"
+        ],
+        "hindi": [
+          "परागकोश",
+          "वर्तिकाग्र",
+          "अंडाशय",
+          "वर्तिका"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of DNA in reproduction?",
+        "hindi": "प्रजनन में DNA की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Protein synthesis",
+          "Cell division",
+          "Genetic information transfer"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन",
+          "आनुवंशिक सूचना स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mechanism prevents self-pollination in flowers?",
+        "hindi": "फूलों में स्व-परागण को कौन सी क्रियाविधि रोकती है?"
+      },
+      "option": {
+        "english": [
+          "Different flowering time",
+          "Self-incompatibility",
+          "Position of anthers",
+          "All of these"
+        ],
+        "hindi": [
+          "अलग पुष्पन समय",
+          "स्व-असंगतता",
+          "परागकोशों की स्थिति",
+          "ये सभी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of menstrual cycle in humans?",
+        "hindi": "मानव में मासिक धर्म चक्र का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Hormone regulation",
+          "Egg production",
+          "Preparation for pregnancy",
+          "Waste removal"
+        ],
+        "hindi": [
+          "हार्मोन नियंत्रण",
+          "अंडा उत्पादन",
+          "गर्भावस्था की तैयारी",
+          "अपशिष्ट निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

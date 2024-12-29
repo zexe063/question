@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making cans?",
+        "hindi": "डिब्बे बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Lead",
+          "Tin",
+          "Aluminum"
+        ],
+        "hindi": [
+          "सोना",
+          "सीसा",
+          "टिन",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making coins?",
+        "hindi": "सिक्के बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Mercury",
+          "Copper",
+          "Lead",
+          "Zinc"
+        ],
+        "hindi": [
+          "पारा",
+          "तांबा",
+          "सीसा",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making utensils?",
+        "hindi": "बर्तन बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Steel",
+          "Lead",
+          "Gold",
+          "Silver"
+        ],
+        "hindi": [
+          "स्टील",
+          "सीसा",
+          "सोना",
+          "चांदी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making window frames?",
+        "hindi": "खिड़की के फ्रेम बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Aluminum",
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "एल्युमिनियम",
+          "जस्ता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making filament of bulb?",
+        "hindi": "बल्ब का फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Zinc",
+          "Tungsten"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "जस्ता",
+          "टंगस्टन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when metals react with water?",
+        "hindi": "धातुएं जल से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Metal hydroxide + H₂",
+          "Metal oxide",
+          "Metal salt",
+          "No reaction"
+        ],
+        "hindi": [
+          "धातु हाइड्रॉक्साइड + H₂",
+          "धातु ऑक्साइड",
+          "धातु लवण",
+          "कोई अभिक्रिया नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when metals react with acids?",
+        "hindi": "धातुएं अम्ल से अभिक्रिया करने पर कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Hydrogen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "हाइड्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of metal oxides?",
+        "hindi": "धातु ऑक्साइड की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Neutral",
+          "Basic",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "उदासीन",
+          "क्षारीय",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is bronze made of?",
+        "hindi": "कांसा किससे बना होता है?"
+      },
+      "option": {
+        "english": [
+          "Fe + C",
+          "Cu + Zn",
+          "Al + Cu",
+          "Cu + Sn"
+        ],
+        "hindi": [
+          "Fe + C",
+          "Cu + Zn",
+          "Al + Cu",
+          "Cu + Sn"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is most reactive?",
+        "hindi": "कौन सी धातु सबसे अधिक क्रियाशील है?"
+      },
+      "option": {
+        "english": [
+          "Potassium",
+          "Sodium",
+          "Calcium",
+          "Magnesium"
+        ],
+        "hindi": [
+          "पोटैशियम",
+          "सोडियम",
+          "कैल्शियम",
+          "मैग्नीशियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

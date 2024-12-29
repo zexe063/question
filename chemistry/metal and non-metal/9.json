@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What happens to the color of copper vessel when exposed to air?",
+        "hindi": "हवा में रखे जाने पर तांबे के बर्तन का रंग कैसा हो जाता है?"
+      },
+      "option": {
+        "english": [
+          "Red",
+          "Green",
+          "Blue",
+          "Black"
+        ],
+        "hindi": [
+          "लाल",
+          "हरा",
+          "नीला",
+          "काला"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making lightning conductors?",
+        "hindi": "तड़ित चालक बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Aluminum",
+          "Lead",
+          "Copper"
+        ],
+        "hindi": [
+          "लोहा",
+          "एल्युमिनियम",
+          "सीसा",
+          "तांबा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical formula of rust?",
+        "hindi": "जंग का रासायनिक सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "FeO",
+          "Fe₂O₃",
+          "Fe₂O₃.xH₂O",
+          "Fe₃O₄"
+        ],
+        "hindi": [
+          "FeO",
+          "Fe₂O₃",
+          "Fe₂O₃.xH₂O",
+          "Fe₃O₄"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal forms an amalgam with other metals?",
+        "hindi": "कौन सी धातु अन्य धातुओं के साथ अमलगम बनाती है?"
+      },
+      "option": {
+        "english": [
+          "Mercury",
+          "Gold",
+          "Silver",
+          "Copper"
+        ],
+        "hindi": [
+          "पारा",
+          "सोना",
+          "चांदी",
+          "तांबा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of sodium carbonate?",
+        "hindi": "सोडियम कार्बोनेट का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Baking soda",
+          "Washing soda",
+          "Caustic soda",
+          "Plaster of Paris"
+        ],
+        "hindi": [
+          "बेकिंग सोडा",
+          "धोने का सोडा",
+          "कास्टिक सोडा",
+          "प्लास्टर ऑफ पेरिस"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when zinc reacts with sodium hydroxide?",
+        "hindi": "जस्ता सोडियम हाइड्रॉक्साइड से अभिक्रिया करके कौन सी गैस बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Hydrogen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of zinc oxide?",
+        "hindi": "जिंक ऑक्साइड की प्रकृति कैसी होती है?"
+      },
+      "option": {
+        "english": [
+          "Basic",
+          "Acidic",
+          "Neutral",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "क्षारीय",
+          "अम्लीय",
+          "उदासीन",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal can be cut with a knife?",
+        "hindi": "किस धातु को चाकू से काटा जा सकता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Iron",
+          "Copper",
+          "Zinc"
+        ],
+        "hindi": [
+          "सोडियम",
+          "लोहा",
+          "तांबा",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of coating iron with tin called?",
+        "hindi": "लोहे पर टिन की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Tinning",
+          "Electroplating",
+          "Alloying"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "टिन लेपन",
+          "विद्युत लेपन",
+          "मिश्रधातु बनाना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main ore of aluminum?",
+        "hindi": "एल्युमिनियम का मुख्य अयस्क क्या है?"
+      },
+      "option": {
+        "english": [
+          "Galena",
+          "Calamine",
+          "Bauxite",
+          "Cinnabar"
+        ],
+        "hindi": [
+          "गैलेना",
+          "कैलामाइन",
+          "बॉक्साइट",
+          "सिनाबार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

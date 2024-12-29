@@ -1,0 +1,211 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What type of image is formed by a plane mirror?",
+        "hindi": "समतल दर्पण द्वारा कैसा प्रतिबिंब बनता है?"
+      },
+      "option": {
+        "english": [
+          "Virtual and erect",
+          "Real and erect",
+          "Virtual and inverted",
+          "Real and inverted"
+        ],
+        "hindi": [
+          "आभासी और सीधा",
+          "वास्तविक और सीधा",
+          "आभासी और उल्टा",
+          "वास्तविक और उल्टा"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='50' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see left side as right side in a mirror?",
+        "hindi": "दर्पण में बाईं तरफ दाईं तरफ क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Due to lateral inversion",
+          "Due to reflection",
+          "Due to refraction",
+          "Due to diffraction"
+        ],
+        "hindi": [
+          "पार्श्व उत्क्रमण के कारण",
+          "परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used in street light reflectors?",
+        "hindi": "स्ट्रीट लाइट रिफ्लेक्टर में किस दर्पण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "Both a and b"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "a और b दोनों"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror produces an image 3 times the size of object. If the image is 30 cm from mirror, find object distance.",
+        "hindi": "एक अवतल दर्पण वस्तु से 3 गुना बड़ा प्रतिबिंब बनाता है। यदि प्रतिबिंब दर्पण से 30 सेमी दूर है, तो वस्तु की दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray passing through the center of curvature of a spherical mirror returns along:",
+        "hindi": "गोलीय दर्पण के वक्रता केंद्र से गुजरने वाली किरण लौटती है:"
+      },
+      "option": {
+        "english": [
+          "Same path",
+          "Different path",
+          "Parallel path",
+          "Random path"
+        ],
+        "hindi": [
+          "उसी पथ पर",
+          "अलग पथ पर",
+          "समानांतर पथ पर",
+          "यादृच्छिक पथ पर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='150' cy='75' r='2'/><line x1='150' y1='50' x2='150' y2='75' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Find the focal length of a concave mirror that forms a real image 15 cm from mirror when object is at 60 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी ज्ञात करें जो 60 सेमी पर रखी वस्तु का वास्तविक प्रतिबिंब दर्पण से 15 सेमी दूर बनाता है।"
+      },
+      "option": {
+        "english": [
+          "12 cm",
+          "15 cm",
+          "20 cm",
+          "24 cm"
+        ],
+        "hindi": [
+          "12 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "24 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Two plane mirrors are placed at 60°. Number of images formed of an object between them is:",
+        "hindi": "दो समतल दर्पण 60° पर रखे गए हैं। उनके बीच रखी वस्तु के बनने वाले प्रतिबिंबों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "5",
+          "4",
+          "6",
+          "3"
+        ],
+        "hindi": [
+          "5",
+          "4",
+          "6",
+          "3"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror and convex mirror of same focal length form images of an object at same position. The ratio of their image sizes will be:",
+        "hindi": "समान फोकस दूरी के अवतल और उत्तल दर्पण एक ही स्थिति पर वस्तु के प्रतिबिंब बनाते हैं। उनके प्रतिबिंब आकारों का अनुपात होगा:"
+      },
+      "option": {
+        "english": [
+          "-1:1",
+          "1:1",
+          "2:1",
+          "-2:1"
+        ],
+        "hindi": [
+          "-1:1",
+          "1:1",
+          "2:1",
+          "-2:1"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A spherical mirror satisfies the equation 1/u + 1/v = 1/f for all values except:",
+        "hindi": "एक गोलीय दर्पण समीकरण 1/u + 1/v = 1/f को सभी मानों के लिए संतुष्ट करता है सिवाय:"
+      },
+      "option": {
+        "english": [
+          "When rays are oblique",
+          "When object is at infinity",
+          "When image is virtual",
+          "When object is at focus"
+        ],
+        "hindi": [
+          "जब किरणें तिरछी हों",
+          "जब वस्तु अनंत पर हो",
+          "जब प्रतिबिंब आभासी हो",
+          "जब वस्तु फोकस पर हो"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

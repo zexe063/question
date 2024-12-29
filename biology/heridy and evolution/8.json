@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the process of formation of identical copies of DNA?",
+        "hindi": "DNA की समान प्रतियों के निर्माण की प्रक्रिया क्या है?"
+      },
+      "option": {
+        "english": [
+          "Translation",
+          "Transcription",
+          "Mutation",
+          "Replication"
+        ],
+        "hindi": [
+          "अनुवाद",
+          "प्रतिलेखन",
+          "उत्परिवर्तन",
+          "प्रतिकृति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of histones in DNA?",
+        "hindi": "DNA में हिस्टोन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Protection",
+          "Packaging",
+          "Replication"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "सुरक्षा",
+          "पैकेजिंग",
+          "प्रतिकृति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure carries hereditary information in bacteria?",
+        "hindi": "जीवाणु में वंशानुगत सूचना किस संरचना में होती है?"
+      },
+      "option": {
+        "english": [
+          "Nucleoid",
+          "Ribosome",
+          "Plasmid",
+          "Cell wall"
+        ],
+        "hindi": [
+          "न्यूक्लियॉइड",
+          "राइबोसोम",
+          "प्लाज्मिड",
+          "कोशिका भित्ति"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of telomeres?",
+        "hindi": "टेलोमियर का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Chromosome protection",
+          "Protein synthesis",
+          "Cell division"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "गुणसूत्र संरक्षण",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic polymorphism?",
+        "hindi": "आनुवंशिक बहुरूपता का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Reduces variation",
+          "Increases disease",
+          "Decreases fitness",
+          "Increases adaptation"
+        ],
+        "hindi": [
+          "विभिन्नता घटाता है",
+          "रोग बढ़ाता है",
+          "फिटनेस घटाता है",
+          "अनुकूलन बढ़ाता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which molecule carries amino acids during protein synthesis?",
+        "hindi": "प्रोटीन संश्लेषण के दौरान कौन सा अणु अमीनो एसिड ले जाता है?"
+      },
+      "option": {
+        "english": [
+          "tRNA",
+          "mRNA",
+          "rRNA",
+          "DNA"
+        ],
+        "hindi": [
+          "tRNA",
+          "mRNA",
+          "rRNA",
+          "DNA"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of regulatory genes?",
+        "hindi": "नियामक जीन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Protein synthesis",
+          "Energy production",
+          "Control other genes",
+          "Make enzymes"
+        ],
+        "hindi": [
+          "प्रोटीन संश्लेषण",
+          "ऊर्जा उत्पादन",
+          "अन्य जीन नियंत्रण",
+          "एंजाइम बनाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of restriction enzymes?",
+        "hindi": "प्रतिबंधन एंजाइम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Join DNA",
+          "Cut DNA",
+          "Copy DNA",
+          "Repair DNA"
+        ],
+        "hindi": [
+          "DNA जोड़ना",
+          "DNA काटना",
+          "DNA कॉपी करना",
+          "DNA मरम्मत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is epigenetics?",
+        "hindi": "एपिजेनेटिक्स क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gene mutation",
+          "DNA replication",
+          "Protein synthesis",
+          "Gene expression changes"
+        ],
+        "hindi": [
+          "जीन उत्परिवर्तन",
+          "DNA प्रतिकृति",
+          "प्रोटीन संश्लेषण",
+          "जीन अभिव्यक्ति परिवर्तन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the basis of DNA fingerprinting?",
+        "hindi": "DNA फिंगरप्रिंटिंग का आधार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Repetitive sequences",
+          "Gene sequence",
+          "Protein sequence",
+          "RNA sequence"
+        ],
+        "hindi": [
+          "दोहराव अनुक्रम",
+          "जीन अनुक्रम",
+          "प्रोटीन अनुक्रम",
+          "RNA अनुक्रम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

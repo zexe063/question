@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Why do we see inverted image in a spoon's concave surface?",
+        "hindi": "चम्मच की अवतल सतह में प्रतिबिंब उल्टा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Object is beyond center of curvature",
+          "Object is at focus",
+          "Object is at infinity",
+          "Object is very close"
+        ],
+        "hindi": [
+          "वस्तु वक्रता केंद्र से परे है",
+          "वस्तु फोकस पर है",
+          "वस्तु अनंत पर है",
+          "वस्तु बहुत पास है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see erect image in a spoon's convex surface?",
+        "hindi": "चम्मच की उत्तल सतह में प्रतिबिंब सीधा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Always forms virtual image",
+          "Forms real image",
+          "Forms inverted image",
+          "No image forms"
+        ],
+        "hindi": [
+          "हमेशा आभासी प्रतिबिंब बनता है",
+          "वास्तविक प्रतिबिंब बनता है",
+          "उल्टा प्रतिबिंब बनता है",
+          "कोई प्रतिबिंब नहीं बनता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a plane mirror show left as right but not top as bottom?",
+        "hindi": "समतल दर्पण बायाँ-दायाँ तो बदल देता है पर ऊपर-नीचे क्यों नहीं?"
+      },
+      "option": {
+        "english": [
+          "Due to lateral inversion only",
+          "Due to vertical inversion",
+          "Due to both inversions",
+          "Due to no inversion"
+        ],
+        "hindi": [
+          "केवल पार्श्व उत्क्रमण के कारण",
+          "ऊर्ध्वाधर उत्क्रमण के कारण",
+          "दोनों उत्क्रमण के कारण",
+          "कोई उत्क्रमण नहीं होने के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 30 cm. Find the image distance for object at 20 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 30 सेमी है। 20 सेमी पर रखी वस्तु के लिए प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "60 cm",
+          "40 cm",
+          "30 cm",
+          "15 cm"
+        ],
+        "hindi": [
+          "60 सेमी",
+          "40 सेमी",
+          "30 सेमी",
+          "15 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If object distance is 40 cm and image distance is 20 cm, the magnification is:",
+        "hindi": "यदि वस्तु दूरी 40 सेमी और प्रतिबिंब दूरी 20 सेमी है, तो आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "-0.5",
+          "0.5",
+          "-2",
+          "2"
+        ],
+        "hindi": [
+          "-0.5",
+          "0.5",
+          "-2",
+          "2"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows correct image formation by concave mirror when object is at C?",
+        "hindi": "कौन सा किरण आरेख वस्तु के C पर होने पर अवतल दर्पण द्वारा सही प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Image at C",
+          "Image at F",
+          "Image at infinity",
+          "Image between F and C"
+        ],
+        "hindi": [
+          "प्रतिबिंब C पर",
+          "प्रतिबिंब F पर",
+          "प्रतिबिंब अनंत पर",
+          "प्रतिबिंब F और C के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='150' y1='50' x2='150' y2='100' stroke='blue'/><line x1='150' y1='75' x2='150' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In convex mirror, when object moves from infinity to mirror, image moves:",
+        "hindi": "उत्तल दर्पण में, जब वस्तु अनंत से दर्पण की ओर चलती है, प्रतिबिंब चलता है:"
+      },
+      "option": {
+        "english": [
+          "From F to mirror",
+          "From mirror to F",
+          "Remains at F",
+          "Beyond F"
+        ],
+        "hindi": [
+          "F से दर्पण की ओर",
+          "दर्पण से F की ओर",
+          "F पर स्थिर",
+          "F से परे"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='100' y1='75' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='75' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows correct path for ray passing through focus of convex mirror?",
+        "hindi": "कौन सा किरण आरेख उत्तल दर्पण के फोकस से गुजरने वाली किरण का सही पथ दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Parallel to axis after reflection",
+          "Through center after reflection",
+          "Through focus after reflection",
+          "Random direction"
+        ],
+        "hindi": [
+          "परावर्तन के बाद अक्ष के समानांतर",
+          "परावर्तन के बाद केंद्र से होकर",
+          "परावर्तन के बाद फोकस से होकर",
+          "यादृच्छिक दिशा में"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='200' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror forms image of same size as object. If focal length is 20 cm, object distance is:",
+        "hindi": "एक अवतल दर्पण वस्तु के समान आकार का प्रतिबिंब बनाता है। यदि फोकस दूरी 20 सेमी है, तो वस्तु दूरी है:"
+      },
+      "option": {
+        "english": [
+          "40 cm",
+          "20 cm",
+          "60 cm",
+          "80 cm"
+        ],
+        "hindi": [
+          "40 सेमी",
+          "20 सेमी",
+          "60 सेमी",
+          "80 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If a mirror's radius changes by 1% due to temperature, the percentage change in focal length is:",
+        "hindi": "यदि तापमान के कारण दर्पण की त्रिज्या में 1% परिवर्तन होता है, तो फोकस दूरी में प्रतिशत परिवर्तन है:"
+      },
+      "option": {
+        "english": [
+          "1%",
+          "2%",
+          "0.5%",
+          "4%"
+        ],
+        "hindi": [
+          "1%",
+          "2%",
+          "0.5%",
+          "4%"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

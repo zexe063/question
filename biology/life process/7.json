@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of villi in intestine?",
+        "hindi": "आंत में कूपिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Secrete enzymes",
+          "Increase absorption area",
+          "Store nutrients",
+          "Filter blood"
+        ],
+        "hindi": [
+          "एंजाइम स्रावित करना",
+          "अवशोषण क्षेत्र बढ़ाना",
+          "पोषक तत्वों का संग्रह",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which blood cells help in immunity?",
+        "hindi": "कौन सी रक्त कोशिकाएं प्रतिरक्षा में मदद करती हैं?"
+      },
+      "option": {
+        "english": [
+          "Red blood cells",
+          "White blood cells",
+          "Platelets",
+          "Plasma cells"
+        ],
+        "hindi": [
+          "लाल रक्त कोशिकाएं",
+          "श्वेत रक्त कोशिकाएं",
+          "प्लेटलेट्स",
+          "प्लाज्मा कोशिकाएं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of root hairs?",
+        "hindi": "मूल रोमों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Support plant",
+          "Store food",
+          "Absorb water",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "पौधे को सहारा",
+          "भोजन संग्रह",
+          "जल अवशोषण",
+          "हार्मोन उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which enzyme digests proteins in stomach?",
+        "hindi": "आमाशय में कौन सा एंजाइम प्रोटीन को पचाता है?"
+      },
+      "option": {
+        "english": [
+          "Amylase",
+          "Lipase",
+          "Pepsin",
+          "Trypsin"
+        ],
+        "hindi": [
+          "एमाइलेज",
+          "लाइपेज",
+          "पेप्सिन",
+          "ट्रिप्सिन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of plasma?",
+        "hindi": "प्लाज्मा का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Transport nutrients",
+          "Fight infection",
+          "Clot blood",
+          "Carry oxygen"
+        ],
+        "hindi": [
+          "पोषक तत्वों का परिवहन",
+          "संक्रमण से लड़ना",
+          "रक्त का थक्का जमाना",
+          "ऑक्सीजन ले जाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does water enter leaf cells?",
+        "hindi": "जल पत्ती की कोशिकाओं में कैसे प्रवेश करता है?"
+      },
+      "option": {
+        "english": [
+          "Through stomata",
+          "By osmosis",
+          "Through cuticle",
+          "By active transport"
+        ],
+        "hindi": [
+          "रंध्रों से",
+          "परासरण से",
+          "क्यूटिकल से",
+          "सक्रिय परिवहन से"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes the pulse in arteries?",
+        "hindi": "धमनियों में नब्ज किस कारण होती है?"
+      },
+      "option": {
+        "english": [
+          "Heart contraction",
+          "Blood pressure",
+          "Elastic walls",
+          "Valve action"
+        ],
+        "hindi": [
+          "हृदय संकुचन",
+          "रक्तचाप",
+          "लोचदार दीवारें",
+          "वाल्व क्रिया"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What regulates the heart beat?",
+        "hindi": "हृदय की धड़कन को क्या नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Brain",
+          "SA node",
+          "Nerves",
+          "Hormones"
+        ],
+        "hindi": [
+          "मस्तिष्क",
+          "SA नोड",
+          "तंत्रिकाएं",
+          "हार्मोन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How is blood pH maintained in body?",
+        "hindi": "शरीर में रक्त का pH कैसे नियंत्रित होता है?"
+      },
+      "option": {
+        "english": [
+          "By buffer system",
+          "By kidneys alone",
+          "By lungs alone",
+          "By liver"
+        ],
+        "hindi": [
+          "बफर तंत्र द्वारा",
+          "केवल गुर्दों द्वारा",
+          "केवल फेफड़ों द्वारा",
+          "यकृत द्वारा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What controls the selective reabsorption in kidneys?",
+        "hindi": "गुर्दे में चयनात्मक पुनरावशोषण को क्या नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Blood pressure",
+          "Hormones",
+          "Osmotic pressure",
+          "Filtration rate"
+        ],
+        "hindi": [
+          "रक्तचाप",
+          "हार्मोन",
+          "परासरणी दाब",
+          "निस्यंदन दर"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

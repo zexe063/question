@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "When light reflects from a rough surface, the type of reflection is called:",
+        "hindi": "जब प्रकाश खुरदरी सतह से परावर्तित होता है, तो परावर्तन का प्रकार कहलाता है:"
+      },
+      "option": {
+        "english": [
+          "Diffused reflection",
+          "Regular reflection",
+          "Multiple reflection",
+          "Total reflection"
+        ],
+        "hindi": [
+          "विसरित परावर्तन",
+          "नियमित परावर्तन",
+          "बहु परावर्तन",
+          "पूर्ण परावर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black' stroke-width='2' style='stroke-dasharray:5,5'/><line x1='100' y1='25' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='25' stroke='red'/><line x1='150' y1='75' x2='180' y2='45' stroke='red'/><line x1='150' y1='75' x2='160' y2='35' stroke='red'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the minimum number of plane mirrors required to see the back of your head?",
+        "hindi": "अपने सिर का पिछला भाग देखने के लिए न्यूनतम कितने समतल दर्पणों की आवश्यकता होती है?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ],
+        "hindi": [
+          "2",
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The radius of curvature of a spherical mirror is 32 cm. Its focal length is:",
+        "hindi": "एक गोलीय दर्पण की वक्रता त्रिज्या 32 सेमी है। इसकी फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "16 cm",
+          "8 cm",
+          "24 cm",
+          "32 cm"
+        ],
+        "hindi": [
+          "16 सेमी",
+          "8 सेमी",
+          "24 सेमी",
+          "32 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A 5 cm tall object is placed 30 cm from a concave mirror of focal length 20 cm. Calculate the image height.",
+        "hindi": "5 सेमी ऊंची वस्तु 20 सेमी फोकस दूरी वाले अवतल दर्पण से 30 सेमी दूर रखी गई है। प्रतिबिंब की ऊंचाई ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If an object is placed at C of a concave mirror, where will the image form?",
+        "hindi": "यदि एक वस्तु अवतल दर्पण के C पर रखी जाती है, तो प्रतिबिंब कहाँ बनेगा?"
+      },
+      "option": {
+        "english": [
+          "At C",
+          "At F",
+          "At infinity",
+          "Between F and C"
+        ],
+        "hindi": [
+          "C पर",
+          "F पर",
+          "अनंत पर",
+          "F और C के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><text x='95' y='70'>F</text><circle cx='150' cy='75' r='2'/><text x='145' y='70'>C</text><line x1='150' y1='50' x2='150' y2='75' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the type of mirror used in this ray diagram:",
+        "hindi": "इस किरण आरेख में प्रयुक्त दर्पण का प्रकार पहचानें:"
+      },
+      "option": {
+        "english": [
+          "Convex mirror",
+          "Concave mirror",
+          "Plane mirror",
+          "Parabolic mirror"
+        ],
+        "hindi": [
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "समतल दर्पण",
+          "परवलयिक दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='65' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In which mirror arrangement will a ray of light return along the same path?",
+        "hindi": "किस दर्पण व्यवस्था में प्रकाश की किरण उसी पथ पर वापस लौटेगी?"
+      },
+      "option": {
+        "english": [
+          "Two mirrors at 90°",
+          "Two mirrors at 60°",
+          "Two mirrors at 45°",
+          "Two mirrors at 180°"
+        ],
+        "hindi": [
+          "90° पर दो दर्पण",
+          "60° पर दो दर्पण",
+          "45° पर दो दर्पण",
+          "180° पर दो दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='150' y1='75' x2='250' y2='75' stroke='black'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='175' y2='50' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror and convex mirror have same focal length. Which will form larger image for same object distance?",
+        "hindi": "एक अवतल दर्पण और उत्तल दर्पण की फोकस दूरी समान है। समान वस्तु दूरी के लिए कौन बड़ा प्रतिबिंब बनाएगा?"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Both same size",
+          "Depends on distance"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "दोनों समान आकार",
+          "दूरी पर निर्भर करता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used in a searchlight and why?",
+        "hindi": "सर्चलाइट में किस दर्पण का उपयोग किया जाता है और क्यों?"
+      },
+      "option": {
+        "english": [
+          "Parabolic, gives parallel beam",
+          "Spherical, gives divergent beam",
+          "Convex, gives wide coverage",
+          "Plane, gives direct reflection"
+        ],
+        "hindi": [
+          "परवलयिक, समांतर किरण पुंज देता है",
+          "गोलीय, अपसारी किरण पुंज देता है",
+          "उत्तल, चौड़ा कवरेज देता है",
+          "समतल, सीधा परावर्तन देता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A mirror forms a real image of same size as object. The object must be placed at:",
+        "hindi": "एक दर्पण वस्तु के समान आकार का वास्तविक प्रतिबिंब बनाता है। वस्तु रखी होनी चाहिए:"
+      },
+      "option": {
+        "english": [
+          "Centre of curvature",
+          "Focus",
+          "Infinity",
+          "Between F and C"
+        ],
+        "hindi": [
+          "वक्रता केंद्र पर",
+          "फोकस पर",
+          "अनंत पर",
+          "F और C के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

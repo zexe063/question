@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used in car batteries?",
+        "hindi": "कार की बैटरी में इनमें से किसका उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "H₂SO₄",
+          "HCl",
+          "HNO₃",
+          "H₃PO₄"
+        ],
+        "hindi": [
+          "H₂SO₄",
+          "HCl",
+          "HNO₃",
+          "H₃PO₄"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which base is used in whitewashing?",
+        "hindi": "पुताई में किस क्षार का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ],
+        "hindi": [
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The pH of lemon juice is approximately:",
+        "hindi": "नींबू के रस का pH लगभग होता है:"
+      },
+      "option": {
+        "english": [
+          "7",
+          "5",
+          "1",
+          "2"
+        ],
+        "hindi": [
+          "7",
+          "5",
+          "1",
+          "2"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is present in tamarind?",
+        "hindi": "इमली में कौन सा अम्ल पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Citric acid",
+          "Tartaric acid",
+          "Oxalic acid",
+          "Malic acid"
+        ],
+        "hindi": [
+          "साइट्रिक एसिड",
+          "टार्टरिक एसिड",
+          "ऑक्सैलिक एसिड",
+          "मैलिक एसिड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which solution will conduct electricity?",
+        "hindi": "कौन सा विलयन विद्युत का चालन करेगा?"
+      },
+      "option": {
+        "english": [
+          "HCl in water",
+          "Sugar in water",
+          "Alcohol in water",
+          "Oil in water"
+        ],
+        "hindi": [
+          "जल में HCl",
+          "जल में शक्कर",
+          "जल में अल्कोहल",
+          "जल में तेल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when magnesium reacts with steam?",
+        "hindi": "जब मैग्नीशियम भाप के साथ अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "MgO + H₂",
+          "Mg(OH)₂",
+          "No reaction",
+          "MgO + H₂O"
+        ],
+        "hindi": [
+          "MgO + H₂",
+          "Mg(OH)₂",
+          "कोई अभिक्रिया नहीं",
+          "MgO + H₂O"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which salt does not contain water of crystallization?",
+        "hindi": "किस लवण में क्रिस्टलीकरण का जल नहीं होता है?"
+      },
+      "option": {
+        "english": [
+          "Blue vitriol",
+          "Green vitriol",
+          "NaCl",
+          "Gypsum"
+        ],
+        "hindi": [
+          "नीला थोथा",
+          "हरा थोथा",
+          "NaCl",
+          "जिप्सम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The pH of blood in human body is maintained at:",
+        "hindi": "मानव शरीर में रक्त का pH बना रहता है:"
+      },
+      "option": {
+        "english": [
+          "6.5",
+          "7.4",
+          "8.0",
+          "7.0"
+        ],
+        "hindi": [
+          "6.5",
+          "7.4",
+          "8.0",
+          "7.0"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is an example of a strong base?",
+        "hindi": "इनमें से कौन एक प्रबल क्षार का उदाहरण है?"
+      },
+      "option": {
+        "english": [
+          "KOH",
+          "NH₄OH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ],
+        "hindi": [
+          "KOH",
+          "NH₄OH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when an acid reacts with a metal carbonate?",
+        "hindi": "जब एक अम्ल धातु कार्बोनेट से अभिक्रिया करता है तो क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "H₂ gas only",
+          "CO₂ gas only",
+          "Salt + Water + CO₂",
+          "Salt + H₂ gas"
+        ],
+        "hindi": [
+          "केवल H₂ गैस",
+          "केवल CO₂ गैस",
+          "लवण + जल + CO₂",
+          "लवण + H₂ गैस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

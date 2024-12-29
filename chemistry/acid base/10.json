@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is a strong acid?",
+        "hindi": "इनमें से कौन एक प्रबल अम्ल है?"
+      },
+      "option": {
+        "english": [
+          "HCl",
+          "CH₃COOH",
+          "H₂CO₃",
+          "H₃PO₄"
+        ],
+        "hindi": [
+          "HCl",
+          "CH₃COOH",
+          "H₂CO₃",
+          "H₃PO₄"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when turmeric stains are treated with soap?",
+        "hindi": "हल्दी के धब्बों को साबुन से धोने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Become yellow",
+          "Turn red",
+          "No change",
+          "Disappear"
+        ],
+        "hindi": [
+          "पीले हो जाते हैं",
+          "लाल हो जाते हैं",
+          "कोई परिवर्तन नहीं",
+          "गायब हो जाते हैं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The correct test for CO₂ gas is:",
+        "hindi": "CO₂ गैस की सही पहचान है:"
+      },
+      "option": {
+        "english": [
+          "Blue litmus turns red",
+          "Red litmus turns blue",
+          "Burns with pop sound",
+          "Turns lime water milky"
+        ],
+        "hindi": [
+          "नीला लिटमस लाल हो जाता है",
+          "लाल लिटमस नीला हो जाता है",
+          "पॉप आवाज के साथ जलता है",
+          "चूने का पानी दूधिया हो जाता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which oxide forms an acidic solution in water?",
+        "hindi": "कौन सा ऑक्साइड जल में अम्लीय विलयन बनाता है?"
+      },
+      "option": {
+        "english": [
+          "CaO",
+          "Na₂O",
+          "SO₂",
+          "MgO"
+        ],
+        "hindi": [
+          "CaO",
+          "Na₂O",
+          "SO₂",
+          "MgO"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A solution has pH = 7. It is:",
+        "hindi": "एक विलयन का pH = 7 है। यह है:"
+      },
+      "option": {
+        "english": [
+          "Neutral",
+          "Basic",
+          "Acidic",
+          "Cannot say"
+        ],
+        "hindi": [
+          "उदासीन",
+          "क्षारीय",
+          "अम्लीय",
+          "नहीं कह सकते"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The reaction between an acid and base produces:",
+        "hindi": "एक अम्ल और क्षार के बीच अभिक्रिया से उत्पन्न होता है:"
+      },
+      "option": {
+        "english": [
+          "Base and water",
+          "Acid and water",
+          "Gas and water",
+          "Salt and water"
+        ],
+        "hindi": [
+          "क्षार और जल",
+          "अम्ल और जल",
+          "गैस और जल",
+          "लवण और जल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which indicator is used in testing milk?",
+        "hindi": "दूध की जाँच में किस सूचक का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Litmus",
+          "Phenolphthalein",
+          "Methyl orange",
+          "Universal indicator"
+        ],
+        "hindi": [
+          "लिटमस",
+          "फिनॉल्फ्थेलीन",
+          "मिथाइल ऑरेंज",
+          "सार्वत्रिक सूचक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What makes non-metallic oxides acidic in nature?",
+        "hindi": "अधातु ऑक्साइड प्रकृति में अम्लीय क्यों होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Form H⁺ in water",
+          "Form OH⁻ in water",
+          "Form acids with water",
+          "Don't react with water"
+        ],
+        "hindi": [
+          "जल में H⁺ बनाते हैं",
+          "जल में OH⁻ बनाते हैं",
+          "जल से अम्ल बनाते हैं",
+          "जल से अभिक्रिया नहीं करते"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A solution has [H⁺] = 1 × 10⁻⁸ M. Its pH is:",
+        "hindi": "एक विलयन में [H⁺] = 1 × 10⁻⁸ M है। इसका pH है:"
+      },
+      "option": {
+        "english": [
+          "8",
+          "-8",
+          "6",
+          "14"
+        ],
+        "hindi": [
+          "8",
+          "-8",
+          "6",
+          "14"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which reaction shows water acting as both acid and base?",
+        "hindi": "कौन सी अभिक्रिया जल को अम्ल और क्षार दोनों के रूप में दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "H₂O + HCl → H₃O⁺ + Cl⁻",
+          "H₂O + NH₃ → NH₄⁺ + OH⁻",
+          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻",
+          "2H₂O → H₂ + O₂"
+        ],
+        "hindi": [
+          "H₂O + HCl → H₃O⁺ + Cl⁻",
+          "H₂O + NH₃ → NH₄⁺ + OH⁻",
+          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻",
+          "2H₂O → H₂ + O₂"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

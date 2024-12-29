@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of small intestine?",
+        "hindi": "छोटी आंत का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store food",
+          "Absorb water",
+          "Complete digestion and absorption",
+          "Remove waste"
+        ],
+        "hindi": [
+          "भोजन संग्रह",
+          "जल अवशोषण",
+          "पूर्ण पाचन और अवशोषण",
+          "अपशिष्ट निकालना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which chamber of heart has thickest walls?",
+        "hindi": "हृदय के किस कक्ष की दीवारें सबसे मोटी होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Right atrium",
+          "Left ventricle",
+          "Right ventricle",
+          "Left atrium"
+        ],
+        "hindi": [
+          "दायाँ आलिंद",
+          "बायाँ निलय",
+          "दायाँ निलय",
+          "बायाँ आलिंद"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of xylem?",
+        "hindi": "जाइलम का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Transport food",
+          "Transport water",
+          "Store food",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "भोजन का परिवहन",
+          "जल का परिवहन",
+          "भोजन संग्रह",
+          "हार्मोन उत्पादन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of saliva in digestion?",
+        "hindi": "पाचन में लार की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Breaks proteins",
+          "Digests fats",
+          "Breaks starch",
+          "Absorbs minerals"
+        ],
+        "hindi": [
+          "प्रोटीन तोड़ना",
+          "वसा पचाना",
+          "स्टार्च तोड़ना",
+          "खनिज अवशोषित करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which organ stores bile?",
+        "hindi": "पित्त का संग्रह किस अंग में होता है?"
+      },
+      "option": {
+        "english": [
+          "Liver",
+          "Pancreas",
+          "Gallbladder",
+          "Stomach"
+        ],
+        "hindi": [
+          "यकृत",
+          "अग्न्याशय",
+          "पित्ताशय",
+          "आमाशय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes the second heart sound?",
+        "hindi": "दूसरी हृदय ध्वनि किस कारण होती है?"
+      },
+      "option": {
+        "english": [
+          "Opening of AV valves",
+          "Closing of semilunar valves",
+          "Blood flow in arteries",
+          "Ventricular contraction"
+        ],
+        "hindi": [
+          "AV वाल्वों का खुलना",
+          "अर्धचंद्राकार वाल्वों का बंद होना",
+          "धमनियों में रक्त प्रवाह",
+          "निलय संकुचन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How do plants transport minerals?",
+        "hindi": "पौधे खनिजों का परिवहन कैसे करते हैं?"
+      },
+      "option": {
+        "english": [
+          "Through phloem",
+          "By diffusion only",
+          "Through xylem",
+          "By osmosis only"
+        ],
+        "hindi": [
+          "फ्लोएम द्वारा",
+          "केवल विसरण द्वारा",
+          "जाइलम द्वारा",
+          "केवल परासरण द्वारा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What regulates blood glucose level?",
+        "hindi": "रक्त ग्लूकोज स्तर को क्या नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Liver alone",
+          "Insulin and glucagon",
+          "Kidneys alone",
+          "Pancreas alone"
+        ],
+        "hindi": [
+          "केवल यकृत",
+          "इंसुलिन और ग्लूकागॉन",
+          "केवल गुर्दे",
+          "केवल अग्न्याशय"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes coronary artery disease?",
+        "hindi": "कोरोनरी धमनी रोग किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "High blood pressure",
+          "Cholesterol deposits",
+          "Blood clots",
+          "Weak heart muscles"
+        ],
+        "hindi": [
+          "उच्च रक्तचाप",
+          "कोलेस्ट्रॉल जमाव",
+          "रक्त के थक्के",
+          "कमजोर हृदय पेशियां"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How is blood pressure regulated?",
+        "hindi": "रक्तचाप का नियंत्रण कैसे होता है?"
+      },
+      "option": {
+        "english": [
+          "By heart rate only",
+          "By blood volume only",
+          "By nervous system",
+          "By multiple mechanisms"
+        ],
+        "hindi": [
+          "केवल हृदय गति द्वारा",
+          "केवल रक्त मात्रा द्वारा",
+          "तंत्रिका तंत्र द्वारा",
+          "कई तंत्रों द्वारा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

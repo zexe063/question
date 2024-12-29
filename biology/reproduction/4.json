@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of pollen tube?",
+        "hindi": "परागनली की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Produce pollen",
+          "Store nutrients",
+          "Transport male gametes",
+          "Support flower"
+        ],
+        "hindi": [
+          "परागकण उत्पादन",
+          "पोषक तत्व संग्रह",
+          "नर युग्मक का परिवहन",
+          "फूल को सहारा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure forms seed coat?",
+        "hindi": "कौन सी संरचना बीजावरण बनाती है?"
+      },
+      "option": {
+        "english": [
+          "Ovary wall",
+          "Ovule wall",
+          "Nucellus",
+          "Integument"
+        ],
+        "hindi": [
+          "अंडाशय भित्ति",
+          "बीजांड भित्ति",
+          "न्यूसेलस",
+          "बीजावरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of umbilical cord?",
+        "hindi": "नाभिनाल का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Support embryo",
+          "Connect to placenta",
+          "Protect embryo",
+          "Store nutrients"
+        ],
+        "hindi": [
+          "भ्रूण को सहारा",
+          "प्लेसेंटा से जोड़ना",
+          "भ्रूण की रक्षा",
+          "पोषक तत्व संग्रह"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces seminal fluid?",
+        "hindi": "कौन सी ग्रंथि शुक्र द्रव उत्पन्न करती है?"
+      },
+      "option": {
+        "english": [
+          "Seminal vesicles",
+          "Cowper's",
+          "Thyroid",
+          "Prostate"
+        ],
+        "hindi": [
+          "शुक्राशय",
+          "काउपर",
+          "थायरॉइड",
+          "प्रोस्टेट"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the first sign of pregnancy?",
+        "hindi": "गर्भावस्था का पहला लक्षण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Nausea",
+          "Fatigue",
+          "Missed period",
+          "Weight gain"
+        ],
+        "hindi": [
+          "मितली",
+          "थकान",
+          "मासिक धर्म का रुकना",
+          "वजन बढ़ना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What determines baby's gender?",
+        "hindi": "शिशु का लिंग क्या निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "Mother's age",
+          "Father's Y",
+          "Blood type",
+          "Mother's X"
+        ],
+        "hindi": [
+          "माँ की आयु",
+          "पिता का Y",
+          "रक्त समूह",
+          "माँ का X"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "When does implantation occur?",
+        "hindi": "रोपण कब होता है?"
+      },
+      "option": {
+        "english": [
+          "Day 2",
+          "Day 14",
+          "Day 21",
+          "Day 7"
+        ],
+        "hindi": [
+          "दूसरा दिन",
+          "चौदहवाँ दिन",
+          "इक्कीसवाँ दिन",
+          "सातवाँ दिन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes labor to begin?",
+        "hindi": "प्रसव पीड़ा की शुरुआत क्या करता है?"
+      },
+      "option": {
+        "english": [
+          "Oxytocin",
+          "Progesterone",
+          "Relaxin",
+          "Estrogen"
+        ],
+        "hindi": [
+          "ऑक्सीटोसिन",
+          "प्रोजेस्टेरोन",
+          "रिलैक्सिन",
+          "एस्ट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of colostrum?",
+        "hindi": "पीयूष (कोलोस्ट्रम) का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Provide water",
+          "Provide minerals",
+          "Provide immunity",
+          "Provide vitamins"
+        ],
+        "hindi": [
+          "जल प्रदान करना",
+          "खनिज प्रदान करना",
+          "प्रतिरक्षा प्रदान करना",
+          "विटामिन प्रदान करना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes fraternal twins?",
+        "hindi": "असमान जुड़वाँ कैसे बनते हैं?"
+      },
+      "option": {
+        "english": [
+          "Split embryo",
+          "Multiple eggs",
+          "One egg",
+          "Multiple sperms"
+        ],
+        "hindi": [
+          "विभाजित भ्रूण",
+          "कई अंडे",
+          "एक अंडा",
+          "कई शुक्राणु"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

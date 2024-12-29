@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of antioxidants?",
+        "hindi": "प्रतिऑक्सीकारक का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Speed up oxidation",
+          "Prevent oxidation",
+          "Increase oxidation",
+          "No effect"
+        ],
+        "hindi": [
+          "ऑक्सीकरण तेज करना",
+          "ऑक्सीकरण रोकना",
+          "ऑक्सीकरण बढ़ाना",
+          "कोई प्रभाव नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is digestion?",
+        "hindi": "पाचन किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Synthesis",
+          "Combination",
+          "Decomposition",
+          "Displacement"
+        ],
+        "hindi": [
+          "संश्लेषण",
+          "संयोजन",
+          "अपघटन",
+          "विस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is evolved in bread making?",
+        "hindi": "रोटी बनाने में कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ],
+        "hindi": [
+          "CO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens in electrolysis of water?",
+        "hindi": "जल के विद्युत अपघटन में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only H₂ forms",
+          "Only O₂ forms",
+          "No gas forms",
+          "H₂ and O₂ form"
+        ],
+        "hindi": [
+          "केवल H₂ बनती है",
+          "केवल O₂ बनती है",
+          "कोई गैस नहीं बनती",
+          "H₂ और O₂ बनती हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of sunlight in photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण में सूर्य के प्रकाश की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Energy source",
+          "End product",
+          "Catalyst"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "ऊर्जा स्रोत",
+          "अंतिम उत्पाद",
+          "उत्प्रेरक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of surface area on reaction rate?",
+        "hindi": "अभिक्रिया दर पर पृष्ठीय क्षेत्रफल का क्या प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Decreases rate",
+          "Stops reaction",
+          "Increases rate"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "दर घटती है",
+          "अभिक्रिया रुकती है",
+          "दर बढ़ती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows combustion of methane?",
+        "hindi": "मीथेन के दहन को कौन सा समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO₂ + H₂O",
+          "2CH₄ + O₂ → 2CO₂ + 2H₂O",
+          "CH₄ → C + 2H₂"
+        ],
+        "hindi": [
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO₂ + H₂O",
+          "2CH₄ + O₂ → 2CO₂ + 2H₂O",
+          "CH₄ → C + 2H₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is fermentation?",
+        "hindi": "किण्वन किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Oxidation",
+          "Reduction",
+          "Decomposition",
+          "Combination"
+        ],
+        "hindi": [
+          "ऑक्सीकरण",
+          "अपचयन",
+          "अपघटन",
+          "संयोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of enzymes in biological reactions?",
+        "hindi": "जैविक अभिक्रियाओं में एंजाइमों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Reactant",
+          "Catalyst",
+          "Product",
+          "No role"
+        ],
+        "hindi": [
+          "अभिकारक",
+          "उत्प्रेरक",
+          "उत्पाद",
+          "कोई भूमिका नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a redox reaction?",
+        "hindi": "रेडॉक्स अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only oxidation",
+          "Only reduction",
+          "No electron transfer",
+          "Both oxidation and reduction"
+        ],
+        "hindi": [
+          "केवल ऑक्सीकरण",
+          "केवल अपचयन",
+          "कोई इलेक्ट्रॉन स्थानांतरण नहीं",
+          "ऑक्सीकरण और अपचयन दोनों"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

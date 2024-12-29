@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the role of genetic drift in small populations?",
+        "hindi": "छोटी जनसंख्या में आनुवंशिक अपवाह की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Increases variation",
+          "Maintains stability",
+          "Random changes",
+          "Directed evolution"
+        ],
+        "hindi": [
+          "विभिन्नता बढ़ाता है",
+          "स्थिरता बनाए रखता है",
+          "यादृच्छिक परिवर्तन",
+          "निर्देशित विकास"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which molecule forms the genetic material in viruses?",
+        "hindi": "विषाणुओं में कौन सा अणु आनुवंशिक पदार्थ बनाता है?"
+      },
+      "option": {
+        "english": [
+          "DNA or RNA",
+          "Only DNA",
+          "Only RNA",
+          "Proteins"
+        ],
+        "hindi": [
+          "DNA या RNA",
+          "केवल DNA",
+          "केवल RNA",
+          "प्रोटीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the Hardy-Weinberg principle used for?",
+        "hindi": "हार्डी-वेनबर्ग सिद्धांत का उपयोग किसलिए किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Evolution study",
+          "Population genetics",
+          "Cell division",
+          "DNA replication"
+        ],
+        "hindi": [
+          "विकास अध्ययन",
+          "जनसंख्या आनुवंशिकी",
+          "कोशिका विभाजन",
+          "DNA प्रतिकृति"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic bottleneck?",
+        "hindi": "आनुवंशिक बॉटलनेक का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Increases variation",
+          "Maintains diversity",
+          "Reduces variation",
+          "Population reduction"
+        ],
+        "hindi": [
+          "विभिन्नता बढ़ाता है",
+          "विविधता बनाए रखता है",
+          "विभिन्नता घटाता है",
+          "जनसंख्या कम करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of transposons in genetics?",
+        "hindi": "आनुवंशिकी में ट्रांसपोसोन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Gene repair",
+          "Gene copying",
+          "Gene movement",
+          "Gene deletion"
+        ],
+        "hindi": [
+          "जीन मरम्मत",
+          "जीन प्रतिलिपि",
+          "जीन गतिशीलता",
+          "जीन विलोपन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of promoter regions in DNA?",
+        "hindi": "DNA में प्रोमोटर क्षेत्रों का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Stop transcription",
+          "Start transcription",
+          "Copy DNA",
+          "Repair DNA"
+        ],
+        "hindi": [
+          "प्रतिलेखन रोकना",
+          "प्रतिलेखन शुरू करना",
+          "DNA कॉपी करना",
+          "DNA मरम्मत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which type of RNA helps in protein synthesis?",
+        "hindi": "कौन सा RNA प्रोटीन संश्लेषण में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "All types",
+          "Only mRNA",
+          "Only tRNA",
+          "Only rRNA"
+        ],
+        "hindi": [
+          "सभी प्रकार",
+          "केवल mRNA",
+          "केवल tRNA",
+          "केवल rRNA"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of mutation in speciation?",
+        "hindi": "जातियों के विकास में उत्परिवर्तन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Minor role",
+          "Major role",
+          "Creates new species"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "छोटी भूमिका",
+          "बड़ी भूमिका",
+          "नई प्रजाति बनाना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is genomic imprinting?",
+        "hindi": "जीनोमिक छाप क्या है?"
+      },
+      "option": {
+        "english": [
+          "DNA copying",
+          "RNA synthesis",
+          "Gene expression pattern",
+          "Protein coding"
+        ],
+        "hindi": [
+          "DNA प्रतिलिपि",
+          "RNA संश्लेषण",
+          "जीन अभिव्यक्ति प्रतिरूप",
+          "प्रोटीन कूटलेखन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of genetic screening?",
+        "hindi": "आनुवंशिक स्क्रीनिंग का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Treatment",
+          "Prevention",
+          "Diagnosis",
+          "Cure"
+        ],
+        "hindi": [
+          "उपचार",
+          "रोकथाम",
+          "निदान",
+          "इलाज"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

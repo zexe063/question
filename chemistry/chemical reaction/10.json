@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which equation represents the balanced equation for rusting?",
+        "hindi": "जंग लगने का संतुलित समीकरण कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O",
+          "Fe + O₂ + H₂O → Fe₂O₃.H₂O",
+          "2Fe + O₂ + H₂O → Fe₂O₃.H₂O",
+          "Fe + O₂ → Fe₂O₃"
+        ],
+        "hindi": [
+          "4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O",
+          "Fe + O₂ + H₂O → Fe₂O₃.H₂O",
+          "2Fe + O₂ + H₂O → Fe₂O₃.H₂O",
+          "Fe + O₂ → Fe₂O₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Decomposition",
+          "Combination",
+          "Displacement",
+          "Double displacement"
+        ],
+        "hindi": [
+          "अपघटन",
+          "संयोजन",
+          "विस्थापन",
+          "द्विविस्थापन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when silver chloride is exposed to sunlight?",
+        "hindi": "सिल्वर क्लोराइड को सूर्य के प्रकाश में रखने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Becomes white",
+          "No change",
+          "Becomes black",
+          "Grey color forms"
+        ],
+        "hindi": [
+          "सफेद हो जाता है",
+          "कोई परिवर्तन नहीं",
+          "काला हो जाता है",
+          "धूसर रंग बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is respiration?",
+        "hindi": "श्वसन किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Endothermic",
+          "Physical",
+          "Exothermic",
+          "Neutral"
+        ],
+        "hindi": [
+          "ऊष्माशोषी",
+          "भौतिक",
+          "ऊष्माक्षेपी",
+          "उदासीन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows the reaction of zinc with dilute H₂SO₄?",
+        "hindi": "जिंक की तनु H₂SO₄ से अभिक्रिया का समीकरण कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Zn + H₂SO₄ → ZnSO₄ + H₂",
+          "Zn + 2H₂SO₄ → ZnSO₄ + 2H₂",
+          "2Zn + H₂SO₄ → ZnSO₄ + H₂",
+          "Zn + H₂SO₄ → ZnS + H₂O"
+        ],
+        "hindi": [
+          "Zn + H₂SO₄ → ZnSO₄ + H₂",
+          "Zn + 2H₂SO₄ → ZnSO₄ + 2H₂",
+          "2Zn + H₂SO₄ → ZnSO₄ + H₂",
+          "Zn + H₂SO₄ → ZnS + H₂O"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens in thermal decomposition of calcium carbonate?",
+        "hindi": "कैल्शियम कार्बोनेट के ऊष्मीय अपघटन में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only CaO forms",
+          "Only CO₂ forms",
+          "No reaction",
+          "CaO and CO₂ form"
+        ],
+        "hindi": [
+          "केवल CaO बनता है",
+          "केवल CO₂ बनती है",
+          "कोई अभिक्रिया नहीं",
+          "CaO और CO₂ बनते हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of copper sulphate solution?",
+        "hindi": "कॉपर सल्फेट विलयन की प्रकृति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Red",
+          "Blue",
+          "Green",
+          "Colorless"
+        ],
+        "hindi": [
+          "लाल",
+          "नीला",
+          "हरा",
+          "रंगहीन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs when iron nails are dipped in copper sulphate?",
+        "hindi": "लोहे की कीलों को कॉपर सल्फेट में डुबोने पर किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Decomposition",
+          "Displacement",
+          "Double displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "अपघटन",
+          "विस्थापन",
+          "द्विविस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when zinc reacts with dilute HCl?",
+        "hindi": "जिंक की तनु HCl से अभिक्रिया में कौन सी गैस बनती है?"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Chlorine",
+          "Carbon dioxide"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "क्लोरीन",
+          "कार्बन डाइऑक्साइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when magnesium burns in air?",
+        "hindi": "मैग्नीशियम हवा में जलने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Black powder forms",
+          "No reaction",
+          "Gas evolves",
+          "White powder forms"
+        ],
+        "hindi": [
+          "काला पाउडर बनता है",
+          "कोई अभिक्रिया नहीं",
+          "गैस निकलती है",
+          "सफेद पाउडर बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    }
+  ]

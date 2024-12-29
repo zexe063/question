@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which indicator is used in acid-base titration?",
+        "hindi": "अम्ल-क्षार अनुमापन में किस सूचक का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Turmeric",
+          "China rose",
+          "Phenolphthalein",
+          "Red cabbage"
+        ],
+        "hindi": [
+          "हल्दी",
+          "चाइना रोज",
+          "फिनॉल्फ्थेलीन",
+          "लाल पत्तागोभी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is a dibasic acid?",
+        "hindi": "इनमें से कौन एक द्विक्षारकीय अम्ल है?"
+      },
+      "option": {
+        "english": [
+          "H₂SO₄",
+          "HCl",
+          "HNO₃",
+          "CH₃COOH"
+        ],
+        "hindi": [
+          "H₂SO₄",
+          "HCl",
+          "HNO₃",
+          "CH₃COOH"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the color of phenolphthalein in basic solution?",
+        "hindi": "क्षारीय विलयन में फिनॉल्फ्थेलीन का रंग क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Colorless",
+          "Pink",
+          "Yellow",
+          "Orange"
+        ],
+        "hindi": [
+          "रंगहीन",
+          "गुलाबी",
+          "पीला",
+          "नारंगी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt is used in black and white photography?",
+        "hindi": "श्याम-श्वेत फोटोग्राफी में किस लवण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaCl",
+          "AgNO₃",
+          "KBr",
+          "Na₂S₂O₃"
+        ],
+        "hindi": [
+          "NaCl",
+          "AgNO₃",
+          "KBr",
+          "Na₂S₂O₃"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when zinc reacts with NaOH?",
+        "hindi": "जब जिंक NaOH से अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Forms ZnO",
+          "Forms Na₂ZnO₂ + H₂",
+          "Forms ZnCl₂"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "ZnO बनता है",
+          "Na₂ZnO₂ + H₂ बनता है",
+          "ZnCl₂ बनता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which property makes bases feel soapy?",
+        "hindi": "कौन सा गुण क्षारों को साबुन जैसा बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Presence of OH⁻",
+          "High pH",
+          "Electrical conductivity",
+          "Bitter taste"
+        ],
+        "hindi": [
+          "OH⁻ की उपस्थिति",
+          "उच्च pH",
+          "विद्युत चालकता",
+          "कड़वा स्वाद"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when Na₂CO₃ reacts with HCl?",
+        "hindi": "Na₂CO₃ जब HCl से अभिक्रिया करता है तो कौन सी गैस बनती है?"
+      },
+      "option": {
+        "english": [
+          "CO₂",
+          "H₂",
+          "O₂",
+          "Cl₂"
+        ],
+        "hindi": [
+          "CO₂",
+          "H₂",
+          "O₂",
+          "Cl₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the pH of a solution with [OH⁻] = 1×10⁻³ M?",
+        "hindi": "[OH⁻] = 1×10⁻³ M वाले विलयन का pH क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "3",
+          "11",
+          "7",
+          "14"
+        ],
+        "hindi": [
+          "3",
+          "11",
+          "7",
+          "14"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal does not react with dilute acids?",
+        "hindi": "कौन सी धातु तनु अम्लों से अभिक्रिया नहीं करती?"
+      },
+      "option": {
+        "english": [
+          "Zinc",
+          "Iron",
+          "Copper",
+          "Magnesium"
+        ],
+        "hindi": [
+          "जिंक",
+          "लोहा",
+          "तांबा",
+          "मैग्नीशियम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is used in the preparation of baking soda?",
+        "hindi": "बेकिंग सोडा के निर्माण में किस अम्ल का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Hydrochloric acid",
+          "Carbonic acid",
+          "Acetic acid",
+          "Sulfuric acid"
+        ],
+        "hindi": [
+          "हाइड्रोक्लोरिक एसिड",
+          "कार्बोनिक एसिड",
+          "एसीटिक एसिड",
+          "सल्फ्यूरिक एसिड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

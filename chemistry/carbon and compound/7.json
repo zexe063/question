@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which property makes carbon form millions of compounds?",
+        "hindi": "कौन सा गुण कार्बन को लाखों यौगिक बनाने में सक्षम बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Valency",
+          "Atomic size",
+          "Tetravalency and Catenation",
+          "Reactivity"
+        ],
+        "hindi": [
+          "संयोजकता",
+          "परमाणु आकार",
+          "चतुःसंयोजकता और श्रृंखलन",
+          "अभिक्रियाशीलता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the structural formula of propane?",
+        "hindi": "प्रोपेन का संरचनात्मक सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CH₃-CH₂-CH₃",
+          "CH₃-CH₃",
+          "CH₃-CH₂-CH₂-CH₃",
+          "CH₂=CH-CH₃"
+        ],
+        "hindi": [
+          "CH₃-CH₂-CH₃",
+          "CH₃-CH₃",
+          "CH₃-CH₂-CH₂-CH₃",
+          "CH₂=CH-CH₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the functional group in butanal?",
+        "hindi": "ब्यूटेनल में क्रियात्मक समूह क्या है?"
+      },
+      "option": {
+        "english": [
+          "-CHO",
+          "-OH",
+          "-COOH",
+          "-CO-"
+        ],
+        "hindi": [
+          "-CHO",
+          "-OH",
+          "-COOH",
+          "-CO-"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanol is oxidized with alkaline KMnO₄?",
+        "hindi": "एथेनॉल क्षारीय KMnO₄ के साथ ऑक्सीकृत होने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Ethene",
+          "Ethanoic acid",
+          "Sodium ethanoate"
+        ],
+        "hindi": [
+          "एथेन",
+          "एथीन",
+          "एथेनोइक अम्ल",
+          "सोडियम एथेनोएट"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do detergents work better than soaps in hard water?",
+        "hindi": "कठोर जल में डिटर्जेंट साबुन से बेहतर क्यों काम करते हैं?"
+      },
+      "option": {
+        "english": [
+          "More soluble",
+          "Less expensive",
+          "Form soluble calcium salts",
+          "Better cleaning"
+        ],
+        "hindi": [
+          "अधिक घुलनशील",
+          "कम महंगे",
+          "घुलनशील कैल्शियम लवण बनाते हैं",
+          "बेहतर सफाई"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the product of complete combustion of methane?",
+        "hindi": "मीथेन के पूर्ण दहन से क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "CO₂ + H₂O",
+          "CO + H₂O",
+          "C + H₂O",
+          "CO₂ + H₂"
+        ],
+        "hindi": [
+          "CO₂ + H₂O",
+          "CO + H₂O",
+          "C + H₂O",
+          "CO₂ + H₂"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the electron dot structure of methane?",
+        "hindi": "मीथेन की इलेक्ट्रॉन बिंदु संरचना क्या है?"
+      },
+      "option": {
+        "english": [
+          "Linear structure",
+          "Planar structure",
+          "Tetrahedral structure",
+          "Pyramidal structure"
+        ],
+        "hindi": [
+          "रैखिक संरचना",
+          "समतलीय संरचना",
+          "चतुष्फलकीय संरचना",
+          "पिरामिडी संरचना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reactions do saturated hydrocarbons undergo?",
+        "hindi": "संतृप्त हाइड्रोकार्बन किस प्रकार की अभिक्रियाएं करते हैं?"
+      },
+      "option": {
+        "english": [
+          "Addition",
+          "Elimination",
+          "Substitution",
+          "Polymerization"
+        ],
+        "hindi": [
+          "योगात्मक",
+          "विलोपन",
+          "प्रतिस्थापन",
+          "बहुलकीकरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is ethanoic acid called a carboxylic acid?",
+        "hindi": "एथेनोइक अम्ल को कार्बोक्सिलिक अम्ल क्यों कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Contains -OH group",
+          "Contains -COOH group",
+          "Contains -CHO group",
+          "Contains -CO group"
+        ],
+        "hindi": [
+          "-OH समूह होने के कारण",
+          "-COOH समूह होने के कारण",
+          "-CHO समूह होने के कारण",
+          "-CO समूह होने के कारण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is saponification?",
+        "hindi": "साबुनीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Making of soap",
+          "Hydrolysis of esters",
+          "Formation of micelles",
+          "Cleaning action"
+        ],
+        "hindi": [
+          "साबुन बनाना",
+          "एस्टर का जल-अपघटन",
+          "मिसेल का निर्माण",
+          "सफाई क्रिया"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

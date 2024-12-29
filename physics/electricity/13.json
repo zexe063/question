@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of an MCB (Miniature Circuit Breaker) in domestic circuits?",
+        "hindi": "घरेलू परिपथों में MCB (लघु परिपथ विच्छेदक) का क्या कार्य होता है?"
+      },
+      "option": {
+        "english": [
+          "Measures current only",
+          "Automatically breaks circuit in overload",
+          "Reduces voltage",
+          "Increases current flow"
+        ],
+        "hindi": [
+          "केवल धारा मापता है",
+          "अधिभार में स्वचालित रूप से परिपथ तोड़ता है",
+          "वोल्टेज कम करता है",
+          "धारा प्रवाह बढ़ाता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which wire carries current back to the power station in domestic wiring?",
+        "hindi": "घरेलू वायरिंग में कौन सा तार विद्युत केंद्र को धारा वापस ले जाता है?"
+      },
+      "option": {
+        "english": [
+          "Live wire (Red)",
+          "Neutral wire (Black)",
+          "Earth wire (Green)",
+          "None of these"
+        ],
+        "hindi": [
+          "लाइव तार (लाल)",
+          "न्यूट्रल तार (काला)",
+          "अर्थ तार (हरा)",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is the earth wire thicker than live and neutral wires?",
+        "hindi": "अर्थ तार, लाइव और न्यूट्रल तारों से मोटा क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "To carry more current",
+          "To have less resistance",
+          "For better grounding",
+          "All of these"
+        ],
+        "hindi": [
+          "अधिक धारा ले जाने के लिए",
+          "कम प्रतिरोध के लिए",
+          "बेहतर अर्थिंग के लिए",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes short circuit in domestic wiring?",
+        "hindi": "घरेलू वायरिंग में शॉर्ट सर्किट का क्या कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Direct contact between live and neutral",
+          "Overloading of circuit",
+          "Low voltage supply",
+          "High resistance connection"
+        ],
+        "hindi": [
+          "लाइव और न्यूट्रल का सीधा संपर्क",
+          "परिपथ का अधिभार",
+          "कम वोल्टेज आपूर्ति",
+          "उच्च प्रतिरोध कनेक्शन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the incorrect connection in this domestic circuit:",
+        "hindi": "इस घरेलू परिपथ में गलत कनेक्शन की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Fuse in neutral wire",
+          "Switch in live wire",
+          "Earth connection",
+          "Main switch position"
+        ],
+        "hindi": [
+          "न्यूट्रल तार में फ्यूज",
+          "लाइव तार में स्विच",
+          "अर्थ कनेक्शन",
+          "मुख्य स्विच की स्थिति"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='red'/><line x1='50' y1='60' x2='250' y2='60' stroke='black'/><line x1='50' y1='90' x2='250' y2='90' stroke='green'/><rect x='100' y='55' width='20' height='10' fill='none' stroke='black'/><text x='60' y='25'>L</text><text x='60' y='55'>N</text><text x='60' y='85'>E</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the maximum number of 100W bulbs that can be safely connected to a 5A, 220V line:",
+        "hindi": "5A, 220V लाइन से सुरक्षित रूप से जोड़े जा सकने वाले 100W बल्बों की अधिकतम संख्या की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "8 bulbs",
+          "10 bulbs",
+          "11 bulbs",
+          "12 bulbs"
+        ],
+        "hindi": [
+          "8 बल्ब",
+          "10 बल्ब",
+          "11 बल्ब",
+          "12 बल्ब"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why are electric appliances provided with three-pin plugs?",
+        "hindi": "विद्युत उपकरणों में तीन-पिन वाले प्लग क्यों लगाए जाते हैं?"
+      },
+      "option": {
+        "english": [
+          "For better current flow",
+          "For safety from electric shock",
+          "For higher voltage supply",
+          "For better connection only"
+        ],
+        "hindi": [
+          "बेहतर धारा प्रवाह के लिए",
+          "विद्युत झटके से सुरक्षा के लिए",
+          "उच्च वोल्टेज आपूर्ति के लिए",
+          "केवल बेहतर कनेक्शन के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of distribution board in domestic wiring?",
+        "hindi": "घरेलू वायरिंग में वितरण बोर्ड का क्या उद्देश्य होता है?"
+      },
+      "option": {
+        "english": [
+          "To measure current",
+          "To distribute power to different circuits",
+          "To increase voltage",
+          "To reduce current"
+        ],
+        "hindi": [
+          "धारा मापने के लिए",
+          "विभिन्न परिपथों में शक्ति वितरित करने के लिए",
+          "वोल्टेज बढ़ाने के लिए",
+          "धारा कम करने के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which safety device has faster response time?",
+        "hindi": "किस सुरक्षा उपकरण का प्रतिक्रिया समय तेज होता है?"
+      },
+      "option": {
+        "english": [
+          "Fuse",
+          "MCB",
+          "Both equal",
+          "Depends on current"
+        ],
+        "hindi": [
+          "फ्यूज",
+          "MCB",
+          "दोनों बराबर",
+          "धारा पर निर्भर करता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A house has main supply of 5kW. Calculate maximum current that can flow:",
+        "hindi": "एक घर में 5kW की मुख्य आपूर्ति है। अधिकतम प्रवाहित होने वाली धारा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "22.7A",
+          "23.7A",
+          "24.7A",
+          "25.7A"
+        ],
+        "hindi": [
+          "22.7A",
+          "23.7A",
+          "24.7A",
+          "25.7A"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

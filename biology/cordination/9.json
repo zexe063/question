@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which hormone regulates sleep cycle?",
+        "hindi": "कौन सा हार्मोन नींद चक्र को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Melatonin",
+          "Insulin",
+          "Cortisol"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "मेलाटोनिन",
+          "इंसुलिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of dendrites?",
+        "hindi": "डेंड्राइट्स का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Process signals",
+          "Filter blood",
+          "Receive signals"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "संकेत प्रक्रिया",
+          "रक्त छानना",
+          "संकेत प्राप्त करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls hunger?",
+        "hindi": "मस्तिष्क का कौन सा भाग भूख को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Hypothalamus",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "हाइपोथैलेमस",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces testosterone?",
+        "hindi": "कौन सी ग्रंथि टेस्टोस्टेरोन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Testes",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "वृषण",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls water retention?",
+        "hindi": "कौन सा हार्मोन जल धारण को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Vasopressin",
+          "Thyroxine",
+          "Cortisol"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "वैसोप्रेसिन",
+          "थायरॉक्सिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone delays leaf senescence?",
+        "hindi": "कौन सा पादप हार्मोन पत्ती जीर्णता को विलंबित करता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Ethylene",
+          "Cytokinin",
+          "Abscisic acid"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "एथिलीन",
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of myelin sheath in neurons?",
+        "hindi": "न्यूरॉन्स में माइलिन आवरण की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Signal processing",
+          "Waste removal",
+          "Insulation"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "संकेत प्रसंस्करण",
+          "अपशिष्ट निष्कासन",
+          "विद्युतरोधन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland becomes inactive after childhood?",
+        "hindi": "कौन सी ग्रंथि बचपन के बाद निष्क्रिय हो जाती है?"
+      },
+      "option": {
+        "english": [
+          "Thymus",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "थाइमस",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes gigantism?",
+        "hindi": "किस हार्मोन की कमी से दैत्यता होती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Growth hormone excess",
+          "Insulin",
+          "Cortisol"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन अधिकता",
+          "इंसुलिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain is affected in Alzheimer's?",
+        "hindi": "अल्जाइमर में मस्तिष्क का कौन सा भाग प्रभावित होता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Hippocampus",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "हिप्पोकैम्पस",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

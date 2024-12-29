@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used to test for acidity of soil?",
+        "hindi": "मिट्टी की अम्लता का परीक्षण करने के लिए इनमें से किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Universal indicator",
+          "Red litmus",
+          "Phenolphthalein",
+          "Blue litmus"
+        ],
+        "hindi": [
+          "सार्वत्रिक सूचक",
+          "लाल लिटमस",
+          "फिनॉल्फ्थेलीन",
+          "नीला लिटमस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of sodium acetate?",
+        "hindi": "सोडियम एसीटेट का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Baking powder",
+          "Vinegar salt",
+          "Washing soda",
+          "Chile saltpeter"
+        ],
+        "hindi": [
+          "बेकिंग पाउडर",
+          "सिरका लवण",
+          "धावन सोडा",
+          "चिली शोरा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is evolved when metal carbonate reacts with acid?",
+        "hindi": "धातु कार्बोनेट जब अम्ल से अभिक्रिया करता है तो कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "O₂",
+          "H₂",
+          "CO₂",
+          "SO₂"
+        ],
+        "hindi": [
+          "O₂",
+          "H₂",
+          "CO₂",
+          "SO₂"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The acid present in ant sting is:",
+        "hindi": "चींटी के डंक में उपस्थित अम्ल है:"
+      },
+      "option": {
+        "english": [
+          "Acetic acid",
+          "Citric acid",
+          "Methanoic acid",
+          "Sulphuric acid"
+        ],
+        "hindi": [
+          "एसीटिक एसिड",
+          "साइट्रिक एसिड",
+          "मेथेनोइक एसिड",
+          "सल्फ्यूरिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these turns blue litmus red?",
+        "hindi": "इनमें से कौन नीले लिटमस को लाल कर देता है?"
+      },
+      "option": {
+        "english": [
+          "NaOH solution",
+          "Lime water",
+          "Pure water",
+          "Lemon juice"
+        ],
+        "hindi": [
+          "NaOH विलयन",
+          "चूने का पानी",
+          "शुद्ध जल",
+          "नींबू का रस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of salt is NH₄Cl?",
+        "hindi": "NH₄Cl किस प्रकार का लवण है?"
+      },
+      "option": {
+        "english": [
+          "Basic salt",
+          "Neutral salt",
+          "Mixed salt",
+          "Acidic salt"
+        ],
+        "hindi": [
+          "क्षारीय लवण",
+          "उदासीन लवण",
+          "मिश्रित लवण",
+          "अम्लीय लवण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property is shown by both acids and bases?",
+        "hindi": "कौन सा गुण अम्ल और क्षार दोनों में पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Sweet taste",
+          "Bitter taste",
+          "Electrical conductivity",
+          "Blue litmus turns red"
+        ],
+        "hindi": [
+          "मीठा स्वाद",
+          "कड़वा स्वाद",
+          "विद्युत चालकता",
+          "नीला लिटमस लाल हो जाता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when an acid reacts with a metal oxide?",
+        "hindi": "जब एक अम्ल धातु ऑक्साइड से अभिक्रिया करता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only salt forms",
+          "Only water forms",
+          "Salt and water form",
+          "No reaction occurs"
+        ],
+        "hindi": [
+          "केवल लवण बनता है",
+          "केवल जल बनता है",
+          "लवण और जल बनते हैं",
+          "कोई अभिक्रिया नहीं होती"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the H⁺ ion concentration in a solution of pH = 5",
+        "hindi": "pH = 5 वाले विलयन में H⁺ आयन की सांद्रता की गणना करें"
+      },
+      "option": {
+        "english": [
+          "1 × 10⁻⁵ M",
+          "5 × 10⁻⁵ M",
+          "1 × 10⁻⁹ M",
+          "1 × 10⁻¹⁴ M"
+        ],
+        "hindi": [
+          "1 × 10⁻⁵ M",
+          "5 × 10⁻⁵ M",
+          "1 × 10⁻⁹ M",
+          "1 × 10⁻¹⁴ M"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of these represents a neutralization reaction?",
+        "hindi": "इनमें से कौन उदासीनीकरण अभिक्रिया को दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "NaCl + AgNO₃ → AgCl + NaNO₃",
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "HCl + KOH → KCl + H₂O",
+          "CaCO₃ → CaO + CO₂"
+        ],
+        "hindi": [
+          "NaCl + AgNO₃ → AgCl + NaNO₃",
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "HCl + KOH → KCl + H₂O",
+          "CaCO₃ → CaO + CO₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

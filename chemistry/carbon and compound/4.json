@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used in making soap?",
+        "hindi": "इनमें से किसका उपयोग साबुन बनाने में किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Ethanol",
+          "Methanol",
+          "Sodium hydroxide",
+          "Ethanoic acid"
+        ],
+        "hindi": [
+          "एथेनॉल",
+          "मेथेनॉल",
+          "सोडियम हाइड्रॉक्साइड",
+          "एथेनोइक अम्ल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of soap solution?",
+        "hindi": "साबुन के घोल की प्रकृति कैसी होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Neutral",
+          "Basic",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "उदासीन",
+          "क्षारीय",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these has highest boiling point?",
+        "hindi": "इनमें से किसका क्वथनांक सबसे अधिक होता है?"
+      },
+      "option": {
+        "english": [
+          "CH₃OH",
+          "CH₃COOH",
+          "CH₃CHO",
+          "CH₄"
+        ],
+        "hindi": [
+          "CH₃OH",
+          "CH₃COOH",
+          "CH₃CHO",
+          "CH₄"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the general formula of alkenes?",
+        "hindi": "एल्कीन का सामान्य सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₊₁"
+        ],
+        "hindi": [
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₊₁"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is used in welding?",
+        "hindi": "वेल्डिंग में किस गैस का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Methane",
+          "Ethane",
+          "Acetylene",
+          "Propane"
+        ],
+        "hindi": [
+          "मीथेन",
+          "एथेन",
+          "एसीटिलीन",
+          "प्रोपेन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanoic acid reacts with ethanol in presence of H₂SO₄?",
+        "hindi": "एथेनोइक अम्ल H₂SO₄ की उपस्थिति में एथेनॉल से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "Ethyl ethanoate",
+          "Ethane",
+          "Ethene",
+          "Ethyne"
+        ],
+        "hindi": [
+          "एथिल एथेनोएट",
+          "एथेन",
+          "एथीन",
+          "एथाइन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which test is used to detect unsaturation in compounds?",
+        "hindi": "यौगिकों में असंतृप्तता की जाँच के लिए कौन सी परीक्षण विधि प्रयोग की जाती है?"
+      },
+      "option": {
+        "english": [
+          "Tollen's test",
+          "Fehling's test",
+          "Iodine test",
+          "Bromine water test"
+        ],
+        "hindi": [
+          "टॉलेन परीक्षण",
+          "फेहलिंग परीक्षण",
+          "आयोडीन परीक्षण",
+          "ब्रोमीन जल परीक्षण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of ethanol?",
+        "hindi": "एथेनॉल का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Grain alcohol",
+          "Wood alcohol",
+          "Rubbing alcohol",
+          "Denatured alcohol"
+        ],
+        "hindi": [
+          "ग्रेन अल्कोहल",
+          "वुड अल्कोहल",
+          "रबिंग अल्कोहल",
+          "विकृत अल्कोहल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the hybridization of carbon in ethene?",
+        "hindi": "एथीन में कार्बन का संकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "sp",
+          "sp²",
+          "sp³",
+          "No hybridization"
+        ],
+        "hindi": [
+          "sp",
+          "sp²",
+          "sp³",
+          "कोई संकरण नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which reagent is used to convert ethanol to ethanoic acid?",
+        "hindi": "एथेनॉल को एथेनोइक अम्ल में बदलने के लिए किस अभिकर्मक का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "K₂Cr₂O₇/H⁺",
+          "KMnO₄",
+          "NaOH",
+          "H₂SO₄"
+        ],
+        "hindi": [
+          "K₂Cr₂O₇/H⁺",
+          "KMnO₄",
+          "NaOH",
+          "H₂SO₄"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

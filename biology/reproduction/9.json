@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of inhibin?",
+        "hindi": "इनहिबिन का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Stimulate FSH",
+          "Inhibit FSH",
+          "Stimulate LH",
+          "Inhibit LH"
+        ],
+        "hindi": [
+          "FSH को उत्तेजित करना",
+          "FSH को रोकना",
+          "LH को उत्तेजित करना",
+          "LH को रोकना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of hCG hormone?",
+        "hindi": "hCG हार्मोन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Trigger labor",
+          "Start ovulation",
+          "Stimulate milk",
+          "Maintain pregnancy"
+        ],
+        "hindi": [
+          "प्रसव शुरू करना",
+          "अंडोत्सर्जन शुरू करना",
+          "दूध उत्तेजित करना",
+          "गर्भावस्था बनाए रखना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes primary sex determination?",
+        "hindi": "प्राथमिक लिंग निर्धारण का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "X chromosome",
+          "Hormones",
+          "SRY gene",
+          "Environment"
+        ],
+        "hindi": [
+          "X गुणसूत्र",
+          "हार्मोन",
+          "SRY जीन",
+          "वातावरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure forms umbilical cord?",
+        "hindi": "नाभिनाल कौन सी संरचना से बनती है?"
+      },
+      "option": {
+        "english": [
+          "Allantois",
+          "Amnion",
+          "Chorion",
+          "Yolk sac"
+        ],
+        "hindi": [
+          "अलैंटॉइस",
+          "उल्बकोष",
+          "जरायु",
+          "पीत कोष"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of activin?",
+        "hindi": "एक्टिविन का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Inhibit FSH",
+          "Stimulate FSH",
+          "Inhibit LH",
+          "Stimulate LH"
+        ],
+        "hindi": [
+          "FSH को रोकना",
+          "FSH को उत्तेजित करना",
+          "LH को रोकना",
+          "LH को उत्तेजित करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes sperm capacitation?",
+        "hindi": "शुक्राणु कैपासिटेशन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "pH change",
+          "Temperature",
+          "Calcium ions",
+          "Enzymes"
+        ],
+        "hindi": [
+          "pH परिवर्तन",
+          "तापमान",
+          "कैल्शियम आयन",
+          "एंजाइम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of kisspeptin?",
+        "hindi": "किस्पेप्टिन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Egg development",
+          "Sperm production",
+          "Hormone regulation",
+          "Puberty onset"
+        ],
+        "hindi": [
+          "अंडा विकास",
+          "शुक्राणु उत्पादन",
+          "हार्मोन नियमन",
+          "यौवन प्रारंभ"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which enzyme digests zona pellucida?",
+        "hindi": "कौन सा एंजाइम जोना पेल्यूसिडा को पचाता है?"
+      },
+      "option": {
+        "english": [
+          "Acrosin",
+          "Hyaluronidase",
+          "Protease",
+          "Lipase"
+        ],
+        "hindi": [
+          "एक्रोसिन",
+          "हायलूरोनिडेज",
+          "प्रोटीएज",
+          "लाइपेज"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of relaxin?",
+        "hindi": "रिलैक्सिन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Milk production",
+          "Pelvic softening",
+          "Uterus contraction",
+          "Hormone regulation"
+        ],
+        "hindi": [
+          "दूध उत्पादन",
+          "श्रोणि मृदुकरण",
+          "गर्भाशय संकुचन",
+          "हार्मोन नियमन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes cortical reaction?",
+        "hindi": "कॉर्टिकल प्रतिक्रिया का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Hormone change",
+          "pH change",
+          "Sperm entry",
+          "Temperature"
+        ],
+        "hindi": [
+          "हार्मोन परिवर्तन",
+          "pH परिवर्तन",
+          "तापमान",
+          "शुक्राणु प्रवेश"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

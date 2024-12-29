@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of valves in veins?",
+        "hindi": "शिराओं में वाल्व का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Prevent backflow of blood",
+          "Increase blood flow",
+          "Filter blood",
+          "Mix blood"
+        ],
+        "hindi": [
+          "रक्त के पीछे की ओर बहने को रोकना",
+          "रक्त प्रवाह बढ़ाना",
+          "रक्त छानना",
+          "रक्त मिश्रित करना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which process helps in absorption of water in roots?",
+        "hindi": "जड़ों में जल अवशोषण में कौन सी प्रक्रिया सहायक है?"
+      },
+      "option": {
+        "english": [
+          "Diffusion",
+          "Osmosis",
+          "Active transport",
+          "Transpiration"
+        ],
+        "hindi": [
+          "विसरण",
+          "परासरण",
+          "सक्रिय परिवहन",
+          "वाष्पोत्सर्जन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of bile in digestion?",
+        "hindi": "पाचन में पित्त की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Breaks proteins",
+          "Emulsifies fats",
+          "Digests carbohydrates",
+          "Absorbs minerals"
+        ],
+        "hindi": [
+          "प्रोटीन तोड़ता है",
+          "वसा का पायसीकरण करता है",
+          "कार्बोहाइड्रेट पचाता है",
+          "खनिज अवशोषित करता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of blood carries oxygen?",
+        "hindi": "रक्त का कौन सा भाग ऑक्सीजन ले जाता है?"
+      },
+      "option": {
+        "english": [
+          "White blood cells",
+          "Platelets",
+          "Plasma",
+          "Hemoglobin"
+        ],
+        "hindi": [
+          "श्वेत रक्त कणिकाएं",
+          "प्लेटलेट्स",
+          "प्लाज्मा",
+          "हीमोग्लोबिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of lymph?",
+        "hindi": "लसीका का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Transport oxygen",
+          "Return tissue fluid to blood",
+          "Digest food",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "ऑक्सीजन का परिवहन",
+          "ऊतक द्रव को रक्त में वापस लाना",
+          "भोजन पचाना",
+          "हार्मोन उत्पन्न करना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes the first heart sound?",
+        "hindi": "पहली हृदय ध्वनि किस कारण होती है?"
+      },
+      "option": {
+        "english": [
+          "Closing of semilunar valves",
+          "Opening of AV valves",
+          "Closing of AV valves",
+          "Blood flow in arteries"
+        ],
+        "hindi": [
+          "अर्धचंद्राकार वाल्वों का बंद होना",
+          "AV वाल्वों का खुलना",
+          "AV वाल्वों का बंद होना",
+          "धमनियों में रक्त प्रवाह"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How do plants respond to water stress?",
+        "hindi": "पौधे जल तनाव पर कैसे प्रतिक्रिया करते हैं?"
+      },
+      "option": {
+        "english": [
+          "Increase transpiration",
+          "Close stomata",
+          "Increase root growth",
+          "Shed leaves"
+        ],
+        "hindi": [
+          "वाष्पोत्सर्जन बढ़ाते हैं",
+          "रंध्र बंद करते हैं",
+          "जड़ों की वृद्धि बढ़ाते हैं",
+          "पत्तियां गिराते हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of carbonic anhydrase in blood?",
+        "hindi": "रक्त में कार्बोनिक एनहाइड्रेज की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Transport CO2",
+          "Form bicarbonate ions",
+          "Carry oxygen",
+          "Regulate pH"
+        ],
+        "hindi": [
+          "CO2 का परिवहन",
+          "बाइकार्बोनेट आयन बनाना",
+          "ऑक्सीजन ले जाना",
+          "pH नियंत्रित करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does glomerular filtration rate remain constant?",
+        "hindi": "ग्लोमेरुलर निस्यंदन दर स्थिर क्यों रहती है?"
+      },
+      "option": {
+        "english": [
+          "Due to hormones",
+          "Due to blood pressure",
+          "Due to autoregulation",
+          "Due to osmotic pressure"
+        ],
+        "hindi": [
+          "हार्मोन के कारण",
+          "रक्तचाप के कारण",
+          "स्वतः नियमन के कारण",
+          "परासरणी दाब के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes the exchange of gases in alveoli?",
+        "hindi": "वायु कूपिकाओं में गैसों का आदान-प्रदान किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Active transport",
+          "Diffusion gradient",
+          "Osmotic pressure",
+          "Muscular action"
+        ],
+        "hindi": [
+          "सक्रिय परिवहन",
+          "विसरण प्रवणता",
+          "परासरणी दाब",
+          "पेशीय क्रिया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

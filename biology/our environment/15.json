@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is food chain?",
+        "hindi": "खाद्य श्रृंखला क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random eating",
+          "No pattern",
+          "Energy transfer",
+          "Just eating"
+        ],
+        "hindi": [
+          "यादृच्छिक भोजन",
+          "कोई पैटर्न नहीं",
+          "ऊर्जा स्थानांतरण",
+          "केवल खाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is needed for respiration?",
+        "hindi": "श्वसन के लिए किस गैस की आवश्यकता होती है?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of forests?",
+        "hindi": "जंगलों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Environmental balance",
+          "Just trees",
+          "Empty space"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "पर्यावरण संतुलन",
+          "केवल पेड़",
+          "खाली स्थान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of water pollution?",
+        "hindi": "जल प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better health",
+          "Good aquatic life",
+          "Health hazards"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर स्वास्थ्य",
+          "अच्छा जलीय जीवन",
+          "स्वास्थ्य खतरे"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is habitat conservation?",
+        "hindi": "आवास संरक्षण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Habitat destruction",
+          "No protection",
+          "Habitat protection",
+          "Habitat removal"
+        ],
+        "hindi": [
+          "आवास विनाश",
+          "कोई संरक्षण नहीं",
+          "आवास संरक्षण",
+          "आवास निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is green technology?",
+        "hindi": "हरित प्रौद्योगिकी क्या है?"
+      },
+      "option": {
+        "english": [
+          "Harmful tech",
+          "Eco-friendly tech",
+          "No technology",
+          "Random tech"
+        ],
+        "hindi": [
+          "हानिकारक तकनीक",
+          "पर्यावरण अनुकूल तकनीक",
+          "कोई तकनीक नहीं",
+          "यादृच्छिक तकनीक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural resource?",
+        "hindi": "प्राकृतिक संसाधन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Water",
+          "Plastic",
+          "Factory",
+          "Machine"
+        ],
+        "hindi": [
+          "जल",
+          "प्लास्टिक",
+          "कारखाना",
+          "मशीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of industrialization?",
+        "hindi": "औद्योगीकरण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean environment",
+          "Better air",
+          "Good health",
+          "Environmental stress"
+        ],
+        "hindi": [
+          "स्वच्छ पर्यावरण",
+          "बेहतर वायु",
+          "अच्छा स्वास्थ्य",
+          "पर्यावरणीय तनाव"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological succession?",
+        "hindi": "पारिस्थितिक अनुक्रमण क्या है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Random change",
+          "Gradual change",
+          "Sudden change"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "यादृच्छिक परिवर्तन",
+          "क्रमिक परिवर्तन",
+          "अचानक परिवर्तन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is sustainable development?",
+        "hindi": "सतत विकास क्या है?"
+      },
+      "option": {
+        "english": [
+          "Rapid growth",
+          "Balanced growth",
+          "No growth",
+          "Harmful growth"
+        ],
+        "hindi": [
+          "तीव्र विकास",
+          "संतुलित विकास",
+          "कोई विकास नहीं",
+          "हानिकारक विकास"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

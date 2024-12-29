@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the balanced equation for sodium reacting with water?",
+        "hindi": "सोडियम की जल से अभिक्रिया का संतुलित समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Na + H₂O → NaOH + H₂",
+          "Na + H₂O → Na₂O + H₂",
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "2Na + H₂O → Na₂O + H₂"
+        ],
+        "hindi": [
+          "Na + H₂O → NaOH + H₂",
+          "Na + H₂O → Na₂O + H₂",
+          "2Na + 2H₂O → 2NaOH + H₂",
+          "2Na + H₂O → Na₂O + H₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the formula of marble?",
+        "hindi": "संगमरमर का सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaO",
+          "CaSO₄"
+        ],
+        "hindi": [
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaO",
+          "CaSO₄"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the equation for thermal decomposition of calcium carbonate?",
+        "hindi": "कैल्शियम कार्बोनेट के ऊष्मीय अपघटन का समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaCO₃ → CaO + CO₂",
+          "CaCO₃ → Ca + CO₃",
+          "CaCO₃ → CaC + O₃",
+          "CaCO₃ → Ca + C + O₃"
+        ],
+        "hindi": [
+          "CaCO₃ → CaO + CO₂",
+          "CaCO₃ → Ca + CO₃",
+          "CaCO₃ → CaC + O₃",
+          "CaCO₃ → Ca + C + O₃"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the balanced equation for magnesium burning in air?",
+        "hindi": "मैग्नीशियम की वायु में जलने की संतुलित अभिक्रिया क्या है?"
+      },
+      "option": {
+        "english": [
+          "Mg + O₂ → MgO",
+          "2Mg + O₂ → Mg₂O₂",
+          "Mg + O₂ → MgO₂",
+          "2Mg + O₂ → 2MgO"
+        ],
+        "hindi": [
+          "Mg + O₂ → MgO",
+          "2Mg + O₂ → Mg₂O₂",
+          "Mg + O₂ → MgO₂",
+          "2Mg + O₂ → 2MgO"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the formula of baking soda?",
+        "hindi": "बेकिंग सोडा का सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "Na₂CO₃",
+          "NaOH",
+          "NaHCO₃",
+          "Na₂O"
+        ],
+        "hindi": [
+          "Na₂CO₃",
+          "NaOH",
+          "NaHCO₃",
+          "Na₂O"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the equation for reaction between CuO and H₂?",
+        "hindi": "CuO और H₂ के बीच अभिक्रिया का समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "CuO + H₂ → Cu + H₂O",
+          "2CuO + H₂ → Cu₂O + H₂O",
+          "CuO + 2H₂ → CuH₂ + H₂O",
+          "CuO + H₂ → CuH₂O"
+        ],
+        "hindi": [
+          "CuO + H₂ → Cu + H₂O",
+          "2CuO + H₂ → Cu₂O + H₂O",
+          "CuO + 2H₂ → CuH₂ + H₂O",
+          "CuO + H₂ → CuH₂O"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the formula of iron (III) oxide?",
+        "hindi": "आयरन (III) ऑक्साइड का सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "Fe₂O₃",
+          "FeO",
+          "Fe₃O₄",
+          "FeO₃"
+        ],
+        "hindi": [
+          "Fe₂O₃",
+          "FeO",
+          "Fe₃O₄",
+          "FeO₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the balanced equation for aluminum reacting with dilute HCl?",
+        "hindi": "एल्युमिनियम की तनु HCl से अभिक्रिया का संतुलित समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Al + HCl → AlCl + H₂",
+          "2Al + 6HCl → 2AlCl₃ + H₂",
+          "Al + 3HCl → AlCl₃ + H₂",
+          "2Al + 6HCl → 2AlCl₃ + 3H₂"
+        ],
+        "hindi": [
+          "Al + HCl → AlCl + H₂",
+          "2Al + 6HCl → 2AlCl₃ + H₂",
+          "Al + 3HCl → AlCl₃ + H₂",
+          "2Al + 6HCl → 2AlCl₃ + 3H₂"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the formula of bleaching powder?",
+        "hindi": "ब्लीचिंग पाउडर का सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaCl₂",
+          "Ca(OCl)₂",
+          "CaOCl₂",
+          "CaCl₂O"
+        ],
+        "hindi": [
+          "CaCl₂",
+          "Ca(OCl)₂",
+          "CaOCl₂",
+          "CaCl₂O"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the balanced equation for zinc oxide reacting with sodium hydroxide?",
+        "hindi": "जिंक ऑक्साइड की सोडियम हाइड्रॉक्साइड से अभिक्रिया का संतुलित समीकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "ZnO + NaOH → NaZnO₂ + H₂O",
+          "ZnO + 2NaOH → Na₂ZnO₂ + H₂O",
+          "ZnO + 2NaOH → Na₂ZnO₂ + H₂",
+          "ZnO + NaOH → Na₂ZnO + H₂"
+        ],
+        "hindi": [
+          "ZnO + NaOH → NaZnO₂ + H₂O",
+          "ZnO + 2NaOH → Na₂ZnO₂ + H₂O",
+          "ZnO + 2NaOH → Na₂ZnO₂ + H₂",
+          "ZnO + NaOH → Na₂ZnO + H₂"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

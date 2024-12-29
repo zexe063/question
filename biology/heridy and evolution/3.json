@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the number of chromosomes in human gametes?",
+        "hindi": "मानव युग्मकों में गुणसूत्रों की संख्या कितनी होती है?"
+      },
+      "option": {
+        "english": [
+          "23",
+          "46",
+          "22",
+          "44"
+        ],
+        "hindi": [
+          "23",
+          "46",
+          "22",
+          "44"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the term for traits that skip generations?",
+        "hindi": "पीढ़ियों को छोड़कर प्रकट होने वाले लक्षणों को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Dominant",
+          "Acquired",
+          "Recessive",
+          "Inherited"
+        ],
+        "hindi": [
+          "प्रभावी",
+          "अर्जित",
+          "अप्रभावी",
+          "वंशागत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of fossils in evolution studies?",
+        "hindi": "विकास के अध्ययन में जीवाश्मों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Show adaptation",
+          "Prove mutation",
+          "Show variation",
+          "Provide evidence"
+        ],
+        "hindi": [
+          "अनुकूलन दिखाना",
+          "उत्परिवर्तन साबित करना",
+          "विभिन्नता दिखाना",
+          "प्रमाण प्रदान करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which type of twins are formed from different eggs?",
+        "hindi": "किस प्रकार के जुड़वां अलग-अलग अंडों से बनते हैं?"
+      },
+      "option": {
+        "english": [
+          "Identical",
+          "Fraternal",
+          "Siamese",
+          "Conjoined"
+        ],
+        "hindi": [
+          "समरूप",
+          "असमरूप",
+          "सयामी",
+          "संयुक्त"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which human chromosome determines maleness?",
+        "hindi": "कौन सा मानव गुणसूत्र पुरुषत्व निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "Y chromosome",
+          "X chromosome",
+          "Both X and Y",
+          "Autosomes"
+        ],
+        "hindi": [
+          "Y गुणसूत्र",
+          "X गुणसूत्र",
+          "X और Y दोनों",
+          "अलिंग गुणसूत्र"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of formation of new species?",
+        "hindi": "नई प्रजातियों के निर्माण की प्रक्रिया क्या है?"
+      },
+      "option": {
+        "english": [
+          "Evolution",
+          "Adaptation",
+          "Mutation",
+          "Speciation"
+        ],
+        "hindi": [
+          "विकास",
+          "अनुकूलन",
+          "उत्परिवर्तन",
+          "जातियन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the pattern of inheritance in human blood groups?",
+        "hindi": "मानव रक्त समूहों में वंशागति का प्रतिरूप क्या है?"
+      },
+      "option": {
+        "english": [
+          "Single gene",
+          "Sex linked",
+          "Multiple allele",
+          "Incomplete dominance"
+        ],
+        "hindi": [
+          "एकल जीन",
+          "लिंग सहलग्न",
+          "बहु एलील",
+          "अपूर्ण प्रभाविता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for secondary sexual characters in females?",
+        "hindi": "महिलाओं में द्वितीयक लैंगिक लक्षणों के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Testosterone",
+          "Estrogen",
+          "Progesterone",
+          "Thyroxine"
+        ],
+        "hindi": [
+          "टेस्टोस्टेरोन",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन",
+          "थायरॉक्सिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the probability of getting a male child?",
+        "hindi": "पुरुष संतान प्राप्त करने की प्रायिकता क्या है?"
+      },
+      "option": {
+        "english": [
+          "50%",
+          "25%",
+          "75%",
+          "100%"
+        ],
+        "hindi": [
+          "50%",
+          "25%",
+          "75%",
+          "100%"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the genotype ratio in monohybrid cross?",
+        "hindi": "एकसंकर क्रॉस में जीनोटाइप अनुपात क्या है?"
+      },
+      "option": {
+        "english": [
+          "1:2:1",
+          "3:1",
+          "1:1:1:1",
+          "9:3:3:1"
+        ],
+        "hindi": [
+          "1:2:1",
+          "3:1",
+          "1:1:1:1",
+          "9:3:3:1"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

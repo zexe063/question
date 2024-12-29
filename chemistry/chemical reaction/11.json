@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "The chemical equation Fe₂O₃ + 2Al → Al₂O₃ + 2Fe is an example of:",
+        "hindi": "रासायनिक समीकरण Fe₂O₃ + 2Al → Al₂O₃ + 2Fe किसका उदाहरण है:"
+      },
+      "option": {
+        "english": [
+          "Combination reaction",
+          "Decomposition reaction",
+          "Displacement reaction",
+          "Double displacement reaction"
+        ],
+        "hindi": [
+          "संयोजन अभिक्रिया",
+          "अपघटन अभिक्रिया",
+          "विस्थापन अभिक्रिया",
+          "द्विविस्थापन अभिक्रिया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium-hard"
+    },
+    {
+      "question_name": {
+        "english": "When lead nitrate solution is heated strongly, it decomposes to form lead oxide, nitrogen dioxide and oxygen gas. The balanced equation is:",
+        "hindi": "लेड नाइट्रेट विलयन को गर्म करने पर यह लेड ऑक्साइड, नाइट्रोजन डाइऑक्साइड और ऑक्सीजन गैस बनाता है। संतुलित समीकरण है:"
+      },
+      "option": {
+        "english": [
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + 2NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 2NO₂ + O₂"
+        ],
+        "hindi": [
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + 2NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 2NO₂ + O₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The reaction of iron with copper sulphate solution can be termed as:",
+        "hindi": "आयरन की कॉपर सल्फेट विलयन से अभिक्रिया को कहा जा सकता है:"
+      },
+      "option": {
+        "english": [
+          "Double displacement reaction",
+          "Displacement reaction",
+          "Decomposition reaction",
+          "Combination reaction"
+        ],
+        "hindi": [
+          "द्विविस्थापन अभिक्रिया",
+          "विस्थापन अभिक्रिया",
+          "अपघटन अभिक्रिया",
+          "संयोजन अभिक्रिया"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Silver chloride turns grey in sunlight because of:",
+        "hindi": "सिल्वर क्लोराइड धूप में धूसर हो जाता है क्योंकि:"
+      },
+      "option": {
+        "english": [
+          "Oxidation reaction",
+          "Combination reaction",
+          "Decomposition reaction",
+          "Double displacement reaction"
+        ],
+        "hindi": [
+          "ऑक्सीकरण अभिक्रिया",
+          "संयोजन अभिक्रिया",
+          "अपघटन अभिक्रिया",
+          "द्विविस्थापन अभिक्रिया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The reaction CuO + H₂ → Cu + H₂O is an example of:",
+        "hindi": "अभिक्रिया CuO + H₂ → Cu + H₂O किसका उदाहरण है:"
+      },
+      "option": {
+        "english": [
+          "Oxidation reaction",
+          "Combination reaction",
+          "Reduction reaction",
+          "Double displacement reaction"
+        ],
+        "hindi": [
+          "ऑक्सीकरण अभिक्रिया",
+          "संयोजन अभिक्रिया",
+          "अपचयन अभिक्रिया",
+          "द्विविस्थापन अभिक्रिया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium-hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is a balanced equation for the thermal decomposition of calcium carbonate?",
+        "hindi": "कैल्शियम कार्बोनेट के ऊष्मीय अपघटन के लिए इनमें से कौन सा संतुलित समीकरण है?"
+      },
+      "option": {
+        "english": [
+          "CaCO₃ + heat → Ca + CO₂",
+          "CaCO₃ → CaO + CO₂",
+          "CaCO₃ + O₂ → CaO + CO₂",
+          "2CaCO₃ → 2CaO + CO₂"
+        ],
+        "hindi": [
+          "CaCO₃ + ऊष्मा → Ca + CO₂",
+          "CaCO₃ → CaO + CO₂",
+          "CaCO₃ + O₂ → CaO + CO₂",
+          "2CaCO₃ → 2CaO + CO₂"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "When zinc granules are added to dilute sulphuric acid, the gas evolved is:",
+        "hindi": "जब जिंक कणों को तनु सल्फ्यूरिक अम्ल में डाला जाता है, तो उत्सर्जित गैस है:"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Sulphur dioxide"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "सल्फर डाइऑक्साइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "When ferrous sulphate crystals are heated:",
+        "hindi": "जब फेरस सल्फेट क्रिस्टल को गर्म किया जाता है:"
+      },
+      "option": {
+        "english": [
+          "Green color disappears",
+          "Red color appears",
+          "Blue color appears",
+          "Yellow color appears"
+        ],
+        "hindi": [
+          "हरा रंग गायब हो जाता है",
+          "लाल रंग प्रकट होता है",
+          "नीला रंग प्रकट होता है",
+          "पीला रंग प्रकट होता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The reaction between sodium sulphate and barium chloride solutions forms:",
+        "hindi": "सोडियम सल्फेट और बेरियम क्लोराइड विलयन के बीच अभिक्रिया से बनता है:"
+      },
+      "option": {
+        "english": [
+          "White precipitate of BaSO₄",
+          "Blue precipitate of BaSO₄",
+          "Green precipitate of BaSO₄",
+          "Yellow precipitate of BaSO₄"
+        ],
+        "hindi": [
+          "BaSO₄ का सफेद अवक्षेप",
+          "BaSO₄ का नीला अवक्षेप",
+          "BaSO₄ का हरा अवक्षेप",
+          "BaSO₄ का पीला अवक्षेप"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium-hard"
+    },
+    {
+      "question_name": {
+        "english": "A brown coating on iron is called:",
+        "hindi": "लोहे पर भूरी परत कहलाती है:"
+      },
+      "option": {
+        "english": [
+          "Rust",
+          "Paint",
+          "Dust",
+          "Grease"
+        ],
+        "hindi": [
+          "जंग",
+          "पेंट",
+          "धूल",
+          "ग्रीस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    }
+  ]

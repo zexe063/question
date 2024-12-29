@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "How many elements are in period 2?",
+        "hindi": "आवर्त 2 में कितने तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "hindi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the maximum electrons in d-subshell?",
+        "hindi": "d-उपकोश में अधिकतम इलेक्ट्रॉन कितने होते हैं?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "6",
+          "8",
+          "10"
+        ],
+        "hindi": [
+          "2",
+          "6",
+          "8",
+          "10"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is the most reactive halogen?",
+        "hindi": "सबसे अधिक क्रियाशील हैलोजन कौन है?"
+      },
+      "option": {
+        "english": [
+          "Chlorine",
+          "Bromine",
+          "Fluorine",
+          "Iodine"
+        ],
+        "hindi": [
+          "क्लोरीन",
+          "ब्रोमीन",
+          "फ्लोरीन",
+          "आयोडीन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which block contains most elements?",
+        "hindi": "किस ब्लॉक में सबसे अधिक तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "d-block",
+          "f-block",
+          "s-block",
+          "p-block"
+        ],
+        "hindi": [
+          "d-ब्लॉक",
+          "f-ब्लॉक",
+          "s-ब्लॉक",
+          "p-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the valency of noble gases?",
+        "hindi": "उत्कृष्ट गैसों की संयोजकता क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "1",
+          "3",
+          "0"
+        ],
+        "hindi": [
+          "2",
+          "1",
+          "3",
+          "0"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do atomic radii decrease across a period?",
+        "hindi": "एक आवर्त में परमाणु त्रिज्या क्यों घटती है?"
+      },
+      "option": {
+        "english": [
+          "Electron addition",
+          "Shell addition",
+          "Nuclear attraction",
+          "Mass increase"
+        ],
+        "hindi": [
+          "इलेक्ट्रॉन जुड़ने से",
+          "कोश जुड़ने से",
+          "नाभकीय आकर्षण से",
+          "द्रव्यमान बढ़ने से"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes metallic bonding?",
+        "hindi": "धात्विक बंधन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Protons",
+          "Neutrons",
+          "Electrons",
+          "Free electrons"
+        ],
+        "hindi": [
+          "प्रोटॉन",
+          "न्यूट्रॉन",
+          "इलेक्ट्रॉन",
+          "मुक्त इलेक्ट्रॉन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which element shows inert pair effect?",
+        "hindi": "कौन सा तत्व निष्क्रिय युग्म प्रभाव दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Lead",
+          "Carbon",
+          "Silicon",
+          "Tin"
+        ],
+        "hindi": [
+          "लेड",
+          "कार्बन",
+          "सिलिकॉन",
+          "टिन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do transition metals form alloys?",
+        "hindi": "संक्रमण धातुएं मिश्र धातु क्यों बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Similar atomic radius",
+          "Different atomic radius",
+          "Similar properties",
+          "Different properties"
+        ],
+        "hindi": [
+          "समान परमाणु त्रिज्या",
+          "विभिन्न परमाणु त्रिज्या",
+          "समान गुण",
+          "विभिन्न गुण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of lanthanoid contraction?",
+        "hindi": "लैंथेनाइड संकुचन का क्या प्रभाव होता है?"
+      },
+      "option": {
+        "english": [
+          "Size increase",
+          "Mass increase",
+          "Size decrease",
+          "No change"
+        ],
+        "hindi": [
+          "आकार बढ़ता है",
+          "द्रव्यमान बढ़ता है",
+          "आकार घटता है",
+          "कोई परिवर्तन नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

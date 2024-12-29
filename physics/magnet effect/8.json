@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is a solenoid?",
+        "hindi": "परिनालिका क्या है?"
+      },
+      "option": {
+        "english": [
+          "Straight wire",
+          "Single loop",
+          "Coil of wire",
+          "Magnet"
+        ],
+        "hindi": [
+          "सीधा तार",
+          "एकल लूप",
+          "तार की कुंडली",
+          "चुंबक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is an electromagnet?",
+        "hindi": "विद्युत चुंबक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Permanent magnet",
+          "Bar magnet",
+          "Temporary magnet",
+          "Natural magnet"
+        ],
+        "hindi": [
+          "स्थायी चुंबक",
+          "छड़ चुंबक",
+          "अस्थायी चुंबक",
+          "प्राकृतिक चुंबक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which material is used as core in electromagnet?",
+        "hindi": "विद्युत चुंबक में कोर के रूप में किस पदार्थ का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Plastic",
+          "Wood",
+          "Soft iron",
+          "Copper"
+        ],
+        "hindi": [
+          "प्लास्टिक",
+          "लकड़ी",
+          "नरम लोहा",
+          "तांबा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the magnetic field pattern inside a solenoid?",
+        "hindi": "परिनालिका के अंदर चुंबकीय क्षेत्र का पैटर्न कैसा होता है?"
+      },
+      "option": {
+        "english": [
+          "Random lines",
+          "Circular lines",
+          "Uniform parallel lines",
+          "Zigzag lines"
+        ],
+        "hindi": [
+          "यादृच्छिक रेखाएं",
+          "वृत्ताकार रेखाएं",
+          "एकसमान समांतर रेखाएं",
+          "टेढ़ी-मेढ़ी रेखाएं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What affects electromagnet strength?",
+        "hindi": "विद्युत चुंबक की शक्ति को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Color of wire",
+          "Wire material",
+          "Number of turns",
+          "Wire length"
+        ],
+        "hindi": [
+          "तार का रंग",
+          "तार का पदार्थ",
+          "फेरों की संख्या",
+          "तार की लंबाई"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does current direction affect magnetic field in solenoid?",
+        "hindi": "परिनालिका में धारा की दिशा चुंबकीय क्षेत्र को कैसे प्रभावित करती है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Reverses field direction",
+          "Increases field",
+          "Decreases field"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "क्षेत्र की दिशा उलटती है",
+          "क्षेत्र बढ़ता है",
+          "क्षेत्र घटता है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 C50,50 250,50 250,75 S50,100 50,75' stroke='black' fill='none'/><path d='M150,25 L150,125' stroke='blue' stroke-dasharray='5,5'/><path d='M140,75 L160,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to magnetic field when core is removed?",
+        "hindi": "कोर निकालने पर चुंबकीय क्षेत्र का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Increases",
+          "Decreases",
+          "No change",
+          "Reverses"
+        ],
+        "hindi": [
+          "बढ़ता है",
+          "घटता है",
+          "कोई परिवर्तन नहीं",
+          "उलट जाता है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='100' height='50' stroke='black' fill='none'/><path d='M150,25 L150,125' stroke='blue'/><circle cx='150' cy='75' r='20' stroke='gray' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does distance affect magnetic field strength?",
+        "hindi": "दूरी चुंबकीय क्षेत्र की तीव्रता को कैसे प्रभावित करती है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Linear decrease",
+          "Random change",
+          "Inverse square law"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "रैखिक कमी",
+          "यादृच्छिक परिवर्तन",
+          "व्युत्क्रम वर्ग नियम"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,125 Q150,25 250,125' stroke='blue' fill='none'/><line x1='50' y1='125' x2='50' y2='135' stroke='black'/><line x1='250' y1='125' x2='250' y2='135' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why are electromagnets preferred over permanent magnets in industries?",
+        "hindi": "उद्योगों में स्थायी चुंबकों की तुलना में विद्युत चुंबकों को क्यों प्राथमिकता दी जाती है?"
+      },
+      "option": {
+        "english": [
+          "Cheaper",
+          "Lighter",
+          "Controllable strength",
+          "Better looking"
+        ],
+        "hindi": [
+          "सस्ता",
+          "हल्का",
+          "नियंत्रित शक्ति",
+          "बेहतर दिखने वाला"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of solenoid over single circular loop?",
+        "hindi": "एकल वृत्ताकार लूप की तुलना में परिनालिका का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Uses less wire",
+          "Looks better",
+          "Stronger field",
+          "Less current needed"
+        ],
+        "hindi": [
+          "कम तार का उपयोग",
+          "बेहतर दिखता है",
+          "प्रबल क्षेत्र",
+          "कम धारा की आवश्यकता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

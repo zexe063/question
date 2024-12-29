@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Name the part of brain responsible for maintaining posture and equilibrium of the body.",
+        "hindi": "शरीर की मुद्रा और संतुलन बनाए रखने के लिए जिम्मेदार मस्तिष्क के भाग का नाम बताएं।"
+      },
+      "option": {
+        "english": [
+          "Cerebrum",
+          "Cerebellum",
+          "Medulla",
+          "Pons"
+        ],
+        "hindi": [
+          "प्रमस्तिष्क",
+          "अनुमस्तिष्क",
+          "मेडुला",
+          "पोंस"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which endocrine gland is known as master gland? ",
+        "hindi": "किस अंतःस्रावी ग्रंथि को मास्टर ग्रंथि कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Adrenal",
+          "Pancreas"
+        ],
+        "hindi": [
+          "पीयूष ग्रंथि",
+          "थायरॉइड",
+          "एड्रेनल",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone promotes growth of stem? ",
+        "hindi": "कौन सा पादप हार्मोन तने की वृद्धि को बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "Ethylene",
+          "Abscisic acid",
+          "Auxin",
+          "Cytokinin"
+        ],
+        "hindi": [
+          "एथिलीन",
+          "एब्सिसिक एसिड",
+          "ऑक्सिन",
+          "साइटोकाइनिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of receptors in our body? ",
+        "hindi": "हमारे शरीर में ग्राही का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Release hormones",
+          "Digest food",
+          "Transport oxygen",
+          "Detect stimuli"
+        ],
+        "hindi": [
+          "हार्मोन स्रावित करना",
+          "भोजन पचाना",
+          "ऑक्सीजन का परिवहन",
+          "उद्दीपन का पता लगाना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is a reflex action? ",
+        "hindi": "इनमें से कौन एक प्रतिवर्त क्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Walking",
+          "Blinking",
+          "Writing",
+          "Speaking"
+        ],
+        "hindi": [
+          "चलना",
+          "पलक झपकना",
+          "लिखना",
+          "बोलना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does auxin promote cell elongation? ",
+        "hindi": "ऑक्सिन कोशिका लंबन को कैसे बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "By cell division",
+          "By protein synthesis",
+          "By wall loosening",
+          "By water absorption"
+        ],
+        "hindi": [
+          "कोशिका विभाजन द्वारा",
+          "प्रोटीन संश्लेषण द्वारा",
+          "दीवार शिथिलन द्वारा",
+          "जल अवशोषण द्वारा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Name the hormone that regulates blood sugar. ",
+        "hindi": "वह हार्मोन जो रक्त शर्करा को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Thyroxine",
+          "Growth hormone",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes the movement of leaves in Mimosa pudica? ",
+        "hindi": "छुई-मुई की पत्तियों में गति का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Phototropism",
+          "Geotropism",
+          "Chemotropism",
+          "Thigmonasty"
+        ],
+        "hindi": [
+          "प्रकाशानुवर्तन",
+          "गुरुत्वानुवर्तन",
+          "रसायनानुवर्तन",
+          "स्पर्शानुकुंचन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of myelin sheath in neurons? ",
+        "hindi": "न्यूरॉन्स में माइलिन आवरण की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Impulse speed",
+          "Waste removal",
+          "Hormone secretion"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "आवेग गति",
+          "अपशिष्ट निष्कासन",
+          "हार्मोन स्राव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for metamorphosis in insects? ",
+        "hindi": "कीटों में कायांतरण के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Insulin",
+          "Ecdysone",
+          "Auxin"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "इंसुलिन",
+          "एक्डाइसोन",
+          "ऑक्सिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

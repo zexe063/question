@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is found in liquid state at room temperature?",
+        "hindi": "कमरे के तापमान पर कौन सी धातु द्रव अवस्था में पाई जाती है?"
+      },
+      "option": {
+        "english": [
+          "Mercury",
+          "Sodium",
+          "Zinc",
+          "Lead"
+        ],
+        "hindi": [
+          "पारा",
+          "सोडियम",
+          "जस्ता",
+          "सीसा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical name of caustic soda?",
+        "hindi": "कास्टिक सोडा का रासायनिक नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Sodium carbonate",
+          "Sodium hydroxide",
+          "Sodium chloride",
+          "Sodium bicarbonate"
+        ],
+        "hindi": [
+          "सोडियम कार्बोनेट",
+          "सोडियम हाइड्रॉक्साइड",
+          "सोडियम क्लोराइड",
+          "सोडियम बाइकार्बोनेट"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making filament of electric bulbs?",
+        "hindi": "बिजली के बल्ब का फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Nickel",
+          "Tungsten"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "निकल",
+          "टंगस्टन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical formula of slaked lime?",
+        "hindi": "बुझे हुए चूने का रासायनिक सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaO",
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaCl₂"
+        ],
+        "hindi": [
+          "CaO",
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaCl₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making aluminum foil?",
+        "hindi": "एल्युमिनियम फॉइल बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Aluminum",
+          "Silver",
+          "Tin",
+          "Zinc"
+        ],
+        "hindi": [
+          "एल्युमिनियम",
+          "चांदी",
+          "टिन",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when metals react with bases?",
+        "hindi": "धातुएं क्षारों से अभिक्रिया करके क्या बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Salt only",
+          "Water only",
+          "Nothing",
+          "Salt and Hydrogen"
+        ],
+        "hindi": [
+          "केवल लवण",
+          "केवल जल",
+          "कुछ नहीं",
+          "लवण और हाइड्रोजन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is least reactive?",
+        "hindi": "कौन सी धातु सबसे कम क्रियाशील है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Silver",
+          "Copper",
+          "Iron"
+        ],
+        "hindi": [
+          "सोना",
+          "चांदी",
+          "तांबा",
+          "लोहा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of obtaining pure metals from their compounds called?",
+        "hindi": "धातुओं के यौगिकों से शुद्ध धातु प्राप्त करने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Extraction",
+          "Purification",
+          "Reduction",
+          "Calcination"
+        ],
+        "hindi": [
+          "निष्कर्षण",
+          "शुद्धिकरण",
+          "अपचयन",
+          "निस्तापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making permanent magnets?",
+        "hindi": "स्थायी चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Cobalt",
+          "Copper",
+          "Aluminum",
+          "Zinc"
+        ],
+        "hindi": [
+          "कोबाल्ट",
+          "तांबा",
+          "एल्युमिनियम",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of limestone in extraction of iron?",
+        "hindi": "लोहे के निष्कर्षण में चूना पत्थर की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Reducing agent",
+          "Oxidizing agent",
+          "Catalyst",
+          "Flux"
+        ],
+        "hindi": [
+          "अपचायक",
+          "ऑक्सीकारक",
+          "उत्प्रेरक",
+          "गालक"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

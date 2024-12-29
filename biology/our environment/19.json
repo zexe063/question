@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is smog?",
+        "hindi": "धुंध क्या है?"
+      },
+      "option": {
+        "english": [
+          "Clean air",
+          "Pure fog",
+          "Smoke + fog",
+          "Water vapor"
+        ],
+        "hindi": [
+          "स्वच्छ वायु",
+          "शुद्ध कोहरा",
+          "धुआं + कोहरा",
+          "जल वाष्प"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas depletes ozone layer?",
+        "hindi": "कौन सी गैस ओजोन परत को नष्ट करती है?"
+      },
+      "option": {
+        "english": [
+          "CFC",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "सीएफसी",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of industrial waste?",
+        "hindi": "औद्योगिक कचरे का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better soil",
+          "Good health",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर मिट्टी",
+          "अच्छा स्वास्थ्य",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes acid rain?",
+        "hindi": "अम्ल वर्षा का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Clean air",
+          "Air pollution",
+          "Pure water",
+          "Normal rain"
+        ],
+        "hindi": [
+          "स्वच्छ वायु",
+          "वायु प्रदूषण",
+          "शुद्ध जल",
+          "सामान्य वर्षा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is noise pollution?",
+        "hindi": "ध्वनि प्रदूषण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Normal sound",
+          "Low sound",
+          "Harmful sound",
+          "No sound"
+        ],
+        "hindi": [
+          "सामान्य ध्वनि",
+          "कम ध्वनि",
+          "हानिकारक ध्वनि",
+          "कोई ध्वनि नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of plastic pollution?",
+        "hindi": "प्लास्टिक प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better environment",
+          "Clean water",
+          "Good soil",
+          "Ecosystem damage"
+        ],
+        "hindi": [
+          "बेहतर पर्यावरण",
+          "स्वच्छ जल",
+          "अच्छी मिट्टी",
+          "पारिस्थितिकी क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which pollutant causes respiratory problems?",
+        "hindi": "कौन सा प्रदूषक श्वसन समस्याएं पैदा करता है?"
+      },
+      "option": {
+        "english": [
+          "PM2.5",
+          "Clean air",
+          "Pure water",
+          "Normal dust"
+        ],
+        "hindi": [
+          "पीएम2.5",
+          "स्वच्छ वायु",
+          "शुद्ध जल",
+          "सामान्य धूल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is biomedical waste?",
+        "hindi": "जैव चिकित्सा कचरा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Normal waste",
+          "Hospital waste",
+          "Food waste",
+          "Paper waste"
+        ],
+        "hindi": [
+          "सामान्य कचरा",
+          "अस्पताल कचरा",
+          "खाद्य कचरा",
+          "कागज कचरा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is radioactive pollution?",
+        "hindi": "रेडियोधर्मी प्रदूषण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Normal radiation",
+          "Light rays",
+          "Nuclear waste",
+          "Sun rays"
+        ],
+        "hindi": [
+          "सामान्य विकिरण",
+          "प्रकाश किरणें",
+          "परमाणु कचरा",
+          "सूर्य की किरणें"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of oil spills?",
+        "hindi": "तेल रिसाव का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better marine life",
+          "Good environment",
+          "Marine destruction"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर समुद्री जीवन",
+          "अच्छा पर्यावरण",
+          "समुद्री विनाश"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What happens in a displacement reaction with copper sulfate and zinc?",
+        "hindi": "कॉपर सल्फेट और जिंक के साथ विस्थापन अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Blue color remains",
+          "Blue color fades",
+          "Gas evolves"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "नीला रंग रहता है",
+          "नीला रंग फीका पड़ता है",
+          "गैस निकलती है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows thermal decomposition of lead nitrate?",
+        "hindi": "लेड नाइट्रेट का ऊष्मीय अपघटन कौन सा समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + NO₂",
+          "Pb(NO₃)₂ → PbO + NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 2NO₂"
+        ],
+        "hindi": [
+          "2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂",
+          "Pb(NO₃)₂ → PbO + NO₂",
+          "Pb(NO₃)₂ → PbO + NO₂ + O₂",
+          "2Pb(NO₃)₂ → 2PbO + 2NO₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of acid in metal reactions?",
+        "hindi": "धातु अभिक्रियाओं में अम्ल की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Oxidizing agent",
+          "Reducing agent",
+          "No role"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "ऑक्सीकारक",
+          "अपचायक",
+          "कोई भूमिका नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens in chemical weathering?",
+        "hindi": "रासायनिक अपक्षय में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Physical breakdown",
+          "No change",
+          "Color change",
+          "Chemical breakdown"
+        ],
+        "hindi": [
+          "भौतिक टूटना",
+          "कोई परिवर्तन नहीं",
+          "रंग परिवर्तन",
+          "रासायनिक टूटना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in fireworks?",
+        "hindi": "आतिशबाजी में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Single displacement",
+          "Double displacement",
+          "Redox",
+          "Neutralization"
+        ],
+        "hindi": [
+          "एकल विस्थापन",
+          "द्विविस्थापन",
+          "रेडॉक्स",
+          "उदासीनीकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of light in silver chloride reaction?",
+        "hindi": "सिल्वर क्लोराइड अभिक्रिया में प्रकाश की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Energy source",
+          "Product",
+          "Reactant"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "ऊर्जा स्रोत",
+          "उत्पाद",
+          "अभिकारक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which gas causes acid rain?",
+        "hindi": "कौन सी गैस अम्ल वर्षा का कारण बनती है?"
+      },
+      "option": {
+        "english": [
+          "SO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ],
+        "hindi": [
+          "SO₂",
+          "O₂",
+          "N₂",
+          "H₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a combustion reaction?",
+        "hindi": "दहन अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Only heat produced",
+          "Only light produced",
+          "No energy change",
+          "Heat and light produced"
+        ],
+        "hindi": [
+          "केवल ऊष्मा उत्पन्न",
+          "केवल प्रकाश उत्पन्न",
+          "कोई ऊर्जा परिवर्तन नहीं",
+          "ऊष्मा और प्रकाश उत्पन्न"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in nuclear power plants?",
+        "hindi": "परमाणु ऊर्जा संयंत्रों में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Displacement",
+          "Nuclear fission",
+          "Double displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "विस्थापन",
+          "नाभिकीय विखंडन",
+          "द्विविस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of temperature in reaction rate?",
+        "hindi": "अभिक्रिया दर में तापमान की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Rate controller",
+          "Stops reaction",
+          "Product former"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "दर नियंत्रक",
+          "अभिक्रिया रोकता है",
+          "उत्पाद बनाता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

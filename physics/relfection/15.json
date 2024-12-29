@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a swimming pool appear less deep than it actually is?",
+        "hindi": "स्विमिंग पूल वास्तविक गहराई से कम गहरा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Due to reflection of light from water",
+          "Due to absorption of light",
+          "Due to scattering of light",
+          "Due to diffraction of light"
+        ],
+        "hindi": [
+          "पानी से प्रकाश के परावर्तन के कारण",
+          "प्रकाश के अवशोषण के कारण",
+          "प्रकाश के प्रकीर्णन के कारण",
+          "प्रकाश के विवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do mirrors in beauty parlors use white light instead of colored light?",
+        "hindi": "ब्यूटी पार्लर में दर्पण रंगीन प्रकाश के बजाय सफेद प्रकाश का उपयोग क्यों करते हैं?"
+      },
+      "option": {
+        "english": [
+          "To show true colors",
+          "To save electricity",
+          "To look brighter",
+          "To look modern"
+        ],
+        "hindi": [
+          "सही रंग दिखाने के लिए",
+          "बिजली बचाने के लिए",
+          "अधिक चमकीला दिखने के लिए",
+          "आधुनिक दिखने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see rainbow colors in soap bubbles?",
+        "hindi": "साबुन के बुलबुलों में इंद्रधनुषी रंग क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to thin film interference",
+          "Due to dispersion",
+          "Due to reflection",
+          "Due to refraction"
+        ],
+        "hindi": [
+          "पतली फिल्म व्यतिकरण के कारण",
+          "परिक्षेपण के कारण",
+          "परावर्तन के कारण",
+          "अपवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 15 cm. Calculate the image distance when object is at 45 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 15 सेमी है। जब वस्तु 45 सेमी पर हो तो प्रतिबिंब दूरी की गणना करें।"
+      },
+      "option": {
+        "english": [
+          "22.5 cm",
+          "30 cm",
+          "15 cm",
+          "45 cm"
+        ],
+        "hindi": [
+          "22.5 सेमी",
+          "30 सेमी",
+          "15 सेमी",
+          "45 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "An object 4 cm tall is placed 20 cm from a convex mirror of focal length 10 cm. Find image height.",
+        "hindi": "4 सेमी ऊंची वस्तु 10 सेमी फोकस दूरी वाले उत्तल दर्पण से 20 सेमी दूर रखी है। प्रतिबिंब की ऊंचाई ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "1.33 cm",
+          "2 cm",
+          "2.67 cm",
+          "4 cm"
+        ],
+        "hindi": [
+          "1.33 सेमी",
+          "2 सेमी",
+          "2.67 सेमी",
+          "4 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray will return along the same path after reflection from concave mirror?",
+        "hindi": "कौन सी किरण अवतल दर्पण से परावर्तन के बाद उसी पथ पर लौटेगी?"
+      },
+      "option": {
+        "english": [
+          "Ray through center of curvature",
+          "Ray through focus",
+          "Ray parallel to axis",
+          "Ray at 45°"
+        ],
+        "hindi": [
+          "वक्रता केंद्र से गुजरने वाली किरण",
+          "फोकस से गुजरने वाली किरण",
+          "अक्ष के समानांतर किरण",
+          "45° पर किरण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='150' cy='75' r='2'/><line x1='150' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='150' y2='50' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does a ray parallel to principal axis reflect from a convex mirror?",
+        "hindi": "मुख्य अक्ष के समानांतर किरण उत्तल दर्पण से कैसे परावर्तित होती है?"
+      },
+      "option": {
+        "english": [
+          "Appears to diverge from focus",
+          "Passes through focus",
+          "Remains parallel",
+          "Converges at center"
+        ],
+        "hindi": [
+          "फोकस से प्रतीत होती है",
+          "फोकस से गुजरती है",
+          "समानांतर रहती है",
+          "केंद्र पर अभिसरित होती है"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='200' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A spherical mirror forms image at its focus. Where is the object placed?",
+        "hindi": "एक गोलीय दर्पण अपने फोकस पर प्रतिबिंब बनाता है। वस्तु कहाँ रखी है?"
+      },
+      "option": {
+        "english": [
+          "At infinity",
+          "At focus",
+          "At center",
+          "Between F and C"
+        ],
+        "hindi": [
+          "अनंत पर",
+          "फोकस पर",
+          "केंद्र पर",
+          "F और C के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><line x1='250' y1='50' x2='100' y2='75' stroke='blue'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope with reflecting objective, the spherical aberration is minimum when mirror shape is:",
+        "hindi": "परावर्तक अभिदृश्यक वाले संयुक्त सूक्ष्मदर्शी में, गोलीय विपथन न्यूनतम होता है जब दर्पण का आकार होता है:"
+      },
+      "option": {
+        "english": [
+          "Parabolic",
+          "Spherical",
+          "Elliptical",
+          "Hyperbolic"
+        ],
+        "hindi": [
+          "परवलयिक",
+          "गोलीय",
+          "दीर्घवृत्तीय",
+          "अतिपरवलयिक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror forms a real image of magnification -2. If object moves 5 cm towards mirror, image moves:",
+        "hindi": "एक अवतल दर्पण -2 आवर्धन का वास्तविक प्रतिबिंब बनाता है। यदि वस्तु दर्पण की ओर 5 सेमी चले, तो प्रतिबिंब चलेगा:"
+      },
+      "option": {
+        "english": [
+          "20 cm away",
+          "10 cm away",
+          "5 cm away",
+          "15 cm away"
+        ],
+        "hindi": [
+          "20 सेमी दूर",
+          "10 सेमी दूर",
+          "5 सेमी दूर",
+          "15 सेमी दूर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

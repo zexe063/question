@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a pencil appear bent when partially immersed in water?",
+        "hindi": "पानी में आंशिक रूप से डुबोने पर पेंसिल मुड़ी हुई क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Due to change in speed of light",
+          "Due to reflection",
+          "Due to absorption",
+          "Due to scattering"
+        ],
+        "hindi": [
+          "प्रकाश की गति में परिवर्तन के कारण",
+          "परावर्तन के कारण",
+          "अवशोषण के कारण",
+          "प्रकीर्णन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a swimming pool appear less deep than it actually is?",
+        "hindi": "स्विमिंग पूल वास्तविक गहराई से कम गहरा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Due to refraction of light",
+          "Due to reflection",
+          "Due to diffraction",
+          "Due to water pressure"
+        ],
+        "hindi": [
+          "प्रकाश के अपवर्तन के कारण",
+          "परावर्तन के कारण",
+          "विवर्तन के कारण",
+          "जल दाब के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do stars twinkle but planets don't?",
+        "hindi": "तारे टिमटिमाते हैं लेकिन ग्रह नहीं, क्यों?"
+      },
+      "option": {
+        "english": [
+          "Due to atmospheric refraction",
+          "Due to reflection",
+          "Due to their size",
+          "Due to their brightness"
+        ],
+        "hindi": [
+          "वायुमंडलीय अपवर्तन के कारण",
+          "परावर्तन के कारण",
+          "उनके आकार के कारण",
+          "उनकी चमक के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If light travels from air to glass with angle of incidence 30°, the angle of refraction will be:",
+        "hindi": "यदि प्रकाश वायु से कांच में 30° के आपतन कोण पर प्रवेश करता है, तो अपवर्तन कोण होगा:"
+      },
+      "option": {
+        "english": [
+          "19.5°",
+          "30°",
+          "40.5°",
+          "45°"
+        ],
+        "hindi": [
+          "19.5°",
+          "30°",
+          "40.5°",
+          "45°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The refractive index of glass is 1.5. Speed of light in glass will be:",
+        "hindi": "कांच का अपवर्तनांक 1.5 है। कांच में प्रकाश की गति होगी:"
+      },
+      "option": {
+        "english": [
+          "2×10⁸ m/s",
+          "3×10⁸ m/s",
+          "1×10⁸ m/s",
+          "4×10⁸ m/s"
+        ],
+        "hindi": [
+          "2×10⁸ मी/से",
+          "3×10⁸ मी/से",
+          "1×10⁸ मी/से",
+          "4×10⁸ मी/से"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows refraction through a glass slab?",
+        "hindi": "कौन सा किरण आरेख कांच की सिल्ली से होने वाला अपवर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Parallel shift",
+          "No shift",
+          "Angular shift",
+          "Random path"
+        ],
+        "hindi": [
+          "समानांतर विस्थापन",
+          "कोई विस्थापन नहीं",
+          "कोणीय विस्थापन",
+          "यादृच्छिक पथ"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='25' width='100' height='100' fill='none' stroke='black'/><line x1='50' y1='50' x2='100' y2='75' stroke='blue'/><line x1='200' y1='75' x2='250' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows total internal reflection?",
+        "hindi": "कौन सा किरण आरेख पूर्ण आंतरिक परावर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Angle > critical angle",
+          "Angle = critical angle",
+          "Angle < critical angle",
+          "Any angle"
+        ],
+        "hindi": [
+          "कोण > क्रांतिक कोण",
+          "कोण = क्रांतिक कोण",
+          "कोण < क्रांतिक कोण",
+          "कोई भी कोण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 L250,75' stroke='black'/><line x1='150' y1='25' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='25' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows critical angle in water?",
+        "hindi": "कौन सा किरण आरेख जल में क्रांतिक कोण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "48.6°",
+          "45°",
+          "60°",
+          "90°"
+        ],
+        "hindi": [
+          "48.6°",
+          "45°",
+          "60°",
+          "90°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 L250,75' stroke='black'/><line x1='150' y1='25' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from medium 1 to 2 to 3 with refractive indices n₁, n₂, n₃. If n₁=1.5, n₂=2.0, n₃=2.5, then:",
+        "hindi": "एक किरण माध्यम 1 से 2 से 3 में जाती है जिनके अपवर्तनांक n₁, n₂, n₃ हैं। यदि n₁=1.5, n₂=2.0, n₃=2.5, तो:"
+      },
+      "option": {
+        "english": [
+          "n₃₁ = 1.67",
+          "n₃₁ = 1.5",
+          "n₃₁ = 2.0",
+          "n₃₁ = 2.5"
+        ],
+        "hindi": [
+          "n₃₁ = 1.67",
+          "n₃₁ = 1.5",
+          "n₃₁ = 2.0",
+          "n₃₁ = 2.5"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If critical angle for a medium is 30°, its refractive index is:",
+        "hindi": "यदि किसी माध्यम का क्रांतिक कोण 30° है, तो उसका अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "2.0",
+          "1.5",
+          "1.33",
+          "1.0"
+        ],
+        "hindi": [
+          "2.0",
+          "1.5",
+          "1.33",
+          "1.0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Which formula correctly represents Joule's law of heating?",
+        "hindi": "जूल का ऊष्मीय प्रभाव का नियम किस सूत्र द्वारा सही दर्शाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "H = VIt",
+          "H = I²Rt",
+          "H = V²t/R",
+          "All of these"
+        ],
+        "hindi": [
+          "H = VIt",
+          "H = I²Rt",
+          "H = V²t/R",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The resistivity (ρ) of a wire is given by the formula:",
+        "hindi": "एक तार की प्रतिरोधकता (ρ) का सूत्र है:"
+      },
+      "option": {
+        "english": [
+          "ρ = RA/l",
+          "ρ = Rl/A",
+          "ρ = l/RA",
+          "ρ = A/Rl"
+        ],
+        "hindi": [
+          "ρ = RA/l",
+          "ρ = Rl/A",
+          "ρ = l/RA",
+          "ρ = A/Rl"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For a series combination of resistors, which formula is correct?",
+        "hindi": "प्रतिरोधकों के श्रेणी संयोजन के लिए कौन सा सूत्र सही है?"
+      },
+      "option": {
+        "english": [
+          "1/R = 1/R₁ + 1/R₂",
+          "R = R₁ + R₂",
+          "R = R₁R₂/(R₁+R₂)",
+          "R = √(R₁R₂)"
+        ],
+        "hindi": [
+          "1/R = 1/R₁ + 1/R₂",
+          "R = R₁ + R₂",
+          "R = R₁R₂/(R₁+R₂)",
+          "R = √(R₁R₂)"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The temperature coefficient of resistance (α) is given by:",
+        "hindi": "प्रतिरोध का तापमान गुणांक (α) दिया जाता है:"
+      },
+      "option": {
+        "english": [
+          "α = (R₂-R₁)/R₁(t₂-t₁)",
+          "α = R₁/R₂(t₂-t₁)",
+          "α = (R₂-R₁)(t₂-t₁)",
+          "α = R₁R₂/(t₂-t₁)"
+        ],
+        "hindi": [
+          "α = (R₂-R₁)/R₁(t₂-t₁)",
+          "α = R₁/R₂(t₂-t₁)",
+          "α = (R₂-R₁)(t₂-t₁)",
+          "α = R₁R₂/(t₂-t₁)"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Electric power in terms of current and resistance is given by:",
+        "hindi": "धारा और प्रतिरोध के पदों में विद्युत शक्ति दी जाती है:"
+      },
+      "option": {
+        "english": [
+          "P = I/R",
+          "P = IR",
+          "P = I²R",
+          "P = I/R²"
+        ],
+        "hindi": [
+          "P = I/R",
+          "P = IR",
+          "P = I²R",
+          "P = I/R²"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the resistance using the resistivity formula if ρ=2×10⁻⁶ Ωm, l=10m, A=2×10⁻⁶ m²",
+        "hindi": "प्रतिरोधकता सूत्र का उपयोग करके प्रतिरोध की गणना करें यदि ρ=2×10⁻⁶ Ωm, l=10m, A=2×10⁻⁶ m²"
+      },
+      "option": {
+        "english": [
+          "5Ω",
+          "10Ω",
+          "15Ω",
+          "20Ω"
+        ],
+        "hindi": [
+          "5Ω",
+          "10Ω",
+          "15Ω",
+          "20Ω"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Using Joule's law, find heat produced when 5A current flows through 2Ω resistance for 10 seconds:",
+        "hindi": "जूल के नियम का उपयोग करके ऊष्मा की गणना करें जब 5A धारा 2Ω प्रतिरोध से 10 सेकंड तक प्रवाहित होती है:"
+      },
+      "option": {
+        "english": [
+          "250J",
+          "500J",
+          "750J",
+          "1000J"
+        ],
+        "hindi": [
+          "250J",
+          "500J",
+          "750J",
+          "1000J"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If voltage across a conductor doubles, the power dissipation will:",
+        "hindi": "यदि किसी चालक के सिरों पर विभवांतर दोगुना हो जाए, तो शक्ति क्षय होगा:"
+      },
+      "option": {
+        "english": [
+          "Double",
+          "Triple",
+          "Quadruple",
+          "Remain same"
+        ],
+        "hindi": [
+          "दोगुना",
+          "तिगुना",
+          "चौगुना",
+          "समान रहेगा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Convert 5 ampere-hour to coulomb:",
+        "hindi": "5 एम्पीयर-घंटा को कूलॉम में बदलें:"
+      },
+      "option": {
+        "english": [
+          "18000C",
+          "1800C",
+          "180C",
+          "1.8C"
+        ],
+        "hindi": [
+          "18000C",
+          "1800C",
+          "180C",
+          "1.8C"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The SI unit of resistivity is:",
+        "hindi": "प्रतिरोधकता का SI मात्रक है:"
+      },
+      "option": {
+        "english": [
+          "ohm-meter",
+          "ohm/meter",
+          "ohm-meter²",
+          "ohm/meter²"
+        ],
+        "hindi": [
+          "ओम-मीटर",
+          "ओम/मीटर",
+          "ओम-मीटर²",
+          "ओम/मीटर²"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    }
+  ]

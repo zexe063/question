@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a glass rod disappear when immersed in glycerine?",
+        "hindi": "ग्लिसरीन में डुबोने पर कांच की छड़ी अदृश्य क्यों हो जाती है?"
+      },
+      "option": {
+        "english": [
+          "Same refractive indices",
+          "Total reflection",
+          "Absorption of light",
+          "Scattering of light"
+        ],
+        "hindi": [
+          "समान अपवर्तनांक",
+          "पूर्ण परावर्तन",
+          "प्रकाश का अवशोषण",
+          "प्रकाश का प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do stars appear to twinkle but planets don't?",
+        "hindi": "तारे टिमटिमाते क्यों दिखाई देते हैं लेकिन ग्रह नहीं?"
+      },
+      "option": {
+        "english": [
+          "Point source vs extended source",
+          "Distance difference",
+          "Brightness difference",
+          "Size difference"
+        ],
+        "hindi": [
+          "बिंदु स्रोत बनाम विस्तृत स्रोत",
+          "दूरी का अंतर",
+          "चमक का अंतर",
+          "आकार का अंतर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a convex lens form different sized images at different wavelengths?",
+        "hindi": "उत्तल लेंस विभिन्न तरंगदैर्ध्य पर विभिन्न आकार के प्रतिबिंब क्यों बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Wavelength dependent refraction",
+          "Lens shape",
+          "Light intensity",
+          "Object distance"
+        ],
+        "hindi": [
+          "तरंगदैर्ध्य पर निर्भर अपवर्तन",
+          "लेंस का आकार",
+          "प्रकाश की तीव्रता",
+          "वस्तु की दूरी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Light travels through four media with n₁=1.5, n₂=1.6, n₃=1.4, n₄=1.7. If i₁=45°, final angle is:",
+        "hindi": "प्रकाश चार माध्यमों से गुजरता है जिनके n₁=1.5, n₂=1.6, n₃=1.4, n₄=1.7 हैं। यदि i₁=45° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "39.7°",
+          "45°",
+          "35°",
+          "42°"
+        ],
+        "hindi": [
+          "39.7°",
+          "45°",
+          "35°",
+          "42°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a glass prism(n=1.5), if angle of prism is 60° and angle of minimum deviation is 30°, angle of incidence is:",
+        "hindi": "कांच के प्रिज्म(n=1.5) में, यदि प्रिज्म कोण 60° और न्यूनतम विचलन कोण 30° है, तो आपतन कोण है:"
+      },
+      "option": {
+        "english": [
+          "45°",
+          "60°",
+          "30°",
+          "40°"
+        ],
+        "hindi": [
+          "45°",
+          "60°",
+          "30°",
+          "40°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of image in astronomical telescope?",
+        "hindi": "कौन सा किरण आरेख खगोलीय दूरबीन में प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Objective at infinity",
+          "Objective nearby",
+          "No objective",
+          "Multiple objectives"
+        ],
+        "hindi": [
+          "अभिदृश्यक अनंत पर",
+          "अभिदृश्यक पास में",
+          "कोई अभिदृश्यक नहीं",
+          "कई अभिदृश्यक"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='25' x2='100' y2='125' stroke='black'/><line x1='200' y1='25' x2='200' y2='125' stroke='black'/><path d='M50,75 L250,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of spectrum in spectroscope?",
+        "hindi": "कौन सा किरण आरेख स्पेक्ट्रोस्कोप में वर्णक्रम निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple prism dispersion",
+          "Single prism",
+          "No prism",
+          "Random dispersion"
+        ],
+        "hindi": [
+          "बहु प्रिज्म वर्णविक्षेपण",
+          "एकल प्रिज्म",
+          "कोई प्रिज्म नहीं",
+          "यादृच्छिक वर्णविक्षेपण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L150,75 L100,125 Z' stroke='black' fill='none'/><path d='M200,25 L250,75 L200,125 Z' stroke='black' fill='none'/><path d='M50,75 L300,25' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows complete correction of all aberrations?",
+        "hindi": "कौन सा किरण आरेख सभी विपथनों का पूर्ण संशोधन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple lens combination",
+          "Single lens",
+          "Single mirror",
+          "Multiple mirrors"
+        ],
+        "hindi": [
+          "बहु लेंस संयोजन",
+          "एकल लेंस",
+          "एकल दर्पण",
+          "बहु दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='25' x2='100' y2='125' stroke='black'/><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='200' y1='25' x2='200' y2='125' stroke='black'/><line x1='50' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Four thin lenses of powers +5D, -3D, +4D and -2D are separated by 10cm each. Net power is:",
+        "hindi": "चार पतले लेंस जिनकी क्षमताएं +5D, -3D, +4D और -2D हैं, 10सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+2.5D",
+          "+4D",
+          "+1D",
+          "+3D"
+        ],
+        "hindi": [
+          "+2.5D",
+          "+4D",
+          "+1D",
+          "+3D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope, if magnification is 500 and objective focal length is 2mm, tube length for normal adjustment is:",
+        "hindi": "एक सूक्ष्मदर्शी में, यदि आवर्धन 500 और अभिदृश्यक की फोकस दूरी 2मिमी है, तो सामान्य समायोजन के लिए ट्यूब लंबाई है:"
+      },
+      "option": {
+        "english": [
+          "15cm",
+          "20cm",
+          "25cm",
+          "30cm"
+        ],
+        "hindi": [
+          "15सेमी",
+          "20सेमी",
+          "25सेमी",
+          "30सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

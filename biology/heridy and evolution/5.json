@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the term for alternative forms of genes?",
+        "hindi": "जीन के वैकल्पिक रूपों को क्या कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Genome",
+          "Allele",
+          "Trait",
+          "Character"
+        ],
+        "hindi": [
+          "जीनोम",
+          "एलील",
+          "लक्षण",
+          "विशेषता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main cause of evolution according to Darwin?",
+        "hindi": "डार्विन के अनुसार विकास का मुख्य कारण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Mutation",
+          "Inheritance",
+          "Natural selection",
+          "Adaptation"
+        ],
+        "hindi": [
+          "उत्परिवर्तन",
+          "वंशागति",
+          "प्राकृतिक चयन",
+          "अनुकूलन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which chromosome pair determines sex in humans?",
+        "hindi": "मनुष्यों में कौन सा गुणसूत्र युग्म लिंग निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "23rd pair",
+          "22nd pair",
+          "1st pair",
+          "21st pair"
+        ],
+        "hindi": [
+          "23वाँ युग्म",
+          "22वाँ युग्म",
+          "पहला युग्म",
+          "21वाँ युग्म"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of nucleic acids?",
+        "hindi": "न्यूक्लिक अम्ल का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Protein synthesis",
+          "Cell division",
+          "Hereditary information"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन",
+          "आनुवंशिक सूचना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the basis of inheritance?",
+        "hindi": "वंशानुक्रम का आधार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Proteins",
+          "Genes",
+          "RNA",
+          "Cytoplasm"
+        ],
+        "hindi": [
+          "प्रोटीन",
+          "जीन",
+          "आरएनए",
+          "कोशिका द्रव्य"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of variation in natural selection?",
+        "hindi": "प्राकृतिक चयन में विभिन्नता की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Decreases survival",
+          "Reduces adaptation",
+          "Provides raw material"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "उत्तरजीविता घटाती है",
+          "अनुकूलन कम करती है",
+          "कच्चा माल प्रदान करती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which type of cell division occurs in gamete formation?",
+        "hindi": "युग्मक निर्माण में किस प्रकार का कोशिका विभाजन होता है?"
+      },
+      "option": {
+        "english": [
+          "Meiosis",
+          "Mitosis",
+          "Binary fission",
+          "Budding"
+        ],
+        "hindi": [
+          "अर्धसूत्री विभाजन",
+          "समसूत्री विभाजन",
+          "द्विखंडन",
+          "मुकुलन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the inheritance pattern of human height?",
+        "hindi": "मानव ऊंचाई की वंशागति का प्रतिरूप क्या है?"
+      },
+      "option": {
+        "english": [
+          "Single gene",
+          "Sex linked",
+          "Polygenic",
+          "Incomplete dominance"
+        ],
+        "hindi": [
+          "एकल जीन",
+          "लिंग सहलग्न",
+          "बहुजीनी",
+          "अपूर्ण प्रभाविता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is genetic drift?",
+        "hindi": "आनुवंशिक अपवाह क्या है?"
+      },
+      "option": {
+        "english": [
+          "Natural selection",
+          "Random change",
+          "Directed evolution",
+          "Planned breeding"
+        ],
+        "hindi": [
+          "प्राकृतिक चयन",
+          "यादृच्छिक परिवर्तन",
+          "निर्देशित विकास",
+          "नियोजित प्रजनन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of DNA fingerprinting?",
+        "hindi": "DNA फिंगरप्रिंटिंग का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Blood testing",
+          "Disease diagnosis",
+          "Hormone testing",
+          "Individual identification"
+        ],
+        "hindi": [
+          "रक्त परीक्षण",
+          "रोग निदान",
+          "हार्मोन परीक्षण",
+          "व्यक्तिगत पहचान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

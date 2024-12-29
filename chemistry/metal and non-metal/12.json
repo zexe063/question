@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which property allows metals to be drawn into wires?",
+        "hindi": "कौन सा गुण धातुओं को तार में खींचने की अनुमति देता है?"
+      },
+      "option": {
+        "english": [
+          "Malleability",
+          "Sonority",
+          "Luster",
+          "Ductility"
+        ],
+        "hindi": [
+          "आघातवर्धनीयता",
+          "ध्वनिकता",
+          "चमक",
+          "तन्यता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when iron nails are kept in copper sulphate solution?",
+        "hindi": "लोहे की कीलों को कॉपर सल्फेट के घोल में रखने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Iron dissolves",
+          "Brown coating forms",
+          "Gas evolves"
+        ],
+        "hindi": [
+          "कोई प्रतिक्रिया नहीं",
+          "लोहा घुल जाता है",
+          "भूरी परत बनती है",
+          "गैस निकलती है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making overhead electric wires?",
+        "hindi": "ऊपरी बिजली के तारों को बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Aluminum",
+          "Iron",
+          "Lead",
+          "Zinc"
+        ],
+        "hindi": [
+          "एल्युमिनियम",
+          "लोहा",
+          "सीसा",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of metal oxides in water?",
+        "hindi": "जल में धातु ऑक्साइड की प्रकृति कैसी होती है?"
+      },
+      "option": {
+        "english": [
+          "Neutral",
+          "Basic",
+          "Acidic",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "उदासीन",
+          "क्षारीय",
+          "अम्लीय",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which conditions are necessary for rusting of iron?",
+        "hindi": "लोहे में जंग लगने के लिए कौन सी परिस्थितियां आवश्यक हैं?"
+      },
+      "option": {
+        "english": [
+          "Only water",
+          "Only oxygen",
+          "Only CO₂",
+          "Both water and oxygen"
+        ],
+        "hindi": [
+          "केवल जल",
+          "केवल ऑक्सीजन",
+          "केवल CO₂",
+          "जल और ऑक्सीजन दोनों"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal reacts explosively with cold water?",
+        "hindi": "कौन सी धातु ठंडे पानी से विस्फोटक अभिक्रिया करती है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Zinc",
+          "Iron",
+          "Copper"
+        ],
+        "hindi": [
+          "सोडियम",
+          "जस्ता",
+          "लोहा",
+          "तांबा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is pure gold not used in making jewelry?",
+        "hindi": "शुद्ध सोने का उपयोग आभूषण बनाने में क्यों नहीं किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Too expensive",
+          "Not shiny",
+          "Too soft",
+          "Too heavy"
+        ],
+        "hindi": [
+          "बहुत महंगा",
+          "चमकदार नहीं",
+          "बहुत नरम",
+          "बहुत भारी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of chemical bonding is present in metals?",
+        "hindi": "धातुओं में किस प्रकार का रासायनिक बंधन पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Ionic",
+          "Metallic",
+          "Covalent",
+          "None"
+        ],
+        "hindi": [
+          "आयनिक",
+          "धात्विक",
+          "सहसंयोजी",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of coke in blast furnace?",
+        "hindi": "वाष्प भट्टी में कोक का क्या कार्य होता है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Flux",
+          "Fuel",
+          "Reducing agent"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "गालक",
+          "ईंधन",
+          "अपचायक"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is found in free state in nature?",
+        "hindi": "कौन सी धातु प्रकृति में मुक्त अवस्था में पाई जाती है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Iron",
+          "Copper",
+          "Aluminum"
+        ],
+        "hindi": [
+          "सोना",
+          "लोहा",
+          "तांबा",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

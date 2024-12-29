@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "In a Cassegrain telescope, which combination of mirrors is used?",
+        "hindi": "कैसेग्रेन दूरबीन में, दर्पणों का कौन सा संयोजन उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Concave and convex",
+          "Two concave mirrors",
+          "Two convex mirrors",
+          "Convex and plane"
+        ],
+        "hindi": [
+          "अवतल और उत्तल",
+          "दो अवतल दर्पण",
+          "दो उत्तल दर्पण",
+          "उत्तल और समतल"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><path d='M200,75 Q200,125 200,125' stroke='black' fill='none'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='175' y2='50' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "When a ray passes through the center of curvature of a spherical mirror, after reflection it:",
+        "hindi": "जब एक किरण गोलीय दर्पण के वक्रता केंद्र से गुजरती है, परावर्तन के बाद वह:"
+      },
+      "option": {
+        "english": [
+          "Returns along same path",
+          "Passes through focus",
+          "Becomes parallel to axis",
+          "Deviates at 45°"
+        ],
+        "hindi": [
+          "उसी पथ पर लौटती है",
+          "फोकस से होकर गुजरती है",
+          "अक्ष के समानांतर हो जाती है",
+          "45° पर विचलित होती है"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='150' cy='75' r='2'/><line x1='150' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='150' y2='50' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a kaleidoscope with two mirrors, for maximum number of images, the angle should be:",
+        "hindi": "दो दर्पणों वाले कैलीडोस्कोप में, अधिकतम प्रतिबिंबों के लिए कोण होना चाहिए:"
+      },
+      "option": {
+        "english": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ],
+        "hindi": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='75' x2='200' y2='50' stroke='black'/><line x1='150' y1='75' x2='200' y2='100' stroke='black'/><circle cx='175' cy='75' r='2'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror of focal length 20cm forms a real image 3 times the size of object. The object distance is:",
+        "hindi": "20 सेमी फोकस दूरी का एक अवतल दर्पण वस्तु से 3 गुना बड़ा वास्तविक प्रतिबिंब बनाता है। वस्तु की दूरी है:"
+      },
+      "option": {
+        "english": [
+          "26.67 cm",
+          "30 cm",
+          "40 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "26.67 सेमी",
+          "30 सेमी",
+          "40 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a retroreflector used in road signs, the number of reflections that occur is:",
+        "hindi": "सड़क के संकेतों में प्रयुक्त रेट्रोरिफ्लेक्टर में, होने वाले परावर्तनों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ],
+        "hindi": [
+          "3",
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='200' y2='50' stroke='black'/><line x1='200' y1='50' x2='200' y2='150' stroke='black'/><line x1='100' y1='150' x2='200' y2='150' stroke='black'/><line x1='125' y1='25' x2='175' y2='75' stroke='blue'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror system is used in astronomical interferometers?",
+        "hindi": "खगोलीय व्यतिकरणमापी में किस दर्पण प्रणाली का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple flat mirrors",
+          "Single parabolic",
+          "Double convex",
+          "Single spherical"
+        ],
+        "hindi": [
+          "बहु समतल दर्पण",
+          "एकल परवलयिक",
+          "दोहरा उत्तल",
+          "एकल गोलीय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A ray incident normally on a plane mirror will:",
+        "hindi": "एक समतल दर्पण पर लंबवत आपतित किरण:"
+      },
+      "option": {
+        "english": [
+          "Retrace its path",
+          "Deviate at 90°",
+          "Pass through",
+          "Scatter"
+        ],
+        "hindi": [
+          "अपने पथ पर वापस लौटेगी",
+          "90° पर विचलित होगी",
+          "पार हो जाएगी",
+          "बिखर जाएगी"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='100' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a Newtonian telescope, the small mirror used is:",
+        "hindi": "न्यूटनी दूरबीन में प्रयुक्त छोटा दर्पण है:"
+      },
+      "option": {
+        "english": [
+          "Plane mirror at 45°",
+          "Convex mirror",
+          "Concave mirror",
+          "Spherical mirror"
+        ],
+        "hindi": [
+          "45° पर समतल दर्पण",
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "गोलीय दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The radius of curvature of a concave mirror is increasing. Its focal length will:",
+        "hindi": "एक अवतल दर्पण की वक्रता त्रिज्या बढ़ रही है। इसकी फोकस दूरी:"
+      },
+      "option": {
+        "english": [
+          "Increase",
+          "Decrease",
+          "Remain same",
+          "Become zero"
+        ],
+        "hindi": [
+          "बढ़ेगी",
+          "घटेगी",
+          "समान रहेगी",
+          "शून्य हो जाएगी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a solar power tower, the mirrors used are:",
+        "hindi": "सौर ऊर्जा टावर में प्रयुक्त दर्पण हैं:"
+      },
+      "option": {
+        "english": [
+          "Plane mirrors with tracking",
+          "Fixed concave mirrors",
+          "Fixed convex mirrors",
+          "Moving parabolic mirrors"
+        ],
+        "hindi": [
+          "ट्रैकिंग वाले समतल दर्पण",
+          "स्थिर अवतल दर्पण",
+          "स्थिर उत्तल दर्पण",
+          "चल परवलयिक दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

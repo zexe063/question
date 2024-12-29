@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of corpus callosum?",
+        "hindi": "कॉर्पस कैलोसम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store memory",
+          "Control balance",
+          "Process vision",
+          "Connect hemispheres"
+        ],
+        "hindi": [
+          "स्मृति संग्रह",
+          "संतुलन नियंत्रण",
+          "दृष्टि प्रक्रिया",
+          "गोलार्धों को जोड़ना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain processes vision?",
+        "hindi": "मस्तिष्क का कौन सा भाग दृष्टि को संसाधित करता है?"
+      },
+      "option": {
+        "english": [
+          "Temporal lobe",
+          "Frontal lobe",
+          "Occipital lobe",
+          "Parietal lobe"
+        ],
+        "hindi": [
+          "कनपटी पालि",
+          "ललाट पालि",
+          "पश्चकपाल पालि",
+          "पार्श्व पालि"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes growth hormone?",
+        "hindi": "कौन सी ग्रंथि वृद्धि हार्मोन स्रावित करती है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीयूष",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls ovulation?",
+        "hindi": "कौन सा हार्मोन अंडोत्सर्जन को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "LH",
+          "Progesterone",
+          "FSH"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "एलएच",
+          "प्रोजेस्टेरोन",
+          "एफएसएच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of neurotransmitters?",
+        "hindi": "न्यूरोट्रांसमीटर की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Filter blood",
+          "Produce hormones",
+          "Signal transmission"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "रक्त छानना",
+          "हार्मोन उत्पादन",
+          "संकेत संचरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces glucagon?",
+        "hindi": "कौन सी ग्रंथि ग्लूकागॉन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Pancreas",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "अग्न्याशय",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone promotes seed dormancy?",
+        "hindi": "कौन सा हार्मोन बीज प्रसुप्ति को बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Cytokinin",
+          "Abscisic acid",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes dwarfism?",
+        "hindi": "किस हार्मोन की कमी से बौनापन होता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Growth hormone",
+          "Insulin",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन",
+          "इंसुलिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of blood-brain barrier?",
+        "hindi": "रक्त-मस्तिष्क अवरोध का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Filter nutrients",
+          "Store glucose",
+          "Produce hormones",
+          "Protect brain"
+        ],
+        "hindi": [
+          "पोषक तत्व छानना",
+          "ग्लूकोज संग्रह",
+          "हार्मोन उत्पादन",
+          "मस्तिष्क की रक्षा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which gland is affected in Addison's disease?",
+        "hindi": "एडिसन रोग में कौन सी ग्रंथि प्रभावित होती है?"
+      },
+      "option": {
+        "english": [
+          "Adrenal",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "एड्रेनल",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

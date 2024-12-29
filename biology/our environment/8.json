@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the impact of radioactive pollution?",
+        "hindi": "रेडियोधर्मी प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Minor damage",
+          "Temporary effect",
+          "Genetic damage"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "मामूली क्षति",
+          "अस्थायी प्रभाव",
+          "आनुवंशिक क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is habitat fragmentation?",
+        "hindi": "आवास विखंडन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Habitat growth",
+          "Habitat joining",
+          "Habitat division",
+          "Habitat protection"
+        ],
+        "hindi": [
+          "आवास वृद्धि",
+          "आवास जुड़ना",
+          "आवास विभाजन",
+          "आवास संरक्षण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural water purifier?",
+        "hindi": "प्राकृतिक जल शोधक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Wetlands",
+          "Factories",
+          "Roads",
+          "Buildings"
+        ],
+        "hindi": [
+          "आर्द्रभूमि",
+          "कारखाने",
+          "सड़कें",
+          "इमारतें"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of phytoplankton?",
+        "hindi": "फाइटोप्लांकटन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Consume oxygen",
+          "Produce oxygen",
+          "Use carbon dioxide",
+          "Create pollution"
+        ],
+        "hindi": [
+          "ऑक्सीजन का उपभोग",
+          "ऑक्सीजन उत्पादन",
+          "कार्बन डाइऑक्साइड का उपयोग",
+          "प्रदूषण उत्पन्न"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes soil salinization?",
+        "hindi": "मृदा लवणीकरण का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Good irrigation",
+          "Rain water",
+          "Fresh water",
+          "Excess irrigation"
+        ],
+        "hindi": [
+          "अच्छी सिंचाई",
+          "वर्षा जल",
+          "ताजा जल",
+          "अत्यधिक सिंचाई"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a renewable resource?",
+        "hindi": "नवीकरणीय संसाधन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Wind energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "hindi": [
+          "पवन ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of wildlife conservation?",
+        "hindi": "वन्यजीव संरक्षण का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Tourism only",
+          "Entertainment",
+          "Species protection",
+          "Research only"
+        ],
+        "hindi": [
+          "केवल पर्यटन",
+          "मनोरंजन",
+          "प्रजाति संरक्षण",
+          "केवल अनुसंधान"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is sustainable development?",
+        "hindi": "सतत विकास क्या है?"
+      },
+      "option": {
+        "english": [
+          "Fast growth",
+          "Balanced growth",
+          "No growth",
+          "Rapid development"
+        ],
+        "hindi": [
+          "तेज विकास",
+          "संतुलित विकास",
+          "कोई विकास नहीं",
+          "तीव्र विकास"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of ocean acidification?",
+        "hindi": "महासागर अम्लीकरण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better marine life",
+          "More fish",
+          "Healthy corals",
+          "Coral death"
+        ],
+        "hindi": [
+          "बेहतर समुद्री जीवन",
+          "अधिक मछलियां",
+          "स्वस्थ प्रवाल",
+          "प्रवाल मृत्यु"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which process helps in water conservation?",
+        "hindi": "कौन सी प्रक्रिया जल संरक्षण में मदद करती है?"
+      },
+      "option": {
+        "english": [
+          "Rainwater harvesting",
+          "Water wastage",
+          "Water pollution",
+          "Excess usage"
+        ],
+        "hindi": [
+          "वर्षा जल संचयन",
+          "जल बर्बादी",
+          "जल प्रदूषण",
+          "अत्यधिक उपयोग"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

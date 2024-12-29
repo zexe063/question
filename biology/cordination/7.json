@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which part of brain is responsible for posture?",
+        "hindi": "मस्तिष्क का कौन सा भाग मुद्रा के लिए जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebellum",
+          "Cerebrum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेबेलम",
+          "सेरेब्रम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces melatonin?",
+        "hindi": "कौन सी ग्रंथि मेलाटोनिन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Pineal",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीनियल",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone stimulates milk production?",
+        "hindi": "कौन सा हार्मोन दूध उत्पादन को उत्तेजित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Prolactin",
+          "Thyroxine",
+          "Oxytocin"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "प्रोलैक्टिन",
+          "थायरॉक्सिन",
+          "ऑक्सीटोसिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of nodes of Ranvier?",
+        "hindi": "रैनवियर की गांठों का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Filter blood",
+          "Produce hormones",
+          "Saltatory conduction"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "रक्त छानना",
+          "हार्मोन उत्पादन",
+          "उछाल चालन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part controls emotional behavior?",
+        "hindi": "कौन सा भाग भावनात्मक व्यवहार को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Limbic system",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "लिम्बिक तंत्र",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls blood calcium?",
+        "hindi": "कौन सा हार्मोन रक्त कैल्शियम को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Parathormone",
+          "Thyroxine",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "पैराथोरमोन",
+          "थायरॉक्सिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland regulates metabolism?",
+        "hindi": "कौन सी ग्रंथि चयापचय को नियंत्रित करती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pancreas",
+          "Adrenal",
+          "Pituitary"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल",
+          "पीयूष"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes nastic movements in plants?",
+        "hindi": "पौधों में अनुकुंचन गति का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Light",
+          "Gravity",
+          "Water",
+          "Touch"
+        ],
+        "hindi": [
+          "प्रकाश",
+          "गुरुत्व",
+          "जल",
+          "स्पर्श"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which neurotransmitter causes depression?",
+        "hindi": "कौन सा न्यूरोट्रांसमीटर अवसाद का कारण बनता है?"
+      },
+      "option": {
+        "english": [
+          "GABA",
+          "Dopamine",
+          "Serotonin deficiency",
+          "Acetylcholine"
+        ],
+        "hindi": [
+          "गाबा",
+          "डोपामाइन",
+          "सेरोटोनिन की कमी",
+          "एसिटिलकोलीन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes cretinism?",
+        "hindi": "किस हार्मोन की कमी से क्रेटिनिज्म होता है?"
+      },
+      "option": {
+        "english": [
+          "Growth hormone",
+          "Thyroxine",
+          "Insulin",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "वृद्धि हार्मोन",
+          "थायरॉक्सिन",
+          "इंसुलिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

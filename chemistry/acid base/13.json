@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which substance is added to factory waste to neutralize it before release?",
+        "hindi": "कारखाने के अपशिष्ट को छोड़ने से पहले उदासीन करने के लिए क्या मिलाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Vinegar",
+          "Lime",
+          "Salt",
+          "Alum"
+        ],
+        "hindi": [
+          "सिरका",
+          "चूना",
+          "नमक",
+          "फिटकरी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of tartaric acid in baking powder?",
+        "hindi": "बेकिंग पाउडर में टार्टरिक एसिड की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Preservative",
+          "Taste enhancer",
+          "Moisture absorber",
+          "Releases CO₂"
+        ],
+        "hindi": [
+          "परिरक्षक",
+          "स्वाद बढ़ाने वाला",
+          "नमी अवशोषक",
+          "CO₂ निकालता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why is plaster of Paris stored in moisture-proof bags?",
+        "hindi": "प्लास्टर ऑफ पेरिस को नमी-रोधी थैलों में क्यों रखा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Prevents contamination",
+          "Saves cost",
+          "Prevents hardening",
+          "Maintains purity"
+        ],
+        "hindi": [
+          "संदूषण रोकता है",
+          "लागत बचाता है",
+          "कठोर होने से रोकता है",
+          "शुद्धता बनाए रखता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt is used in fire extinguishers?",
+        "hindi": "अग्निशामकों में किस लवण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaHCO₃",
+          "Na₂CO₃",
+          "NaCl",
+          "CaCO₃"
+        ],
+        "hindi": [
+          "NaHCO₃",
+          "Na₂CO₃",
+          "NaCl",
+          "CaCO₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why is dilution of acid done by adding acid to water?",
+        "hindi": "अम्ल का तनुकरण जल में अम्ल मिलाकर क्यों किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "To save acid",
+          "To prevent splashing",
+          "To save water",
+          "To mix better"
+        ],
+        "hindi": [
+          "अम्ल बचाने के लिए",
+          "छींटे रोकने के लिए",
+          "पानी बचाने के लिए",
+          "बेहतर मिश्रण के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which oxide is used in the manufacture of glass?",
+        "hindi": "कांच के निर्माण में किस ऑक्साइड का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "CaO",
+          "MgO",
+          "Na₂O",
+          "Al₂O₃"
+        ],
+        "hindi": [
+          "CaO",
+          "MgO",
+          "Na₂O",
+          "Al₂O₃"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes the blue color of copper sulphate solution?",
+        "hindi": "कॉपर सल्फेट विलयन का नीला रंग किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "SO₄²⁻ ions",
+          "OH⁻ ions",
+          "Cu²⁺ ions",
+          "H⁺ ions"
+        ],
+        "hindi": [
+          "SO₄²⁻ आयन",
+          "OH⁻ आयन",
+          "Cu²⁺ आयन",
+          "H⁺ आयन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when metal carbonates react with acids?",
+        "hindi": "धातु कार्बोनेट जब अम्लों से अभिक्रिया करते हैं तो कौन सी गैस बनती है?"
+      },
+      "option": {
+        "english": [
+          "CO₂",
+          "O₂",
+          "H₂",
+          "SO₂"
+        ],
+        "hindi": [
+          "CO₂",
+          "O₂",
+          "H₂",
+          "SO₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does milk of magnesia act as an antacid?",
+        "hindi": "मैग्नीशिया का दूध एंटासिड की तरह क्यों काम करता है?"
+      },
+      "option": {
+        "english": [
+          "Neutralizes acid",
+          "Coats stomach",
+          "Kills bacteria",
+          "Reduces inflammation"
+        ],
+        "hindi": [
+          "अम्ल को उदासीन करता है",
+          "पेट को कोट करता है",
+          "बैक्टीरिया को मारता है",
+          "सूजन कम करता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which process is used to prevent rusting of iron?",
+        "hindi": "लोहे में जंग लगने से रोकने के लिए कौन सी प्रक्रिया उपयोग की जाती है?"
+      },
+      "option": {
+        "english": [
+          "Crystallization",
+          "Galvanization",
+          "Sublimation",
+          "Distillation"
+        ],
+        "hindi": [
+          "क्रिस्टलीकरण",
+          "जस्तीकरण",
+          "ऊर्ध्वपातन",
+          "आसवन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

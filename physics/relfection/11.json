@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "In a Gregorian telescope, the secondary mirror is:",
+        "hindi": "ग्रेगोरियन दूरबीन में, द्वितीयक दर्पण होता है:"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "Parabolic mirror"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "परवलयिक दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><path d='M200,75 Q200,25 200,25' stroke='black' fill='none'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='175' y2='50' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The caustic curve formed by a cup of coffee is due to reflection from:",
+        "hindi": "कॉफी के कप द्वारा बनने वाला कास्टिक वक्र किससे परावर्तन के कारण बनता है:"
+      },
+      "option": {
+        "english": [
+          "Cylindrical concave mirror",
+          "Spherical mirror",
+          "Parabolic mirror",
+          "Plane mirror"
+        ],
+        "hindi": [
+          "बेलनाकार अवतल दर्पण",
+          "गोलीय दर्पण",
+          "परवलयिक दर्पण",
+          "समतल दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a Schmidt-Cassegrain telescope, the corrector plate is placed:",
+        "hindi": "श्मिट-कैसेग्रेन दूरबीन में, करेक्टर प्लेट रखी जाती है:"
+      },
+      "option": {
+        "english": [
+          "At aperture stop",
+          "Near secondary mirror",
+          "At focal point",
+          "Behind primary mirror"
+        ],
+        "hindi": [
+          "एपर्चर स्टॉप पर",
+          "द्वितीयक दर्पण के पास",
+          "फोकस बिंदु पर",
+          "प्राथमिक दर्पण के पीछे"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "For a spherical mirror, if u→∞ and v→f, then magnification (m) tends to:",
+        "hindi": "एक गोलीय दर्पण के लिए, यदि u→∞ और v→f, तो आवर्धन (m) प्रवृत्त होता है:"
+      },
+      "option": {
+        "english": [
+          "Zero",
+          "One",
+          "Infinity",
+          "Negative infinity"
+        ],
+        "hindi": [
+          "शून्य",
+          "एक",
+          "अनंत",
+          "ऋणात्मक अनंत"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In adaptive optics telescopes, the deformable mirror has:",
+        "hindi": "अनुकूली प्रकाशिकी दूरबीनों में, विरूपणीय दर्पण में होता है:"
+      },
+      "option": {
+        "english": [
+          "Piezoelectric actuators",
+          "Fixed surface",
+          "Single curvature",
+          "Rigid mounting"
+        ],
+        "hindi": [
+          "पीजोइलेक्ट्रिक एक्चुएटर",
+          "स्थिर सतह",
+          "एकल वक्रता",
+          "दृढ़ माउंटिंग"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The shape of mirror used in radio telescopes is:",
+        "hindi": "रेडियो दूरबीनों में प्रयुक्त दर्पण का आकार होता है:"
+      },
+      "option": {
+        "english": [
+          "Paraboloidal",
+          "Spherical",
+          "Ellipsoidal",
+          "Hyperboloidal"
+        ],
+        "hindi": [
+          "परवलयज",
+          "गोलीय",
+          "दीर्घवृत्तज",
+          "अतिपरवलयज"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a ring resonator, light reflects from mirrors in:",
+        "hindi": "रिंग अनुनादक में, प्रकाश दर्पणों से परावर्तित होता है:"
+      },
+      "option": {
+        "english": [
+          "Closed path",
+          "Open path",
+          "Spiral path",
+          "Random path"
+        ],
+        "hindi": [
+          "बंद पथ में",
+          "खुले पथ में",
+          "सर्पिल पथ में",
+          "यादृच्छिक पथ में"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='50' width='200' height='50' fill='none' stroke='black'/><path d='M75,75 L225,75' stroke='blue' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The focal length of a concave mirror is maximum for:",
+        "hindi": "अवतल दर्पण की फोकस दूरी अधिकतम होती है:"
+      },
+      "option": {
+        "english": [
+          "Red light",
+          "Blue light",
+          "Green light",
+          "All same"
+        ],
+        "hindi": [
+          "लाल प्रकाश के लिए",
+          "नीले प्रकाश के लिए",
+          "हरे प्रकाश के लिए",
+          "सभी के लिए समान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a laser cavity, the mirrors used are:",
+        "hindi": "लेजर गुहा में प्रयुक्त दर्पण होते हैं:"
+      },
+      "option": {
+        "english": [
+          "One fully reflecting, one partially",
+          "Both fully reflecting",
+          "Both partially reflecting",
+          "One convex, one concave"
+        ],
+        "hindi": [
+          "एक पूर्ण परावर्तक, एक आंशिक",
+          "दोनों पूर्ण परावर्तक",
+          "दोनों आंशिक परावर्तक",
+          "एक उत्तल, एक अवतल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The mirror equation is invalid when:",
+        "hindi": "दर्पण समीकरण अमान्य होता है जब:"
+      },
+      "option": {
+        "english": [
+          "Mirror is non-spherical",
+          "Object is at infinity",
+          "Image is virtual",
+          "Object is point sized"
+        ],
+        "hindi": [
+          "दर्पण गैर-गोलीय हो",
+          "वस्तु अनंत पर हो",
+          "प्रतिबिंब आभासी हो",
+          "वस्तु बिंदु आकार की हो"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

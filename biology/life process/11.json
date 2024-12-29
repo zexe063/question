@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which type of respiration occurs in muscle cells during exercise?",
+        "hindi": "व्यायाम के दौरान मांसपेशी कोशिकाओं में किस प्रकार का श्वसन होता है?"
+      },
+      "option": {
+        "english": [
+          "No respiration",
+          "Both types",
+          "Anaerobic respiration",
+          "Aerobic respiration"
+        ],
+        "hindi": [
+          "कोई श्वसन नहीं",
+          "दोनों प्रकार",
+          "अवायवीय श्वसन",
+          "वायवीय श्वसन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of villi in small intestine?",
+        "hindi": "छोटी आंत में कूपिकाओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Increase absorption area",
+          "Store nutrients",
+          "Filter blood",
+          "Secrete enzymes"
+        ],
+        "hindi": [
+          "अवशोषण क्षेत्र बढ़ाना",
+          "पोषक तत्वों का संग्रह",
+          "रक्त छानना",
+          "एंजाइम स्रावित करना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is released during photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण के दौरान कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of platelets?",
+        "hindi": "प्लेटलेट्स का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Transport oxygen",
+          "Fight infection",
+          "Produce antibodies",
+          "Blood clotting"
+        ],
+        "hindi": [
+          "ऑक्सीजन परिवहन",
+          "संक्रमण से लड़ना",
+          "एंटीबॉडी उत्पादन",
+          "रक्त का थक्का जमाना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during expiration?",
+        "hindi": "उच्छ्वास के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Lungs expand",
+          "Ribs move up",
+          "Diaphragm relaxes",
+          "Diaphragm contracts"
+        ],
+        "hindi": [
+          "फेफड़े फैलते हैं",
+          "पसलियां ऊपर जाती हैं",
+          "डायाफ्राम शिथिल होता है",
+          "डायाफ्राम संकुचित होता है"
+        ]
+      },    
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "In the given heart diagram, identify the blood flow path marked in red:",
+        "hindi": "दिए गए हृदय चित्र में, लाल रंग से चिह्नित रक्त प्रवाह पथ की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Systemic circulation",
+          "Pulmonary circulation",
+          "Hepatic circulation",
+          "Coronary circulation"
+        ],
+        "hindi": [
+          "दैहिक परिसंचरण",
+          "फुफ्फुसीय परिसंचरण",
+          "यकृत परिसंचरण",
+          "कोरोनरी परिसंचरण"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M150,50C100,30,50,60,50,100C50,150,150,180,150,180C150,180,250,150,250,100C250,60,200,30,150,50' fill='#ff9999'/><path d='M150,75L150,25' stroke='red' stroke-width='2'/><path d='M150,75L200,75' stroke='red' stroke-width='2'/><circle cx='150' cy='75' r='5' fill='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In the nephron diagram, what process occurs at the marked region?",
+        "hindi": "नेफ्रॉन के चित्र में, चिह्नित क्षेत्र में कौन सी प्रक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Selective reabsorption",
+          "Concentration",
+          "Tubular secretion",
+          "Ultrafiltration"
+        ],
+        "hindi": [
+          "चयनात्मक पुनरावशोषण",
+          "सांद्रण",
+          "नलिका स्रावण",
+          "अति निस्यंदन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M100,50C150,50,150,150,100,150' fill='none' stroke='black'/><path d='M125,75C175,75,175,125,125,125' fill='none' stroke='red'/><circle cx='150' cy='100' r='3' fill='red'/><path d='M100,50C80,75,80,125,100,150' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In the stomata mechanism diagram, what is happening?",
+        "hindi": "रंध्र क्रियाविधि के चित्र में क्या हो रहा है?"
+      },
+      "option": {
+        "english": [
+          "Gas exchange",
+          "Water loss",
+          "Closing of stomata",
+          "Opening of stomata"
+        ],
+        "hindi": [
+          "गैस विनिमय",
+          "जल की हानि",
+          "रंध्र का बंद होना",
+          "रंध्र का खुलना"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M100,100C120,80,180,80,200,100C180,120,120,120,100,100' fill='#90EE90'/><path d='M140,90C160,90,160,110,140,110' fill='white'/><circle cx='130' cy='95' r='2' fill='darkgreen'/><circle cx='170' cy='95' r='2' fill='darkgreen'/><path d='M120,85L180,85' stroke='blue' stroke-width='1' stroke-dasharray='2,2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is double circulation necessary in humans but not in fish?",
+        "hindi": "मनुष्यों में दोहरा परिसंचरण आवश्यक क्यों है लेकिन मछलियों में नहीं?"
+      },
+      "option": {
+        "english": [
+          "Due to presence of lungs",
+          "Due to walking on land",
+          "Due to higher energy needs and warm blood",
+          "Due to body size"
+        ],
+        "hindi": [
+          "फेफड़ों की उपस्थिति के कारण",
+          "भूमि पर चलने के कारण",
+          "अधिक ऊर्जा आवश्यकता और गरम रक्त के कारण",
+          "शरीर के आकार के कारण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How does kidney maintain blood pH?",
+        "hindi": "गुर्दा रक्त का pH कैसे नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "By controlling water balance",
+          "By regulating hydrogen ion concentration",
+          "By removing excess salts",
+          "By filtering proteins"
+        ],
+        "hindi": [
+          "जल संतुलन नियंत्रित करके",
+          "हाइड्रोजन आयन सांद्रता नियंत्रित करके",
+          "अतिरिक्त लवण निकालकर",
+          "प्रोटीन छानकर"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ] 

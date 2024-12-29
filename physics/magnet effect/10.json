@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which device converts mechanical energy to electrical energy?",
+        "hindi": "कौन सा उपकरण यांत्रिक ऊर्जा को विद्युत ऊर्जा में परिवर्तित करता है?"
+      },
+      "option": {
+        "english": [
+          "Motor",
+          "Battery",
+          "Generator",
+          "Transformer"
+        ],
+        "hindi": [
+          "मोटर",
+          "बैटरी",
+          "जनरेटर",
+          "ट्रांसफार्मर"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which principle is used in electric doorbell?",
+        "hindi": "विद्युत डोरबेल में किस सिद्धांत का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Heating effect",
+          "Chemical effect",
+          "Electromagnetic effect",
+          "Sound effect"
+        ],
+        "hindi": [
+          "ऊष्मीय प्रभाव",
+          "रासायनिक प्रभाव",
+          "विद्युत चुंबकीय प्रभाव",
+          "ध्वनि प्रभाव"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the principle of electric crane?",
+        "hindi": "विद्युत क्रेन का सिद्धांत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Heating effect",
+          "Chemical effect",
+          "Electromagnetic attraction",
+          "Mechanical force"
+        ],
+        "hindi": [
+          "ऊष्मीय प्रभाव",
+          "रासायनिक प्रभाव",
+          "विद्युत चुंबकीय आकर्षण",
+          "यांत्रिक बल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which device uses both electric motor and generator principle?",
+        "hindi": "कौन सा उपकरण विद्युत मोटर और जनरेटर दोनों सिद्धांतों का उपयोग करता है?"
+      },
+      "option": {
+        "english": [
+          "Fan",
+          "Light",
+          "Hybrid car",
+          "Heater"
+        ],
+        "hindi": [
+          "पंखा",
+          "बल्ब",
+          "हाइब्रिड कार",
+          "हीटर"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which device separates magnetic materials in industry?",
+        "hindi": "उद्योग में चुंबकीय पदार्थों को कौन सा उपकरण अलग करता है?"
+      },
+      "option": {
+        "english": [
+          "Filter",
+          "Sieve",
+          "Magnetic separator",
+          "Crusher"
+        ],
+        "hindi": [
+          "फिल्टर",
+          "चलनी",
+          "चुंबकीय पृथक्कारक",
+          "क्रशर"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How does MRI machine use magnetic field?",
+        "hindi": "MRI मशीन चुंबकीय क्षेत्र का उपयोग कैसे करती है?"
+      },
+      "option": {
+        "english": [
+          "For cooling",
+          "Body imaging",
+          "Heat production",
+          "Sound generation"
+        ],
+        "hindi": [
+          "शीतलन के लिए",
+          "शरीर की इमेजिंग",
+          "ऊष्मा उत्पादन",
+          "ध्वनि उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><ellipse cx='150' cy='75' rx='100' ry='40' stroke='black' fill='none'/><rect x='100' y='55' width='100' height='40' stroke='blue' fill='none'/><path d='M50,75 L250,75' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How are magnetic fields used in speakers?",
+        "hindi": "स्पीकर में चुंबकीय क्षेत्र का उपयोग कैसे होता है?"
+      },
+      "option": {
+        "english": [
+          "For cooling",
+          "Sound production",
+          "Decoration",
+          "Protection"
+        ],
+        "hindi": [
+          "शीतलन के लिए",
+          "ध्वनि उत्पादन",
+          "सजावट",
+          "सुरक्षा"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><circle cx='150' cy='75' r='30' stroke='blue' fill='none'/><path d='M150,25 L150,125' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How do magnetic strips in credit cards work?",
+        "hindi": "क्रेडिट कार्ड में चुंबकीय पट्टी कैसे काम करती है?"
+      },
+      "option": {
+        "english": [
+          "No function",
+          "Decoration",
+          "Protection",
+          "Data storage"
+        ],
+        "hindi": [
+          "कोई कार्य नहीं",
+          "सजावट",
+          "सुरक्षा",
+          "डेटा भंडारण"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='50' width='200' height='50' stroke='black' fill='none'/><line x1='50' y1='80' x2='250' y2='80' stroke='brown' stroke-width='5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which magnetic effect is used in maglev trains?",
+        "hindi": "मैग्लेव ट्रेन में कौन सा चुंबकीय प्रभाव उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Attraction only",
+          "Repulsion only",
+          "Both attraction and repulsion",
+          "Neither"
+        ],
+        "hindi": [
+          "केवल आकर्षण",
+          "केवल प्रतिकर्षण",
+          "आकर्षण और प्रतिकर्षण दोनों",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How are magnetic fields used in particle accelerators?",
+        "hindi": "कण त्वरक में चुंबकीय क्षेत्र का उपयोग कैसे होता है?"
+      },
+      "option": {
+        "english": [
+          "Cooling",
+          "Heating",
+          "Particle steering",
+          "Decoration"
+        ],
+        "hindi": [
+          "शीतलन",
+          "तापन",
+          "कण निर्देशन",
+          "सजावट"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

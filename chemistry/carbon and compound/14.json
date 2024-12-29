@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the general formula of alkanes?",
+        "hindi": "एल्केन का सामान्य सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₋₁"
+        ],
+        "hindi": [
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₋₁"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which functional group is present in ethanol?",
+        "hindi": "एथेनॉल में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "-COOH",
+          "-OH",
+          "-CHO",
+          "-CO-"
+        ],
+        "hindi": [
+          "-COOH",
+          "-OH",
+          "-CHO",
+          "-CO-"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of CH₃COOH?",
+        "hindi": "CH₃COOH का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Formic acid",
+          "Acetic acid",
+          "Citric acid",
+          "Oxalic acid"
+        ],
+        "hindi": [
+          "फॉर्मिक अम्ल",
+          "एसीटिक अम्ल",
+          "साइट्रिक अम्ल",
+          "ऑक्सैलिक अम्ल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when ethanol burns in air?",
+        "hindi": "एथेनॉल हवा में जलने पर कौन सी गैस उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "CO",
+          "CO₂",
+          "SO₂",
+          "NO₂"
+        ],
+        "hindi": [
+          "CO",
+          "CO₂",
+          "SO₂",
+          "NO₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the general formula of alkenes?",
+        "hindi": "एल्कीन का सामान्य सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₋₁"
+        ],
+        "hindi": [
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ₋₁"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of bond is shown between carbon atoms?",
+        "hindi": "कार्बन परमाणुओं के बीच किस प्रकार का बंध दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Single bond",
+          "Double bond",
+          "Triple bond",
+          "No bond"
+        ],
+        "hindi": [
+          "एकल बंध",
+          "द्विबंध",
+          "त्रिबंध",
+          "कोई बंध नहीं"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(100,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='20' y1='0' x2='160' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='0' x2='120' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='-5' x2='120' y2='-5' stroke='black' stroke-width='2'/><circle cx='180' cy='0' r='20' fill='#4a90e2'/><text x='180' y='5' text-anchor='middle' fill='white'>C</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the hybridization shown in the carbon atom:",
+        "hindi": "कार्बन परमाणु में दर्शाए गए संकरण की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "sp³",
+          "sp²",
+          "sp",
+          "No hybridization"
+        ],
+        "hindi": [
+          "sp³",
+          "sp²",
+          "sp",
+          "कोई संकरण नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='60' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='52' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='-52' stroke='black' stroke-width='2'/><text x='30' y='-20' fill='black'>120°</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What bond angle is shown in this molecule?",
+        "hindi": "इस अणु में कौन सा बंध कोण दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "90°",
+          "109.5°",
+          "120°",
+          "180°"
+        ],
+        "hindi": [
+          "90°",
+          "109.5°",
+          "120°",
+          "180°"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='50' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-43.3' y2='-25' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-43.3' y2='25' stroke='black' stroke-width='2'/><text x='-20' y='0' fill='black'>120°</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanol is oxidized?",
+        "hindi": "एथेनॉल के ऑक्सीकरण पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Forms ethanoic acid",
+          "Forms ethanal",
+          "Forms ethane",
+          "Forms ethene"
+        ],
+        "hindi": [
+          "एथेनोइक अम्ल बनता है",
+          "एथैनल बनता है",
+          "एथेन बनता है",
+          "एथीन बनता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in soap formation?",
+        "hindi": "साबुन निर्माण में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Oxidation",
+          "Reduction",
+          "Hydrolysis",
+          "Saponification"
+        ],
+        "hindi": [
+          "ऑक्सीकरण",
+          "अपचयन",
+          "जल-अपघटन",
+          "साबुनीकरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

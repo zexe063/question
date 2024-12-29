@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the product of combustion of ethanol?",
+        "hindi": "एथेनॉल के दहन से क्या उत्पाद बनते हैं?"
+      },
+      "option": {
+        "english": [
+          "CO₂ only",
+          "H₂O only",
+          "CO₂ and H₂",
+          "CO₂ and H₂O"
+        ],
+        "hindi": [
+          "केवल CO₂",
+          "केवल H₂O",
+          "CO₂ और H₂",
+          "CO₂ और H₂O"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these has triple bond?",
+        "hindi": "इनमें से किसमें त्रिबंध होता है?"
+      },
+      "option": {
+        "english": [
+          "Ethyne",
+          "Ethene",
+          "Ethane",
+          "Methane"
+        ],
+        "hindi": [
+          "एथाइन",
+          "एथीन",
+          "एथेन",
+          "मीथेन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the number of valence electrons in carbon?",
+        "hindi": "कार्बन में संयोजी इलेक्ट्रॉनों की संख्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "4",
+          "2",
+          "6",
+          "8"
+        ],
+        "hindi": [
+          "4",
+          "2",
+          "6",
+          "8"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which functional group is present in ketones?",
+        "hindi": "कीटोन में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "-OH",
+          "-COOH",
+          ">C=O",
+          "-CHO"
+        ],
+        "hindi": [
+          "-OH",
+          "-COOH",
+          ">C=O",
+          "-CHO"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanoic acid reacts with ethanol?",
+        "hindi": "एथेनोइक अम्ल एथेनॉल से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Forms ether",
+          "Forms ester",
+          "Forms alkane"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "ईथर बनता है",
+          "एस्टर बनता है",
+          "एल्केन बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is evolved when sodium carbonate reacts with ethanoic acid?",
+        "hindi": "सोडियम कार्बोनेट एथेनोइक अम्ल से अभिक्रिया करने पर कौन सी गैस निकलती है?"
+      },
+      "option": {
+        "english": [
+          "CO₂",
+          "H₂",
+          "O₂",
+          "CH₄"
+        ],
+        "hindi": [
+          "CO₂",
+          "H₂",
+          "O₂",
+          "CH₄"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the IUPAC name of CH₃-CO-CH₃?",
+        "hindi": "CH₃-CO-CH₃ का IUPAC नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Propanone",
+          "Propanal",
+          "Propanol",
+          "Propanoic acid"
+        ],
+        "hindi": [
+          "प्रोपेनोन",
+          "प्रोपैनल",
+          "प्रोपेनॉल",
+          "प्रोपेनोइक अम्ल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which catalyst is used in hydrogenation of vegetable oils?",
+        "hindi": "वनस्पति तेलों के हाइड्रोजनीकरण में कौन सा उत्प्रेरक प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Fe",
+          "Pt",
+          "Ni",
+          "Cu"
+        ],
+        "hindi": [
+          "Fe",
+          "Pt",
+          "Ni",
+          "Cu"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of isomerism is shown by butanal and butanone?",
+        "hindi": "ब्यूटेनल और ब्यूटेनोन किस प्रकार की समावयवता दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Chain",
+          "Position",
+          "Functional",
+          "Geometrical"
+        ],
+        "hindi": [
+          "श्रृंखला",
+          "स्थिति",
+          "क्रियात्मक",
+          "ज्यामितीय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is denatured alcohol?",
+        "hindi": "विकृत एल्कोहल क्या है?"
+      },
+      "option": {
+        "english": [
+          "Pure ethanol",
+          "Methanol",
+          "Ethanol + poison",
+          "Propanol"
+        ],
+        "hindi": [
+          "शुद्ध एथेनॉल",
+          "मेथेनॉल",
+          "एथेनॉल + विष",
+          "प्रोपेनॉल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

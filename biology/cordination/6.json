@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gland is called the master gland?",
+        "hindi": "किस ग्रंथि को मास्टर ग्रंथि कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीयूष",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for fight or flight response?",
+        "hindi": "लड़ो या भागो प्रतिक्रिया के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Adrenaline",
+          "Insulin",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "एड्रेनालिन",
+          "इंसुलिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of hypothalamus?",
+        "hindi": "हाइपोथैलेमस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Memory",
+          "Balance",
+          "Vision",
+          "Body temperature"
+        ],
+        "hindi": [
+          "स्मृति",
+          "संतुलन",
+          "दृष्टि",
+          "शरीर का तापमान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone promotes stem elongation?",
+        "hindi": "कौन सा पादप हार्मोन तना लंबाई को बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "Ethylene",
+          "Abscisic acid",
+          "Gibberellin",
+          "Cytokinin"
+        ],
+        "hindi": [
+          "एथिलीन",
+          "एब्सिसिक एसिड",
+          "जिबरेलिन",
+          "साइटोकाइनिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls involuntary actions?",
+        "hindi": "मस्तिष्क का कौन सा भाग अनैच्छिक क्रियाओं को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Cerebrum",
+          "Cerebellum",
+          "Pons"
+        ],
+        "hindi": [
+          "मेडुला",
+          "सेरेब्रम",
+          "सेरेबेलम",
+          "पोंस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of auxins in phototropism?",
+        "hindi": "प्रकाशानुवर्तन में ऑक्सिन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Root growth",
+          "Leaf fall",
+          "Stem bending",
+          "Fruit ripening"
+        ],
+        "hindi": [
+          "जड़ वृद्धि",
+          "पत्ती गिरना",
+          "तना मुड़ना",
+          "फल पकना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens during synaptic transmission?",
+        "hindi": "सिनैप्टिक संचरण के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Blood flow",
+          "Hormone release",
+          "Muscle contraction",
+          "Chemical transfer"
+        ],
+        "hindi": [
+          "रक्त प्रवाह",
+          "हार्मोन स्राव",
+          "मांसपेशी संकुचन",
+          "रासायनिक स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for water reabsorption in kidneys?",
+        "hindi": "गुर्दे में जल के पुनरावशोषण के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "ADH",
+          "Insulin",
+          "Thyroxine",
+          "Cortisol"
+        ],
+        "hindi": [
+          "एडीएच",
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland becomes overactive in Graves' disease?",
+        "hindi": "ग्रेव्स रोग में कौन सी ग्रंथि अधिक सक्रिय हो जाती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone inhibits lateral bud growth?",
+        "hindi": "कौन सा पादप हार्मोन पार्श्व कली की वृद्धि को रोकता है?"
+      },
+      "option": {
+        "english": [
+          "Cytokinin",
+          "Ethylene",
+          "Auxin",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "साइटोकाइनिन",
+          "एथिलीन",
+          "ऑक्सिन",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

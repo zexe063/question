@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the main source of energy in an ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र में ऊर्जा का मुख्य स्रोत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Moon",
+          "Sun",
+          "Wind",
+          "Water"
+        ],
+        "hindi": [
+          "चंद्रमा",
+          "सूर्य",
+          "वायु",
+          "जल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is responsible for greenhouse effect?",
+        "hindi": "ग्रीनहाउस प्रभाव के लिए कौन सी गैस जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of decomposers in an ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र में अपघटकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Produce food",
+          "Eat plants",
+          "Break down dead matter",
+          "Make oxygen"
+        ],
+        "hindi": [
+          "भोजन बनाना",
+          "पौधों को खाना",
+          "मृत पदार्थ को तोड़ना",
+          "ऑक्सीजन बनाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of ozone depletion?",
+        "hindi": "ओजोन क्षरण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "More oxygen",
+          "Less rain",
+          "More UV rays",
+          "More clouds"
+        ],
+        "hindi": [
+          "अधिक ऑक्सीजन",
+          "कम वर्षा",
+          "अधिक पराबैंगनी किरणें",
+          "अधिक बादल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main cause of water pollution?",
+        "hindi": "जल प्रदूषण का मुख्य कारण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Rain",
+          "Industrial waste",
+          "Sunlight",
+          "Wind"
+        ],
+        "hindi": [
+          "वर्षा",
+          "औद्योगिक कचरा",
+          "सूर्य का प्रकाश",
+          "हवा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biodiversity?",
+        "hindi": "जैव विविधता क्या है?"
+      },
+      "option": {
+        "english": [
+          "Same species",
+          "Few species",
+          "Variety of life",
+          "Plant life only"
+        ],
+        "hindi": [
+          "समान प्रजातियां",
+          "कुछ प्रजातियां",
+          "जीवन की विविधता",
+          "केवल पादप जीवन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a renewable resource?",
+        "hindi": "नवीकरणीय संसाधन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "hindi": [
+          "सौर ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes acid rain?",
+        "hindi": "अम्ल वर्षा का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Normal clouds",
+          "Clean air",
+          "Water vapor",
+          "Air pollution"
+        ],
+        "hindi": [
+          "सामान्य बादल",
+          "स्वच्छ वायु",
+          "जल वाष्प",
+          "वायु प्रदूषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of food chain?",
+        "hindi": "खाद्य श्रृंखला का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Food storage",
+          "Energy transfer",
+          "Water cycle",
+          "Air purification"
+        ],
+        "hindi": [
+          "खाद्य भंडारण",
+          "ऊर्जा स्थानांतरण",
+          "जल चक्र",
+          "वायु शुद्धिकरण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of producers in ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र में उत्पादकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Consume food",
+          "Break down",
+          "Make food",
+          "Clean water"
+        ],
+        "hindi": [
+          "भोजन खाना",
+          "विघटन करना",
+          "भोजन बनाना",
+          "जल साफ करना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

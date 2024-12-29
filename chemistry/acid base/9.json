@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which acid is used in the manufacturing of artificial silk?",
+        "hindi": "कृत्रिम रेशम के निर्माण में किस अम्ल का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Acetic acid",
+          "Nitric acid",
+          "Sulphuric acid",
+          "Hydrochloric acid"
+        ],
+        "hindi": [
+          "एसीटिक एसिड",
+          "नाइट्रिक एसिड",
+          "सल्फ्यूरिक एसिड",
+          "हाइड्रोक्लोरिक एसिड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do farmers add lime to acidic soil?",
+        "hindi": "किसान अम्लीय मिट्टी में चूना क्यों डालते हैं?"
+      },
+      "option": {
+        "english": [
+          "To kill insects",
+          "To add nutrients",
+          "To neutralize acidity",
+          "To retain moisture"
+        ],
+        "hindi": [
+          "कीड़ों को मारने के लिए",
+          "पोषक तत्व जोड़ने के लिए",
+          "अम्लीयता को उदासीन करने के लिए",
+          "नमी बनाए रखने के लिए"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which base is used in the manufacturing of soap?",
+        "hindi": "साबुन के निर्माण में किस क्षार का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ],
+        "hindi": [
+          "NaOH",
+          "KOH",
+          "Ca(OH)₂",
+          "Mg(OH)₂"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does acid rain damage marble buildings?",
+        "hindi": "अम्लीय वर्षा संगमरमर की इमारतों को क्यों नुकसान पहुंचाती है?"
+      },
+      "option": {
+        "english": [
+          "Physical erosion",
+          "Chemical reaction",
+          "Water damage",
+          "Natural aging"
+        ],
+        "hindi": [
+          "भौतिक क्षरण",
+          "रासायनिक अभिक्रिया",
+          "जल क्षति",
+          "प्राकृतिक जीर्णता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt is used in photography as 'hypo'?",
+        "hindi": "फोटोग्राफी में 'हाइपो' के रूप में किस लवण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium chloride",
+          "Sodium bromide",
+          "Sodium thiosulphate",
+          "Sodium nitrate"
+        ],
+        "hindi": [
+          "सोडियम क्लोराइड",
+          "सोडियम ब्रोमाइड",
+          "सोडियम थायोसल्फेट",
+          "सोडियम नाइट्रेट"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do bee keepers spray dilute solution of sodium bicarbonate on bee stings?",
+        "hindi": "मधुमक्खी पालक मधुमक्खी के डंक पर सोडियम बाइकार्बोनेट का तनु विलयन क्यों छिड़कते हैं?"
+      },
+      "option": {
+        "english": [
+          "To clean the area",
+          "To reduce swelling",
+          "To neutralize acid",
+          "To prevent infection"
+        ],
+        "hindi": [
+          "क्षेत्र को साफ करने के लिए",
+          "सूजन कम करने के लिए",
+          "अम्ल को उदासीन करने के लिए",
+          "संक्रमण रोकने के लिए"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property of bases makes them useful in drain cleaners?",
+        "hindi": "क्षारों का कौन सा गुण उन्हें नाली क्लीनर में उपयोगी बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Dissolve proteins",
+          "Kill bacteria",
+          "Remove rust",
+          "Break down fats"
+        ],
+        "hindi": [
+          "प्रोटीन को घोलना",
+          "बैक्टीरिया को मारना",
+          "जंग हटाना",
+          "वसा को तोड़ना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is sodium benzoate added to food products?",
+        "hindi": "खाद्य पदार्थों में सोडियम बेंजोएट क्यों मिलाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "As flavoring",
+          "As preservative",
+          "As coloring",
+          "As sweetener"
+        ],
+        "hindi": [
+          "स्वाद के लिए",
+          "परिरक्षक के रूप में",
+          "रंग के लिए",
+          "मिठास के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In lead storage batteries, what prevents the acid from spilling during transportation?",
+        "hindi": "लेड स्टोरेज बैटरियों में, परिवहन के दौरान अम्ल को फैलने से क्या रोकता है?"
+      },
+      "option": {
+        "english": [
+          "Plastic container",
+          "Rubber seal",
+          "Silica gel",
+          "Glass mat"
+        ],
+        "hindi": [
+          "प्लास्टिक पात्र",
+          "रबर सील",
+          "सिलिका जेल",
+          "ग्लास मैट"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is calcium hydroxide solution stored in sealed bottles?",
+        "hindi": "कैल्शियम हाइड्रॉक्साइड विलयन को सीलबंद बोतलों में क्यों रखा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Prevents evaporation",
+          "Avoids CO₂ reaction",
+          "Maintains purity",
+          "Prevents leakage"
+        ],
+        "hindi": [
+          "वाष्पीकरण रोकने के लिए",
+          "CO₂ अभिक्रिया रोकने के लिए",
+          "शुद्धता बनाए रखने के लिए",
+          "रिसाव रोकने के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

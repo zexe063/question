@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Why does Bishop's Ring show colored corona?",
+        "hindi": "बिशप की वलय रंगीन प्रभामंडल क्यों दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "Stratospheric aerosol diffraction",
+          "Simple diffraction",
+          "Normal refraction",
+          "Random scattering"
+        ],
+        "hindi": [
+          "समतापमंडलीय एरोसोल विवर्तन",
+          "सरल विवर्तन",
+          "सामान्य अपवर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do chiral metamaterial fibers show optical activity?",
+        "hindi": "काइरल मेटामटीरियल तंतु प्रकाशीय सक्रियता क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Broken mirror symmetry",
+          "Core material only",
+          "Cladding only",
+          "Length effect"
+        ],
+        "hindi": [
+          "टूटी दर्पण सममिति",
+          "केवल क्रोड पदार्थ",
+          "केवल आवरण",
+          "लंबाई प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does higher-order aberration follow Seidel series?",
+        "hindi": "उच्च-क्रम विपथन साइडेल श्रेणी का अनुसरण क्यों करता है?"
+      },
+      "option": {
+        "english": [
+          "Wave aberration expansion",
+          "Light intensity",
+          "Temperature effect",
+          "Pressure change"
+        ],
+        "hindi": [
+          "तरंग विपथन विस्तार",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "दाब परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Fourteen media with refractive indices following Hexanacci sequence (first six=1.1,1.2,1.3,1.4,1.5,1.6). If i₁=45°, final angle is:",
+        "hindi": "चौदह माध्यम जिनके अपवर्तनांक हेक्सानाची श्रेढ़ी का अनुसरण करते हैं (पहले छह=1.1,1.2,1.3,1.4,1.5,1.6)। यदि i₁=45° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "10.2°",
+          "12°",
+          "9°",
+          "14°"
+        ],
+        "hindi": [
+          "10.2°",
+          "12°",
+          "9°",
+          "14°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope, if angular magnification varies as Jacobi function of separation, the relationship is:",
+        "hindi": "एक दूरबीन में, यदि कोणीय आवर्धन पृथक्करण के जैकोबी फलन के रूप में बदलता है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m = k cd(d,k)",
+          "m = k sd(d,k)",
+          "m = k nd(d,k)",
+          "m = k dc(d,k)"
+        ],
+        "hindi": [
+          "m = k cd(d,k)",
+          "m = k sd(d,k)",
+          "m = k nd(d,k)",
+          "m = k dc(d,k)"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Wegener-Humphreys arc?",
+        "hindi": "कौन सा किरण आरेख वेगनर-हम्फ्रीज़ चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Complex crystal path",
+          "Simple path",
+          "Random path",
+          "No path"
+        ],
+        "hindi": [
+          "जटिल क्रिस्टल पथ",
+          "सरल पथ",
+          "यादृच्छिक पथ",
+          "कोई पथ नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 Q150,75 200,25' stroke='black' fill='none'/><path d='M100,125 Q150,75 200,125' stroke='red' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Bottlinger's ring?",
+        "hindi": "कौन सा किरण आरेख बॉटलिंगर की वलय का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Stratified air diffraction",
+          "Simple diffraction",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "स्तरित वायु विवर्तन",
+          "सरल विवर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='30' stroke='black' fill='none'/><circle cx='150' cy='75' r='45' stroke='red' stroke-dasharray='5,5'/><circle cx='150' cy='75' r='60' stroke='blue' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Parry oriented column?",
+        "hindi": "कौन सा किरण आरेख पैरी अभिविन्यस्त स्तंभ का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Horizontal column orientation",
+          "Vertical orientation",
+          "Random orientation",
+          "No orientation"
+        ],
+        "hindi": [
+          "क्षैतिज स्तंभ अभिविन्यास",
+          "ऊर्ध्वाधर अभिविन्यास",
+          "यादृच्छिक अभिविन्यास",
+          "कोई अभिविन्यास नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='60' width='100' height='30' stroke='black' fill='none'/><path d='M50,75 L250,75' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Fourteen thin lenses of powers forming Heptanacci sequence (first seven=+1D,+2D,+3D,+4D,+5D,+6D,+7D) are separated by 2cm each. Net power is:",
+        "hindi": "चौदह पतले लेंस जिनकी क्षमताएं हेप्टानाची श्रेढ़ी बनाती हैं (पहले सात=+1D,+2D,+3D,+4D,+5D,+6D,+7D), 2सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+28.6D",
+          "+25D",
+          "+30D",
+          "+32D"
+        ],
+        "hindi": [
+          "+28.6D",
+          "+25D",
+          "+30D",
+          "+32D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with twelve stages, if tube length is 10cm and magnification is 100000, product of focal lengths (in mm) is:",
+        "hindi": "बारह चरण वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 10सेमी और आवर्धन 100000 है, तो फोकस दूरियों का गुणनफल (मिमी में) है:"
+      },
+      "option": {
+        "english": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ],
+        "hindi": [
+          "10",
+          "12",
+          "8",
+          "15"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

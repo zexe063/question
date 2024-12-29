@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of vas deferens?",
+        "hindi": "वास डेफरेंस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store sperm",
+          "Transport sperm",
+          "Produce sperm",
+          "Filter sperm"
+        ],
+        "hindi": [
+          "शुक्राणु संग्रह",
+          "शुक्राणु परिवहन",
+          "शुक्राणु उत्पादन",
+          "शुक्राणु छानना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part helps in sperm production?",
+        "hindi": "कौन सा भाग शुक्राणु उत्पादन में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Epididymis",
+          "Prostate",
+          "Seminiferous tubules",
+          "Vas deferens"
+        ],
+        "hindi": [
+          "एपिडिडिमिस",
+          "प्रोस्टेट",
+          "शुक्रजनक नलिकाएं",
+          "वास डेफरेंस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Where are eggs produced in females?",
+        "hindi": "मादाओं में अंडे कहाँ उत्पन्न होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Ovary",
+          "Uterus",
+          "Cervix",
+          "Vagina"
+        ],
+        "hindi": [
+          "अंडाशय",
+          "गर्भाशय",
+          "सर्विक्स",
+          "योनि"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of placenta?",
+        "hindi": "प्लेसेंटा की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store nutrients",
+          "Filter waste",
+          "Support embryo",
+          "Exchange materials"
+        ],
+        "hindi": [
+          "पोषक तत्व संग्रह",
+          "अपशिष्ट छानना",
+          "भ्रूण को सहारा",
+          "पदार्थों का आदान-प्रदान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of cervix?",
+        "hindi": "सर्विक्स का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Support uterus",
+          "Control passage",
+          "Store eggs",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "गर्भाशय को सहारा",
+          "मार्ग नियंत्रण",
+          "अंडे संग्रह",
+          "हार्मोन उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of follicle cells?",
+        "hindi": "पुटिका कोशिकाओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Transport eggs",
+          "Store hormones",
+          "Filter blood",
+          "Nourish egg"
+        ],
+        "hindi": [
+          "अंडे का परिवहन",
+          "हार्मोन संग्रह",
+          "रक्त छानना",
+          "अंडे का पोषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone triggers ovulation?",
+        "hindi": "कौन सा हार्मोन अंडोत्सर्जन को प्रेरित करता है?"
+      },
+      "option": {
+        "english": [
+          "LH",
+          "FSH",
+          "Estrogen",
+          "Progesterone"
+        ],
+        "hindi": [
+          "LH",
+          "FSH",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of amniotic fluid?",
+        "hindi": "उल्ब द्रव का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Waste removal",
+          "Shock absorption",
+          "Nutrient supply"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "आघात अवशोषण",
+          "पोषक तत्व आपूर्ति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes menstruation?",
+        "hindi": "मासिक धर्म का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "High estrogen",
+          "Low progesterone",
+          "High FSH",
+          "High LH"
+        ],
+        "hindi": [
+          "उच्च एस्ट्रोजन",
+          "कम प्रोजेस्टेरोन",
+          "उच्च FSH",
+          "उच्च LH"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of zona pellucida?",
+        "hindi": "जोना पेल्यूसिडा की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Egg nutrition",
+          "Sperm selection",
+          "Hormone production",
+          "Species specificity"
+        ],
+        "hindi": [
+          "अंडे का पोषण",
+          "शुक्राणु चयन",
+          "हार्मोन उत्पादन",
+          "प्रजाति विशिष्टता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,575 @@
+[
+  {
+    "question_name": {
+      "english": "What is the relationship between resistance and cross-sectional area of a conductor?",
+      "hindi": "चालक के अनुप्रस्थ काट क्षेत्रफल और प्रतिरोध के बीच क्या संबंध है?"
+    },
+    "option": {
+  
+      "english": [
+        "Directly proportional",
+        "Inversely proportional",
+        "No relationship",
+        "Exponentially related"
+      ],
+      "hindi": [
+        "समानुपाती",
+        "व्युत्क्रमानुपाती",
+        "कोई संबंध नहीं",
+        "घातीय संबंध"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which material has the highest electrical conductivity?",
+      "hindi": "किस पदार्थ की विद्युत चालकता सबसे अधिक होती है?"
+    },
+    "option": {
+      "english": [
+        "Silver",
+        "Copper",
+        "Gold",
+        "Aluminum"
+      ],
+      "hindi": [
+        "चांदी",
+        "तांबा",
+        "सोना",
+        "एल्युमीनियम"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What happens to the brightness of two identical bulbs when connected in series?",
+      "hindi": "श्रेणीक्रम में जुड़े दो समान बल्बों की चमक में क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Both become brighter",
+        "Both become dimmer",
+        "Remains the same",
+        "First bulb becomes brighter"
+      ],
+      "hindi": [
+        "दोनों अधिक चमकदार हो जाते हैं",
+        "दोनों धुंधले हो जाते हैं",
+        "समान रहती है",
+        "पहला बल्ब अधिक चमकदार होता है"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+
+  
+  {
+    "question_name": {
+      "english": "Which device converts electrical energy into mechanical energy?",
+      "hindi": "कौन सा उपकरण विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है?"
+    },
+    "option": {
+      "english": [
+        "Generator",
+        "Motor",
+        "Battery",
+        "Resistor"
+      ],
+      "hindi": [
+        "जनरेटर",
+        "मोटर",
+        "बैटरी",
+        "प्रतिरोधक"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the purpose of an electric fuse in a household circuit?",
+      "hindi": "घरेलू सर्किट में विद्युत फ्यूज का क्या उद्देश्य है?"
+    },
+    "option": {
+      "english": [
+        "To increase current flow",
+        "To break circuit during overcurrent",
+        "To store electricity",
+        "To measure voltage"
+      ],
+      "hindi": [
+        "करंट प्रवाह बढ़ाने के लिए",
+        "अधिक करंट के दौरान सर्किट तोड़ने के लिए",
+        "बिजली स्टोर करने के लिए",
+        "वोल्टेज मापने के लिए"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which color wire is commonly used for neutral in electrical wiring?",
+      "hindi": "विद्युत तारों में न्यूट्रल के लिए आमतौर पर किस रंग का तार उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Red",
+        "Black",
+        "Blue",
+        "Green"
+      ],
+      "hindi": [
+        "लाल",
+        "काला",
+        "नीला",
+        "हरा"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the function of an MCB in electrical circuits?",
+      "hindi": "विद्युत परिपथों में MCB का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Measure current",
+        "Automatic circuit breaking",
+        "Boost voltage",
+        "Store energy"
+      ],
+      "hindi": [
+        "करंट मापना",
+        "स्वचालित सर्किट ब्रेकिंग",
+        "वोल्टेज बढ़ाना",
+        "ऊर्जा संग्रहीत करना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+
+  {
+    "question_name": {
+      "english": "What is the main advantage of parallel circuits in household wiring?",
+      "hindi": "घरेलू वायरिंग में समानांतर सर्किट का मुख्य लाभ क्या है?"
+    },
+    "option": {
+      "english": [
+        "Uses less wire",
+        "Each device gets full voltage",
+        "Easier to install",
+        "Uses less current"
+      ],
+      "hindi": [
+        "कम तार का उपयोग",
+        "प्रत्येक उपकरण को पूरा वोल्टेज मिलता है",
+        "स्थापित करना आसान",
+        "कम करंट का उपयोग"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which material is used in electric heater's heating element?",
+      "hindi": "विद्युत हीटर के हीटिंग एलिमेंट में किस पदार्थ का उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Copper",
+        "Aluminum",
+        "Nichrome",
+        "Iron"
+      ],
+      "hindi": [
+        "तांबा",
+        "एल्युमीनियम",
+        "नाइक्रोम",
+        "लोहा"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the purpose of earthing in electrical appliances?",
+      "hindi": "विद्युत उपकरणों में अर्थिंग का क्या उद्देश्य है?"
+    },
+    "option": {
+      "english": [
+        "Increase current flow",
+        "Safety from electric shock",
+        "Reduce voltage",
+        "Save electricity"
+      ],
+      "hindi": [
+        "करंट प्रवाह बढ़ाना",
+        "बिजली के झटके से सुरक्षा",
+        "वोल्टेज कम करना",
+        "बिजली बचाना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Calculate the current flowing through a 20Ω resistor connected to a 100V source.",
+      "hindi": "100V स्रोत से जुड़े 20Ω प्रतिरोधक से प्रवाहित धारा की गणना करें।"
+    },
+    "option": {
+      "english": [
+        "2A",
+        "5A",
+        "10A",
+        "20A"
+      ],
+      "hindi": [
+        "2A",
+        "5A",
+        "10A",
+        "20A"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What is the power consumed by a device that draws 2A current at 220V?",
+      "hindi": "220V पर 2A धारा खींचने वाले उपकरण द्वारा खपत की गई शक्ति क्या है?"
+    },
+    "option": {
+      "english": [
+        "110W",
+        "220W",
+        "440W",
+        "880W"
+      ],
+      "hindi": [
+        "110W",
+        "220W",
+        "440W",
+        "880W"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium"
+  },
+
+
+    {
+      "question_name": {
+        "english": "Three resistors of 3Ω, 6Ω, and 12Ω are connected in series. Calculate total resistance.",
+        "hindi": "3Ω, 6Ω, और 12Ω के तीन प्रतिरोधक श्रेणी में जुड़े हैं। कुल प्रतिरोध की गणना करें।"
+      },
+      "option": {
+        "english": [
+          "7Ω",
+          "21Ω",
+          "9Ω",
+          "15Ω"
+        ],
+        "hindi": [
+          "7Ω",
+          "21Ω",
+          "9Ω",
+          "15Ω"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A wire of resistance 20Ω is cut into four equal parts. What is the resistance of each part?",
+        "hindi": "20Ω प्रतिरोध वाले तार को चार बराबर भागों में काटा जाता है। प्रत्येक भाग का प्रतिरोध क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "5Ω",
+          "80Ω",
+          "20Ω",
+          "40Ω"
+        ],
+        "hindi": [
+          "5Ω",
+          "80Ω",
+          "20Ω",
+          "40Ω"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the voltage across a 15Ω resistor if it dissipates 45 watts of power.",
+        "hindi": "एक 15Ω प्रतिरोधक के आर-पार वोल्टेज की गणना करें यदि यह 45 वाट शक्ति व्यय करता है।"
+      },
+      "option": {
+        "english": [
+          "15V",
+          "26V",
+          "30V",
+          "45V"
+        ],
+        "hindi": [
+          "15V",
+          "26V",
+          "30V",
+          "45V"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+
+
+    {
+      "question_name": {
+        "english": "Identify the circuit component marked 'X' in the diagram:",
+        "hindi": "आरेख में 'X' से चिह्नित सर्किट घटक की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Resistor",
+          "Capacitor",
+          "Inductor",
+          "Diode"
+        ],
+        "hindi": [
+          "प्रतिरोधक",
+          "संधारित्र",
+          "प्रेरक",
+          "डायोड"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='140' y2='75' stroke='black'/><line x1='160' y1='55' x2='160' y2='95' stroke='black'/><line x1='140' y1='55' x2='140' y2='95' stroke='black'/><line x1='160' y1='75' x2='200' y2='75' stroke='black'/><text x='150' y='45'>X</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of electrical meter connection is shown below?",
+        "hindi": "नीचे किस प्रकार का विद्युत मीटर कनेक्शन दिखाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Ammeter in series",
+          "Voltmeter in parallel",
+          "Ammeter in parallel",
+          "Voltmeter in series"
+        ],
+        "hindi": [
+          "श्रेणीक्रम में एमीटर",
+          "समानांतर में वोल्टमीटर",
+          "समानांतर में एमीटर",
+          "श्रेणीक्रम में वोल्टमीटर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' fill='none' stroke='black'/><text x='140' y='80'>A</text><line x1='80' y1='75' x2='130' y2='75' stroke='black'/><line x1='170' y1='75' x2='220' y2='75' stroke='black'/><rect x='220' y='65' width='40' height='20' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In the given circuit diagram, resistors R₁ and R₂ are connected in:",
+        "hindi": "दिए गए सर्किट आरेख में, प्रतिरोधक R₁ और R₂ किस प्रकार जुड़े हैं:"
+      },
+      "option": {
+        "english": [
+          "Series",
+          "Parallel",
+          "Series-Parallel",
+          "None of these"
+        ],
+        "hindi": [
+          "श्रेणीक्रम",
+          "समानांतर",
+          "श्रेणी-समानांतर",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='50' y1='60' x2='100' y2='60' stroke='black'/><line x1='50' y1='100' x2='100' y2='100' stroke='black'/><line x1='140' y1='60' x2='250' y2='60' stroke='black'/><line x1='140' y1='100' x2='250' y2='100' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><text x='110' y='65'>R₁</text><text x='110' y='105'>R₂</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which electrical component is shown in the circuit symbol?",
+        "hindi": "सर्किट प्रतीक में कौन सा विद्युत घटक दिखाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Fixed resistor",
+          "Variable resistor",
+          "Capacitor",
+          "Battery"
+        ],
+        "hindi": [
+          "स्थिर प्रतिरोधक",
+          "परिवर्तनीय प्रतिरोधक",
+          "संधारित्र",
+          "बैटरी"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='200' y2='75' stroke='black'/><path d='M 120 75 L 180 75 L 150 45 Z' fill='none' stroke='black'/><line x1='150' y1='45' x2='150' y2='105' stroke='black'/></svg>",
+      "medium": "medium"
+    }
+    ,
+
+    {
+      "question_name": {
+        "english": "What is the phase difference between voltage and current in a purely capacitive circuit?",
+        "hindi": "शुद्ध धारिता वाले परिपथ में वोल्टेज और धारा के बीच कला अंतर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Current leads voltage by 90°",
+          "Voltage leads current by 90°",
+          "Current and voltage are in phase",
+          "Current lags voltage by 90°"
+        ],
+        "hindi": [
+          "धारा वोल्टेज से 90° आगे होती है",
+          "वोल्टेज धारा से 90° आगे होता है",
+          "धारा और वोल्टेज एक ही कला में होते हैं",
+          "धारा वोल्टेज से 90° पीछे होती है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In an AC circuit with L = 0.5H and frequency = 50Hz, what is the inductive reactance (XL)?",
+        "hindi": "एक AC परिपथ में L = 0.5H और आवृत्ति = 50Hz है, प्रेरकीय प्रतिघात (XL) क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "157.1Ω",
+          "314.2Ω",
+          "78.5Ω",
+          "628.4Ω"
+        ],
+        "hindi": [
+          "157.1Ω",
+          "314.2Ω",
+          "78.5Ω",
+          "628.4Ω"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the resonant frequency of an RLC circuit if L = 2H and C = 8µF?",
+        "hindi": "RLC परिपथ की अनुनादी आवृत्ति क्या होगी यदि L = 2H और C = 8µF है?"
+      },
+      "option": {
+        "english": [
+          "39.89 Hz",
+          "79.78 Hz",
+          "25.12 Hz",
+          "50.24 Hz"
+        ],
+        "hindi": [
+          "39.89 Hz",
+          "79.78 Hz",
+          "25.12 Hz",
+          "50.24 Hz"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the impedance in this AC circuit:",
+        "hindi": "इस AC परिपथ में प्रतिबाधा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "5Ω",
+          "13Ω",
+          "25Ω",
+          "10Ω"
+        ],
+        "hindi": [
+          "5Ω",
+          "13Ω",
+          "25Ω",
+          "10Ω"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><text x='105' y='65'>R=5Ω</text><path d='M 180 50 Q 190 50 190 60 Q 190 70 180 70 Q 170 70 170 80 Q 170 90 180 90' stroke='black' fill='none'/><text x='160' y='45'>XL=12Ω</text><line x1='80' y1='60' x2='100' y2='60' stroke='black'/><line x1='140' y1='60' x2='160' y2='60' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the power factor in a circuit with resistance 8Ω and inductive reactance 6Ω?",
+        "hindi": "8Ω प्रतिरोध और 6Ω प्रेरकीय प्रतिघात वाले परिपथ में शक्ति गुणांक क्या होगा?"
+      },
+      "option": {
+        "english": [
+          "0.6",
+          "0.8",
+          "0.75",
+          "0.9"
+        ],
+        "hindi": [
+          "0.6",
+          "0.8",
+          "0.75",
+          "0.9"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+    
+  
+
+]
+
+
+
+
+
+
+
+

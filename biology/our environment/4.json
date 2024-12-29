@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of earthworms in soil?",
+        "hindi": "मिट्टी में केंचुओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Soil hardening",
+          "Soil damage",
+          "Soil fertility",
+          "Soil erosion"
+        ],
+        "hindi": [
+          "मिट्टी कठोरीकरण",
+          "मिट्टी क्षति",
+          "मिट्टी उर्वरता",
+          "मिट्टी कटाव"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes water pollution?",
+        "hindi": "जल प्रदूषण का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Rain water",
+          "Fresh water",
+          "Industrial waste"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "वर्षा जल",
+          "ताजा जल",
+          "औद्योगिक कचरा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of wildlife sanctuaries?",
+        "hindi": "वन्यजीव अभयारण्यों का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Tourism only",
+          "Wildlife protection",
+          "Entertainment",
+          "Research only"
+        ],
+        "hindi": [
+          "केवल पर्यटन",
+          "वन्यजीव संरक्षण",
+          "मनोरंजन",
+          "केवल अनुसंधान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a renewable source of energy?",
+        "hindi": "ऊर्जा का नवीकरणीय स्रोत कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Solar energy",
+          "Coal",
+          "Petroleum",
+          "Natural gas"
+        ],
+        "hindi": [
+          "सौर ऊर्जा",
+          "कोयला",
+          "पेट्रोलियम",
+          "प्राकृतिक गैस"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of food web?",
+        "hindi": "खाद्य जाल का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Food storage",
+          "Water cycle",
+          "Energy transfer",
+          "Air circulation"
+        ],
+        "hindi": [
+          "खाद्य भंडारण",
+          "जल चक्र",
+          "ऊर्जा स्थानांतरण",
+          "वायु परिसंचरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of noise pollution?",
+        "hindi": "ध्वनि प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better sleep",
+          "Hearing problems",
+          "Improved health",
+          "Better concentration"
+        ],
+        "hindi": [
+          "बेहतर नींद",
+          "श्रवण समस्याएं",
+          "बेहतर स्वास्थ्य",
+          "बेहतर एकाग्रता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of pesticides on environment?",
+        "hindi": "कीटनाशकों का पर्यावरण पर क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Environmental health",
+          "Better crops",
+          "Soil improvement",
+          "Environmental damage"
+        ],
+        "hindi": [
+          "पर्यावरण स्वास्थ्य",
+          "बेहतर फसलें",
+          "मिट्टी सुधार",
+          "पर्यावरण क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is responsible for acid rain?",
+        "hindi": "अम्ल वर्षा के लिए कौन सी गैस जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Sulfur dioxide",
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "सल्फर डाइऑक्साइड",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of coral reefs?",
+        "hindi": "प्रवाल भित्तियों का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Tourism only",
+          "Marine biodiversity",
+          "Water storage"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "केवल पर्यटन",
+          "समुद्री जैव विविधता",
+          "जल भंडारण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of mangroves?",
+        "hindi": "मैंग्रोव की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Tourism",
+          "Coastal protection",
+          "Food production",
+          "Water storage"
+        ],
+        "hindi": [
+          "पर्यटन",
+          "तटीय संरक्षण",
+          "खाद्य उत्पादन",
+          "जल भंडारण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

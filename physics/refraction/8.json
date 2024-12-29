@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a rainbow appear as a circular arc?",
+        "hindi": "इंद्रधनुष वृत्ताकार चाप के रूप में क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Due to fixed angle of deviation",
+          "Due to sunlight direction",
+          "Due to water droplets",
+          "Due to sky color"
+        ],
+        "hindi": [
+          "निश्चित विचलन कोण के कारण",
+          "सूर्य प्रकाश की दिशा के कारण",
+          "जल की बूंदों के कारण",
+          "आकाश के रंग के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we see different colors in soap bubbles?",
+        "hindi": "साबुन के बुलबुलों में विभिन्न रंग क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Thin film interference",
+          "Dispersion",
+          "Reflection",
+          "Absorption"
+        ],
+        "hindi": [
+          "पतली फिल्म व्यतिकरण",
+          "वर्णविक्षेपण",
+          "परावर्तन",
+          "अवशोषण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a lens appear thicker at center than edges?",
+        "hindi": "लेंस किनारों की तुलना में बीच में मोटा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "For converging light rays",
+          "For better strength",
+          "For better clarity",
+          "For protection"
+        ],
+        "hindi": [
+          "प्रकाश किरणों को अभिसारित करने के लिए",
+          "बेहतर मजबूती के लिए",
+          "बेहतर स्पष्टता के लिए",
+          "सुरक्षा के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from medium A to B. If i=60° and r=30°, ratio of speeds (vₐ/vᵦ) is:",
+        "hindi": "एक किरण माध्यम A से B में जाती है। यदि i=60° और r=30° है, तो चालों का अनुपात (vₐ/vᵦ) है:"
+      },
+      "option": {
+        "english": [
+          "2",
+          "1.5",
+          "1.732",
+          "1"
+        ],
+        "hindi": [
+          "2",
+          "1.5",
+          "1.732",
+          "1"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a glass prism, angle of minimum deviation is equal to angle of prism. Refractive index is:",
+        "hindi": "कांच के प्रिज्म में, न्यूनतम विचलन कोण प्रिज्म कोण के बराबर है। अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "2",
+          "1.5",
+          "1.732",
+          "1.414"
+        ],
+        "hindi": [
+          "2",
+          "1.5",
+          "1.732",
+          "1.414"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of image by plane parallel plate?",
+        "hindi": "कौन सा किरण आरेख समांतर प्लेट द्वारा प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Lateral shift",
+          "No shift",
+          "Angular shift",
+          "Random shift"
+        ],
+        "hindi": [
+          "पार्श्व विस्थापन",
+          "कोई विस्थापन नहीं",
+          "कोणीय विस्थापन",
+          "यादृच्छिक विस्थापन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='25' width='50' height='100' stroke='black' fill='none'/><line x1='50' y1='50' x2='250' y2='50' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of secondary rainbow?",
+        "hindi": "कौन सा किरण आरेख द्वितीयक इंद्रधनुष का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Two internal reflections",
+          "One internal reflection",
+          "No internal reflection",
+          "Three internal reflections"
+        ],
+        "hindi": [
+          "दो आंतरिक परावर्तन",
+          "एक आंतरिक परावर्तन",
+          "कोई आंतरिक परावर्तन नहीं",
+          "तीन आंतरिक परावर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><path d='M100,75 Q150,25 200,75 Q150,125 100,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of mirage on hot road?",
+        "hindi": "कौन सा किरण आरेख गर्म सड़क पर मृगतृष्णा का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Curved path upwards",
+          "Straight path",
+          "Curved path downwards",
+          "Random path"
+        ],
+        "hindi": [
+          "ऊपर की ओर वक्र पथ",
+          "सीधा पथ",
+          "नीचे की ओर वक्र पथ",
+          "यादृच्छिक पथ"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='125' x2='250' y2='125' stroke='black'/><path d='M50,75 Q150,125 250,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Two thin lenses of focal lengths 20cm and -15cm are separated by 5cm. Power of combination is:",
+        "hindi": "20सेमी और -15सेमी फोकस दूरी के दो पतले लेंस 5सेमी की दूरी पर हैं। संयोजन की क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "-8.33D",
+          "-10D",
+          "-6D",
+          "-12D"
+        ],
+        "hindi": [
+          "-8.33D",
+          "-10D",
+          "-6D",
+          "-12D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope, if objective focal length is 100cm and eyepiece focal length is 2cm, the length of telescope for normal adjustment is:",
+        "hindi": "एक दूरबीन में, यदि अभिदृश्यक की फोकस दूरी 100सेमी और नेत्रिका की फोकस दूरी 2सेमी है, तो सामान्य समायोजन के लिए दूरबीन की लंबाई है:"
+      },
+      "option": {
+        "english": [
+          "102cm",
+          "98cm",
+          "100cm",
+          "104cm"
+        ],
+        "hindi": [
+          "102सेमी",
+          "98सेमी",
+          "100सेमी",
+          "104सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

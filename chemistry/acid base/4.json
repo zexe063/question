@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which oxide reacts with both acids and bases?",
+        "hindi": "कौन सा ऑक्साइड अम्ल और क्षार दोनों से अभिक्रिया करता है?"
+      },
+      "option": {
+        "english": [
+          "CaO",
+          "CO₂",
+          "Al₂O₃",
+          "Na₂O"
+        ],
+        "hindi": [
+          "CaO",
+          "CO₂",
+          "Al₂O₃",
+          "Na₂O"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The acid present in spinach leaves is:",
+        "hindi": "पालक के पत्तों में पाया जाने वाला अम्ल है:"
+      },
+      "option": {
+        "english": [
+          "Citric acid",
+          "Lactic acid",
+          "Malic acid",
+          "Oxalic acid"
+        ],
+        "hindi": [
+          "साइट्रिक एसिड",
+          "लैक्टिक एसिड",
+          "मैलिक एसिड",
+          "ऑक्सैलिक एसिड"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which solution has a pH less than 7?",
+        "hindi": "किस विलयन का pH 7 से कम होता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium hydroxide",
+          "Vinegar",
+          "Lime water",
+          "Baking soda"
+        ],
+        "hindi": [
+          "सोडियम हाइड्रॉक्साइड",
+          "सिरका",
+          "चूने का पानी",
+          "बेकिंग सोडा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which salt gives neutral solution in water?",
+        "hindi": "कौन सा लवण जल में उदासीन विलयन देता है?"
+      },
+      "option": {
+        "english": [
+          "KCl",
+          "NH₄Cl",
+          "Na₂CO₃",
+          "CH₃COONa"
+        ],
+        "hindi": [
+          "KCl",
+          "NH₄Cl",
+          "Na₂CO₃",
+          "CH₃COONa"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of toothpaste?",
+        "hindi": "टूथपेस्ट की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Neutral",
+          "Basic",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "उदासीन",
+          "क्षारीय",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which indicator shows different colors in acidic and basic solutions?",
+        "hindi": "कौन सा सूचक अम्लीय और क्षारीय विलयन में अलग-अलग रंग दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Phenolphthalein",
+          "Methyl orange",
+          "Water",
+          "Alcohol"
+        ],
+        "hindi": [
+          "फिनॉल्फ्थेलीन",
+          "मिथाइल ऑरेंज",
+          "जल",
+          "अल्कोहल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the product of acid-base neutralization reaction?",
+        "hindi": "अम्ल-क्षार उदासीनीकरण अभिक्रिया का उत्पाद क्या है?"
+      },
+      "option": {
+        "english": [
+          "Only salt",
+          "Only water",
+          "Base",
+          "Salt and water"
+        ],
+        "hindi": [
+          "केवल लवण",
+          "केवल जल",
+          "क्षार",
+          "लवण और जल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The pH of a solution is 2. Its H⁺ ion concentration is:",
+        "hindi": "एक विलयन का pH 2 है। इसकी H⁺ आयन सांद्रता है:"
+      },
+      "option": {
+        "english": [
+          "1×10⁻² M",
+          "1×10⁻¹² M",
+          "2×10⁻² M",
+          "1×10⁻³ M"
+        ],
+        "hindi": [
+          "1×10⁻² M",
+          "1×10⁻¹² M",
+          "2×10⁻² M",
+          "1×10⁻³ M"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of these salts forms basic solution in water?",
+        "hindi": "इनमें से कौन सा लवण जल में क्षारीय विलयन बनाता है?"
+      },
+      "option": {
+        "english": [
+          "NH₄Cl",
+          "NaCl",
+          "Na₂CO₃",
+          "FeCl₃"
+        ],
+        "hindi": [
+          "NH₄Cl",
+          "NaCl",
+          "Na₂CO₃",
+          "FeCl₃"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is used in lead storage batteries?",
+        "hindi": "लेड स्टोरेज बैटरियों में किस अम्ल का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Nitric acid",
+          "Sulphuric acid",
+          "Hydrochloric acid",
+          "Phosphoric acid"
+        ],
+        "hindi": [
+          "नाइट्रिक एसिड",
+          "सल्फ्यूरिक एसिड",
+          "हाइड्रोक्लोरिक एसिड",
+          "फॉस्फोरिक एसिड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which element has highest electronegativity?",
+        "hindi": "किस तत्व की विद्युतऋणात्मकता सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Chlorine",
+          "Fluorine",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "क्लोरीन",
+          "फ्लोरीन",
+          "ऑक्सीजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many elements are in period 1?",
+        "hindi": "आवर्त 1 में कितने तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ],
+        "hindi": [
+          "1",
+          "3",
+          "2",
+          "4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which group elements are called alkali metals?",
+        "hindi": "किस समूह के तत्वों को क्षार धातु कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Group 1",
+          "Group 2",
+          "Group 17",
+          "Group 18"
+        ],
+        "hindi": [
+          "समूह 1",
+          "समूह 2",
+          "समूह 17",
+          "समूह 18"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the valency of aluminum (At. no. 13)?",
+        "hindi": "एल्युमिनियम की संयोजकता क्या है (परमाणु संख्या 13)?"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "4",
+          "3"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "4",
+          "3"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is most reactive halogen?",
+        "hindi": "सबसे अधिक क्रियाशील हैलोजन कौन है?"
+      },
+      "option": {
+        "english": [
+          "Chlorine",
+          "Fluorine",
+          "Bromine",
+          "Iodine"
+        ],
+        "hindi": [
+          "क्लोरीन",
+          "फ्लोरीन",
+          "ब्रोमीन",
+          "आयोडीन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do atomic radii decrease across a period?",
+        "hindi": "एक आवर्त में परमाणु त्रिज्या क्यों घटती है?"
+      },
+      "option": {
+        "english": [
+          "Electron addition",
+          "Shell addition",
+          "Nuclear charge",
+          "Nuclear attraction"
+        ],
+        "hindi": [
+          "इलेक्ट्रॉन जुड़ने से",
+          "कोश जुड़ने से",
+          "नाभकीय आवेश",
+          "नाभकीय आकर्षण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property shows periodicity?",
+        "hindi": "कौन सा गुण आवर्तता दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Valency",
+          "Mass number",
+          "Atomic mass",
+          "Neutron number"
+        ],
+        "hindi": [
+          "संयोजकता",
+          "द्रव्यमान संख्या",
+          "परमाणु द्रव्यमान",
+          "न्यूट्रॉन संख्या"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What determines the position of element in periodic table?",
+        "hindi": "आवर्त सारणी में तत्व की स्थिति क्या निर्धारित करती है?"
+      },
+      "option": {
+        "english": [
+          "Mass number",
+          "Atomic mass",
+          "Electronic configuration",
+          "Valency"
+        ],
+        "hindi": [
+          "द्रव्यमान संख्या",
+          "परमाणु द्रव्यमान",
+          "इलेक्ट्रॉनिक विन्यास",
+          "संयोजकता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why was Mendeleev's table more successful?",
+        "hindi": "मेंडलीफ की सारणी अधिक सफल क्यों थी?"
+      },
+      "option": {
+        "english": [
+          "Based on mass",
+          "Predicted new elements",
+          "Based on properties",
+          "Included all elements"
+        ],
+        "hindi": [
+          "द्रव्यमान पर आधारित",
+          "नए तत्वों की भविष्यवाणी",
+          "गुणों पर आधारित",
+          "सभी तत्व शामिल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do noble gases have complete stability?",
+        "hindi": "उत्कृष्ट गैसों में पूर्ण स्थायित्व क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "High reactivity",
+          "Low reactivity",
+          "Empty shells",
+          "Complete shells"
+        ],
+        "hindi": [
+          "उच्च क्रियाशीलता",
+          "निम्न क्रियाशीलता",
+          "खाली कोश",
+          "पूर्ण कोश"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

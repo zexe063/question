@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do we see multiple reflections in a trial room with three mirrors?",
+        "hindi": "तीन दर्पणों वाले ट्रायल रूम में हमें कई प्रतिबिंब क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to multiple reflections",
+          "Due to refraction",
+          "Due to diffraction",
+          "Due to scattering"
+        ],
+        "hindi": [
+          "बहु परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण",
+          "प्रकीर्णन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do we use silver coating on the back of glass mirrors?",
+        "hindi": "कांच के दर्पणों के पीछे चांदी की परत क्यों लगाते हैं?"
+      },
+      "option": {
+        "english": [
+          "To prevent double reflection",
+          "To make mirror stronger",
+          "To make it look shiny",
+          "To reduce cost"
+        ],
+        "hindi": [
+          "दोहरे परावर्तन को रोकने के लिए",
+          "दर्पण को मजबूत बनाने के लिए",
+          "चमकदार दिखाने के लिए",
+          "लागत कम करने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do dentists use concave mirrors instead of plane mirrors?",
+        "hindi": "दंत चिकित्सक समतल दर्पण के बजाय अवतल दर्पण का उपयोग क्यों करते हैं?"
+      },
+      "option": {
+        "english": [
+          "To get magnified view",
+          "To get clear view",
+          "To get colored view",
+          "To save money"
+        ],
+        "hindi": [
+          "आवर्धित दृश्य प्राप्त करने के लिए",
+          "स्पष्ट दृश्य प्राप्त करने के लिए",
+          "रंगीन दृश्य प्राप्त करने के लिए",
+          "पैसे बचाने के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 20 cm. Find the image distance when object is placed at 60 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 20 सेमी है। जब वस्तु 60 सेमी पर रखी हो तो प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "30 cm",
+          "40 cm",
+          "20 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "30 सेमी",
+          "40 सेमी",
+          "20 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If magnification produced by a mirror is +0.5, the image size will be:",
+        "hindi": "यदि दर्पण द्वारा उत्पन्न आवर्धन +0.5 है, तो प्रतिबिंब का आकार होगा:"
+      },
+      "option": {
+        "english": [
+          "Half of object",
+          "Double of object",
+          "Same as object",
+          "Four times object"
+        ],
+        "hindi": [
+          "वस्तु का आधा",
+          "वस्तु का दोगुना",
+          "वस्तु के बराबर",
+          "वस्तु का चार गुना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray will reflect parallel to principal axis from concave mirror?",
+        "hindi": "कौन सी किरण अवतल दर्पण से मुख्य अक्ष के समानांतर परावर्तित होगी?"
+      },
+      "option": {
+        "english": [
+          "Ray through focus",
+          "Ray through center",
+          "Ray parallel to axis",
+          "Ray at 45°"
+        ],
+        "hindi": [
+          "फोकस से गुजरने वाली किरण",
+          "केंद्र से गुजरने वाली किरण",
+          "अक्ष के समानांतर किरण",
+          "45° पर किरण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><line x1='100' y1='50' x2='100' y2='75' stroke='blue'/><line x1='100' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For a convex mirror, which ray after reflection will appear to come from focus?",
+        "hindi": "उत्तल दर्पण के लिए, कौन सी किरण परावर्तन के बाद फोकस से आती हुई प्रतीत होगी?"
+      },
+      "option": {
+        "english": [
+          "Incident parallel ray",
+          "Ray through center",
+          "Ray through focus",
+          "Ray at normal"
+        ],
+        "hindi": [
+          "आपतित समानांतर किरण",
+          "केंद्र से गुजरने वाली किरण",
+          "फोकस से गुजरने वाली किरण",
+          "अभिलंब पर किरण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='200' y1='75' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='100' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a ray diagram, which line style represents virtual rays?",
+        "hindi": "किरण आरेख में, आभासी किरणों को किस रेखा शैली से दर्शाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Dotted lines",
+          "Solid lines",
+          "Wavy lines",
+          "Thick lines"
+        ],
+        "hindi": [
+          "बिंदीदार रेखाएं",
+          "ठोस रेखाएं",
+          "लहरदार रेखाएं",
+          "मोटी रेखाएं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='250' y2='75' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror of radius 40 cm has its surface repolished, reducing radius by 0.5%. The change in focal length is:",
+        "hindi": "40 सेमी त्रिज्या वाले अवतल दर्पण की सतह पुनः पॉलिश की जाती है, जिससे त्रिज्या 0.5% कम हो जाती है। फोकस दूरी में परिवर्तन है:"
+      },
+      "option": {
+        "english": [
+          "0.1 cm",
+          "0.2 cm",
+          "0.3 cm",
+          "0.4 cm"
+        ],
+        "hindi": [
+          "0.1 सेमी",
+          "0.2 सेमी",
+          "0.3 सेमी",
+          "0.4 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a spherical mirror system, if object distance equals image distance, then:",
+        "hindi": "एक गोलीय दर्पण प्रणाली में, यदि वस्तु दूरी प्रतिबिंब दूरी के बराबर है, तो:"
+      },
+      "option": {
+        "english": [
+          "Object is at C",
+          "Object is at F",
+          "Object is at infinity",
+          "Object is at 2F"
+        ],
+        "hindi": [
+          "वस्तु C पर है",
+          "वस्तु F पर है",
+          "वस्तु अनंत पर है",
+          "वस्तु 2F पर है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

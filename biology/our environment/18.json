@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gas helps in photosynthesis?",
+        "hindi": "कौन सी गैस प्रकाश संश्लेषण में मदद करती है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen",
+          "Helium"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "हीलियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of eutrophication?",
+        "hindi": "सुपोषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better life",
+          "Good growth",
+          "Water pollution"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर जीवन",
+          "अच्छी वृद्धि",
+          "जल प्रदूषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biosphere reserve?",
+        "hindi": "जैवमंडल रिजर्व क्या है?"
+      },
+      "option": {
+        "english": [
+          "Open area",
+          "Protected area",
+          "Empty space",
+          "Public park"
+        ],
+        "hindi": [
+          "खुला क्षेत्र",
+          "संरक्षित क्षेत्र",
+          "खाली स्थान",
+          "सार्वजनिक पार्क"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biogeochemical cycle?",
+        "hindi": "जैव-भू-रासायनिक चक्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "No cycle",
+          "Random cycle",
+          "Nutrient cycle",
+          "Just rotation"
+        ],
+        "hindi": [
+          "कोई चक्र नहीं",
+          "यादृच्छिक चक्र",
+          "पोषक चक्र",
+          "केवल घूर्णन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a decomposer?",
+        "hindi": "अपघटक कौन है?"
+      },
+      "option": {
+        "english": [
+          "Bacteria",
+          "Lion",
+          "Deer",
+          "Eagle"
+        ],
+        "hindi": [
+          "बैक्टीरिया",
+          "शेर",
+          "हिरण",
+          "चील"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biodegradable waste?",
+        "hindi": "जैव-निम्नीकरणीय कचरा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Plastic",
+          "Natural waste",
+          "Metal",
+          "Glass"
+        ],
+        "hindi": [
+          "प्लास्टिक",
+          "प्राकृतिक कचरा",
+          "धातु",
+          "कांच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of soil salinity?",
+        "hindi": "मृदा लवणता का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better growth",
+          "Good crops",
+          "More yield",
+          "Reduced fertility"
+        ],
+        "hindi": [
+          "बेहतर वृद्धि",
+          "अच्छी फसलें",
+          "अधिक उपज",
+          "कम उर्वरता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological balance?",
+        "hindi": "पारिस्थितिक संतुलन क्या है?"
+      },
+      "option": {
+        "english": [
+          "No balance",
+          "Random state",
+          "Natural balance",
+          "Artificial state"
+        ],
+        "hindi": [
+          "कोई संतुलन नहीं",
+          "यादृच्छिक स्थिति",
+          "प्राकृतिक संतुलन",
+          "कृत्रिम स्थिति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is an abiotic factor?",
+        "hindi": "अजैविक कारक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Sunlight",
+          "Plants",
+          "Animals",
+          "Bacteria"
+        ],
+        "hindi": [
+          "सूर्य का प्रकाश",
+          "पौधे",
+          "जानवर",
+          "बैक्टीरिया"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is environmental awareness?",
+        "hindi": "पर्यावरण जागरूकता क्या है?"
+      },
+      "option": {
+        "english": [
+          "No knowledge",
+          "Environmental knowledge",
+          "Just information",
+          "Random facts"
+        ],
+        "hindi": [
+          "कोई ज्ञान नहीं",
+          "पर्यावरण ज्ञान",
+          "केवल जानकारी",
+          "यादृच्छिक तथ्य"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which part of human brain is responsible for thinking and intelligence?",
+        "hindi": "मानव मस्तिष्क का कौन सा भाग सोचने और बुद्धि के लिए जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Cerebellum",
+          "Cerebrum",
+          "Pons"
+        ],
+        "hindi": [
+          "मेडुला",
+          "सेरेबेलम",
+          "सेरेब्रम",
+          "पोंस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of synapse in neural communication?",
+        "hindi": "तंत्रिका संचार में सिनैप्स की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store information",
+          "Produce hormones",
+          "Filter blood",
+          "Transfer signals"
+        ],
+        "hindi": [
+          "सूचना संग्रह",
+          "हार्मोन उत्पादन",
+          "रक्त छानना",
+          "संकेत स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is called the growth hormone?",
+        "hindi": "किस हार्मोन को वृद्धि हार्मोन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Somatotropin",
+          "Thyroxine",
+          "Insulin",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "सोमेटोट्रोपिन",
+          "थायरॉक्सिन",
+          "इंसुलिन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes thyroxine hormone?",
+        "hindi": "थायरॉक्सिन हार्मोन किस ग्रंथि से स्रावित होता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone promotes ripening of fruits?",
+        "hindi": "कौन सा पादप हार्मोन फलों के पकने को बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Cytokinin",
+          "Ethylene",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "साइटोकाइनिन",
+          "एथिलीन",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of motor neurons?",
+        "hindi": "प्रेरक तंत्रिका कोशिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Carry signals to muscles",
+          "Detect stimuli",
+          "Process information",
+          "Store memory"
+        ],
+        "hindi": [
+          "मांसपेशियों को संकेत ले जाना",
+          "उद्दीपन का पता लगाना",
+          "सूचना संसाधित करना",
+          "स्मृति संग्रह"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes the closing of leaves in touch-me-not plant?",
+        "hindi": "छुई-मुई के पौधे में पत्तियों का बंद होना किस कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "Geotropism",
+          "Phototropism",
+          "Chemotropism",
+          "Thigmonasty"
+        ],
+        "hindi": [
+          "गुरुत्वानुवर्तन",
+          "प्रकाशानुवर्तन",
+          "रसायनानुवर्तन",
+          "स्पर्शानुकुंचन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which endocrine gland is known as emergency gland?",
+        "hindi": "किस अंतःस्रावी ग्रंथि को आपातकालीन ग्रंथि कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Adrenal",
+          "Thyroid",
+          "Pancreas",
+          "Pituitary"
+        ],
+        "hindi": [
+          "एड्रेनल",
+          "थायरॉइड",
+          "अग्न्याशय",
+          "पीयूष"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of auxins in weedicides?",
+        "hindi": "खरपतवारनाशी में ऑक्सिन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Promote growth",
+          "Kill insects",
+          "Kill weeds",
+          "Increase yield"
+        ],
+        "hindi": [
+          "वृद्धि को बढ़ावा",
+          "कीटों को मारना",
+          "खरपतवार को मारना",
+          "उपज बढ़ाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes diabetes insipidus?",
+        "hindi": "किस हार्मोन की कमी से डायबिटीज इनसिपिडस होता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Vasopressin",
+          "Thyroxine",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "वैसोप्रेसिन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the role of electron in redox reactions?",
+        "hindi": "रेडॉक्स अभिक्रियाओं में इलेक्ट्रॉन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Transferred",
+          "Created",
+          "Destroyed"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "स्थानांतरित होता है",
+          "निर्मित होता है",
+          "नष्ट होता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a nuclear reaction?",
+        "hindi": "नाभिकीय अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Electron change",
+          "Proton change",
+          "No change",
+          "Nucleus changes"
+        ],
+        "hindi": [
+          "इलेक्ट्रॉन परिवर्तन",
+          "प्रोटॉन परिवर्तन",
+          "कोई परिवर्तन नहीं",
+          "नाभिक परिवर्तन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs in fuel cells?",
+        "hindi": "ईंधन सेल में किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Displacement",
+          "Decomposition",
+          "Electrochemical",
+          "Neutralization"
+        ],
+        "hindi": [
+          "विस्थापन",
+          "अपघटन",
+          "विद्युत रासायनिक",
+          "उदासीनीकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which equation shows Contact process?",
+        "hindi": "संपर्क प्रक्रिया को कौन सा समीकरण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "2SO₂ + O₂ ⇌ 2SO₃",
+          "SO₂ + O₂ → SO₃",
+          "2SO₂ → SO₃ + O₂",
+          "SO₂ + O → SO₃"
+        ],
+        "hindi": [
+          "2SO₂ + O₂ ⇌ 2SO₃",
+          "SO₂ + O₂ → SO₃",
+          "2SO₂ → SO₃ + O₂",
+          "SO₂ + O → SO₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of enzymes in biological reactions?",
+        "hindi": "जैविक अभिक्रियाओं में एंजाइमों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Reactant",
+          "Biocatalyst",
+          "Product",
+          "Inhibitor"
+        ],
+        "hindi": [
+          "अभिकारक",
+          "जैव-उत्प्रेरक",
+          "उत्पाद",
+          "निरोधक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is nitrogen fixation?",
+        "hindi": "नाइट्रोजन स्थिरीकरण किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Decomposition",
+          "Displacement",
+          "Biochemical",
+          "Physical"
+        ],
+        "hindi": [
+          "अपघटन",
+          "विस्थापन",
+          "जैव रासायनिक",
+          "भौतिक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens in a precipitation reaction?",
+        "hindi": "अवक्षेपण अभिक्रिया में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Gas forms",
+          "Liquid forms",
+          "No change",
+          "Insoluble solid forms"
+        ],
+        "hindi": [
+          "गैस बनती है",
+          "द्रव बनता है",
+          "कोई परिवर्तन नहीं",
+          "अघुलनशील ठोस बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which process shows Ostwald process?",
+        "hindi": "ओस्टवाल्ड प्रक्रिया को कौन सी प्रक्रिया दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "NH₃ + O₂ → NO + H₂O",
+          "N₂ + O₂ → NO₂",
+          "NH₃ → N₂ + H₂",
+          "NO₂ → NO + O₂"
+        ],
+        "hindi": [
+          "NH₃ + O₂ → NO + H₂O",
+          "N₂ + O₂ → NO₂",
+          "NH₃ → N₂ + H₂",
+          "NO₂ → NO + O₂"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of pressure in equilibrium?",
+        "hindi": "साम्यावस्था में दाब की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Shifts equilibrium",
+          "Stops reaction",
+          "Changes product"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "साम्य विस्थापित करता है",
+          "अभिक्रिया रोकता है",
+          "उत्पाद बदलता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction is photolysis?",
+        "hindi": "प्रकाश अपघटन किस प्रकार की अभिक्रिया है?"
+      },
+      "option": {
+        "english": [
+          "Combination",
+          "Displacement",
+          "Decomposition",
+          "Double displacement"
+        ],
+        "hindi": [
+          "संयोजन",
+          "विस्थापन",
+          "अपघटन",
+          "द्विविस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

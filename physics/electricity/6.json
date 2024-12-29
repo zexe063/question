@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the function of an electric meter in household circuits?",
+        "hindi": "घरेलू परिपथों में विद्युत मीटर का क्या कार्य होता है?"
+      },
+      "option": {
+        "english": [
+          "Measures voltage only",
+          "Measures current only",
+          "Measures energy consumed",
+          "Controls current flow"
+        ],
+        "hindi": [
+          "केवल वोल्टेज मापता है",
+          "केवल धारा मापता है",
+          "खपत की गई ऊर्जा मापता है",
+          "धारा प्रवाह नियंत्रित करता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is the heating element of an electric iron made of nichrome?",
+        "hindi": "विद्युत इस्तरी का तापन तत्व नाइक्रोम का क्यों बनाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Low resistivity",
+          "High melting point",
+          "Low cost",
+          "Good conductor"
+        ],
+        "hindi": [
+          "कम प्रतिरोधकता",
+          "उच्च गलनांक",
+          "कम लागत",
+          "अच्छा चालक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What determines the maximum power rating of household sockets?",
+        "hindi": "घरेलू सॉकेट की अधिकतम शक्ति रेटिंग किस पर निर्भर करती है?"
+      },
+      "option": {
+        "english": [
+          "Voltage rating",
+          "Current rating",
+          "Resistance value",
+          "Wire thickness"
+        ],
+        "hindi": [
+          "वोल्टेज रेटिंग",
+          "धारा रेटिंग",
+          "प्रतिरोध मान",
+          "तार की मोटाई"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A copper wire has resistance 2Ω at 20°C. If temperature rises to 40°C, what is its new resistance? (Temperature coefficient = 0.004/°C)",
+        "hindi": "एक तांबे के तार का प्रतिरोध 20°C पर 2Ω है। यदि तापमान 40°C तक बढ़ता है, तो इसका नया प्रतिरोध क्या होगा? (ताप गुणांक = 0.004/°C)"
+      },
+      "option": {
+        "english": [
+          "2.16Ω",
+          "2.32Ω",
+          "2.48Ω",
+          "2.64Ω"
+        ],
+        "hindi": [
+          "2.16Ω",
+          "2.32Ω",
+          "2.48Ω",
+          "2.64Ω"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the monthly electricity bill for using: TV(100W) for 5hrs, Fan(60W) for 8hrs daily. Rate: ₹6/unit",
+        "hindi": "मासिक बिजली बिल की गणना करें: TV(100W) 5 घंटे, पंखा(60W) 8 घंटे प्रतिदिन। दर: ₹6/यूनिट"
+      },
+      "option": {
+        "english": [
+          "₹144",
+          "₹288",
+          "₹432",
+          "₹576"
+        ],
+        "hindi": [
+          "₹144",
+          "₹288",
+          "₹432",
+          "₹576"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Find the reading of ammeter A₁ in this circuit:",
+        "hindi": "इस परिपथ में एमीटर A₁ का पाठ्यांक ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "1A",
+          "2A",
+          "3A",
+          "4A"
+        ],
+        "hindi": [
+          "1A",
+          "2A",
+          "3A",
+          "4A"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='120' cy='60' r='15' fill='none' stroke='black'/><text x='112' y='65'>A₁</text><rect x='180' y='50' width='40' height='20' fill='none' stroke='black'/><text x='190' y='65'>6Ω</text><text x='50' y='65'>18V</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the voltage across R₁ in this voltage divider?",
+        "hindi": "इस वोल्टेज विभाजक में R₁ के सिरों पर वोल्टेज क्या है?"
+      },
+      "option": {
+        "english": [
+          "3V",
+          "6V",
+          "9V",
+          "12V"
+        ],
+        "hindi": [
+          "3V",
+          "6V",
+          "9V",
+          "12V"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='120' y='80' width='40' height='20' fill='none' stroke='black'/><text x='125' y='45'>R₁=2Ω</text><text x='125' y='95'>R₂=4Ω</text><text x='80' y='70'>12V</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which resistor has the highest current flowing through it?",
+        "hindi": "किस प्रतिरोधक में सबसे अधिक धारा प्रवाहित हो रही है?"
+      },
+      "option": {
+        "english": [
+          "R₁ (6Ω)",
+          "R₂ (8Ω)",
+          "R₃ (4Ω)",
+          "All equal"
+        ],
+        "hindi": [
+          "R₁ (6Ω)",
+          "R₂ (8Ω)",
+          "R₃ (4Ω)",
+          "सभी बराबर"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='70' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='100' width='40' height='20' fill='none' stroke='black'/><text x='105' y='55'>6Ω</text><text x='105' y='85'>8Ω</text><text x='105' y='115'>4Ω</text><text x='40' y='70'>12V</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the current through the 8Ω resistor in this complex circuit:",
+        "hindi": "इस जटिल परिपथ में 8Ω प्रतिरोधक से प्रवाहित धारा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "1A",
+          "1.5A",
+          "2A",
+          "2.5A"
+        ],
+        "hindi": [
+          "1A",
+          "1.5A",
+          "2A",
+          "2.5A"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='180' y='40' width='40' height='20' fill='none' stroke='black'/><text x='105' y='55'>8Ω</text><text x='185' y='55'>8Ω</text><text x='50' y='70'>32V</text><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Find the total power dissipated in this circuit:",
+        "hindi": "इस परिपथ में कुल व्यय शक्ति ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "48W",
+          "72W",
+          "96W",
+          "144W"
+        ],
+        "hindi": [
+          "48W",
+          "72W",
+          "96W",
+          "144W"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='120' y='90' width='40' height='20' fill='none' stroke='black'/><text x='125' y='55'>6Ω</text><text x='125' y='105'>6Ω</text><text x='80' y='70'>24V</text><line x1='80' y1='30' x2='200' y2='30' stroke='black'/><line x1='80' y1='30' x2='80' y2='120' stroke='black'/><line x1='200' y1='30' x2='200' y2='120' stroke='black'/><line x1='80' y1='120' x2='200' y2='120' stroke='black'/></svg>",
+      "medium": "hard"
+    }
+  ]

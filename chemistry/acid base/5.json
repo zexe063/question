@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is a weak acid?",
+        "hindi": "इनमें से कौन एक दुर्बल अम्ल है?"
+      },
+      "option": {
+        "english": [
+          "HCl",
+          "CH₃COOH",
+          "H₂SO₄",
+          "HNO₃"
+        ],
+        "hindi": [
+          "HCl",
+          "CH₃COOH",
+          "H₂SO₄",
+          "HNO₃"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The color of methyl orange in basic medium is:",
+        "hindi": "क्षारीय माध्यम में मिथाइल ऑरेंज का रंग होता है:"
+      },
+      "option": {
+        "english": [
+          "Red",
+          "Blue",
+          "Yellow",
+          "Green"
+        ],
+        "hindi": [
+          "लाल",
+          "नीला",
+          "पीला",
+          "हरा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is present in milk of magnesia?",
+        "hindi": "मैग्नीशिया के दूध में इनमें से क्या उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "Mg(OH)₂",
+          "MgCl₂",
+          "MgCO₃",
+          "MgSO₄"
+        ],
+        "hindi": [
+          "Mg(OH)₂",
+          "MgCl₂",
+          "MgCO₃",
+          "MgSO₄"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the pH of a neutral solution?",
+        "hindi": "एक उदासीन विलयन का pH क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "0",
+          "14",
+          "1",
+          "7"
+        ],
+        "hindi": [
+          "0",
+          "14",
+          "1",
+          "7"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is found in orange juice?",
+        "hindi": "संतरे के रस में कौन सा अम्ल पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Tartaric acid",
+          "Citric acid",
+          "Lactic acid",
+          "Acetic acid"
+        ],
+        "hindi": [
+          "टार्टरिक एसिड",
+          "साइट्रिक एसिड",
+          "लैक्टिक एसिड",
+          "एसीटिक एसिड"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when CO₂ is passed through lime water?",
+        "hindi": "जब CO₂ को चूने के पानी से गुजारा जाता है तो क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Water forms",
+          "Solution remains clear",
+          "Turns milky"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "जल बनता है",
+          "विलयन स्वच्छ रहता है",
+          "दूधिया हो जाता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which salt is used in baking powder?",
+        "hindi": "बेकिंग पाउडर में किस लवण का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "NaHCO₃",
+          "Na₂CO₃",
+          "CaCO₃",
+          "K₂CO₃"
+        ],
+        "hindi": [
+          "NaHCO₃",
+          "Na₂CO₃",
+          "CaCO₃",
+          "K₂CO₃"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The process of formation of salt and water from acid and base is called:",
+        "hindi": "अम्ल और क्षार से लवण और जल के निर्माण की प्रक्रिया कहलाती है:"
+      },
+      "option": {
+        "english": [
+          "Hydration",
+          "Hydrolysis",
+          "Neutralization",
+          "Ionization"
+        ],
+        "hindi": [
+          "जलयोजन",
+          "जल-अपघटन",
+          "उदासीनीकरण",
+          "आयनीकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If a solution has pH = 3, its pOH will be:",
+        "hindi": "यदि किसी विलयन का pH = 3 है, तो उसका pOH होगा:"
+      },
+      "option": {
+        "english": [
+          "3",
+          "11",
+          "7",
+          "14"
+        ],
+        "hindi": [
+          "3",
+          "11",
+          "7",
+          "14"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which reaction represents the correct formation of sodium acetate?",
+        "hindi": "सोडियम एसीटेट के निर्माण को कौन सी अभिक्रिया सही दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "CH₃COOH + NaCl → CH₃COONa + HCl",
+          "CH₃OH + NaOH → CH₃COONa + H₂O",
+          "CH₃COOH + Na → CH₃COONa + H₂",
+          "CH₃COOH + NaOH → CH₃COONa + H₂O"
+        ],
+        "hindi": [
+          "CH₃COOH + NaCl → CH₃COONa + HCl",
+          "CH₃OH + NaOH → CH₃COONa + H₂O",
+          "CH₃COOH + Na → CH₃COONa + H₂",
+          "CH₃COOH + NaOH → CH₃COONa + H₂O"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

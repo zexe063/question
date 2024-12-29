@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the main component of natural gas?",
+        "hindi": "प्राकृतिक गैस का मुख्य घटक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Methane",
+          "Propane",
+          "Butane"
+        ],
+        "hindi": [
+          "एथेन",
+          "मीथेन",
+          "प्रोपेन",
+          "ब्यूटेन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used as antifreeze in car radiators?",
+        "hindi": "कार रेडिएटर में एंटीफ्रीज के रूप में किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Methanol",
+          "Propanol",
+          "Ethylene glycol",
+          "Glycerol"
+        ],
+        "hindi": [
+          "मेथेनॉल",
+          "प्रोपेनॉल",
+          "एथिलीन ग्लाइकॉल",
+          "ग्लिसरॉल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the percentage of carbon in pure ethanol?",
+        "hindi": "शुद्ध एथेनॉल में कार्बन का प्रतिशत कितना होता है?"
+      },
+      "option": {
+        "english": [
+          "52.2%",
+          "62.1%",
+          "48.3%",
+          "55.5%"
+        ],
+        "hindi": [
+          "52.2%",
+          "62.1%",
+          "48.3%",
+          "55.5%"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when ethanoic acid reacts with sodium bicarbonate?",
+        "hindi": "एथेनोइक अम्ल सोडियम बाइकार्बोनेट से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "H₂ gas only",
+          "CO₂ gas only",
+          "Na salt only",
+          "CO₂ gas and Na salt"
+        ],
+        "hindi": [
+          "केवल H₂ गैस",
+          "केवल CO₂ गैस",
+          "केवल Na लवण",
+          "CO₂ गैस और Na लवण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which acid is present in vinegar?",
+        "hindi": "सिरके में कौन सा अम्ल पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Formic acid",
+          "Acetic acid",
+          "Citric acid",
+          "Tartaric acid"
+        ],
+        "hindi": [
+          "फॉर्मिक अम्ल",
+          "एसीटिक अम्ल",
+          "साइट्रिक अम्ल",
+          "टार्टरिक अम्ल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of concentrated H₂SO₄ in esterification?",
+        "hindi": "एस्टरीकरण में सांद्र H₂SO₄ की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Oxidizing agent",
+          "Reducing agent",
+          "Catalyst",
+          "Dehydrating agent"
+        ],
+        "hindi": [
+          "ऑक्सीकारक",
+          "अपचायक",
+          "उत्प्रेरक",
+          "निर्जलीकारक"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which of these has lowest boiling point?",
+        "hindi": "इनमें से किसका क्वथनांक सबसे कम होता है?"
+      },
+      "option": {
+        "english": [
+          "Butane",
+          "Propane",
+          "Ethane",
+          "Methane"
+        ],
+        "hindi": [
+          "ब्यूटेन",
+          "प्रोपेन",
+          "एथेन",
+          "मीथेन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of bond is present in graphite layers?",
+        "hindi": "ग्रेफाइट की परतों में किस प्रकार का बंध पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Ionic bond",
+          "Single bond",
+          "Resonating bond",
+          "Van der Waals"
+        ],
+        "hindi": [
+          "आयनिक बंध",
+          "एकल बंध",
+          "अनुनाद बंध",
+          "वान डर वाल्स"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the IUPAC name of CH₃-CH₂-CH₂-OH?",
+        "hindi": "CH₃-CH₂-CH₂-OH का IUPAC नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Propan-1-ol",
+          "1-propanol",
+          "Propanol",
+          "n-propyl alcohol"
+        ],
+        "hindi": [
+          "प्रोपेन-1-ऑल",
+          "1-प्रोपेनॉल",
+          "प्रोपेनॉल",
+          "n-प्रोपिल अल्कोहल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mechanism is involved in addition of HBr to ethene?",
+        "hindi": "एथीन में HBr के योग की क्रियाविधि क्या है?"
+      },
+      "option": {
+        "english": [
+          "SN¹ mechanism",
+          "SN² mechanism",
+          "Free radical",
+          "Electrophilic addition"
+        ],
+        "hindi": [
+          "SN¹ क्रियाविधि",
+          "SN² क्रियाविधि",
+          "मुक्त मूलक",
+          "इलेक्ट्रॉनस्नेही योग"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

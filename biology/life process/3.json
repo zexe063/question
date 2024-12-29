@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of guard cells?",
+        "hindi": "द्वार कोशिकाओं का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Protect leaves",
+          "Control stomatal opening",
+          "Store food",
+          "Produce chlorophyll"
+        ],
+        "hindi": [
+          "पत्तियों की रक्षा",
+          "रंध्रों का खुलना नियंत्रित करना",
+          "भोजन संग्रह",
+          "क्लोरोफिल उत्पादन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which organ produces bile?",
+        "hindi": "पित्त का निर्माण किस अंग में होता है?"
+      },
+      "option": {
+        "english": [
+          "Pancreas",
+          "Stomach",
+          "Liver",
+          "Gallbladder"
+        ],
+        "hindi": [
+          "अग्न्याशय",
+          "आमाशय",
+          "यकृत",
+          "पित्ताशय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of white blood cells?",
+        "hindi": "श्वेत रक्त कोशिकाओं का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Transport oxygen",
+          "Blood clotting",
+          "Fight infection",
+          "Transport nutrients"
+        ],
+        "hindi": [
+          "ऑक्सीजन का परिवहन",
+          "रक्त का थक्का जमाना",
+          "संक्रमण से लड़ना",
+          "पोषक तत्वों का परिवहन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Where is urea formed in human body?",
+        "hindi": "मानव शरीर में यूरिया कहाँ बनता है?"
+      },
+      "option": {
+        "english": [
+          "Kidneys",
+          "Liver",
+          "Intestine",
+          "Bladder"
+        ],
+        "hindi": [
+          "गुर्दे",
+          "यकृत",
+          "आंत",
+          "मूत्राशय"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of small intestine in digestion?",
+        "hindi": "पाचन में छोटी आंत की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Storage of food",
+          "Absorption of water",
+          "Complete digestion",
+          "Removal of waste"
+        ],
+        "hindi": [
+          "भोजन का संग्रह",
+          "जल का अवशोषण",
+          "पूर्ण पाचन",
+          "अपशिष्ट का निष्कासन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during tissue fluid formation?",
+        "hindi": "ऊतक द्रव के निर्माण के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Blood proteins escape",
+          "Blood pressure increases",
+          "Plasma filters out",
+          "RBCs break down"
+        ],
+        "hindi": [
+          "रक्त प्रोटीन बाहर निकलते हैं",
+          "रक्तचाप बढ़ता है",
+          "प्लाज्मा छन जाता है",
+          "RBC टूटते हैं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does transpiration help in transport of water?",
+        "hindi": "वाष्पोत्सर्जन जल के परिवहन में कैसे सहायता करता है?"
+      },
+      "option": {
+        "english": [
+          "Creates root pressure",
+          "Creates pull force",
+          "Increases osmosis",
+          "Decreases water loss"
+        ],
+        "hindi": [
+          "मूल दाब उत्पन्न करता है",
+          "खींचने का बल उत्पन्न करता है",
+          "परासरण बढ़ाता है",
+          "जल हानि घटाता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of reabsorption in kidneys?",
+        "hindi": "गुर्दे में पुनरावशोषण का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Removes waste",
+          "Conserves useful substances",
+          "Produces urine",
+          "Filters blood"
+        ],
+        "hindi": [
+          "अपशिष्ट निकालता है",
+          "उपयोगी पदार्थों का संरक्षण",
+          "मूत्र उत्पादन",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does blood pressure drop in arterioles?",
+        "hindi": "धमनिकाओं में रक्तचाप क्यों घटता है?"
+      },
+      "option": {
+        "english": [
+          "Due to narrow diameter",
+          "Due to elastic walls",
+          "Due to blood volume",
+          "Due to heart action"
+        ],
+        "hindi": [
+          "संकीर्ण व्यास के कारण",
+          "लोचदार दीवारों के कारण",
+          "रक्त मात्रा के कारण",
+          "हृदय क्रिया के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How does kidney maintain blood pH?",
+        "hindi": "गुर्दा रक्त का pH कैसे नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "By filtering blood",
+          "By removing excess H+ ions",
+          "By storing minerals",
+          "By producing enzymes"
+        ],
+        "hindi": [
+          "रक्त छानकर",
+          "अतिरिक्त H+ आयन निकालकर",
+          "खनिज संग्रह करके",
+          "एंजाइम उत्पन्न करके"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

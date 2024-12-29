@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is magnetic flux?",
+        "hindi": "चुंबकीय फ्लक्स क्या है?"
+      },
+      "option": {
+        "english": [
+          "Magnetic force",
+          "Field direction",
+          "Field lines through area",
+          "Current flow"
+        ],
+        "hindi": [
+          "चुंबकीय बल",
+          "क्षेत्र दिशा",
+          "क्षेत्र रेखाएं क्षेत्रफल से",
+          "धारा प्रवाह"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the SI unit of magnetic flux?",
+        "hindi": "चुंबकीय फ्लक्स का SI मात्रक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Tesla",
+          "Ampere",
+          "Weber",
+          "Henry"
+        ],
+        "hindi": [
+          "टेस्ला",
+          "एम्पीयर",
+          "वेबर",
+          "हेनरी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is magnetic permeability?",
+        "hindi": "चुंबकीय पारगम्यता क्या है?"
+      },
+      "option": {
+        "english": [
+          "Field strength",
+          "Current flow",
+          "Material's magnetic property",
+          "Flux density"
+        ],
+        "hindi": [
+          "क्षेत्र की तीव्रता",
+          "धारा प्रवाह",
+          "पदार्थ का चुंबकीय गुण",
+          "फ्लक्स घनत्व"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is magnetic susceptibility?",
+        "hindi": "चुंबकीय सुग्राहिता क्या है?"
+      },
+      "option": {
+        "english": [
+          "Field direction",
+          "Field lines",
+          "Magnetization degree",
+          "Current flow"
+        ],
+        "hindi": [
+          "क्षेत्र दिशा",
+          "क्षेत्र रेखाएं",
+          "चुंबकन की मात्रा",
+          "धारा प्रवाह"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is magnetic moment?",
+        "hindi": "चुंबकीय आघूर्ण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Field strength",
+          "Time period",
+          "Rotational tendency",
+          "Current direction"
+        ],
+        "hindi": [
+          "क्षेत्र की तीव्रता",
+          "समय अवधि",
+          "घूर्णन प्रवृत्ति",
+          "धारा दिशा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How does magnetic flux change with angle?",
+        "hindi": "कोण के साथ चुंबकीय फ्लक्स कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Cosine relation",
+          "Linear relation",
+          "Random change"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "कोसाइन संबंध",
+          "रैखिक संबंध",
+          "यादृच्छिक परिवर्तन"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='75' x2='250' y2='75' stroke='black'/><line x1='150' y1='75' x2='200' y2='25' stroke='red'/><path d='M230,75 A40,40 0 0,1 200,25' stroke='blue' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "How does magnetic field vary inside a toroid?",
+        "hindi": "टोरॉइड के अंदर चुंबकीय क्षेत्र कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Random",
+          "Uniform",
+          "Linear increase",
+          "Exponential"
+        ],
+        "hindi": [
+          "यादृच्छिक",
+          "एकसमान",
+          "रैखिक वृद्धि",
+          "घातीय"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M150,35 C180,35 180,115 150,115' stroke='blue' fill='none'/><path d='M150,35 C120,35 120,115 150,115' stroke='blue' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the relation between current and magnetic field in a toroid?",
+        "hindi": "टोरॉइड में धारा और चुंबकीय क्षेत्र में क्या संबंध है?"
+      },
+      "option": {
+        "english": [
+          "No relation",
+          "Inverse",
+          "Random",
+          "Direct"
+        ],
+        "hindi": [
+          "कोई संबंध नहीं",
+          "व्युत्क्रम",
+          "यादृच्छिक",
+          "सीधा"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='125' x2='250' y2='25' stroke='red'/><text x='30' y='140'>I</text><text x='260' y='35'>B</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is magnetic field zero outside an ideal toroid?",
+        "hindi": "आदर्श टोरॉइड के बाहर चुंबकीय क्षेत्र शून्य क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "No current",
+          "Low current",
+          "Closed field lines",
+          "High resistance"
+        ],
+        "hindi": [
+          "धारा नहीं",
+          "कम धारा",
+          "बंद क्षेत्र रेखाएं",
+          "उच्च प्रतिरोध"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of toroidal core in transformers?",
+        "hindi": "ट्रांसफार्मर में टोरॉइडल कोर का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Looks better",
+          "Cheaper",
+          "Minimal flux leakage",
+          "Easy to make"
+        ],
+        "hindi": [
+          "बेहतर दिखता है",
+          "सस्ता",
+          "न्यूनतम फ्लक्स क्षरण",
+          "बनाने में आसान"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

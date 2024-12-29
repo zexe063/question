@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is a solar collector?",
+        "hindi": "सौर संग्राहक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Device to store sunlight",
+          "Device to collect solar heat",
+          "Solar panel",
+          "Solar cell"
+        ],
+        "hindi": [
+          "सूर्य का प्रकाश संग्रह करने का उपकरण",
+          "सौर ऊष्मा एकत्र करने का उपकरण",
+          "सौर पैनल",
+          "सौर सेल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main use of solar water heater?",
+        "hindi": "सौर जल तापक का मुख्य उपयोग क्या है?"
+      },
+      "option": {
+        "english": [
+          "Generate electricity",
+          "Cook food",
+          "Heat water",
+          "Store energy"
+        ],
+        "hindi": [
+          "बिजली उत्पन्न करना",
+          "भोजन पकाना",
+          "पानी गरम करना",
+          "ऊर्जा संग्रह करना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of a wind turbine?",
+        "hindi": "पवन टरबाइन का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Cool air",
+          "Clean air",
+          "Generate electricity",
+          "Store energy"
+        ],
+        "hindi": [
+          "हवा को ठंडा करना",
+          "हवा को साफ करना",
+          "बिजली उत्पन्न करना",
+          "ऊर्जा संग्रह करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is used in biogas plants?",
+        "hindi": "बायोगैस संयंत्रों में किस गैस का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Methane",
+          "Carbon dioxide"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "मीथेन",
+          "कार्बन डाइऑक्साइड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of nuclear power?",
+        "hindi": "नाभिकीय ऊर्जा का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Low cost",
+          "No waste",
+          "High power output",
+          "Easy maintenance"
+        ],
+        "hindi": [
+          "कम लागत",
+          "कोई कचरा नहीं",
+          "उच्च शक्ति उत्पादन",
+          "आसान रखरखाव"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is needed for tidal energy generation?",
+        "hindi": "ज्वारीय ऊर्जा उत्पादन के लिए क्या आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Mountains",
+          "Deserts",
+          "Coastal area",
+          "Forests"
+        ],
+        "hindi": [
+          "पर्वत",
+          "रेगिस्तान",
+          "तटीय क्षेत्र",
+          "जंगल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which material is used in solar cooker box?",
+        "hindi": "सौर कुकर बॉक्स में किस पदार्थ का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Black coating",
+          "White coating",
+          "Red coating",
+          "Blue coating"
+        ],
+        "hindi": [
+          "काली कोटिंग",
+          "सफेद कोटिंग",
+          "लाल कोटिंग",
+          "नीली कोटिंग"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the main problem with wind farms?",
+        "hindi": "पवन फार्म की मुख्य समस्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "Too small",
+          "Too expensive",
+          "Need large land area",
+          "Low efficiency"
+        ],
+        "hindi": [
+          "बहुत छोटा",
+          "बहुत महंगा",
+          "बड़े भूमि क्षेत्र की आवश्यकता",
+          "कम दक्षता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is biomass considered renewable?",
+        "hindi": "बायोमास को नवीकरणीय क्यों माना जाता है?"
+      },
+      "option": {
+        "english": [
+          "Easy to use",
+          "Can be regrown",
+          "Low cost",
+          "No pollution"
+        ],
+        "hindi": [
+          "उपयोग में आसान",
+          "पुनः उगाया जा सकता है",
+          "कम लागत",
+          "कोई प्रदूषण नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source is most sustainable?",
+        "hindi": "कौन सा ऊर्जा स्रोत सबसे टिकाऊ है?"
+      },
+      "option": {
+        "english": [
+          "Coal",
+          "Oil",
+          "Solar",
+          "Nuclear"
+        ],
+        "hindi": [
+          "कोयला",
+          "तेल",
+          "सौर",
+          "नाभिकीय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

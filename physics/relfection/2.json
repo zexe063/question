@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "A 4 cm tall object is placed perpendicular to the principal axis of a concave mirror of focal length 20 cm. The distance of the object from the mirror is 30 cm. Find the nature, position and size of the image. (CBSE)",
+        "hindi": "4 सेमी ऊंची वस्तु 20 सेमी फोकस दूरी वाले अवतल दर्पण की मुख्य अक्ष के लंबवत रखी गई है। दर्पण से वस्तु की दूरी 30 सेमी है। प्रतिबिंब की प्रकृति, स्थिति और आकार ज्ञात करें। (CBSE)"
+      },
+      "option": {
+        "english": [
+          "Real, 60 cm, 8 cm",
+          "Virtual, 60 cm, 8 cm",
+          "Real, 60 cm, 12 cm",
+          "Virtual, 60 cm, 12 cm"
+        ],
+        "hindi": [
+          "वास्तविक, 60 सेमी, 8 सेमी",
+          "आभासी, 60 सेमी, 8 सेमी",
+          "वास्तविक, 60 सेमी, 12 सेमी",
+          "आभासी, 60 सेमी, 12 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The laws of reflection hold good for: ",
+        "hindi": "परावर्तन के नियम किसके लिए सत्य हैं:"
+      },
+      "option": {
+        "english": [
+          "Plane mirrors only",
+          "Spherical mirrors only",
+          "Both plane and spherical mirrors",
+          "Neither plane nor spherical mirrors"
+        ],
+        "hindi": [
+          "केवल समतल दर्पण",
+          "केवल गोलीय दर्पण",
+          "समतल और गोलीय दोनों दर्पण",
+          "न समतल न गोलीय दर्पण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror gives real, inverted and magnified image of an object. The object must be placed:",
+        "hindi": "एक अवतल दर्पण वस्तु का वास्तविक, उल्टा और आवर्धित प्रतिबिंब बनाता है। वस्तु को रखना चाहिए: "
+      },
+      "option": {
+        "english": [
+          "Between F and C",
+          "At F",
+          "Beyond C",
+          "At C"
+        ],
+        "hindi": [
+          "F और C के बीच",
+          "F पर",
+          "C से परे",
+          "C पर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Find the focal length of a convex mirror of radius of curvature 32 cm. ",
+        "hindi": "32 सेमी वक्रता त्रिज्या वाले उत्तल दर्पण की फोकस दूरी ज्ञात करें। "
+      },
+      "option": {
+        "english": [
+          "+16 cm",
+          "-16 cm",
+          "+8 cm",
+          "-8 cm"
+        ],
+        "hindi": [
+          "+16 सेमी",
+          "-16 सेमी",
+          "+8 सेमी",
+          "-8 सेमी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray of light parallel to principal axis, after reflection from a spherical mirror, passes through: ",
+        "hindi": "मुख्य अक्ष के समांतर प्रकाश की किरण, गोलीय दर्पण से परावर्तन के बाद किससे होकर गुजरती है: "
+      },
+      "option": {
+        "english": [
+          "Center of curvature",
+          "Focus",
+          "Pole",
+          "Between F and C"
+        ],
+        "hindi": [
+          "वक्रता केंद्र",
+          "फोकस",
+          "ध्रुव",
+          "F और C के बीच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The image formed by a concave mirror is virtual, erect and magnified. The object distance is: ",
+        "hindi": "अवतल दर्पण द्वारा बना प्रतिबिंब आभासी, सीधा और आवर्धित है। वस्तु की दूरी है: "
+      },
+      "option": {
+        "english": [
+          "Beyond C",
+          "Between F and C",
+          "At F",
+          "Less than F"
+        ],
+        "hindi": [
+          "C से परे",
+          "F और C के बीच",
+          "F पर",
+          "F से कम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A person stands 6m in front of a plane mirror. The distance between the person and his image is: ",
+        "hindi": "एक व्यक्ति समतल दर्पण के सामने 6m की दूरी पर खड़ा है। व्यक्ति और उसके प्रतिबिंब के बीच की दूरी है: "
+      },
+      "option": {
+        "english": [
+          "6m",
+          "12m",
+          "3m",
+          "9m"
+        ],
+        "hindi": [
+          "6m",
+          "12m",
+          "3m",
+          "9m"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The radius of curvature of a concave mirror is R. An object is placed at a distance R/2 from the mirror. The image will form at a distance: ",
+        "hindi": "एक अवतल दर्पण की वक्रता त्रिज्या R है। एक वस्तु दर्पण से R/2 दूरी पर रखी गई है। प्रतिबिंब किस दूरी पर बनेगा:"
+      },
+      "option": {
+        "english": [
+          "R",
+          "R/2",
+          "3R/2",
+          "2R"
+        ],
+        "hindi": [
+          "R",
+          "R/2",
+          "3R/2",
+          "2R"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which of the following mirror can form a real image? (NCERT)",
+        "hindi": "निम्नलिखित में से कौन सा दर्पण वास्तविक प्रतिबिंब बना सकता है? (NCERT)"
+      },
+      "option": {
+        "english": [
+          "Plane mirror",
+          "Convex mirror",
+          "Concave mirror",
+          "Both A and B"
+        ],
+        "hindi": [
+          "समतल दर्पण",
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "A और B दोनों"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror of focal length 15cm forms an image of magnification -3. Calculate the object distance: ",
+        "hindi": "15 सेमी फोकस दूरी का एक अवतल दर्पण -3 आवर्धन का प्रतिबिंब बनाता है। वस्तु की दूरी की गणना करें: "
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "20 cm",
+          "30 cm",
+          "40 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "20 सेमी",
+          "30 सेमी",
+          "40 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

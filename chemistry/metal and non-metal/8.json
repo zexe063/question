@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making traffic signals?",
+        "hindi": "यातायात संकेतों को बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Silver",
+          "Sodium"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "चांदी",
+          "सोडियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which property helps metals to produce sound when struck?",
+        "hindi": "कौन सा गुण धातुओं को टकराने पर ध्वनि उत्पन्न करने में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Ductility",
+          "Conductivity",
+          "Sonority",
+          "Malleability"
+        ],
+        "hindi": [
+          "तन्यता",
+          "चालकता",
+          "ध्वनिकता",
+          "आघातवर्धनीयता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is stored under kerosene?",
+        "hindi": "किस धातु को केरोसीन में रखा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Iron",
+          "Zinc",
+          "Copper"
+        ],
+        "hindi": [
+          "सोडियम",
+          "लोहा",
+          "जस्ता",
+          "तांबा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of bonding is present in metals?",
+        "hindi": "धातुओं में किस प्रकार का बंधन पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Covalent",
+          "Metallic",
+          "Ionic",
+          "None"
+        ],
+        "hindi": [
+          "सहसंयोजी",
+          "धात्विक",
+          "आयनिक",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making pencil lead?",
+        "hindi": "पेंसिल की लीड बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Lead",
+          "Iron",
+          "Zinc",
+          "Graphite"
+        ],
+        "hindi": [
+          "सीसा",
+          "लोहा",
+          "जस्ता",
+          "ग्रेफाइट"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the color of copper sulphate solution?",
+        "hindi": "कॉपर सल्फेट विलयन का रंग क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Blue",
+          "Green",
+          "Red",
+          "Colorless"
+        ],
+        "hindi": [
+          "नीला",
+          "हरा",
+          "लाल",
+          "रंगहीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal forms amphoteric oxide?",
+        "hindi": "कौन सी धातु उभयधर्मी ऑक्साइड बनाती है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Silver"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "चांदी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of carbon in extraction of metals?",
+        "hindi": "धातुओं के निष्कर्षण में कार्बन की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Reducing agent",
+          "Oxidizing agent",
+          "Catalyst",
+          "None"
+        ],
+        "hindi": [
+          "अपचायक",
+          "ऑक्सीकारक",
+          "उत्प्रेरक",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical name of quick lime?",
+        "hindi": "बिना बुझे चूने का रासायनिक नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaO",
+          "CaCl₂"
+        ],
+        "hindi": [
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaO",
+          "CaCl₂"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is extracted by electrolysis method?",
+        "hindi": "कौन सी धातु विद्युत अपघटन विधि द्वारा निकाली जाती है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Iron",
+          "Copper",
+          "Zinc"
+        ],
+        "hindi": [
+          "सोडियम",
+          "लोहा",
+          "तांबा",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Why is tungsten used in bulb filaments?",
+        "hindi": "बल्ब के फिलामेंट में टंगस्टन का उपयोग क्यों किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Low melting point",
+          "High resistivity",
+          "High melting point and durability",
+          "Low cost"
+        ],
+        "hindi": [
+          "निम्न गलनांक",
+          "उच्च प्रतिरोधकता",
+          "उच्च गलनांक और टिकाऊपन",
+          "कम लागत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to the resistance of a superconductor below critical temperature?",
+        "hindi": "क्रांतिक तापमान से नीचे अतिचालक का प्रतिरोध क्या हो जाता है?"
+      },
+      "option": {
+        "english": [
+          "Becomes zero",
+          "Increases sharply",
+          "Remains constant",
+          "Becomes infinite"
+        ],
+        "hindi": [
+          "शून्य हो जाता है",
+          "तेजी से बढ़ता है",
+          "स्थिर रहता है",
+          "अनंत हो जाता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the energy consumed by a 1500W air conditioner in 8 hours:",
+        "hindi": "1500W के एयर कंडीशनर द्वारा 8 घंटे में खपत की गई ऊर्जा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "10 kWh",
+          "12 kWh",
+          "14 kWh",
+          "16 kWh"
+        ],
+        "hindi": [
+          "10 किलोवाट घंटा",
+          "12 किलोवाट घंटा",
+          "14 किलोवाट घंटा",
+          "16 किलोवाट घंटा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why are copper wires not suitable for overhead power transmission?",
+        "hindi": "ऊपरी बिजली संचरण के लिए तांबे के तार क्यों उपयुक्त नहीं हैं?"
+      },
+      "option": {
+        "english": [
+          "High cost",
+          "Low tensile strength",
+          "High resistance",
+          "Both A and B"
+        ],
+        "hindi": [
+          "उच्च लागत",
+          "कम तन्य सामर्थ्य",
+          "उच्च प्रतिरोध",
+          "A और B दोनों"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of connecting a voltmeter in series?",
+        "hindi": "वोल्टमीटर को श्रेणीक्रम में जोड़ने का क्या प्रभाव होता है?"
+      },
+      "option": {
+        "english": [
+          "Circuit breaks",
+          "Wrong reading",
+          "Voltmeter burns",
+          "All of these"
+        ],
+        "hindi": [
+          "परिपथ टूट जाता है",
+          "गलत पाठ्यांक",
+          "वोल्टमीटर जल जाता है",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A wire of resistance 4Ω is stretched to double its length. Its new resistance will be:",
+        "hindi": "4Ω प्रतिरोध वाले तार को उसकी लंबाई का दोगुना खींचा जाता है। इसका नया प्रतिरोध होगा:"
+      },
+      "option": {
+        "english": [
+          "8Ω",
+          "16Ω",
+          "2Ω",
+          "4Ω"
+        ],
+        "hindi": [
+          "8Ω",
+          "16Ω",
+          "2Ω",
+          "4Ω"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is electrical energy preferred over other forms of energy?",
+        "hindi": "विद्युत ऊर्जा को अन्य प्रकार की ऊर्जाओं से क्यों प्राथमिकता दी जाती है?"
+      },
+      "option": {
+        "english": [
+          "Easy transmission",
+          "Clean energy",
+          "Easy conversion",
+          "All of these"
+        ],
+        "hindi": [
+          "आसान संचरण",
+          "स्वच्छ ऊर्जा",
+          "आसान रूपांतरण",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the resistance of copper wire at 100°C if its resistance at 20°C is 100Ω (α = 0.004/°C):",
+        "hindi": "100°C पर तांबे के तार का प्रतिरोध ज्ञात करें यदि 20°C पर इसका प्रतिरोध 100Ω है (α = 0.004/°C):"
+      },
+      "option": {
+        "english": [
+          "120Ω",
+          "132Ω",
+          "140Ω",
+          "152Ω"
+        ],
+        "hindi": [
+          "120Ω",
+          "132Ω",
+          "140Ω",
+          "152Ω"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of using high voltage in power transmission?",
+        "hindi": "विद्युत संचरण में उच्च वोल्टेज का उपयोग करने का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "To reduce current",
+          "To reduce power loss",
+          "To reduce wire thickness",
+          "All of these"
+        ],
+        "hindi": [
+          "धारा कम करने के लिए",
+          "शक्ति हानि कम करने के लिए",
+          "तार की मोटाई कम करने के लिए",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Find the internal resistance of a cell if terminal voltage drops from 6V to 5.5V when current drawn is 5A:",
+        "hindi": "सेल का आंतरिक प्रतिरोध ज्ञात करें यदि 5A धारा खींचने पर टर्मिनल वोल्टेज 6V से 5.5V हो जाता है:"
+      },
+      "option": {
+        "english": [
+          "0.1Ω",
+          "0.2Ω",
+          "0.3Ω",
+          "0.4Ω"
+        ],
+        "hindi": [
+          "0.1Ω",
+          "0.2Ω",
+          "0.3Ω",
+          "0.4Ω"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

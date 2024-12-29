@@ -1,0 +1,237 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Which property of light is responsible for the formation of shadows?",
+        "hindi": "छाया के निर्माण के लिए प्रकाश का कौन सा गुण जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Light travels in straight lines",
+          "Light can be reflected",
+          "Light can be refracted",
+          "Light shows diffraction"
+        ],
+        "hindi": [
+          "प्रकाश सीधी रेखा में चलता है",
+          "प्रकाश परावर्तित हो सकता है",
+          "प्रकाश अपवर्तित हो सकता है",
+          "प्रकाश विवर्तन दर्शाता है"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a kaleidoscope form multiple images?",
+        "hindi": "कैलीडोस्कोप कई प्रतिबिंब क्यों बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Due to multiple reflections",
+          "Due to refraction",
+          "Due to diffraction",
+          "Due to scattering"
+        ],
+        "hindi": [
+          "बहु परावर्तन के कारण",
+          "अपवर्तन के कारण",
+          "विवर्तन के कारण",
+          "प्रकीर्णन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of reflection occurs from a rough surface?",
+        "hindi": "खुरदरी सतह से किस प्रकार का परावर्तन होता है?"
+      },
+      "option": {
+        "english": [
+          "Regular reflection",
+          "Irregular reflection",
+          "Total internal reflection",
+          "Multiple reflection"
+        ],
+        "hindi": [
+          "नियमित परावर्तन",
+          "अनियमित परावर्तन",
+          "पूर्ण आंतरिक परावर्तन",
+          "बहु परावर्तन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 15 cm. Calculate the image distance if object is at 30 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 15 सेमी है। यदि वस्तु 30 सेमी पर है तो प्रतिबिंब दूरी की गणना करें।"
+      },
+      "option": {
+        "english": [
+          "30 cm",
+          "45 cm",
+          "15 cm",
+          "60 cm"
+        ],
+        "hindi": [
+          "30 सेमी",
+          "45 सेमी",
+          "15 सेमी",
+          "60 सेमी"
+        ]
+      },
+      "answer": 0,
+      "explanation": "Using 1/f = 1/u + 1/v, 1/15 = 1/30 + 1/v, v = 30 cm",
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If magnification is -2 and image distance is 40 cm, what is the object distance?",
+        "hindi": "यदि आवर्धन -2 है और प्रतिबिंब दूरी 40 सेमी है, तो वस्तु दूरी क्या है?"
+      },
+      "option": {
+        "english": [
+          "80 cm",
+          "20 cm",
+          "-20 cm",
+          "-80 cm"
+        ],
+        "hindi": [
+          "80 सेमी",
+          "20 सेमी",
+          "-20 सेमी",
+          "-80 सेमी"
+        ]
+      },
+      "answer": 1,
+      "explanation": "Using m = -v/u, -2 = -40/u, u = 20 cm",
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the position and nature of image formed by the given ray diagram:",
+        "hindi": "दिए गए किरण आरेख द्वारा बने प्रतिबिंब की स्थिति और प्रकृति की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Real, inverted, beyond C",
+          "Virtual, erect, behind mirror",
+          "Real, inverted, at C",
+          "Real, inverted, between F and C"
+        ],
+        "hindi": [
+          "वास्तविक, उल्टा, C से परे",
+          "आभासी, सीधा, दर्पण के पीछे",
+          "वास्तविक, उल्टा, C पर",
+          "वास्तविक, उल्टा, F और C के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2' fill='black'/><text x='95' y='70'>F</text><circle cx='150' cy='75' r='2' fill='black'/><text x='145' y='70'>C</text><line x1='200' y1='50' x2='200' y2='75' stroke='blue'/><line x1='250' y1='100' x2='250' y2='75' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For the given periscope arrangement, find the final direction of ray:",
+        "hindi": "दिए गए पेरिस्कोप व्यवस्था के लिए, किरण की अंतिम दिशा ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "Parallel to incident ray",
+          "Perpendicular to incident ray",
+          "45° to incident ray",
+          "Opposite to incident ray"
+        ],
+        "hindi": [
+          "आपतित किरण के समानांतर",
+          "आपतित किरण के लंबवत",
+          "आपतित किरण से 45°",
+          "आपतित किरण के विपरीत"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='150' y2='50' stroke='black'/><line x1='150' y1='50' x2='150' y2='150' stroke='black'/><line x1='150' y1='150' x2='250' y2='150' stroke='black'/><line x1='75' y1='25' x2='150' y2='50' stroke='blue'/><line x1='150' y1='50' x2='150' y2='150' stroke='red'/><line x1='150' y1='150' x2='225' y2='175' stroke='green'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In the given combination of mirrors, trace the path of light ray:",
+        "hindi": "दर्पणों के दिए गए संयोजन में, प्रकाश किरण का पथ ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "Path A",
+          "Path B",
+          "Path C",
+          "Path D"
+        ],
+        "hindi": [
+          "पथ A",
+          "पथ B",
+          "पथ C",
+          "पथ D"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='25' x2='50' y2='125' stroke='black'/><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='75' y1='50' x2='125' y2='50' stroke='blue'/><line x1='125' y1='50' x2='125' y2='100' stroke='red'/><line x1='125' y1='100' x2='75' y2='100' stroke='green'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A dentist's mirror forms an enlarged image of a tooth. The mirror must be:",
+        "hindi": "दंत चिकित्सक का दर्पण दांत का बड़ा प्रतिबिंब बनाता है। दर्पण होना चाहिए:"
+      },
+      "option": {
+        "english": [
+          "Concave, object between F and C",
+          "Convex, object at any position",
+          "Concave, object beyond C",
+          "Concave, object within F"
+        ],
+        "hindi": [
+          "अवतल, वस्तु F और C के बीच",
+          "उत्तल, वस्तु किसी भी स्थिति पर",
+          "अवतल, वस्तु C से परे",
+          "अवतल, वस्तु F के भीतर"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a solar cooker, the reflecting surface used is:",
+        "hindi": "सौर कुकर में प्रयुक्त परावर्तक सतह है:"
+      },
+      "option": {
+        "english": [
+          "Plane mirror",
+          "Convex mirror",
+          "Concave mirror",
+          "Combination of mirrors"
+        ],
+        "hindi": [
+          "समतल दर्पण",
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "दर्पणों का संयोजन"
+        ]
+      },
+      "answer": 2,
+      "explanation": "Concave mirror concentrates sunlight at focus",
+      "image": null,
+      "medium": "hard"
+    }
+  ]

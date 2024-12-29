@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which group elements are called alkali metals?",
+        "hindi": "किस समूह के तत्वों को क्षार धातु कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Group 1",
+          "Group 2",
+          "Group 17",
+          "Group 18"
+        ],
+        "hindi": [
+          "समूह 1",
+          "समूह 2",
+          "समूह 17",
+          "समूह 18"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the electronic configuration of Nitrogen (Z=7)?",
+        "hindi": "नाइट्रोजन का इलेक्ट्रॉनिक विन्यास क्या है (Z=7)?"
+      },
+      "option": {
+        "english": [
+          "2,5",
+          "2,8",
+          "2,3",
+          "2,4"
+        ],
+        "hindi": [
+          "2,5",
+          "2,8",
+          "2,3",
+          "2,4"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element shows amphoteric nature?",
+        "hindi": "कौन सा तत्व उभयधर्मी प्रकृति दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Chlorine",
+          "Magnesium",
+          "Aluminum"
+        ],
+        "hindi": [
+          "सोडियम",
+          "क्लोरीन",
+          "मैग्नीशियम",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the trend of metallic character in a group?",
+        "hindi": "एक समूह में धात्विक गुण की प्रवृत्ति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Decreases",
+          "No change",
+          "Increases",
+          "First increases then decreases"
+        ],
+        "hindi": [
+          "घटती है",
+          "कोई परिवर्तन नहीं",
+          "बढ़ती है",
+          "पहले बढ़ती फिर घटती है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which block contains lanthanoids?",
+        "hindi": "लैंथेनाइड किस ब्लॉक में होते हैं?"
+      },
+      "option": {
+        "english": [
+          "f-block",
+          "d-block",
+          "p-block",
+          "s-block"
+        ],
+        "hindi": [
+          "f-ब्लॉक",
+          "d-ब्लॉक",
+          "p-ब्लॉक",
+          "s-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do transition elements show catalytic activity?",
+        "hindi": "संक्रमण तत्व उत्प्रेरक क्रिया क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to size",
+          "Due to mass",
+          "Due to charge",
+          "Due to variable oxidation states"
+        ],
+        "hindi": [
+          "आकार के कारण",
+          "द्रव्यमान के कारण",
+          "आवेश के कारण",
+          "परिवर्तनशील ऑक्सीकरण अवस्था के कारण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes diagonal relationship?",
+        "hindi": "विकर्ण संबंध का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Similar properties",
+          "Similar size",
+          "Similar mass",
+          "Similar charge"
+        ],
+        "hindi": [
+          "समान गुण",
+          "समान आकार",
+          "समान द्रव्यमान",
+          "समान आवेश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which effect causes gold's yellow color?",
+        "hindi": "सोने का पीला रंग किस प्रभाव के कारण होता है?"
+      },
+      "option": {
+        "english": [
+          "s-s transition",
+          "p-p transition",
+          "d-s transition",
+          "f-f transition"
+        ],
+        "hindi": [
+          "s-s संक्रमण",
+          "p-p संक्रमण",
+          "d-s संक्रमण",
+          "f-f संक्रमण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which quantum number determines orbital orientation?",
+        "hindi": "कौन सी क्वांटम संख्या कक्षक अभिविन्यास निर्धारित करती है?"
+      },
+      "option": {
+        "english": [
+          "Magnetic",
+          "Principal",
+          "Azimuthal",
+          "Spin"
+        ],
+        "hindi": [
+          "चुंबकीय",
+          "मुख्य",
+          "कोणीय",
+          "चक्रण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes actinoid contraction?",
+        "hindi": "एक्टिनॉइड संकुचन का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "d orbital filling",
+          "p orbital filling",
+          "s orbital filling",
+          "f orbital filling"
+        ],
+        "hindi": [
+          "d कक्षक भरण",
+          "p कक्षक भरण",
+          "s कक्षक भरण",
+          "f कक्षक भरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

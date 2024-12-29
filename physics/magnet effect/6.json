@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is an electric generator?",
+        "hindi": "विद्युत जनरेटर क्या है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage device",
+          "Heat producing device",
+          "Mechanical to electrical converter",
+          "Light producing device"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रहण उपकरण",
+          "ऊष्मा उत्पादक उपकरण",
+          "यांत्रिक से विद्युत परिवर्तक",
+          "प्रकाश उत्पादक उपकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which principle is used in electric generator?",
+        "hindi": "विद्युत जनरेटर में किस सिद्धांत का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Coulomb's law",
+          "Ohm's law",
+          "Electromagnetic induction",
+          "Newton's law"
+        ],
+        "hindi": [
+          "कूलाम का नियम",
+          "ओम का नियम",
+          "विद्युत चुंबकीय प्रेरण",
+          "न्यूटन का नियम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of current is produced by AC generator?",
+        "hindi": "AC जनरेटर द्वारा किस प्रकार की धारा उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "Direct current",
+          "No current",
+          "Alternating current",
+          "Static current"
+        ],
+        "hindi": [
+          "दिष्ट धारा",
+          "कोई धारा नहीं",
+          "प्रत्यावर्ती धारा",
+          "स्थैतिक धारा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of slip rings in AC generator?",
+        "hindi": "AC जनरेटर में स्लिप रिंग का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Increase speed",
+          "Reduce friction",
+          "Collect current",
+          "Generate heat"
+        ],
+        "hindi": [
+          "गति बढ़ाना",
+          "घर्षण कम करना",
+          "धारा एकत्र करना",
+          "ऊष्मा उत्पन्न करना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of brushes in generator?",
+        "hindi": "जनरेटर में ब्रश की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Cleaning",
+          "Cooling",
+          "Current collection",
+          "Speed control"
+        ],
+        "hindi": [
+          "सफाई",
+          "शीतलन",
+          "धारा संग्रहण",
+          "गति नियंत्रण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does armature rotation affect current generation?",
+        "hindi": "आर्मेचर का घूर्णन धारा उत्पादन को कैसे प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Determines frequency",
+          "Reduces current",
+          "Stops generation"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "आवृत्ति निर्धारित करता है",
+          "धारा कम करता है",
+          "उत्पादन रोकता है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M150,35 L150,115' stroke='black'/><path d='M130,75 L170,75' stroke='black'/><path d='M150,75 C180,75 180,45 150,45' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to EMF when coil rotation speed increases?",
+        "hindi": "कुंडली की घूर्णन गति बढ़ने पर विद्युत वाहक बल का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Decreases",
+          "Increases",
+          "Remains same",
+          "Becomes zero"
+        ],
+        "hindi": [
+          "घटता है",
+          "बढ़ता है",
+          "समान रहता है",
+          "शून्य हो जाता है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='100' height='50' stroke='black' fill='none'/><path d='M150,50 L150,25' stroke='red'/><path d='M150,100 L150,125' stroke='red'/><circle cx='150' cy='75' r='5' fill='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does magnetic field strength affect generator output?",
+        "hindi": "चुंबकीय क्षेत्र की तीव्रता जनरेटर के आउटपुट को कैसे प्रभावित करती है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Inverse relation",
+          "Random effect",
+          "Direct relation"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "व्युत्क्रम संबंध",
+          "यादृच्छिक प्रभाव",
+          "सीधा संबंध"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><path d='M150,25 L150,125' stroke='blue'/><path d='M140,75 L160,75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is AC generator more commonly used than DC generator?",
+        "hindi": "DC जनरेटर की तुलना में AC जनरेटर का उपयोग अधिक क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "Easier to make",
+          "Less expensive",
+          "More efficient transmission",
+          "Simpler design"
+        ],
+        "hindi": [
+          "बनाने में आसान",
+          "कम खर्चीला",
+          "अधिक कुशल प्रेषण",
+          "सरल डिजाइन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main difference between AC and DC generators?",
+        "hindi": "AC और DC जनरेटर में मुख्य अंतर क्या है?"
+      },
+      "option": {
+        "english": [
+          "Size",
+          "Cost",
+          "Slip ring vs commutator",
+          "Speed"
+        ],
+        "hindi": [
+          "आकार",
+          "लागत",
+          "स्लिप रिंग बनाम दिक्परिवर्तक",
+          "गति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

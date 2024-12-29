@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gland is known as the third eye?",
+        "hindi": "किस ग्रंथि को तीसरी आंख कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pineal",
+          "Pituitary",
+          "Thyroid",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पीनियल",
+          "पीयूष",
+          "थायरॉइड",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone triggers childbirth?",
+        "hindi": "कौन सा हार्मोन प्रसव को प्रेरित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Oxytocin",
+          "Progesterone",
+          "Prolactin"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "ऑक्सीटोसिन",
+          "प्रोजेस्टेरोन",
+          "प्रोलैक्टिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of cerebrospinal fluid?",
+        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Blood filtration",
+          "Waste removal",
+          "Shock absorption"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "रक्त छानना",
+          "अपशिष्ट निष्कासन",
+          "आघात अवशोषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain processes hearing?",
+        "hindi": "मस्तिष्क का कौन सा भाग श्रवण को संसाधित करता है?"
+      },
+      "option": {
+        "english": [
+          "Frontal lobe",
+          "Parietal lobe",
+          "Temporal lobe",
+          "Occipital lobe"
+        ],
+        "hindi": [
+          "ललाट पालि",
+          "पार्श्व पालि",
+          "कनपटी पालि",
+          "पश्चकपाल पालि"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces thymosin?",
+        "hindi": "कौन सी ग्रंथि थाइमोसिन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Thymus",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "थाइमस",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during action potential?",
+        "hindi": "क्रिया विभव के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Glucose breakdown",
+          "Protein synthesis",
+          "Hormone release",
+          "Ion exchange"
+        ],
+        "hindi": [
+          "ग्लूकोज विघटन",
+          "प्रोटीन संश्लेषण",
+          "हार्मोन स्राव",
+          "आयन विनिमय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls metamorphosis in amphibians?",
+        "hindi": "कौन सा हार्मोन उभयचरों में कायांतरण को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Thyroxine",
+          "Growth hormone",
+          "Adrenaline"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन",
+          "एड्रेनालिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which part controls circadian rhythm?",
+        "hindi": "कौन सा भाग सर्केडियन लय को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Suprachiasmatic nucleus",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सुप्राकाइज्मैटिक नाभिक",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland is called the endocrine pancreas?",
+        "hindi": "किस ग्रंथि को अंतःस्रावी अग्न्याशय कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Islets of Langerhans",
+          "Acini",
+          "Beta cells",
+          "Alpha cells"
+        ],
+        "hindi": [
+          "लैंगरहैंस की द्वीपिकाएं",
+          "एसिनी",
+          "बीटा कोशिकाएं",
+          "अल्फा कोशिकाएं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of glial cells?",
+        "hindi": "तंत्रिका बंधक कोशिकाओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Signal transmission",
+          "Hormone production",
+          "Energy storage",
+          "Support neurons"
+        ],
+        "hindi": [
+          "संकेत संचरण",
+          "हार्मोन उत्पादन",
+          "ऊर्जा भंडारण",
+          "न्यूरॉन्स का समर्थन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

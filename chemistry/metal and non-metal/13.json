@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What happens when a metal oxide reacts with water?",
+        "hindi": "धातु ऑक्साइड जल से अभिक्रिया करके क्या बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Salt",
+          "Metal hydroxide",
+          "Metal",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "लवण",
+          "धातु हाइड्रॉक्साइड",
+          "धातु",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why are metals good conductors of heat?",
+        "hindi": "धातुएं ऊष्मा की अच्छी चालक क्यों होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to protons",
+          "Due to neutrons",
+          "Due to molecules",
+          "Due to free electrons"
+        ],
+        "hindi": [
+          "प्रोटॉन के कारण",
+          "न्यूट्रॉन के कारण",
+          "अणुओं के कारण",
+          "मुक्त इलेक्ट्रॉन के कारण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when metals react with acids?",
+        "hindi": "धातुएं अम्लों से अभिक्रिया करके क्या बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Base and water",
+          "Oxide and water",
+          "Salt and hydrogen",
+          "Only salt"
+        ],
+        "hindi": [
+          "क्षार और जल",
+          "ऑक्साइड और जल",
+          "लवण और हाइड्रोजन",
+          "केवल लवण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making fuse wire?",
+        "hindi": "फ्यूज तार बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Tin-lead alloy",
+          "Copper",
+          "Iron",
+          "Aluminum"
+        ],
+        "hindi": [
+          "टिन-लेड मिश्रधातु",
+          "तांबा",
+          "लोहा",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical name of plaster of Paris?",
+        "hindi": "प्लास्टर ऑफ पेरिस का रासायनिक नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "CaSO₄",
+          "CaSO₄.2H₂O",
+          "CaSO₄.½H₂O",
+          "CaCO₃"
+        ],
+        "hindi": [
+          "CaSO₄",
+          "CaSO₄.2H₂O",
+          "CaSO₄.½H₂O",
+          "CaCO₃"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of adding phosphorus to steel?",
+        "hindi": "स्टील में फॉस्फोरस मिलाने का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Increase softness",
+          "Decrease hardness",
+          "Increase hardness",
+          "No effect"
+        ],
+        "hindi": [
+          "नरमी बढ़ाने के लिए",
+          "कठोरता घटाने के लिए",
+          "कठोरता बढ़ाने के लिए",
+          "कोई प्रभाव नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of zinc in galvanization?",
+        "hindi": "जस्तीकरण में जस्ते की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Reducing agent",
+          "Oxidizing agent",
+          "Protective coating"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "अपचायक",
+          "ऑक्सीकारक",
+          "सुरक्षात्मक परत"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when metals react with steam?",
+        "hindi": "धातुएं भाप से अभिक्रिया करके कौन सी गैस बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is sodium kept in kerosene?",
+        "hindi": "सोडियम को केरोसीन में क्यों रखा जाता है?"
+      },
+      "option": {
+        "english": [
+          "To keep it clean",
+          "To prevent reaction",
+          "To keep it soft",
+          "To reduce cost"
+        ],
+        "hindi": [
+          "साफ रखने के लिए",
+          "अभिक्रिया रोकने के लिए",
+          "नरम रखने के लिए",
+          "लागत कम करने के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of bauxite in aluminum extraction?",
+        "hindi": "एल्युमिनियम निष्कर्षण में बॉक्साइट का क्या कार्य होता है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Flux",
+          "Ore",
+          "Reducing agent"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "गालक",
+          "अयस्क",
+          "अपचायक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

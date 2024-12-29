@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used as a preservative in pickles?",
+        "hindi": "अचार में परिरक्षक के रूप में इनमें से किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Ethanol",
+          "Vinegar",
+          "Methanol",
+          "Propanol"
+        ],
+        "hindi": [
+          "एथेनॉल",
+          "सिरका",
+          "मेथेनॉल",
+          "प्रोपेनॉल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanoic acid reacts with washing soda?",
+        "hindi": "एथेनोइक अम्ल धावन सोडा से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Forms salt only",
+          "Forms water only",
+          "Forms salt and CO₂"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "केवल लवण बनता है",
+          "केवल जल बनता है",
+          "लवण और CO₂ बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these shows the property of catenation most?",
+        "hindi": "इनमें से कौन श्रृंखलन का गुण सबसे अधिक दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Nitrogen",
+          "Oxygen",
+          "Carbon",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "नाइट्रोजन",
+          "ऑक्सीजन",
+          "कार्बन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the simplest alkene?",
+        "hindi": "सबसे सरल एल्कीन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Ethene",
+          "Methane",
+          "Ethane",
+          "Propene"
+        ],
+        "hindi": [
+          "एथीन",
+          "मीथेन",
+          "एथेन",
+          "प्रोपीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which functional group is present in ketones?",
+        "hindi": "कीटोन में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "-CHO",
+          ">C=O",
+          "-OH",
+          "-COOH"
+        ],
+        "hindi": [
+          "-CHO",
+          ">C=O",
+          "-OH",
+          "-COOH"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What type of bond is present in ethene?",
+        "hindi": "एथीन में किस प्रकार का बंध पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Single bond",
+          "Triple bond",
+          "Double bond",
+          "Coordinate bond"
+        ],
+        "hindi": [
+          "एकल बंध",
+          "त्रिबंध",
+          "द्विबंध",
+          "सहसंयोजी बंध"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of soap solution on litmus paper?",
+        "hindi": "साबुन के घोल का लिटमस पत्र पर क्या प्रभाव होता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Turns red litmus blue",
+          "Turns blue litmus red",
+          "Changes color of both"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "लाल लिटमस को नीला करता है",
+          "नीले लिटमस को लाल करता है",
+          "दोनों का रंग बदलता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the source of methane gas in biogas?",
+        "hindi": "बायोगैस में मीथेन गैस का स्रोत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Bacterial decomposition",
+          "Chemical reaction",
+          "Physical process",
+          "Photosynthesis"
+        ],
+        "hindi": [
+          "जीवाणु अपघटन",
+          "रासायनिक अभिक्रिया",
+          "भौतिक प्रक्रिया",
+          "प्रकाश संश्लेषण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does micelle formation take place in soap solution?",
+        "hindi": "साबुन के घोल में मिसेल निर्माण क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "Due to hydrophilic end",
+          "Due to hydrophobic end",
+          "Due to both ends",
+          "Due to neither end"
+        ],
+        "hindi": [
+          "जलस्नेही सिरे के कारण",
+          "जलविकर्षी सिरे के कारण",
+          "दोनों सिरों के कारण",
+          "किसी भी सिरे के कारण नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What determines the acidic strength of carboxylic acids?",
+        "hindi": "कार्बोक्सिलिक अम्लों की अम्लीय प्रबलता किस पर निर्भर करती है?"
+      },
+      "option": {
+        "english": [
+          "Size of molecule",
+          "Number of carbons",
+          "Ionization of -COOH",
+          "Boiling point"
+        ],
+        "hindi": [
+          "अणु का आकार",
+          "कार्बन की संख्या",
+          "-COOH का आयनीकरण",
+          "क्वथनांक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

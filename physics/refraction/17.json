@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Why does Fata Morgana show multiple images?",
+        "hindi": "फाटा मोरगाना बहु प्रतिबिंब क्यों दिखाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple temperature inversion layers",
+          "Single temperature layer",
+          "Pressure effect only",
+          "Wind effect only"
+        ],
+        "hindi": [
+          "बहु तापमान उत्क्रमण परतें",
+          "एकल तापमान परत",
+          "केवल दाब प्रभाव",
+          "केवल वायु प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do photonic crystal fibers show unique dispersion?",
+        "hindi": "प्रकाशिक क्रिस्टल तंतु अद्वितीय विक्षेपण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Periodic refractive index structure",
+          "Core material only",
+          "Cladding material only",
+          "Fiber length"
+        ],
+        "hindi": [
+          "आवर्ती अपवर्तनांक संरचना",
+          "केवल क्रोड पदार्थ",
+          "केवल आवरण पदार्थ",
+          "तंतु की लंबाई"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does field curvature depend on lens shape?",
+        "hindi": "क्षेत्र वक्रता लेंस के आकार पर क्यों निर्भर करती है?"
+      },
+      "option": {
+        "english": [
+          "Different sagittal focusing",
+          "Light intensity",
+          "Temperature effect",
+          "Pressure change"
+        ],
+        "hindi": [
+          "विभिन्न जीवा फोकसन",
+          "प्रकाश की तीव्रता",
+          "तापमान प्रभाव",
+          "दाब परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Eleven media with refractive indices following Padovan sequence (first three=1.2,1.2,1.4). If i₁=60°, final angle is:",
+        "hindi": "ग्यारह माध्यम जिनके अपवर्तनांक पैडोवन श्रेढ़ी का अनुसरण करते हैं (पहले तीन=1.2,1.2,1.4)। यदि i₁=60° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "14.2°",
+          "16°",
+          "12°",
+          "18°"
+        ],
+        "hindi": [
+          "14.2°",
+          "16°",
+          "12°",
+          "18°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope, if angular magnification varies as hyperbolic function of separation, the relationship is:",
+        "hindi": "एक दूरबीन में, यदि कोणीय आवर्धन पृथक्करण के अतिपरवलयिक फलन के रूप में बदलता है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m = k cosh(d)",
+          "m = k sinh(d)",
+          "m = k tanh(d)",
+          "m = k sech(d)"
+        ],
+        "hindi": [
+          "m = k cosh(d)",
+          "m = k sinh(d)",
+          "m = k tanh(d)",
+          "m = k sech(d)"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Kern arc?",
+        "hindi": "कौन सा किरण आरेख केर्न चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Pyramidal crystal refraction",
+          "Simple refraction",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "पिरामिडी क्रिस्टल अपवर्तन",
+          "सरल अपवर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M150,25 L100,125 L200,125 Z' stroke='black' fill='none'/><path d='M50,75 L250,75' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Moilanen arc?",
+        "hindi": "कौन सा किरण आरेख मोइलानेन चाप का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Plate-column combination",
+          "Simple plate",
+          "Simple column",
+          "Random crystal"
+        ],
+        "hindi": [
+          "प्लेट-स्तंभ संयोजन",
+          "सरल प्लेट",
+          "सरल स्तंभ",
+          "यादृच्छिक क्रिस्टल"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='125' y='50' width='50' height='10' stroke='black' fill='none'/><line x1='150' y1='60' x2='150' y2='100' stroke='black'/><path d='M100,75 Q150,25 200,75' stroke='red' fill='none'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of Minnaert's cigar?",
+        "hindi": "कौन सा किरण आरेख मिनार्ट की सिगार का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Multiple scattering pattern",
+          "Single scattering",
+          "Simple reflection",
+          "No scattering"
+        ],
+        "hindi": [
+          "बहु प्रकीर्णन प्रतिरूप",
+          "एकल प्रकीर्णन",
+          "सरल परावर्तन",
+          "कोई प्रकीर्णन नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><ellipse cx='150' cy='75' rx='100' ry='20' stroke='black' fill='none'/><path d='M50,75 C150,55 150,95 250,75' stroke='red'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Eleven thin lenses of powers forming Tribonacci sequence (first three=+3D,+4D,+5D) are separated by 5cm each. Net power is:",
+        "hindi": "ग्यारह पतले लेंस जिनकी क्षमताएं त्रिबोनाची श्रेढ़ी बनाती हैं (पहले तीन=+3D,+4D,+5D), 5सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+15.8D",
+          "+14D",
+          "+16D",
+          "+17D"
+        ],
+        "hindi": [
+          "+15.8D",
+          "+14D",
+          "+16D",
+          "+17D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with eight stages, if tube length is 18cm and magnification is 20000, sum of focal lengths (in mm) is:",
+        "hindi": "आठ चरण वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 18सेमी और आवर्धन 20000 है, तो फोकस दूरियों का योग (मिमी में) है:"
+      },
+      "option": {
+        "english": [
+          "27",
+          "30",
+          "25",
+          "32"
+        ],
+        "hindi": [
+          "27",
+          "30",
+          "25",
+          "32"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of uterus?",
+        "hindi": "गर्भाशय का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store eggs",
+          "Filter blood",
+          "Host embryo",
+          "Produce hormones"
+        ],
+        "hindi": [
+          "अंडे संग्रह",
+          "रक्त छानना",
+          "भ्रूण की मेजबानी",
+          "हार्मोन उत्पादन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone maintains uterine lining?",
+        "hindi": "कौन सा हार्मोन गर्भाशय की परत को बनाए रखता है?"
+      },
+      "option": {
+        "english": [
+          "Progesterone",
+          "Estrogen",
+          "FSH",
+          "LH"
+        ],
+        "hindi": [
+          "प्रोजेस्टेरोन",
+          "एस्ट्रोजन",
+          "FSH",
+          "LH"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of sperm mitochondria?",
+        "hindi": "शुक्राणु माइटोकॉन्ड्रिया की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "DNA storage",
+          "Energy production",
+          "Movement",
+          "Enzyme release"
+        ],
+        "hindi": [
+          "DNA संग्रह",
+          "ऊर्जा उत्पादन",
+          "गति",
+          "एंजाइम स्राव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of allantois?",
+        "hindi": "अलैंटॉइस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Nutrient storage",
+          "Hormone production",
+          "Waste storage",
+          "Gas exchange"
+        ],
+        "hindi": [
+          "पोषक तत्व संग्रह",
+          "हार्मोन उत्पादन",
+          "अपशिष्ट संग्रह",
+          "गैस विनिमय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of Leydig cells?",
+        "hindi": "लीडिग कोशिकाओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Sperm storage",
+          "Sperm transport",
+          "Testosterone production",
+          "Sperm nutrition"
+        ],
+        "hindi": [
+          "शुक्राणु संग्रह",
+          "शुक्राणु परिवहन",
+          "टेस्टोस्टेरोन उत्पादन",
+          "शुक्राणु पोषण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes menopause?",
+        "hindi": "रजोनिवृत्ति का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "High FSH",
+          "Low estrogen",
+          "High LH",
+          "High progesterone"
+        ],
+        "hindi": [
+          "उच्च FSH",
+          "कम एस्ट्रोजन",
+          "उच्च LH",
+          "उच्च प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of cervical mucus?",
+        "hindi": "सर्विकल म्यूकस का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Help sperm movement",
+          "Block bacteria",
+          "Produce hormones",
+          "Store nutrients"
+        ],
+        "hindi": [
+          "शुक्राणु गति में मदद",
+          "बैक्टीरिया रोकना",
+          "हार्मोन उत्पादन",
+          "पोषक तत्व संग्रह"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of cumulus cells?",
+        "hindi": "क्यूमुलस कोशिकाओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Waste removal",
+          "Egg protection",
+          "Sperm guidance"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "अंडे की सुरक्षा",
+          "शुक्राणु मार्गदर्शन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of decidua?",
+        "hindi": "डेसीड्युआ का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone storage",
+          "Nutrient transport",
+          "Embryo support",
+          "Waste removal"
+        ],
+        "hindi": [
+          "हार्मोन संग्रह",
+          "पोषक तत्व परिवहन",
+          "भ्रूण सहायता",
+          "अपशिष्ट निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes milk production to stop?",
+        "hindi": "दूध उत्पादन रुकने का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "High oxytocin",
+          "Low prolactin",
+          "High estrogen",
+          "High progesterone"
+        ],
+        "hindi": [
+          "उच्च ऑक्सीटोसिन",
+          "कम प्रोलैक्टिन",
+          "उच्च एस्ट्रोजन",
+          "उच्च प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

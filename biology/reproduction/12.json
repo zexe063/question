@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What controls the timing of puberty?",
+        "hindi": "यौवन की टाइमिंग को क्या नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Diet",
+          "Exercise",
+          "Environment",
+          "Hormones"
+        ],
+        "hindi": [
+          "आहार",
+          "व्यायाम",
+          "वातावरण",
+          "हार्मोन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of the myometrium?",
+        "hindi": "मायोमेट्रियम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Nutrient supply",
+          "Uterine contraction",
+          "Blood filtration"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "पोषक तत्व आपूर्ति",
+          "गर्भाशय संकुचन",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces prolactin?",
+        "hindi": "प्रोलैक्टिन किस ग्रंथि से बनता है?"
+      },
+      "option": {
+        "english": [
+          "Pituitary",
+          "Thyroid",
+          "Adrenal",
+          "Pancreas"
+        ],
+        "hindi": [
+          "पीयूष",
+          "थायरॉइड",
+          "एड्रेनल",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of progesterone?",
+        "hindi": "प्रोजेस्टेरोन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Trigger ovulation",
+          "Maintain pregnancy",
+          "Produce milk",
+          "Start puberty"
+        ],
+        "hindi": [
+          "अंडोत्सर्जन प्रेरित करना",
+          "गर्भावस्था बनाए रखना",
+          "दूध उत्पादन",
+          "यौवन शुरू करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes identical twins?",
+        "hindi": "समान जुड़वाँ कैसे बनते हैं?"
+      },
+      "option": {
+        "english": [
+          "Multiple eggs",
+          "Multiple sperms",
+          "One sperm",
+          "Split embryo"
+        ],
+        "hindi": [
+          "कई अंडे",
+          "कई शुक्राणु",
+          "एक शुक्राणु",
+          "विभाजित भ्रूण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which vitamin helps in calcium absorption during pregnancy?",
+        "hindi": "गर्भावस्था में कैल्शियम अवशोषण में कौन सा विटामिन मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Vitamin D",
+          "Vitamin C",
+          "Vitamin A",
+          "Vitamin K"
+        ],
+        "hindi": [
+          "विटामिन D",
+          "विटामिन C",
+          "विटामिन A",
+          "विटामिन K"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of the umbilical cord?",
+        "hindi": "नाभि नाल का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Waste removal",
+          "Nutrient transport",
+          "Gas exchange"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "पोषक तत्व परिवहन",
+          "गैस विनिमय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What stimulates milk production?",
+        "hindi": "दूध उत्पादन को क्या उत्तेजित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Prolactin",
+          "Progesterone",
+          "Oxytocin"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "प्रोलैक्टिन",
+          "प्रोजेस्टेरोन",
+          "ऑक्सीटोसिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of the placenta?",
+        "hindi": "प्लेसेंटा की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store nutrients",
+          "Filter waste",
+          "Produce milk",
+          "Exchange materials"
+        ],
+        "hindi": [
+          "पोषक तत्व संग्रह",
+          "अपशिष्ट छानना",
+          "दूध उत्पादन",
+          "पदार्थों का आदान-प्रदान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mineral is most important during pregnancy?",
+        "hindi": "गर्भावस्था में कौन सा खनिज सबसे महत्वपूर्ण है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Zinc",
+          "Copper",
+          "Magnesium"
+        ],
+        "hindi": [
+          "लोहा",
+          "जस्ता",
+          "तांबा",
+          "मैग्नीशियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

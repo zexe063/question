@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Which part of brain controls memory and learning?",
+        "hindi": "मस्तिष्क का कौन सा भाग स्मृति और सीखने को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebrum",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेब्रम",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes calcitonin?",
+        "hindi": "कौन सी ग्रंथि कैल्सीटोनिन स्रावित करती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Parathyroid"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "पैराथायरॉइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone regulates calcium metabolism?",
+        "hindi": "कौन सा हार्मोन कैल्शियम चयापचय को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Parathormone",
+          "Thyroxine",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "पैराथोरमोन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of neurotransmitters?",
+        "hindi": "न्यूरोट्रांसमीटर का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Filter blood",
+          "Produce hormones",
+          "Signal transmission"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "रक्त छानना",
+          "हार्मोन उत्पादन",
+          "संकेत संचरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain controls blood pressure?",
+        "hindi": "मस्तिष्क का कौन सा भाग रक्तचाप को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Pons",
+          "Cerebrum",
+          "Medulla oblongata",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "पोंस",
+          "सेरेब्रम",
+          "मेडुला ऑबलोंगाटा",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is called antidiuretic hormone?",
+        "hindi": "किस हार्मोन को प्रतिमूत्रल हार्मोन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Vasopressin",
+          "Thyroxine",
+          "Cortisol"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "वैसोप्रेसिन",
+          "थायरॉक्सिन",
+          "कॉर्टिसोल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gland produces epinephrine?",
+        "hindi": "कौन सी ग्रंथि एपिनेफ्रिन का उत्पादन करती है?"
+      },
+      "option": {
+        "english": [
+          "Adrenal",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "एड्रेनल",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of acetylcholine in synapses?",
+        "hindi": "सिनैप्स में एसिटिलकोलीन की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Hormone production",
+          "Waste removal",
+          "Signal transmission"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "हार्मोन उत्पादन",
+          "अपशिष्ट निष्कासन",
+          "संकेत संचरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which part of neuron conducts impulses away from cell body?",
+        "hindi": "न्यूरॉन का कौन सा भाग कोशिका काय से आवेग को दूर ले जाता है?"
+      },
+      "option": {
+        "english": [
+          "Dendrites",
+          "Cell body",
+          "Axon",
+          "Synapse"
+        ],
+        "hindi": [
+          "डेंड्राइट्स",
+          "कोशिका काय",
+          "एक्सॉन",
+          "सिनैप्स"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone deficiency causes diabetes insipidus?",
+        "hindi": "किस हार्मोन की कमी से डायबिटीज इनसिपिडस होता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Vasopressin",
+          "Thyroxine",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "वैसोप्रेसिन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

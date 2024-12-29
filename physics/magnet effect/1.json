@@ -1,0 +1,210 @@
+
+[
+    {
+      "question_name": {
+        "english": "Which scientist first discovered the relationship between electricity and magnetism?",
+        "hindi": "किस वैज्ञानिक ने सबसे पहले विद्युत और चुंबकत्व के बीच संबंध की खोज की?"
+      },
+      "option": {
+        "english": [
+          "Faraday",
+          "Maxwell",
+          "Oersted",
+          "Newton"
+        ],
+        "hindi": [
+          "फैराडे",
+          "मैक्सवेल",
+          "ऑरस्टेड",
+          "न्यूटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of magnetic field lines?",
+        "hindi": "चुंबकीय क्षेत्र रेखाओं की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Continuous closed curves",
+          "Open ended lines",
+          "Straight lines",
+          "Broken lines"
+        ],
+        "hindi": [
+          "सतत बंद वक्र",
+          "खुली रेखाएं",
+          "सीधी रेखाएं",
+          "टूटी हुई रेखाएं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Magnetic field lines emerge from which pole of a magnet?",
+        "hindi": "चुंबकीय क्षेत्र रेखाएं चुंबक के किस ध्रुव से निकलती हैं?"
+      },
+      "option": {
+        "english": [
+          "Both poles",
+          "South pole",
+          "No pole",
+          "North pole"
+        ],
+        "hindi": [
+          "दोनों ध्रुवों से",
+          "दक्षिणी ध्रुव से",
+          "किसी ध्रुव से नहीं",
+          "उत्तरी ध्रुव से"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens to magnetic field strength when current is doubled?",
+        "hindi": "धारा दोगुनी करने पर चुंबकीय क्षेत्र की तीव्रता क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Remains same",
+          "Doubles",
+          "Becomes half",
+          "Becomes zero"
+        ],
+        "hindi": [
+          "समान रहती है",
+          "दोगुनी हो जाती है",
+          "आधी हो जाती है",
+          "शून्य हो जाती है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What determines the direction of magnetic field around a conductor?",
+        "hindi": "चालक के चारों ओर चुंबकीय क्षेत्र की दिशा किस पर निर्भर करती है?"
+      },
+      "option": {
+        "english": [
+          "Conductor material",
+          "Temperature",
+          "Current direction",
+          "Conductor length"
+        ],
+        "hindi": [
+          "चालक का पदार्थ",
+          "तापमान",
+          "धारा की दिशा",
+          "चालक की लंबाई"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black' stroke-width='2'/><path d='M150,75 L170,65 M150,75 L170,85' stroke='red'/><circle cx='150' cy='75' r='30' stroke='blue' fill='none' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What pattern do iron filings form around a straight current-carrying conductor?",
+        "hindi": "सीधे धारावाही चालक के चारों ओर लोहे का बुरादा किस प्रतिरूप में व्यवस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "Concentric circles",
+          "Straight lines",
+          "Random pattern",
+          "Spiral pattern"
+        ],
+        "hindi": [
+          "संकेंद्रित वृत्त",
+          "सीधी रेखाएं",
+          "अनियमित प्रतिरूप",
+          "कुंडलीनुमा प्रतिरूप"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black' stroke-width='2'/><circle cx='150' cy='75' r='20' stroke='blue' fill='none'/><circle cx='150' cy='75' r='35' stroke='blue' fill='none'/><circle cx='150' cy='75' r='50' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How do magnetic field lines behave near a current-carrying solenoid?",
+        "hindi": "धारावाही परिनालिका के पास चुंबकीय क्षेत्र रेखाएं कैसा व्यवहार करती हैं?"
+      },
+      "option": {
+        "english": [
+          "Random direction",
+          "Parallel lines",
+          "Like bar magnet",
+          "No pattern"
+        ],
+        "hindi": [
+          "यादृच्छिक दिशा",
+          "समांतर रेखाएं",
+          "छड़ चुंबक की तरह",
+          "कोई प्रतिरूप नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,75 C120,75 130,65 150,65 S180,75 200,75' stroke='black' fill='none' stroke-width='2'/><path d='M100,85 C120,85 130,95 150,95 S180,85 200,85' stroke='black' fill='none' stroke-width='2'/><path d='M80,80 Q150,30 220,80' stroke='blue' fill='none'/><path d='M80,80 Q150,130 220,80' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of Oersted's experiment in electromagnetic theory?",
+        "hindi": "विद्युत चुंबकीय सिद्धांत में ऑरस्टेड के प्रयोग का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Showed heat effects",
+          "Proved wave nature",
+          "Showed optical effects",
+          "Unified electricity and magnetism"
+        ],
+        "hindi": [
+          "ऊष्मीय प्रभाव दर्शाया",
+          "तरंग प्रकृति सिद्ध की",
+          "प्रकाशीय प्रभाव दर्शाया",
+          "विद्युत और चुंबकत्व को एकीकृत किया"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does magnetic field strength decrease with distance from a conductor?",
+        "hindi": "चालक से दूरी बढ़ने पर चुंबकीय क्षेत्र की तीव्रता क्यों घटती है?"
+      },
+      "option": {
+        "english": [
+          "Energy loss",
+          "Field line spreading",
+          "Temperature effect",
+          "Resistance increase"
+        ],
+        "hindi": [
+          "ऊर्जा ह्रास",
+          "क्षेत्र रेखाओं का फैलाव",
+          "तापमान प्रभाव",
+          "प्रतिरोध वृद्धि"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

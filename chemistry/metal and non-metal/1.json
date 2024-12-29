@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making electric wires?",
+        "hindi": "विद्युत तारों को बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Lead", 
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "सीसा",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used in making utensils?",
+        "hindi": "इनमें से किसका उपयोग बर्तन बनाने में किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Aluminum",
+          "Sulphur",
+          "Carbon",
+          "Chlorine"
+        ],
+        "hindi": [
+          "एल्युमिनियम",
+          "सल्फर",
+          "कार्बन",
+          "क्लोरीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is most malleable?",
+        "hindi": "कौन सी धातु सबसे अधिक आघातवर्धनीय है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Zinc",
+          "Gold",
+          "Copper"
+        ],
+        "hindi": [
+          "लोहा",
+          "जस्ता", 
+          "सोना",
+          "तांबा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making jewelry?",
+        "hindi": "आभूषण बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Lead",
+          "Zinc",
+          "Silver"
+        ],
+        "hindi": [
+          "लोहा",
+          "सीसा",
+          "जस्ता",
+          "चांदी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is the best conductor of electricity?",
+        "hindi": "कौन सी धातु विद्युत की सबसे अच्छी चालक है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Silver",
+          "Aluminum",
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "चांदी",
+          "एल्युमिनियम",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when metals react with acids?",
+        "hindi": "धातुएं अम्ल से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "Only gas",
+          "Only water",
+          "Salt + Hydrogen",
+          "No reaction"
+        ],
+        "hindi": [
+          "केवल गैस",
+          "केवल जल",
+          "लवण + हाइड्रोजन",
+          "कोई अभिक्रिया नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when metals react with oxygen?",
+        "hindi": "धातुएं ऑक्सीजन से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Metal oxide",
+          "Metal hydroxide",
+          "Metal salt",
+          "Metal carbonate"
+        ],
+        "hindi": [
+          "धातु ऑक्साइड",
+          "धातु हाइड्रॉक्साइड",
+          "धातु लवण",
+          "धातु कार्बोनेट"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of extracting pure metal from its ore called?",
+        "hindi": "अयस्क से शुद्ध धातु को निकालने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Smelting",
+          "Metallurgy",
+          "Refining"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "प्रगलन",
+          "धातुकर्म",
+          "परिष्करण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical formula of rust?",
+        "hindi": "जंग का रासायनिक सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "FeO",
+          "Fe₂O₃.xH₂O",
+          "Fe₃O₄",
+          "FeO₂"
+        ],
+        "hindi": [
+          "FeO",
+          "Fe₂O₃.xH₂O",
+          "Fe₃O₄",
+          "FeO₂"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal can displace all other metals from their salt solutions?",
+        "hindi": "कौन सी धातु अन्य सभी धातुओं को उनके लवण विलयन से विस्थापित कर सकती है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Silver",
+          "Potassium",
+          "Iron"
+        ],
+        "hindi": [
+          "तांबा",
+          "चांदी",
+          "पोटैशियम",
+          "लोहा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

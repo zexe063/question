@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which period contains maximum elements?",
+        "hindi": "किस आवर्त में सबसे अधिक तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "Period 2",
+          "Period 4",
+          "Period 6",
+          "Period 3"
+        ],
+        "hindi": [
+          "आवर्त 2",
+          "आवर्त 4",
+          "आवर्त 6",
+          "आवर्त 3"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the valency of noble gases?",
+        "hindi": "उत्कृष्ट गैसों की संयोजकता क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has electronic configuration 2,8,1?",
+        "hindi": "किस तत्व का इलेक्ट्रॉनिक विन्यास 2,8,1 है?"
+      },
+      "option": {
+        "english": [
+          "Magnesium",
+          "Sodium",
+          "Potassium",
+          "Calcium"
+        ],
+        "hindi": [
+          "मैग्नीशियम",
+          "सोडियम",
+          "पोटैशियम",
+          "कैल्शियम"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Elements in same group have same:",
+        "hindi": "एक ही समूह के तत्वों में समान होता है:"
+      },
+      "option": {
+        "english": [
+          "Valency",
+          "Atomic mass",
+          "Period number",
+          "Atomic number"
+        ],
+        "hindi": [
+          "संयोजकता",
+          "परमाणु द्रव्यमान",
+          "आवर्त संख्या",
+          "परमाणु संख्या"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is liquid at room temperature?",
+        "hindi": "कमरे के तापमान पर कौन सी धातु तरल अवस्था में होती है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Lead",
+          "Mercury",
+          "Zinc"
+        ],
+        "hindi": [
+          "सोडियम",
+          "लेड",
+          "पारा",
+          "जिंक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does metallic character change in a period?",
+        "hindi": "एक आवर्त में धात्विक गुण कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Decreases",
+          "Increases",
+          "Remains same",
+          "First increases then decreases"
+        ],
+        "hindi": [
+          "घटता है",
+          "बढ़ता है",
+          "समान रहता है",
+          "पहले बढ़ता है फिर घटता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property decreases down the group?",
+        "hindi": "कौन सा गुण समूह में नीचे जाने पर घटता है?"
+      },
+      "option": {
+        "english": [
+          "Atomic size",
+          "Metallic character",
+          "Valency",
+          "Electronegativity"
+        ],
+        "hindi": [
+          "परमाणु आकार",
+          "धात्विक गुण",
+          "संयोजकता",
+          "विद्युतऋणात्मकता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do non-metals form acidic oxides?",
+        "hindi": "अधातुएं अम्लीय ऑक्साइड क्यों बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Accept electrons",
+          "Donate electrons",
+          "High electronegativity",
+          "Low electronegativity"
+        ],
+        "hindi": [
+          "इलेक्ट्रॉन ग्रहण करती हैं",
+          "इलेक्ट्रॉन देती हैं",
+          "उच्च विद्युतऋणात्मकता",
+          "निम्न विद्युतऋणात्मकता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What was the basis of Dobereiner's triads?",
+        "hindi": "डोबेराइनर के त्रिक का आधार क्या था?"
+      },
+      "option": {
+        "english": [
+          "Atomic number",
+          "Properties",
+          "Atomic mass",
+          "Valency"
+        ],
+        "hindi": [
+          "परमाणु संख्या",
+          "गुणधर्म",
+          "परमाणु द्रव्यमान",
+          "संयोजकता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why do elements in same group have similar properties?",
+        "hindi": "एक ही समूह के तत्वों के गुण समान क्यों होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Same atomic mass",
+          "Similar electronic configuration",
+          "Same period",
+          "Same atomic number"
+        ],
+        "hindi": [
+          "समान परमाणु द्रव्यमान",
+          "समान इलेक्ट्रॉनिक विन्यास",
+          "समान आवर्त",
+          "समान परमाणु संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

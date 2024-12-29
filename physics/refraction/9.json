@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a swimming pool appear shallower when viewed from above at an angle?",
+        "hindi": "तिरछे कोण से ऊपर से देखने पर स्विमिंग पूल कम गहरा क्यों दिखाई देता है?"
+      },
+      "option": {
+        "english": [
+          "Angle dependent refraction",
+          "Total internal reflection",
+          "Scattering of light",
+          "Absorption of light"
+        ],
+        "hindi": [
+          "कोण पर निर्भर अपवर्तन",
+          "पूर्ण आंतरिक परावर्तन",
+          "प्रकाश का प्रकीर्णन",
+          "प्रकाश का अवशोषण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do different colored lights focus at different points in a lens?",
+        "hindi": "विभिन्न रंग के प्रकाश लेंस में अलग-अलग बिंदुओं पर फोकस क्यों होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Different refractive indices",
+          "Different intensities",
+          "Different wavelengths",
+          "Different speeds"
+        ],
+        "hindi": [
+          "विभिन्न अपवर्तनांक",
+          "विभिन्न तीव्रताएं",
+          "विभिन्न तरंगदैर्ध्य",
+          "विभिन्न गतियां"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a prism deviate light more at its base than at its apex?",
+        "hindi": "प्रिज्म शीर्ष की तुलना में आधार पर प्रकाश को अधिक क्यों विचलित करता है?"
+      },
+      "option": {
+        "english": [
+          "Greater angle of incidence",
+          "More material",
+          "More reflection",
+          "More dispersion"
+        ],
+        "hindi": [
+          "अधिक आपतन कोण",
+          "अधिक पदार्थ",
+          "अधिक परावर्तन",
+          "अधिक वर्णविक्षेपण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels through three media with n₁=1.5, n₂=1.7, n₃=1.6. If i₁=30°, final angle of emergence is:",
+        "hindi": "एक किरण तीन माध्यमों से गुजरती है जिनके n₁=1.5, n₂=1.7, n₃=1.6 हैं। यदि i₁=30° है, तो अंतिम निर्गम कोण है:"
+      },
+      "option": {
+        "english": [
+          "28.1°",
+          "30°",
+          "25°",
+          "35°"
+        ],
+        "hindi": [
+          "28.1°",
+          "30°",
+          "25°",
+          "35°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a glass prism(n=1.5), for angle of minimum deviation 30°, angle of prism is:",
+        "hindi": "कांच के प्रिज्म(n=1.5) में, 30° न्यूनतम विचलन कोण के लिए, प्रिज्म कोण है:"
+      },
+      "option": {
+        "english": [
+          "40°",
+          "45°",
+          "30°",
+          "60°"
+        ],
+        "hindi": [
+          "40°",
+          "45°",
+          "30°",
+          "60°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of image in compound microscope?",
+        "hindi": "कौन सा किरण आरेख संयुक्त सूक्ष्मदर्शी में प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Two stage magnification",
+          "Single stage",
+          "No magnification",
+          "Random magnification"
+        ],
+        "hindi": [
+          "दो चरण आवर्धन",
+          "एकल चरण",
+          "कोई आवर्धन नहीं",
+          "यादृच्छिक आवर्धन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='25' x2='100' y2='125' stroke='black'/><line x1='200' y1='25' x2='200' y2='125' stroke='black'/><path d='M50,75 L250,25' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of primary and secondary rainbow?",
+        "hindi": "कौन सा किरण आरेख प्राथमिक और द्वितीयक इंद्रधनुष का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Different number of reflections",
+          "Same reflections",
+          "No reflection",
+          "Random reflections"
+        ],
+        "hindi": [
+          "विभिन्न संख्या में परावर्तन",
+          "समान परावर्तन",
+          "कोई परावर्तन नहीं",
+          "यादृच्छिक परावर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><path d='M100,75 Q150,25 200,75' stroke='red'/><path d='M100,75 Q150,125 200,75' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows chromatic and spherical aberration correction?",
+        "hindi": "कौन सा किरण आरेख वर्ण और गोलीय विपथन संशोधन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Combination of lenses",
+          "Single lens",
+          "Plane mirror",
+          "Prism"
+        ],
+        "hindi": [
+          "लेंसों का संयोजन",
+          "एकल लेंस",
+          "समतल दर्पण",
+          "प्रिज्म"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='120' y1='25' x2='120' y2='125' stroke='black'/><line x1='180' y1='25' x2='180' y2='125' stroke='black'/><line x1='50' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Three thin lenses of power +10D, -5D and +3D are separated by 10cm each. Equivalent power is:",
+        "hindi": "तीन पतले लेंस जिनकी क्षमताएं +10D, -5D और +3D हैं, 10सेमी की दूरी पर हैं। तुल्य क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+6.5D",
+          "+8D",
+          "+5D",
+          "+4D"
+        ],
+        "hindi": [
+          "+6.5D",
+          "+8D",
+          "+5D",
+          "+4D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a telescope, if angular magnification is 50 and objective focal length is 250cm, eyepiece focal length is:",
+        "hindi": "एक दूरबीन में, यदि कोणीय आवर्धन 50 और अभिदृश्यक की फोकस दूरी 250सेमी है, तो नेत्रिका की फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "5cm",
+          "10cm",
+          "15cm",
+          "20cm"
+        ],
+        "hindi": [
+          "5सेमी",
+          "10सेमी",
+          "15सेमी",
+          "20सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

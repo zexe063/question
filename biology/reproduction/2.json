@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which structure connects developing embryo to mother's uterus?",
+        "hindi": "विकसित होता भ्रूण किस संरचना द्वारा मां के गर्भाशय से जुड़ा होता है?"
+      },
+      "option": {
+        "english": [
+          "Fallopian tube",
+          "Ovary",
+          "Cervix",
+          "Placenta"
+        ],
+        "hindi": [
+          "फैलोपियन ट्यूब",
+          "अंडाशय",
+          "सर्विक्स",
+          "प्लेसेंटा"
+        ]
+      },
+      "answer": 3,  
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of testes in human males?",
+        "hindi": "मानव पुरुषों में वृषण का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store sperm",
+          "Produce sperm",
+          "Transport sperm",
+          "Filter sperm"
+        ],
+        "hindi": [
+          "शुक्राणु संग्रह",
+          "शुक्राणु उत्पादन",
+          "शुक्राणु परिवहन",
+          "शुक्राणु छानना"
+        ]
+      },
+      "answer": 1,
+        "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of flower receives pollen grains?",
+        "hindi": "फूल का कौन सा भाग परागकण प्राप्त करता है?"
+      },
+      "option": {
+        "english": [
+          "Stigma",
+          "Style",
+          "Ovary",
+          "Anther"
+        ],
+        "hindi": [
+          "वर्तिकाग्र",
+          "वर्तिका",
+          "अंडाशय",
+          "परागकोश"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which method of reproduction is shown by Amoeba?",
+        "hindi": "अमीबा किस विधि से जनन करता है?"
+      },
+      "option": {
+        "english": [
+          "Spore formation",
+          "Fragmentation",
+          "Binary fission",
+          "Budding"
+        ],
+        "hindi": [
+          "बीजाणु निर्माण",
+          "खंडन",
+          "द्विखंडन",
+          "मुकुलन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens to the ovary after fertilization?",
+        "hindi": "निषेचन के बाद अंडाशय का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Dries up",
+          "Falls off",
+          "Becomes seed",
+          "Becomes fruit"
+        ],
+        "hindi": [
+          "सूख जाता है",
+          "गिर जाता है",
+          "बीज बनता है",
+          "फल बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone initiates puberty in human males?",
+        "hindi": "मानव पुरुषों में यौवन की शुरुआत कौन सा हार्मोन करता है?"
+      },
+      "option": {
+        "english": [
+          "Testosterone",
+          "Growth hormone",
+          "Thyroxine",
+          "Insulin"
+        ],
+        "hindi": [
+          "टेस्टोस्टेरोन",
+          "वृद्धि हार्मोन",
+          "थायरॉक्सिन",
+          "इंसुलिन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of seminal vesicles?",
+        "hindi": "शुक्राशय की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store sperm",
+          "Provide nutrition",
+          "Filter sperm",
+          "Produce enzymes"
+        ],
+        "hindi": [
+          "शुक्राणु संग्रह",
+          "पोषण प्रदान करना",
+          "शुक्राणु छानना",
+          "एंजाइम उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Where does fertilization occur in human females?",
+        "hindi": "मानव महिलाओं में निषेचन कहाँ होता है?"
+      },
+      "option": {
+        "english": [
+          "Uterus",
+          "Cervix",
+          "Fallopian tube",
+          "Ovary"
+        ],
+        "hindi": [
+          "गर्भाशय",
+          "सर्विक्स",
+          "फैलोपियन ट्यूब",
+          "अंडाशय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes the formation of identical twins?",
+        "hindi": "समरूप जुड़वाँ किस कारण बनते हैं?"
+      },
+      "option": {
+        "english": [
+          "Two eggs",
+          "Two sperms",
+          "Multiple ovulation",
+          "Split embryo"
+        ],
+        "hindi": [
+          "दो अंडे",
+          "दो शुक्राणु",
+          "बहु अंडोत्सर्ग",
+          "विभाजित भ्रूण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of corpus luteum?",
+        "hindi": "कॉर्पस ल्यूटियम का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Maintain pregnancy",
+          "Produce estrogen",
+          "Produce milk",
+          "Release eggs"
+        ],
+        "hindi": [
+          "गर्भावस्था बनाए रखना",
+          "एस्ट्रोजन उत्पादन",
+          "दूध उत्पादन",
+          "अंडे निकालना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

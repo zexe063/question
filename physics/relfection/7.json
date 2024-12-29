@@ -1,0 +1,232 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What happens to the image distance when object moves from infinity towards the pole of concave mirror?",
+        "hindi": "जब वस्तु अनंत से अवतल दर्पण के ध्रुव की ओर चलती है, तो प्रतिबिंब दूरी का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Moves from F to infinity",
+          "Moves from infinity to F",
+          "Stays at F",
+          "Moves from C to F"
+        ],
+        "hindi": [
+          "F से अनंत तक जाती है",
+          "अनंत से F तक आती है",
+          "F पर स्थिर रहती है",
+          "C से F तक आती है"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><text x='95' y='70'>F</text><line x1='250' y1='50' x2='50' y2='75' stroke='blue' stroke-dasharray='2'/><line x1='100' y1='50' x2='50' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does a barber's mirror show enlarged image while a car's side mirror shows diminished image?",
+        "hindi": "नाई का दर्पण बड़ा प्रतिबिंब क्यों दिखाता है जबकि कार का साइड मिरर छोटा प्रतिबिंब क्यों दिखाता है?"
+      },
+      "option": {
+        "english": [
+          "Concave vs Convex mirror",
+          "Different focal lengths",
+          "Different sizes",
+          "Different positions"
+        ],
+        "hindi": [
+          "अवतल बनाम उत्तल दर्पण",
+          "अलग-अलग फोकस दूरी",
+          "अलग-अलग आकार",
+          "अलग-अलग स्थिति"
+        ]
+      },
+      "answer": 0,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "When radius of curvature (R) equals focal length (f), the mirror is:",
+        "hindi": "जब वक्रता त्रिज्या (R) फोकस दूरी (f) के बराबर होती है, तो दर्पण है:"
+      },
+      "option": {
+        "english": [
+          "Plane mirror",
+          "Concave mirror",
+          "Convex mirror",
+          "Not possible"
+        ],
+        "hindi": [
+          "समतल दर्पण",
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "संभव नहीं"
+        ]
+      },
+      "answer": 3,
+    
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror produces a real image of magnification -2. If v = 30 cm, find f.",
+        "hindi": "एक अवतल दर्पण -2 आवर्धन का वास्तविक प्रतिबिंब बनाता है। यदि v = 30 सेमी है, तो f ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "10 cm",
+          "15 cm",
+          "20 cm",
+          "25 cm"
+        ],
+        "hindi": [
+          "10 सेमी",
+          "15 सेमी",
+          "20 सेमी",
+          "25 सेमी"
+        ]
+      },
+      "answer": 1,
+     
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If object distance is twice the focal length (u = 2f), where does image form?",
+        "hindi": "यदि वस्तु दूरी फोकस दूरी की दोगुनी है (u = 2f), तो प्रतिबिंब कहाँ बनेगा?"
+      },
+      "option": {
+        "english": [
+          "At 2f",
+          "At f",
+          "At 3f",
+          "At 4f"
+        ],
+        "hindi": [
+          "2f पर",
+          "f पर",
+          "3f पर",
+          "4f पर"
+        ]
+      },
+      "answer": 0,
+     
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the position where virtual image forms in this ray diagram:",
+        "hindi": "इस किरण आरेख में आभासी प्रतिबिंब कहाँ बनता है, पहचानें:"
+      },
+      "option": {
+        "english": [
+          "Behind mirror",
+          "Between F and C",
+          "At F",
+          "Beyond C"
+        ],
+        "hindi": [
+          "दर्पण के पीछे",
+          "F और C के बीच",
+          "F पर",
+          "C से परे"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='65' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a kaleidoscope with three mirrors, what is the angle between any two mirrors?",
+        "hindi": "तीन दर्पणों वाले कैलीडोस्कोप में, किन्हीं दो दर्पणों के बीच का कोण क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "60°",
+          "90°",
+          "120°",
+          "180°"
+        ],
+        "hindi": [
+          "60°",
+          "90°",
+          "120°",
+          "180°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='150,75 200,140 100,140' fill='none' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What happens to focal length when a concave mirror is placed in water?",
+        "hindi": "जब एक अवतल दर्पण को पानी में रखा जाता है तो फोकस दूरी का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Remains same",
+          "Increases",
+          "Decreases",
+          "Becomes zero"
+        ],
+        "hindi": [
+          "समान रहती है",
+          "बढ़ जाती है",
+          "घट जाती है",
+          "शून्य हो जाती है"
+        ]
+      },
+      "answer": 0,
+    
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A person walks towards a plane mirror at 2 m/s. At what speed does he approach his image?",
+        "hindi": "एक व्यक्ति 2 मी/से की चाल से समतल दर्पण की ओर चलता है। वह अपने प्रतिबिंब की ओर किस चाल से बढ़ता है?"
+      },
+      "option": {
+        "english": [
+          "4 m/s",
+          "2 m/s",
+          "1 m/s",
+          "0.5 m/s"
+        ],
+        "hindi": [
+          "4 मी/से",
+          "2 मी/से",
+          "1 मी/से",
+          "0.5 मी/से"
+        ]
+      },
+      "answer": 0,
+      "explanation": "Relative speed is twice the actual speed",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used in a lighthouse and why?",
+        "hindi": "लाइटहाउस में किस दर्पण का उपयोग किया जाता है और क्यों?"
+      },
+      "option": {
+        "english": [
+          "Parabolic, for parallel beam",
+          "Spherical, for divergent beam",
+          "Convex, for wide view",
+          "Plane, for direct reflection"
+        ],
+        "hindi": [
+          "परवलयिक, समांतर किरण पुंज के लिए",
+          "गोलीय, अपसारी किरण पुंज के लिए",
+          "उत्तल, चौड़े दृश्य के लिए",
+          "समतल, सीधे परावर्तन के लिए"
+        ]
+      },
+      "answer": 0,
+      "medium": "hard"
+    }
+  ]

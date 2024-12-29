@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Which enzyme is present in saliva?",
+        "hindi": "लार में कौन सा एंजाइम पाया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Pepsin",
+          "Amylase",
+          "Lipase",
+          "Trypsin"
+        ],
+        "hindi": [
+          "पेप्सिन",
+          "एमाइलेज",
+          "लाइपेज",
+          "ट्रिप्सिन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of platelets?",
+        "hindi": "प्लेटलेट्स का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Blood clotting",
+          "Carrying oxygen",
+          "Fighting infection",
+          "Producing hormones"
+        ],
+        "hindi": [
+          "रक्त का थक्का जमाना",
+          "ऑक्सीजन ले जाना",
+          "संक्रमण से लड़ना",
+          "हार्मोन उत्पन्न करना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of the heart receives oxygenated blood from lungs?",
+        "hindi": "हृदय का कौन सा भाग फेफड़ों से ऑक्सीजनयुक्त रक्त प्राप्त करता है?"
+      },
+      "option": {
+        "english": [
+          "Right atrium",
+          "Left atrium",
+          "Right ventricle",
+          "Left ventricle"
+        ],
+        "hindi": [
+          "दायाँ आलिंद",
+          "बायाँ आलिंद",
+          "दायाँ निलय",
+          "बायाँ निलय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of hydrochloric acid in stomach?",
+        "hindi": "आमाशय में हाइड्रोक्लोरिक अम्ल की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Digest fats",
+          "Kill bacteria",
+          "Absorb nutrients",
+          "Break carbohydrates"
+        ],
+        "hindi": [
+          "वसा का पाचन",
+          "जीवाणुओं को मारना",
+          "पोषक तत्वों का अवशोषण",
+          "कार्बोहाइड्रेट का विघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which blood vessel carries blood from heart to lungs?",
+        "hindi": "कौन सी रक्त वाहिनी हृदय से फेफड़ों तक रक्त ले जाती है?"
+      },
+      "option": {
+        "english": [
+          "Aorta",
+          "Pulmonary vein",
+          "Pulmonary artery",
+          "Vena cava"
+        ],
+        "hindi": [
+          "महाधमनी",
+          "फुफ्फुस शिरा",
+          "फुफ्फुस धमनी",
+          "महाशिरा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during anaerobic respiration in muscles?",
+        "hindi": "मांसपेशियों में अवायवीय श्वसन के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Glucose forms alcohol",
+          "Lactic acid forms",
+          "CO2 is released",
+          "Proteins break down"
+        ],
+        "hindi": [
+          "ग्लूकोज से अल्कोहल बनता है",
+          "लैक्टिक अम्ल बनता है",
+          "CO2 निकलती है",
+          "प्रोटीन टूटते हैं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of double circulation?",
+        "hindi": "दोहरे परिसंचरण का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Saves energy",
+          "Maintains blood pressure",
+          "Separates oxygenated and deoxygenated blood",
+          "Reduces heart rate"
+        ],
+        "hindi": [
+          "ऊर्जा बचाता है",
+          "रक्तचाप बनाए रखता है",
+          "ऑक्सीजनयुक्त और ऑक्सीजनरहित रक्त को अलग करता है",
+          "हृदय गति कम करता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does closing of stomata affect photosynthesis?",
+        "hindi": "रंध्रों के बंद होने से प्रकाश संश्लेषण कैसे प्रभावित होता है?"
+      },
+      "option": {
+        "english": [
+          "Increases rate",
+          "No effect",
+          "Decreases rate",
+          "Stops completely"
+        ],
+        "hindi": [
+          "दर बढ़ जाती है",
+          "कोई प्रभाव नहीं",
+          "दर घट जाती है",
+          "पूरी तरह रुक जाता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do arteries have thick elastic walls?",
+        "hindi": "धमनियों की दीवारें लोचदार और मोटी क्यों होती हैं?"
+      },
+      "option": {
+        "english": [
+          "To prevent blood loss",
+          "To maintain blood pressure",
+          "To slow blood flow",
+          "To filter blood"
+        ],
+        "hindi": [
+          "रक्त की हानि रोकने के लिए",
+          "रक्तचाप बनाए रखने के लिए",
+          "रक्त प्रवाह धीमा करने के लिए",
+          "रक्त छानने के लिए"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What causes heart attack when coronary arteries are blocked?",
+        "hindi": "कोरोनरी धमनियों के अवरुद्ध होने पर हृदयाघात क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "Blood pressure increases",
+          "Heart beats faster",
+          "Heart muscles die",
+          "Blood clots form"
+        ],
+        "hindi": [
+          "रक्तचाप बढ़ जाता है",
+          "हृदय तेजी से धड़कता है",
+          "हृदय की मांसपेशियां मर जाती हैं",
+          "रक्त के थक्के बनते हैं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making electric wires?",
+        "hindi": "विद्युत तारों को बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Lead",
+          "Copper",
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "सीसा",
+          "तांबा",
+          "जस्ता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the most abundant metal in Earth's crust?",
+        "hindi": "पृथ्वी की भूपर्पटी में सबसे अधिक मात्रा में कौन सी धातु पाई जाती है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Gold",
+          "Aluminum"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "सोना",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in galvanization?",
+        "hindi": "जस्तीकरण में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Zinc",
+          "Iron",
+          "Tin"
+        ],
+        "hindi": [
+          "तांबा",
+          "जस्ता",
+          "लोहा",
+          "टिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making thermometers?",
+        "hindi": "थर्मामीटर बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Mercury",
+          "Copper",
+          "Iron",
+          "Zinc"
+        ],
+        "hindi": [
+          "पारा",
+          "तांबा",
+          "लोहा",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making magnets?",
+        "hindi": "चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Aluminum",
+          "Iron",
+          "Silver"
+        ],
+        "hindi": [
+          "तांबा",
+          "एल्युमिनियम",
+          "लोहा",
+          "चांदी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when metals react with water?",
+        "hindi": "धातुएं जल से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Metal oxide",
+          "Metal hydroxide + H₂",
+          "Metal salt",
+          "No reaction"
+        ],
+        "hindi": [
+          "धातु ऑक्साइड",
+          "धातु हाइड्रॉक्साइड + H₂",
+          "धातु लवण",
+          "कोई अभिक्रिया नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of metal oxides?",
+        "hindi": "धातु ऑक्साइड की प्रकृति क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Neutral",
+          "Amphoteric",
+          "Basic"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "उदासीन",
+          "उभयधर्मी",
+          "क्षारीय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making steel?",
+        "hindi": "स्टील बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Aluminum",
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "एल्युमिनियम",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of extracting pure metal from its ore called?",
+        "hindi": "अयस्क से शुद्ध धातु को निकालने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Smelting",
+          "Metallurgy",
+          "Refining"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "प्रगलन",
+          "धातुकर्म",
+          "परिष्करण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is most reactive?",
+        "hindi": "कौन सी धातु सबसे अधिक क्रियाशील है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Potassium",
+          "Zinc",
+          "Iron"
+        ],
+        "hindi": [
+          "तांबा",
+          "पोटैशियम",
+          "जस्ता",
+          "लोहा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

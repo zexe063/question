@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why do diamonds sparkle more in multiple colors?",
+        "hindi": "हीरे कई रंगों में अधिक क्यों चमकते हैं?"
+      },
+      "option": {
+        "english": [
+          "High refractive index and dispersion",
+          "Surface reflection only",
+          "Natural color",
+          "Crystal structure"
+        ],
+        "hindi": [
+          "उच्च अपवर्तनांक और वर्णविक्षेपण",
+          "केवल सतह परावर्तन",
+          "प्राकृतिक रंग",
+          "क्रिस्टल संरचना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a convex lens converge light rays?",
+        "hindi": "उत्तल लेंस प्रकाश किरणों को अभिसारित क्यों करता है?"
+      },
+      "option": {
+        "english": [
+          "Due to its curved surfaces",
+          "Due to material",
+          "Due to thickness",
+          "Due to reflection"
+        ],
+        "hindi": [
+          "इसकी वक्र सतहों के कारण",
+          "पदार्थ के कारण",
+          "मोटाई के कारण",
+          "परावर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a prism separate white light into colors?",
+        "hindi": "प्रिज्म श्वेत प्रकाश को रंगों में क्यों अलग करता है?"
+      },
+      "option": {
+        "english": [
+          "Different speeds of different colors",
+          "Reflection of light",
+          "Absorption of light",
+          "Scattering of light"
+        ],
+        "hindi": [
+          "विभिन्न रंगों की विभिन्न गतियां",
+          "प्रकाश का परावर्तन",
+          "प्रकाश का अवशोषण",
+          "प्रकाश का प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from water(n=1.33) to crown glass(n=1.52). If angle of refraction is 30°, angle of incidence is:",
+        "hindi": "एक किरण जल(n=1.33) से क्राउन कांच(n=1.52) में जाती है। यदि अपवर्तन कोण 30° है, तो आपतन कोण है:"
+      },
+      "option": {
+        "english": [
+          "34.8°",
+          "30°",
+          "40°",
+          "25°"
+        ],
+        "hindi": [
+          "34.8°",
+          "30°",
+          "40°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Critical angle for a medium is 45°. Its refractive index is:",
+        "hindi": "एक माध्यम का क्रांतिक कोण 45° है। इसका अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "1.414",
+          "1.33",
+          "1.5",
+          "1.732"
+        ],
+        "hindi": [
+          "1.414",
+          "1.33",
+          "1.5",
+          "1.732"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows image formation by a concave lens?",
+        "hindi": "कौन सा किरण आरेख अवतल लेंस द्वारा प्रतिबिंब निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Always virtual and diminished",
+          "Always real",
+          "Sometimes real",
+          "Always enlarged"
+        ],
+        "hindi": [
+          "हमेशा आभासी और छोटा",
+          "हमेशा वास्तविक",
+          "कभी-कभी वास्तविक",
+          "हमेशा बड़ा"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='100' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of spectrum by a prism?",
+        "hindi": "कौन सा किरण आरेख प्रिज्म द्वारा वर्णक्रम निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Violet bends most",
+          "Red bends most",
+          "All bend equally",
+          "No bending"
+        ],
+        "hindi": [
+          "बैंगनी सबसे अधिक मुड़ती है",
+          "लाल सबसे अधिक मुड़ती है",
+          "सभी समान मुड़ती हैं",
+          "कोई मुड़ान नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,75 L100,125 Z' stroke='black' fill='none'/><line x1='50' y1='75' x2='100' y2='75' stroke='white'/><path d='M200,75 L250,50 L250,100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows chromatic aberration correction?",
+        "hindi": "कौन सा किरण आरेख वर्ण विपथन संशोधन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Achromatic doublet",
+          "Single lens",
+          "Concave lens",
+          "Convex lens"
+        ],
+        "hindi": [
+          "अवर्ण युगल",
+          "एकल लेंस",
+          "अवतल लेंस",
+          "उत्तल लेंस"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='170' y1='25' x2='170' y2='125' stroke='black'/><line x1='100' y1='75' x2='200' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A lens combination has powers +10D and -4D. If separated by 20cm, equivalent power is:",
+        "hindi": "एक लेंस संयोजन की क्षमताएं +10D और -4D हैं। यदि 20सेमी की दूरी पर हों, तो तुल्य क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+4D",
+          "+6D",
+          "+8D",
+          "+2D"
+        ],
+        "hindi": [
+          "+4D",
+          "+6D",
+          "+8D",
+          "+2D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In an astronomical telescope, if objective and eyepiece focal lengths are 100cm and 5cm, angular magnification is:",
+        "hindi": "एक खगोलीय दूरबीन में, यदि अभिदृश्यक और नेत्रिका की फोकस दूरियां 100सेमी और 5सेमी हैं, तो कोणीय आवर्धन है:"
+      },
+      "option": {
+        "english": [
+          "20",
+          "15",
+          "25",
+          "30"
+        ],
+        "hindi": [
+          "20",
+          "15",
+          "25",
+          "30"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

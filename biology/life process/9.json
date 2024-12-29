@@ -1,0 +1,232 @@
+[
+  {
+    "question_name": {
+      "english": "What is the function of kidneys?",
+      "hindi": "गुर्दे का कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Store water",
+        "Filter blood",
+        "Produce hormones", 
+        "Digest food"
+      ],
+      "hindi": [
+        "जल संग्रह",
+        "रक्त छानना",
+        "हार्मोन उत्पादन",
+        "भोजन पचाना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which blood component helps in immunity?",
+      "hindi": "कौन सा रक्त घटक प्रतिरक्षा में मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "RBC",
+        "Platelets",
+        "Plasma",
+        "WBC"
+      ],
+      "hindi": [
+        "लाल रक्त कणिकाएं",
+        "प्लेटलेट्स",
+        "प्लाज्मा",
+        "श्वेत रक्त कणिकाएं"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What helps in digestion of proteins?",
+      "hindi": "प्रोटीन के पाचन में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Bile"
+      ],
+      "hindi": [
+        "एमाइलेज",
+        "लाइपेज",
+        "पेप्सिन",
+        "पित्त"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which process occurs in alveoli?",
+      "hindi": "वायु कूपिकाओं में कौन सी प्रक्रिया होती है?"
+    },
+    "option": {
+      "english": [
+        "Gas exchange",
+        "Blood filtration",
+        "Food digestion",
+        "Hormone secretion"
+      ],
+      "hindi": [
+        "गैस विनिमय",
+        "रक्त छनन",
+        "भोजन पाचन",
+        "हार्मोन स्रावण"
+      ]
+    },
+    "answer": 0, 
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the function of platelets?",
+      "hindi": "प्लेटलेट्स का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Transport oxygen",
+        "Blood clotting",
+        "Fight infection",
+        "Carry nutrients"
+      ],
+      "hindi": [
+        "ऑक्सीजन परिवहन",
+        "रक्त का थक्का जमाना",
+        "संक्रमण से लड़ना",
+        "पोषक तत्वों का वहन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the role of bile?",
+      "hindi": "पित्त की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Digest proteins",
+        "Store fats",
+        "Emulsify fats",
+        "Absorb minerals"
+      ],
+      "hindi": [
+        "प्रोटीन पचाना",
+        "वसा संग्रह",
+        "वसा का पायसीकरण",
+        "खनिज अवशोषण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which organ produces insulin?",
+      "hindi": "इंसुलिन किस अंग से स्रावित होता है?"
+    },
+    "option": {
+      "english": [
+        "Liver",
+        "Stomach",
+        "Kidney",
+        "Pancreas"
+      ],
+      "hindi": [
+        "यकृत",
+        "आमाशय",
+        "गुर्दा",
+        "अग्न्याशय"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of lungs?",
+      "hindi": "फेफड़ों का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Gas exchange",
+        "Filter blood",
+        "Produce blood cells",
+        "Store air"
+      ],
+      "hindi": [
+        "गैस विनिमय",
+        "रक्त छानना",
+        "रक्त कोशिकाएं बनाना",
+        "वायु संग्रह"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the function of hemoglobin?",
+      "hindi": "हीमोग्लोबिन का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Fight infection",
+        "Transport oxygen",
+        "Blood clotting",
+        "Filter waste"
+      ],
+      "hindi": [
+        "संक्रमण से लड़ना",
+        "ऑक्सीजन परिवहन",
+        "रक्त का थक्का जमाना",
+        "अपशिष्ट छानना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What is the role of villi?",
+      "hindi": "कूपिकाओं की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Secrete enzymes",
+        "Store nutrients",
+        "Increase absorption",
+        "Filter blood"
+      ],
+      "hindi": [
+        "एंजाइम स्रावण",
+        "पोषक तत्व संग्रह",
+        "अवशोषण बढ़ाना",
+        "रक्त छानना"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard"
+  }
+]

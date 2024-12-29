@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the process of evolution of different species from a common ancestor?",
+        "hindi": "एक सामान्य पूर्वज से विभिन्न प्रजातियों के विकास की प्रक्रिया क्या है?"
+      },
+      "option": {
+        "english": [
+          "Natural selection",
+          "Mutation",
+          "Adaptation",
+          "Speciation"
+        ],
+        "hindi": [
+          "प्राकृतिक चयन",
+          "उत्परिवर्तन",
+          "अनुकूलन",
+          "जातियन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What are the units of heredity called?",
+        "hindi": "वंशानुक्रम की इकाइयों को क्या कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Chromosomes",
+          "Genes",
+          "DNA",
+          "RNA"
+        ],
+        "hindi": [
+          "गुणसूत्र",
+          "जीन",
+          "डीएनए",
+          "आरएनए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many pairs of chromosomes are present in human body cells?",
+        "hindi": "मानव शरीर की कोशिकाओं में गुणसूत्रों के कितने जोड़े होते हैं?"
+      },
+      "option": {
+        "english": [
+          "23",
+          "22",
+          "46",
+          "44"
+        ],
+        "hindi": [
+          "23",
+          "22",
+          "46",
+          "44"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the term for physical expression of genes?",
+        "hindi": "जीन की शारीरिक अभिव्यक्ति के लिए क्या शब्द है?"
+      },
+      "option": {
+        "english": [
+          "Genotype",
+          "Genome",
+          "Phenotype",
+          "Trait"
+        ],
+        "hindi": [
+          "जीनोटाइप",
+          "जीनोम",
+          "फीनोटाइप",
+          "लक्षण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which human ancestor first used fire?",
+        "hindi": "किस मानव पूर्वज ने सबसे पहले आग का उपयोग किया?"
+      },
+      "option": {
+        "english": [
+          "Australopithecus",
+          "Neanderthals",
+          "Homo habilis",
+          "Homo erectus"
+        ],
+        "hindi": [
+          "ऑस्ट्रेलोपिथेकस",
+          "नियंडरथल",
+          "होमो हैबिलिस",
+          "होमो इरेक्टस"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which structure carries genes in a cell?",
+        "hindi": "कोशिका में जीन किस संरचना में होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Chromosomes",
+          "Mitochondria",
+          "Ribosomes",
+          "Golgi body"
+        ],
+        "hindi": [
+          "गुणसूत्र",
+          "माइटोकॉन्ड्रिया",
+          "राइबोसोम",
+          "गॉल्जी काय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the ratio of tall to dwarf plants in F2 generation?",
+        "hindi": "F2 पीढ़ी में लंबे से बौने पौधों का अनुपात क्या है?"
+      },
+      "option": {
+        "english": [
+          "2:2",
+          "3:1",
+          "1:2",
+          "1:1"
+        ],
+        "hindi": [
+          "2:2",
+          "3:1",
+          "1:2",
+          "1:1"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes variations during sexual reproduction?",
+        "hindi": "लैंगिक प्रजनन के दौरान विभिन्नताएं किस कारण होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Mitosis",
+          "Cell division",
+          "Gene combination",
+          "Mutation only"
+        ],
+        "hindi": [
+          "समसूत्री विभाजन",
+          "कोशिका विभाजन",
+          "जीन संयोजन",
+          "केवल उत्परिवर्तन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the mechanism of evolution according to Darwin?",
+        "hindi": "डार्विन के अनुसार विकास की क्रियाविधि क्या है?"
+      },
+      "option": {
+        "english": [
+          "Inheritance",
+          "Mutation",
+          "Use and disuse",
+          "Natural selection"
+        ],
+        "hindi": [
+          "वंशागति",
+          "उत्परिवर्तन",
+          "उपयोग और अनुपयोग",
+          "प्राकृतिक चयन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which blood group is universal donor?",
+        "hindi": "कौन सा रक्त समूह सार्वभौमिक दाता है?"
+      },
+      "option": {
+        "english": [
+          "O negative",
+          "AB positive",
+          "B negative",
+          "A positive"
+        ],
+        "hindi": [
+          "O निगेटिव",
+          "AB पॉजिटिव",
+          "B निगेटिव",
+          "A पॉजिटिव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

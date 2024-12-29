@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is domestic electric circuit?",
+        "hindi": "घरेलू विद्युत परिपथ क्या है?"
+      },
+      "option": {
+        "english": [
+          "Single wire system",
+          "Battery circuit",
+          "Three wire system",
+          "DC circuit"
+        ],
+        "hindi": [
+          "एकल तार प्रणाली",
+          "बैटरी परिपथ",
+          "तीन तार प्रणाली",
+          "DC परिपथ"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What are the three wires in domestic circuit?",
+        "hindi": "घरेलू परिपथ में तीन तार कौन से होते हैं?"
+      },
+      "option": {
+        "english": [
+          "All black wires",
+          "All red wires",
+          "Live, neutral, earth",
+          "All green wires"
+        ],
+        "hindi": [
+          "सभी काले तार",
+          "सभी लाल तार",
+          "लाइव, न्यूट्रल, अर्थ",
+          "सभी हरे तार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the color of live wire?",
+        "hindi": "लाइव तार का रंग क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Green",
+          "Black",
+          "Red",
+          "Blue"
+        ],
+        "hindi": [
+          "हरा",
+          "काला",
+          "लाल",
+          "नीला"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of earth wire?",
+        "hindi": "अर्थ तार का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Increase current",
+          "Reduce voltage",
+          "Safety protection",
+          "Increase power"
+        ],
+        "hindi": [
+          "धारा बढ़ाना",
+          "वोल्टता कम करना",
+          "सुरक्षा संरक्षण",
+          "शक्ति बढ़ाना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the voltage in Indian domestic supply?",
+        "hindi": "भारतीय घरेलू आपूर्ति में वोल्टता कितनी होती है?"
+      },
+      "option": {
+        "english": [
+          "110V",
+          "12V",
+          "220V",
+          "440V"
+        ],
+        "hindi": [
+          "110V",
+          "12V",
+          "220V",
+          "440V"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How are appliances connected in domestic circuit?",
+        "hindi": "घरेलू परिपथ में उपकरण कैसे जुड़े होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Series only",
+          "Parallel",
+          "Mixed",
+          "None"
+        ],
+        "hindi": [
+          "केवल श्रेणीक्रम",
+          "समांतर",
+          "मिश्रित",
+          "कोई नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='250' y2='50' stroke='black'/><line x1='50' y1='100' x2='250' y2='100' stroke='black'/><rect x='100' y='60' width='40' height='30' stroke='black' fill='none'/><rect x='160' y='60' width='40' height='30' stroke='black' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens when fuse wire melts?",
+        "hindi": "फ्यूज तार के पिघलने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Current increases",
+          "Circuit breaks",
+          "Voltage increases",
+          "Power increases"
+        ],
+        "hindi": [
+          "धारा बढ़ती है",
+          "परिपथ टूटता है",
+          "वोल्टता बढ़ती है",
+          "शक्ति बढ़ती है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><rect x='125' y='65' width='50' height='20' stroke='black' fill='none'/><path d='M140,75 L160,75' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is earthing necessary in domestic circuits?",
+        "hindi": "घरेलू परिपथों में अर्थिंग क्यों आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Increase efficiency",
+          "Save power",
+          "Reduce bills",
+          "Safety purpose"
+        ],
+        "hindi": [
+          "दक्षता बढ़ाने के लिए",
+          "बिजली बचाने के लिए",
+          "बिल कम करने के लिए",
+          "सुरक्षा के लिए"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='100' height='60' stroke='black' fill='none'/><line x1='150' y1='110' x2='150' y2='130' stroke='green'/><path d='M130,130 L170,130 M135,135 L165,135 M140,140 L160,140' stroke='green'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is parallel connection preferred in domestic circuits?",
+        "hindi": "घरेलू परिपथों में समांतर संयोजन को क्यों प्राथमिकता दी जाती है?"
+      },
+      "option": {
+        "english": [
+          "Easy wiring",
+          "Less expensive",
+          "Independent operation",
+          "Looks better"
+        ],
+        "hindi": [
+          "आसान तारबंदी",
+          "कम खर्चीला",
+          "स्वतंत्र संचालन",
+          "बेहतर दिखता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is short circuit in domestic wiring?",
+        "hindi": "घरेलू तारबंदी में शॉर्ट सर्किट क्या है?"
+      },
+      "option": {
+        "english": [
+          "Normal connection",
+          "Power saving",
+          "Direct live-neutral contact",
+          "Earth connection"
+        ],
+        "hindi": [
+          "सामान्य कनेक्शन",
+          "बिजली बचत",
+          "सीधा लाइव-न्यूट्रल संपर्क",
+          "अर्थ कनेक्शन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

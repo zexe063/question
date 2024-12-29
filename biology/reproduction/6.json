@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of prostate gland?",
+        "hindi": "प्रोस्टेट ग्रंथि का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Produce fluid",
+          "Store sperm",
+          "Transport sperm",
+          "Filter sperm"
+        ],
+        "hindi": [
+          "द्रव उत्पादन",
+          "शुक्राणु संग्रह",
+          "शुक्राणु परिवहन",
+          "शुक्राणु छानना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone causes milk production?",
+        "hindi": "दूध उत्पादन किस हार्मोन से होता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Prolactin",
+          "Oxytocin",
+          "Progesterone"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "प्रोलैक्टिन",
+          "ऑक्सीटोसिन",
+          "प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of fallopian tubes?",
+        "hindi": "फैलोपियन ट्यूब की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store eggs",
+          "Produce eggs",
+          "Filter eggs",
+          "Transport eggs"
+        ],
+        "hindi": [
+          "अंडे संग्रह",
+          "अंडे उत्पादन",
+          "अंडे छानना",
+          "अंडे परिवहन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens during ovulation?",
+        "hindi": "अंडोत्सर्जन के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Uterus preparation",
+          "Egg release",
+          "Fertilization"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "गर्भाशय तैयारी",
+          "अंडा निकलना",
+          "निषेचन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of Sertoli cells?",
+        "hindi": "सर्टोली कोशिकाओं का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Nourish sperm",
+          "Produce testosterone",
+          "Filter blood",
+          "Store hormones"
+        ],
+        "hindi": [
+          "शुक्राणु का पोषण",
+          "टेस्टोस्टेरोन उत्पादन",
+          "रक्त छानना",
+          "हार्मोन संग्रह"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of hypothalamus?",
+        "hindi": "हाइपोथैलेमस की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Produce eggs",
+          "Store hormones",
+          "Control hormones",
+          "Filter blood"
+        ],
+        "hindi": [
+          "अंडे उत्पादन",
+          "हार्मोन संग्रह",
+          "हार्मोन नियंत्रण",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of chorion?",
+        "hindi": "जरायु का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Protect embryo",
+          "Store nutrients",
+          "Filter waste",
+          "Form placenta"
+        ],
+        "hindi": [
+          "भ्रूण की रक्षा",
+          "पोषक तत्व संग्रह",
+          "अपशिष्ट छानना",
+          "प्लेसेंटा बनाना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes milk ejection?",
+        "hindi": "दूध निकलने का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Prolactin",
+          "Oxytocin",
+          "Estrogen",
+          "Progesterone"
+        ],
+        "hindi": [
+          "प्रोलैक्टिन",
+          "ऑक्सीटोसिन",
+          "एस्ट्रोजन",
+          "प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of actin filaments in sperm?",
+        "hindi": "शुक्राणु में एक्टिन तंतुओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Movement",
+          "Energy production",
+          "DNA storage",
+          "Enzyme production"
+        ],
+        "hindi": [
+          "गति",
+          "ऊर्जा उत्पादन",
+          "DNA संग्रह",
+          "एंजाइम उत्पादन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of corona radiata?",
+        "hindi": "कोरोना रेडिएटा का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Hormone production",
+          "Sperm attraction",
+          "Egg protection",
+          "Waste removal"
+        ],
+        "hindi": [
+          "हार्मोन उत्पादन",
+          "शुक्राणु आकर्षण",
+          "अंडे की सुरक्षा",
+          "अपशिष्ट निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a glass slab appear thinner when viewed from above?",
+        "hindi": "ऊपर से देखने पर कांच की सिल्ली पतली क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Lateral shift of rays",
+          "Glass density",
+          "Surface reflection",
+          "Air pressure"
+        ],
+        "hindi": [
+          "किरणों का पार्श्व विस्थापन",
+          "कांच का घनत्व",
+          "सतह परावर्तन",
+          "वायु दाब"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do optical fibers show modal dispersion?",
+        "hindi": "प्रकाशिक तंतु मोडल विक्षेपण क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "Different path lengths",
+          "Material defect",
+          "Temperature effect",
+          "Pressure effect"
+        ],
+        "hindi": [
+          "विभिन्न पथ लंबाई",
+          "पदार्थ दोष",
+          "तापमान प्रभाव",
+          "दाब प्रभाव"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does chromatic aberration increase with lens power?",
+        "hindi": "लेंस की क्षमता के साथ वर्णीय विपथन क्यों बढ़ता है?"
+      },
+      "option": {
+        "english": [
+          "Increased dispersion effect",
+          "Material change",
+          "Temperature effect",
+          "Pressure change"
+        ],
+        "hindi": [
+          "वर्णविक्षेपण प्रभाव में वृद्धि",
+          "पदार्थ परिवर्तन",
+          "तापमान प्रभाव",
+          "दाब परिवर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray passes through seven media with refractive indices in GP (first=1.2, r=1.1). If i₁=60°, final angle is:",
+        "hindi": "एक किरण सात माध्यमों से गुजरती है जिनके अपवर्तनांक गुणोत्तर श्रेढ़ी में हैं (पहला=1.2, r=1.1)। यदि i₁=60° है, तो अंतिम कोण है:"
+      },
+      "option": {
+        "english": [
+          "22.3°",
+          "25°",
+          "20°",
+          "30°"
+        ],
+        "hindi": [
+          "22.3°",
+          "25°",
+          "20°",
+          "30°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope with variable tube length, if magnification varies as square of tube length, the relationship is:",
+        "hindi": "परिवर्तनीय ट्यूब लंबाई वाले संयुक्त सूक्ष्मदर्शी में, यदि आवर्धन ट्यूब लंबाई के वर्ग के अनुपात में बदलता है, तो संबंध है:"
+      },
+      "option": {
+        "english": [
+          "m ∝ L²",
+          "m ∝ L",
+          "m ∝ √L",
+          "m ∝ 1/L"
+        ],
+        "hindi": [
+          "m ∝ L²",
+          "m ∝ L",
+          "m ∝ √L",
+          "m ∝ 1/L"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of antisolar point?",
+        "hindi": "कौन सा किरण आरेख प्रतिसूर्य बिंदु का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Opposition scattering",
+          "Forward scattering",
+          "Side scattering",
+          "Random scattering"
+        ],
+        "hindi": [
+          "विपरीत प्रकीर्णन",
+          "अग्र प्रकीर्णन",
+          "पार्श्व प्रकीर्णन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='50' stroke='black' fill='none'/><path d='M50,75 L250,75' stroke='red'/><circle cx='250' cy='75' r='5' fill='blue'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of heiligenschein?",
+        "hindi": "कौन सा किरण आरेख हेलिगेनशाइन का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Retroreflection pattern",
+          "Forward reflection",
+          "Side reflection",
+          "Random reflection"
+        ],
+        "hindi": [
+          "पश्चपरावर्तन प्रतिरूप",
+          "अग्र परावर्तन",
+          "पार्श्व परावर्तन",
+          "यादृच्छिक परावर्तन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M100,75 L200,75' stroke='red'/><path d='M200,75 L100,75' stroke='blue' stroke-dasharray='5,5'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of green flash?",
+        "hindi": "कौन सा किरण आरेख हरित चमक का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Atmospheric dispersion",
+          "Simple reflection",
+          "Total reflection",
+          "Random scattering"
+        ],
+        "hindi": [
+          "वायुमंडलीय वर्णविक्षेपण",
+          "सरल परावर्तन",
+          "पूर्ण परावर्तन",
+          "यादृच्छिक प्रकीर्णन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 C150,25 200,75 250,25' stroke='red'/><path d='M50,85 C150,35 200,85 250,35' stroke='green'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Seven thin lenses of powers in HP (first=+6D, d=1D) are separated by 10cm each. Net power is:",
+        "hindi": "सात पतले लेंस जिनकी क्षमताएं हरात्मक श्रेढ़ी में हैं (पहला=+6D, d=1D), 10सेमी की दूरी पर हैं। कुल क्षमता है:"
+      },
+      "option": {
+        "english": [
+          "+8.4D",
+          "+7D",
+          "+9D",
+          "+10D"
+        ],
+        "hindi": [
+          "+8.4D",
+          "+7D",
+          "+9D",
+          "+10D"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a microscope with four stages, if tube length is 25cm and magnification is 2000, the sum of focal lengths (in mm) is:",
+        "hindi": "चार चरण वाले सूक्ष्मदर्शी में, यदि ट्यूब लंबाई 25सेमी और आवर्धन 2000 है, तो फोकस दूरियों का योग (मिमी में) है:"
+      },
+      "option": {
+        "english": [
+          "35",
+          "40",
+          "30",
+          "45"
+        ],
+        "hindi": [
+          "35",
+          "40",
+          "30",
+          "45"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Why does a stick appear bent differently in different liquids?",
+        "hindi": "एक छड़ी विभिन्न द्रवों में अलग-अलग तरह से मुड़ी हुई क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Different refractive indices",
+          "Different densities",
+          "Different colors",
+          "Different temperatures"
+        ],
+        "hindi": [
+          "विभिन्न अपवर्तनांक",
+          "विभिन्न घनत्व",
+          "विभिन्न रंग",
+          "विभिन्न तापमान"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do stars appear to twinkle more near horizon?",
+        "hindi": "तारे क्षितिज के पास अधिक टिमटिमाते क्यों दिखाई देते हैं?"
+      },
+      "option": {
+        "english": [
+          "More atmospheric layers crossed",
+          "Less brightness",
+          "More distance",
+          "Star's property"
+        ],
+        "hindi": [
+          "अधिक वायुमंडलीय परतों को पार करना",
+          "कम चमक",
+          "अधिक दूरी",
+          "तारे का गुण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a convex lens have different focal lengths for different colors?",
+        "hindi": "उत्तल लेंस की विभिन्न रंगों के लिए अलग-अलग फोकस दूरियां क्यों होती हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to dispersion",
+          "Due to reflection",
+          "Due to absorption",
+          "Due to lens shape"
+        ],
+        "hindi": [
+          "वर्णविक्षेपण के कारण",
+          "परावर्तन के कारण",
+          "अवशोषण के कारण",
+          "लेंस के आकार के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Light travels from glass(n=1.5) to liquid. If critical angle is 41.8°, liquid's refractive index is:",
+        "hindi": "प्रकाश कांच(n=1.5) से द्रव में जाता है। यदि क्रांतिक कोण 41.8° है, तो द्रव का अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "1.0",
+          "1.33",
+          "1.5",
+          "2.0"
+        ],
+        "hindi": [
+          "1.0",
+          "1.33",
+          "1.5",
+          "2.0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A 5cm high object is placed 20cm from a convex lens of focal length 15cm. Image height is:",
+        "hindi": "5सेमी ऊंची वस्तु 15सेमी फोकस दूरी के उत्तल लेंस से 20सेमी दूर रखी है। प्रतिबिंब की ऊंचाई है:"
+      },
+      "option": {
+        "english": [
+          "15cm",
+          "10cm",
+          "20cm",
+          "5cm"
+        ],
+        "hindi": [
+          "15सेमी",
+          "10सेमी",
+          "20सेमी",
+          "5सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows total internal reflection in optical fiber?",
+        "hindi": "कौन सा किरण आरेख प्रकाशिक तंतु में पूर्ण आंतरिक परावर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Zigzag path in core",
+          "Straight path",
+          "Curved path",
+          "Random path"
+        ],
+        "hindi": [
+          "कोर में जिगजैग पथ",
+          "सीधा पथ",
+          "वक्र पथ",
+          "यादृच्छिक पथ"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,50 L250,50 M50,100 L250,100' stroke='black'/><path d='M50,75 L100,50 L150,100 L200,50 L250,100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of real image by concave lens?",
+        "hindi": "कौन सा किरण आरेख अवतल लेंस द्वारा वास्तविक प्रतिबिंब का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Not possible",
+          "Beyond 2F",
+          "At F",
+          "Between F and 2F"
+        ],
+        "hindi": [
+          "संभव नहीं",
+          "2F से परे",
+          "F पर",
+          "F और 2F के बीच"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='100' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='100' stroke='red' stroke-dasharray='5,5'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows minimum deviation in prism?",
+        "hindi": "कौन सा किरण आरेख प्रिज्म में न्यूनतम विचलन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "i₁ = i₂",
+          "i₁ > i₂",
+          "i₁ < i₂",
+          "i₁ = 0"
+        ],
+        "hindi": [
+          "i₁ = i₂",
+          "i₁ > i₂",
+          "i₁ < i₂",
+          "i₁ = 0"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M100,25 L200,75 L100,125 Z' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Two thin lenses of power +6D and -2D are in contact. Object at 30cm forms image at:",
+        "hindi": "दो पतले लेंस जिनकी क्षमताएं +6D और -2D हैं, संपर्क में हैं। 30सेमी पर वस्तु का प्रतिबिंब बनता है:"
+      },
+      "option": {
+        "english": [
+          "60cm",
+          "45cm",
+          "75cm",
+          "90cm"
+        ],
+        "hindi": [
+          "60सेमी",
+          "45सेमी",
+          "75सेमी",
+          "90सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In a compound microscope, if magnification is 100 and objective focal length is 4mm, eyepiece focal length is:",
+        "hindi": "एक संयुक्त सूक्ष्मदर्शी में, यदि आवर्धन 100 और अभिदृश्यक की फोकस दूरी 4मिमी है, तो नेत्रिका की फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "5cm",
+          "2.5cm",
+          "7.5cm",
+          "10cm"
+        ],
+        "hindi": [
+          "5सेमी",
+          "2.5सेमी",
+          "7.5सेमी",
+          "10सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

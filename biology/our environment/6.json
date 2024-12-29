@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the primary source of energy in food chains?",
+        "hindi": "खाद्य श्रृंखलाओं में ऊर्जा का प्राथमिक स्रोत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Sun",
+          "Moon",
+          "Earth",
+          "Wind"
+        ],
+        "hindi": [
+          "सूर्य",
+          "चंद्रमा",
+          "पृथ्वी",
+          "वायु"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of decomposers in nutrient cycling?",
+        "hindi": "पोषक तत्व चक्रण में अपघटकों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Store nutrients",
+          "Break down matter",
+          "Produce food",
+          "Create energy"
+        ],
+        "hindi": [
+          "पोषक तत्व भंडारण",
+          "पदार्थ विघटन",
+          "भोजन उत्पादन",
+          "ऊर्जा निर्माण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of greenhouse effect?",
+        "hindi": "ग्रीनहाउस प्रभाव का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Cooling Earth",
+          "No effect",
+          "Normal temperature",
+          "Global warming"
+        ],
+        "hindi": [
+          "पृथ्वी का ठंडा होना",
+          "कोई प्रभाव नहीं",
+          "सामान्य तापमान",
+          "ग्लोबल वार्मिंग"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological succession?",
+        "hindi": "पारिस्थितिक अनुक्रमण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random change",
+          "No change",
+          "Gradual change",
+          "Sudden change"
+        ],
+        "hindi": [
+          "यादृच्छिक परिवर्तन",
+          "कोई परिवर्तन नहीं",
+          "क्रमिक परिवर्तन",
+          "अचानक परिवर्तन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is most harmful to ozone layer?",
+        "hindi": "ओजोन परत के लिए कौन सी गैस सबसे हानिकारक है?"
+      },
+      "option": {
+        "english": [
+          "CFC",
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide"
+        ],
+        "hindi": [
+          "सीएफसी",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biomagnification?",
+        "hindi": "जैव आवर्धन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Decrease in toxins",
+          "No change",
+          "Toxin accumulation",
+          "Toxin removal"
+        ],
+        "hindi": [
+          "विषाक्त पदार्थों में कमी",
+          "कोई परिवर्तन नहीं",
+          "विषाक्त पदार्थों का संचय",
+          "विषाक्त पदार्थों का निष्कासन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of eutrophication?",
+        "hindi": "सुपोषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better aquatic life",
+          "More oxygen",
+          "Algal bloom"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर जलीय जीवन",
+          "अधिक ऑक्सीजन",
+          "शैवाल वृद्धि"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of biological control?",
+        "hindi": "जैविक नियंत्रण का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Increase pests",
+          "Natural pest control",
+          "Kill all insects",
+          "Use chemicals"
+        ],
+        "hindi": [
+          "कीटों में वृद्धि",
+          "प्राकृतिक कीट नियंत्रण",
+          "सभी कीड़ों को मारना",
+          "रसायनों का उपयोग"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is the largest ecosystem on Earth?",
+        "hindi": "पृथ्वी पर सबसे बड़ा पारिस्थितिकी तंत्र कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Ocean",
+          "Forest",
+          "Desert",
+          "Grassland"
+        ],
+        "hindi": [
+          "महासागर",
+          "जंगल",
+          "रेगिस्तान",
+          "घास का मैदान"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of keystone species?",
+        "hindi": "कीस्टोन प्रजातियों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Minor role",
+          "Ecosystem balance",
+          "Food only"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "छोटी भूमिका",
+          "पारिस्थितिकी संतुलन",
+          "केवल भोजन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

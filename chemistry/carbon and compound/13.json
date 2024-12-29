@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gas is produced when ethanol burns in air?",
+        "hindi": "एथेनॉल हवा में जलने पर कौन सी गैस उत्पन्न होती है?"
+      },
+      "option": {
+        "english": [
+          "CO",
+          "CO₂",
+          "SO₂",
+          "NO₂"
+        ],
+        "hindi": [
+          "CO",
+          "CO₂",
+          "SO₂",
+          "NO₂"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when sodium metal reacts with ethanol?",
+        "hindi": "सोडियम धातु एथेनॉल से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction",
+          "Forms salt and water",
+          "Forms salt and hydrogen",
+          "Forms oxide"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं",
+          "लवण और जल बनता है",
+          "लवण और हाइड्रोजन बनता है",
+          "ऑक्साइड बनता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these has highest boiling point?",
+        "hindi": "इनमें से किसका क्वथनांक सबसे अधिक होता है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Ethene",
+          "Ethanol",
+          "Ethanoic acid"
+        ],
+        "hindi": [
+          "एथेन",
+          "एथीन",
+          "एथेनॉल",
+          "एथेनोइक अम्ल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of CH₃COOH?",
+        "hindi": "CH₃COOH का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Acetic acid",
+          "Formic acid",
+          "Citric acid",
+          "Oxalic acid"
+        ],
+        "hindi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "साइट्रिक अम्ल",
+          "ऑक्सैलिक अम्ल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used in denatured spirit?",
+        "hindi": "विकृत स्पिरिट में इनमें से किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Methanol",
+          "Ethanol",
+          "Propanol",
+          "Butanol"
+        ],
+        "hindi": [
+          "मेथेनॉल",
+          "एथेनॉल",
+          "प्रोपेनॉल",
+          "ब्यूटेनॉल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Identify the hybridization shown in the carbon atom:",
+        "hindi": "कार्बन परमाणु में दर्शाए गए संकरण को पहचानें:"
+      },
+      "option": {
+        "english": [
+          "sp³",
+          "sp²",
+          "sp",
+          "No hybridization"
+        ],
+        "hindi": [
+          "sp³",
+          "sp²",
+          "sp",
+          "कोई संकरण नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='60' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='52' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='-52' stroke='black' stroke-width='2'/><circle cx='60' cy='0' r='15' fill='#9b9b9b'/><circle cx='-30' cy='52' r='15' fill='#9b9b9b'/><circle cx='-30' cy='-52' r='15' fill='#9b9b9b'/><text x='60' y='5' text-anchor='middle' fill='white'>H</text><text x='-30' y='57' text-anchor='middle' fill='white'>H</text><text x='-30' y='-47' text-anchor='middle' fill='white'>H</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which molecular structure is shown in the diagram?",
+        "hindi": "आरेख में कौन सी आण्विक संरचना दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Ethene",
+          "Ethyne",
+          "Methane"
+        ],
+        "hindi": [
+          "एथेन",
+          "एथीन",
+          "एथाइन",
+          "मीथेन"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(60,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='20' y1='0' x2='160' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='0' x2='120' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='0' x2='120' y2='0' stroke='black' stroke-width='2'/><circle cx='180' cy='0' r='20' fill='#4a90e2'/><text x='180' y='5' text-anchor='middle' fill='white'>C</text><circle cx='-30' cy='0' r='15' fill='#9b9b9b'/><circle cx='210' cy='0' r='15' fill='#9b9b9b'/><text x='-30' y='5' text-anchor='middle' fill='white'>H</text><text x='210' y='5' text-anchor='middle' fill='white'>H</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of bond angles are shown in this molecule?",
+        "hindi": "इस अणु में किस प्रकार के बंध कोण दिखाए गए हैं?"
+      },
+      "option": {
+        "english": [
+          "90°",
+          "109.5°",
+          "120°",
+          "180°"
+        ],
+        "hindi": [
+          "90°",
+          "109.5°",
+          "120°",
+          "180°"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='60' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='52' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='-52' stroke='black' stroke-width='2'/><text x='30' y='-20' fill='black'>90°</text><circle cx='60' cy='0' r='15' fill='#9b9b9b'/><circle cx='-30' cy='52' r='15' fill='#9b9b9b'/><circle cx='-30' cy='-52' r='15' fill='#9b9b9b'/><text x='60' y='5' text-anchor='middle' fill='white'>H</text><text x='-30' y='57' text-anchor='middle' fill='white'>H</text><text x='-30' y='-47' text-anchor='middle' fill='white'>H</text></g></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of sulphuric acid in esterification?",
+        "hindi": "एस्टरीकरण में सल्फ्यूरिक अम्ल की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Oxidizing agent",
+          "Catalyst",
+          "Reducing agent",
+          "Dehydrating agent"
+        ],
+        "hindi": [
+          "ऑक्सीकारक",
+          "उत्प्रेरक",
+          "अपचायक",
+          "निर्जलीकारक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why does ethanoic acid not give effervescence with sodium carbonate?",
+        "hindi": "एथेनोइक अम्ल सोडियम कार्बोनेट के साथ बुदबुदाहट क्यों नहीं करता?"
+      },
+      "option": {
+        "english": [
+          "Strong acid",
+          "Weak acid",
+          "Strong base",
+          "Weak base"
+        ],
+        "hindi": [
+          "प्रबल अम्ल",
+          "दुर्बल अम्ल",
+          "प्रबल क्षार",
+          "दुर्बल क्षार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

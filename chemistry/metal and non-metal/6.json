@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making jewelry?",
+        "hindi": "आभूषण बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Iron",
+          "Copper",
+          "Zinc"
+        ],
+        "hindi": [
+          "सोना",
+          "लोहा",
+          "तांबा",
+          "जस्ता"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making coins?",
+        "hindi": "सिक्के बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Lead",
+          "Copper",
+          "Mercury",
+          "Zinc"
+        ],
+        "hindi": [
+          "सीसा",
+          "तांबा",
+          "पारा",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making solder?",
+        "hindi": "सोल्डर बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Copper",
+          "Aluminum",
+          "Lead-Tin alloy"
+        ],
+        "hindi": [
+          "लोहा",
+          "तांबा",
+          "एल्युमिनियम",
+          "सीसा-टिन मिश्रधातु"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making electric bulb filaments?",
+        "hindi": "बिजली के बल्ब का फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Tungsten",
+          "Zinc"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "टंगस्टन",
+          "जस्ता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making mirrors?",
+        "hindi": "दर्पण बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Silver",
+          "Gold",
+          "Copper",
+          "Iron"
+        ],
+        "hindi": [
+          "चांदी",
+          "सोना",
+          "तांबा",
+          "लोहा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is formed when metals react with oxygen?",
+        "hindi": "धातुएं ऑक्सीजन से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "Hydroxide",
+          "Salt",
+          "Metal oxide",
+          "Acid"
+        ],
+        "hindi": [
+          "हाइड्रॉक्साइड",
+          "लवण",
+          "धातु ऑक्साइड",
+          "अम्ल"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of coating iron with chromium called?",
+        "hindi": "लोहे पर क्रोमियम की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Alloying",
+          "Annealing",
+          "Chromium plating"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "मिश्रधातु बनाना",
+          "अनीलन",
+          "क्रोमियम लेपन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is brass?",
+        "hindi": "पीतल क्या है?"
+      },
+      "option": {
+        "english": [
+          "Fe + C",
+          "Cu + Zn",
+          "Cu + Sn",
+          "Al + Cu"
+        ],
+        "hindi": [
+          "Fe + C",
+          "Cu + Zn",
+          "Cu + Sn",
+          "Al + Cu"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is most malleable?",
+        "hindi": "कौन सी धातु सबसे अधिक आघातवर्धनीय है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Silver",
+          "Copper",
+          "Iron"
+        ],
+        "hindi": [
+          "सोना",
+          "चांदी",
+          "तांबा",
+          "लोहा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of obtaining pure metals from their ores called?",
+        "hindi": "अयस्कों से शुद्ध धातुओं को प्राप्त करने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Smelting",
+          "Metallurgy",
+          "Refining"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "प्रगलन",
+          "धातुकर्म",
+          "परिष्करण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

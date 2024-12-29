@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is the main function of stomata?",
+        "hindi": "रंध्रों का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Storage of food",
+          "Exchange of gases",
+          "Transport of water",
+          "Protein synthesis"
+        ],
+        "hindi": [
+          "भोजन का संग्रहण",
+          "गैसों का आदान-प्रदान",
+          "जल का परिवहन",
+          "प्रोटीन संश्लेषण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which organ helps in digestion of proteins?",
+        "hindi": "कौन सा अंग प्रोटीन के पाचन में मदद करता है?"
+      },
+      "option": {
+        "english": [
+          "Stomach",
+          "Small intestine",
+          "Large intestine",
+          "Liver"
+        ],
+        "hindi": [
+          "आमाशय",
+          "छोटी आंत",
+          "बड़ी आंत",
+          "यकृत"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of haemoglobin?",
+        "hindi": "हीमोग्लोबिन का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Fight infection",
+          "Blood clotting",
+          "Transport oxygen",
+          "Digest food"
+        ],
+        "hindi": [
+          "संक्रमण से लड़ना",
+          "रक्त का थक्का जमाना",
+          "ऑक्सीजन का परिवहन",
+          "भोजन का पाचन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of nephron filters blood?",
+        "hindi": "नेफ्रॉन का कौन सा भाग रक्त को छानता है?"
+      },
+      "option": {
+        "english": [
+          "Loop of Henle",
+          "Collecting duct",
+          "Bowman's capsule",
+          "Ureter"
+        ],
+        "hindi": [
+          "हेनले का लूप",
+          "संग्रही नलिका",
+          "बोमन संपुट",
+          "मूत्रवाहिनी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of bile in digestion?",
+        "hindi": "पाचन में पित्त की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Digest proteins",
+          "Emulsify fats",
+          "Break carbohydrates",
+          "Absorb vitamins"
+        ],
+        "hindi": [
+          "प्रोटीन का पाचन",
+          "वसा का पायसीकरण",
+          "कार्बोहाइड्रेट का विघटन",
+          "विटामिन का अवशोषण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which chamber of heart has thickest wall?",
+        "hindi": "हृदय के किस कक्ष की दीवार सबसे मोटी होती है?"
+      },
+      "option": {
+        "english": [
+          "Right atrium",
+          "Left atrium",
+          "Right ventricle",
+          "Left ventricle"
+        ],
+        "hindi": [
+          "दायाँ आलिंद",
+          "बायाँ आलिंद",
+          "दायाँ निलय",
+          "बायाँ निलय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of kidneys?",
+        "hindi": "गुर्दे का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Digest food",
+          "Produce hormones",
+          "Filter blood",
+          "Store water"
+        ],
+        "hindi": [
+          "भोजन का पाचन",
+          "हार्मोन का उत्पादन",
+          "रक्त को छानना",
+          "जल का संग्रहण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which blood vessel carries oxygenated blood?",
+        "hindi": "कौन सी रक्त वाहिनी ऑक्सीजनयुक्त रक्त ले जाती है?"
+      },
+      "option": {
+        "english": [
+          "Veins",
+          "Capillaries",
+          "Arteries",
+          "Venules"
+        ],
+        "hindi": [
+          "शिराएं",
+          "केशिकाएं",
+          "धमनियां",
+          "शिरिकाएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Where does digestion of starch begin?",
+        "hindi": "स्टार्च का पाचन कहाँ से प्रारंभ होता है?"
+      },
+      "option": {
+        "english": [
+          "Stomach",
+          "Mouth",
+          "Small intestine",
+          "Large intestine"
+        ],
+        "hindi": [
+          "आमाशय",
+          "मुख",
+          "छोटी आंत",
+          "बड़ी आंत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of villi?",
+        "hindi": "कूपिकाओं का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Secrete enzymes",
+          "Store food",
+          "Absorb nutrients",
+          "Filter blood"
+        ],
+        "hindi": [
+          "एंजाइम स्रावित करना",
+          "भोजन संग्रह करना",
+          "पोषक तत्वों का अवशोषण",
+          "रक्त छानना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    }
+  ]

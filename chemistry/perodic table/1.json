@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which element has atomic number 20 and is essential for bone formation?",
+        "hindi": "किस तत्व की परमाणु संख्या 20 है और हड्डियों के निर्माण के लिए आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Magnesium",
+          "Calcium",
+          "Potassium",
+          "Sodium"
+        ],
+        "hindi": [
+          "मैग्नीशियम",
+          "कैल्शियम",
+          "पोटैशियम",
+          "सोडियम"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The atomic number of an element is 17. In which group and period will it be placed?",
+        "hindi": "एक तत्व की परमाणु संख्या 17 है। यह किस समूह और आवर्त में रखा जाएगा?"
+      },
+      "option": {
+        "english": [
+          "Group 17, Period 3",
+          "Group 7, Period 3",
+          "Group 17, Period 2",
+          "Group 7, Period 2"
+        ],
+        "hindi": [
+          "समूह 17, आवर्त 3",
+          "समूह 7, आवर्त 3",
+          "समूह 17, आवर्त 2",
+          "समूह 7, आवर्त 2"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these elements shows most metallic character?",
+        "hindi": "इनमें से कौन सा तत्व सबसे अधिक धात्विक गुण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Na",
+          "Mg",
+          "K",
+          "Ca"
+        ],
+        "hindi": [
+          "Na",
+          "Mg",
+          "K",
+          "Ca"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the valency of an element with atomic number 13?",
+        "hindi": "परमाणु संख्या 13 वाले तत्व की संयोजकता क्या है?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "1",
+          "4",
+          "3"
+        ],
+        "hindi": [
+          "2",
+          "1",
+          "4",
+          "3"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has the highest electronegativity?",
+        "hindi": "किस तत्व की विद्युतऋणात्मकता सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Chlorine",
+          "Fluorine",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "क्लोरीन",
+          "फ्लोरीन",
+          "ऑक्सीजन",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does atomic size change from left to right in a period?",
+        "hindi": "एक आवर्त में बाएं से दाएं परमाणु आकार कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Increases",
+          "Remains same",
+          "Decreases",
+          "First increases then decreases"
+        ],
+        "hindi": [
+          "बढ़ता है",
+          "समान रहता है",
+          "घटता है",
+          "पहले बढ़ता है फिर घटता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do noble gases have zero valency?",
+        "hindi": "उत्कृष्ट गैसों की संयोजकता शून्य क्यों होती है?"
+      },
+      "option": {
+        "english": [
+          "Complete outer shell",
+          "Empty outer shell",
+          "Half-filled outer shell",
+          "Unstable outer shell"
+        ],
+        "hindi": [
+          "पूर्ण बाह्य कोश",
+          "खाली बाह्य कोश",
+          "अर्ध-भरा बाह्य कोश",
+          "अस्थिर बाह्य कोश"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to metallic character down a group?",
+        "hindi": "एक समूह में नीचे जाने पर धात्विक गुण क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Decreases",
+          "Remains same",
+          "First increases then decreases",
+          "Increases"
+        ],
+        "hindi": [
+          "घटता है",
+          "समान रहता है",
+          "पहले बढ़ता है फिर घटता है",
+          "बढ़ता है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property determines the reactivity of elements?",
+        "hindi": "कौन सा गुण तत्वों की अभिक्रियाशीलता निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "Atomic mass",
+          "Electronic configuration",
+          "Atomic number",
+          "Atomic size"
+        ],
+        "hindi": [
+          "परमाणु द्रव्यमान",
+          "इलेक्ट्रॉनिक विन्यास",
+          "परमाणु संख्या",
+          "परमाणु आकार"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why was Mendeleev's periodic table more successful than others?",
+        "hindi": "मेंडलीफ की आवर्त सारणी अन्य से अधिक सफल क्यों थी?"
+      },
+      "option": {
+        "english": [
+          "Based on atomic mass",
+          "Left gaps for new elements",
+          "Based on atomic number",
+          "Included all known elements"
+        ],
+        "hindi": [
+          "परमाणु द्रव्यमान पर आधारित",
+          "नए तत्वों के लिए जगह छोड़ी",
+          "परमाणु संख्या पर आधारित",
+          "सभी ज्ञात तत्वों को शामिल किया"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

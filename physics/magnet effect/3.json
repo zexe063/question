@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is Fleming's left-hand rule used for?",
+        "hindi": "फ्लेमिंग का बायाँ हाथ का नियम किसके लिए प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Generator principle",
+          "Transformer working",
+          "Motor principle",
+          "Induction"
+        ],
+        "hindi": [
+          "जनरेटर का सिद्धांत",
+          "ट्रांसफार्मर कार्यप्रणाली",
+          "मोटर का सिद्धांत",
+          "प्रेरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which finger represents magnetic field in Fleming's left-hand rule?",
+        "hindi": "फ्लेमिंग के बायें हाथ के नियम में कौन सी उंगली चुंबकीय क्षेत्र को दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "Middle finger",
+          "Thumb",
+          "Index finger",
+          "Ring finger"
+        ],
+        "hindi": [
+          "मध्यमा",
+          "अंगूठा",
+          "तर्जनी",
+          "अनामिका"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which finger shows the direction of current in Fleming's left-hand rule?",
+        "hindi": "फ्लेमिंग के बायें हाथ के नियम में कौन सी उंगली धारा की दिशा दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "Ring finger",
+          "Index finger",
+          "Middle finger",
+          "Thumb"
+        ],
+        "hindi": [
+          "अनामिका",
+          "तर्जनी",
+          "मध्यमा",
+          "अंगूठा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which finger indicates the direction of force in Fleming's left-hand rule?",
+        "hindi": "फ्लेमिंग के बायें हाथ के नियम में कौन सी उंगली बल की दिशा दर्शाती है?"
+      },
+      "option": {
+        "english": [
+          "Thumb",
+          "Index finger",
+          "Ring finger",
+          "Middle finger"
+        ],
+        "hindi": [
+          "अंगूठा",
+          "तर्जनी",
+          "अनामिका",
+          "मध्यमा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Where is Fleming's left-hand rule applied in daily life?",
+        "hindi": "दैनिक जीवन में फ्लेमिंग का बायाँ हाथ का नियम कहाँ लागू होता है?"
+      },
+      "option": {
+        "english": [
+          "Generator",
+          "Battery",
+          "Electric motor",
+          "Transformer"
+        ],
+        "hindi": [
+          "जनरेटर",
+          "बैटरी",
+          "विद्युत मोटर",
+          "ट्रांसफार्मर"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does Fleming's left-hand rule help in electric motors?",
+        "hindi": "फ्लेमिंग का बायाँ हाथ का नियम विद्युत मोटरों में कैसे सहायता करता है?"
+      },
+      "option": {
+        "english": [
+          "Shows heat direction",
+          "Shows rotation direction",
+          "Shows power flow",
+          "Shows energy loss"
+        ],
+        "hindi": [
+          "ऊष्मा की दिशा दिखाता है",
+          "घूर्णन की दिशा दिखाता है",
+          "शक्ति प्रवाह दिखाता है",
+          "ऊर्जा ह्रास दिखाता है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='200' y2='75' stroke='black' stroke-width='2'/><path d='M150,75 L150,45' stroke='red' stroke-width='2'/><path d='M150,75 L180,75' stroke='blue' stroke-width='2'/><circle cx='150' cy='75' r='5' fill='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to motor rotation when current direction is reversed?",
+        "hindi": "धारा की दिशा उलटने पर मोटर के घूर्णन का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Stops rotating",
+          "Direction reverses",
+          "Speeds up",
+          "Slows down"
+        ],
+        "hindi": [
+          "घूर्णन रुक जाता है",
+          "दिशा उलट जाती है",
+          "गति बढ़ जाती है",
+          "गति कम हो जाती है"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M150,35 L150,115' stroke='black'/><path d='M130,75 L170,75' stroke='black'/><path d='M150,75 C180,75 180,45 150,45' stroke='red' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How does magnetic field affect the force on conductor in motors?",
+        "hindi": "मोटर में चुंबकीय क्षेत्र चालक पर लगने वाले बल को कैसे प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "No effect",
+          "Directly proportional",
+          "Inversely proportional",
+          "Exponentially related"
+        ],
+        "hindi": [
+          "कोई प्रभाव नहीं",
+          "समानुपाती",
+          "व्युत्क्रमानुपाती",
+          "घातीय संबंध"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><path d='M150,25 L150,125' stroke='blue' stroke-dasharray='5,5'/><path d='M140,75 L160,75' stroke='red'/><path d='M150,65 L150,85' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is Fleming's left-hand rule called motor rule?",
+        "hindi": "फ्लेमिंग के बायें हाथ के नियम को मोटर नियम क्यों कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Easy to remember",
+          "Used in generators",
+          "Explains motor working",
+          "Shows current flow"
+        ],
+        "hindi": [
+          "याद रखने में आसान",
+          "जनरेटर में प्रयोग",
+          "मोटर कार्यप्रणाली समझाता है",
+          "धारा प्रवाह दिखाता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the relationship between force, field and current in Fleming's left-hand rule?",
+        "hindi": "फ्लेमिंग के बायें हाथ के नियम में बल, क्षेत्र और धारा में क्या संबंध है?"
+      },
+      "option": {
+        "english": [
+          "Random directions",
+          "Parallel directions",
+          "Perpendicular to each other",
+          "Opposite directions"
+        ],
+        "hindi": [
+          "यादृच्छिक दिशाएं",
+          "समांतर दिशाएं",
+          "एक दूसरे के लंबवत",
+          "विपरीत दिशाएं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

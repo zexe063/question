@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "What is the right-hand thumb rule also known as?",
+        "hindi": "दायें हाथ के अंगूठे का नियम किस नाम से भी जाना जाता है?"
+      },
+      "option": {
+        "english": [
+          "Fleming's rule",
+          "Maxwell's rule",
+          "Ampere's rule",
+          "Faraday's rule"
+        ],
+        "hindi": [
+          "फ्लेमिंग का नियम",
+          "मैक्सवेल का नियम",
+          "एम्पीयर का नियम",
+          "फैराडे का नियम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "When does the right-hand thumb rule apply?",
+        "hindi": "दायें हाथ के अंगूठे का नियम कब लागू होता है?"
+      },
+      "option": {
+        "english": [
+          "For AC current only",
+          "For straight conductors",
+          "For magnets only",
+          "For coils only"
+        ],
+        "hindi": [
+          "केवल प्रत्यावर्ती धारा के लिए",
+          "सीधे चालकों के लिए",
+          "केवल चुंबकों के लिए",
+          "केवल कुंडलियों के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What does the thumb indicate in right-hand thumb rule?",
+        "hindi": "दायें हाथ के अंगूठे के नियम में अंगूठा क्या दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Magnetic field",
+          "Electric field",
+          "Field strength",
+          "Current direction"
+        ],
+        "hindi": [
+          "चुंबकीय क्षेत्र",
+          "विद्युत क्षेत्र",
+          "क्षेत्र की तीव्रता",
+          "धारा की दिशा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What do the curled fingers represent in right-hand thumb rule?",
+        "hindi": "दायें हाथ के अंगूठे के नियम में मुड़ी हुई उंगलियां क्या दर्शाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Current direction",
+          "Magnetic field direction",
+          "Electric field",
+          "Force direction"
+        ],
+        "hindi": [
+          "धारा की दिशा",
+          "चुंबकीय क्षेत्र की दिशा",
+          "विद्युत क्षेत्र",
+          "बल की दिशा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which scientist formulated the right-hand thumb rule?",
+        "hindi": "दायें हाथ के अंगूठे का नियम किस वैज्ञानिक ने प्रतिपादित किया?"
+      },
+      "option": {
+        "english": [
+          "Maxwell",
+          "Fleming",
+          "Ampere",
+          "Faraday"
+        ],
+        "hindi": [
+          "मैक्सवेल",
+          "फ्लेमिंग",
+          "एम्पीयर",
+          "फैराडे"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How is magnetic field direction determined using right-hand thumb rule?",
+        "hindi": "दायें हाथ के अंगूठे के नियम से चुंबकीय क्षेत्र की दिशा कैसे निर्धारित की जाती है?"
+      },
+      "option": {
+        "english": [
+          "By thumb direction",
+          "By palm direction",
+          "By curved fingers",
+          "By wrist direction"
+        ],
+        "hindi": [
+          "अंगूठे की दिशा से",
+          "हथेली की दिशा से",
+          "मुड़ी उंगलियों से",
+          "कलाई की दिशा से"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black' stroke-width='2'/><path d='M150,75 L150,45' stroke='red' stroke-width='2'/><circle cx='150' cy='75' r='30' stroke='blue' fill='none' stroke-dasharray='5,5'/><path d='M150,75 C180,75 180,45 150,45' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to magnetic field lines when current direction is reversed?",
+        "hindi": "धारा की दिशा उलटने पर चुंबकीय क्षेत्र रेखाओं का क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Disappear",
+          "Direction reverses",
+          "Remain same",
+          "Become straight"
+        ],
+        "hindi": [
+          "लुप्त हो जाती हैं",
+          "दिशा उलट जाती है",
+          "समान रहती हैं",
+          "सीधी हो जाती हैं"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black' stroke-width='2'/><circle cx='150' cy='75' r='30' stroke='blue' fill='none'/><path d='M150,75 C180,75 180,45 150,45' stroke='red' fill='none'/><path d='M150,75 C120,75 120,105 150,105' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "How do magnetic field lines behave around a current-carrying circular loop?",
+        "hindi": "धारावाही वृत्ताकार लूप के चारों ओर चुंबकीय क्षेत्र रेखाएं कैसा व्यवहार करती हैं?"
+      },
+      "option": {
+        "english": [
+          "Random pattern",
+          "Straight lines",
+          "Circular pattern",
+          "Like solenoid"
+        ],
+        "hindi": [
+          "यादृच्छिक प्रतिरूप",
+          "सीधी रेखाएं",
+          "वृत्तीय प्रतिरूप",
+          "परिनालिका की तरह"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><path d='M110,75 Q150,45 190,75' stroke='blue' fill='none'/><path d='M110,75 Q150,105 190,75' stroke='blue' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is right-hand thumb rule important in electromagnetic theory?",
+        "hindi": "विद्युत चुंबकीय सिद्धांत में दायें हाथ के अंगूठे का नियम क्यों महत्वपूर्ण है?"
+      },
+      "option": {
+        "english": [
+          "Easy to remember",
+          "Mathematically proven",
+          "Predicts field direction",
+          "Shows field strength"
+        ],
+        "hindi": [
+          "याद रखने में आसान",
+          "गणितीय रूप से सिद्ध",
+          "क्षेत्र की दिशा बताता है",
+          "क्षेत्र की तीव्रता दर्शाता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the limitation of right-hand thumb rule?",
+        "hindi": "दायें हाथ के अंगूठे के नियम की सीमा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Works for AC only",
+          "Only direction, no magnitude",
+          "Works for DC only",
+          "Only for straight wires"
+        ],
+        "hindi": [
+          "केवल AC के लिए काम करता है",
+          "केवल दिशा, परिमाण नहीं",
+          "केवल DC के लिए काम करता है",
+          "केवल सीधे तारों के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

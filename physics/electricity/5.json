@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the SI unit of electrical resistivity?",
+        "hindi": "विद्युत प्रतिरोधकता का SI मात्रक क्या है?"
+      },
+      "option": {
+        "english": [
+          "ohm (Ω)",
+          "ohm-meter (Ω-m)",
+          "ohm/meter (Ω/m)",
+          "ohm-meter² (Ω-m²)"
+        ],
+        "hindi": [
+          "ओम (Ω)",
+          "ओम-मीटर (Ω-m)",
+          "ओम/मीटर (Ω/m)",
+          "ओम-मीटर² (Ω-m²)"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which wire in a three-pin socket carries the highest potential?",
+        "hindi": "तीन-पिन सॉकेट में कौन सा तार उच्चतम विभव ले जाता है?"
+      },
+      "option": {
+        "english": [
+          "Neutral wire",
+          "Earth wire",
+          "Live wire",
+          "All have same potential"
+        ],
+        "hindi": [
+          "न्यूट्रल तार",
+          "अर्थ तार",
+          "लाइव तार",
+          "सभी का विभव समान होता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to the resistance of a wire if its length is doubled but area remains same?",
+        "hindi": "एक तार के प्रतिरोध में क्या होता है यदि उसकी लंबाई दोगुनी कर दी जाए परंतु क्षेत्रफल समान रहे?"
+      },
+      "option": {
+        "english": [
+          "Becomes half",
+          "Becomes double",
+          "Remains same",
+          "Becomes four times"
+        ],
+        "hindi": [
+          "आधा हो जाता है",
+          "दोगुना हो जाता है",
+          "समान रहता है",
+          "चार गुना हो जाता है"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the cost of running a 2000W air conditioner for 8 hours if electricity rate is ₹8 per unit.",
+        "hindi": "2000W के एयर कंडीशनर को 8 घंटे चलाने की लागत की गणना करें यदि बिजली की दर ₹8 प्रति यूनिट है।"
+      },
+      "option": {
+        "english": [
+          "₹96",
+          "₹128",
+          "₹156",
+          "₹192"
+        ],
+        "hindi": [
+          "₹96",
+          "₹128",
+          "₹156",
+          "₹192"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If voltage across a 40Ω resistor is 20V, what is the power dissipated?",
+        "hindi": "यदि 40Ω प्रतिरोधक के सिरों पर 20V विभवांतर है, तो व्यय की गई शक्ति क्या होगी?"
+      },
+      "option": {
+        "english": [
+          "5W",
+          "10W",
+          "15W",
+          "20W"
+        ],
+        "hindi": [
+          "5W",
+          "10W",
+          "15W",
+          "20W"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the incorrect connection in this domestic circuit:",
+        "hindi": "इस घरेलू परिपथ में गलत कनेक्शन की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Fuse connection",
+          "Switch connection",
+          "Socket connection",
+          "Main wire connection"
+        ],
+        "hindi": [
+          "फ्यूज कनेक्शन",
+          "स्विच कनेक्शन",
+          "सॉकेट कनेक्शन",
+          "मुख्य तार कनेक्शन"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><rect x='100' y='65' width='20' height='20' fill='none' stroke='black'/><circle cx='150' cy='75' r='10' fill='none' stroke='black'/><rect x='180' y='60' width='30' height='30' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Which electrical quantity is being measured in this setup?",
+            "hindi": "इस व्यवस्था में कौन सी विद्युत राशि मापी जा रही है?"
+        },
+        "option": {
+            "english": [
+                "Current",
+                "Voltage",
+                "Power",
+                "Resistance"
+            ],
+            "hindi": [
+                "धारा",
+                "वोल्टेज",
+                "शक्ति",
+                "प्रतिरोध"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='60' height='30' fill='none' stroke='black'/><text x='140' y='70'>V</text><line x1='120' y1='65' x2='80' y2='65' stroke='black'/><line x1='180' y1='65' x2='220' y2='65' stroke='black'/><rect x='220' y='55' width='40' height='20' fill='none' stroke='black'/><text x='230' y='70'>R</text></svg>",
+        "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which safety device is shown in the household circuit?",
+        "hindi": "घरेलू परिपथ में कौन सा सुरक्षा उपकरण दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Switch",
+          "MCB",
+          "Socket",
+          "Earthing"
+        ],
+        "hindi": [
+          "स्विच",
+          "MCB",
+          "सॉकेट",
+          "अर्थिंग"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='60' height='30' fill='none' stroke='black'/><line x1='150' y1='80' x2='150' y2='100' stroke='black'/><path d='M 140 60 L 160 80 M 140 80 L 160 60' stroke='black' fill='none'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the effective resistance between points A and B:",
+        "hindi": "बिंदु A और B के बीच प्रभावी प्रतिरोध की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "3Ω",
+          "6Ω",
+          "9Ω",
+          "12Ω"
+        ],
+        "hindi": [
+          "3Ω",
+          "6Ω",
+          "9Ω",
+          "12Ω"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='110' y='65'>12Ω</text><text x='110' y='105'>12Ω</text><text x='40' y='35'>A</text><text x='260' y='35'>B</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why are electric bulbs filled with inert gas? Explain:",
+        "hindi": "विद्युत बल्बों में निष्क्रिय गैस क्यों भरी जाती है? समझाएं:"
+      },
+      "option": {
+        "english": [
+          "To increase brightness",
+          "To prevent filament oxidation",
+          "To reduce power consumption",
+          "To increase bulb life only"
+        ],
+        "hindi": [
+          "चमक बढ़ाने के लिए",
+          "फिलामेंट के ऑक्सीकरण को रोकने के लिए",
+          "बिजली की खपत कम करने के लिए",
+          "केवल बल्ब का जीवन बढ़ाने के लिए"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

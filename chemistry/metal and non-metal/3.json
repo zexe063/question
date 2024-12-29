@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is used in making cooking vessels?",
+        "hindi": "खाना पकाने के बर्तन बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Brass",
+          "Lead",
+          "Iron",
+          "Mercury"
+        ],
+        "hindi": [
+          "पीतल",
+          "सीसा",
+          "लोहा",
+          "पारा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making bells?",
+        "hindi": "घंटी बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Lead",
+          "Bronze",
+          "Aluminum"
+        ],
+        "hindi": [
+          "लोहा",
+          "सीसा",
+          "कांसा",
+          "एल्युमिनियम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in dental fillings?",
+        "hindi": "दांतों की फिलिंग में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Silver",
+          "Copper",
+          "Amalgam"
+        ],
+        "hindi": [
+          "सोना",
+          "चांदी",
+          "तांबा",
+          "अमलगम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making aircraft bodies?",
+        "hindi": "विमान के बॉडी बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Aluminum",
+          "Copper",
+          "Zinc"
+        ],
+        "hindi": [
+          "लोहा",
+          "एल्युमिनियम",
+          "तांबा",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is liquid at room temperature?",
+        "hindi": "कमरे के तापमान पर कौन सी धातु तरल अवस्था में होती है?"
+      },
+      "option": {
+        "english": [
+          "Mercury",
+          "Sodium",
+          "Potassium",
+          "Calcium"
+        ],
+        "hindi": [
+          "पारा",
+          "सोडियम",
+          "पोटैशियम",
+          "कैल्शियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of coating iron with zinc called?",
+        "hindi": "लोहे पर जस्ते की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Alloying",
+          "Smelting",
+          "Annealing",
+          "Galvanization"
+        ],
+        "hindi": [
+          "मिश्रधातु बनाना",
+          "प्रगलन",
+          "अनीलन",
+          "जस्तीकरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is steel?",
+        "hindi": "स्टील क्या है?"
+      },
+      "option": {
+        "english": [
+          "Pure iron",
+          "Iron oxide",
+          "Iron + Carbon",
+          "Iron + Zinc"
+        ],
+        "hindi": [
+          "शुद्ध लोहा",
+          "लोहा ऑक्साइड",
+          "लोहा + कार्बन",
+          "लोहा + जस्ता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making electromagnets?",
+        "hindi": "विद्युत चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Aluminum",
+          "Zinc"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "एल्युमिनियम",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical name of rust?",
+        "hindi": "जंग का रासायनिक नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Iron oxide hydrate",
+          "Iron carbonate",
+          "Iron sulphate",
+          "Iron chloride"
+        ],
+        "hindi": [
+          "आयरन ऑक्साइड हाइड्रेट",
+          "आयरन कार्बोनेट",
+          "आयरन सल्फेट",
+          "आयरन क्लोराइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used as catalyst in Haber's process?",
+        "hindi": "हैबर की प्रक्रिया में किस धातु का उपयोग उत्प्रेरक के रूप में किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Nickel",
+          "Iron",
+          "Platinum"
+        ],
+        "hindi": [
+          "तांबा",
+          "निकल",
+          "लोहा",
+          "प्लैटिनम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

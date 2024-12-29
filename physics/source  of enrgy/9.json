@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is a solar thermal collector?",
+        "hindi": "सौर तापीय संग्राहक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Device to store heat",
+          "Solar panel",
+          "Heat absorbing device",
+          "Light collector"
+        ],
+        "hindi": [
+          "ऊष्मा संग्रह उपकरण",
+          "सौर पैनल",
+          "ऊष्मा अवशोषक उपकरण",
+          "प्रकाश संग्राहक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the raw material for biogas?",
+        "hindi": "बायोगैस के लिए कच्चा माल क्या है?"
+      },
+      "option": {
+        "english": [
+          "Coal",
+          "Wood",
+          "Animal waste",
+          "Oil"
+        ],
+        "hindi": [
+          "कोयला",
+          "लकड़ी",
+          "पशु अपशिष्ट",
+          "तेल"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is geothermal gradient?",
+        "hindi": "भू-तापीय प्रवणता क्या है?"
+      },
+      "option": {
+        "english": [
+          "Surface temperature",
+          "Underground temperature increase",
+          "Heat flow",
+          "Earth's core temperature"
+        ],
+        "hindi": [
+          "सतह का तापमान",
+          "भूमिगत तापमान वृद्धि",
+          "ऊष्मा प्रवाह",
+          "पृथ्वी के कोर का तापमान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of control rods?",
+        "hindi": "नियंत्रण छड़ों का कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Generate power",
+          "Cool reactor",
+          "Control reaction",
+          "Store fuel"
+        ],
+        "hindi": [
+          "बिजली उत्पन्न करना",
+          "रिएक्टर को ठंडा करना",
+          "प्रतिक्रिया नियंत्रित करना",
+          "ईंधन संग्रह करना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What affects solar panel efficiency?",
+        "hindi": "सौर पैनल की दक्षता को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Panel size",
+          "Temperature",
+          "Color",
+          "Weight"
+        ],
+        "hindi": [
+          "पैनल का आकार",
+          "तापमान",
+          "रंग",
+          "वजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is needed for wind farm location?",
+        "hindi": "पवन फार्म स्थान के लिए क्या आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "High wind speed area",
+          "Forest area",
+          "Urban area",
+          "Desert area"
+        ],
+        "hindi": [
+          "उच्च हवा गति क्षेत्र",
+          "वन क्षेत्र",
+          "शहरी क्षेत्र",
+          "रेगिस्तानी क्षेत्र"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the advantage of nuclear fusion?",
+        "hindi": "नाभिकीय संलयन का क्या लाभ है?"
+      },
+      "option": {
+        "english": [
+          "Low cost",
+          "No radioactive waste",
+          "Easy process",
+          "Low temperature"
+        ],
+        "hindi": [
+          "कम लागत",
+          "कोई रेडियोधर्मी कचरा नहीं",
+          "आसान प्रक्रिया",
+          "कम तापमान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Why is biomass renewable?",
+        "hindi": "बायोमास नवीकरणीय क्यों है?"
+      },
+      "option": {
+        "english": [
+          "Easy to use",
+          "Can be regrown",
+          "Low cost",
+          "No pollution"
+        ],
+        "hindi": [
+          "उपयोग में आसान",
+          "पुनः उगाया जा सकता है",
+          "कम लागत",
+          "कोई प्रदूषण नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main problem with hydropower dams?",
+        "hindi": "जलविद्युत बांधों की मुख्य समस्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "High cost",
+          "Environmental impact",
+          "Low efficiency",
+          "Maintenance"
+        ],
+        "hindi": [
+          "उच्च लागत",
+          "पर्यावरणीय प्रभाव",
+          "कम दक्षता",
+          "रखरखाव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source has highest potential?",
+        "hindi": "किस ऊर्जा स्रोत की सबसे अधिक क्षमता है?"
+      },
+      "option": {
+        "english": [
+          "Wind",
+          "Solar",
+          "Nuclear fusion",
+          "Tidal"
+        ],
+        "hindi": [
+          "पवन",
+          "सौर",
+          "नाभिकीय संलयन",
+          "ज्वारीय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

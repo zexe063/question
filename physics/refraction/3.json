@@ -1,0 +1,234 @@
+
+
+[
+    {
+      "question_name": {
+        "english": "Why does a stick appear to bend at the interface of water and oil?",
+        "hindi": "पानी और तेल के अंतरापृष्ठ पर छड़ी मुड़ी हुई क्यों दिखाई देती है?"
+      },
+      "option": {
+        "english": [
+          "Different refractive indices",
+          "Due to reflection",
+          "Due to absorption",
+          "Due to diffraction"
+        ],
+        "hindi": [
+          "विभिन्न अपवर्तनांक",
+          "परावर्तन के कारण",
+          "अवशोषण के कारण",
+          "विवर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do fish appear larger in water than they actually are?",
+        "hindi": "मछलियाँ पानी में अपने वास्तविक आकार से बड़ी क्यों दिखाई देती हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to apparent depth",
+          "Due to reflection",
+          "Due to water pressure",
+          "Due to fish movement"
+        ],
+        "hindi": [
+          "आभासी गहराई के कारण",
+          "परावर्तन के कारण",
+          "जल दाब के कारण",
+          "मछली की गति के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does a glass prism show different colors but a glass slab doesn't?",
+        "hindi": "कांच का प्रिज्म विभिन्न रंग दिखाता है लेकिन कांच की सिल्ली नहीं, क्यों?"
+      },
+      "option": {
+        "english": [
+          "Due to different angles of emergence",
+          "Due to thickness",
+          "Due to material",
+          "Due to reflection"
+        ],
+        "hindi": [
+          "विभिन्न निर्गम कोणों के कारण",
+          "मोटाई के कारण",
+          "पदार्थ के कारण",
+          "परावर्तन के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A ray travels from medium A(n=1.5) to B(n=1.2). If angle of incidence is 30°, angle of refraction is:",
+        "hindi": "एक किरण माध्यम A(n=1.5) से B(n=1.2) में जाती है। यदि आपतन कोण 30° है, तो अपवर्तन कोण है:"
+      },
+      "option": {
+        "english": [
+          "38.7°",
+          "30°",
+          "45°",
+          "25°"
+        ],
+        "hindi": [
+          "38.7°",
+          "30°",
+          "45°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Critical angle for water is 48.6°. Its refractive index is:",
+        "hindi": "जल का क्रांतिक कोण 48.6° है। इसका अपवर्तनांक है:"
+      },
+      "option": {
+        "english": [
+          "1.33",
+          "1.5",
+          "1.0",
+          "1.7"
+        ],
+        "hindi": [
+          "1.33",
+          "1.5",
+          "1.0",
+          "1.7"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows refraction at a spherical surface?",
+        "hindi": "कौन सा किरण आरेख गोलीय सतह पर अपवर्तन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Converging at focal point",
+          "Parallel rays",
+          "Diverging rays",
+          "Random rays"
+        ],
+        "hindi": [
+          "फोकस बिंदु पर अभिसरण",
+          "समानांतर किरणें",
+          "अपसारी किरणें",
+          "यादृच्छिक किरणें"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q150,25 250,75' stroke='black' fill='none'/><line x1='100' y1='50' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='200' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows formation of real image by a lens?",
+        "hindi": "कौन सा किरण आरेख लेंस द्वारा वास्तविक प्रतिबिंब का निर्माण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Beyond 2F",
+          "At F",
+          "Between F and 2F",
+          "At 2F"
+        ],
+        "hindi": [
+          "2F से परे",
+          "F पर",
+          "F और 2F के बीच",
+          "2F पर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><line x1='50' y1='75' x2='150' y2='75' stroke='blue'/><line x1='150' y1='75' x2='250' y2='100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which ray diagram shows chromatic aberration in a lens?",
+        "hindi": "कौन सा किरण आरेख लेंस में वर्ण विपथन दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Different focal points",
+          "Single focal point",
+          "No focal point",
+          "Random focus"
+        ],
+        "hindi": [
+          "विभिन्न फोकस बिंदु",
+          "एकल फोकस बिंदु",
+          "कोई फोकस बिंदु नहीं",
+          "यादृच्छिक फोकस"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='25' x2='150' y2='125' stroke='black'/><path d='M50,75 L150,75 L250,50 M150,75 L250,100' stroke='red'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A glass sphere of radius 10 cm has refractive index 1.5. Its focal length in air is:",
+        "hindi": "10 सेमी त्रिज्या के कांच के गोले का अपवर्तनांक 1.5 है। वायु में इसकी फोकस दूरी है:"
+      },
+      "option": {
+        "english": [
+          "15 cm",
+          "20 cm",
+          "10 cm",
+          "30 cm"
+        ],
+        "hindi": [
+          "15 सेमी",
+          "20 सेमी",
+          "10 सेमी",
+          "30 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In an optical fiber, if core index is 1.5 and cladding index is 1.48, the maximum acceptance angle is:",
+        "hindi": "एक प्रकाशिक तंतु में, यदि कोर का अपवर्तनांक 1.5 और आवरण का अपवर्तनांक 1.48 है, तो अधिकतम स्वीकृति कोण है:"
+      },
+      "option": {
+        "english": [
+          "11.7°",
+          "15°",
+          "20°",
+          "25°"
+        ],
+        "hindi": [
+          "11.7°",
+          "15°",
+          "20°",
+          "25°"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

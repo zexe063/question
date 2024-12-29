@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the sex of a child who inherits X chromosome from father?",
+        "hindi": "एक बच्चे का लिंग क्या होगा जो पिता से X गुणसूत्र प्राप्त करता है?"
+      },
+      "option": {
+        "english": [
+          "Male",
+          "Female",
+          "Can't be determined",
+          "Both are possible"
+        ],
+        "hindi": [
+          "पुरुष",
+          "महिला",
+          "निर्धारित नहीं किया जा सकता",
+          "दोनों संभव हैं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is the inherited characteristic in humans?",
+        "hindi": "मनुष्यों में कौन सा वंशागत लक्षण है?"
+      },
+      "option": {
+        "english": [
+          "Blood group",
+          "Weight",
+          "Knowledge",
+          "Language"
+        ],
+        "hindi": [
+          "रक्त समूह",
+          "वजन",
+          "ज्ञान",
+          "भाषा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What determines the sex of an unborn child?",
+        "hindi": "अजन्मे बच्चे का लिंग क्या निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "X chromosome",
+          "Autosomes",
+          "Y chromosome",
+          "Both X and Y"
+        ],
+        "hindi": [
+          "X गुणसूत्र",
+          "अलिंग गुणसूत्र",
+          "Y गुणसूत्र",
+          "X और Y दोनों"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of DNA?",
+        "hindi": "DNA का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Protein synthesis",
+          "Cell division",
+          "Transfer of characters"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन",
+          "लक्षणों का स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which trait is a dominant trait in pea plants?",
+        "hindi": "मटर के पौधों में कौन सा लक्षण प्रभावी लक्षण है?"
+      },
+      "option": {
+        "english": [
+          "White flower",
+          "Round seed",
+          "Short stem",
+          "Yellow pod"
+        ],
+        "hindi": [
+          "सफेद फूल",
+          "गोल बीज",
+          "छोटा तना",
+          "पीली फली"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the percentage of DNA similar in humans and chimpanzees?",
+        "hindi": "मनुष्यों और चिंपांजी में कितने प्रतिशत DNA समान है?"
+      },
+      "option": {
+        "english": [
+          "85%",
+          "90%",
+          "98.8%",
+          "75%"
+        ],
+        "hindi": [
+          "85%",
+          "90%",
+          "98.8%",
+          "75%"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which chromosome is present in human males?",
+        "hindi": "मानव पुरुषों में कौन सा गुणसूत्र उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "XY",
+          "XX",
+          "YY",
+          "X0"
+        ],
+        "hindi": [
+          "XY",
+          "XX",
+          "YY",
+          "X0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of variation in evolution?",
+        "hindi": "विकास में विभिन्नता की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "No role",
+          "Decreases survival",
+          "Increases competition",
+          "Helps in adaptation"
+        ],
+        "hindi": [
+          "कोई भूमिका नहीं",
+          "उत्तरजीविता घटाती है",
+          "प्रतिस्पर्धा बढ़ाती है",
+          "अनुकूलन में सहायता करती है"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the genotype of a pure tall pea plant?",
+        "hindi": "शुद्ध लंबे मटर के पौधे का जीनोटाइप क्या है?"
+      },
+      "option": {
+        "english": [
+          "Tt",
+          "TT",
+          "tt",
+          "tT"
+        ],
+        "hindi": [
+          "Tt",
+          "TT",
+          "tt",
+          "tT"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which scientist gave the theory of inheritance of acquired characters?",
+        "hindi": "किस वैज्ञानिक ने अर्जित लक्षणों की वंशागति का सिद्धांत दिया?"
+      },
+      "option": {
+        "english": [
+          "Darwin",
+          "Mendel",
+          "Lamarck",
+          "Morgan"
+        ],
+        "hindi": [
+          "डार्विन",
+          "मेंडल",
+          "लैमार्क",
+          "मॉर्गन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the term for organisms having identical genes?",
+        "hindi": "समान जीन वाले जीवों के लिए क्या शब्द है?"
+      },
+      "option": {
+        "english": [
+          "Heterozygous",
+          "Hybrid",
+          "Homozygous",
+          "Heterogeneous"
+        ],
+        "hindi": [
+          "विषमयुग्मजी",
+          "संकर",
+          "समयुग्मजी",
+          "विषमजातीय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the evidence of evolution from embryological studies?",
+        "hindi": "भ्रूण विज्ञान अध्ययन से विकास का क्या प्रमाण मिलता है?"
+      },
+      "option": {
+        "english": [
+          "Similar organs",
+          "Different organs",
+          "Similar genes",
+          "Similar development stages"
+        ],
+        "hindi": [
+          "समान अंग",
+          "भिन्न अंग",
+          "समान जीन",
+          "समान विकास अवस्थाएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone determines male characteristics?",
+        "hindi": "कौन सा हार्मोन पुरुष लक्षणों को निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Testosterone",
+          "Progesterone",
+          "Thyroxine"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "टेस्टोस्टेरोन",
+          "प्रोजेस्टेरोन",
+          "थायरॉक्सिन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many types of sex chromosomes are there in humans?",
+        "hindi": "मनुष्यों में कितने प्रकार के लिंग गुणसूत्र होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Two",
+          "Three",
+          "Four",
+          "One"
+        ],
+        "hindi": [
+          "दो",
+          "तीन",
+          "चार",
+          "एक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the term for sudden heritable change?",
+        "hindi": "अचानक वंशागत परिवर्तन के लिए क्या शब्द है?"
+      },
+      "option": {
+        "english": [
+          "Variation",
+          "Evolution",
+          "Mutation",
+          "Adaptation"
+        ],
+        "hindi": [
+          "विभिन्नता",
+          "विकास",
+          "उत्परिवर्तन",
+          "अनुकूलन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which blood group is universal recipient?",
+        "hindi": "कौन सा रक्त समूह सार्वभौमिक प्राप्तकर्ता है?"
+      },
+      "option": {
+        "english": [
+          "O negative",
+          "AB positive",
+          "B negative",
+          "A positive"
+        ],
+        "hindi": [
+          "O निगेटिव",
+          "AB पॉजिटिव",
+          "B निगेटिव",
+          "A पॉजिटिव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of DNA in reproduction?",
+        "hindi": "प्रजनन में DNA की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy production",
+          "Protein synthesis",
+          "Cell division",
+          "Transfer of characters"
+        ],
+        "hindi": [
+          "ऊर्जा उत्पादन",
+          "प्रोटीन संश्लेषण",
+          "कोशिका विभाजन",
+          "लक्षणों का स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the number of autosomes in human body cells?",
+        "hindi": "मानव शरीर की कोशिकाओं में अलिंग गुणसूत्रों की संख्या कितनी होती है?"
+      },
+      "option": {
+        "english": [
+          "44",
+          "46",
+          "23",
+          "22"
+        ],
+        "hindi": [
+          "44",
+          "46",
+          "23",
+          "22"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the basis of Mendel's law of segregation?",
+        "hindi": "मेंडल के पृथक्करण के नियम का आधार क्या है?"
+      },
+      "option": {
+        "english": [
+          "Gene mutation",
+          "Chromosome separation",
+          "Allele separation",
+          "DNA replication"
+        ],
+        "hindi": [
+          "जीन उत्परिवर्तन",
+          "गुणसूत्र पृथक्करण",
+          "एलील पृथक्करण",
+          "DNA प्रतिकृति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which scientist discovered the double helix structure of DNA?",
+        "hindi": "किस वैज्ञानिक ने DNA की द्विकुंडलित संरचना की खोज की?"
+      },
+      "option": {
+        "english": [
+          "Mendel",
+          "Watson and Crick",
+          "Darwin",
+          "Morgan"
+        ],
+        "hindi": [
+          "मेंडल",
+          "वाटसन और क्रिक",
+          "डार्विन",
+          "मॉर्गन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

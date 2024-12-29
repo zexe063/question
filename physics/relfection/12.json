@@ -1,0 +1,209 @@
+[
+    {
+      "question_name": {
+        "english": "Why is the word 'AMBULANCE' written in reverse on ambulances?",
+        "hindi": "एम्बुलेंस पर 'AMBULANCE' शब्द उल्टा क्यों लिखा जाता है?"
+      },
+      "option": {
+        "english": [
+          "For correct reading in rear-view mirror",
+          "For better visibility",
+          "For larger appearance",
+          "For decoration"
+        ],
+        "hindi": [
+          "रियर-व्यू मिरर में सही पढ़ने के लिए",
+          "बेहतर दृश्यता के लिए",
+          "बड़ा दिखने के लिए",
+          "सजावट के लिए"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><text x='200' y='75' style='transform: scale(-1, 1);'>AMBULANCE</text><line x1='150' y1='25' x2='150' y2='125' stroke='black'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do car side-view mirrors have a warning 'Objects in mirror are closer than they appear'?",
+        "hindi": "कार के साइड-व्यू मिरर पर 'वस्तुएं दर्पण में दिखने से अधिक निकट हैं' की चेतावनी क्यों होती है?"
+      },
+      "option": {
+        "english": [
+          "Because convex mirror reduces size",
+          "Because mirror is dirty",
+          "Because of poor visibility",
+          "Because of car speed"
+        ],
+        "hindi": [
+          "क्योंकि उत्तल दर्पण आकार छोटा करता है",
+          "क्योंकि दर्पण गंदा है",
+          "खराब दृश्यता के कारण",
+          "कार की गति के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,125 50,125' stroke='black' fill='none'/><line x1='100' y1='50' x2='50' y2='75' stroke='blue'/><line x1='50' y1='75' x2='25' y2='65' stroke='red' stroke-dasharray='2'/></svg>",
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A dentist uses a mirror to examine teeth. The mirror is:",
+        "hindi": "एक दंत चिकित्सक दांतों की जांच के लिए दर्पण का उपयोग करता है। दर्पण है:"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "Parabolic mirror"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "परवलयिक दर्पण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A concave mirror has focal length 20 cm. Find the image distance for object at 40 cm.",
+        "hindi": "एक अवतल दर्पण की फोकस दूरी 20 सेमी है। 40 सेमी पर रखी वस्तु के लिए प्रतिबिंब दूरी ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "40 cm",
+          "20 cm",
+          "60 cm",
+          "80 cm"
+        ],
+        "hindi": [
+          "40 सेमी",
+          "20 सेमी",
+          "60 सेमी",
+          "80 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "An object 2 cm tall is placed at 15 cm from a concave mirror of focal length 10 cm. Find image height.",
+        "hindi": "2 सेमी ऊंची वस्तु 10 सेमी फोकस दूरी वाले अवतल दर्पण से 15 सेमी दूर रखी गई है। प्रतिबिंब की ऊंचाई ज्ञात करें।"
+      },
+      "option": {
+        "english": [
+          "6 cm",
+          "4 cm",
+          "8 cm",
+          "3 cm"
+        ],
+        "hindi": [
+          "6 सेमी",
+          "4 सेमी",
+          "8 सेमी",
+          "3 सेमी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which type of mirror is used in a torch reflector?",
+        "hindi": "टॉर्च रिफ्लेक्टर में किस प्रकार का दर्पण प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "None of these"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='100' y1='75' x2='200' y2='50' stroke='blue'/><line x1='100' y1='75' x2='200' y2='75' stroke='blue'/><line x1='100' y1='75' x2='200' y2='100' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A ray parallel to principal axis after reflection from concave mirror:",
+        "hindi": "मुख्य अक्ष के समानांतर किरण अवतल दर्पण से परावर्तन के बाद:"
+      },
+      "option": {
+        "english": [
+          "Passes through focus",
+          "Passes through center",
+          "Remains parallel",
+          "Diverges away"
+        ],
+        "hindi": [
+          "फोकस से होकर गुजरती है",
+          "केंद्र से होकर गुजरती है",
+          "समानांतर रहती है",
+          "दूर फैलती है"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><path d='M50,75 Q50,25 50,25' stroke='black' fill='none'/><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><circle cx='100' cy='75' r='2'/><line x1='200' y1='50' x2='100' y2='75' stroke='blue'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror always forms virtual, erect and smaller image?",
+        "hindi": "कौन सा दर्पण हमेशा आभासी, सीधा और छोटा प्रतिबिंब बनाता है?"
+      },
+      "option": {
+        "english": [
+          "Convex mirror",
+          "Concave mirror",
+          "Plane mirror",
+          "None of these"
+        ],
+        "hindi": [
+          "उत्तल दर्पण",
+          "अवतल दर्पण",
+          "समतल दर्पण",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "In a solar cooker, the mirror used is:",
+        "hindi": "सौर कुकर में प्रयुक्त दर्पण है:"
+      },
+      "option": {
+        "english": [
+          "Concave mirror",
+          "Convex mirror",
+          "Plane mirror",
+          "None of these"
+        ],
+        "hindi": [
+          "अवतल दर्पण",
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    }
+  ]

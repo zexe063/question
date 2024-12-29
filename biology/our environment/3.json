@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which gas do plants release during photosynthesis?",
+        "hindi": "प्रकाश संश्लेषण के दौरान पौधे कौन सी गैस छोड़ते हैं?"
+      },
+      "option": {
+        "english": [
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen"
+        ],
+        "hindi": [
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main function of ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र का मुख्य कार्य क्या है?"
+      },
+      "option": {
+        "english": [
+          "Only food production",
+          "Only energy flow",
+          "Energy cycling",
+          "Only decomposition"
+        ],
+        "hindi": [
+          "केवल भोजन उत्पादन",
+          "केवल ऊर्जा प्रवाह",
+          "ऊर्जा चक्रण",
+          "केवल अपघटन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of air pollution on human health?",
+        "hindi": "वायु प्रदूषण का मानव स्वास्थ्य पर क्या प्रभाव पड़ता है?"
+      },
+      "option": {
+        "english": [
+          "Better breathing",
+          "Improved health",
+          "Good immunity",
+          "Respiratory problems"
+        ],
+        "hindi": [
+          "बेहतर श्वसन",
+          "बेहतर स्वास्थ्य",
+          "अच्छी प्रतिरक्षा",
+          "श्वसन समस्याएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of consumers in food chain?",
+        "hindi": "खाद्य श्रृंखला में उपभोक्ताओं की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Make food",
+          "Eat other organisms",
+          "Decompose",
+          "Produce oxygen"
+        ],
+        "hindi": [
+          "भोजन बनाना",
+          "अन्य जीवों को खाना",
+          "अपघटन करना",
+          "ऑक्सीजन उत्पादन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a biodegradable waste?",
+        "hindi": "जैव-निम्नीकरणीय कचरा कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Food waste",
+          "Plastic",
+          "Metal",
+          "Glass"
+        ],
+        "hindi": [
+          "खाद्य कचरा",
+          "प्लास्टिक",
+          "धातु",
+          "कांच"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of industrial waste on water bodies?",
+        "hindi": "जल निकायों पर औद्योगिक कचरे का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean water",
+          "Better aquatic life",
+          "More fish",
+          "Water pollution"
+        ],
+        "hindi": [
+          "स्वच्छ जल",
+          "बेहतर जलीय जीवन",
+          "अधिक मछलियां",
+          "जल प्रदूषण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the importance of wetlands?",
+        "hindi": "आर्द्रभूमि का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "No importance",
+          "Only for birds",
+          "Ecological balance",
+          "Only for fish"
+        ],
+        "hindi": [
+          "कोई महत्व नहीं",
+          "केवल पक्षियों के लिए",
+          "पारिस्थितिक संतुलन",
+          "केवल मछलियों के लिए"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of microorganisms in soil?",
+        "hindi": "मिट्टी में सूक्ष्मजीवों की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Soil damage",
+          "Nutrient cycling",
+          "Soil erosion",
+          "Soil hardening"
+        ],
+        "hindi": [
+          "मिट्टी क्षति",
+          "पोषक तत्व चक्रण",
+          "मृदा अपरदन",
+          "मिट्टी कठोरीकरण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas depletes ozone layer?",
+        "hindi": "कौन सी गैस ओजोन परत को नष्ट करती है?"
+      },
+      "option": {
+        "english": [
+          "CFC",
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide"
+        ],
+        "hindi": [
+          "सीएफसी",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of forest in water cycle?",
+        "hindi": "जल चक्र में जंगल की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Stop rain",
+          "Reduce water",
+          "Water regulation",
+          "No role"
+        ],
+        "hindi": [
+          "वर्षा रोकना",
+          "पानी कम करना",
+          "जल नियमन",
+          "कोई भूमिका नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

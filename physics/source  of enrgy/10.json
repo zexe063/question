@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the energy conversion in thermal power plants?",
+        "hindi": "थर्मल पावर प्लांट में ऊर्जा रूपांतरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Chemical → Heat → Mechanical → Electrical",
+          "Heat → Chemical → Electrical",
+          "Mechanical → Heat → Electrical",
+          "Electrical → Heat → Chemical"
+        ],
+        "hindi": [
+          "रासायनिक → ऊष्मीय → यांत्रिक → विद्युत",
+          "ऊष्मीय → रासायनिक → विद्युत",
+          "यांत्रिक → ऊष्मीय → विद्युत",
+          "विद्युत → ऊष्मीय → रासायनिक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "In wind turbines, which energy conversion occurs?",
+        "hindi": "पवन टरबाइन में कौन सा ऊर्जा रूपांतरण होता है?"
+      },
+      "option": {
+        "english": [
+          "Solar → Electrical",
+          "Kinetic → Mechanical → Electrical",
+          "Chemical → Electrical",
+          "Heat → Electrical"
+        ],
+        "hindi": [
+          "सौर → विद्युत",
+          "गतिज → यांत्रिक → विद्युत",
+          "रासायनिक → विद्युत",
+          "ऊष्मीय → विद्युत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the correct energy conversion in biogas plants?",
+        "hindi": "बायोगैस संयंत्रों में सही ऊर्जा रूपांतरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Solar → Chemical",
+          "Mechanical → Chemical",
+          "Chemical → Biogas → Heat",
+          "Heat → Biogas"
+        ],
+        "hindi": [
+          "सौर → रासायनिक",
+          "यांत्रिक → रासायनिक",
+          "रासायनिक → बायोगैस → ऊष्मीय",
+          "ऊष्मीय → बायोगैस"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How is geothermal energy converted to electricity?",
+        "hindi": "भू-तापीय ऊर्जा को विद्युत में कैसे परिवर्तित किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Chemical → Electrical",
+          "Nuclear → Electrical",
+          "Heat → Steam → Mechanical → Electrical",
+          "Solar → Heat → Electrical"
+        ],
+        "hindi": [
+          "रासायनिक → विद्युत",
+          "नाभिकीय → विद्युत",
+          "ऊष्मा → भाप → यांत्रिक → विद्युत",
+          "सौर → ऊष्मा → विद्युत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What energy conversions occur in tidal power?",
+        "hindi": "ज्वारीय ऊर्जा में कौन से ऊर्जा रूपांतरण होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Solar → Mechanical",
+          "Gravitational → Kinetic → Mechanical → Electrical",
+          "Chemical → Mechanical",
+          "Heat → Mechanical"
+        ],
+        "hindi": [
+          "सौर → यांत्रिक",
+          "गुरुत्वीय → गतिज → यांत्रिक → विद्युत",
+          "रासायनिक → यांत्रिक",
+          "ऊष्मीय → यांत्रिक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which stage has maximum energy loss in thermal plants?",
+        "hindi": "थर्मल प्लांट में किस चरण में अधिकतम ऊर्जा हानि होती है?"
+      },
+      "option": {
+        "english": [
+          "Chemical to Heat",
+          "Heat to Mechanical",
+          "Mechanical to Electrical",
+          "Electrical transmission"
+        ],
+        "hindi": [
+          "रासायनिक से ऊष्मीय",
+          "ऊष्मीय से यांत्रिक",
+          "यांत्रिक से विद्युत",
+          "विद्युत संचरण"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What affects biogas production efficiency?",
+        "hindi": "बायोगैस उत्पादन दक्षता को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Temperature",
+          "Pressure",
+          "Light",
+          "Wind"
+        ],
+        "hindi": [
+          "तापमान",
+          "दबाव",
+          "प्रकाश",
+          "हवा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy conversion is most efficient?",
+        "hindi": "कौन सा ऊर्जा रूपांतरण सबसे अधिक दक्ष है?"
+      },
+      "option": {
+        "english": [
+          "Chemical to Heat",
+          "Heat to Mechanical",
+          "Mechanical to Electrical",
+          "Solar to Electrical"
+        ],
+        "hindi": [
+          "रासायनिक से ऊष्मीय",
+          "ऊष्मीय से यांत्रिक",
+          "यांत्रिक से विद्युत",
+          "सौर से विद्युत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main energy loss in wind turbines?",
+        "hindi": "पवन टरबाइन में मुख्य ऊर्जा हानि क्या है?"
+      },
+      "option": {
+        "english": [
+          "Friction loss",
+          "Mechanical loss",
+          "Electrical loss",
+          "Heat loss"
+        ],
+        "hindi": [
+          "घर्षण हानि",
+          "यांत्रिक हानि",
+          "विद्युत हानि",
+          "ऊष्मा हानि"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy conversion system has highest efficiency?",
+        "hindi": "किस ऊर्जा रूपांतरण प्रणाली की दक्षता सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Thermal power plant",
+          "Solar power plant",
+          "Hydroelectric plant",
+          "Wind farm"
+        ],
+        "hindi": [
+          "थर्मल पावर प्लांट",
+          "सौर ऊर्जा संयंत्र",
+          "जलविद्युत संयंत्र",
+          "पवन फार्म"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

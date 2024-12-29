@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is a solar furnace?",
+        "hindi": "सौर भट्टी क्या है?"
+      },
+      "option": {
+        "english": [
+          "Device to concentrate sunlight",
+          "Solar cooker",
+          "Solar heater",
+          "Solar panel"
+        ],
+        "hindi": [
+          "सूर्य के प्रकाश को केंद्रित करने का उपकरण",
+          "सौर कुकर",
+          "सौर हीटर",
+          "सौर पैनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which mirror is used in solar cooker?",
+        "hindi": "सौर कुकर में किस दर्पण का उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Plane",
+          "Concave",
+          "Convex",
+          "Spherical"
+        ],
+        "hindi": [
+          "समतल",
+          "अवतल",
+          "उत्तल",
+          "गोलीय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is slurry in biogas plant?",
+        "hindi": "बायोगैस संयंत्र में स्लरी क्या है?"
+      },
+      "option": {
+        "english": [
+          "Waste product",
+          "Gas mixture",
+          "Manure mixture",
+          "Water mixture"
+        ],
+        "hindi": [
+          "अपशिष्ट उत्पाद",
+          "गैस मिश्रण",
+          "खाद मिश्रण",
+          "जल मिश्रण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the use of dam in hydropower?",
+        "hindi": "जलविद्युत में बांध का क्या उपयोग है?"
+      },
+      "option": {
+        "english": [
+          "Store water",
+          "Generate power",
+          "Control flow",
+          "Clean water"
+        ],
+        "hindi": [
+          "पानी संग्रह",
+          "बिजली उत्पादन",
+          "प्रवाह नियंत्रण",
+          "पानी साफ करना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is needed for geothermal energy?",
+        "hindi": "भू-तापीय ऊर्जा के लिए क्या आवश्यक है?"
+      },
+      "option": {
+        "english": [
+          "Hot springs",
+          "Cold water",
+          "Wind",
+          "Sunlight"
+        ],
+        "hindi": [
+          "गर्म झरने",
+          "ठंडा पानी",
+          "हवा",
+          "सूर्य का प्रकाश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of moderator in nuclear reactor?",
+        "hindi": "नाभिकीय रिएक्टर में मॉडरेटर की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Slow neutrons",
+          "Speed neutrons",
+          "Stop reaction",
+          "Generate power"
+        ],
+        "hindi": [
+          "न्यूट्रॉन धीमे करना",
+          "न्यूट्रॉन तेज करना",
+          "प्रतिक्रिया रोकना",
+          "बिजली उत्पन्न करना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What affects tidal energy generation?",
+        "hindi": "ज्वारीय ऊर्जा उत्पादन को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Moon phase",
+          "Temperature",
+          "Wind speed",
+          "Sunlight"
+        ],
+        "hindi": [
+          "चंद्रमा की कला",
+          "तापमान",
+          "हवा की गति",
+          "सूर्य का प्रकाश"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is nuclear waste dangerous?",
+        "hindi": "नाभिकीय कचरा खतरनाक क्यों होता है?"
+      },
+      "option": {
+        "english": [
+          "Too hot",
+          "Explosive",
+          "Radioactive",
+          "Toxic"
+        ],
+        "hindi": [
+          "बहुत गर्म",
+          "विस्फोटक",
+          "रेडियोधर्मी",
+          "विषैला"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the main problem with solar energy?",
+        "hindi": "सौर ऊर्जा की मुख्य समस्या क्या है?"
+      },
+      "option": {
+        "english": [
+          "High cost",
+          "Weather dependent",
+          "Low efficiency",
+          "Difficult maintenance"
+        ],
+        "hindi": [
+          "उच्च लागत",
+          "मौसम पर निर्भर",
+          "कम दक्षता",
+          "कठिन रखरखाव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source is best for remote areas?",
+        "hindi": "दूरस्थ क्षेत्रों के लिए कौन सा ऊर्जा स्रोत सबसे अच्छा है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear",
+          "Coal",
+          "Solar",
+          "Hydropower"
+        ],
+        "hindi": [
+          "नाभिकीय",
+          "कोयला",
+          "सौर",
+          "जलविद्युत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

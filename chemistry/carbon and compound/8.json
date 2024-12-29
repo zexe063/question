@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What happens when ethanoic acid reacts with ethanol?",
+        "hindi": "एथेनोइक अम्ल एथेनॉल से अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "Ethyl ethanoate and water",
+          "Ethane and water",
+          "Ethene and water",
+          "Ethyl ethanoate only"
+        ],
+        "hindi": [
+          "एथिल एथेनोएट और जल",
+          "एथेन और जल",
+          "एथीन और जल",
+          "केवल एथिल एथेनोएट"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is an unsaturated hydrocarbon?",
+        "hindi": "इनमें से कौन असंतृप्त हाइड्रोकार्बन है?"
+      },
+      "option": {
+        "english": [
+          "C₂H₆",
+          "C₂H₄",
+          "CH₄",
+          "C₃H₈"
+        ],
+        "hindi": [
+          "C₂H₆",
+          "C₂H₄",
+          "CH₄",
+          "C₃H₈"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of CH₃OH?",
+        "hindi": "CH₃OH का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Wood alcohol",
+          "Grain alcohol",
+          "Rubbing alcohol",
+          "Denatured alcohol"
+        ],
+        "hindi": [
+          "वुड अल्कोहल",
+          "ग्रेन अल्कोहल",
+          "रबिंग अल्कोहल",
+          "विकृत अल्कोहल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used in making nail polish remover?",
+        "hindi": "नेल पॉलिश रिमूवर बनाने में इनमें से किसका उपयोग होता है?"
+      },
+      "option": {
+        "english": [
+          "Methanol",
+          "Acetone",
+          "Ethanol",
+          "Propanol"
+        ],
+        "hindi": [
+          "मेथेनॉल",
+          "एसीटोन",
+          "एथेनॉल",
+          "प्रोपेनॉल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of carbon-carbon bond in ethane?",
+        "hindi": "एथेन में कार्बन-कार्बन बंध की प्रकृति क्या है?"
+      },
+      "option": {
+        "english": [
+          "Ionic bond",
+          "Double bond",
+          "Triple bond",
+          "Single bond"
+        ],
+        "hindi": [
+          "आयनिक बंध",
+          "द्विबंध",
+          "त्रिबंध",
+          "एकल बंध"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the general formula of alkynes?",
+        "hindi": "एल्काइन का सामान्य सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ₊₁"
+        ],
+        "hindi": [
+          "CₙH₂ₙ₋₂",
+          "CₙH₂ₙ",
+          "CₙH₂ₙ₊₂",
+          "CₙH₂ₙ₊₁"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is ethanoic acid a weak acid in water?",
+        "hindi": "जल में एथेनोइक अम्ल एक दुर्बल अम्ल क्यों है?"
+      },
+      "option": {
+        "english": [
+          "Low solubility",
+          "High solubility",
+          "Partial ionization",
+          "Complete ionization"
+        ],
+        "hindi": [
+          "कम घुलनशीलता",
+          "अधिक घुलनशीलता",
+          "आंशिक आयनीकरण",
+          "पूर्ण आयनीकरण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of yeast in fermentation of glucose?",
+        "hindi": "ग्लूकोस के किण्वन में यीस्ट की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Catalyst",
+          "Reactant",
+          "Product",
+          "Inhibitor"
+        ],
+        "hindi": [
+          "उत्प्रेरक",
+          "अभिकारक",
+          "उत्पाद",
+          "निरोधक"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why does carbon not form ionic bonds?",
+        "hindi": "कार्बन आयनिक बंध क्यों नहीं बनाता?"
+      },
+      "option": {
+        "english": [
+          "Due to large size",
+          "Due to small size",
+          "Due to high ionization energy",
+          "Due to low ionization energy"
+        ],
+        "hindi": [
+          "बड़े आकार के कारण",
+          "छोटे आकार के कारण",
+          "उच्च आयनन ऊर्जा के कारण",
+          "निम्न आयनन ऊर्जा के कारण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the shape of methane molecule?",
+        "hindi": "मीथेन अणु की आकृति कैसी होती है?"
+      },
+      "option": {
+        "english": [
+          "Tetrahedral",
+          "Linear",
+          "Triangular",
+          "Square planar"
+        ],
+        "hindi": [
+          "चतुष्फलकीय",
+          "रैखिक",
+          "त्रिकोणीय",
+          "वर्ग समतलीय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

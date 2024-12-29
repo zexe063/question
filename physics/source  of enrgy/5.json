@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is a solar cell made of?",
+        "hindi": "सौर सेल किससे बना होता है?"
+      },
+      "option": {
+        "english": [
+          "Gold",
+          "Iron",
+          "Silicon",
+          "Copper"
+        ],
+        "hindi": [
+          "सोना",
+          "लोहा",
+          "सिलिकॉन",
+          "तांबा"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main fuel in thermal power plants?",
+        "hindi": "थर्मल पावर प्लांट में मुख्य ईंधन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Coal",
+          "Water",
+          "Wind",
+          "Sunlight"
+        ],
+        "hindi": [
+          "कोयला",
+          "पानी",
+          "हवा",
+          "सूर्य का प्रकाश"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the source of tidal energy?",
+        "hindi": "ज्वारीय ऊर्जा का स्रोत क्या है?"
+      },
+      "option": {
+        "english": [
+          "Sun",
+          "Wind",
+          "Moon's gravity",
+          "Earth's heat"
+        ],
+        "hindi": [
+          "सूर्य",
+          "हवा",
+          "चंद्रमा का गुरुत्व",
+          "पृथ्वी की गर्मी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the main advantage of biogas?",
+        "hindi": "बायोगैस का मुख्य लाभ क्या है?"
+      },
+      "option": {
+        "english": [
+          "High cost",
+          "Clean fuel",
+          "Fast production",
+          "Easy transport"
+        ],
+        "hindi": [
+          "उच्च लागत",
+          "स्वच्छ ईंधन",
+          "तेज उत्पादन",
+          "आसान परिवहन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source needs enriched uranium?",
+        "hindi": "किस ऊर्जा स्रोत को संवर्धित यूरेनियम की आवश्यकता होती है?"
+      },
+      "option": {
+        "english": [
+          "Solar",
+          "Wind",
+          "Nuclear",
+          "Tidal"
+        ],
+        "hindi": [
+          "सौर",
+          "पवन",
+          "नाभिकीय",
+          "ज्वारीय"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the use of solar panels?",
+        "hindi": "सौर पैनल का उपयोग क्या है?"
+      },
+      "option": {
+        "english": [
+          "Generate electricity",
+          "Heat water",
+          "Cook food",
+          "Store energy"
+        ],
+        "hindi": [
+          "बिजली उत्पन्न करना",
+          "पानी गरम करना",
+          "भोजन पकाना",
+          "ऊर्जा संग्रह करना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What affects wind energy production?",
+        "hindi": "पवन ऊर्जा उत्पादन को क्या प्रभावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Temperature",
+          "Wind speed",
+          "Humidity",
+          "Pressure"
+        ],
+        "hindi": [
+          "तापमान",
+          "हवा की गति",
+          "आर्द्रता",
+          "दबाव"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why is hydropower considered clean energy?",
+        "hindi": "जलविद्युत को स्वच्छ ऊर्जा क्यों माना जाता है?"
+      },
+      "option": {
+        "english": [
+          "Low cost",
+          "Easy to build",
+          "No pollution",
+          "High power"
+        ],
+        "hindi": [
+          "कम लागत",
+          "बनाने में आसान",
+          "कोई प्रदूषण नहीं",
+          "अधिक शक्ति"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the disadvantage of biomass energy?",
+        "hindi": "बायोमास ऊर्जा की क्या कमी है?"
+      },
+      "option": {
+        "english": [
+          "High pollution",
+          "Low efficiency",
+          "High cost",
+          "Difficult transport"
+        ],
+        "hindi": [
+          "अधिक प्रदूषण",
+          "कम दक्षता",
+          "उच्च लागत",
+          "कठिन परिवहन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which energy source has least maintenance cost?",
+        "hindi": "किस ऊर्जा स्रोत की रखरखाव लागत सबसे कम है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear",
+          "Coal",
+          "Solar",
+          "Hydropower"
+        ],
+        "hindi": [
+          "नाभिकीय",
+          "कोयला",
+          "सौर",
+          "जलविद्युत"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

@@ -1,0 +1,223 @@
+[
+    {
+      "question_name": {
+        "english": "Which hormone is secreted by pancreas to control blood sugar?",
+        "hindi": "रक्त शर्करा को नियंत्रित करने के लिए अग्न्याशय कौन सा हार्मोन स्रावित करता है?"
+      },
+      "option": {
+        "english": [
+          "Insulin",
+          "Thyroxine", 
+          "Adrenaline",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "इंसुलिन",
+          "थायरॉक्सिन",
+          "एड्रेनालिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 0,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain maintains balance of the body?",
+        "hindi": "मस्तिष्क का कौन सा भाग शरीर का संतुलन बनाए रखता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Cerebellum",
+          "Cerebrum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "सेरेबेलम",
+          "सेरेब्रम"
+        ]
+      },
+      "answer": 2,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the function of medulla in brain?",
+        "hindi": "मस्तिष्क में मेडुला का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Memory",
+          "Vision",
+          "Balance",
+          "Involuntary actions"
+        ],
+        "hindi": [
+          "स्मृति",
+          "दृष्टि",
+          "संतुलन",
+          "अनैच्छिक क्रियाएं"
+        ]
+      },
+      "answer": 3,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland is called the master gland?",
+        "hindi": "किस ग्रंथि को मास्टर ग्रंथि कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 1,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone prepares our body for emergency situations?",
+        "hindi": "कौन सा हार्मोन आपातकालीन स्थितियों के लिए हमारे शरीर को तैयार करता है?"
+      },
+      "option": {
+        "english": [
+          "Adrenaline",
+          "Thyroxine",
+          "Insulin",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "एड्रेनालिन",
+          "थायरॉक्सिन",
+          "इंसुलिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 0,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What causes the movement in plants towards gravity?",
+        "hindi": "पौधों में गुरुत्व की ओर गति का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Phototropism",
+          "Hydrotropism",
+          "Chemotropism",
+          "Geotropism"
+        ],
+        "hindi": [
+          "प्रकाशानुवर्तन",
+          "जलानुवर्तन",
+          "रसायनानुवर्तन",
+          "गुरुत्वानुवर्तन"
+        ]
+      },
+      "answer": 3,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which plant hormone promotes cell division?",
+        "hindi": "कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Ethylene",
+          "Cytokinin",
+          "Abscisic acid"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "एथिलीन",
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड"
+        ]
+      },
+      "answer": 2,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of hypothalamus?",
+        "hindi": "हाइपोथैलेमस की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Body temperature",
+          "Memory",
+          "Vision",
+          "Hearing"
+        ],
+        "hindi": [
+          "शरीर का तापमान",
+          "स्मृति",
+          "दृष्टि",
+          "श्रवण"
+        ]
+      },
+      "answer": 1,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone is responsible for secondary sexual characters in males?",
+        "hindi": "पुरुषों में द्वितीयक लैंगिक लक्षणों के लिए कौन सा हार्मोन जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Testosterone",
+          "Estrogen",
+          "Thyroxine",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "टेस्टोस्टेरोन",
+          "एस्ट्रोजन",
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 0,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone inhibits growth in plants?",
+        "hindi": "कौन सा हार्मोन पौधों में वृद्धि को रोकता है?"
+      },
+      "option": {
+        "english": [
+          "Auxin",
+          "Cytokinin",
+          "Abscisic acid",
+          "Gibberellin"
+        ],
+        "hindi": [
+          "ऑक्सिन",
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड",
+          "जिबरेलिन"
+        ]
+      },
+      "answer": 2,
+      "medium": "hard"
+    }
+  ]
+  

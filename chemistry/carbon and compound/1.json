@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of the following represents the structure of ethanoic acid?",
+        "hindi": "निम्नलिखित में से कौन एथेनोइक अम्ल की संरचना दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "CH₃-CH₂-OH",
+          "CH₃-COOH",
+          "CH₃-CHO",
+          "CH₃-CO-CH₃"
+        ],
+        "hindi": [
+          "CH₃-CH₂-OH",
+          "CH₃-COOH",
+          "CH₃-CHO",
+          "CH₃-CO-CH₃"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the functional group present in ethanol?",
+        "hindi": "एथेनॉल में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+      },
+      "option": {
+        "english": [
+          "-OH",
+          "-COOH",
+          "-CHO",
+          "-CO-"
+        ],
+        "hindi": [
+          "-OH",
+          "-COOH",
+          "-CHO",
+          "-CO-"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which property of carbon leads to formation of long chains?",
+        "hindi": "कार्बन का कौन सा गुण लंबी श्रृंखलाओं के निर्माण का कारण है?"
+      },
+      "option": {
+        "english": [
+          "Valency",
+          "Atomic size",
+          "Catenation",
+          "Reactivity"
+        ],
+        "hindi": [
+          "संयोजकता",
+          "परमाणु आकार",
+          "श्रृंखलन",
+          "अभिक्रियाशीलता"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the molecular formula of ethene?",
+        "hindi": "एथीन का आण्विक सूत्र क्या है?"
+      },
+      "option": {
+        "english": [
+          "C₂H₆",
+          "C₂H₄",
+          "C₂H₂",
+          "CH₄"
+        ],
+        "hindi": [
+          "C₂H₆",
+          "C₂H₄",
+          "C₂H₂",
+          "CH₄"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of CH₃COOH?",
+        "hindi": "CH₃COOH का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Acetic acid",
+          "Formic acid",
+          "Methanoic acid",
+          "Propanoic acid"
+        ],
+        "hindi": [
+          "एसीटिक अम्ल",
+          "फॉर्मिक अम्ल",
+          "मेथेनोइक अम्ल",
+          "प्रोपेनोइक अम्ल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What happens when ethanoic acid reacts with sodium carbonate?",
+        "hindi": "एथेनोइक अम्ल सोडियम कार्बोनेट से अभिक्रिया करने पर क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "H₂ gas is evolved",
+          "CO₂ gas with sodium ethanoate",
+          "Only sodium ethanoate",
+          "No reaction"
+        ],
+        "hindi": [
+          "H₂ गैस निकलती है",
+          "CO₂ गैस के साथ सोडियम एथेनोएट",
+          "केवल सोडियम एथेनोएट",
+          "कोई अभिक्रिया नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of reaction occurs when ethene is converted to ethane?",
+        "hindi": "एथीन के एथेन में परिवर्तित होने पर किस प्रकार की अभिक्रिया होती है?"
+      },
+      "option": {
+        "english": [
+          "Substitution",
+          "Oxidation",
+          "Addition",
+          "Elimination"
+        ],
+        "hindi": [
+          "प्रतिस्थापन",
+          "ऑक्सीकरण",
+          "योगात्मक",
+          "विलोपन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the IUPAC name of CH₃-CH₂-CHO?",
+        "hindi": "CH₃-CH₂-CHO का IUPAC नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Propanol",
+          "Propanal",
+          "Propanone",
+          "Propanoic acid"
+        ],
+        "hindi": [
+          "प्रोपेनॉल",
+          "प्रोपैनल",
+          "प्रोपेनोन",
+          "प्रोपेनोइक अम्ल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the hybridization of carbon in ethyne?",
+        "hindi": "एथाइन में कार्बन का संकरण क्या है?"
+      },
+      "option": {
+        "english": [
+          "sp³",
+          "sp²",
+          "sp",
+          "No hybridization"
+        ],
+        "hindi": [
+          "sp³",
+          "sp²",
+          "sp",
+          "कोई संकरण नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which reagent can distinguish between ethanol and ethanoic acid?",
+        "hindi": "कौन सा अभिकर्मक एथेनॉल और एथेनोइक अम्ल में भेद कर सकता है?"
+      },
+      "option": {
+        "english": [
+          "NaOH",
+          "NaHCO₃",
+          "Na metal",
+          "H₂O"
+        ],
+        "hindi": [
+          "NaOH",
+          "NaHCO₃",
+          "Na धातु",
+          "H₂O"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is bronze made of?",
+        "hindi": "कांसा किससे बनता है?"
+      },
+      "option": {
+        "english": [
+          "Cu + Zn",
+          "Fe + C",
+          "Cu + Sn",
+          "Fe + Ni"
+        ],
+        "hindi": [
+          "Cu + Zn",
+          "Fe + C",
+          "Cu + Sn",
+          "Fe + Ni"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making water tanks?",
+        "hindi": "पानी की टंकी बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Galvanized iron",
+          "Copper",
+          "Lead",
+          "Silver"
+        ],
+        "hindi": [
+          "जस्ती लोहा",
+          "तांबा",
+          "सीसा",
+          "चांदी"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making decorative items?",
+        "hindi": "सजावटी सामान बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Brass",
+          "Lead",
+          "Mercury"
+        ],
+        "hindi": [
+          "लोहा",
+          "पीतल",
+          "सीसा",
+          "पारा"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making X-ray screens?",
+        "hindi": "एक्स-रे स्क्रीन बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Zinc",
+          "Barium"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "जस्ता",
+          "बेरियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the chemical name of lime water?",
+        "hindi": "चूने के पानी का रासायनिक नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Calcium oxide",
+          "Calcium carbonate",
+          "Calcium hydroxide",
+          "Calcium chloride"
+        ],
+        "hindi": [
+          "कैल्शियम ऑक्साइड",
+          "कैल्शियम कार्बोनेट",
+          "कैल्शियम हाइड्रॉक्साइड",
+          "कैल्शियम क्लोराइड"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the color of silver nitrate solution?",
+        "hindi": "सिल्वर नाइट्रेट विलयन का रंग कैसा होता है?"
+      },
+      "option": {
+        "english": [
+          "Blue",
+          "Colorless",
+          "Green",
+          "Pink"
+        ],
+        "hindi": [
+          "नीला",
+          "रंगहीन",
+          "हरा",
+          "गुलाबी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is present in chlorophyll?",
+        "hindi": "क्लोरोफिल में कौन सी धातु पाई जाती है?"
+      },
+      "option": {
+        "english": [
+          "Magnesium",
+          "Iron",
+          "Calcium",
+          "Sodium"
+        ],
+        "hindi": [
+          "मैग्नीशियम",
+          "लोहा",
+          "कैल्शियम",
+          "सोडियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of coating copper with silver called?",
+        "hindi": "तांबे पर चांदी की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Tinning",
+          "Alloying",
+          "Silvering"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "टिन लेपन",
+          "मिश्रधातु",
+          "रजतलेपन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is German silver?",
+        "hindi": "जर्मन सिल्वर क्या है?"
+      },
+      "option": {
+        "english": [
+          "Pure silver",
+          "Silver alloy",
+          "Cu+Zn+Ni alloy",
+          "Ag+Cu alloy"
+        ],
+        "hindi": [
+          "शुद्ध चांदी",
+          "चांदी मिश्रधातु",
+          "Cu+Zn+Ni मिश्रधातु",
+          "Ag+Cu मिश्रधातु"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used as catalyst in Haber's process?",
+        "hindi": "हैबर की प्रक्रिया में किस धातु का उपयोग उत्प्रेरक के रूप में किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Iron",
+          "Platinum",
+          "Nickel"
+        ],
+        "hindi": [
+          "तांबा",
+          "लोहा",
+          "प्लैटिनम",
+          "निकल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

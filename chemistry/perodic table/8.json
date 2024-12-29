@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the electronic configuration of Carbon (Z=6)?",
+        "hindi": "कार्बन का इलेक्ट्रॉनिक विन्यास क्या है (Z=6)?"
+      },
+      "option": {
+        "english": [
+          "2,2,2",
+          "2,3,1",
+          "2,4",
+          "2,4,0"
+        ],
+        "hindi": [
+          "2,2,2",
+          "2,3,1",
+          "2,4",
+          "2,4,0"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which period contains lanthanoids?",
+        "hindi": "लैंथेनाइड किस आवर्त में होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Period 5",
+          "Period 6",
+          "Period 7",
+          "Period 4"
+        ],
+        "hindi": [
+          "आवर्त 5",
+          "आवर्त 6",
+          "आवर्त 7",
+          "आवर्त 4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which block contains inert gases?",
+        "hindi": "निष्क्रिय गैसें किस ब्लॉक में होती हैं?"
+      },
+      "option": {
+        "english": [
+          "p-block",
+          "s-block",
+          "d-block",
+          "f-block"
+        ],
+        "hindi": [
+          "p-ब्लॉक",
+          "s-ब्लॉक",
+          "d-ब्लॉक",
+          "f-ब्लॉक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the valency of elements in group 1?",
+        "hindi": "समूह 1 के तत्वों की संयोजकता क्या होती है?"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element has highest ionization energy?",
+        "hindi": "किस तत्व की आयनन ऊर्जा सबसे अधिक है?"
+      },
+      "option": {
+        "english": [
+          "Lithium",
+          "Sodium",
+          "Potassium",
+          "Helium"
+        ],
+        "hindi": [
+          "लिथियम",
+          "सोडियम",
+          "पोटैशियम",
+          "हीलियम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why do d-block elements form colored ions?",
+        "hindi": "d-ब्लॉक तत्व रंगीन आयन क्यों बनाते हैं?"
+      },
+      "option": {
+        "english": [
+          "d-d transitions",
+          "s-s transitions",
+          "p-p transitions",
+          "f-f transitions"
+        ],
+        "hindi": [
+          "d-d संक्रमण",
+          "s-s संक्रमण",
+          "p-p संक्रमण",
+          "f-f संक्रमण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes metallic character in elements?",
+        "hindi": "तत्वों में धात्विक गुण का क्या कारण है?"
+      },
+      "option": {
+        "english": [
+          "Gain electrons",
+          "Lose neutrons",
+          "Lose electrons",
+          "Gain protons"
+        ],
+        "hindi": [
+          "इलेक्ट्रॉन ग्रहण",
+          "न्यूट्रॉन त्याग",
+          "इलेक्ट्रॉन त्याग",
+          "प्रोटॉन ग्रहण"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What determines the size of an atom?",
+        "hindi": "परमाणु का आकार क्या निर्धारित करता है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear charge",
+          "Electronic charge",
+          "Mass number",
+          "Atomic number"
+        ],
+        "hindi": [
+          "नाभकीय आवेश",
+          "इलेक्ट्रॉनिक आवेश",
+          "द्रव्यमान संख्या",
+          "परमाणु संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do transition elements show variable oxidation states?",
+        "hindi": "संक्रमण तत्व परिवर्तनशील ऑक्सीकरण अवस्था क्यों दर्शाते हैं?"
+      },
+      "option": {
+        "english": [
+          "s electrons",
+          "p electrons",
+          "f electrons",
+          "d electrons"
+        ],
+        "hindi": [
+          "s इलेक्ट्रॉन",
+          "p इलेक्ट्रॉन",
+          "f इलेक्ट्रॉन",
+          "d इलेक्ट्रॉन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which orbital fills first: 4s or 3d?",
+        "hindi": "कौन सा कक्षक पहले भरता है: 4s या 3d?"
+      },
+      "option": {
+        "english": [
+          "4s",
+          "3d",
+          "Both same",
+          "Depends on element"
+        ],
+        "hindi": [
+          "4s",
+          "3d",
+          "दोनों समान",
+          "तत्व पर निर्भर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

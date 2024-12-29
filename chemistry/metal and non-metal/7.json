@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which metal is most commonly used in electrical wiring?",
+        "hindi": "विद्युत तारों में सबसे अधिक किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Iron",
+          "Zinc",
+          "Copper",
+          "Lead"
+        ],
+        "hindi": [
+          "लोहा",
+          "जस्ता",
+          "तांबा",
+          "सीसा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal reacts most vigorously with water?",
+        "hindi": "कौन सी धातु पानी के साथ सबसे तीव्र अभिक्रिया करती है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Iron",
+          "Zinc",
+          "Copper"
+        ],
+        "hindi": [
+          "सोडियम",
+          "लोहा",
+          "जस्ता",
+          "तांबा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which property allows metals to be beaten into sheets?",
+        "hindi": "कौन सा गुण धातुओं को चादर में परिवर्तित करने की अनुमति देता है?"
+      },
+      "option": {
+        "english": [
+          "Ductility",
+          "Malleability",
+          "Sonority",
+          "Conductivity"
+        ],
+        "hindi": [
+          "तन्यता",
+          "आघातवर्धनीयता",
+          "ध्वनिकता",
+          "चालकता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What prevents iron from rusting?",
+        "hindi": "लोहे को जंग लगने से क्या बचाता है?"
+      },
+      "option": {
+        "english": [
+          "Water",
+          "Oxygen",
+          "Paint",
+          "Galvanization"
+        ],
+        "hindi": [
+          "पानी",
+          "ऑक्सीजन",
+          "पेंट",
+          "जस्तीकरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is used in making water pipes?",
+        "hindi": "पानी की पाइप बनाने में किस धातु का उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Lead",
+          "Mercury",
+          "Galvanized iron",
+          "Silver"
+        ],
+        "hindi": [
+          "सीसा",
+          "पारा",
+          "जस्ती लोहा",
+          "चांदी"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the nature of metallic oxides?",
+        "hindi": "धातु ऑक्साइड की प्रकृति कैसी होती है?"
+      },
+      "option": {
+        "english": [
+          "Acidic",
+          "Basic",
+          "Neutral",
+          "Amphoteric"
+        ],
+        "hindi": [
+          "अम्लीय",
+          "क्षारीय",
+          "उदासीन",
+          "उभयधर्मी"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which gas is produced when metals react with dilute acids?",
+        "hindi": "धातुएं तनु अम्लों से अभिक्रिया करके कौन सी गैस बनाती हैं?"
+      },
+      "option": {
+        "english": [
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide",
+          "Nitrogen"
+        ],
+        "hindi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the process of obtaining metals from their ores called?",
+        "hindi": "अयस्कों से धातुओं को प्राप्त करने की प्रक्रिया को क्या कहते हैं?"
+      },
+      "option": {
+        "english": [
+          "Galvanization",
+          "Smelting",
+          "Alloying",
+          "Metallurgy"
+        ],
+        "hindi": [
+          "जस्तीकरण",
+          "प्रगलन",
+          "मिश्रधातु",
+          "धातुकर्म"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the composition of stainless steel?",
+        "hindi": "स्टेनलेस स्टील की संरचना क्या है?"
+      },
+      "option": {
+        "english": [
+          "Fe + Zn",
+          "Fe + Cu",
+          "Fe + Cr + Ni",
+          "Fe + Al"
+        ],
+        "hindi": [
+          "Fe + Zn",
+          "Fe + Cu",
+          "Fe + Cr + Ni",
+          "Fe + Al"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which metal is placed at the top of the reactivity series?",
+        "hindi": "सक्रियता श्रेणी में सबसे ऊपर कौन सी धातु होती है?"
+      },
+      "option": {
+        "english": [
+          "Copper",
+          "Potassium",
+          "Iron",
+          "Zinc"
+        ],
+        "hindi": [
+          "तांबा",
+          "पोटैशियम",
+          "लोहा",
+          "जस्ता"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

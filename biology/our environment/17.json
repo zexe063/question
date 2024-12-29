@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the impact of thermal pollution?",
+        "hindi": "तापीय प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better aquatic life",
+          "Clean water",
+          "Good environment",
+          "Aquatic life damage"
+        ],
+        "hindi": [
+          "बेहतर जलीय जीवन",
+          "स्वच्छ जल",
+          "अच्छा पर्यावरण",
+          "जलीय जीवन क्षति"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biodiversity hotspot?",
+        "hindi": "जैव विविधता हॉटस्पॉट क्या है?"
+      },
+      "option": {
+        "english": [
+          "Empty area",
+          "Rich biodiversity",
+          "No species",
+          "Dead zone"
+        ],
+        "hindi": [
+          "खाली क्षेत्र",
+          "समृद्ध जैव विविधता",
+          "कोई प्रजाति नहीं",
+          "मृत क्षेत्र"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is soil erosion?",
+        "hindi": "मृदा अपरदन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Soil formation",
+          "Soil growth",
+          "Soil removal",
+          "Soil addition"
+        ],
+        "hindi": [
+          "मिट्टी निर्माण",
+          "मिट्टी वृद्धि",
+          "मिट्टी हटना",
+          "मिट्टी जोड़ना"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which is a biotic component?",
+        "hindi": "जैविक घटक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Living beings",
+          "Soil",
+          "Water",
+          "Air"
+        ],
+        "hindi": [
+          "जीवित प्राणी",
+          "मिट्टी",
+          "जल",
+          "वायु"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of overpopulation?",
+        "hindi": "जनसंख्या वृद्धि का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better life",
+          "More resources",
+          "Good environment",
+          "Resource depletion"
+        ],
+        "hindi": [
+          "बेहतर जीवन",
+          "अधिक संसाधन",
+          "अच्छा पर्यावरण",
+          "संसाधन क्षय"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is biomagnification?",
+        "hindi": "जैव आवर्धन क्या है?"
+      },
+      "option": {
+        "english": [
+          "Toxin decrease",
+          "No change",
+          "Toxin increase",
+          "Better health"
+        ],
+        "hindi": [
+          "विष कम होना",
+          "कोई परिवर्तन नहीं",
+          "विष बढ़ना",
+          "बेहतर स्वास्थ्य"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is afforestation?",
+        "hindi": "वनरोपण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Tree cutting",
+          "Tree planting",
+          "Tree removal",
+          "No trees"
+        ],
+        "hindi": [
+          "पेड़ काटना",
+          "पेड़ लगाना",
+          "पेड़ हटाना",
+          "कोई पेड़ नहीं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a fossil fuel?",
+        "hindi": "जीवाश्म ईंधन कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Coal",
+          "Solar",
+          "Wind",
+          "Hydro"
+        ],
+        "hindi": [
+          "कोयला",
+          "सौर",
+          "पवन",
+          "जल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of land pollution?",
+        "hindi": "भूमि प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better soil",
+          "Good crops",
+          "Clean land",
+          "Soil degradation"
+        ],
+        "hindi": [
+          "बेहतर मिट्टी",
+          "अच्छी फसलें",
+          "स्वच्छ भूमि",
+          "मृदा क्षरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is ecological pyramid?",
+        "hindi": "पारिस्थितिक पिरामिड क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random structure",
+          "No pattern",
+          "Trophic levels",
+          "Just shape"
+        ],
+        "hindi": [
+          "यादृच्छिक संरचना",
+          "कोई पैटर्न नहीं",
+          "पोषी स्तर",
+          "केवल आकार"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

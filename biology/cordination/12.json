@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "What is the function of synapse?",
+        "hindi": "सिनैप्स का क्या कार्य है?"
+      },
+      "option": {
+        "english": [
+          "Store energy",
+          "Filter blood",
+          "Produce hormones",
+          "Transfer signals"
+        ],
+        "hindi": [
+          "ऊर्जा संग्रह",
+          "रक्त छानना",
+          "हार्मोन उत्पादन",
+          "संकेत स्थानांतरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain is responsible for maintaining body temperature?",
+        "hindi": "मस्तिष्क का कौन सा भाग शरीर के तापमान को बनाए रखने के लिए जिम्मेदार है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Hypothalamus",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "हाइपोथैलेमस",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland secretes parathormone?",
+        "hindi": "कौन सी ग्रंथि पैराथोरमोन स्रावित करती है?"
+      },
+      "option": {
+        "english": [
+          "Parathyroid",
+          "Thyroid",
+          "Pituitary",
+          "Adrenal"
+        ],
+        "hindi": [
+          "पैराथायरॉइड",
+          "थायरॉइड",
+          "पीयूष",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone stimulates milk production after childbirth?",
+        "hindi": "प्रसव के बाद कौन सा हार्मोन दूध उत्पादन को उत्तेजित करता है?"
+      },
+      "option": {
+        "english": [
+          "Estrogen",
+          "Prolactin",
+          "Oxytocin",
+          "Progesterone"
+        ],
+        "hindi": [
+          "एस्ट्रोजन",
+          "प्रोलैक्टिन",
+          "ऑक्सीटोसिन",
+          "प्रोजेस्टेरोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of myelin sheath?",
+        "hindi": "माइलिन आवरण की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Energy storage",
+          "Signal processing",
+          "Waste removal",
+          "Insulation"
+        ],
+        "hindi": [
+          "ऊर्जा भंडारण",
+          "संकेत प्रसंस्करण",
+          "अपशिष्ट निष्कासन",
+          "विद्युतरोधन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which gland becomes enlarged in Goiter?",
+        "hindi": "घेंघा में कौन सी ग्रंथि बढ़ जाती है?"
+      },
+      "option": {
+        "english": [
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
+        ],
+        "hindi": [
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which part of brain interprets taste?",
+        "hindi": "मस्तिष्क का कौन सा भाग स्वाद की व्याख्या करता है?"
+      },
+      "option": {
+        "english": [
+          "Medulla",
+          "Pons",
+          "Temporal lobe",
+          "Cerebellum"
+        ],
+        "hindi": [
+          "मेडुला",
+          "पोंस",
+          "कनपटी पालि",
+          "सेरेबेलम"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which hormone controls menstrual cycle?",
+        "hindi": "कौन सा हार्मोन मासिक धर्म चक्र को नियंत्रित करता है?"
+      },
+      "option": {
+        "english": [
+          "Thyroxine",
+          "Estrogen",
+          "Insulin",
+          "Growth hormone"
+        ],
+        "hindi": [
+          "थायरॉक्सिन",
+          "एस्ट्रोजन",
+          "इंसुलिन",
+          "वृद्धि हार्मोन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens during a reflex action?",
+        "hindi": "प्रतिवर्ती क्रिया के दौरान क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Conscious response",
+          "Planned movement",
+          "Voluntary action",
+          "Involuntary response"
+        ],
+        "hindi": [
+          "सचेत प्रतिक्रिया",
+          "योजनाबद्ध गति",
+          "ऐच्छिक क्रिया",
+          "अनैच्छिक प्रतिक्रिया"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which gland regulates blood calcium levels?",
+        "hindi": "कौन सी ग्रंथि रक्त कैल्शियम स्तर को नियंत्रित करती है?"
+      },
+      "option": {
+        "english": [
+          "Parathyroid",
+          "Thyroid",
+          "Pituitary",
+          "Pancreas"
+        ],
+        "hindi": [
+          "पैराथायरॉइड",
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]

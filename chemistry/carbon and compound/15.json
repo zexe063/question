@@ -1,0 +1,209 @@
+[
+    {
+      "question_name": {
+        "english": "Identify the hybridization state of central carbon atom:",
+        "hindi": "केंद्रीय कार्बन परमाणु की संकरण अवस्था की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "sp",
+          "sp²",
+          "sp³",
+          "sp³d"
+        ],
+        "hindi": [
+          "sp",
+          "sp²",
+          "sp³",
+          "sp³d"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='40' y2='-40' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='40' y2='40' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-40' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='20' y2='0' stroke='black' stroke-width='2'/><text x='30' y='-15' fill='black'>109.5°</text></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which resonance structure of benzene is shown here?",
+        "hindi": "बेंजीन की कौन सी अनुनाद संरचना यहाँ दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "Kekulé structure 1",
+          "Kekulé structure 2",
+          "Delocalized structure",
+          "Hybrid structure"
+        ],
+        "hindi": [
+          "केकुले संरचना 1",
+          "केकुले संरचना 2",
+          "अस्थानीकृत संरचना",
+          "संकर संरचना"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><polygon points='0,-40 34.6,-20 34.6,20 0,40 -34.6,20 -34.6,-20' fill='none' stroke='black' stroke-width='2'/><line x1='0' y1='-40' x2='34.6' y2='-20' stroke='black' stroke-width='4'/><line x1='34.6' y1='20' x2='0' y2='40' stroke='black' stroke-width='4'/><line x1='-34.6' y1='20' x2='-34.6' y2='-20' stroke='black' stroke-width='4'/></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of isomerism is shown in these structures?",
+        "hindi": "इन संरचनाओं में किस प्रकार की समावयवता दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "Chain isomerism",
+          "Position isomerism",
+          "Functional isomerism",
+          "Geometrical isomerism"
+        ],
+        "hindi": [
+          "श्रृंखला समावयवता",
+          "स्थिति समावयवता",
+          "क्रियात्मक समावयवता",
+          "ज्यामितीय समावयवता"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(50,75)'><line x1='0' y1='0' x2='80' y2='0' stroke='black' stroke-width='2'/><text x='40' y='-10' fill='black'>OH</text><g transform='translate(170,0)'><line x1='0' y1='0' x2='80' y2='0' stroke='black' stroke-width='2'/><text x='40' y='20' fill='black'>OH</text></g></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Identify the type of reaction mechanism shown:",
+        "hindi": "दर्शाई गई अभिक्रिया का प्रकार पहचानें:"
+      },
+      "option": {
+        "english": [
+          "Addition",
+          "Substitution",
+          "Elimination",
+          "Free radical"
+        ],
+        "hindi": [
+          "योगात्मक",
+          "प्रतिस्थापन",
+          "विलोपन",
+          "मुक्त मूलक"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(100,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='20' y1='0' x2='80' y2='0' stroke='black' stroke-width='2'/><circle cx='100' cy='0' r='20' fill='#4a90e2'/><text x='100' y='5' text-anchor='middle' fill='white'>C</text><path d='M 40,-10 Q 60,0 40,10' fill='none' stroke='red' stroke-width='2' stroke-dasharray='5,5'/></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the IUPAC name of this structure?",
+        "hindi": "इस संरचना का IUPAC नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "2-methylpropane",
+          "Butane",
+          "Isobutane",
+          "n-butane"
+        ],
+        "hindi": [
+          "2-मेथिलप्रोपेन",
+          "ब्यूटेन",
+          "आइसोब्यूटेन",
+          "n-ब्यूटेन"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='40' y2='-40' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='40' y2='40' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-40' y2='0' stroke='black' stroke-width='2'/><circle cx='-40' cy='0' r='15' fill='#9b9b9b'/><text x='-40' y='5' text-anchor='middle' fill='white'>CH₃</text></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which conformational structure is shown here?",
+        "hindi": "कौन सी अनुरूपी संरचना यहाँ दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "Eclipsed",
+          "Staggered",
+          "Gauche",
+          "Anti"
+        ],
+        "hindi": [
+          "एक्लिप्स्ड",
+          "स्टैगर्ड",
+          "गॉश",
+          "एंटी"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><line x1='-30' y1='0' x2='30' y2='0' stroke='black' stroke-width='2'/><path d='M 0,0 L 15,26 M 0,0 L -15,-26 M 0,0 L -15,26 M 0,0 L 15,-26' stroke='black' stroke-width='2'/></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What type of stereoisomerism is shown?",
+        "hindi": "किस प्रकार की त्रिविम समावयवता दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "Enantiomers",
+          "Diastereomers",
+          "Meso compounds",
+          "Racemic mixture"
+        ],
+        "hindi": [
+          "प्रतिबिंब समावयवी",
+          "डायस्टीरियोमर",
+          "मीसो यौगिक",
+          "रेसेमिक मिश्रण"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(100,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='40' y2='-20' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='40' y2='20' stroke='black' stroke-width='2'/><text x='50' y='-15' fill='black'>OH</text><text x='50' y='25' fill='black'>H</text><g transform='translate(100,0)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='40' y2='-20' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='40' y2='20' stroke='black' stroke-width='2'/><text x='50' y='-15' fill='black'>H</text><text x='50' y='25' fill='black'>OH</text></g></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which orbital hybridization is shown in this structure?",
+        "hindi": "इस संरचना में कौन सा कक्षक संकरण दिखाया गया है?"
+      },
+      "option": {
+        "english": [
+          "sp",
+          "sp²",
+          "sp³",
+          "sp³d²"
+        ],
+        "hindi": [
+          "sp",
+          "sp²",
+          "sp³",
+          "sp³d²"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><path d='M 0,0 Q 20,-20 40,-10 M 0,0 Q -20,-20 -40,-10 M 0,0 Q 20,20 40,10 M 0,0 Q -20,20 -40,10' stroke='black' stroke-width='2' fill='none'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What mechanism is shown in this reaction?",
+        "hindi": "इस अभिक्रिया में कौन सी क्रियाविधि दिखाई गई है?"
+      },
+      "option": {
+        "english": [
+          "SN¹",
+          "SN²",
+          "E¹",
+          "E²"
+        ],
+        "hindi": [
+          "SN¹",
+          "SN²",
+          "E¹",
+          "E²"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><path d='M -40,0 Q 0,-40 40,0 Q 0,40 -40,0' fill='none' stroke='red' stroke-width='2' stroke-dasharray='5,5'/><text x='-30' y='-20' fill='black'>Nu⁻</text><text x='30' y='-20' fill='black'>X⁻</text></g></svg>",
+      "medium": "hard"
+    }
+]

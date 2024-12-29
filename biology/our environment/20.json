@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is air quality index?",
+        "hindi": "वायु गुणवत्ता सूचकांक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Random number",
+          "Pollution measure",
+          "Just number",
+          "Temperature"
+        ],
+        "hindi": [
+          "यादृच्छिक संख्या",
+          "प्रदूषण माप",
+          "केवल संख्या",
+          "तापमान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is e-waste?",
+        "hindi": "ई-कचरा क्या है?"
+      },
+      "option": {
+        "english": [
+          "Paper waste",
+          "Food waste",
+          "Electronic waste",
+          "Plastic waste"
+        ],
+        "hindi": [
+          "कागज कचरा",
+          "खाद्य कचरा",
+          "इलेक्ट्रॉनिक कचरा",
+          "प्लास्टिक कचरा"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which chemical causes water pollution?",
+        "hindi": "कौन सा रसायन जल प्रदूषण का कारण बनता है?"
+      },
+      "option": {
+        "english": [
+          "Heavy metals",
+          "Pure water",
+          "Clean water",
+          "Normal water"
+        ],
+        "hindi": [
+          "भारी धातुएं",
+          "शुद्ध जल",
+          "स्वच्छ जल",
+          "सामान्य जल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of vehicular pollution?",
+        "hindi": "वाहन प्रदूषण का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Clean air",
+          "Better health",
+          "Good breathing",
+          "Respiratory problems"
+        ],
+        "hindi": [
+          "स्वच्छ वायु",
+          "बेहतर स्वास्थ्य",
+          "अच्छा श्वसन",
+          "श्वसन समस्याएं"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is pollution control board?",
+        "hindi": "प्रदूषण नियंत्रण बोर्ड क्या है?"
+      },
+      "option": {
+        "english": [
+          "Normal office",
+          "Regulatory body",
+          "Simple board",
+          "Just name"
+        ],
+        "hindi": [
+          "सामान्य कार्यालय",
+          "नियामक निकाय",
+          "साधारण बोर्ड",
+          "केवल नाम"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which industry causes maximum pollution?",
+        "hindi": "कौन सा उद्योग अधिकतम प्रदूषण का कारण बनता है?"
+      },
+      "option": {
+        "english": [
+          "Thermal power",
+          "Small scale",
+          "Cottage",
+          "Handloom"
+        ],
+        "hindi": [
+          "थर्मल पावर",
+          "लघु उद्योग",
+          "कुटीर उद्योग",
+          "हथकरघा"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is pollution prevention?",
+        "hindi": "प्रदूषण रोकथाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "No action",
+          "Just rules",
+          "Preventive measures",
+          "Simple talk"
+        ],
+        "hindi": [
+          "कोई कार्रवाई नहीं",
+          "केवल नियम",
+          "निवारक उपाय",
+          "सामान्य बात"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of chemical fertilizers?",
+        "hindi": "रासायनिक उर्वरकों का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better soil",
+          "Good crops",
+          "More yield",
+          "Soil degradation"
+        ],
+        "hindi": [
+          "बेहतर मिट्टी",
+          "अच्छी फसलें",
+          "अधिक उपज",
+          "मृदा क्षरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is pollution monitoring?",
+        "hindi": "प्रदूषण निगरानी क्या है?"
+      },
+      "option": {
+        "english": [
+          "No checking",
+          "Regular checking",
+          "Random check",
+          "One time check"
+        ],
+        "hindi": [
+          "कोई जांच नहीं",
+          "नियमित जांच",
+          "यादृच्छिक जांच",
+          "एक बार जांच"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which method reduces air pollution?",
+        "hindi": "कौन सी विधि वायु प्रदूषण को कम करती है?"
+      },
+      "option": {
+        "english": [
+          "Air filters",
+          "More vehicles",
+          "More industries",
+          "Burning waste"
+        ],
+        "hindi": [
+          "वायु फिल्टर",
+          "अधिक वाहन",
+          "अधिक उद्योग",
+          "कचरा जलाना"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+  ]
