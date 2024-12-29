@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "What is the main cause of air pollution?",
+        "hindi": "वायु प्रदूषण का मुख्य कारण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Clean air",
+          "Vehicle emissions",
+          "Fresh air",
+          "Natural air"
+        ],
+        "hindi": [
+          "स्वच्छ वायु",
+          "वाहन उत्सर्जन",
+          "ताजी हवा",
+          "प्राकृतिक वायु"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the role of bacteria in environment?",
+        "hindi": "पर्यावरण में बैक्टीरिया की क्या भूमिका है?"
+      },
+      "option": {
+        "english": [
+          "Only harmful",
+          "Only beneficial",
+          "Decomposition",
+          "No role"
+        ],
+        "hindi": [
+          "केवल हानिकारक",
+          "केवल लाभदायक",
+          "अपघटन",
+          "कोई भूमिका नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which layer protects Earth from UV rays?",
+        "hindi": "कौन सी परत पृथ्वी को पराबैंगनी किरणों से बचाती है?"
+      },
+      "option": {
+        "english": [
+          "Ozone layer",
+          "Troposphere",
+          "Stratosphere",
+          "Mesosphere"
+        ],
+        "hindi": [
+          "ओजोन परत",
+          "क्षोभमंडल",
+          "समतापमंडल",
+          "मध्यमंडल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of deforestation on climate?",
+        "hindi": "जलवायु पर वनों की कटाई का क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better climate",
+          "No effect",
+          "More rain",
+          "Climate change"
+        ],
+        "hindi": [
+          "बेहतर जलवायु",
+          "कोई प्रभाव नहीं",
+          "अधिक वर्षा",
+          "जलवायु परिवर्तन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is waste segregation?",
+        "hindi": "कचरा पृथक्करण क्या है?"
+      },
+      "option": {
+        "english": [
+          "Waste mixing",
+          "Waste separation",
+          "Waste burning",
+          "Waste dumping"
+        ],
+        "hindi": [
+          "कचरा मिश्रण",
+          "कचरा अलगाव",
+          "कचरा जलाना",
+          "कचरा डंपिंग"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "What is the impact of oil spills on marine life?",
+        "hindi": "तेल रिसाव का समुद्री जीवन पर क्या प्रभाव है?"
+      },
+      "option": {
+        "english": [
+          "Better growth",
+          "No effect",
+          "More fish",
+          "Marine destruction"
+        ],
+        "hindi": [
+          "बेहतर विकास",
+          "कोई प्रभाव नहीं",
+          "अधिक मछलियां",
+          "समुद्री विनाश"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which is a natural fertilizer?",
+        "hindi": "प्राकृतिक उर्वरक कौन सा है?"
+      },
+      "option": {
+        "english": [
+          "Compost",
+          "Urea",
+          "DAP",
+          "NPK"
+        ],
+        "hindi": [
+          "कम्पोस्ट",
+          "यूरिया",
+          "डीएपी",
+          "एनपीके"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of wildlife corridors?",
+        "hindi": "वन्यजीव गलियारों का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "Tourism",
+          "Research",
+          "Animal movement",
+          "Human settlement"
+        ],
+        "hindi": [
+          "पर्यटन",
+          "अनुसंधान",
+          "पशु आवागमन",
+          "मानव बस्ती"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is carbon footprint?",
+        "hindi": "कार्बन फुटप्रिंट क्या है?"
+      },
+      "option": {
+        "english": [
+          "Carbon cycle",
+          "Carbon impact",
+          "Carbon storage",
+          "Carbon release"
+        ],
+        "hindi": [
+          "कार्बन चक्र",
+          "कार्बन प्रभाव",
+          "कार्बन भंडारण",
+          "कार्बन विमोचन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the significance of biodiversity hotspots?",
+        "hindi": "जैव विविधता हॉटस्पॉट का क्या महत्व है?"
+      },
+      "option": {
+        "english": [
+          "Low diversity",
+          "Few species",
+          "Common species",
+          "High endemism"
+        ],
+        "hindi": [
+          "कम विविधता",
+          "कम प्रजातियां",
+          "सामान्य प्रजातियां",
+          "उच्च स्थानिकता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+  ]
