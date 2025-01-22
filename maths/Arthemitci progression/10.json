@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 5th term is 19 and 9th term is 31.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 5वाँ पद 19 और 9वाँ पद 31 है।"
+        },
+        "option": {
+            "english": ["7", "8", "9", "10"],
+            "hindi": ["7", "8", "9", "10"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 12, 17, 22, 27, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 12, 17, 22, 27, ..."
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 6th term is twice the 3rd term in an AP, find the ratio of 8th term to 4th term.",
+            "hindi": "यदि एक AP में 6ठा पद 3रे पद का दोगुना है, तो 8वें पद और 4थे पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2:1", "5:3", "3:2", "7:4"],
+            "hindi": ["2:1", "5:3", "3:2", "7:4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The sum of four consecutive terms of an AP is 44 and their product is 1680. Find the first term.",
+            "hindi": "एक AP के चार क्रमागत पदों का योग 44 और उनका गुणनफल 1680 है। पहला पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8", "9", "10", "11"],
+            "hindi": ["8", "9", "10", "11"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the 20th term of AP whose 3rd term is 7 and 7th term is 19.",
+            "hindi": "एक AP का 20वाँ पद ज्ञात कीजिए जिसका 3रा पद 7 और 7वाँ पद 19 है।"
+        },
+        "option": {
+            "english": ["67", "68", "69", "70"],
+            "hindi": ["67", "68", "69", "70"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(7n + 3), find the 15th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(7n + 3) है, तो 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["213", "214", "215", "216"],
+            "hindi": ["213", "214", "215", "216"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if a₄ + a₈ = 20 and a₆ + a₁₀ = 28, find the common difference.",
+            "hindi": "एक AP में, यदि a₄ + a₈ = 20 और a₆ + a₁₀ = 28 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three numbers are in AP. If their sum is 27 and sum of their squares is 275, find the numbers.",
+            "hindi": "तीन संख्याएँ AP में हैं। यदि उनका योग 27 और उनके वर्गों का योग 275 है, तो संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7,9,11", "8,9,10", "6,9,12", "5,9,13"],
+            "hindi": ["7,9,11", "8,9,10", "6,9,12", "5,9,13"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all three-digit numbers which when divided by 7 leave remainder 3.",
+            "hindi": "सभी तीन अंकों की संख्याओं का योग ज्ञात कीजिए जो 7 से विभाजित करने पर शेषफल 3 देती हैं।"
+        },
+        "option": {
+            "english": ["71428", "71528", "71628", "71728"],
+            "hindi": ["71428", "71528", "71628", "71728"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is multiplied by 2 and then divided by 3, how does the common difference change?",
+            "hindi": "यदि एक AP के प्रत्येक पद को 2 से गुणा करके फिर 3 से भाग दिया जाए, तो सार्वअंतर में क्या परिवर्तन होगा?"
+        },
+        "option": {
+            "english": ["Multiplied by 2/3", "No change", "Divided by 3/2", "Multiplied by 3/2"],
+            "hindi": ["2/3 से गुणा", "कोई परिवर्तन नहीं", "3/2 से भाग", "3/2 से गुणा"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

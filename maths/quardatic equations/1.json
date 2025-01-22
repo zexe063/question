@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The quadratic equation x² + 5x + 6 = 0 has:",
+            "hindi": "द्विघात समीकरण x² + 5x + 6 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["No real roots", "Two real roots", "Equal roots", "Complex roots"],
+            "hindi": ["कोई वास्तविक मूल नहीं", "दो वास्तविक मूल", "बराबर मूल", "मिश्र मूल"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 7x + 12 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² - 7x + 12 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["7", "12", "-7", "3"],
+            "hindi": ["7", "12", "-7", "3"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + kx + 4 = 0 has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + kx + 4 = 0 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation x² - 4x + 4 = 0 has:",
+            "hindi": "द्विघात समीकरण x² - 4x + 4 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["No real roots", "Two distinct roots", "Complex roots", "Equal roots"],
+            "hindi": ["कोई वास्तविक मूल नहीं", "दो भिन्न मूल", "मिश्र मूल", "बराबर मूल"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of ax² + bx + c = 0 is given by:",
+            "hindi": "ax² + bx + c = 0 का विवेचक दिया जाता है:"
+        },
+        "option": {
+            "english": ["ac - b²", "b² - 4ac", "4ac - b²", "2ac - b"],
+            "hindi": ["ac - b²", "b² - 4ac", "4ac - b²", "2ac - b"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² - px + 6 = 0 is 2, then the value of p is:",
+            "hindi": "यदि x² - px + 6 = 0 का एक मूल 2 है, तो p का मान है:"
+        },
+        "option": {
+            "english": ["4", "2", "5", "3"],
+            "hindi": ["4", "2", "5", "3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of roots of x² + kx + 12 = 0 is -8, then k equals:",
+            "hindi": "यदि x² + kx + 12 = 0 के मूलों का योग -8 है, तो k बराबर है:"
+        },
+        "option": {
+            "english": ["8", "-8", "4", "-4"],
+            "hindi": ["8", "-8", "4", "-4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The product of roots of x² - 6x + 9 = 0 is:",
+            "hindi": "x² - 6x + 9 = 0 के मूलों का गुणनफल है:"
+        },
+        "option": {
+            "english": ["6", "-9", "0", "9"],
+            "hindi": ["6", "-9", "0", "9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + 3x + 1 = 0, then α² + β² equals:",
+            "hindi": "यदि α और β, x² + 3x + 1 = 0 के मूल हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": ["7", "9", "5", "3"],
+            "hindi": ["7", "9", "5", "3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the equation ax² + bx + c = 0 and px² + qx + r = 0 have common roots, then:",
+            "hindi": "यदि समीकरण ax² + bx + c = 0 और px² + qx + r = 0 के समान मूल हैं, तो:"
+        },
+        "option": {
+            "english": ["a/p = b/q", "b/q = c/r", "ac/pr = b²/q²", "ab/pq = c/r"],
+            "hindi": ["a/p = b/q", "b/q = c/r", "ac/pr = b²/q²", "ab/pq = c/r"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

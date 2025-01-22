@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The students are divided _____ groups.",
+        "hindi": "Choose the correct preposition: The students are divided _____ groups."
+      },
+      "option": {
+        "english": [
+          "into",
+          "in",
+          "by",
+          "with"
+        ],
+        "hindi": [
+          "into",
+          "in",
+          "by",
+          "with"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She is suffering _____ fever.",
+        "hindi": "Fill in the blank: She is suffering _____ fever."
+      },
+      "option": {
+        "english": [
+          "by",
+          "from",
+          "with",
+          "of"
+        ],
+        "hindi": [
+          "by",
+          "from",
+          "with",
+          "of"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The thief jumped _____ the wall.",
+        "hindi": "Select the right preposition: The thief jumped _____ the wall."
+      },
+      "option": {
+        "english": [
+          "on",
+          "at",
+          "by",
+          "over"
+        ],
+        "hindi": [
+          "on",
+          "at",
+          "by",
+          "over"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The book belongs _____ my sister.",
+        "hindi": "Choose the correct preposition: The book belongs _____ my sister."
+      },
+      "option": {
+        "english": [
+          "with",
+          "by",
+          "to",
+          "for"
+        ],
+        "hindi": [
+          "with",
+          "by",
+          "to",
+          "for"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The match starts _____ noon.",
+        "hindi": "Fill in the blank: The match starts _____ noon."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: He is worried _____ his exam.",
+        "hindi": "Select the appropriate preposition: He is worried _____ his exam."
+      },
+      "option": {
+        "english": [
+          "for",
+          "of",
+          "about",
+          "with"
+        ],
+        "hindi": [
+          "for",
+          "of",
+          "about",
+          "with"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The ship sailed _____ the sunset.",
+        "hindi": "Choose the correct preposition: The ship sailed _____ the sunset."
+      },
+      "option": {
+        "english": [
+          "to",
+          "at",
+          "by",
+          "towards"
+        ],
+        "hindi": [
+          "to",
+          "at",
+          "by",
+          "towards"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She is married _____ a doctor.",
+        "hindi": "Fill in the blank: She is married _____ a doctor."
+      },
+      "option": {
+        "english": [
+          "with",
+          "to",
+          "for",
+          "by"
+        ],
+        "hindi": [
+          "with",
+          "to",
+          "for",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The medicine is available _____ prescription.",
+        "hindi": "Select the right preposition: The medicine is available _____ prescription."
+      },
+      "option": {
+        "english": [
+          "on",
+          "by",
+          "with",
+          "through"
+        ],
+        "hindi": [
+          "on",
+          "by",
+          "with",
+          "through"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The story is based _____ true events.",
+        "hindi": "Choose the correct preposition: The story is based _____ true events."
+      },
+      "option": {
+        "english": [
+          "from",
+          "with",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "from",
+          "with",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "question_name": {
+            "english": "If one zero of the quadratic polynomial x² + 3x + k is 2, then the value of k is:",
+            "hindi": "यदि द्विघात बहुपद x² + 3x + k का एक शून्यक 2 है, तो k का मान है:"
+        },
+        "option": {
+            "english": [
+                "10",
+                "-10",
+                "5",
+                "-5"
+            ],
+            "hindi": [
+                "10",
+                "-10",
+                "5",
+                "-5"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial p(x) = x² - 3x - 10 when divided by (x + 2) gives remainder:",
+            "hindi": "बहुपद p(x) = x² - 3x - 10 को (x + 2) से विभाजित करने पर शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "-4",
+                "4",
+                "2"
+            ],
+            "hindi": [
+                "0",
+                "-4",
+                "4",
+                "2"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of polynomial x² - 5x + 6, then α + β equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": [
+                "6",
+                "5",
+                "-5",
+                "-6"
+            ],
+            "hindi": [
+                "6",
+                "5",
+                "-5",
+                "-6"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The number of polynomials having zeros as 2 and -3 is:",
+            "hindi": "2 और -3 को शून्यक रखने वाले बहुपदों की संख्या है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "Infinite",
+                "0"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "अनंत",
+                "0"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 2 is a zero of polynomial p(x) = x² - kx + 6k, then the value of k is:",
+            "hindi": "यदि 2 बहुपद p(x) = x² - kx + 6k का एक शून्यक है, तो k का मान है:"
+        },
+        "option": {
+            "english": [
+                "3",
+                "2",
+                "1",
+                "4"
+            ],
+            "hindi": [
+                "3",
+                "2",
+                "1",
+                "4"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, then (α² + β²) equals:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, तो (α² + β²) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "p² - 2q",
+                "p² + 2q",
+                "2q - p²",
+                "2p² - q"
+            ],
+            "hindi": [
+                "p² - 2q",
+                "p² + 2q",
+                "2q - p²",
+                "2p² - q"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ - 6x³ + 13x² - 12x + 4 when divided by x - 2 gives remainder:",
+            "hindi": "बहुपद x⁴ - 6x³ + 13x² - 12x + 4 को x - 2 से विभाजित करने पर शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "4"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of cubic polynomial ax³ + bx² + cx + d is -1, then:",
+            "hindi": "यदि घन बहुपद ax³ + bx² + cx + d का एक शून्यक -1 है, तो:"
+        },
+        "option": {
+            "english": [
+                "a - b + c - d = 0",
+                "a + b + c + d = 0",
+                "-a + b - c + d = 0",
+                "a + b - c - d = 0"
+            ],
+            "hindi": [
+                "a - b + c - d = 0",
+                "a + b + c + d = 0",
+                "-a + b - c + d = 0",
+                "a + b - c - d = 0"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 4x + 3, then the value of (α²β + αβ²) is:",
+            "hindi": "यदि α और β बहुपद x² - 4x + 3 के शून्यक हैं, तो (α²β + αβ²) का मान है:"
+        },
+        "option": {
+            "english": [
+                "9",
+                "12",
+                "15",
+                "18"
+            ],
+            "hindi": [
+                "9",
+                "12",
+                "15",
+                "18"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the polynomial x⁴ + 2x³ + 3x² + 2x + 1 = (x² + px + q)(x² + rx + s), then:",
+            "hindi": "यदि बहुपद x⁴ + 2x³ + 3x² + 2x + 1 = (x² + px + q)(x² + rx + s), तो:"
+        },
+        "option": {
+            "english": [
+                "p + r = 2, qr + ps = 3",
+                "p + r = 2, qr + ps = 2",
+                "p + r = 3, qr + ps = 2",
+                "p + r = 3, qr + ps = 3"
+            ],
+            "hindi": [
+                "p + r = 2, qr + ps = 3",
+                "p + r = 2, qr + ps = 2",
+                "p + r = 3, qr + ps = 2",
+                "p + r = 3, qr + ps = 3"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    }
+]

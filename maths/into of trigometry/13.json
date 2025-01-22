@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of cos²30° - sin²30° is:",
+            "hindi": "cos²30° - sin²30° का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1/2",
+                "1",
+                "-1/2"
+            ],
+            "hindi": [
+                "0",
+                "1/2",
+                "1",
+                "-1/2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ · cosec θ = k, then k equals:",
+            "hindi": "यदि sin θ · cosec θ = k है, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "2",
+                "1",
+                "∞"
+            ],
+            "hindi": [
+                "0",
+                "2",
+                "1",
+                "∞"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of (sin 60° · cos 60°) is:",
+            "hindi": "(sin 60° · cos 60°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "1/4",
+                "1/2",
+                "1/3",
+                "1"
+            ],
+            "hindi": [
+                "1/4",
+                "1/2",
+                "1/3",
+                "1"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos A = 21/29, then sin A equals:",
+            "hindi": "यदि cos A = 21/29 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "20/29",
+                "29/20",
+                "21/20",
+                "20/21"
+            ],
+            "hindi": [
+                "20/29",
+                "29/20",
+                "21/20",
+                "20/21"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If tan θ = 4/3, then cos θ equals:",
+            "hindi": "यदि tan θ = 4/3 है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3/5",
+                "4/5",
+                "5/3",
+                "3/4"
+            ],
+            "hindi": [
+                "3/5",
+                "4/5",
+                "5/3",
+                "3/4"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sec A = 25/7, then sin A equals:",
+            "hindi": "यदि sec A = 25/7 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "24/25",
+                "25/24",
+                "7/24",
+                "24/7"
+            ],
+            "hindi": [
+                "24/25",
+                "25/24",
+                "7/24",
+                "24/7"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin²A + cos²A = 1 and tan A = x, then sec²A equals:",
+            "hindi": "यदि sin²A + cos²A = 1 और tan A = x है, तो sec²A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1 + x",
+                "1 + x²",
+                "x²",
+                "1/x²"
+            ],
+            "hindi": [
+                "1 + x",
+                "1 + x²",
+                "x²",
+                "1/x²"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = p/q and cos θ = q/r, then tan θ equals:",
+            "hindi": "यदि sin θ = p/q और cos θ = q/r है, तो tan θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "pr/q²",
+                "p/r",
+                "pr/q",
+                "q/pr"
+            ],
+            "hindi": [
+                "pr/q²",
+                "p/r",
+                "pr/q",
+                "q/pr"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin A + cos A = m and sin A - cos A = n, then sin A equals:",
+            "hindi": "यदि sin A + cos A = m और sin A - cos A = n है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "(m+n)/2",
+                "(m-n)/2",
+                "m+n",
+                "m-n"
+            ],
+            "hindi": [
+                "(m+n)/2",
+                "(m-n)/2",
+                "m+n",
+                "m-n"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If cosec θ = a and sec θ = b, then sin²θ + cos²θ equals:",
+            "hindi": "यदि cosec θ = a और sec θ = b है, तो sin²θ + cos²θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/a² + 1/b²",
+                "a² + b²",
+                "1",
+                "ab"
+            ],
+            "hindi": [
+                "1/a² + 1/b²",
+                "a² + b²",
+                "1",
+                "ab"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

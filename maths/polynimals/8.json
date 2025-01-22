@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 6x + 8, then (α - 2)(β - 2) equals:",
+            "hindi": "यदि α और β बहुपद x² - 6x + 8 के शून्यक हैं, तो (α - 2)(β - 2) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "2",
+                "4",
+                "-4"
+            ],
+            "hindi": [
+                "0",
+                "2",
+                "4",
+                "-4"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k = 0 has real and equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k = 0 के वास्तविक और बराबर मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The remainder when x³ + 3x² + 3x + 1 is divided by x + 1 is:",
+            "hindi": "जब x³ + 3x² + 3x + 1 को x + 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x - 1 is a factor of x³ + ax² + bx - 6, then:",
+            "hindi": "यदि x - 1, x³ + ax² + bx - 6 का एक गुणनखंड है, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = 5",
+                "a - b = 5",
+                "a + b = 6",
+                "a - b = 6"
+            ],
+            "hindi": [
+                "a + b = 5",
+                "a - b = 5",
+                "a + b = 6",
+                "a - b = 6"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The sum of squares of zeros of x² - 5x + 6 is:",
+            "hindi": "x² - 5x + 6 के शून्यकों के वर्गों का योग है:"
+        },
+        "option": {
+            "english": [
+                "13",
+                "17",
+                "19",
+                "25"
+            ],
+            "hindi": [
+                "13",
+                "17",
+                "19",
+                "25"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - kx + 12, and α - β = 2, then k equals:",
+            "hindi": "यदि α और β बहुपद x² - kx + 12 के शून्यक हैं, और α - β = 2, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "hindi": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, then α³ + β³ equals:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "-p³ + 3pq",
+                "-p³ - 3pq",
+                "p³ - 3pq",
+                "p³ + 3pq"
+            ],
+            "hindi": [
+                "-p³ + 3pq",
+                "-p³ - 3pq",
+                "p³ - 3pq",
+                "p³ + 3pq"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of x² + mx + 6 is three times the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 का एक शून्यक दूसरे का तीन गुना है, तो m बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±2",
+                "±3",
+                "±4",
+                "±5"
+            ],
+            "hindi": [
+                "±2",
+                "±3",
+                "±4",
+                "±5"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 4x³ + ax² + bx + 4 has x + 1 and x - 2 as factors and p(0) = 4, then:",
+            "hindi": "यदि p(x) = x⁴ - 4x³ + ax² + bx + 4 के x + 1 और x - 2 गुणनखंड हैं और p(0) = 4, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = 6",
+                "a - b = 6",
+                "a + b = 8",
+                "a - b = 8"
+            ],
+            "hindi": [
+                "a + b = 6",
+                "a - b = 6",
+                "a + b = 8",
+                "a - b = 8"
+            ]
+        },
+        "answer": 3,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α⁴ + β⁴ = 82, α² + β² = 10, then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α⁴ + β⁴ = 82, α² + β² = 10, तो:"
+        },
+        "option": {
+            "english": [
+                "p = 2, q = 3",
+                "p = -2, q = 3",
+                "p = 2, q = -3",
+                "p = -2, q = -3"
+            ],
+            "hindi": [
+                "p = 2, q = 3",
+                "p = -2, q = 3",
+                "p = 2, q = -3",
+                "p = -2, q = -3"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    }
+]

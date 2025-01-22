@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, which of the following is true?",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["AD/DB = AE/EC", "AD/AB = AE/AC", "AB/AD = AC/AE", "All of the above"],
+            "hindi": ["AD/DB = AE/EC", "AD/AB = AE/AC", "AB/AD = AC/AE", "उपरोक्त सभी"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='125' y1='70' x2='225' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='115' y='65'>D</text><text x='230' y='65'>E</text><line x1='125' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='225' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in two triangles, the corresponding angles are equal, then the triangles are:",
+            "hindi": "यदि दो त्रिभुजों में, संगत कोण बराबर हैं, तो त्रिभुज हैं:"
+        },
+        "option": {
+            "english": ["congruent", "equilateral", "similar", "isosceles"],
+            "hindi": ["सर्वांगसम", "समबाहु", "समरूप", "समद्विबाहु"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following statements is the converse of the Basic Proportionality Theorem?",
+            "hindi": "निम्नलिखित में से कौन सा कथन आधारभूत समानुपातिकता प्रमेय का विलोम है?"
+        },
+        "option": {
+            "english": ["If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side.", "If a line is drawn parallel to one side of a triangle, it divides the other two sides proportionally.", "If two triangles are similar, their corresponding sides are proportional.", "If two triangles are congruent, their corresponding sides are equal."],
+            "hindi": ["यदि कोई रेखा त्रिभुज की किन्हीं दो भुजाओं को समान अनुपात में विभाजित करती है, तो वह रेखा तीसरी भुजा के समानांतर होती है।", "यदि किसी त्रिभुज की एक भुजा के समानांतर एक रेखा खींची जाती है, तो वह अन्य दो भुजाओं को समान अनुपात में विभाजित करती है।", "यदि दो त्रिभुज समरूप हैं, तो उनकी संगत भुजाएँ समानुपाती होती हैं।", "यदि दो त्रिभुज सर्वांगसम हैं, तो उनकी संगत भुजाएँ बराबर होती हैं।"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, DE || BC. If AD = 2.5 cm, DB = 3.5 cm, and AE = 2 cm, then AC is equal to:",
+            "hindi": "दिए गए चित्र में, DE || BC। यदि AD = 2.5 सेमी, DB = 3.5 सेमी, और AE = 2 सेमी, तो AC बराबर है:"
+        },
+        "option": {
+            "english": ["3.8 cm", "4.2 cm", "4.8 cm", "5.6 cm"],
+            "hindi": ["3.8 सेमी", "4.2 सेमी", "4.8 सेमी", "5.6 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='130' y1='70' x2='220' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='120' y='65'>D</text><text x='225' y='65'>E</text><text x='100' y='90'>2.5</text><text x='90' y='110'>3.5</text><text x='180' y='60'>2</text><text x='245' y='90'>x</text><line x1='130' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='220' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Triangles ABC and DEF are similar. If angle A = 47 degrees and angle E = 83 degrees, what is the measure of angle C?",
+            "hindi": "त्रिभुज ABC और DEF समरूप हैं। यदि कोण A = 47 डिग्री और कोण E = 83 डिग्री है, तो कोण C का माप क्या है?"
+        },
+        "option": {
+            "english": ["40 degrees", "50 degrees", "60 degrees", "70 degrees"],
+            "hindi": ["40 अंश", "50 अंश", "60 अंश", "70 अंश"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD = 2 cm, DB = 3 cm, DE = 4 cm then BC is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD = 2 सेमी, DB = 3 सेमी, DE = 4 सेमी तो BC बराबर है:"
+        },
+        "option": {
+            "english": ["6 cm", "8 cm", "9 cm", "10 cm"],
+            "hindi": ["6 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='115' y1='70' x2='235' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='105' y='65'>D</text><text x='240' y='65'>E</text><text x='95' y='90'>2</text><text x='95' y='110'>3</text><text x='160' y='60'>4</text><text x='160' y='135'>x</text><line x1='115' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='235' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The lengths of the diagonals of a rhombus are 24 cm and 18 cm. Then, the length of the each side of the rhombus is:",
+            "hindi": "एक समचतुर्भुज के विकर्णों की लंबाई 24 सेमी और 18 सेमी है। तो, समचतुर्भुज की प्रत्येक भुजा की लंबाई है:"
+        },
+        "option": {
+            "english": ["15 cm", "16 cm", "18 cm", "25 cm"],
+            "hindi": ["15 सेमी", "16 सेमी", "18 सेमी", "25 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If in two triangles ABC and PQR, AB/QR = BC/PR = CA/PQ, then:",
+            "hindi": "यदि दो त्रिभुजों ABC और PQR में, AB/QR = BC/PR = CA/PQ, तो:"
+        },
+        "option": {
+            "english": ["ΔPQR ~ ΔCAB", "ΔBCA ~ ΔPQR", "ΔABC ~ ΔQRP", "ΔABC ~ ΔPQR"],
+            "hindi": ["ΔPQR ~ ΔCAB", "ΔBCA ~ ΔPQR", "ΔABC ~ ΔQRP", "ΔABC ~ ΔPQR"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A ladder 10 m long reaches a window 8 m above the ground. Find the distance of the foot of the ladder from base of the wall.",
+            "hindi": "एक 10 मीटर लंबी सीढ़ी जमीन से 8 मीटर ऊपर एक खिड़की तक पहुंचती है। सीढ़ी के पाद की दीवार के आधार से दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5 m", "6 m", "8 m", "9 m"],
+            "hindi": ["5 मीटर", "6 मीटर", "8 मीटर", "9 मीटर"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In an equilateral triangle ABC, if AD is perpendicular to BC, then which of the following is true?",
+            "hindi": "एक समबाहु त्रिभुज ABC में, यदि AD, BC पर लंब है, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["2AB² = 3AD²", "4AB² = 3AD²", "3AB² = 4AD²", "3AB² = 2AD²"],
+            "hindi": ["2AB² = 3AD²", "4AB² = 3AD²", "3AB² = 4AD²", "3AB² = 2AD²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

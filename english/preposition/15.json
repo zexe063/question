@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The waterfall cascades _____ the rocks.",
+        "hindi": "Choose the correct preposition: The waterfall cascades _____ the rocks."
+      },
+      "option": {
+        "english": [
+          "between",
+          "beside",
+          "over",
+          "among"
+        ],
+        "hindi": [
+          "between",
+          "beside",
+          "over",
+          "among"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The concert begins _____ sunset.",
+        "hindi": "Fill in the blank: The concert begins _____ sunset."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The moonlight shimmers _____ the lake.",
+        "hindi": "Select the right preposition: The moonlight shimmers _____ the lake."
+      },
+      "option": {
+        "english": [
+          "through",
+          "upon",
+          "over",
+          "across"
+        ],
+        "hindi": [
+          "through",
+          "upon",
+          "over",
+          "across"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The phoenix rises _____ the ashes.",
+        "hindi": "Choose the correct preposition: The phoenix rises _____ the ashes."
+      },
+      "option": {
+        "english": [
+          "within",
+          "beside",
+          "among",
+          "from"
+        ],
+        "hindi": [
+          "within",
+          "beside",
+          "among",
+          "from"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The statue stands _____ the garden.",
+        "hindi": "Fill in the blank: The statue stands _____ the garden."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "near",
+          "in",
+          "along"
+        ],
+        "hindi": [
+          "beside",
+          "near",
+          "in",
+          "along"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The spell was cast _____ moonlight.",
+        "hindi": "Select the appropriate preposition: The spell was cast _____ moonlight."
+      },
+      "option": {
+        "english": [
+          "through",
+          "by",
+          "with",
+          "in"
+        ],
+        "hindi": [
+          "through",
+          "by",
+          "with",
+          "in"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The festival occurs _____ spring.",
+        "hindi": "Choose the correct preposition: The festival occurs _____ spring."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "on",
+          "during"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "on",
+          "during"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The dragon soared _____ the kingdom.",
+        "hindi": "Fill in the blank: The dragon soared _____ the kingdom."
+      },
+      "option": {
+        "english": [
+          "between",
+          "beside",
+          "within",
+          "above"
+        ],
+        "hindi": [
+          "between",
+          "beside",
+          "within",
+          "above"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The prophecy was written _____ ancient times.",
+        "hindi": "Select the right preposition: The prophecy was written _____ ancient times."
+      },
+      "option": {
+        "english": [
+          "during",
+          "while",
+          "in",
+          "at"
+        ],
+        "hindi": [
+          "during",
+          "while",
+          "in",
+          "at"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The wisdom passed _____ generations.",
+        "hindi": "Choose the correct preposition: The wisdom passed _____ generations."
+      },
+      "option": {
+        "english": [
+          "through",
+          "across",
+          "over",
+          "between"
+        ],
+        "hindi": [
+          "through",
+          "across",
+          "over",
+          "between"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

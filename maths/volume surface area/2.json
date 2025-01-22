@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the volume of a cuboid with length 8 cm, breadth 6 cm and height 4 cm.",
+            "hindi": "8 सेमी लंबाई, 6 सेमी चौड़ाई और 4 सेमी ऊंचाई वाले घनाभ का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "156 cm³",
+                "168 cm³",
+                "180 cm³",
+                "192 cm³"
+            ],
+            "hindi": [
+                "156 सेमी³",
+                "168 सेमी³",
+                "180 सेमी³",
+                "192 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the total surface area of a cube with edge 9 cm.",
+            "hindi": "9 सेमी भुजा वाले घन का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "468 cm²",
+                "486 cm²",
+                "496 cm²",
+                "506 cm²"
+            ],
+            "hindi": [
+                "468 सेमी²",
+                "486 सेमी²",
+                "496 सेमी²",
+                "506 सेमी²"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylinder has radius 7 cm and height 14 cm. Find its curved surface area.",
+            "hindi": "एक बेलन की त्रिज्या 7 सेमी और ऊंचाई 14 सेमी है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "616 cm²",
+                "626 cm²",
+                "636 cm²",
+                "646 cm²"
+            ],
+            "hindi": [
+                "616 सेमी²",
+                "626 सेमी²",
+                "636 सेमी²",
+                "646 सेमी²"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the volume of a hemisphere with radius 7 cm.",
+            "hindi": "7 सेमी त्रिज्या वाले अर्धगोले का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "700 cm³",
+                "702 cm³",
+                "718 cm³",
+                "724 cm³"
+            ],
+            "hindi": [
+                "700 सेमी³",
+                "702 सेमी³",
+                "718 सेमी³",
+                "724 सेमी³"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cone has radius 5 cm and height 12 cm. Find its volume.",
+            "hindi": "एक शंकु की त्रिज्या 5 सेमी और ऊंचाई 12 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "300 cm³",
+                "310 cm³",
+                "314 cm³",
+                "314.16 cm³"
+            ],
+            "hindi": [
+                "300 सेमी³",
+                "310 सेमी³",
+                "314 सेमी³",
+                "314.16 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If radius of a sphere is tripled, how many times will its surface area increase?",
+            "hindi": "यदि एक गोले की त्रिज्या तिगुनी कर दी जाए, तो इसका पृष्ठीय क्षेत्रफल कितना गुना बढ़ जाएगा?"
+        },
+        "option": {
+            "english": [
+                "9 times",
+                "6 times",
+                "3 times",
+                "12 times"
+            ],
+            "hindi": [
+                "9 गुना",
+                "6 गुना",
+                "3 गुना",
+                "12 गुना"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A cylinder and a cone have same base radius and same height. Find the ratio of their volumes.",
+            "hindi": "एक बेलन और शंकु की आधार त्रिज्या और ऊंचाई समान है। उनके आयतनों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "2:1",
+                "3:1",
+                "1:3",
+                "1:2"
+            ],
+            "hindi": [
+                "2:1",
+                "3:1",
+                "1:3",
+                "1:2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metallic sphere of radius 4.2 cm is melted and recast into a hollow cylinder of radius 6 cm and height 8 cm. Find the inner radius of the cylinder.",
+            "hindi": "4.2 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर 6 सेमी त्रिज्या और 8 सेमी ऊंचाई का खोखला बेलन बनाया गया है। बेलन की आंतरिक त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "3 cm",
+                "4 cm",
+                "5 cm",
+                "6 cm"
+            ],
+            "hindi": [
+                "3 सेमी",
+                "4 सेमी",
+                "5 सेमी",
+                "6 सेमी"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid sphere of radius 6 cm is melted and recast into smaller identical spheres of radius 2 cm. Find the number of smaller spheres.",
+            "hindi": "6 सेमी त्रिज्या के एक ठोस गोले को पिघलाकर 2 सेमी त्रिज्या के समान छोटे गोले बनाए गए। छोटे गोलों की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "24",
+                "25",
+                "26",
+                "27"
+            ],
+            "hindi": [
+                "24",
+                "25",
+                "26",
+                "27"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A metal cube of side 12 cm is melted and recast into three cubes. If the sides of two cubes are 6 cm and 8 cm, find the side of the third cube.",
+            "hindi": "12 सेमी भुजा वाले एक धातु के घन को पिघलाकर तीन घन बनाए गए। यदि दो घनों की भुजाएं 6 सेमी और 8 सेमी हैं, तो तीसरे घन की भुजा ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "10 cm",
+                "9 cm",
+                "8 cm",
+                "7 cm"
+            ],
+            "hindi": [
+                "10 सेमी",
+                "9 सेमी",
+                "8 सेमी",
+                "7 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The equation of a line perpendicular to the x-axis is:",
+            "hindi": "x-अक्ष के लंबवत रेखा का समीकरण है:"
+        },
+        "option": {
+            "english": ["y = mx + c", "x = c", "y = c", "x = my + c"],
+            "hindi": ["y = mx + c", "x = c", "y = c", "x = my + c"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of these points does NOT lie on the line 2x - y = 5?",
+            "hindi": "इनमें से कौन सा बिंदु रेखा 2x - y = 5 पर स्थित नहीं है?"
+        },
+        "option": {
+            "english": ["(3, 1)", "(1, -3)", "(0, -5)", "(2, 1)"],
+            "hindi": ["(3, 1)", "(1, -3)", "(0, -5)", "(2, 1)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The line x = -3 is parallel to which axis?",
+            "hindi": "रेखा x = -3 किस अक्ष के समानांतर है?"
+        },
+        "option": {
+            "english": ["x-axis", "Neither x nor y-axis", "y-axis", "Both x and y-axis"],
+            "hindi": ["x-अक्ष", "न तो x और न ही y-अक्ष", "y-अक्ष", "x और y-अक्ष दोनों"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 3x - y = 5 and 6x - 2y = k are coincident, what is the value of k?",
+            "hindi": "यदि रेखाएँ 3x - y = 5 और 6x - 2y = k संपाती हैं, तो k का मान क्या है?"
+        },
+        "option": {
+            "english": ["10", "5", "-5", "-10"],
+            "hindi": ["10", "5", "-5", "-10"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for y: 4x + y = 9 and x - 2y = -6",
+            "hindi": "y के लिए हल करें: 4x + y = 9 और x - 2y = -6"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 2 pens and 3 pencils is ₹25. The cost of 3 pens and 1 pencil is ₹20. What is the cost of one pen?",
+            "hindi": "2 पेन और 3 पेंसिल का मूल्य ₹25 है। 3 पेन और 1 पेंसिल का मूल्य ₹20 है। एक पेन का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹5", "₹8", "₹5", "₹6"],
+            "hindi": ["₹5", "₹8", "₹5", "₹6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k does the system of equations kx + 2y = 5 and 3x + y = 1 have a unique solution?",
+            "hindi": "k के किस मान के लिए समीकरणों की प्रणाली kx + 2y = 5 और 3x + y = 1 का एक अद्वितीय हल है?"
+        },
+        "option": {
+            "english": ["k = 6", "k = 3", "k ≠ 3", "k ≠ 6"],
+            "hindi": ["k = 6", "k = 3", "k ≠ 3", "k ≠ 6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The pair of equations x + 2y + 5 = 0 and -3x - 6y + 1 = 0 have:",
+            "hindi": "समीकरणों की जोड़ी x + 2y + 5 = 0 और -3x - 6y + 1 = 0:"
+        },
+        "option": {
+            "english": ["No solution", "Infinitely many solutions", "A unique solution", "Exactly two solutions"],
+            "hindi": ["कोई हल नहीं", "अनंत हल", "एक अद्वितीय हल", "ठीक दो हल"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The present age of a woman is 3 years more than three times the age of her daughter. Three years hence, the woman's age will be 10 years more than twice the age of her daughter. Find the woman's present age.",
+            "hindi": "एक महिला की वर्तमान आयु उसकी बेटी की आयु के तीन गुने से 3 वर्ष अधिक है। तीन वर्ष बाद, महिला की आयु उसकी बेटी की आयु के दोगुने से 10 वर्ष अधिक होगी। महिला की वर्तमान आयु ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["27 years", "33 years", "30 years", "36 years"],
+            "hindi": ["27 वर्ष", "33 वर्ष", "30 वर्ष", "36 वर्ष"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In a two-digit number, the units digit is twice the tens digit. If 27 is added to the number, the digits interchange their places. Find the number.",
+            "hindi": "दो अंकों की एक संख्या में इकाई का अंक दहाई के अंक का दोगुना है। यदि संख्या में 27 जोड़ दिया जाए, तो अंक अपने स्थान बदल लेते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["42", "63", "36", "24"],
+            "hindi": ["42", "63", "36", "24"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

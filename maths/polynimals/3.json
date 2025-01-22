@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "The remainder when p(x) = x³ - 4x² + 5x - 2 is divided by x - 1 is:",
+            "hindi": "जब p(x) = x³ - 4x² + 5x - 2 को x - 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "-1"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "-1"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 3x - 10, then α² + β² equals:",
+            "hindi": "यदि α और β बहुपद x² - 3x - 10 के शून्यक हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "19",
+                "9",
+                "29",
+                "39"
+            ],
+            "hindi": [
+                "19",
+                "9",
+                "29",
+                "39"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + 2x + k be a perfect square?",
+            "hindi": "k के किस मान के लिए x² + 2x + k एक पूर्ण वर्ग होगा?"
+        },
+        "option": {
+            "english": [
+                "0",
+                "2",
+                "1",
+                "4"
+            ],
+            "hindi": [
+                "0",
+                "2",
+                "1",
+                "4"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x + 2 is a factor of x³ + ax² + bx + 12, then:",
+            "hindi": "यदि x + 2, x³ + ax² + bx + 12 का एक गुणनखंड है, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = -10",
+                "a - b = 10",
+                "a + b = 10",
+                "a - b = -10"
+            ],
+            "hindi": [
+                "a + b = -10",
+                "a - b = 10",
+                "a + b = 10",
+                "a - b = -10"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² - 4x + k = 0 has real and equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² - 4x + k = 0 के वास्तविक और बराबर मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ],
+            "hindi": [
+                "2",
+                "4",
+                "8",
+                "16"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then α³ + β³ equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "125",
+                "75",
+                "100",
+                "85"
+            ],
+            "hindi": [
+                "125",
+                "75",
+                "100",
+                "85"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of x² + mx + 6 is twice the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 का एक शून्यक दूसरे का दोगुना है, तो m बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±3",
+                "±4",
+                "±5",
+                "±6"
+            ],
+            "hindi": [
+                "±3",
+                "±4",
+                "±5",
+                "±6"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of squares of zeros of x² - 7x + 12 is:",
+            "hindi": "x² - 7x + 12 के शून्यकों के वर्गों का योग है:"
+        },
+        "option": {
+            "english": [
+                "49",
+                "25",
+                "37",
+                "61"
+            ],
+            "hindi": [
+                "49",
+                "25",
+                "37",
+                "61"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - px + q, then (1/α + 1/β)² - (1/α² + 1/β²) equals:",
+            "hindi": "यदि α और β बहुपद x² - px + q के शून्यक हैं, तो (1/α + 1/β)² - (1/α² + 1/β²) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "-2"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "-2"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 6x³ + ax² + bx + c is divided by x² + 1, the remainder is x + 1. Then:",
+            "hindi": "यदि p(x) = x⁴ - 6x³ + ax² + bx + c को x² + 1 से विभाजित करने पर शेषफल x + 1 है, तो:"
+        },
+        "option": {
+            "english": [
+                "a = 11, b = -6",
+                "a = 13, b = -8",
+                "a = 11, b = -8",
+                "a = 13, b = -6"
+            ],
+            "hindi": [
+                "a = 11, b = -6",
+                "a = 13, b = -8",
+                "a = 11, b = -8",
+                "a = 13, b = -6"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    }
+]

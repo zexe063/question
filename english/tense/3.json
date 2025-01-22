@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct form: 'She _____ an hour for the bus.'",
+        "hindi": "Choose the correct form: 'She _____ an hour for the bus.'"
+      },
+      "option": {
+        "english": [
+          "has waited",
+          "has been waiting",
+          "waited",
+          "waits"
+        ],
+        "hindi": [
+          "has waited",
+          "has been waiting",
+          "waited",
+          "waits"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct form: 'The sun _____ in the east.'",
+        "hindi": "Select the correct form: 'The sun _____ in the east.'"
+      },
+      "option": {
+        "english": [
+          "rises",
+          "rise",
+          "rising",
+          "risen"
+        ],
+        "hindi": [
+          "rises",
+          "rise",
+          "rising",
+          "risen"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: 'They _____ the match yesterday.'",
+        "hindi": "Fill in the blank: 'They _____ the match yesterday.'"
+      },
+      "option": {
+        "english": [
+          "are winning",
+          "have won",
+          "won",
+          "wins"
+        ],
+        "hindi": [
+          "are winning",
+          "have won",
+          "won",
+          "wins"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct form: 'I _____ this book since morning.'",
+        "hindi": "Choose the correct form: 'I _____ this book since morning.'"
+      },
+      "option": {
+        "english": [
+          "read",
+          "am reading",
+          "have read",
+          "have been reading"
+        ],
+        "hindi": [
+          "read",
+          "am reading",
+          "have read",
+          "have been reading"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct form: 'He _____ to music right now.'",
+        "hindi": "Select the correct form: 'He _____ to music right now.'"
+      },
+      "option": {
+        "english": [
+          "listens",
+          "is listening",
+          "listened",
+          "has listened"
+        ],
+        "hindi": [
+          "listens",
+          "is listening",
+          "listened",
+          "has listened"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: 'The train _____ the station at 3 PM tomorrow.'",
+        "hindi": "Fill in the blank: 'The train _____ the station at 3 PM tomorrow.'"
+      },
+      "option": {
+        "english": [
+          "leaves",
+          "left",
+          "will leave",
+          "has left"
+        ],
+        "hindi": [
+          "leaves",
+          "left",
+          "will leave",
+          "has left"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct form: 'We _____ dinner when she called.'",
+        "hindi": "Choose the correct form: 'We _____ dinner when she called.'"
+      },
+      "option": {
+        "english": [
+          "were having",
+          "had",
+          "have had",
+          "are having"
+        ],
+        "hindi": [
+          "were having",
+          "had",
+          "have had",
+          "are having"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct form: 'By next year, I _____ in this company for 10 years.'",
+        "hindi": "Select the correct form: 'By next year, I _____ in this company for 10 years.'"
+      },
+      "option": {
+        "english": [
+          "will work",
+          "am working",
+          "work",
+          "will have been working"
+        ],
+        "hindi": [
+          "will work",
+          "am working",
+          "work",
+          "will have been working"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: 'After she _____ her degree, she moved to Paris.'",
+        "hindi": "Fill in the blank: 'After she _____ her degree, she moved to Paris.'"
+      },
+      "option": {
+        "english": [
+          "gets",
+          "had obtained",
+          "obtains",
+          "has obtained"
+        ],
+        "hindi": [
+          "gets",
+          "had obtained",
+          "obtains",
+          "has obtained"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct form: 'If I _____ earlier, I would have caught the train.'",
+        "hindi": "Choose the correct form: 'If I _____ earlier, I would have caught the train.'"
+      },
+      "option": {
+        "english": [
+          "leave",
+          "left",
+          "had left",
+          "have left"
+        ],
+        "hindi": [
+          "leave",
+          "left",
+          "had left",
+          "have left"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

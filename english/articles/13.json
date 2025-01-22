@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct article: She plays _____ oboe in the orchestra.",
+        "hindi": "Choose the correct article: She plays _____ oboe in the orchestra."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: We need _____ RSVP from each guest.",
+        "hindi": "Select the correct article: We need _____ RSVP from each guest."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ Andes Mountains span several countries.",
+        "hindi": "Fill in the blank: _____ Andes Mountains span several countries."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ lunch menu changes daily.",
+        "hindi": "Choose the correct article: _____ lunch menu changes daily."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: He is _____ unusual person.",
+        "hindi": "Select the correct article: He is _____ unusual person."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ Dead Sea is below sea level.",
+        "hindi": "Fill in the blank: _____ Dead Sea is below sea level."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: I need _____ SSL certificate.",
+        "hindi": "Choose the correct article: I need _____ SSL certificate."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ history of Rome is fascinating.",
+        "hindi": "Select the correct article: _____ history of Rome is fascinating."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She is _____ eleven-time champion.",
+        "hindi": "Fill in the blank: She is _____ eleven-time champion."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ Suez Canal connects two seas.",
+        "hindi": "Choose the correct article: _____ Suez Canal connects two seas."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "If HCF(a,b) = 1 and LCM(a,b) = ab, then a and b are:",
+        "hindi": "यदि HCF(a,b) = 1 और LCM(a,b) = ab है, तो a और b हैं:"
+      },
+      "option": {
+        "english": [
+          "Even numbers",
+          "Co-prime numbers",
+          "Prime numbers",
+          "Odd numbers"
+        ],
+        "hindi": [
+          "सम संख्याएं",
+          "सह-अभाज्य संख्याएं",
+          "अभाज्य संख्याएं",
+          "विषम संख्याएं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The decimal expansion of 1/7 is:",
+        "hindi": "1/7 का दशमलव प्रसार है:"
+      },
+      "option": {
+        "english": [
+          "Terminating",
+          "Non-terminating",
+          "Non-recurring",
+          "Non-terminating recurring"
+        ],
+        "hindi": [
+          "सांत",
+          "असांत",
+          "अनावर्ती",
+          "असांत आवर्ती"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The number of prime numbers between 40 and 50 is:",
+        "hindi": "40 और 50 के बीच अभाज्य संख्याओं की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "2",
+          "4",
+          "3",
+          "5"
+        ],
+        "hindi": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If p is prime, then which is always true?",
+        "hindi": "यदि p अभाज्य है, तो कौन सा कथन हमेशा सत्य है?"
+      },
+      "option": {
+        "english": [
+          "p+1 is prime",
+          "p-1 is prime",
+          "p+2 is prime",
+          "p has exactly two factors"
+        ],
+        "hindi": [
+          "p+1 अभाज्य है",
+          "p-1 अभाज्य है",
+          "p+2 अभाज्य है",
+          "p के ठीक दो गुणनखंड हैं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "√5 + √7 - √3 is:",
+        "hindi": "√5 + √7 - √3 है:"
+      },
+      "option": {
+        "english": [
+          "Rational",
+          "Irrational",
+          "Integer",
+          "Natural number"
+        ],
+        "hindi": [
+          "परिमेय",
+          "अपरिमेय",
+          "पूर्णांक",
+          "प्राकृत संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If a = 2^3 × 3^2 × 5 and b = 2^2 × 3^3 × 5, then HCF(a,b) is:",
+        "hindi": "यदि a = 2^3 × 3^2 × 5 और b = 2^2 × 3^3 × 5 है, तो HCF(a,b) है:"
+      },
+      "option": {
+        "english": [
+          "2^2 × 3^2 × 5",
+          "2^3 × 3^2 × 5",
+          "2^2 × 3^3 × 5",
+          "2^3 × 3^3 × 5"
+        ],
+        "hindi": [
+          "2^2 × 3^2 × 5",
+          "2^3 × 3^2 × 5",
+          "2^2 × 3^3 × 5",
+          "2^3 × 3^3 × 5"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The value of k for which k/1800 has terminating decimal expansion is:",
+        "hindi": "k का वह मान जिसके लिए k/1800 का दशमलव प्रसार सांत होगा:"
+      },
+      "option": {
+        "english": [
+          "77",
+          "175",
+          "375",
+          "425"
+        ],
+        "hindi": [
+          "77",
+          "175",
+          "375",
+          "425"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "For any three positive integers a, b and c, LCM[LCM(a,b),c] equals:",
+        "hindi": "किन्हीं तीन धनात्मक पूर्णांकों a, b और c के लिए, LCM[LCM(a,b),c] बराबर है:"
+      },
+      "option": {
+        "english": [
+          "LCM(a,b,c)",
+          "HCF(a,b,c)",
+          "LCM(a,LCM(b,c))",
+          "None of these"
+        ],
+        "hindi": [
+          "LCM(a,b,c)",
+          "HCF(a,b,c)",
+          "LCM(a,LCM(b,c))",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If p and q are prime numbers, then LCM(p^n, q^m) equals:",
+        "hindi": "यदि p और q अभाज्य संख्याएं हैं, तो LCM(p^n, q^m) बराबर है:"
+      },
+      "option": {
+        "english": [
+          "p^n × q^m",
+          "p^max(n,m) × q^max(n,m)",
+          "p^min(n,m) × q^min(n,m)",
+          "(pq)^max(n,m)"
+        ],
+        "hindi": [
+          "p^n × q^m",
+          "p^max(n,m) × q^max(n,m)",
+          "p^min(n,m) × q^min(n,m)",
+          "(pq)^max(n,m)"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(a,b) = p and LCM(a,b) = q, then HCF(a/p, b/p) is:",
+        "hindi": "यदि HCF(a,b) = p और LCM(a,b) = q है, तो HCF(a/p, b/p) है:"
+      },
+      "option": {
+        "english": [
+          "p",
+          "q",
+          "1",
+          "0"
+        ],
+        "hindi": [
+          "p",
+          "q",
+          "1",
+          "0"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

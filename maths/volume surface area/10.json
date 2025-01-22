@@ -1,0 +1,136 @@
+[
+   
+    {
+        "question_name": {
+            "english": "A hollow cone has inner radius 5 cm, outer radius 8 cm and outer height 15 cm. Find its total surface area.",
+            "hindi": "एक खोखले शंकु की आंतरिक त्रिज्या 5 सेमी, बाहरी त्रिज्या 8 सेमी और बाहरी ऊंचाई 15 सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["754 cm²", "854 cm²", "954 cm²", "1054 cm²"],
+            "hindi": ["754 सेमी²", "854 सेमी²", "954 सेमी²", "1054 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid is made by joining two identical hemispheres at their flat faces. Find the ratio of its curved surface area to its total surface area.",
+            "hindi": "दो समान अर्धगोलों को उनके समतल फलकों पर जोड़कर एक ठोस बनाया गया है। इसके वक्र पृष्ठीय क्षेत्रफल का कुल पृष्ठीय क्षेत्रफल से अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1:2", "1:1", "2:1", "3:2"],
+            "hindi": ["1:2", "1:1", "2:1", "3:2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid metal cone of height 24 cm and base radius 8 cm is melted and recast into a sphere. Find the radius of the sphere.",
+            "hindi": "24 सेमी ऊंचाई और 8 सेमी आधार त्रिज्या वाले एक ठोस धातु के शंकु को पिघलाकर एक गोला बनाया जाता है। गोले की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+
+    {
+        "question_name": {
+            "english": "A cylindrical tank of radius 6 m and height 12 m has a hemispherical bottom. If it is filled with water to half its cylindrical height, what fraction of the total capacity is filled?",
+            "hindi": "6 मीटर त्रिज्या और 12 मीटर ऊंचाई वाली एक बेलनाकार टंकी का तल अर्धगोलाकार है। यदि इसे बेलनाकार भाग की आधी ऊंचाई तक पानी से भरा जाए, तो कुल क्षमता का कौन सा भाग भरा है?"
+        },
+        "option": {
+            "english": ["2/5", "3/5", "4/5", "5/6"],
+            "hindi": ["2/5", "3/5", "4/5", "5/6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cylinder of height 20 cm has outer and inner radii as 10 cm and 8 cm respectively. It is melted and recast into a solid cone of height 12 cm. Find its radius.",
+            "hindi": "20 सेमी ऊंचाई वाले एक खोखले बेलन की बाहरी और आंतरिक त्रिज्याएँ क्रमशः 10 सेमी और 8 सेमी हैं। इसे पिघलाकर 12 सेमी ऊंचाई का एक ठोस शंकु बनाया जाता है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8 cm", "10 cm", "12 cm", "14 cm"],
+            "hindi": ["8 सेमी", "10 सेमी", "12 सेमी", "14 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid frustum has parallel faces of radii 8 cm and 20 cm. If its height is 12 cm, what is the volume of the largest sphere that can be inscribed in it?",
+            "hindi": "एक ठोस छिन्नक के समांतर फलकों की त्रिज्याएँ 8 सेमी और 20 सेमी हैं। यदि इसकी ऊंचाई 12 सेमी है, तो इसमें अंतर्लिखित की जा सकने वाली सबसे बड़ी गोले का आयतन क्या होगा?"
+        },
+        "option": {
+            "english": ["904 cm³", "1004 cm³", "1104 cm³", "1204 cm³"],
+            "hindi": ["904 सेमी³", "1004 सेमी³", "1104 सेमी³", "1204 सेमी³"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three identical spheres of radius 6 cm are placed touching each other on a horizontal surface. Find the height of their centroid from the surface.",
+            "hindi": "6 सेमी त्रिज्या के तीन समान गोलों को एक क्षैतिज सतह पर एक-दूसरे को स्पर्श करते हुए रखा गया है। सतह से उनके केंद्रक की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6 cm", "8 cm", "10 cm", "12 cm"],
+            "hindi": ["6 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+   
+
+    {
+        "question_name": {
+            "english": "A container made up of a cylinder with two hemispheres attached at its ends is filled with water. If cylinder's radius is 7 cm and height is 12 cm, how many identical spherical balls of radius 3.5 cm can be completely immersed in it?",
+            "hindi": "एक बेलन के दोनों सिरों पर दो अर्धगोले जुड़े हुए पात्र में पानी भरा है। यदि बेलन की त्रिज्या 7 सेमी और ऊंचाई 12 सेमी है, तो 3.5 सेमी त्रिज्या की कितनी समान गोलाकार गेंदें इसमें पूरी तरह डूब सकती हैं?"
+        },
+        "option": {
+            "english": ["6", "7", "8", "9"],
+            "hindi": ["6", "7", "8", "9"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid metal sphere of radius 10 cm is melted and drawn into a wire of uniform thickness. If the length of the wire is 1.1 km, find the radius of the wire.",
+            "hindi": "10 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर एकसमान मोटाई की तार खींची जाती है। यदि तार की लंबाई 1.1 किमी है, तो तार की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["0.5 cm", "1 cm", "1.5 cm", "2 cm"],
+            "hindi": ["0.5 सेमी", "1 सेमी", "1.5 सेमी", "2 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two tanks are connected by a pipe. First tank is a cylinder of radius 8 m and height 15 m, second is a cone of radius 6 m and height 12 m. If first tank is full and water flows to second tank at 3 m³/min, in how many minutes will second tank be full?",
+            "hindi": "दो टंकियाँ एक पाइप से जुड़ी हैं। पहली टंकी 8 मीटर त्रिज्या और 15 मीटर ऊंचाई का बेलन है, दूसरी 6 मीटर त्रिज्या और 12 मीटर ऊंचाई का शंकु है। यदि पहली टंकी भरी है और पानी दूसरी टंकी में 3 मी³/मिनट की दर से बहता है, तो दूसरी टंकी कितने मिनट में भरेगी?"
+        },
+        "option": {
+            "english": ["120 min", "130 min", "140 min", "150 min"],
+            "hindi": ["120 मिनट", "130 मिनट", "140 मिनट", "150 मिनट"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of sin 60° · tan 30° is:",
+            "hindi": "sin 60° · tan 30° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "1/2",
+                "√3/2",
+                "√3/3"
+            ],
+            "hindi": [
+                "1",
+                "1/2",
+                "√3/2",
+                "√3/3"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of (sin 90° + cos 0°) is:",
+            "hindi": "(sin 90° + cos 0°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "2",
+                "1",
+                "√2"
+            ],
+            "hindi": [
+                "0",
+                "2",
+                "1",
+                "√2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cosec θ = 2, then sin θ equals:",
+            "hindi": "यदि cosec θ = 2 है, तो sin θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "1",
+                "1/2",
+                "√3/2"
+            ],
+            "hindi": [
+                "2",
+                "1",
+                "1/2",
+                "√3/2"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = 35/37, then cos A equals:",
+            "hindi": "यदि sin A = 35/37 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "12/37",
+                "37/12",
+                "35/12",
+                "12/35"
+            ],
+            "hindi": [
+                "12/37",
+                "37/12",
+                "35/12",
+                "12/35"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of (1 + cot²45°) is:",
+            "hindi": "(1 + cot²45°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If tan A = 15/8, then sin A equals:",
+            "hindi": "यदि tan A = 15/8 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8/17",
+                "15/17",
+                "17/15",
+                "15/8"
+            ],
+            "hindi": [
+                "8/17",
+                "15/17",
+                "17/15",
+                "15/8"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cos θ = 7/25, then tan θ equals:",
+            "hindi": "यदि cos θ = 7/25 है, तो tan θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "24/7",
+                "7/24",
+                "25/24",
+                "24/25"
+            ],
+            "hindi": [
+                "24/7",
+                "7/24",
+                "25/24",
+                "24/25"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = cos B and cos A = sin B, then the value of A - B is:",
+            "hindi": "यदि sin A = cos B और cos A = sin B है, तो A - B का मान है:"
+        },
+        "option": {
+            "english": [
+                "0°",
+                "30°",
+                "45°",
+                "90°"
+            ],
+            "hindi": [
+                "0°",
+                "30°",
+                "45°",
+                "90°"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + cos θ = 2 and sin θ · cos θ = 1/3, then sin²θ equals:",
+            "hindi": "यदि sin θ + cos θ = 2 और sin θ · cos θ = 1/3 है, तो sin²θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/3",
+                "2/3",
+                "4/3",
+                "5/3"
+            ],
+            "hindi": [
+                "1/3",
+                "2/3",
+                "4/3",
+                "5/3"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If tan²A = 3 and sin A > 0, cos A > 0, then sin 2A equals:",
+            "hindi": "यदि tan²A = 3 और sin A > 0, cos A > 0 है, तो sin 2A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "√3/2",
+                "1/2",
+                "3/2",
+                "2/3"
+            ],
+            "hindi": [
+                "√3/2",
+                "1/2",
+                "3/2",
+                "2/3"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

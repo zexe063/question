@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The equation of a line perpendicular to the y-axis is:",
+            "hindi": "y-अक्ष के लंबवत रेखा का समीकरण है:"
+        },
+        "option": {
+            "english": ["y = mx + c", "x = c", "y = c", "x = my + c"],
+            "hindi": ["y = mx + c", "x = c", "y = c", "x = my + c"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which point does NOT lie on the line 4x - 2y = 8?",
+            "hindi": "कौन सा बिंदु रेखा 4x - 2y = 8 पर स्थित नहीं है?"
+        },
+        "option": {
+            "english": ["(2, 0)", "(0, -4)", "(3, 2)", "(1, -2)"],
+            "hindi": ["(2, 0)", "(0, -4)", "(3, 2)", "(1, -2)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the x-intercept of the line 5x + 2y = 10?",
+            "hindi": "रेखा 5x + 2y = 10 का x-अवरोधन क्या है?"
+        },
+        "option": {
+            "english": ["5", "10", "2", "-5"],
+            "hindi": ["5", "10", "2", "-5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 2x + y = 5 and 4x + ky = 10 coincide, what is the value of k?",
+            "hindi": "यदि रेखाएँ 2x + y = 5 और 4x + ky = 10 संपाती हैं, तो k का मान क्या है?"
+        },
+        "option": {
+            "english": ["2", "4", "1", "3"],
+            "hindi": ["2", "4", "1", "3"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x: (2x/3) + (y/2) = 2 and x - (y/4) = 4",
+            "hindi": "x के लिए हल करें: (2x/3) + (y/2) = 2 और x - (y/4) = 4"
+        },
+        "option": {
+            "english": ["x=2", "x=3", "x=4", "x=5"],
+            "hindi": ["x=2", "x=3", "x=4", "x=5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 2 books and 5 pens is ₹220. The cost of 3 books and 2 pens is ₹170. What is the cost of one book?",
+            "hindi": "2 पुस्तकों और 5 कलमों का मूल्य ₹220 है। 3 पुस्तकों और 2 कलमों का मूल्य ₹170 है। एक पुस्तक का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹40", "₹50", "₹30", "₹60"],
+            "hindi": ["₹40", "₹50", "₹30", "₹60"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k, the pair of linear equations kx - 4y = 3, 6x - 12y = 9 has no solution?",
+            "hindi": "k के किस मान के लिए, रैखिक समीकरणों kx - 4y = 3, 6x - 12y = 9 का कोई हल नहीं है?"
+        },
+        "option": {
+            "english": ["k = 3", "k ≠ 2", "k = 4", "k = 2"],
+            "hindi": ["k = 3", "k ≠ 2", "k = 4", "k = 2"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The graphs of the equations 6x - 2y + 9 = 0 and 3x - y + 12 = 0 are two lines which are:",
+            "hindi": "समीकरण 6x - 2y + 9 = 0 और 3x - y + 12 = 0 के आरेख दो रेखाएँ हैं जो हैं:"
+        },
+        "option": {
+            "english": ["Coincident", "Parallel", "Intersecting exactly at one point", "Perpendicular to each other"],
+            "hindi": ["संपाती", "समानांतर", "एक बिंदु पर प्रतिच्छेद करती हुई", "एक दूसरे के लंबवत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A father's age is three times the sum of the ages of his two children. After 5 years, his age will be twice the sum of their ages. Find the present age of the father.",
+            "hindi": "एक पिता की आयु उसके दो बच्चों की आयु के योग की तीन गुनी है। 5 वर्ष बाद, उसकी आयु उनके आयु के योग की दोगुनी होगी। पिता की वर्तमान आयु ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["40 years", "45 years", "50 years", "35 years"],
+            "hindi": ["40 वर्ष", "45 वर्ष", "50 वर्ष", "35 वर्ष"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A number consists of two digits whose sum is 9. If 9 is subtracted from the number, the digits interchange their places. Find the number.",
+            "hindi": "एक संख्या में दो अंक होते हैं जिनका योग 9 होता है। यदि संख्या में से 9 घटा दिया जाए, तो अंक अपने स्थान बदल लेते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["54", "45", "63", "36"],
+            "hindi": ["54", "45", "63", "36"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

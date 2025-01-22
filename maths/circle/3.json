@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "How many tangents can be drawn to a circle passing through a point lying on the circle?",
+            "hindi": "वृत्त पर स्थित एक बिंदु से गुजरने वाली वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?"
+        },
+        "option": {
+            "english": ["1", "2", "3", "Infinite"],
+            "hindi": ["1", "2", "3", "अनंत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A line that intersects a circle at two distinct points is called a:",
+            "hindi": "एक रेखा जो एक वृत्त को दो अलग-अलग बिंदुओं पर प्रतिच्छेद करती है, कहलाती है:"
+        },
+        "option": {
+            "english": ["Tangent", "Radius", "Secant", "Diameter"],
+            "hindi": ["स्पर्शरेखा", "त्रिज्या", "छेदक", "व्यास"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the name of the longest chord of a circle?",
+            "hindi": "एक वृत्त की सबसे लंबी जीवा का क्या नाम है?"
+        },
+        "option": {
+            "english": ["Tangent", "Secant", "Radius", "Diameter"],
+            "hindi": ["स्पर्शरेखा", "छेदक", "त्रिज्या", "व्यास"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, O is the center of the circle. If ∠OAC = 50°, then ∠OCB is equal to:",
+            "hindi": "दिए गए चित्र में, O वृत्त का केंद्र है। यदि ∠OAC = 50°, तो ∠OCB बराबर है:"
+        },
+        "option": {
+            "english": ["30°", "40°", "50°", "60°"],
+            "hindi": ["30°", "40°", "50°", "60°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='175' y1='25' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='140' y='50'>50°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 80°, then ∠AOB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 80° है, तो ∠AOB बराबर है:"
+        },
+        "option": {
+            "english": ["100°", "90°", "80°", "70°"],
+            "hindi": ["100°", "90°", "80°", "70°"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>80°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, PQ is a chord of a circle with center O and PT is a tangent. If ∠QPT = 60°, find the measure of ∠POQ.",
+            "hindi": "दिए गए चित्र में, PQ केंद्र O वाले एक वृत्त की जीवा है और PT एक स्पर्श रेखा है। यदि ∠QPT = 60°, तो ∠POQ का माप ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["100°", "110°", "115°", "120°"],
+            "hindi": ["100°", "110°", "115°", "120°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='75' stroke='black'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><line x1='225' y1='75' x2='260' y2='40' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>P</text><text x='230' y='70'>Q</text><text x='265' y='35'>T</text><text x='235' y='60'>60°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If two tangents inclined at an angle of 60° are drawn to a circle of radius 3 cm, then the length of each tangent is equal to:",
+            "hindi": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर 60° के कोण पर झुकी हुई दो स्पर्श रेखाएँ खींची जाती हैं, तो प्रत्येक स्पर्शरेखा की लंबाई बराबर है:"
+        },
+        "option": {
+            "english": ["3 cm", "6 cm", "3√3 cm", "3√2 cm"],
+            "hindi": ["3 सेमी", "6 सेमी", "3√3 सेमी", "3√2 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "From a point P, which is at a distance of 13 cm from the center O of a circle of radius 5 cm, the pair of tangents PQ and PR to the circle are drawn. Then the area of the quadrilateral PQOR is:",
+            "hindi": "एक बिंदु P से, जो 5 सेमी त्रिज्या वाले एक वृत्त के केंद्र O से 13 सेमी की दूरी पर है, वृत्त पर स्पर्शरेखाओं का युग्म PQ और PR खींचा जाता है। तो चतुर्भुज PQOR का क्षेत्रफल है:"
+        },
+        "option": {
+            "english": ["55 cm²", "60 cm²", "65 cm²", "70 cm²"],
+            "hindi": ["55 वर्ग सेमी", "60 वर्ग सेमी", "65 वर्ग सेमी", "70 वर्ग सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A tangent PQ at a point P of a circle of radius 5 cm meets a line through the center O at a point Q so that OQ = 12 cm. Length PQ is:",
+            "hindi": "5 सेमी त्रिज्या वाले एक वृत्त के एक बिंदु P पर एक स्पर्शरेखा PQ, केंद्र O से गुजरने वाली एक रेखा से एक बिंदु Q पर इस प्रकार मिलती है कि OQ = 12 सेमी। लंबाई PQ है:"
+        },
+        "option": {
+            "english": ["√119 cm", "13 cm", "8.5 cm", "10 cm"],
+            "hindi": ["√119 सेमी", "13 सेमी", "8.5 सेमी", "10 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if tangents PA and PB are drawn to a circle such that ∠APB = 30° and chord AC is drawn parallel to the tangent PB, then ∠ABC is equal to:",
+            "hindi": "दिए गए चित्र में, यदि स्पर्शरेखाएँ PA और PB एक वृत्त पर इस प्रकार खींची जाती हैं कि ∠APB = 30° और जीवा AC को स्पर्शरेखा PB के समानांतर खींचा जाता है, तो ∠ABC बराबर है:"
+        },
+        "option": {
+            "english": ["45°", "60°", "75°", "90°"],
+            "hindi": ["45°", "60°", "75°", "90°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><line x1='245' y1='125' x2='75' y2='100' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='65' y='95'>B</text><text x='100' y='80'>30°</text><text x='210' y='75'>C</text></svg>",
+        "medium": "hard"
+    }
+]

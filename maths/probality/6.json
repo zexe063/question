@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the probability of getting a sum of 8 when two dice are thrown simultaneously?",
+            "hindi": "दो पासे एक साथ फेंकने पर योग 8 आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["5/36", "1/6", "1/9", "1/12"],
+            "hindi": ["5/36", "1/6", "1/9", "1/12"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a non-face card?",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से एक पत्ता निकाला जाता है। गैर-चित्र पत्ता प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["10/13", "11/13", "9/13", "3/13"],
+            "hindi": ["10/13", "11/13", "9/13", "3/13"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the probability of winning a game is 0.6, what is the probability of losing it?",
+            "hindi": "यदि एक खेल जीतने की प्रायिकता 0.6 है, तो उसे हारने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["0.6", "0.3", "0.4", "0.5"],
+            "hindi": ["0.6", "0.3", "0.4", "0.5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A bag contains 4 red balls, 5 blue balls, and 6 green balls. A ball is drawn at random. What is the probability that it is neither red nor green?",
+            "hindi": "एक बैग में 4 लाल गेंदें, 5 नीली गेंदें और 6 हरी गेंदें हैं। एक गेंद यादृच्छिक रूप से निकाली जाती है। इसकी क्या प्रायिकता है कि यह न तो लाल है और न ही हरी?"
+        },
+        "option": {
+            "english": ["1/5", "1/3", "1/4", "2/3"],
+            "hindi": ["1/5", "1/3", "1/4", "2/3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two dice are thrown together. What is the probability of getting the same number on both dice?",
+            "hindi": "दो पासे एक साथ फेंके जाते हैं। दोनों पासों पर समान संख्या आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/6", "1/3", "1/4", "1/12"],
+            "hindi": ["1/6", "1/3", "1/4", "1/12"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn at random from a deck of cards. What is the probability that the card drawn is a king or a queen?",
+            "hindi": "ताश के पत्तों की एक गड्डी से यादृच्छिक रूप से एक पत्ता निकाला जाता है। निकाले गए पत्ते के बादशाह या बेगम होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/13", "1/52", "2/13", "3/13"],
+            "hindi": ["1/13", "1/52", "2/13", "3/13"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A box contains 5 red marbles, 8 white marbles, and 4 green marbles. What is the probability that a marble taken out of the box at random will be not green?",
+            "hindi": "एक डिब्बे में 5 लाल कंचे, 8 सफेद कंचे और 4 हरे कंचे हैं। इसकी क्या प्रायिकता है कि डिब्बे से यादृच्छिक रूप से निकाला गया एक कंचा हरा नहीं होगा?"
+        },
+        "option": {
+            "english": ["4/17", "3/17", "10/17", "13/17"],
+            "hindi": ["4/17", "3/17", "10/17", "13/17"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two dice are numbered 1, 2, 3, 4, 5, 6 and 1, 1, 2, 2, 3, 3, respectively. They are thrown and the sum of the numbers on them is noted. What is the probability of getting a sum of 7?",
+            "hindi": "दो पासों पर क्रमशः 1, 2, 3, 4, 5, 6 और 1, 1, 2, 2, 3, 3 संख्याएँ अंकित हैं। उन्हें फेंका जाता है और उन पर संख्याओं का योग नोट किया जाता है। योग 7 प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/6", "1/9", "5/36", "1/12"],
+            "hindi": ["1/6", "1/9", "5/36", "1/12"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A number is selected at random from the numbers 3, 5, 5, 7, 7, 7, 9, 9, 9, 9. What is the probability that the selected number is their median?",
+            "hindi": "संख्याओं 3, 5, 5, 7, 7, 7, 9, 9, 9, 9 से यादृच्छिक रूप से एक संख्या का चयन किया जाता है। चयनित संख्या के उनका माध्यिका होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["3/10", "2/5", "7/10", "1/5"],
+            "hindi": ["3/10", "2/5", "7/10", "1/5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Cards marked with numbers 5 to 50 are placed in a box and mixed thoroughly. One card is drawn at random from the box. What is the probability that the number on the card is a prime number less than 10?",
+            "hindi": "5 से 50 तक संख्याओं से चिह्नित कार्ड एक डिब्बे में रखे जाते हैं और अच्छी तरह मिलाए जाते हैं। डिब्बे से यादृच्छिक रूप से एक कार्ड निकाला जाता है। कार्ड पर संख्या 10 से कम अभाज्य संख्या होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/23", "1/46", "3/46", "5/46"],
+            "hindi": ["1/23", "1/46", "3/46", "5/46"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

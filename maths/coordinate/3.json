@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the distance between the points (0, 5) and (-5, 0).",
+            "hindi": "बिंदुओं (0, 5) और (-5, 0) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5√2 units", "5 units", "10 units", "2√5 units"],
+            "hindi": ["5√2 इकाई", "5 इकाई", "10 इकाई", "2√5 इकाई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the midpoint of the line segment joining the points (1, -3) and (3, 1)?",
+            "hindi": "बिंदुओं (1, -3) और (3, 1) को जोड़ने वाले रेखाखंड का मध्यबिंदु क्या है?"
+        },
+        "option": {
+            "english": ["(1, 2)", " (2, -1)", "(2, 1)", "(-1, 2)"],
+            "hindi": ["(1, 2)", " (2, -1)", "(2, 1)", "(-1, 2)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The distance between the points (a cos θ + b sin θ, 0) and (0, a sin θ - b cos θ) is:",
+            "hindi": "बिंदुओं (a cos θ + b sin θ, 0) और (0, a sin θ - b cos θ) के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["√(a² + b²)", "a² + b²", "√(a² - b²)", "a + b"],
+            "hindi": ["√(a² + b²)", "a² + b²", "√(a² - b²)", "a + b"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the point which divides the line segment joining (4, -3) and (8, 5) in the ratio 1:3 internally.",
+            "hindi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो (4, -3) और (8, 5) को मिलाने वाले रेखाखंड को 1:3 के अनुपात में आंतरिक रूप से विभाजित करता है।"
+        },
+        "option": {
+            "english": ["(5, -3/2)", "(5, -1/2)", "(-5, 3/2)", "(5, 3/2)"],
+            "hindi": ["(5, -3/2)", "(5, -1/2)", "(-5, 3/2)", "(5, 3/2)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the area of a triangle with vertices (0, 0), (3, 0), and (0, 4)?",
+            "hindi": "शीर्षों (0, 0), (3, 0), और (0, 4) वाले त्रिभुज का क्षेत्रफल क्या है?"
+        },
+        "option": {
+            "english": ["6 sq. units", "8 sq. units", "10 sq. units", "12 sq. units"],
+            "hindi": ["6 वर्ग इकाई", "8 वर्ग इकाई", "10 वर्ग इकाई", "12 वर्ग इकाई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the point which divides the line segment joining A(1, -2) and B(4, 7) in the ratio 1:2.",
+            "hindi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो A(1, -2) और B(4, 7) को मिलाने वाले रेखाखंड को 1:2 के अनुपात में विभाजित करता है।"
+        },
+        "option": {
+            "english": ["(1, 2)", "(-2, 3)", "(3, 4)", "(2, 1)"],
+            "hindi": ["(1, 2)", "(-2, 3)", "(3, 4)", "(2, 1)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (4, k) and (1, 0) is 5, then what can be the possible values of k?",
+            "hindi": "यदि बिंदुओं (4, k) और (1, 0) के बीच की दूरी 5 है, तो k के संभावित मान क्या हो सकते हैं?"
+        },
+        "option": {
+            "english": ["±2", "±3", "±4", "±5"],
+            "hindi": ["±2", "±3", "±4", "±5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(k, 0) divides the line segment joining the points A(2, -2) and B(-7, 4) in the ratio 1:2, then the value of k is:",
+            "hindi": "यदि बिंदु P(k, 0) बिंदुओं A(2, -2) और B(-7, 4) को मिलाने वाले रेखाखंड को 1:2 के अनुपात में विभाजित करता है, तो k का मान है:"
+        },
+        "option": {
+            "english": ["-2", "1", "-1", "2"],
+            "hindi": ["-2", "1", "-1", "2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The points (-4, 0), (4, 0), (0, 3) are the vertices of a:",
+            "hindi": "बिंदु (-4, 0), (4, 0), (0, 3) एक ______ के शीर्ष हैं:"
+        },
+        "option": {
+            "english": ["Right triangle", "Isosceles triangle", "Equilateral triangle", "Scalene triangle"],
+            "hindi": ["समकोण त्रिभुज", "समद्विबाहु त्रिभुज", "समबाहु त्रिभुज", "विषमबाहु त्रिभुज"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the triangle formed by joining the mid-points of the sides of the triangle whose vertices are (0, -1), (2, 1) and (0, 3).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जो उस त्रिभुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बनता है जिसके शीर्ष (0, -1), (2, 1) और (0, 3) हैं।"
+        },
+        "option": {
+            "english": ["1/2 sq. unit", "3/2 sq. units", "1 sq. unit", "2 sq. units"],
+            "hindi": ["1/2 वर्ग इकाई", "3/2 वर्ग इकाई", "1 वर्ग इकाई", "2 वर्ग इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

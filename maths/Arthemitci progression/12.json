@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 15th term of AP: 3, 8, 13, 18, ...",
+            "hindi": "AP: 3, 8, 13, 18, ... का 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["73", "74", "75", "76"],
+            "hindi": ["73", "74", "75", "76"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 15, 11, 7, 3, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 15, 11, 7, 3, ..."
+        },
+        "option": {
+            "english": ["-3", "-4", "-5", "-6"],
+            "hindi": ["-3", "-4", "-5", "-6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 5th term is 25 and 9th term is 41.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 5वाँ पद 25 और 9वाँ पद 41 है।"
+        },
+        "option": {
+            "english": ["13", "14", "15", "16"],
+            "hindi": ["13", "14", "15", "16"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a₆ - a₃ = 15 and a₉ - a₆ = 15, find the common difference.",
+            "hindi": "यदि a₆ - a₃ = 15 और a₉ - a₆ = 15 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(6n - 1), find the 12th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(6n - 1) है, तो 12वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["139", "141", "143", "145"],
+            "hindi": ["139", "141", "143", "145"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose sum of first 5 terms is 75 and sum of next 5 terms is 125.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसके पहले 5 पदों का योग 75 और अगले 5 पदों का योग 125 है।"
+        },
+        "option": {
+            "english": ["10", "11", "12", "13"],
+            "hindi": ["10", "11", "12", "13"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three numbers are in AP. Their sum is 36 and sum of their squares is 456. Find the numbers.",
+            "hindi": "तीन संख्याएँ AP में हैं। उनका योग 36 और उनके वर्गों का योग 456 है। संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["10,12,14", "9,12,15", "8,12,16", "7,12,17"],
+            "hindi": ["10,12,14", "9,12,15", "8,12,16", "7,12,17"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is divided by 4 and then 3 is added, how does the common difference change?",
+            "hindi": "यदि एक AP के प्रत्येक पद को 4 से विभाजित करके फिर 3 जोड़ा जाए, तो सार्वअंतर में क्या परिवर्तन होगा?"
+        },
+        "option": {
+            "english": ["Divided by 4", "Divided by 4 and add 3", "Only divided by 4", "Add 3"],
+            "hindi": ["4 से भाग", "4 से भाग और 3 जोड़ें", "केवल 4 से भाग", "3 जोड़ें"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If Sn = 4n² - n, find the ratio of 12th term to 8th term.",
+            "hindi": "यदि Sn = 4n² - n है, तो 12वें पद और 8वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:4", "6:5"],
+            "hindi": ["3:2", "4:3", "5:4", "6:5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all three-digit numbers which when divided by 9 leave remainder 6.",
+            "hindi": "सभी तीन अंकों की संख्याओं का योग ज्ञात कीजिए जो 9 से विभाजित करने पर शेषफल 6 देती हैं।"
+        },
+        "option": {
+            "english": ["49896", "49996", "50096", "50196"],
+            "hindi": ["49896", "49996", "50096", "50196"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

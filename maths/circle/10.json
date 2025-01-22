@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The number of tangents that can be drawn to a circle from a point outside the circle is:",
+            "hindi": "वृत्त के बाहर स्थित एक बिंदु से वृत्त पर खींची जा सकने वाली स्पर्श रेखाओं की संख्या है:"
+        },
+        "option": {
+            "english": ["2", "1", "0", "Infinite"],
+            "hindi": ["2", "1", "0", "अनंत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a line is drawn parallel to one side of a triangle intersecting the other two sides at distinct points, then it divides the two sides in the same:",
+            "hindi": "यदि किसी त्रिभुज की एक भुजा के समानांतर एक रेखा खींची जाए जो अन्य दो भुजाओं को अलग-अलग बिंदुओं पर प्रतिच्छेद करती है, तो यह दोनों भुजाओं को समान _______ में विभाजित करती है।"
+        },
+        "option": {
+            "english": ["ratio", "length", "angle", "area"],
+            "hindi": ["अनुपात", "लंबाई", "कोण", "क्षेत्रफल"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, O is the center of the circle. What is the measure of ∠AOC?",
+            "hindi": "दिए गए चित्र में, O वृत्त का केंद्र है। ∠AOC का माप क्या है?"
+        },
+        "option": {
+            "english": ["100°", "110°", "130°", "140°"],
+            "hindi": ["100°", "110°", "130°", "140°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='175' y1='25' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='140' y='50'>40°</text><text x='200' y='50'>30°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the angle between the tangents drawn from an external point to a circle is 110° and the radius of the circle is 7 cm, then the length of each tangent is:",
+            "hindi": "यदि किसी बाहरी बिंदु से एक वृत्त पर खींची गई स्पर्शरेखाओं के बीच का कोण 110° है और वृत्त की त्रिज्या 7 सेमी है, तो प्रत्येक स्पर्शरेखा की लंबाई है:"
+        },
+        "option": {
+            "english": ["7 cm", "7√2 cm", "7√3 cm", "14 cm"],
+            "hindi": ["7 सेमी", "7√2 सेमी", "7√3 सेमी", "14 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if TP is a tangent to the circle with center O and ∠TPO = 25°, then the measure of x is:",
+            "hindi": "दिए गए चित्र में, यदि TP केंद्र O वाले वृत्त की स्पर्शरेखा है और ∠TPO = 25°, तो x का माप है:"
+        },
+        "option": {
+            "english": ["115°", "120°", "110°", "125°"],
+            "hindi": ["115°", "120°", "110°", "125°"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='75' stroke='black'/><line x1='175' y1='25' x2='255' y2='75' stroke='black'/><text x='170' y='20'>O</text><text x='260' y='70'>P</text><text x='170' y='70'>T</text><text x='235' y='60'>25°</text><text x='175' y='125'>x</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 80°, then ∠AOP is:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 80°, तो ∠AOP है:"
+        },
+        "option": {
+            "english": ["40°", "45°", "60°", "50°"],
+            "hindi": ["40°", "45°", "60°", "50°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>80°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the center is 25 cm. The radius of the circle is:",
+            "hindi": "एक बिंदु Q से, एक वृत्त पर स्पर्शरेखा की लंबाई 24 सेमी है और Q से केंद्र की दूरी 25 सेमी है। वृत्त की त्रिज्या है:"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the figure, if O is the centre of a circle, PQ is a chord and the tangent PR at P makes an angle of 50° with PQ, then ∠POQ is equal to:",
+            "hindi": "चित्र में, यदि O एक वृत्त का केंद्र है, PQ एक जीवा है और P पर स्पर्शरेखा PR, PQ के साथ 50° का कोण बनाती है, तो ∠POQ बराबर है:"
+        },
+        "option": {
+            "english": ["100°", "80°", "90°", "75°"],
+            "hindi": ["100°", "80°", "90°", "75°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='225' y1='75' x2='275' y2='50' stroke='black'/><text x='170' y='20'>O</text><text x='230' y='70'>Q</text><text x='280' y='45'>R</text><text x='160' y='70'>P</text><text x='230' y='60'>50°</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If TP and TQ are the two tangents to a circle with centre O so that ∠POQ = 110°, then ∠PTQ is equal to:",
+            "hindi": "यदि TP और TQ केंद्र O वाले एक वृत्त की दो स्पर्श रेखाएँ इस प्रकार हैं कि ∠POQ = 110°, तो ∠PTQ बराबर है:"
+        },
+        "option": {
+            "english": ["70°", "80°", "90°", "60°"],
+            "hindi": ["70°", "80°", "90°", "60°"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='85' y2='120' stroke='black'/><line x1='225' y1='75' x2='265' y2='120' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>P</text><text x='230' y='70'>Q</text><text x='75' y='125'>T</text><text x='160' y='45'>110°</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two concentric circles are of radii 5 cm and 3 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+            "hindi": "दो संकेंद्रित वृत्त 5 सेमी और 3 सेमी त्रिज्या के हैं। बड़े वृत्त की जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती है।"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The quadratic equation whose roots are reciprocals of the roots of x² - 3x + 1 = 0 is:",
+            "hindi": "वह द्विघात समीकरण जिसके मूल x² - 3x + 1 = 0 के मूलों के व्युत्क्रम हैं:"
+        },
+        "option": {
+            "english": ["x² - 3x + 1 = 0", "x² + 3x + 1 = 0", "x² - x + 1 = 0", "x² + x + 1 = 0"],
+            "hindi": ["x² - 3x + 1 = 0", "x² + 3x + 1 = 0", "x² - x + 1 = 0", "x² + x + 1 = 0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The number of quadratic equations having only one root is:",
+            "hindi": "केवल एक मूल वाले द्विघात समीकरणों की संख्या है:"
+        },
+        "option": {
+            "english": ["0", "1", "2", "Infinitely many"],
+            "hindi": ["0", "1", "2", "अनंत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + 2x - 8 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² + 2x - 8 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["-2", "2", "-4", "4"],
+            "hindi": ["-2", "2", "-4", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 5x + 6 = 0, then α³ + β³ equals:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": ["85", "95", "105", "115"],
+            "hindi": ["85", "95", "105", "115"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The condition for x² + px + q = 0 to have roots with ratio 2:3 is:",
+            "hindi": "x² + px + q = 0 के मूलों का अनुपात 2:3 होने की शर्त है:"
+        },
+        "option": {
+            "english": ["5p² = 24q", "6p² = 25q", "6p² = 24q", "5p² = 25q"],
+            "hindi": ["5p² = 24q", "6p² = 25q", "6p² = 24q", "5p² = 25q"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will kx² - 2x + k = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए kx² - 2x + k = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±1", "±2", "±3", "±4"],
+            "hindi": ["±1", "±2", "±3", "±4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A merchant has two types of tea priced at Rs. 200 and Rs. 160 per kg. He wants to mix them to make 50 kg of a mixture worth Rs. 170 per kg. The amount of tea priced at Rs. 200 per kg needed is:",
+            "hindi": "एक व्यापारी के पास Rs. 200 और Rs. 160 प्रति kg वाली दो प्रकार की चाय है। वह Rs. 170 प्रति kg मूल्य का 50 kg मिश्रण बनाना चाहता है। Rs. 200 प्रति kg वाली चाय की आवश्यक मात्रा है:"
+        },
+        "option": {
+            "english": ["10 kg", "15 kg", "20 kg", "25 kg"],
+            "hindi": ["10 kg", "15 kg", "20 kg", "25 kg"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The perimeter of a rectangular field is 100m and its area is 600m². The length of the field is:",
+            "hindi": "एक आयताकार खेत का परिमाप 100m और क्षेत्रफल 600m² है। खेत की लंबाई है:"
+        },
+        "option": {
+            "english": ["30m", "35m", "40m", "45m"],
+            "hindi": ["30m", "35m", "40m", "45m"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 6x + 5 = 0, then (α - 1)(β - 1) equals:",
+            "hindi": "यदि α और β, x² - 6x + 5 = 0 के मूल हैं, तो (α - 1)(β - 1) बराबर है:"
+        },
+        "option": {
+            "english": ["-4", "-3", "-2", "-1"],
+            "hindi": ["-4", "-3", "-2", "-1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A number consists of two digits whose sum is 9. If 27 is subtracted from the number, the digits interchange their places. The number is:",
+            "hindi": "एक संख्या दो अंकों की है जिनका योग 9 है। यदि संख्या में से 27 घटाया जाए, तो अंक अपने स्थान बदल लेते हैं। वह संख्या है:"
+        },
+        "option": {
+            "english": ["63", "72", "81", "90"],
+            "hindi": ["63", "72", "81", "90"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

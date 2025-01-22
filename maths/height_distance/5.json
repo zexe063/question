@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "A drone is hovering at 100m height. The angle of elevation from point A on the ground is 45°. Find the horizontal distance from A to the drone.",
+            "hindi": "एक ड्रोन 100 मीटर की ऊंचाई पर मंडरा रहा है। भूमि पर स्थित बिंदु A से उन्नयन कोण 45° है। A से ड्रोन तक की क्षैतिज दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "50 m",
+                "100 m",
+                "150 m",
+                "200 m"
+            ],
+            "hindi": [
+                "50 मीटर",
+                "100 मीटर",
+                "150 मीटर",
+                "200 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='20' stroke='black'/><line x1='50' y1='20' x2='150' y2='120' stroke='red'/><text x='30' y='70'>100m</text><text x='90' y='100'>45°</text><text x='45' y='15'>🚁</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From a point on a cliff 300m high, the angle of depression of a boat is 30°. Find the distance of the boat from the base of the cliff.",
+            "hindi": "300 मीटर ऊंची चट्टान के एक बिंदु से, एक नाव का अवनमन कोण 30° है। चट्टान के आधार से नाव की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "300 m",
+                "400 m",
+                "519.6 m",
+                "600 m"
+            ],
+            "hindi": [
+                "300 मीटर",
+                "400 मीटर",
+                "519.6 मीटर",
+                "600 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='250' y2='120' stroke='red'/><text x='160' y='70'>300m</text><text x='200' y='50'>30°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A kite is flying at a height of 75m above the ground. The string makes an angle of 60° with the ground. Find the length of the string.",
+            "hindi": "एक पतंग भूमि से 75 मीटर की ऊंचाई पर उड़ रही है। डोर भूमि से 60° का कोण बनाती है। डोर की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "75 m",
+                "86.6 m",
+                "100 m",
+                "150 m"
+            ],
+            "hindi": [
+                "75 मीटर",
+                "86.6 मीटर",
+                "100 मीटर",
+                "150 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='40' stroke='black'/><line x1='50' y1='40' x2='150' y2='120' stroke='red'/><text x='30' y='80'>75m</text><text x='90' y='100'>60°</text><text x='40' y='35'>🪁</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two observers 200m apart spot a weather balloon at the same instant. The angles of elevation are 60° and 45°. Find the height of the balloon.",
+            "hindi": "200 मीटर की दूरी पर स्थित दो पर्यवेक्षक एक ही क्षण में एक मौसम गुब्बारे को देखते हैं। उन्नयन कोण 60° और 45° हैं। गुब्बारे की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "150 m",
+                "200 m",
+                "250 m",
+                "300 m"
+            ],
+            "hindi": [
+                "150 मीटर",
+                "200 मीटर",
+                "250 मीटर",
+                "300 मीटर"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>h</text><text x='80' y='90'>60°</text><text x='200' y='90'>45°</text><text x='140' y='135'>200m</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A person observes a bird flying at a constant height. The angle of elevation changes from 45° to 60° in 10 seconds. If the height is 100m, find the bird's speed.",
+            "hindi": "एक व्यक्ति एक पक्षी को नियत ऊंचाई पर उड़ते हुए देखता है। उन्नयन कोण 10 सेकंड में 45° से 60° तक बदल जाता है। यदि ऊंचाई 100 मीटर है, तो पक्षी की गति ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "5 m/s",
+                "10 m/s",
+                "15 m/s",
+                "20 m/s"
+            ],
+            "hindi": [
+                "5 मीटर/सेकंड",
+                "10 मीटर/सेकंड",
+                "15 मीटर/सेकंड",
+                "20 मीटर/सेकंड"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><line x1='150' y1='40' x2='250' y2='120' stroke='blue'/><text x='160' y='80'>100m</text><text x='80' y='90'>45°</text><text x='200' y='90'>60°</text><text x='145' y='35'>🐦</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A satellite tracking station observes two satellites at angles of elevation 30° and 60°. If they are directly above points 400km apart on Earth's surface, find their height difference.",
+            "hindi": "एक उपग्रह ट्रैकिंग स्टेशन दो उपग्रहों को 30° और 60° के उन्नयन कोण पर देखता है। यदि वे पृथ्वी की सतह पर 400 किमी दूर बिंदुओं के सीधे ऊपर हैं, तो उनकी ऊंचाइयों का अंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "200 km",
+                "300 km",
+                "346.4 km",
+                "400 km"
+            ],
+            "hindi": [
+                "200 किमी",
+                "300 किमी",
+                "346.4 किमी",
+                "400 किमी"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='20' stroke='black'/><line x1='50' y1='20' x2='150' y2='120' stroke='red'/><line x1='50' y1='20' x2='250' y2='120' stroke='blue'/><text x='30' y='70'>h</text><text x='140' y='135'>400km</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A balloon rises vertically at 5m/s. An observer, 100m away from the launch point, notes that after 1 minute the angle of elevation is 45°. Find the initial height of the balloon.",
+            "hindi": "एक गुब्बारा 5 मीटर/सेकंड की गति से ऊर्ध्वाधर उठता है। प्रक्षेपण बिंदु से 100 मीटर दूर एक पर्यवेक्षक नोट करता है कि 1 मिनट बाद उन्नयन कोण 45° है। गुब्बारे की प्रारंभिक ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "0 m",
+                "50 m",
+                "100 m",
+                "150 m"
+            ],
+            "hindi": [
+                "0 मीटर",
+                "50 मीटर",
+                "100 मीटर",
+                "150 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='20' stroke='black'/><line x1='50' y1='20' x2='150' y2='120' stroke='red'/><text x='30' y='70'>h</text><text x='90' y='100'>45°</text><text x='140' y='135'>100m</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From points A and B on the same bank of a river, the angles of elevation of a cloud are 30° and 45° respectively. If AB = 100m, find the height of the cloud.",
+            "hindi": "नदी के एक ही किनारे पर स्थित बिंदु A और B से, एक बादल के उन्नयन कोण क्रमशः 30° और 45° हैं। यदि AB = 100 मीटर है, तो बादल की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "50 m",
+                "100 m",
+                "150 m",
+                "200 m"
+            ],
+            "hindi": [
+                "50 मीटर",
+                "100 मीटर",
+                "150 मीटर",
+                "200 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='150' y2='120' stroke='blue'/><text x='160' y='70'>h</text><text x='80' y='90'>30°</text><text x='160' y='90'>45°</text><text x='140' y='135'>100m</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A helicopter is ascending vertically at 10m/s. From a point 200m away from its path, the angle of elevation changes from 30° to 45° in 30 seconds. Find its initial height.",
+            "hindi": "एक हेलीकॉप्टर 10 मीटर/सेकंड की गति से ऊर्ध्वाधर उठ रहा है। इसके मार्ग से 200 मीटर दूर एक बिंदु से, उन्नयन कोण 30 सेकंड में 30° से 45° तक बदल जाता है। इसकी प्रारंभिक ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "100√3 m",
+                "200√3 m",
+                "300√3 m",
+                "400√3 m"
+            ],
+            "hindi": [
+                "100√3 मीटर",
+                "200√3 मीटर",
+                "300√3 मीटर",
+                "400√3 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><line x1='50' y1='120' x2='150' y2='20' stroke='blue'/><text x='160' y='70'>h</text><text x='90' y='100'>30°</text><text x='90' y='80'>45°</text><text x='145' y='15'>🚁</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "From a space station, the angle between two tangent lines to Earth is 120°. If Earth's radius is 6400km, find the height of the station above Earth's surface.",
+            "hindi": "एक अंतरिक्ष स्टेशन से, पृथ्वी पर दो स्पर्श रेखाओं के बीच का कोण 120° है। यदि पृथ्वी की त्रिज्या 6400 किमी है, तो पृथ्वी की सतह से स्टेशन की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "3200 km",
+                "6400 km",
+                "9600 km",
+                "12800 km"
+            ],
+            "hindi": [
+                "3200 किमी",
+                "6400 किमी",
+                "9600 किमी",
+                "12800 किमी"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='120' r='40' fill='none' stroke='black'/><line x1='150' y1='20' x2='110' y2='120' stroke='red'/><line x1='150' y1='20' x2='190' y2='120' stroke='blue'/><text x='160' y='70'>h</text><text x='140' y='40'>120°</text><text x='145' y='15'>🛸</text></svg>",
+        "medium": "hard"
+    }
+]

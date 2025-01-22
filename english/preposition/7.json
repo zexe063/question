@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The climbers reached _____ the summit.",
+        "hindi": "Choose the correct preposition: The climbers reached _____ the summit."
+      },
+      "option": {
+        "english": [
+          "until",
+          "upon",
+          "for",
+          "to"
+        ],
+        "hindi": [
+          "until",
+          "upon", 
+          "for",
+          "to"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The rainbow appears _____ the rain.",
+        "hindi": "Fill in the blank: The rainbow appears _____ the rain."
+      },
+      "option": {
+        "english": [
+          "after",
+          "during",
+          "while", 
+          "before"
+        ],
+        "hindi": [
+          "after",
+          "during",
+          "while",
+          "before"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The chef cooked dinner _____ fresh ingredients.",
+        "hindi": "Select the right preposition: The chef cooked dinner _____ fresh ingredients."
+      },
+      "option": {
+        "english": [
+          "by",
+          "with",
+          "from",
+          "in"
+        ],
+        "hindi": [
+          "by",
+          "with",
+          "from",
+          "in"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The squirrel jumped _____ branch to branch.",
+        "hindi": "Choose the correct preposition: The squirrel jumped _____ branch to branch."
+      },
+      "option": {
+        "english": [
+          "between",
+          "among",
+          "within",
+          "from"
+        ],
+        "hindi": [
+          "between",
+          "among",
+          "within",
+          "from"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The astronauts ventured _____ outer space.",
+        "hindi": "Fill in the blank: The astronauts ventured _____ outer space."
+      },
+      "option": {
+        "english": [
+          "through",
+          "around",
+          "into",
+          "beside"
+        ],
+        "hindi": [
+          "through",
+          "around",
+          "into",
+          "beside"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The perfume is made _____ roses.",
+        "hindi": "Select the appropriate preposition: The perfume is made _____ roses."
+      },
+      "option": {
+        "english": [
+          "by",
+          "from",
+          "of",
+          "with"
+        ],
+        "hindi": [
+          "by",
+          "from",
+          "of",
+          "with"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The butterfly emerged _____ its cocoon.",
+        "hindi": "Choose the correct preposition: The butterfly emerged _____ its cocoon."
+      },
+      "option": {
+        "english": [
+          "from",
+          "out",
+          "through",
+          "beyond"
+        ],
+        "hindi": [
+          "from",
+          "out",
+          "through",
+          "beyond"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The detective searched _____ any clues.",
+        "hindi": "Fill in the blank: The detective searched _____ any clues."
+      },
+      "option": {
+        "english": [
+          "about",
+          "around",
+          "within",
+          "throughout"
+        ],
+        "hindi": [
+          "about",
+          "around",
+          "within",
+          "throughout"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The medicine should be taken _____ meals.",
+        "hindi": "Select the right preposition: The medicine should be taken _____ meals."
+      },
+      "option": {
+        "english": [
+          "during",
+          "while",
+          "between",
+          "among"
+        ],
+        "hindi": [
+          "during",
+          "while",
+          "between",
+          "among"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The secret lay hidden _____ ancient texts.",
+        "hindi": "Choose the correct preposition: The secret lay hidden _____ ancient texts."
+      },
+      "option": {
+        "english": [
+          "across",
+          "within",
+          "beside",
+          "along"
+        ],
+        "hindi": [
+          "across",
+          "within",
+          "beside",
+          "along"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

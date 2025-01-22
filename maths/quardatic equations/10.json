@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The standard form of 3x² = 12 is:",
+            "hindi": "3x² = 12 का मानक रूप है:"
+        },
+        "option": {
+            "english": ["3x² - 12 = 0", "x² - 4 = 0", "3x² + 12 = 0", "x² + 4 = 0"],
+            "hindi": ["3x² - 12 = 0", "x² - 4 = 0", "3x² + 12 = 0", "x² + 4 = 0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 4x + 3 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² - 4x + 3 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["3", "4", "-4", "-3"],
+            "hindi": ["3", "4", "-4", "-3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The nature of roots of 2x² + 3x + 5 = 0 is:",
+            "hindi": "2x² + 3x + 5 = 0 के मूलों की प्रकृति है:"
+        },
+        "option": {
+            "english": ["Real and equal", "Real and unequal", "One real root", "No real roots"],
+            "hindi": ["वास्तविक और बराबर", "वास्तविक और असमान", "एक वास्तविक मूल", "कोई वास्तविक मूल नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + kx + 4 = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए x² + kx + 4 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±2", "±4", "±6", "±8"],
+            "hindi": ["±2", "±4", "±6", "±8"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² - 4x + k = 0 has real roots is:",
+            "hindi": "k का वह मान जिसके लिए x² - 4x + k = 0 के वास्तविक मूल हैं:"
+        },
+        "option": {
+            "english": ["k ≤ 4", "k ≥ 4", "k < 4", "k > 4"],
+            "hindi": ["k ≤ 4", "k ≥ 4", "k < 4", "k > 4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the sum of a number and its reciprocal is 4, the number is:",
+            "hindi": "यदि एक संख्या और उसके व्युत्क्रम का योग 4 है, तो वह संख्या है:"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + px + q = 0, then α² + β² equals:",
+            "hindi": "यदि α और β, x² + px + q = 0 के मूल हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": ["p² - 2q", "p - 2q", "p² + 2q", "p + 2q"],
+            "hindi": ["p² - 2q", "p - 2q", "p² + 2q", "p + 2q"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A train covers a distance of 300 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 2 hours less. The speed of the train is:",
+            "hindi": "एक ट्रेन 300 km की दूरी एकसमान चाल से तय करती है। यदि चाल 5 km/h अधिक होती, तो 2 घंटे कम लगते। ट्रेन की चाल है:"
+        },
+        "option": {
+            "english": ["25 km/h", "30 km/h", "35 km/h", "40 km/h"],
+            "hindi": ["25 km/h", "30 km/h", "35 km/h", "40 km/h"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of the equation ax² + bx + c = 0 is zero when:",
+            "hindi": "समीकरण ax² + bx + c = 0 का विवेचक शून्य होता है जब:"
+        },
+        "option": {
+            "english": ["b² > 4ac", "b² < 4ac", "b² = 4ac", "b² ≠ 4ac"],
+            "hindi": ["b² > 4ac", "b² < 4ac", "b² = 4ac", "b² ≠ 4ac"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The dimensions of a rectangular plot are in the ratio 4:3. If its perimeter is 140m, then its area is:",
+            "hindi": "एक आयताकार भूखंड की विमाएं 4:3 के अनुपात में हैं। यदि इसका परिमाप 140m है, तो इसका क्षेत्रफल है:"
+        },
+        "option": {
+            "english": ["1000m²", "1100m²", "1200m²", "1300m²"],
+            "hindi": ["1000m²", "1100m²", "1200m²", "1300m²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

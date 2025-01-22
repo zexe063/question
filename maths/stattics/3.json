@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the mode of the following data set: 5, 7, 8, 5, 7, 6, 9, 5, 10, 5?",
+            "hindi": "निम्नलिखित डेटा सेट का बहुलक क्या है: 5, 7, 8, 5, 7, 6, 9, 5, 10, 5?"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A set of data can have more than one:",
+            "hindi": "डेटा के एक सेट में एक से अधिक _____ हो सकते हैं:"
+        },
+        "option": {
+            "english": ["Mean", "Median", "Mode", "Range"],
+            "hindi": ["माध्य", "माध्यिका", "बहुलक", "परिसर"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the sum of deviations of the variate values 3, 4, 6, 8, 14 from their mean?",
+            "hindi": "विचर मानों 3, 4, 6, 8, 14 के उनके माध्य से विचलनों का योग क्या है?"
+        },
+        "option": {
+            "english": ["-1", "0", "1", "2"],
+            "hindi": ["-1", "0", "1", "2"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the median of the following data: 24, 36, 46, 17, 18, 25, 35.",
+            "hindi": "निम्नलिखित डेटा की माध्यिका ज्ञात कीजिए: 24, 36, 46, 17, 18, 25, 35."
+        },
+        "option": {
+            "english": ["17", "25", "35", "46"],
+            "hindi": ["17", "25", "35", "46"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the mean of the first 10 prime numbers.",
+            "hindi": "पहले 10 अभाज्य संख्याओं का माध्य ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12.9", "13", "14.3", "15"],
+            "hindi": ["12.9", "13", "14.3", "15"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 25 observations is 36. If the mean of the first 13 observations is 32 and that of the last 13 observations is 40, then the 13th observation is:",
+            "hindi": "25 अवलोकनों का माध्य 36 है। यदि पहले 13 अवलोकनों का माध्य 32 है और अंतिम 13 अवलोकनों का माध्य 40 है, तो 13वां अवलोकन है:"
+        },
+        "option": {
+            "english": ["20", "24", "32", "36"],
+            "hindi": ["20", "24", "32", "36"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the median of the data: 6, 7, x - 2, x, 17, 20, written in ascending order, is 16. Then x is equal to:",
+            "hindi": "यदि डेटा: 6, 7, x - 2, x, 17, 20, आरोही क्रम में लिखे गए हैं, की माध्यिका 16 है। तो x बराबर है:"
+        },
+        "option": {
+            "english": ["15", "16", "17", "18"],
+            "hindi": ["15", "16", "17", "18"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 20 numbers is zero. Of them, at the most, how many may be greater than zero?",
+            "hindi": "20 संख्याओं का माध्य शून्य है। उनमें से, अधिक से अधिक कितनी संख्याएँ शून्य से अधिक हो सकती हैं?"
+        },
+        "option": {
+            "english": ["0", "19", "10", "18"],
+            "hindi": ["0", "19", "10", "18"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the mean of five observations x, x+2, x+4, x+6 and x+8 is 11, then the mean of the first three observations is:",
+            "hindi": "यदि पाँच अवलोकनों x, x+2, x+4, x+6 और x+8 का माध्य 11 है, तो पहले तीन अवलोकनों का माध्य है:"
+        },
+        "option": {
+            "english": ["9", "10", "11", "12"],
+            "hindi": ["9", "10", "11", "12"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The median of the following observations arranged in ascending order is 24. Find the value of x.11, 12, 14, 18, x + 2, x + 4, 30, 32, 35, 41",
+            "hindi": "निम्नलिखित अवलोकनों को आरोही क्रम में व्यवस्थित करने पर माध्यिका 24 है। x का मान ज्ञात कीजिए।\n11, 12, 14, 18, x + 2, x + 4, 30, 32, 35, 41"
+        },
+        "option": {
+            "english": ["20", "21", "22", "23"],
+            "hindi": ["20", "21", "22", "23"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

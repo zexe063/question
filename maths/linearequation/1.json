@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of the following is a linear equation in two variables?",
+            "hindi": "निम्नलिखित में से कौन सा दो चरों वाला रैखिक समीकरण है?"
+        },
+        "option": {
+            "english": ["2x + 5 = 0", "x - 4y = 10", "3x² + y = 7", "x³ + y³ = 1"],
+            "hindi": ["2x + 5 = 0", "x - 4y = 10", "3x² + y = 7", "x³ + y³ = 1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The graph of the equation x = 5 is a line:",
+            "hindi": "समीकरण x = 5 का ग्राफ एक रेखा है:"
+        },
+        "option": {
+            "english": ["parallel to the y-axis", "parallel to the x-axis", "passing through the origin", "making an angle of 45 degrees with the x-axis"],
+            "hindi": ["y-अक्ष के समानांतर", "x-अक्ष के समानांतर", "मूल बिंदु से गुजरती हुई", "x-अक्ष के साथ 45 डिग्री का कोण बनाती हुई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the standard form of a linear equation in two variables?",
+            "hindi": "दो चरों वाले रैखिक समीकरण का मानक रूप क्या है?"
+        },
+        "option": {
+            "english": ["y = mx + c", "ax² + by² = c", "ax + by + c = 0", "x/a + y/b = 1"],
+            "hindi": ["y = mx + c", "ax² + by² = c", "ax + by + c = 0", "x/a + y/b = 1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "How many solutions does a linear equation in two variables have?",
+            "hindi": "दो चरों वाले रैखिक समीकरण के कितने हल होते हैं?"
+        },
+        "option": {
+            "english": ["One", "Two", "None", "Infinitely many"],
+            "hindi": ["एक", "दो", "कोई नहीं", "अनंत"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The point (0, -3) lies on the graph of which equation?",
+            "hindi": "बिंदु (0, -3) किस समीकरण के आलेख पर स्थित है?"
+        },
+        "option": {
+            "english": ["x + y = 3", "y = -3", "x = -3", "x + y = -3"],
+            "hindi": ["x + y = 3", "y = -3", "x = -3", "x + y = -3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the value of 'k' if x=2, y=1 is a solution of 2x + 3y = k.",
+            "hindi": "यदि x=2, y=1 समीकरण 2x + 3y = k का हल है, तो 'k' का मान ज्ञात करें।"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If a system of linear equations has no solution, the lines are:",
+            "hindi": "यदि रैखिक समीकरणों की एक प्रणाली का कोई हल नहीं है, तो रेखाएँ हैं:"
+        },
+        "option": {
+            "english": ["Parallel", "Intersecting", "Coincident", "Perpendicular"],
+            "hindi": ["समानांतर", "प्रतिच्छेदी", "संपाती", "लंबवत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If 2x+3y=12 and x-y=1, what is the value of x?",
+            "hindi": "यदि 2x+3y=12 और x-y=1, तो x का मान क्या है?"
+        },
+        "option": {
+            "english": ["1", "2", "4", "3"],
+            "hindi": ["1", "2", "4", "3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of 'k' does the system kx - y = 2 and 6x - 2y = 3 have no solution?",
+            "hindi": "'k' के किस मान के लिए प्रणाली kx - y = 2 और 6x - 2y = 3 का कोई हल नहीं है?"
+        },
+        "option": {
+            "english": ["k = 2", "k = 3", "k = 4", "k = 5"],
+            "hindi": ["k = 2", "k = 3", "k = 4", "k = 5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+         "question_name": {
+            "english": "A boat travels 30 km upstream and 44 km downstream in 10 hours. In 13 hours, it can travel 40 km upstream and 55 km downstream. What is the speed of the stream?",
+            "hindi": "एक नाव 10 घंटे में 30 किमी धारा के प्रतिकूल और 44 किमी धारा के अनुकूल जाती है। 13 घंटों में, यह 40 किमी धारा के प्रतिकूल और 55 किमी धारा के अनुकूल यात्रा कर सकती है। धारा की गति क्या है?"
+        },
+        "option": {
+            "english": ["8 km/hr", "5 km/hr", "3 km/hr", "9 km/hr"],
+            "hindi": ["8 किमी/घंटा", "5 किमी/घंटा", "3 किमी/घंटा", "9 किमी/घंटा"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

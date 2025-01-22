@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Fill in the blank: The train arrives _____ platform 3.",
+        "hindi": "Fill in the blank: The train arrives _____ platform 3."
+      },
+      "option": {
+        "english": [
+          "at",
+          "on",
+          "in",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "on",
+          "in",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The cat is sitting _____ the wall.",
+        "hindi": "Choose the correct preposition: The cat is sitting _____ the wall."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: She walked _____ the street.",
+        "hindi": "Select the right preposition: She walked _____ the street."
+      },
+      "option": {
+        "english": [
+          "on",
+          "at",
+          "by",
+          "across"
+        ],
+        "hindi": [
+          "on",
+          "at",
+          "by",
+          "across"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The meeting is scheduled _____ Friday.",
+        "hindi": "Fill in the blank: The meeting is scheduled _____ Friday."
+      },
+      "option": {
+        "english": [
+          "at",
+          "for",
+          "in",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "for",
+          "in",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The book fell _____ the shelf.",
+        "hindi": "Choose the correct preposition: The book fell _____ the shelf."
+      },
+      "option": {
+        "english": [
+          "off",
+          "from",
+          "down",
+          "out"
+        ],
+        "hindi": [
+          "off",
+          "from",
+          "down",
+          "out"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The ship sailed _____ the horizon.",
+        "hindi": "Select the appropriate preposition: The ship sailed _____ the horizon."
+      },
+      "option": {
+        "english": [
+          "to",
+          "at",
+          "by",
+          "towards"
+        ],
+        "hindi": [
+          "to",
+          "at",
+          "by",
+          "towards"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: He is responsible _____ the project.",
+        "hindi": "Fill in the blank: He is responsible _____ the project."
+      },
+      "option": {
+        "english": [
+          "of",
+          "with",
+          "for",
+          "to"
+        ],
+        "hindi": [
+          "of",
+          "with",
+          "for",
+          "to"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The painting hangs _____ the fireplace.",
+        "hindi": "Choose the correct preposition: The painting hangs _____ the fireplace."
+      },
+      "option": {
+        "english": [
+          "on",
+          "above",
+          "at",
+          "by"
+        ],
+        "hindi": [
+          "on",
+          "above",
+          "at",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The story was adapted _____ a novel.",
+        "hindi": "Select the right preposition: The story was adapted _____ a novel."
+      },
+      "option": {
+        "english": [
+          "from",
+          "of",
+          "by",
+          "with"
+        ],
+        "hindi": [
+          "from",
+          "of",
+          "by",
+          "with"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She was overwhelmed _____ emotion.",
+        "hindi": "Fill in the blank: She was overwhelmed _____ emotion."
+      },
+      "option": {
+        "english": [
+          "by",
+          "from",
+          "with",
+          "in"
+        ],
+        "hindi": [
+          "by",
+          "from",
+          "with",
+          "in"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

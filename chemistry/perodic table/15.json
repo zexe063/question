@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "How does atomic size change down a group?",
+        "hindi": "एक समूह में नीचे जाने पर परमाणु आकार कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Remains same",
+          "Decreases",
+          "Increases",
+          "No pattern"
+        ],
+        "hindi": [
+          "समान रहता है",
+          "घटता है",
+          "बढ़ता है",
+          "कोई पैटर्न नहीं"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which element is most metallic in nature?",
+        "hindi": "कौन सा तत्व सबसे अधिक धात्विक प्रकृति का है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Potassium",
+          "Lithium",
+          "Rubidium"
+        ],
+        "hindi": [
+          "सोडियम",
+          "पोटैशियम",
+          "लिथियम",
+          "रूबीडियम"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does metallic character change across a period?",
+        "hindi": "एक आवर्त में धात्विक गुण कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "Decreases",
+          "Increases",
+          "No change",
+          "Random"
+        ],
+        "hindi": [
+          "घटता है",
+          "बढ़ता है",
+          "कोई परिवर्तन नहीं",
+          "अनियमित"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which has smallest atomic size?",
+        "hindi": "किसका परमाणु आकार सबसे छोटा है?"
+      },
+      "option": {
+        "english": [
+          "Sodium",
+          "Magnesium",
+          "Aluminum",
+          "Fluorine"
+        ],
+        "hindi": [
+          "सोडियम",
+          "मैग्नीशियम",
+          "एल्युमिनियम",
+          "फ्लोरीन"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How does non-metallic character change in a group?",
+        "hindi": "एक समूह में अधात्विक गुण कैसे बदलता है?"
+      },
+      "option": {
+        "english": [
+          "No change",
+          "Increases",
+          "Decreases",
+          "Random"
+        ],
+        "hindi": [
+          "कोई परिवर्तन नहीं",
+          "बढ़ता है",
+          "घटता है",
+          "अनियमित"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Why does atomic size decrease across period?",
+        "hindi": "आवर्त में परमाणु आकार क्यों घटता है?"
+      },
+      "option": {
+        "english": [
+          "Nuclear attraction",
+          "Electron addition",
+          "Mass increase",
+          "Shell addition"
+        ],
+        "hindi": [
+          "नाभकीय आकर्षण",
+          "इलेक्ट्रॉन जुड़ना",
+          "द्रव्यमान बढ़ना",
+          "कोश जुड़ना"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which element shows most non-metallic character?",
+        "hindi": "कौन सा तत्व सबसे अधिक अधात्विक गुण दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Fluorine",
+          "Chlorine",
+          "Bromine",
+          "Iodine"
+        ],
+        "hindi": [
+          "फ्लोरीन",
+          "क्लोरीन",
+          "ब्रोमीन",
+          "आयोडीन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What causes increase in atomic size down group?",
+        "hindi": "समूह में नीचे जाने पर परमाणु आकार क्यों बढ़ता है?"
+      },
+      "option": {
+        "english": [
+          "Mass increase",
+          "Charge increase",
+          "Shell addition",
+          "Electron addition"
+        ],
+        "hindi": [
+          "द्रव्यमान बढ़ना",
+          "आवेश बढ़ना",
+          "कोश जुड़ना",
+          "इलेक्ट्रॉन जुड़ना"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do metals lose electrons easily?",
+        "hindi": "धातुएं इलेक्ट्रॉन क्यों आसानी से खोती हैं?"
+      },
+      "option": {
+        "english": [
+          "Large size",
+          "Small size",
+          "Less nuclear charge",
+          "More nuclear charge"
+        ],
+        "hindi": [
+          "बड़ा आकार",
+          "छोटा आकार",
+          "कम नाभकीय आवेश",
+          "अधिक नाभकीय आवेश"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What determines valency of an element?",
+        "hindi": "किसी तत्व की संयोजकता क्या निर्धारित करती है?"
+      },
+      "option": {
+        "english": [
+          "Total electrons",
+          "Valence electrons",
+          "Protons",
+          "Neutrons"
+        ],
+        "hindi": [
+          "कुल इलेक्ट्रॉन",
+          "संयोजी इलेक्ट्रॉन",
+          "प्रोटॉन",
+          "न्यूट्रॉन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,137 @@
+[
+
+    {
+        "question_name": {
+            "english": "A hollow sphere has outer radius 10 cm and thickness 2 cm. Find its inner surface area.",
+            "hindi": "एक खोखले गोले की बाहरी त्रिज्या 10 सेमी और मोटाई 2 सेमी है। इसका आंतरिक पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["804 cm²", "904 cm²", "1004 cm²", "1104 cm²"],
+            "hindi": ["804 सेमी²", "904 सेमी²", "1004 सेमी²", "1104 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A frustum of a cone is formed by removing the top portion. If the radii of the ends are 5 cm and 15 cm, and height is 8 cm, find its curved surface area.",
+            "hindi": "एक शंकु का छिन्नक उसके ऊपरी भाग को हटाकर बनाया गया है। यदि सिरों की त्रिज्याएँ 5 सेमी और 15 सेमी हैं, और ऊंचाई 8 सेमी है, तो इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["502 cm²", "602 cm²", "702 cm²", "802 cm²"],
+            "hindi": ["502 सेमी²", "602 सेमी²", "702 सेमी²", "802 सेमी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cylinder has outer radius 8 cm and thickness 2 cm. If its height is 15 cm, find its total surface area.",
+            "hindi": "एक खोखले बेलन की बाहरी त्रिज्या 8 सेमी और मोटाई 2 सेमी है। यदि इसकी ऊंचाई 15 सेमी है, तो इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1156 cm²", "1256 cm²", "1356 cm²", "1456 cm²"],
+            "hindi": ["1156 सेमी²", "1256 सेमी²", "1356 सेमी²", "1456 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+
+
+    {
+        "question_name": {
+            "english": "Three identical cylindrical tanks each of radius 3 m and height 8 m are filled with water at rates of 15 m³/hr, 20 m³/hr, and 25 m³/hr respectively. Which tank will fill first and in how many hours?",
+            "hindi": "तीन समान बेलनाकार टंकियाँ जिनमें प्रत्येक की त्रिज्या 3 मीटर और ऊंचाई 8 मीटर है, क्रमशः 15 मी³/घंटा, 20 मी³/घंटा और 25 मी³/घंटा की दर से भरी जा रही हैं। कौन सी टंकी पहले भरेगी और कितने घंटों में?"
+        },
+        "option": {
+            "english": ["Tank 2, 9 hrs", "Tank 3, 9 hrs", "Tank 2, 8 hrs", "Tank 3, 8 hrs"],
+            "hindi": ["टंकी 2, 9 घंटे", "टंकी 3, 9 घंटे", "टंकी 2, 8 घंटे", "टंकी 3, 8 घंटे"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid is formed by placing a cone on top of a frustum of same base radius. If the frustum has radii 10 cm and 6 cm with height 8 cm, and cone has height 12 cm, find the total volume.",
+            "hindi": "एक ठोस समान आधार त्रिज्या वाले छिन्नक के ऊपर एक शंकु रखकर बनाया गया है। यदि छिन्नक की त्रिज्याएँ 10 सेमी और 6 सेमी हैं तथा ऊंचाई 8 सेमी है, और शंकु की ऊंचाई 12 सेमी है, तो कुल आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1884 cm³", "1984 cm³", "2084 cm³", "2184 cm³"],
+            "hindi": ["1884 सेमी³", "1984 सेमी³", "2084 सेमी³", "2184 सेमी³"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow hemisphere of thickness 3 cm has inner radius 9 cm. It is melted and recast into a solid cylinder of radius 6 cm. Find the height of the cylinder.",
+            "hindi": "3 सेमी मोटाई वाले एक खोखले अर्धगोले की आंतरिक त्रिज्या 9 सेमी है। इसे पिघलाकर 6 सेमी त्रिज्या का एक ठोस बेलन बनाया जाता है। बेलन की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12 cm", "14 cm", "16 cm", "18 cm"],
+            "hindi": ["12 सेमी", "14 सेमी", "16 सेमी", "18 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a hemisphere with a cone mounted on it is immersed in a cylinder full of water. If all three shapes have radius 7 cm and cone height is 24 cm, find the volume of water displaced.",
+            "hindi": "एक अर्धगोले पर शंकु रखे हुए ठोस को पानी से भरे बेलन में डुबोया जाता है। यदि तीनों आकृतियों की त्रिज्या 7 सेमी है और शंकु की ऊंचाई 24 सेमी है, तो विस्थापित पानी का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1232 cm³", "1332 cm³", "1432 cm³", "1532 cm³"],
+            "hindi": ["1232 सेमी³", "1332 सेमी³", "1432 सेमी³", "1532 सेमी³"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+
+
+    {
+        "question_name": {
+            "english": "A solid metal frustum of height 9 cm with radii 12 cm and 6 cm is melted to form a hollow sphere of thickness 2 cm. Find the outer radius of the sphere.",
+            "hindi": "12 सेमी और 6 सेमी त्रिज्या वाले 9 सेमी ऊंचाई के एक ठोस धातु के छिन्नक को पिघलाकर 2 सेमी मोटाई का एक खोखला गोला बनाया जाता है। गोले की बाहरी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8 cm", "9 cm", "10 cm", "11 cm"],
+            "hindi": ["8 सेमी", "9 सेमी", "10 सेमी", "11 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two tanks are connected by a pipe. First tank is a cylinder of radius 6 m and height 12 m, second is a hemisphere of radius 6 m. If first tank is full and water flows to second tank at 2 m³/min, in how many minutes will second tank be full?",
+            "hindi": "दो टंकियाँ एक पाइप से जुड़ी हैं। पहली टंकी 6 मीटर त्रिज्या और 12 मीटर ऊंचाई का बेलन है, दूसरी 6 मीटर त्रिज्या का अर्धगोला है। यदि पहली टंकी भरी है और पानी दूसरी टंकी में 2 मी³/मिनट की दर से बहता है, तो दूसरी टंकी कितने मिनट में भरेगी?"
+        },
+        "option": {
+            "english": ["113 min", "123 min", "133 min", "143 min"],
+            "hindi": ["113 मिनट", "123 मिनट", "133 मिनट", "143 मिनट"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid toy is made by joining two cones of same base radius 5 cm but heights 12 cm and 8 cm at their bases. Find its curved surface area.",
+            "hindi": "एक ठोस खिलौना समान 5 सेमी आधार त्रिज्या परंतु 12 सेमी और 8 सेमी ऊंचाई वाले दो शंकुओं को उनके आधार पर जोड़कर बनाया गया है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["424 cm²", "434 cm²", "444 cm²", "454 cm²"],
+            "hindi": ["424 सेमी²", "434 सेमी²", "444 सेमी²", "454 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In a right-angled triangle, the square of the hypotenuse is equal to the _______ of the squares of the other two sides.",
+            "hindi": "एक समकोण त्रिभुज में, कर्ण का वर्ग अन्य दो भुजाओं के वर्गों के _______ के बराबर होता है।"
+        },
+        "option": {
+            "english": ["difference", "product", "ratio", "sum"],
+            "hindi": ["अंतर", "गुणनफल", "अनुपात", "योग"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which theorem states that if a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side?",
+            "hindi": "कौन सा प्रमेय कहता है कि यदि कोई रेखा त्रिभुज की किन्हीं दो भुजाओं को समान अनुपात में विभाजित करती है, तो वह रेखा तीसरी भुजा के समानांतर होती है?"
+        },
+        "option": {
+            "english": ["Basic Proportionality Theorem", "Converse of Basic Proportionality Theorem", "Pythagoras Theorem", "Angle Bisector Theorem"],
+            "hindi": ["आधारभूत समानुपातिकता प्रमेय", "आधारभूत समानुपातिकता प्रमेय का विलोम", "पाइथागोरस प्रमेय", "कोण समद्विभाजक प्रमेय"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in two triangles ABC and PQR, AB/QR = BC/PR = CA/PQ, then:",
+            "hindi": "यदि दो त्रिभुजों ABC और PQR में, AB/QR = BC/PR = CA/PQ, तो:"
+        },
+        "option": {
+            "english": ["ΔPQR ~ ΔCAB", "ΔPQR ~ ΔABC", "ΔCBA ~ ΔPQR", "ΔBCA ~ ΔPQR"],
+            "hindi": ["ΔPQR ~ ΔCAB", "ΔPQR ~ ΔABC", "ΔCBA ~ ΔPQR", "ΔBCA ~ ΔPQR"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠ADE = ∠ABC, and AD = 3 cm, AE = 4 cm, DB = 5 cm then  CE is equal to:",
+            "hindi": "दिए गए चित्र में, यदि ∠ADE = ∠ABC, और AD = 3 cm, AE = 4 cm, DB = 5 cm तो CE बराबर है:"
+        },
+        "option": {
+            "english": ["16/3 cm", "25/3 cm", "16/5 cm", "5 cm"],
+            "hindi": ["16/3 सेमी", "25/3 सेमी", "16/5 सेमी", "5 सेमी"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='125' y1='70' x2='225' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='115' y='65'>D</text><text x='230' y='65'>E</text><text x='100' y='90'>3</text><text x='245' y='90'>x</text><text x='190' y='60'>4</text><text x='90' y='110'>5</text><line x1='125' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='225' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='125' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='225' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔQRP, ar(ΔABC)/ar(ΔQRP) = 9/4, AB = 18 cm and BC = 15 cm, then PR is equal to:",
+            "hindi": "यदि ΔABC ~ ΔQRP, ar(ΔABC)/ar(ΔQRP) = 9/4, AB = 18 सेमी और BC = 15 सेमी, तो PR बराबर है:"
+        },
+        "option": {
+            "english": ["10 cm", "12 cm", "20/3 cm", "8 cm"],
+            "hindi": ["10 सेमी", "12 सेमी", "20/3 सेमी", "8 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Diagonals of a trapezium PQRS intersect each other at the point O, PQ || RS and PQ = 3 RS. Then the ratio of areas of triangles POQ and ROS is:",
+            "hindi": "एक समलंब PQRS के विकर्ण एक दूसरे को बिंदु O पर प्रतिच्छेद करते हैं, PQ || RS और PQ = 3 RS है। तो त्रिभुज POQ और ROS के क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["9:1", "1:9", "3:1", "1:3"],
+            "hindi": ["9:1", "1:9", "3:1", "1:3"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='250' y2='50' stroke='black'/><line x1='75' y1='120' x2='275' y2='120' stroke='black'/><line x1='100' y1='50' x2='75' y2='120' stroke='black'/><line x1='250' y1='50' x2='275' y2='120' stroke='black'/><text x='90' y='45'>P</text><text x='255' y='45'>Q</text><text x='65' y='125'>R</text><text x='280' y='125'>S</text><text x='175' y='75'>O</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC and AD/DB = 3/2, AC = 6.6 cm, then AE is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC और AD/DB = 3/2, AC = 6.6 सेमी, तो AE बराबर है:"
+        },
+        "option": {
+            "english": ["2.1 cm", "3.96 cm", "4.1 cm", "5.1 cm"],
+            "hindi": ["2.1 सेमी", "3.96 सेमी", "4.1 सेमी", "5.1 सेमी"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 100,130 250,130' stroke='black' fill='none'/><line x1='145' y1='70' x2='205' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='90' y='140'>B</text><text x='255' y='140'>C</text><text x='135' y='65'>D</text><text x='210' y='65'>E</text><text x='125' y='95'>3</text><text x='155' y='110'>2</text><text x='200' y='55'>x</text><text x='240' y='85'>6.6</text><line x1='145' y1='70' x2='90' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='205' y1='70' x2='260' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "It is given that ΔABC ~ ΔPQR, with BC/QR = 1/4. Then ar(ΔPRQ)/ar(ΔBCA) is equal to:",
+            "hindi": "यह दिया गया है कि ΔABC ~ ΔPQR, BC/QR = 1/4 के साथ। तो ar(ΔPRQ)/ar(ΔBCA) बराबर है:"
+        },
+        "option": {
+            "english": ["4", "1/4", "16", "1/16"],
+            "hindi": ["4", "1/4", "16", "1/16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A ladder is placed against a wall such that its foot is at a distance of 2.5 m from the wall and its top reaches a window 6 m above the ground. Find the length of the ladder.",
+            "hindi": "एक सीढ़ी को एक दीवार के सहारे इस प्रकार रखा गया है कि उसका निचला सिरा दीवार से 2.5 मीटर की दूरी पर है और उसका ऊपरी सिरा जमीन से 6 मीटर ऊपर एक खिड़की तक पहुँचता है। सीढ़ी की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6.5 m", "7 m", "7.5 m", "5.5 m"],
+            "hindi": ["6.5 मीटर", "7 मीटर", "7.5 मीटर", "5.5 मीटर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In an equilateral triangle ABC, if AD is perpendicular to BC, then 4AD² is equal to:",
+            "hindi": "एक समबाहु त्रिभुज ABC में, यदि AD, BC पर लंब है, तो 4AD² बराबर है:"
+        },
+        "option": {
+            "english": ["3AB²", "2CD²", "4CD²", "CD²"],
+            "hindi": ["3AB²", "2CD²", "4CD²", "CD²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

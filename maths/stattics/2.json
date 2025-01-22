@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the median of the following data set: 2, 5, 1, 8, 9?",
+            "hindi": "निम्नलिखित डेटा सेट की माध्यिका क्या है: 2, 5, 1, 8, 9?"
+        },
+        "option": {
+            "english": ["2", "8", "9", "5"],
+            "hindi": ["2", "8", "9", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the mean of five observations x, x + 2, x + 4, x + 6, x + 8 is 11, then the value of x is:",
+            "hindi": "यदि पाँच अवलोकनों x, x + 2, x + 4, x + 6, x + 8 का माध्य 11 है, तो x का मान है:"
+        },
+        "option": {
+            "english": ["5", "7", "9", "11"],
+            "hindi": ["5", "7", "9", "11"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mode of a data set is the:",
+            "hindi": "डेटा सेट का बहुलक वह _____ होता है:"
+        },
+        "option": {
+            "english": ["most frequent value", "middle value", "average value", "largest value"],
+            "hindi": ["सबसे अधिक बारंबारता वाला मान", "मध्य मान", "औसत मान", "सबसे बड़ा मान"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the mean of the first 10 prime numbers.",
+            "hindi": "पहले 10 अभाज्य संख्याओं का माध्य ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["11.9", "12.9", "13.9", "14.9"],
+            "hindi": ["11.9", "12.9", "13.9", "14.9"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the cumulative frequency of the class interval 20-30 in the following distribution?Class Interval: 0-10, 10-20, 20-30, 30-40.Frequency: 5, 8, 12, 10",
+            "hindi": "निम्नलिखित वितरण में वर्ग अंतराल 20-30 की संचयी बारंबारता क्या है?\nवर्ग अंतराल: 0-10, 10-20, 20-30, 30-40\nबारंबारता: 5, 8, 12, 10"
+        },
+        "option": {
+            "english": ["12", "15", "20", "25"],
+            "hindi": ["12", "15", "20", "25"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 25 observations was found to be 78.4. But later on, it was found that 96 was misread as 69. The correct mean is:",
+            "hindi": "25 अवलोकनों का माध्य 78.4 पाया गया। लेकिन बाद में, यह पाया गया कि 96 को गलती से 69 पढ़ लिया गया था। सही माध्य है:"
+        },
+        "option": {
+            "english": ["79.48", "80.48", "81.48", "82.48"],
+            "hindi": ["79.48", "80.48", "81.48", "82.48"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the median class of the following distribution:Class Interval: 0-10, 10-20, 20-30, 30-40, 40-50.Frequency: 4, 6, 10, 8, 5",
+            "hindi": "निम्नलिखित वितरण का माध्यिका वर्ग ज्ञात कीजिए:\nवर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50\nबारंबारता: 4, 6, 10, 8, 5"
+        },
+        "option": {
+            "english": ["10-20", "20-30", "30-40", "40-50"],
+            "hindi": ["10-20", "20-30", "30-40", "40-50"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the 'less than' type ogive and 'more than' type ogive intersect each other at (20.5, 15.5), then the median of the given data is:",
+            "hindi": "यदि 'से कम' प्रकार का तोरण और 'से अधिक' प्रकार का तोरण एक दूसरे को (20.5, 15.5) पर प्रतिच्छेद करते हैं, तो दिए गए डेटा का माध्यिका है:"
+        },
+        "option": {
+            "english": ["5.5", "15.5", "20.5", "36"],
+            "hindi": ["5.5", "15.5", "20.5", "36"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 20 numbers is 18. If 2 is added to each number, what is the new mean?",
+            "hindi": "20 संख्याओं का माध्य 18 है। यदि प्रत्येक संख्या में 2 जोड़ा जाता है, तो नया माध्य क्या है?"
+        },
+        "option": {
+            "english": ["18", "19", "36", "20"],
+            "hindi": ["18", "19", "36", "20"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The median of a set of 9 distinct observations is 20.5. If each of the largest 4 observations of the set is increased by 2, then the median of the new set:",
+            "hindi": "9 अलग-अलग अवलोकनों के एक सेट का माध्यिका 20.5 है। यदि सेट के सबसे बड़े 4 अवलोकनों में से प्रत्येक में 2 की वृद्धि की जाती है, तो नए सेट का माध्यिका:"
+        },
+        "option": {
+            "english": ["Remains the same as that of the original set", "Is increased by 2", "Is decreased by 2", "Is two times the original median"],
+            "hindi": ["मूल सेट के समान ही रहता है", "2 बढ़ जाता है", "2 घट जाता है", "मूल माध्यिका का दोगुना है"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The graph of a linear equation in two variables is always a:",
+            "hindi": "दो चरों वाले रैखिक समीकरण का आलेख हमेशा होता है:"
+        },
+        "option": {
+            "english": ["circle", "curve", "straight line", "parabola"],
+            "hindi": ["वृत्त", "वक्र", "सीधी रेखा", "परवलय"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is a linear equation in two variables?",
+            "hindi": "निम्नलिखित में से कौन सा दो चरों वाला रैखिक समीकरण है?"
+        },
+        "option": {
+            "english": ["2x - 3 = 0", "x² + y = 5", "x + y = 7", "xyz = 4"],
+            "hindi": ["2x - 3 = 0", "x² + y = 5", "x + y = 7", "xyz = 4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The point (0, -5) lies on the graph of which equation?",
+            "hindi": "बिंदु (0, -5) किस समीकरण के आलेख पर स्थित है?"
+        },
+        "option": {
+            "english": ["x + y = 5", "y = -5", "x = -5", "x - y = 5"],
+            "hindi": ["x + y = 5", "y = -5", "x = -5", "x - y = 5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For the equation 2x - y = 6, if x = 2, then what is the value of y?",
+            "hindi": "समीकरण 2x - y = 6 के लिए, यदि x = 2 है, तो y का मान क्या है?"
+        },
+        "option": {
+            "english": ["-2", "0", "4", "-4"],
+            "hindi": ["-2", "0", "4", "-4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If x = 1, y = 2 is a solution of the equation ax + by = 5, and x = 2, y = 1 is a solution of the equation ax - by = 1, then what are the values of a and b?",
+            "hindi": "यदि x = 1, y = 2 समीकरण ax + by = 5 का हल है, और x = 2, y = 1 समीकरण ax - by = 1 का हल है, तो a और b के मान क्या हैं?"
+        },
+        "option": {
+            "english": ["a=1, b=2", "a=2, b=1", "a=3, b=1", "a=1, b=3"],
+            "hindi": ["a=1, b=2", "a=2, b=1", "a=3, b=1", "a=1, b=3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x: 3x + 2y = 7 and x - y = -1",
+            "hindi": "x के लिए हल करें: 3x + 2y = 7 और x - y = -1"
+        },
+        "option": {
+            "english": ["2", "1", "3", "4"],
+            "hindi": ["2", "1", "3", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the system of equations 2x + 3y = 7 and (a+b)x + (2a-b)y = 21 has infinitely many solutions, then:",
+            "hindi": "यदि समीकरणों की प्रणाली 2x + 3y = 7 और (a+b)x + (2a-b)y = 21 के अपरिमित रूप से अनेक हल हैं, तो:"
+        },
+        "option": {
+            "english": ["a = 5, b = 1", "a = 1, b = 5", "a = -1, b = 5", "a = 5, b = -1"],
+            "hindi": ["a = 5, b = 1", "a = 1, b = 5", "a = -1, b = 5", "a = 5, b = -1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of the digits of a two-digit number is 9. If 27 is subtracted from the number, its digits are reversed. Find the number.",
+            "hindi": "दो अंकों की एक संख्या के अंकों का योग 9 है। यदि संख्या में से 27 घटा दिया जाए, तो उसके अंक उलट जाते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["54", "45", "72", "63"],
+            "hindi": ["54", "45", "72", "63"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Rohan's mother is 26 years older than him. The product of their ages 3 years from now will be 360. Find Rohan's present age.",
+            "hindi": "रोहन की माँ उससे 26 वर्ष बड़ी हैं। अब से 3 वर्ष बाद उनकी आयु का गुणनफल 360 होगा। रोहन की वर्तमान आयु ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8 years", "10 years", "7 years", "9 years"],
+            "hindi": ["8 वर्ष", "10 वर्ष", "7 वर्ष", "9 वर्ष"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A boat can travel 20 km downstream in 2 hours and the same distance upstream in 5 hours. What is the speed of the boat in still water?",
+            "hindi": "एक नाव धारा के अनुकूल 20 किमी की दूरी 2 घंटे में तय कर सकती है और धारा के प्रतिकूल समान दूरी 5 घंटे में तय कर सकती है। शांत जल में नाव की गति क्या है?"
+        },
+        "option": {
+            "english": ["8 km/hr", "7 km/hr", "6 km/hr", "9 km/hr"],
+            "hindi": ["8 किमी/घंटा", "7 किमी/घंटा", "6 किमी/घंटा", "9 किमी/घंटा"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

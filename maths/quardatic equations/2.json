@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If the roots of x² - 2x + k = 0 differ by 6, then k equals:",
+            "hindi": "यदि x² - 2x + k = 0 के मूलों का अंतर 6 है, तो k बराबर है:"
+        },
+        "option": {
+            "english": ["7", "8", "9", "10"],
+            "hindi": ["7", "8", "9", "10"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The number of quadratic equations having 2 + √3 as a root is:",
+            "hindi": "2 + √3 को एक मूल के रूप में रखने वाले द्विघात समीकरणों की संख्या है:"
+        },
+        "option": {
+            "english": ["0", "Infinitely many", "1", "2"],
+            "hindi": ["0", "अनंत", "1", "2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of p will x² + 2px + 16 = 0 have real and equal roots?",
+            "hindi": "p के किस मान के लिए x² + 2px + 16 = 0 के वास्तविक और बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±4", "±8", "±2", "±6"],
+            "hindi": ["±4", "±8", "±2", "±6"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + mx + 6 = 0 is twice the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 = 0 का एक मूल दूसरे का दोगुना है, तो m बराबर है:"
+        },
+        "option": {
+            "english": ["-3", "-4", "-6", "-5"],
+            "hindi": ["-3", "-4", "-6", "-5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The roots of x² - 8x + 15 = 0 are:",
+            "hindi": "x² - 8x + 15 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["2,6", "3,4", "3,5", "5,3"],
+            "hindi": ["2,6", "3,4", "3,5", "5,3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are the roots of x² - 5x + 6 = 0, then α² + β² equals:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": ["25", "13", "17", "21"],
+            "hindi": ["25", "13", "17", "21"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation whose roots are reciprocals of the roots of x² - 6x + 4 = 0 is:",
+            "hindi": "वह द्विघात समीकरण जिसके मूल x² - 6x + 4 = 0 के मूलों के व्युत्क्रम हैं:"
+        },
+        "option": {
+            "english": ["4x² - 6x + 1 = 0", "x² - 6x + 4 = 0", "x² + 6x + 4 = 0", "4x² + 6x + 1 = 0"],
+            "hindi": ["4x² - 6x + 1 = 0", "x² - 6x + 4 = 0", "x² + 6x + 4 = 0", "4x² + 6x + 1 = 0"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are the roots of x² + px + q = 0, then (α + 1)(β + 1) equals:",
+            "hindi": "यदि α और β, x² + px + q = 0 के मूल हैं, तो (α + 1)(β + 1) बराबर है:"
+        },
+        "option": {
+            "english": ["q - p + 1", "q + p + 1", "1 + q", "p + q"],
+            "hindi": ["q - p + 1", "q + p + 1", "1 + q", "p + q"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the equation x² + 2x + k = 0 has real and distinct roots, then k must be:",
+            "hindi": "यदि समीकरण x² + 2x + k = 0 के वास्तविक और भिन्न मूल हैं, तो k होना चाहिए:"
+        },
+        "option": {
+            "english": ["k > 1", "k = 1", "k < 1", "k ≥ 1"],
+            "hindi": ["k > 1", "k = 1", "k < 1", "k ≥ 1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The condition for x² + px + q = 0 to have roots with equal magnitude but opposite signs is:",
+            "hindi": "x² + px + q = 0 के मूलों का परिमाण बराबर लेकिन विपरीत चिह्न होने की शर्त है:"
+        },
+        "option": {
+            "english": ["p = 0", "q = 0", "p² = 4q", "p = q"],
+            "hindi": ["p = 0", "q = 0", "p² = 4q", "p = q"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

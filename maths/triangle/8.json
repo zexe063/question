@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AE = 8 cm, EC = 2 cm and BC = 6 cm, then DE is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AE = 8 सेमी, EC = 2 सेमी और BC = 6 सेमी, तो DE बराबर है:"
+        },
+        "option": {
+            "english": ["6 cm", "5 cm", "3 cm", "4.8 cm"],
+            "hindi": ["6 सेमी", "5 सेमी", "3 सेमी", "4.8 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='190' y='55'>8</text><text x='235' y='90'>2</text><text x='160' y='135'>6</text><text x='160' y='60'>x</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠A = ∠D, then which similarity criterion can be used to prove that the two triangles are similar?",
+            "hindi": "दिए गए चित्र में, यदि ∠A = ∠D, तो कौन सी समरूपता कसौटी का उपयोग यह सिद्ध करने के लिए किया जा सकता है कि दोनों त्रिभुज समरूप हैं?"
+        },
+        "option": {
+            "english": ["SSS", "SAS", "AA", "ASA"],
+            "hindi": ["SSS", "SAS", "AA", "ASA"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='50,30 150,130 25,130' stroke='black' fill='none'/><polygon points='250,30 350,130 200,130' stroke='black' fill='none'/><text x='45' y='25'>A</text><text x='15' y='135'>B</text><text x='155' y='135'>C</text><text x='245' y='25'>D</text><text x='195' y='135'>E</text><text x='355' y='135'>F</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a line is drawn parallel to one side of a triangle intersecting the other two sides, then the other two sides are divided in the same ratio. This is known as:",
+            "hindi": "यदि किसी त्रिभुज की एक भुजा के समानांतर एक रेखा खींची जाए जो अन्य दो भुजाओं को प्रतिच्छेद करती है, तो अन्य दो भुजाएँ समान अनुपात में विभाजित होती हैं। यह कहलाता है:"
+        },
+        "option": {
+            "english": ["Basic Proportionality Theorem", "Converse of Basic Proportionality Theorem", "Pythagoras Theorem", "Angle Bisector Theorem"],
+            "hindi": ["आधारभूत समानुपातिकता प्रमेय", "आधारभूत समानुपातिकता प्रमेय का विलोम", "पाइथागोरस प्रमेय", "कोण समद्विभाजक प्रमेय"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AB || CD, OA = 2x + 4, OB = 9, OC = x + 3, and OD = 6, find x.",
+            "hindi": "दिए गए चित्र में, यदि AB || CD, OA = 2x + 4, OB = 9, OC = x + 3, और OD = 6, तो x ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5", "6", "8", "9"],
+            "hindi": ["5", "6", "8", "9"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='250' y2='120' stroke='black'/><line x1='100' y1='120' x2='250' y2='50' stroke='black'/><line x1='100' y1='50' x2='150' y2='50' stroke='black'/><line x1='250' y1='50' x2='300' y2='50' stroke='black'/><text x='90' y='45'>A</text><text x='155' y='45'>B</text><text x='240' y='45'>C</text><text x='305' y='45'>D</text><text x='175' y='85'>O</text><text x='110' y='40'>2x+4</text><text x='260' y='40'>x+3</text><text x='165' y='60'>9</text><text x='210' y='70'>6</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of the areas of two similar triangles is 16:25. What is the ratio of their corresponding altitudes?",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 16:25 है। उनकी संगत ऊँचाइयों का अनुपात क्या है?"
+        },
+        "option": {
+            "english": ["5:4", "25:16", "64:125", "4:5"],
+            "hindi": ["5:4", "25:16", "64:125", "4:5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD = 4 cm, DB = 6 cm and AE = 5 cm, then EC is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD = 4 सेमी, DB = 6 सेमी और AE = 5 सेमी, तो EC बराबर है:"
+        },
+        "option": {
+            "english": ["7.5 cm", "8 cm", "9 cm", "10 cm"],
+            "hindi": ["7.5 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='100' y='90'>4</text><text x='100' y='110'>6</text><text x='190' y='60'>5</text><text x='235' y='90'>x</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔPQR such that ar(ΔABC) = 4 * ar(ΔPQR). If BC = 12 cm, then QR is equal to:",
+            "hindi": "यदि ΔABC ~ ΔPQR इस प्रकार है कि ar(ΔABC) = 4 * ar(ΔPQR)। यदि BC = 12 सेमी, तो QR बराबर है:"
+        },
+        "option": {
+            "english": ["8 cm", "10 cm", "6 cm", "9 cm"],
+            "hindi": ["8 सेमी", "10 सेमी", "6 सेमी", "9 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an isosceles triangle ABC, if AB = AC = 10 cm and BC = 12 cm, then the length of the altitude from A to BC is:",
+            "hindi": "एक समद्विबाहु त्रिभुज ABC में, यदि AB = AC = 10 सेमी और BC = 12 सेमी, तो A से BC तक की ऊँचाई की लंबाई है:"
+        },
+        "option": {
+            "english": ["6 cm", "8 cm", "9 cm", "10 cm"],
+            "hindi": ["6 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man goes 15 m due east and then 20 m due north. How far is he from the starting point?",
+            "hindi": "एक आदमी 15 मीटर पूर्व की ओर जाता है और फिर 20 मीटर उत्तर की ओर जाता है। वह शुरुआती बिंदु से कितनी दूर है?"
+        },
+        "option": {
+            "english": ["15 m", "20 m", "35 m", "25 m"],
+            "hindi": ["15 मीटर", "20 मीटर", "35 मीटर", "25 मीटर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The areas of two similar triangles are 144 cm² and 81 cm². If one median of the first triangle is 16 cm, find the corresponding median of the other.",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफल 144 वर्ग सेमी और 81 वर्ग सेमी हैं। यदि पहले त्रिभुज की एक माध्यिका 16 सेमी है, तो दूसरे त्रिभुज की संगत माध्यिका ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9 cm", "18 cm", "15 cm", "12 cm"],
+            "hindi": ["9 सेमी", "18 सेमी", "15 सेमी", "12 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

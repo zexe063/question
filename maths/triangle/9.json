@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD = 2.5 cm, DB = 3.5 cm and AE = 2 cm, then AC is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD = 2.5 सेमी, DB = 3.5 सेमी और AE = 2 सेमी, तो AC बराबर है:"
+        },
+        "option": {
+            "english": ["4.8 cm", "5.6 cm", "6.4 cm", "7.2 cm"],
+            "hindi": ["4.8 सेमी", "5.6 सेमी", "6.4 सेमी", "7.2 सेमी"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='130' y1='70' x2='220' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='120' y='65'>D</text><text x='225' y='65'>E</text><text x='100' y='90'>2.5</text><text x='90' y='110'>3.5</text><text x='180' y='60'>2</text><text x='245' y='90'>x</text><line x1='130' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='220' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is NOT a similarity criterion for two triangles?",
+            "hindi": "निम्नलिखित में से कौन दो त्रिभुजों की समरूपता के लिए एक कसौटी नहीं है?"
+        },
+        "option": {
+            "english": ["AA", "SAS", "SSS", "SSA"],
+            "hindi": ["AA", "SAS", "SSS", "SSA"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠A = ∠D, then which similarity criterion can be used to prove that the two triangles are similar?",
+            "hindi": "दिए गए चित्र में, यदि ∠A = ∠D, तो कौन सी समरूपता कसौटी का उपयोग यह सिद्ध करने के लिए किया जा सकता है कि दोनों त्रिभुज समरूप हैं?"
+        },
+        "option": {
+            "english": ["SSS", "SAS", "AA", "ASA"],
+            "hindi": ["SSS", "SAS", "AA", "ASA"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='50,30 150,130 25,130' stroke='black' fill='none'/><polygon points='250,30 350,130 200,130' stroke='black' fill='none'/><text x='45' y='25'>A</text><text x='15' y='135'>B</text><text x='155' y='135'>C</text><text x='245' y='25'>D</text><text x='195' y='135'>E</text><text x='355' y='135'>F</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔDEF, AB = 4 cm, DE = 6 cm, BC = 9 cm and FD = 12 cm, then the perimeter of ΔABC is:",
+            "hindi": "यदि ΔABC ~ ΔDEF, AB = 4 सेमी, DE = 6 सेमी, BC = 9 सेमी और FD = 12 सेमी, तो ΔABC का परिमाप है:"
+        },
+        "option": {
+            "english": ["18 cm", "20 cm", "21 cm", "22 cm"],
+            "hindi": ["18 सेमी", "20 सेमी", "21 सेमी", "22 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD = x, DB = x - 2, AE = x + 2 and EC = x - 1, then the value of x is:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD = x, DB = x - 2, AE = x + 2 और EC = x - 1, तो x का मान है:"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='125' y='95'>x</text><text x='100' y='115'>x-2</text><text x='190' y='50'>x+2</text><text x='235' y='90'>x-1</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of the corresponding medians of two similar triangles is 4:9, then the ratio of their areas is:",
+            "hindi": "यदि दो समरूप त्रिभुजों की संगत माध्यिकाओं का अनुपात 4:9 है, तो उनके क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["2:3", "3:2", "16:81", "81:16"],
+            "hindi": ["2:3", "3:2", "16:81", "81:16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if LM || CB and LN || CD, then AM/AB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि LM || CB और LN || CD, तो AM/AB बराबर है:"
+        },
+        "option": {
+            "english": ["AN/NL", "AN/AD", "AL/LC", "AM/AN"],
+            "hindi": ["AN/NL", "AN/AD", "AL/LC", "AM/AN"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='87.5' y='25' width='175' height='100' stroke='black' fill='none'/><line x1='87.5' y1='25' x2='262.5' y2='125' stroke='black'/><line x1='131.25' y1='50' x2='218.75' y2='50' stroke='black'/><line x1='175' y1='75' x2='218.75' y2='75' stroke='black'/><text x='82.5' y='20'>A</text><text x='267.5' y='130'>D</text><text x='82.5' y='130'>B</text><text x='267.5' y='20'>C</text><text x='126.25' y='45'>L</text><text x='223.75' y='45'>M</text><text x='170' y='70'>N</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In ΔABC, if AB = 6 cm, BC = 12 cm and CA = 6√3 cm, then the measure of ∠A is:",
+            "hindi": "ΔABC में, यदि AB = 6 सेमी, BC = 12 सेमी और CA = 6√3 सेमी, तो ∠A का माप है:"
+        },
+        "option": {
+            "english": ["90°", "60°", "45°", "30°"],
+            "hindi": ["90°", "60°", "45°", "30°"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In a right-angled triangle ABC, right-angled at B, if P and Q are points on the sides AB and AC respectively, then:",
+            "hindi": "एक समकोण त्रिभुज ABC में, जो B पर समकोण है, यदि P और Q क्रमशः भुजा AB और AC पर बिंदु हैं, तो:"
+        },
+        "option": {
+            "english": ["AQ² + CP² = AC² + PQ²", "AQ² + CP² = 2(AC² + PQ²)", "2(AQ² + CP²) = AC² + PQ²", "AQ + CP = 1/2(AC + PQ)"],
+            "hindi": ["AQ² + CP² = AC² + PQ²", "AQ² + CP² = 2(AC² + PQ²)", "2(AQ² + CP²) = AC² + PQ²", "AQ + CP = 1/2(AC + PQ)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The lengths of the diagonals of a rhombus are 30 cm and 40 cm. Find the side of the rhombus.",
+            "hindi": "एक समचतुर्भुज के विकर्णों की लंबाई 30 सेमी और 40 सेमी है। समचतुर्भुज की भुजा ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["20 cm", "35 cm", "25 cm", "30 cm"],
+            "hindi": ["20 सेमी", "35 सेमी", "25 सेमी", "30 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

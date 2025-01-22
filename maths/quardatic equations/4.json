@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If the equation x² + ax + b = 0 has sum of roots = 3 and product of roots = 2, then (a,b) is:",
+            "hindi": "यदि समीकरण x² + ax + b = 0 के मूलों का योग = 3 और गुणनफल = 2 है, तो (a,b) है:"
+        },
+        "option": {
+            "english": ["(3,2)", "(-3,2)", "(-3,-2)", "(-2,3)"],
+            "hindi": ["(3,2)", "(-3,2)", "(-3,-2)", "(-2,3)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation whose roots are squares of the roots of x² - 5x + 6 = 0 is:",
+            "hindi": "वह द्विघात समीकरण जिसके मूल x² - 5x + 6 = 0 के मूलों के वर्ग हैं:"
+        },
+        "option": {
+            "english": ["x² - 13x + 36 = 0", "x² - 25x + 36 = 0", "x² - 25x + 144 = 0", "x² - 13x + 144 = 0"],
+            "hindi": ["x² - 13x + 36 = 0", "x² - 25x + 36 = 0", "x² - 25x + 144 = 0", "x² - 13x + 144 = 0"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will the roots of x² - kx + 1 = 0 be reciprocals of each other?",
+            "hindi": "k के किस मान के लिए x² - kx + 1 = 0 के मूल एक दूसरे के व्युत्क्रम होंगे?"
+        },
+        "option": {
+            "english": ["Any value", "0", "2", "1"],
+            "hindi": ["कोई भी मान", "0", "2", "1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are the roots of x² - 7x + 12 = 0, then α²β + αβ² equals:",
+            "hindi": "यदि α और β, x² - 7x + 12 = 0 के मूल हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": ["84", "72", "60", "96"],
+            "hindi": ["84", "72", "60", "96"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The condition for x² + mx + n = 0 to represent a perfect square is:",
+            "hindi": "x² + mx + n = 0 के एक पूर्ण वर्ग होने की शर्त है:"
+        },
+        "option": {
+            "english": ["m = 2n", "m² = 4n", "m = n²", "m² = n"],
+            "hindi": ["m = 2n", "m² = 4n", "m = n²", "m² = n"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + px + q = 0 is thrice the other, then:",
+            "hindi": "यदि x² + px + q = 0 का एक मूल दूसरे का तिगुना है, तो:"
+        },
+        "option": {
+            "english": ["9q = p²", "3q = p²", "p² = q", "p = 3q"],
+            "hindi": ["9q = p²", "3q = p²", "p² = q", "p = 3q"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The equation x² + 2(a+1)x + (a²+2a) = 0 has equal roots if a equals:",
+            "hindi": "समीकरण x² + 2(a+1)x + (a²+2a) = 0 के बराबर मूल हैं यदि a बराबर है:"
+        },
+        "option": {
+            "english": ["0", "-1", "-2", "1"],
+            "hindi": ["0", "-1", "-2", "1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 6x + 9 = 0, then (α - 1)²(β - 1)² equals:",
+            "hindi": "यदि α और β, x² - 6x + 9 = 0 के मूल हैं, तो (α - 1)²(β - 1)² बराबर है:"
+        },
+        "option": {
+            "english": ["16", "25", "36", "49"],
+            "hindi": ["16", "25", "36", "49"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + px + q = 0, then the equation whose roots are (2α+3) and (2β+3) is:",
+            "hindi": "यदि α और β, x² + px + q = 0 के मूल हैं, तो वह समीकरण जिसके मूल (2α+3) और (2β+3) हैं:"
+        },
+        "option": {
+            "english": ["x² + 2px + 4q = 0", "x² - 2px + 4q = 0", "x² + (2p)x + (4q+9) = 0", "x² - (2p)x + (4q+9) = 0"],
+            "hindi": ["x² + 2px + 4q = 0", "x² - 2px + 4q = 0", "x² + (2p)x + (4q+9) = 0", "x² - (2p)x + (4q+9) = 0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α, β are the roots of x² + x - 1 = 0, then the value of α³β + αβ³ is:",
+            "hindi": "यदि α, β, x² + x - 1 = 0 के मूल हैं, तो α³β + αβ³ का मान है:"
+        },
+        "option": {
+            "english": ["2", "1", "0", "-1"],
+            "hindi": ["2", "1", "0", "-1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

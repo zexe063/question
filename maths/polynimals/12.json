@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If x + 2 is a factor of 2x³ + ax² - 18, then a equals:",
+            "hindi": "यदि x + 2, 2x³ + ax² - 18 का एक गुणनखंड है, तो a बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "hindi": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The sum of zeros of polynomial x² - 3x - 10 is:",
+            "hindi": "बहुपद x² - 3x - 10 के शून्यकों का योग है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² - 2x + k = 0 has real and distinct roots is:",
+            "hindi": "k का वह मान जिसके लिए x² - 2x + k = 0 के वास्तविक और भिन्न मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "k < 1",
+                "k > 1",
+                "k < 0",
+                "k > 2"
+            ],
+            "hindi": [
+                "k < 1",
+                "k > 1",
+                "k < 0",
+                "k > 2"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + 3x + 2, then (1/α + 1/β) equals:",
+            "hindi": "यदि α और β बहुपद x² + 3x + 2 के शून्यक हैं, तो (1/α + 1/β) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "-3/2",
+                "3/2",
+                "-2/3",
+                "2/3"
+            ],
+            "hindi": [
+                "-3/2",
+                "3/2",
+                "-2/3",
+                "2/3"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If x³ + px² + qx + r is divided by x - 1 and x + 2, remainder in each case is 12. Then r equals:",
+            "hindi": "यदि x³ + px² + qx + r को x - 1 और x + 2 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 12 है, तो r बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8",
+                "10",
+                "12",
+                "14"
+            ],
+            "hindi": [
+                "8",
+                "10",
+                "12",
+                "14"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If x - √3 is a factor of x³ - 2x² + ax - √3, then a equals:",
+            "hindi": "यदि x - √3, x³ - 2x² + ax - √3 का एक गुणनखंड है, तो a बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α³β + αβ³ = 16, α² + β² = 4, then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α³β + αβ³ = 16, α² + β² = 4, तो:"
+        },
+        "option": {
+            "english": [
+                "p = 3, q = 2",
+                "p = -3, q = 2",
+                "p = 3, q = -2",
+                "p = -3, q = -2"
+            ],
+            "hindi": [
+                "p = 3, q = 2",
+                "p = -3, q = 2",
+                "p = 3, q = -2",
+                "p = -3, q = -2"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 2x³ - 8x² + mx + n is divided by x² + 2x + 2, remainder is x + 1, then:",
+            "hindi": "यदि p(x) = x⁴ - 2x³ - 8x² + mx + n को x² + 2x + 2 से विभाजित करने पर शेषफल x + 1 है, तो:"
+        },
+        "option": {
+            "english": [
+                "m + n = 12",
+                "m - n = 12",
+                "m + n = 15",
+                "m - n = 15"
+            ],
+            "hindi": [
+                "m + n = 12",
+                "m - n = 12",
+                "m + n = 15",
+                "m - n = 15"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x³ + ax² + bx + c has x - 1 and x + 2 as factors and p(2) = 24, then:",
+            "hindi": "यदि p(x) = x³ + ax² + bx + c के x - 1 और x + 2 गुणनखंड हैं और p(2) = 24, तो:"
+        },
+        "option": {
+            "english": [
+                "a - b = 3",
+                "a + b = 3",
+                "a - b = 6",
+                "a + b = 6"
+            ],
+            "hindi": [
+                "a - b = 3",
+                "a + b = 3",
+                "a - b = 6",
+                "a + b = 6"
+            ]
+        },
+        "answer": 3,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + mx + n, and α⁴ + β⁴ = 50, αβ = 4, then m equals:",
+            "hindi": "यदि α और β बहुपद x² + mx + n के शून्यक हैं, और α⁴ + β⁴ = 50, αβ = 4, तो m बराबर है:"
+        },
+        "option": {
+            "english": [
+                "-3",
+                "-4",
+                "-5",
+                "-6"
+            ],
+            "hindi": [
+                "-3",
+                "-4",
+                "-5",
+                "-6"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    }
+]

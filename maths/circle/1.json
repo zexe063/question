@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the name of a line segment that connects two points on a circle?",
+            "hindi": "एक वृत्त पर दो बिंदुओं को जोड़ने वाले रेखाखंड का क्या नाम है?"
+        },
+        "option": {
+            "english": ["Tangent", "Chord", "Diameter", "Radius"],
+            "hindi": ["स्पर्शरेखा", "जीवा", "व्यास", "त्रिज्या"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "How many tangents can be drawn to a circle from an external point?",
+            "hindi": "किसी बाहरी बिंदु से एक वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?"
+        },
+        "option": {
+            "english": ["0", "1", "2", "Infinite"],
+            "hindi": ["0", "1", "2", "अनंत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The angle subtended by an arc at the center of a circle is _______ the angle subtended by it at any point on the remaining part of the circle.",
+            "hindi": "एक चाप द्वारा वृत्त के केंद्र पर अंतरित कोण, उसके द्वारा वृत्त के शेष भाग पर किसी भी बिंदु पर अंतरित कोण का _______ होता है।"
+        },
+        "option": {
+            "english": ["equal to", "half", "double", "triple"],
+            "hindi": ["बराबर", "आधा", "दोगुना", "तीन गुना"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, O is the center of the circle, and ∠OAB = 40°. Find ∠ACB.",
+            "hindi": "दिए गए चित्र में, O वृत्त का केंद्र है, और ∠OAB = 40° है। ∠ACB ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["30°", "45°", "60°", "50°"],
+            "hindi": ["30°", "45°", "60°", "50°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='175' y='125'>C</text><text x='140' y='50'>40°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A tangent to a circle is _______ to the radius through the point of contact.",
+            "hindi": "एक वृत्त की स्पर्शरेखा, स्पर्श बिंदु से गुजरने वाली त्रिज्या के _______ होती है।"
+        },
+        "option": {
+            "english": ["parallel", "perpendicular", "equal", "none of these"],
+            "hindi": ["समानांतर", "लंबवत", "बराबर", "इनमें से कोई नहीं"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, PA and PB are tangents to the circle with center O. If ∠APB = 60°, find ∠OAB.",
+            "hindi": "दिए गए चित्र में, PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ हैं। यदि ∠APB = 60°, तो ∠OAB ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["15°", "25°", "30°", "45°"],
+            "hindi": ["15°", "25°", "30°", "45°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>60°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If two tangents inclined at an angle of 60° are drawn to a circle of radius 3 cm, then the length of each tangent is:",
+            "hindi": "यदि 3 सेमी त्रिज्या वाले एक वृत्त पर 60° के कोण पर झुकी हुई दो स्पर्श रेखाएँ खींची जाती हैं, तो प्रत्येक स्पर्शरेखा की लंबाई है:"
+        },
+        "option": {
+            "english": ["3√3 cm", "3 cm", "6 cm", "3√2 cm"],
+            "hindi": ["3√3 सेमी", "3 सेमी", "6 सेमी", "3√2 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, PQ is a chord of a circle with center O and PT is a tangent. If ∠QPT = 60°, find ∠PRQ.",
+            "hindi": "दिए गए चित्र में, PQ केंद्र O वाले एक वृत्त की जीवा है और PT एक स्पर्श रेखा है। यदि ∠QPT = 60°, तो ∠PRQ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["105°", "115°", "120°", "150°"],
+            "hindi": ["105°", "115°", "120°", "150°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><line x1='225' y1='75' x2='260' y2='40' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>P</text><text x='230' y='70'>Q</text><text x='265' y='35'>T</text><text x='175' y='125'>R</text><text x='240' y='55'>60°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The length of the tangent from an external point A to a circle with center O is always:",
+            "hindi": "केंद्र O वाले एक वृत्त पर एक बाहरी बिंदु A से स्पर्शरेखा की लंबाई हमेशा होती है:"
+        },
+        "option": {
+            "english": ["equal to OA", "less than OA", "greater than OA", "cannot be determined"],
+            "hindi": ["OA के बराबर", "OA से कम", "OA से अधिक", "निर्धारित नहीं किया जा सकता"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 50°, then ∠OAB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 50°, तो ∠OAB बराबर है:"
+        },
+        "option": {
+            "english": ["25°", "30°", "40°", "50°"],
+            "hindi": ["25°", "30°", "40°", "50°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>50°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "hard"
+    }
+]

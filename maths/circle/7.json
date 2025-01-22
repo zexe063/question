@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 40°, then ∠OAB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 40°, तो ∠OAB बराबर है:"
+        },
+        "option": {
+            "english": ["40°", "30°", "20°", "15°"],
+            "hindi": ["40°", "30°", "20°", "15°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>40°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A tangent to a circle intersects the circle at:",
+            "hindi": "एक वृत्त की स्पर्शरेखा वृत्त को प्रतिच्छेद करती है:"
+        },
+        "option": {
+            "english": ["One point", "Two points", "Three points", "No point"],
+            "hindi": ["एक बिंदु", "दो बिंदु", "तीन बिंदु", "कोई बिंदु नहीं"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the measure of an angle in a semicircle?",
+            "hindi": "एक अर्धवृत्त में कोण का माप क्या है?"
+        },
+        "option": {
+            "english": ["45°", "90°", "60°", "180°"],
+            "hindi": ["45°", "90°", "60°", "180°"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠AOB = 125°, then ∠COD is equal to:",
+            "hindi": "दिए गए चित्र में, यदि ∠AOB = 125°, तो ∠COD बराबर है:"
+        },
+        "option": {
+            "english": ["125°", "62.5°", "55°", "55°"],
+            "hindi": ["125°", "62.5°", "55°", "55°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='175' y2='125' stroke='black'/><line x1='225' y1='75' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='170' y='50'>125°</text><text x='160' y='100'>D</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If two circles intersect at points A and B, and a line passing through A meets the circles at P and Q respectively, then the ratio AP:AQ is:",
+            "hindi": "यदि दो वृत्त बिंदु A और B पर प्रतिच्छेद करते हैं, और A से होकर जाने वाली एक रेखा वृत्तों को क्रमशः P और Q पर मिलती है, तो अनुपात AP:AQ है:"
+        },
+        "option": {
+            "english": ["constant", "variable", "equal", "undefined"],
+            "hindi": ["स्थिर", "परिवर्तनशील", "बराबर", "अपरिभाषित"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if APB is a tangent to the circle with center O, and ∠QPB = 60°, then ∠POQ is equal to:",
+            "hindi": "दिए गए चित्र में, यदि APB केंद्र O वाले वृत्त की स्पर्शरेखा है, और ∠QPB = 60°, तो ∠POQ बराबर है:"
+        },
+        "option": {
+            "english": ["100°", "120°", "130°", "150°"],
+            "hindi": ["100°", "120°", "130°", "150°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='75' stroke='black'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><line x1='225' y1='75' x2='260' y2='40' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>Q</text><text x='230' y='70'>P</text><text x='265' y='35'>B</text><text x='175' y='125'>A</text><text x='235' y='60'>60°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The distance between two parallel tangents to a circle of radius 5 cm is:",
+            "hindi": "5 सेमी त्रिज्या वाले एक वृत्त की दो समानांतर स्पर्शरेखाओं के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["10 cm", "5 cm", "8 cm", "12 cm"],
+            "hindi": ["10 सेमी", "5 सेमी", "8 सेमी", "12 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, a quadrilateral ABCD is drawn to circumscribe a circle. If AB = 12 cm, BC = 15 cm, and CD = 14 cm, then AD is equal to:",
+            "hindi": "दिए गए चित्र में, एक वृत्त को परिगत करने के लिए एक चतुर्भुज ABCD खींचा गया है। यदि AB = 12 सेमी, BC = 15 सेमी, और CD = 14 सेमी, तो AD बराबर है:"
+        },
+        "option": {
+            "english": ["10 cm", "11 cm", "12 cm", "13 cm"],
+            "hindi": ["10 सेमी", "11 सेमी", "12 सेमी", "13 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><polygon points='175,25 250,50 225,125 100,125' stroke='black' fill='none'/><text x='170' y='20'>O</text><text x='90' y='130'>A</text><text x='255' y='45'>B</text><text x='230' y='130'>C</text><text x='160' y='130'>D</text><text x='125' y='135'>12</text><text x='250' y='90'>15</text><text x='190' y='135'>14</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If two tangents inclined at an angle of 60° are drawn to a circle of radius 3 cm from an external point P, then the length of each tangent is:",
+            "hindi": "यदि एक बाहरी बिंदु P से 3 सेमी त्रिज्या वाले एक वृत्त पर 60° के कोण पर झुकी हुई दो स्पर्श रेखाएँ खींची जाती हैं, तो प्रत्येक स्पर्शरेखा की लंबाई है:"
+        },
+        "option": {
+            "english": ["3 cm", "3√2 cm", "3√3 cm", "6 cm"],
+            "hindi": ["3 सेमी", "3√2 सेमी", "3√3 सेमी", "6 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "From a point P, the length of the tangent to a circle is 15 cm, and the distance of P from the center of the circle is 17 cm. Then the radius of the circle is:",
+            "hindi": "एक बिंदु P से, वृत्त पर स्पर्शरेखा की लंबाई 15 सेमी है, और P से वृत्त के केंद्र की दूरी 17 सेमी है। तो वृत्त की त्रिज्या है:"
+        },
+        "option": {
+            "english": ["2 cm", "8 cm", "10 cm", "12 cm"],
+            "hindi": ["2 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of the following is a rational number?",
+        "hindi": "निम्नलिखित में से कौन एक परिमेय संख्या है?"
+      },
+      "option": {
+        "english": [
+          "√2",
+          "√25",
+          "√3",
+          "π"
+        ],
+        "hindi": [
+          "√2",
+          "√25",
+          "√3",
+          "π"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The prime factorization of 84 is:",
+        "hindi": "84 का अभाज्य गुणनखंड है:"
+      },
+      "option": {
+        "english": [
+          "2 × 2 × 3 × 7",
+          "2² × 3 × 7",
+          "2 × 3 × 14",
+          "2 × 42"
+        ],
+        "hindi": [
+          "2 × 2 × 3 × 7",
+          "2² × 3 × 7",
+          "2 × 3 × 14",
+          "2 × 42"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If a number is divisible by both 3 and 4, it must be divisible by:",
+        "hindi": "यदि कोई संख्या 3 और 4 दोनों से विभाज्य है, तो वह अवश्य विभाज्य होगी:"
+      },
+      "option": {
+        "english": [
+          "7",
+          "12",
+          "6",
+          "8"
+        ],
+        "hindi": [
+          "7",
+          "12",
+          "6",
+          "8"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Every composite number can be expressed as:",
+        "hindi": "प्रत्येक भाज्य संख्या को व्यक्त किया जा सकता है:"
+      },
+      "option": {
+        "english": [
+          "Sum of two primes",
+          "Product of two numbers",
+          "Product of primes",
+          "Sum of three primes"
+        ],
+        "hindi": [
+          "दो अभाज्य संख्याओं का योग",
+          "दो संख्याओं का गुणनफल",
+          "अभाज्य संख्याओं का गुणनफल",
+          "तीन अभाज्य संख्याओं का योग"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The HCF of two consecutive numbers is always:",
+        "hindi": "दो क्रमागत संख्याओं का HCF हमेशा होता है:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "0",
+          "Their difference"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "0",
+          "उनका अंतर"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A rational number in the form p/q will have a terminating decimal expansion when q has factors of only:",
+        "hindi": "p/q रूप में एक परिमेय संख्या का दशमलव प्रसार अंत होगा जब q में केवल इनके गुणनखंड हों:"
+      },
+      "option": {
+        "english": [
+          "2 and 3",
+          "2 and 5",
+          "3 and 5",
+          "3 and 7"
+        ],
+        "hindi": [
+          "2 और 3",
+          "2 और 5",
+          "3 और 5",
+          "3 और 7"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The number of prime numbers between 1 and 20 is:",
+        "hindi": "1 और 20 के बीच अभाज्य संख्याओं की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "hindi": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which property of HCF is used in Euclid's division algorithm?",
+        "hindi": "यूक्लिड विभाजन एल्गोरिथ्म में HCF का कौन सा गुण प्रयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Commutative",
+          "Associative",
+          "Distributive",
+          "Division"
+        ],
+        "hindi": [
+          "क्रमविनिमेय",
+          "साहचर्य",
+          "वितरण",
+          "विभाजन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The LCM of two numbers is always:",
+        "hindi": "दो संख्याओं का LCM हमेशा होता है:"
+      },
+      "option": {
+        "english": [
+          "Less than their product",
+          "Equal to their product",
+          "Greater than their product",
+          "Multiple of their product"
+        ],
+        "hindi": [
+          "उनके गुणनफल से कम",
+          "उनके गुणनफल के बराबर",
+          "उनके गुणनफल से अधिक",
+          "उनके गुणनफल का गुणज"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If a and b are co-prime numbers, then HCF(a², b²) is:",
+        "hindi": "यदि a और b सह-अभाज्य संख्याएं हैं, तो HCF(a², b²) है:"
+      },
+      "option": {
+        "english": [
+          "0",
+          "1",
+          "2",
+          "4"
+        ],
+        "hindi": [
+          "0",
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

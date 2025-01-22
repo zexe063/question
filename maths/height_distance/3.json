@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "A kite is flying at a height of 60m above the ground. The string attached to the kite is temporarily held at an angle of 60° to the horizontal. Find the length of the string.",
+            "hindi": "एक पतंग भूमि से 60 मीटर की ऊंचाई पर उड़ रही है। पतंग से जुड़ी डोर क्षैतिज से 60° का कोण बनाती है। डोर की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "60 m",
+                "70 m",
+                "80 m",
+                "90 m"
+            ],
+            "hindi": [
+                "60 मीटर",
+                "70 मीटर",
+                "80 मीटर",
+                "90 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='40' stroke='black'/><line x1='50' y1='40' x2='150' y2='120' stroke='red'/><text x='30' y='80'>60m</text><text x='90' y='70'>x</text><text x='80' y='100'>60°</text><text x='40' y='35'>Kite</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "An airplane is flying at a height of 5000m. The angle of depression of a point on the ground viewed from the airplane is 45°. Find the distance of the point from the position directly below the airplane.",
+            "hindi": "एक हवाई जहाज 5000 मीटर की ऊंचाई पर उड़ रहा है। हवाई जहाज से देखे गए भूमि के एक बिंदु का अवनमन कोण 45° है। बिंदु की हवाई जहाज के ठीक नीचे के स्थान से दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "4000 m",
+                "4500 m",
+                "5000 m",
+                "5500 m"
+            ],
+            "hindi": [
+                "4000 मीटर",
+                "4500 मीटर",
+                "5000 मीटर",
+                "5500 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='150' y1='20' x2='250' y2='120' stroke='red'/><text x='160' y='70'>5000m</text><text x='180' y='100'>45°</text><text x='140' y='15'>✈</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hot air balloon is rising vertically at a constant speed. After 2 minutes, an observer on the ground spots it at an angle of elevation of 60°. If the balloon is rising at 30m/min, find its height at this moment.",
+            "hindi": "एक हॉट एयर बैलून एकसमान गति से ऊर्ध्वाधर दिशा में उठ रहा है। 2 मिनट बाद, भूमि पर खड़ा एक पर्यवेक्षक इसे 60° के उन्नयन कोण पर देखता है। यदि बैलून 30 मीटर/मिनट की गति से उठ रहा है, तो इस क्षण इसकी ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "30 m",
+                "45 m",
+                "52 m",
+                "60 m"
+            ],
+            "hindi": [
+                "30 मीटर",
+                "45 मीटर",
+                "52 मीटर",
+                "60 मीटर"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><text x='160' y='80'>h</text><text x='80' y='100'>60°</text><circle cx='150' cy='40' r='10' fill='none' stroke='black'/></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From a mountain peak, the angles of depression of two consecutive milestones on a straight road are 45° and 30°. If the height of the peak is 3000m, find the distance between the milestones.",
+            "hindi": "एक पर्वत शिखर से, एक सीधी सड़क पर स्थित दो क्रमागत मील के पत्थरों के अवनमन कोण 45° और 30° हैं। यदि शिखर की ऊंचाई 3000 मीटर है, तो मील के पत्थरों के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1000 m",
+                "1500 m",
+                "2000 m",
+                "2500 m"
+            ],
+            "hindi": [
+                "1000 मीटर",
+                "1500 मीटर",
+                "2000 मीटर",
+                "2500 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='100' y2='120' stroke='red'/><line x1='150' y1='20' x2='200' y2='120' stroke='blue'/><text x='160' y='70'>3000m</text><text x='120' y='50'>45°</text><text x='180' y='50'>30°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A drone is hovering at a height h meters above the ground. The angle of elevation of the drone from a point A on the ground is 60°. If point A is 20m away from the point directly below the drone, find h.",
+            "hindi": "एक ड्रोन भूमि से h मीटर की ऊंचाई पर मंडरा रहा है। भूमि पर स्थित बिंदु A से ड्रोन का उन्नयन कोण 60° है। यदि बिंदु A, ड्रोन के ठीक नीचे के बिंदु से 20 मीटर दूर है, तो h ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "20√3 m",
+                "30√3 m",
+                "40√3 m",
+                "50√3 m"
+            ],
+            "hindi": [
+                "20√3 मीटर",
+                "30√3 मीटर",
+                "40√3 मीटर",
+                "50√3 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><text x='160' y='80'>h</text><text x='80' y='100'>60°</text><text x='90' y='135'>20m</text><circle cx='150' cy='40' r='5' fill='black'/></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A satellite orbits the Earth at a height of 4000 km. At a particular moment, it observes two points A and B on the Earth's surface with angles of depression 30° and 45° respectively. If the radius of Earth is 6400 km, find the distance between A and B along the surface.",
+            "hindi": "एक उपग्रह पृथ्वी की 4000 किमी की ऊंचाई पर परिक्रमा कर रहा है। एक विशेष क्षण पर, यह पृथ्वी की सतह पर स्थित दो बिंदु A और B को क्रमशः 30° और 45° के अवनमन कोण पर देखता है। यदि पृथ्वी की त्रिज्या 6400 किमी है, तो सतह पर A और B के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "2000 km",
+                "3000 km",
+                "4000 km",
+                "5000 km"
+            ],
+            "hindi": [
+                "2000 किमी",
+                "3000 किमी",
+                "4000 किमी",
+                "5000 किमी"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='120' r='50' fill='none' stroke='black'/><line x1='150' y1='20' x2='100' y2='120' stroke='red'/><line x1='150' y1='20' x2='200' y2='120' stroke='blue'/><text x='160' y='70'>4000km</text><text x='120' y='50'>30°</text><text x='180' y='50'>45°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A TV tower stands vertically on a bank of a river. From a point on the opposite bank directly across the tower, the angle of elevation of the top of the tower is 60°. From another point 20m downstream, the angle of elevation is 30°. Find the height of the tower if the width of the river is 40m.",
+            "hindi": "एक टीवी टॉवर नदी के किनारे पर लंबवत खड़ा है। विपरीत किनारे पर टॉवर के ठीक सामने के बिंदु से, टॉवर के शीर्ष का उन्नयन कोण 60° है। धारा के अनुदिश 20 मीटर दूर एक अन्य बिंदु से, उन्नयन कोण 30° है। यदि नदी की चौड़ाई 40 मीटर है, तो टॉवर की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "40√3 m",
+                "60√3 m",
+                "80√3 m",
+                "100√3 m"
+            ],
+            "hindi": [
+                "40√3 मीटर",
+                "60√3 मीटर",
+                "80√3 मीटर",
+                "100√3 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='20' stroke='black'/><line x1='50' y1='20' x2='150' y2='120' stroke='red'/><line x1='50' y1='20' x2='200' y2='120' stroke='blue'/><text x='30' y='70'>h</text><text x='90' y='135'>40m</text><text x='170' y='135'>20m</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "From the top of a lighthouse, the angle of depression of a ship changes from 45° to 30° as the ship sails away from the lighthouse. If the ship travels 200m during this time, find the height of the lighthouse.",
+            "hindi": "एक प्रकाशस्तंभ के शीर्ष से, एक जहाज का अवनमन कोण 45° से 30° तक बदल जाता है जब जहाज प्रकाशस्तंभ से दूर जाता है। यदि इस दौरान जहाज 200 मीटर की दूरी तय करता है, तो प्रकाशस्तंभ की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "100 m",
+                "150 m",
+                "200 m",
+                "250 m"
+            ],
+            "hindi": [
+                "100 मीटर",
+                "150 मीटर",
+                "200 मीटर",
+                "250 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='100' y2='120' stroke='red'/><line x1='150' y1='20' x2='200' y2='120' stroke='blue'/><text x='160' y='70'>h</text><text x='140' y='135'>200m</text><text x='120' y='50'>45°</text><text x='180' y='50'>30°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A weather balloon, rising vertically, passes through a cloud layer. At that moment, two observers A and B, 1km apart on level ground, measure the angles of elevation as 60° and 30° respectively. Find the height of the cloud layer.",
+            "hindi": "एक मौसम गुब्बारा, ऊर्ध्वाधर उठते हुए, एक बादल परत से गुजरता है। उस क्षण, समतल भूमि पर 1 किमी की दूरी पर स्थित दो पर्यवेक्षक A और B, उन्नयन कोण क्रमशः 60° और 30° मापते हैं। बादल परत की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "500 m",
+                "750 m",
+                "866 m",
+                "1000 m"
+            ],
+            "hindi": [
+                "500 मीटर",
+                "750 मीटर",
+                "866 मीटर",
+                "1000 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><line x1='250' y1='120' x2='150' y2='40' stroke='blue'/><text x='160' y='80'>h</text><text x='140' y='135'>1km</text><text x='80' y='100'>60°</text><text x='200' y='100'>30°</text><circle cx='150' cy='40' r='5' fill='black'/></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "An aircraft at an altitude of 2000m observes two boats sailing directly away from each other. The angles of depression of the boats are 45° and 60°. Find the distance between the boats.",
+            "hindi": "2000 मीटर की ऊंचाई पर एक विमान दो नौकाओं को एक-दूसरे से सीधे दूर जाते हुए देखता है। नौकाओं के अवनमन कोण 45° और 60° हैं। नौकाओं के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1000 m",
+                "1500 m",
+                "2000(√3 - 1) m",
+                "2000(√3 + 1) m"
+            ],
+            "hindi": [
+                "1000 मीटर",
+                "1500 मीटर",
+                "2000(√3 - 1) मीटर",
+                "2000(√3 + 1) मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>2000m</text><text x='100' y='50'>45°</text><text x='200' y='50'>60°</text><text x='140' y='15'>✈</text></svg>",
+        "medium": "hard"
+    }
+]

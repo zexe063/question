@@ -1,0 +1,132 @@
+
+    [{
+        "question_name": {
+            "english": "Find the area of a circle whose radius is 14 cm.",
+            "hindi": "14 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["616.44 cm²", "615.86 cm²", "615.75 cm²", "615.44 cm²"],
+            "hindi": ["616.44 सेमी²", "615.86 सेमी²", "615.75 सेमी²", "615.44 सेमी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular ground has circumference 132 m. Find its area.",
+            "hindi": "एक वृत्ताकार मैदान की परिधि 132 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1385.74 m²", "1384.74 m²", "1387.74 m²", "1386.74 m²"],
+            "hindi": ["1385.74 मी²", "1384.74 मी²", "1387.74 मी²", "1386.74 मी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the cost of fencing a circular park of radius 28m at rate of ₹120 per meter.",
+            "hindi": "28 मीटर त्रिज्या वाले एक वृत्ताकार पार्क की बाड़ लगाने का खर्च ₹120 प्रति मीटर की दर से ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["21102", "21112", "21082", "21092"],
+            "hindi": ["21102", "21112", "21082", "21092"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular path of width 3.5m runs around a circular garden. The area of the path is 154m². Find the radius of the garden.",
+            "hindi": "एक वृत्ताकार बगीचे के चारों ओर 3.5 मीटर चौड़ा पथ है। पथ का क्षेत्रफल 154 मी² है। बगीचे की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["16 m", "17 m", "14 m", "15 m"],
+            "hindi": ["16 मी", "17 मी", "14 मी", "15 मी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The area between two concentric circles is 154 cm². If radius of outer circle is 14 cm, find radius of inner circle.",
+            "hindi": "दो संकेंद्रीय वृत्तों के बीच का क्षेत्रफल 154 सेमी² है। यदि बाहरी वृत्त की त्रिज्या 14 सेमी है, तो आंतरिक वृत्त की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["13 cm", "12 cm", "11 cm", "10 cm"],
+            "hindi": ["13 सेमी", "12 सेमी", "11 सेमी", "10 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A wire of length 132 cm is bent into a circle. Find its area.",
+            "hindi": "132 सेमी लंबाई के तार को मोड़कर एक वृत्त बनाया जाता है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1386.74 cm²", "1387.74 cm²", "1384.74 cm²", "1385.74 cm²"],
+            "hindi": ["1386.74 सेमी²", "1387.74 सेमी²", "1384.74 सेमी²", "1385.74 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two circles have areas in ratio 4:9. Find the ratio of their radii.",
+            "hindi": "दो वृत्तों के क्षेत्रफलों का अनुपात 4:9 है। उनकी त्रिज्याओं का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4:3", "3:4", "2:3", "3:2"],
+            "hindi": ["4:3", "3:4", "2:3", "3:2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular sheet is divided into three parts whose areas are in ratio 2:3:4. Find the area of middle part if total area is 1386 cm².",
+            "hindi": "एक वृत्ताकार शीट को तीन भागों में इस प्रकार बाँटा गया है कि उनके क्षेत्रफल 2:3:4 के अनुपात में हैं। यदि कुल क्षेत्रफल 1386 सेमी² है, तो मध्य भाग का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["464 cm²", "465 cm²", "462 cm²", "463 cm²"],
+            "hindi": ["464 सेमी²", "465 सेमी²", "462 सेमी²", "463 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The difference between circumference and radius of a circle is 94 cm. Find its area.",
+            "hindi": "एक वृत्त की परिधि और त्रिज्या का अंतर 94 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1386 cm²", "1387 cm²", "1384 cm²", "1385 cm²"],
+            "hindi": ["1386 सेमी²", "1387 सेमी²", "1384 सेमी²", "1385 सेमी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A circular park of radius 42m is divided into two parts by a straight path through center. Find the length of the path.",
+            "hindi": "42 मीटर त्रिज्या वाले एक वृत्ताकार पार्क को केंद्र से होकर गुजरने वाले सीधे पथ द्वारा दो भागों में बाँटा गया है। पथ की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["83 m", "84 m", "85 m", "82 m"],
+            "hindi": ["83 मी", "84 मी", "85 मी", "82 मी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }]
+

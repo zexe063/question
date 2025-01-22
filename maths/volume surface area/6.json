@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the volume of a sphere whose surface area is 616 cm².",
+            "hindi": "एक गोले का आयतन ज्ञात कीजिए जिसका पृष्ठीय क्षेत्रफल 616 वर्ग सेमी है।"
+        },
+        "option": {
+            "english": [
+                "523.33 cm³",
+                "533.33 cm³",
+                "543.33 cm³",
+                "553.33 cm³"
+            ],
+            "hindi": [
+                "523.33 सेमी³",
+                "533.33 सेमी³",
+                "543.33 सेमी³",
+                "553.33 सेमी³"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylinder and a cone have the same base radius 8 cm and same height 15 cm. Find the ratio of their volumes.",
+            "hindi": "एक बेलन और शंकु की आधार त्रिज्या 8 सेमी और ऊंचाई 15 सेमी समान है। उनके आयतनों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1:2",
+                "3:1",
+                "2:1",
+                "1:3"
+            ],
+            "hindi": [
+                "1:2",
+                "3:1",
+                "2:1",
+                "1:3"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The total surface area of a cube is 486 cm². Find its volume.",
+            "hindi": "एक घन का कुल पृष्ठीय क्षेत्रफल 486 वर्ग सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "657 cm³",
+                "667 cm³",
+                "677 cm³",
+                "729 cm³"
+            ],
+            "hindi": [
+                "657 सेमी³",
+                "667 सेमी³",
+                "677 सेमी³",
+                "729 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid right circular cone of height 120 cm and radius 30 cm is divided into three parts of equal heights by planes parallel to the base. Find the ratio of the volumes of these parts, starting from the top.",
+            "hindi": "120 सेमी ऊंचाई और 30 सेमी त्रिज्या वाले एक ठोस लम्ब वृत्तीय शंकु को आधार के समानांतर तलों द्वारा समान ऊंचाई के तीन भागों में विभाजित किया जाता है। ऊपर से शुरू करते हुए इन भागों के आयतनों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1:7:19",
+                "1:8:27",
+                "1:7:21",
+                "1:8:24"
+            ],
+            "hindi": [
+                "1:7:19",
+                "1:8:27",
+                "1:7:21",
+                "1:8:24"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Water flows through a cylindrical pipe of internal diameter 2 cm at the rate of 6 m/s. How many liters of water flows through the pipe in one minute?",
+            "hindi": "2 सेमी आंतरिक व्यास वाली बेलनाकार पाइप से 6 मीटर/सेकंड की दर से पानी बहता है। एक मिनट में पाइप से कितने लीटर पानी बहता है?"
+        },
+        "option": {
+            "english": [
+                "113.04 L",
+                "113.14 L",
+                "113.24 L",
+                "113.34 L"
+            ],
+            "hindi": [
+                "113.04 लीटर",
+                "113.14 लीटर",
+                "113.24 लीटर",
+                "113.34 लीटर"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hemispherical bowl of internal radius 9 cm contains a liquid. This liquid is poured into a cylindrical vessel of radius 3 cm. If the height of the liquid in cylindrical vessel is 32 cm, find what fraction of the bowl was filled with the liquid.",
+            "hindi": "9 सेमी आंतरिक त्रिज्या वाले अर्धगोलाकार कटोरे में एक तरल पदार्थ है। इस तरल को 3 सेमी त्रिज्या वाले बेलनाकार बर्तन में डाला जाता है। यदि बेलनाकार बर्तन में तरल की ऊंचाई 32 सेमी है, तो ज्ञात कीजिए कि कटोरा तरल से किस अंश तक भरा था।"
+        },
+        "option": {
+            "english": [
+                "4/7",
+                "5/7",
+                "6/7",
+                "7/7"
+            ],
+            "hindi": [
+                "4/7",
+                "5/7",
+                "6/7",
+                "7/7"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metallic right circular cone of height 60 cm and base radius 30 cm is melted and recast into a hollow cylinder of height 20 cm and thickness 1 cm. Find the outer radius of the cylinder.",
+            "hindi": "60 सेमी ऊंचाई और 30 सेमी आधार त्रिज्या वाले एक ठोस धातु के लम्ब वृत्तीय शंकु को पिघलाकर 20 सेमी ऊंचाई और 1 सेमी मोटाई का खोखला बेलन बनाया जाता है। बेलन की बाहरी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "45 cm",
+                "46 cm",
+                "47 cm",
+                "48 cm"
+            ],
+            "hindi": [
+                "45 सेमी",
+                "46 सेमी",
+                "47 सेमी",
+                "48 सेमी"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid sphere of radius 6 cm is cut into two parts by a plane at a distance of 4 cm from the center. Find the ratio of the volumes of the two parts.",
+            "hindi": "6 सेमी त्रिज्या के एक ठोस गोले को केंद्र से 4 सेमी की दूरी पर एक तल द्वारा दो भागों में काटा जाता है। दोनों भागों के आयतनों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "7:13",
+                "8:13",
+                "9:13",
+                "10:13"
+            ],
+            "hindi": [
+                "7:13",
+                "8:13",
+                "9:13",
+                "10:13"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A container in the form of a right circular cylinder of radius 20 cm and height 25 cm contains water. A solid cone of base radius 8 cm and height 30 cm is immersed in it. Find the rise in water level.",
+            "hindi": "20 सेमी त्रिज्या और 25 सेमी ऊंचाई वाले एक लम्ब वृत्तीय बेलनाकार पात्र में पानी है। 8 सेमी आधार त्रिज्या और 30 सेमी ऊंचाई वाले एक ठोस शंकु को इसमें डुबोया जाता है। पानी के स्तर में वृद्धि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "0.4 cm",
+                "0.5 cm",
+                "0.6 cm",
+                "0.7 cm"
+            ],
+            "hindi": [
+                "0.4 सेमी",
+                "0.5 सेमी",
+                "0.6 सेमी",
+                "0.7 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid toy is in the form of a hemisphere surmounted by a right circular cone of same radius. The height of the cone is equal to the radius of hemisphere. If the radius is r, then the volume of toy is:",
+            "hindi": "एक ठोस खिलौना एक अर्धगोले के ऊपर समान त्रिज्या के लम्ब वृत्तीय शंकु के रूप में है। शंकु की ऊंचाई अर्धगोले की त्रिज्या के बराबर है। यदि त्रिज्या r है, तो खिलौने का आयतन है:"
+        },
+        "option": {
+            "english": [
+                "πr³",
+                "4πr³/3",
+                "5πr³/6",
+                "2πr³/3"
+            ],
+            "hindi": [
+                "πr³",
+                "4πr³/3",
+                "5πr³/6",
+                "2πr³/3"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

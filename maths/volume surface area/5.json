@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "A solid metallic sphere of radius 10.5 cm is melted and drawn into a wire of radius 0.35 cm. Find the length of the wire.",
+            "hindi": "10.5 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर 0.35 सेमी त्रिज्या की तार खींची जाती है। तार की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "2700 cm",
+                "3000 cm",
+                "3300 cm",
+                "3600 cm"
+            ],
+            "hindi": [
+                "2700 सेमी",
+                "3000 सेमी",
+                "3300 सेमी",
+                "3600 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The radius and height of a cylinder are in the ratio 5:7. If its volume is 5500 cm³, find its total surface area.",
+            "hindi": "एक बेलन की त्रिज्या और ऊंचाई 5:7 के अनुपात में हैं। यदि इसका आयतन 5500 घन सेमी है, तो इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "950 cm²",
+                "1000 cm²",
+                "1100 cm²",
+                "1150 cm²"
+            ],
+            "hindi": [
+                "950 सेमी²",
+                "1000 सेमी²",
+                "1100 सेमी²",
+                "1150 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hemispherical tank is filled with water. If the diameter is 14 m, find the volume of water in the tank.",
+            "hindi": "एक अर्धगोलाकार टैंक पानी से भरा है। यदि व्यास 14 मीटर है, तो टैंक में पानी का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "718.67 m³",
+                "728.67 m³",
+                "738.67 m³",
+                "748.67 m³"
+            ],
+            "hindi": [
+                "718.67 घन मीटर",
+                "728.67 घन मीटर",
+                "738.67 घन मीटर",
+                "748.67 घन मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cone of height 15 cm is cut by a plane parallel to its base at a height of 6 cm from the base. If the volume of the smaller cone is 9 cm³, find the volume of the larger cone.",
+            "hindi": "15 सेमी ऊंचाई वाले एक शंकु को आधार से 6 सेमी की ऊंचाई पर आधार के समानांतर तल से काटा जाता है। यदि छोटे शंकु का आयतन 9 घन सेमी है, तो बड़े शंकु का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "125 cm³",
+                "135 cm³",
+                "140 cm³",
+                "141.75 cm³"
+            ],
+            "hindi": [
+                "125 सेमी³",
+                "135 सेमी³",
+                "140 सेमी³",
+                "141.75 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The difference between the outer and inner surface areas of a hollow spherical shell is 66 cm². Find the thickness of the shell.",
+            "hindi": "एक खोखले गोलाकार खोल के बाहरी और आंतरिक पृष्ठीय क्षेत्रफलों का अंतर 66 वर्ग सेमी है। खोल की मोटाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "0.25 cm",
+                "0.5 cm",
+                "0.75 cm",
+                "1 cm"
+            ],
+            "hindi": [
+                "0.25 सेमी",
+                "0.5 सेमी",
+                "0.75 सेमी",
+                "1 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid toy is in the form of a right circular cylinder with a hemisphere at one end and a cone at the other end. The radius is 5 cm and the total height is 25 cm. If the height of the cylinder is twice the height of the cone, find its total volume.",
+            "hindi": "एक ठोस खिलौना एक लम्ब वृत्तीय बेलन के रूप में है जिसके एक सिरे पर अर्धगोला और दूसरे सिरे पर शंकु है। त्रिज्या 5 सेमी और कुल ऊंचाई 25 सेमी है। यदि बेलन की ऊंचाई शंकु की ऊंचाई की दोगुनी है, तो इसका कुल आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1375.36 cm³",
+                "1475.36 cm³",
+                "1575.36 cm³",
+                "1675.36 cm³"
+            ],
+            "hindi": [
+                "1375.36 सेमी³",
+                "1475.36 सेमी³",
+                "1575.36 सेमी³",
+                "1675.36 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical vessel of radius 6 cm contains water to a depth of 8 cm. A metal ball is dropped into the water and the water level rises by 2 cm. Find the radius of the ball.",
+            "hindi": "6 सेमी त्रिज्या वाले बेलनाकार बर्तन में 8 सेमी गहराई तक पानी भरा है। एक धातु की गेंद पानी में डाली जाती है और पानी का स्तर 2 सेमी बढ़ जाता है। गेंद की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "3 cm",
+                "3.5 cm",
+                "4 cm",
+                "4.5 cm"
+            ],
+            "hindi": [
+                "3 सेमी",
+                "3.5 सेमी",
+                "4 सेमी",
+                "4.5 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cone is cut by a plane parallel to its base such that the upper portion has volume equal to 1/27th of the volume of the whole cone. Find the ratio of the height of the upper portion to the height of the whole cone.",
+            "hindi": "एक खोखले शंकु को आधार के समानांतर तल से इस प्रकार काटा जाता है कि ऊपरी भाग का आयतन पूरे शंकु के आयतन का 1/27वां भाग है। ऊपरी भाग की ऊंचाई का पूरे शंकु की ऊंचाई से अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1:2",
+                "1:3",
+                "2:3",
+                "3:1"
+            ],
+            "hindi": [
+                "1:2",
+                "1:3",
+                "2:3",
+                "3:1"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid iron sphere of radius 9 cm is melted and recast into three spheres. If the radii of two spheres are 5 cm and 6 cm respectively, find the radius of the third sphere.",
+            "hindi": "9 सेमी त्रिज्या के एक ठोस लोहे के गोले को पिघलाकर तीन गोले बनाए जाते हैं। यदि दो गोलों की त्रिज्याएं क्रमशः 5 सेमी और 6 सेमी हैं, तो तीसरे गोले की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "6 cm",
+                "7 cm",
+                "8 cm",
+                "9 cm"
+            ],
+            "hindi": [
+                "6 सेमी",
+                "7 सेमी",
+                "8 सेमी",
+                "9 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Water is flowing at the rate of 15 km/hr through a cylindrical pipe of diameter 14 cm into a rectangular tank which is 50 m long and 44 m wide. In how much time will the water level in the tank rise by 21 cm?",
+            "hindi": "14 सेमी व्यास वाली बेलनाकार पाइप से 15 किमी/घंटा की दर से पानी 50 मीटर लंबी और 44 मीटर चौड़ी आयताकार टंकी में बह रहा है। टंकी में पानी का स्तर 21 सेमी बढ़ने में कितना समय लगेगा?"
+        },
+        "option": {
+            "english": [
+                "15 hours",
+                "16 hours",
+                "17 hours",
+                "18 hours"
+            ],
+            "hindi": [
+                "15 घंटे",
+                "16 घंटे",
+                "17 घंटे",
+                "18 घंटे"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the mean of the first five natural numbers?",
+            "hindi": "पहले पाँच प्राकृतिक संख्याओं का माध्य क्या है?"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following measures of central tendency takes into account all the data points?",
+            "hindi": "केंद्रीय प्रवृत्ति के निम्नलिखित में से कौन सा माप सभी डेटा बिंदुओं को ध्यान में रखता है?"
+        },
+        "option": {
+            "english": ["Mean", "Median", "Mode", "Range"],
+            "hindi": ["माध्य", "माध्यिका", "बहुलक", "परिसर"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the mode of the following data set: 2, 3, 4, 5, 2, 3, 2, 6, 2?",
+            "hindi": "निम्नलिखित डेटा सेट का बहुलक क्या है: 2, 3, 4, 5, 2, 3, 2, 6, 2?"
+        },
+        "option": {
+            "english": ["3", "4", "2", "5"],
+            "hindi": ["3", "4", "2", "5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the mean of 5 observations is 10, what is the sum of the observations?",
+            "hindi": "यदि 5 अवलोकनों का माध्य 10 है, तो अवलोकनों का योग क्या है?"
+        },
+        "option": {
+            "english": ["5", "10", "25", "50"],
+            "hindi": ["5", "10", "25", "50"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the median of the following data: 15, 18, 10, 6, 14.",
+            "hindi": "निम्नलिखित डेटा की माध्यिका ज्ञात कीजिए: 15, 18, 10, 6, 14."
+        },
+        "option": {
+            "english": ["10", "14", "15", "18"],
+            "hindi": ["10", "14", "15", "18"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of the following data is 8. Find the value of x: 5, 7, x, 10, 5, 9.",
+            "hindi": "निम्नलिखित डेटा का माध्य 8 है। x का मान ज्ञात करें: 5, 7, x, 10, 5, 9."
+        },
+        "option": {
+            "english": ["7", "8", "9", "10"],
+            "hindi": ["7", "8", "9", "10"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For a given data, if the mean is less than the median, then the data is said to be:",
+            "hindi": "दिए गए डेटा के लिए, यदि माध्य माध्यिका से कम है, तो डेटा को कहा जाता है:"
+        },
+        "option": {
+            "english": ["Positively skewed", "Negatively skewed", "Symmetric", "Normal"],
+            "hindi": ["धनात्मक रूप से विषम", "ऋणात्मक रूप से विषम", "सममित", "सामान्य"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the median class of the following distribution:  Class Interval: 0-10, 10-20, 20-30, 30-40, 40-50, Frequency: 5, 8, 15, 20, 14",
+            "hindi": "निम्नलिखित वितरण का माध्यिका वर्ग ज्ञात कीजिए: वर्ग अंतराल: 0-10, 10-20, 20-30, 30-40, 40-50, आवृत्ति: 5, 8, 15, 20, 14"
+        },
+        "option": {
+            "english": ["10-20", "20-30", "40-50", "30-40"],
+            "hindi": ["10-20", "20-30", "40-50", "30-40"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 10 observations is 15. If one observation, namely 12, is excluded, then the new mean is:",
+            "hindi": "10 अवलोकनों का माध्य 15 है। यदि एक अवलोकन, अर्थात 12, को हटा दिया जाता है, तो नया माध्य है:"
+        },
+        "option": {
+            "english": ["13", "15.33", "16", "16.5"],
+            "hindi": ["13", "15.33", "16", "16.5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "For a certain distribution, mode and median are 50 and 48 respectively. Find the approximate value of the mean using the empirical relationship.",
+            "hindi": "एक निश्चित वितरण के लिए, बहुलक और माध्यिका क्रमशः 50 और 48 हैं। अनुभवजन्य संबंध का उपयोग करके माध्य का अनुमानित मान ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["46", "47", "49", "50"],
+            "hindi": ["46", "47", "49", "50"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

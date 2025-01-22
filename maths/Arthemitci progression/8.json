@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 8th term of AP: -2, 1, 4, 7, ...",
+            "hindi": "AP: -2, 1, 4, 7, ... का 8वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["16", "17", "18", "19"],
+            "hindi": ["16", "17", "18", "19"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 4, 10, 16, 22, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 4, 10, 16, 22, ..."
+        },
+        "option": {
+            "english": ["4", "5", "6", "7"],
+            "hindi": ["4", "5", "6", "7"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 4th term is 16 and 8th term is 32.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 4था पद 16 और 8वाँ पद 32 है।"
+        },
+        "option": {
+            "english": ["7", "8", "9", "10"],
+            "hindi": ["7", "8", "9", "10"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The 6th term of an AP is 22 and 10th term is 38. Find the 15th term.",
+            "hindi": "एक AP का 6ठा पद 22 और 10वाँ पद 38 है। 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["58", "59", "60", "61"],
+            "hindi": ["58", "59", "60", "61"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of first n terms of an AP is 2n² + 3n, find the common difference.",
+            "hindi": "यदि एक AP के प्रथम n पदों का योग 2n² + 3n है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all multiples of 3 between 100 and 200.",
+            "hindi": "100 और 200 के बीच 3 के सभी गुणजों का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4950", "5050", "5150", "5250"],
+            "hindi": ["4950", "5050", "5150", "5250"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three numbers are in AP. If their sum is 21 and product is 216, find the numbers.",
+            "hindi": "तीन संख्याएँ AP में हैं। यदि उनका योग 21 और गुणनफल 216 है, तो संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5,7,9", "6,7,8", "4,7,10", "5,8,11"],
+            "hindi": ["5,7,9", "6,7,8", "4,7,10", "5,8,11"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If a₈ - a₅ = 15 and a₁₂ - a₉ = 15, find the common difference.",
+            "hindi": "यदि a₈ - a₅ = 15 और a₁₂ - a₉ = 15 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(3n + 2), find the ratio of its 15th term to its 10th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(3n + 2) है, तो इसके 15वें पद और 10वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:4", "6:5"],
+            "hindi": ["3:2", "4:3", "5:4", "6:5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of four consecutive terms of an AP is 32 and sum of squares of these terms is 276. Find the first of these four terms.",
+            "hindi": "एक AP के चार क्रमागत पदों का योग 32 और इन पदों के वर्गों का योग 276 है। इन चार पदों में से पहला पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

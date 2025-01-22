@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "A drone is hovering at a height of 100m. It observes two cars on a straight road with angles of depression 30° and 45°. Find the distance between the cars.",
+            "hindi": "एक ड्रोन 100 मीटर की ऊंचाई पर मंडरा रहा है। यह एक सीधी सड़क पर दो कारों को 30° और 45° के अवनमन कोण पर देखता है। कारों के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "50 m",
+                "100 m",
+                "173.2 m",
+                "200 m"
+            ],
+            "hindi": [
+                "50 मीटर",
+                "100 मीटर",
+                "173.2 मीटर",
+                "200 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>100m</text><text x='100' y='50'>30°</text><text x='200' y='50'>45°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A helicopter is ascending vertically at 20m/s. After 30 seconds, an observer on the ground at distance 400m from its path notes that the angle of elevation changes from 30° to 45°. Find its initial height.",
+            "hindi": "एक हेलीकॉप्टर 20 मीटर/सेकंड की गति से ऊर्ध्वाधर उठ रहा है। 30 सेकंड बाद, इसके मार्ग से 400 मीटर दूर भूमि पर एक पर्यवेक्षक नोट करता है कि उन्नयन कोण 30° से 45° तक बदल जाता है। इसकी प्रारंभिक ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "200 m",
+                "231 m",
+                "400 m",
+                "462 m"
+            ],
+            "hindi": [
+                "200 मीटर",
+                "231 मीटर",
+                "400 मीटर",
+                "462 मीटर"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='40' stroke='red'/><line x1='50' y1='120' x2='150' y2='20' stroke='blue'/><text x='160' y='70'>h</text><text x='90' y='100'>30°</text><text x='90' y='80'>45°</text><text x='145' y='15'>🚁</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hot air balloon is rising at a constant rate. From a point 200m away from its path, the angle of elevation changes from 45° to 60° in 10 minutes. Find the rate of ascent of the balloon.",
+            "hindi": "एक हॉट एयर बैलून एक समान दर से ऊपर उठ रहा है। इसके मार्ग से 200 मीटर दूर एक बिंदु से, उन्नयन कोण 10 मिनट में 45° से 60° तक बदल जाता है। बैलून की आरोहण दर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "5 m/min",
+                "10 m/min",
+                "15 m/min",
+                "20 m/min"
+            ],
+            "hindi": [
+                "5 मीटर/मिनट",
+                "10 मीटर/मिनट",
+                "15 मीटर/मिनट",
+                "20 मीटर/मिनट"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='60' stroke='red'/><line x1='50' y1='120' x2='150' y2='40' stroke='blue'/><text x='160' y='80'>h</text><text x='80' y='90'>45°</text><text x='80' y='70'>60°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A kite is flying at a height of 150m above the ground. The string attached to the kite is temporarily held at an angle of 60° to the horizontal. Find the length of the string.",
+            "hindi": "एक पतंग भूमि से 150 मीटर की ऊंचाई पर उड़ रही है। पतंग से जुड़ी डोर क्षैतिज से 60° का कोण बनाती है। डोर की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "150 m",
+                "173.2 m",
+                "200 m",
+                "250 m"
+            ],
+            "hindi": [
+                "150 मीटर",
+                "173.2 मीटर",
+                "200 मीटर",
+                "250 मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='50' y2='40' stroke='black'/><line x1='50' y1='40' x2='150' y2='120' stroke='red'/><text x='30' y='80'>150m</text><text x='90' y='70'>x</text><text x='80' y='100'>60°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From the top of a building 60m high, the angle of depression of a car changes from 45° to 60° as it moves towards the building. Find the distance traveled by the car.",
+            "hindi": "60 मीटर ऊंची एक इमारत के शीर्ष से, एक कार का अवनमन कोण 45° से 60° तक बदल जाता है जब यह इमारत की ओर आती है। कार द्वारा तय की गई दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "25 m",
+                "35 m",
+                "45 m",
+                "60 m"
+            ],
+            "hindi": [
+                "25 मीटर",
+                "35 मीटर",
+                "45 मीटर",
+                "60 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>60m</text><text x='100' y='50'>45°</text><text x='200' y='50'>60°</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A camera drone observes two moving trains on parallel tracks with angles of depression 30° and 45°. If the tracks are 100m apart and the drone is at height 200m, find the horizontal distance between the trains.",
+            "hindi": "एक कैमरा ड्रोन समानांतर पटरियों पर चलती दो ट्रेनों को 30° और 45° के अवनमन कोण पर देखता है। यदि पटरियां 100 मीटर दूर हैं और ड्रोन 200 मीटर की ऊंचाई पर है, तो ट्रेनों के बीच क्षैतिज दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "173.2 m",
+                "200 m",
+                "246.4 m",
+                "300 m"
+            ],
+            "hindi": [
+                "173.2 मीटर",
+                "200 मीटर",
+                "246.4 मीटर",
+                "300 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>200m</text><text x='100' y='50'>30°</text><text x='200' y='50'>45°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A weather balloon rises vertically from point A. Observer B, 300m away from A, notes that the angle of elevation changes from 30° to 60° in 5 minutes. Find the average speed of the balloon.",
+            "hindi": "एक मौसम गुब्बारा बिंदु A से ऊर्ध्वाधर उठता है। पर्यवेक्षक B, जो A से 300 मीटर दूर है, नोट करता है कि उन्नयन कोण 5 मिनट में 30° से 60° तक बदल जाता है। गुब्बारे की औसत गति ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "20 m/min",
+                "40 m/min",
+                "60 m/min",
+                "80 m/min"
+            ],
+            "hindi": [
+                "20 मीटर/मिनट",
+                "40 मीटर/मिनट",
+                "60 मीटर/मिनट",
+                "80 मीटर/मिनट"
+            ]
+        },
+        "answer": 3,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='40' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='150' y2='60' stroke='red'/><line x1='50' y1='120' x2='150' y2='40' stroke='blue'/><text x='160' y='80'>h</text><text x='80' y='90'>30°</text><text x='80' y='70'>60°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "From a point on a bridge 50m above a river, the angles of depression of two boats are 30° and 45°. If the boats are on opposite sides of the bridge, find the distance between them.",
+            "hindi": "नदी से 50 मीटर ऊपर पुल के एक बिंदु से, दो नौकाओं के अवनमन कोण 30° और 45° हैं। यदि नौकाएं पुल के विपरीत दिशाओं में हैं, तो उनके बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "50(√3 + 1) m",
+                "100(√3 + 1) m",
+                "150(√3 + 1) m",
+                "200(√3 + 1) m"
+            ],
+            "hindi": [
+                "50(√3 + 1) मीटर",
+                "100(√3 + 1) मीटर",
+                "150(√3 + 1) मीटर",
+                "200(√3 + 1) मीटर"
+            ]
+        },
+        "answer": 0,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='20' x2='150' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='150' y1='20' x2='50' y2='120' stroke='red'/><line x1='150' y1='20' x2='250' y2='120' stroke='blue'/><text x='160' y='70'>50m</text><text x='100' y='50'>30°</text><text x='200' y='50'>45°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "From a satellite at height h above Earth's surface, the angle between two tangent lines to Earth is 120°. If Earth's radius is 6400km, find h.",
+            "hindi": "पृथ्वी की सतह से h ऊंचाई पर स्थित एक उपग्रह से, पृथ्वी पर दो स्पर्श रेखाओं के बीच का कोण 120° है। यदि पृथ्वी की त्रिज्या 6400 किमी है, तो h ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "3200 km",
+                "6400 km",
+                "9600 km",
+                "12800 km"
+            ],
+            "hindi": [
+                "3200 किमी",
+                "6400 किमी",
+                "9600 किमी",
+                "12800 किमी"
+            ]
+        },
+        "answer": 2,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='120' r='40' fill='none' stroke='black'/><line x1='150' y1='20' x2='110' y2='120' stroke='red'/><line x1='150' y1='20' x2='190' y2='120' stroke='blue'/><text x='160' y='70'>h</text><text x='140' y='40'>120°</text><text x='145' y='15'>🛰</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A rescue helicopter spots a distress signal at sea with angle of depression 60°. After flying horizontally for 2km towards the signal, the angle becomes 45°. Find the height of the helicopter.",
+            "hindi": "एक बचाव हेलीकॉप्टर समुद्र में एक संकट संकेत को 60° के अवनमन कोण पर देखता है। संकेत की ओर क्षैतिज दिशा में 2 किमी उड़ने के बाद, कोण 45° हो जाता है। हेलीकॉप्टर की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1 km",
+                "1.5 km",
+                "2 km",
+                "2.5 km"
+            ],
+            "hindi": [
+                "1 किमी",
+                "1.5 किमी",
+                "2 किमी",
+                "2.5 किमी"
+            ]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><line x1='50' y1='40' x2='50' y2='120' stroke='black'/><line x1='50' y1='40' x2='150' y2='120' stroke='red'/><line x1='50' y1='40' x2='250' y2='120' stroke='blue'/><text x='30' y='80'>h</text><text x='80' y='70'>60°</text><text x='180' y='70'>45°</text><text x='140' y='135'>2km</text></svg>",
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A hollow sphere has outer radius 15 cm and thickness 3 cm. Find its volume.",
+            "hindi": "एक खोखले गोले की बाहरी त्रिज्या 15 सेमी और मोटाई 3 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4524 cm³", "4624 cm³", "4724 cm³", "4824 cm³"],
+            "hindi": ["4524 सेमी³", "4624 सेमी³", "4724 सेमी³", "4824 सेमी³"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A frustum of a cone has radii 20 cm and 10 cm with height 16 cm. Find its volume.",
+            "hindi": "एक शंकु के छिन्नक की त्रिज्याएँ 20 सेमी और 10 सेमी हैं तथा ऊंचाई 16 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5428 cm³", "5528 cm³", "5628 cm³", "5728 cm³"],
+            "hindi": ["5428 सेमी³", "5528 सेमी³", "5628 सेमी³", "5728 सेमी³"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid cylinder of height 14 cm and radius 8 cm is melted to form a cone of same radius. Find its height.",
+            "hindi": "14 सेमी ऊंचाई और 8 सेमी त्रिज्या वाले एक ठोस बेलन को पिघलाकर समान त्रिज्या का एक शंकु बनाया जाता है। इसकी ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["42 cm", "44 cm", "46 cm", "48 cm"],
+            "hindi": ["42 सेमी", "44 सेमी", "46 सेमी", "48 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical tank of radius 10 m and height 15 m has a hemispherical bottom. If it is filled with water to 60% of its total height, what fraction of the total capacity is filled?",
+            "hindi": "10 मीटर त्रिज्या और 15 मीटर ऊंचाई वाली एक बेलनाकार टंकी का तल अर्धगोलाकार है। यदि इसे कुल ऊंचाई के 60% तक पानी से भरा जाए, तो कुल क्षमता का कौन सा भाग भरा है?"
+        },
+        "option": {
+            "english": ["0.55", "0.65", "0.75", "0.85"],
+            "hindi": ["0.55", "0.65", "0.75", "0.85"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three identical spheres of radius 4 cm are placed in a cylindrical vessel of radius 4 cm. Find the minimum height of water required to completely immerse the spheres.",
+            "hindi": "4 सेमी त्रिज्या के तीन समान गोलों को 4 सेमी त्रिज्या के एक बेलनाकार पात्र में रखा गया है। गोलों को पूरी तरह डुबोने के लिए आवश्यक पानी की न्यूनतम ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9 cm", "10 cm", "11 cm", "12 cm"],
+            "hindi": ["9 सेमी", "10 सेमी", "11 सेमी", "12 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cone has inner radius 8 cm, outer radius 12 cm and outer height 15 cm. Find its volume.",
+            "hindi": "एक खोखले शंकु की आंतरिक त्रिज्या 8 सेमी, बाहरी त्रिज्या 12 सेमी और बाहरी ऊंचाई 15 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1232 cm³", "1332 cm³", "1432 cm³", "1532 cm³"],
+            "hindi": ["1232 सेमी³", "1332 सेमी³", "1432 सेमी³", "1532 सेमी³"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metal sphere of radius 12 cm is melted and drawn into a wire of uniform thickness. If the wire's radius is 0.6 cm, find its length.",
+            "hindi": "12 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर एकसमान मोटाई की तार खींची जाती है। यदि तार की त्रिज्या 0.6 सेमी है, तो इसकी लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1500 m", "1600 m", "1700 m", "1800 m"],
+            "hindi": ["1500 मीटर", "1600 मीटर", "1700 मीटर", "1800 मीटर"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A container shaped like a right circular cylinder having diameter 14 cm and height 20 cm is full of ice cream. If ice cream cones of height 12 cm and radius 3.5 cm with hemispherical top are to be filled, find the number of possible cones.",
+            "hindi": "14 सेमी व्यास और 20 सेमी ऊंचाई वाले एक लम्ब वृत्तीय बेलनाकार पात्र में आइसक्रीम भरी है। यदि 12 सेमी ऊंचाई और 3.5 सेमी त्रिज्या वाले अर्धगोलाकार शीर्ष वाले शंकुओं में भरना है, तो संभावित शंकुओं की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["20", "21", "22", "23"],
+            "hindi": ["20", "21", "22", "23"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid metallic right circular cone of height 45 cm and radius 14 cm is melted and recast into three identical spheres. Find the radius of each sphere.",
+            "hindi": "45 सेमी ऊंचाई और 14 सेमी त्रिज्या वाले एक ठोस धातु के लम्ब वृत्तीय शंकु को पिघलाकर तीन समान गोले बनाए जाते हैं। प्रत्येक गोले की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a cylinder with two hemispheres at its ends contains water to 75% of its capacity. If the radius is 7 cm and cylinder height is 20 cm, find the height of water in the cylindrical part.",
+            "hindi": "दो अर्धगोलों के बीच एक बेलन से बने ठोस में उसकी क्षमता का 75% पानी भरा है। यदि त्रिज्या 7 सेमी और बेलन की ऊंचाई 20 सेमी है, तो बेलनाकार भाग में पानी की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12 cm", "14 cm", "16 cm", "18 cm"],
+            "hindi": ["12 सेमी", "14 सेमी", "16 सेमी", "18 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

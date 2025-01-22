@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "If a = 2^m × 5^n, then its decimal expansion will have:",
+        "hindi": "यदि a = 2^m × 5^n है, तो इसका दशमलव प्रसार होगा:"
+      },
+      "option": {
+        "english": [
+          "m digits",
+          "n digits",
+          "m+n digits",
+          "max(m,n) digits"
+        ],
+        "hindi": [
+          "m अंक",
+          "n अंक",
+          "m+n अंक",
+          "max(m,n) अंक"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The number of prime factors in 48 is:",
+        "hindi": "48 में अभाज्य गुणनखंडों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "hindi": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The LCM of two prime numbers is always:",
+        "hindi": "दो अभाज्य संख्याओं का LCM हमेशा होता है:"
+      },
+      "option": {
+        "english": [
+          "Their product",
+          "Their sum",
+          "Their difference",
+          "One"
+        ],
+        "hindi": [
+          "उनका गुणनफल",
+          "उनका योग",
+          "उनका अंतर",
+          "एक"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "√2 + √3 is:",
+        "hindi": "√2 + √3 है:"
+      },
+      "option": {
+        "english": [
+          "Rational",
+          "Irrational",
+          "Integer",
+          "Natural number"
+        ],
+        "hindi": [
+          "परिमेय",
+          "अपरिमेय",
+          "पूर्णांक",
+          "प्राकृत संख्या"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The HCF of two numbers is 8 and their product is 256. Their LCM is:",
+        "hindi": "दो संख्याओं का HCF 8 है और उनका गुणनफल 256 है। उनका LCM है:"
+      },
+      "option": {
+        "english": [
+          "16",
+          "24",
+          "32",
+          "64"
+        ],
+        "hindi": [
+          "16",
+          "24",
+          "32",
+          "64"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these numbers has the most factors?",
+        "hindi": "इनमें से किस संख्या के सबसे अधिक गुणनखंड हैं?"
+      },
+      "option": {
+        "english": [
+          "48",
+          "36",
+          "24",
+          "12"
+        ],
+        "hindi": [
+          "48",
+          "36",
+          "24",
+          "12"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(a,b) = 1, then LCM(a²,b²) equals:",
+        "hindi": "यदि HCF(a,b) = 1 है, तो LCM(a²,b²) बराबर है:"
+      },
+      "option": {
+        "english": [
+          "ab",
+          "a²b",
+          "a²b²",
+          "(ab)²"
+        ],
+        "hindi": [
+          "ab",
+          "a²b",
+          "a²b²",
+          "(ab)²"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The decimal expansion of 7/8 will:",
+        "hindi": "7/8 का दशमलव प्रसार होगा:"
+      },
+      "option": {
+        "english": [
+          "Terminate",
+          "Not terminate",
+          "Be periodic",
+          "Be infinite"
+        ],
+        "hindi": [
+          "सांत",
+          "असांत",
+          "आवर्ती",
+          "अनंत"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If p is prime, then number of factors of p² is:",
+        "hindi": "यदि p अभाज्य है, तो p² के गुणनखंडों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "hindi": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "For any three positive integers a, b and c, HCF(HCF(a,b),c) equals:",
+        "hindi": "किन्हीं तीन धनात्मक पूर्णांकों a, b और c के लिए, HCF(HCF(a,b),c) बराबर है:"
+      },
+      "option": {
+        "english": [
+          "HCF(a,b,c)",
+          "LCM(a,b,c)",
+          "HCF(a,HCF(b,c))",
+          "None of these"
+        ],
+        "hindi": [
+          "HCF(a,b,c)",
+          "LCM(a,b,c)",
+          "HCF(a,HCF(b,c))",
+          "इनमें से कोई नहीं"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct article: I need _____ MP3 player for my workout.",
+        "hindi": "Choose the correct article: I need _____ MP3 player for my workout."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ Mona Lisa is in the Louvre.",
+        "hindi": "Select the correct article: _____ Mona Lisa is in the Louvre."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ teacher is absent today.",
+        "hindi": "Fill in the blank: _____ teacher is absent today."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: He is _____ honest politician.",
+        "hindi": "Choose the correct article: He is _____ honest politician."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: I need _____ SOS signal.",
+        "hindi": "Select the correct article: I need _____ SOS signal."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ moon shines at night.",
+        "hindi": "Fill in the blank: _____ moon shines at night."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ White House is in Washington.",
+        "hindi": "Choose the correct article: _____ White House is in Washington."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: She is _____ eighth winner.",
+        "hindi": "Select the correct article: She is _____ eighth winner."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: I need _____ XML API key.",
+        "hindi": "Fill in the blank: I need _____ XML API key."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ sky is cloudy today.",
+        "hindi": "Choose the correct article: _____ sky is cloudy today."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

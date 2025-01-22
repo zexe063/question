@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 10th term of AP: 5, 9, 13, 17, ...",
+            "hindi": "AP: 5, 9, 13, 17, ... का 10वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["37", "38", "39", "41"],
+            "hindi": ["37", "38", "39", "41"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 4th term is 13 and 9th term is 28 in an AP, find the 15th term.",
+            "hindi": "यदि एक AP का 4था पद 13 और 9वाँ पद 28 है, तो 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["46", "47", "48", "49"],
+            "hindi": ["46", "47", "48", "49"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 8, 15, 22, 29, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 8, 15, 22, 29, ..."
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 6th term is 23 and 11th term is 43.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 6ठा पद 23 और 11वाँ पद 43 है।"
+        },
+        "option": {
+            "english": ["8", "9", "10", "11"],
+            "hindi": ["8", "9", "10", "11"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The 5th term of an AP exceeds its first term by 16. Find the common difference.",
+            "hindi": "एक AP का 5वाँ पद इसके पहले पद से 16 अधिक है। सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(5n - 2), find the 12th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(5n - 2) है, तो 12वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["108", "109", "110", "111"],
+            "hindi": ["108", "109", "110", "111"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if 3a₅ = 2a₇ + 10, find the common difference when a₁ = 3.",
+            "hindi": "एक AP में, यदि 3a₅ = 2a₇ + 10 है, तो a₁ = 3 होने पर सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all two-digit numbers which when divided by 6 leave remainder 4.",
+            "hindi": "सभी दो अंकों की संख्याओं का योग ज्ञात कीजिए जो 6 से विभाजित करने पर शेषफल 4 देती हैं।"
+        },
+        "option": {
+            "english": ["782", "784", "786", "788"],
+            "hindi": ["782", "784", "786", "788"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is divided by 3 and then 2 is subtracted, how does the common difference change?",
+            "hindi": "यदि एक AP के प्रत्येक पद को 3 से विभाजित करके फिर 2 घटाया जाए, तो सार्वअंतर में क्या परिवर्तन होगा?"
+        },
+        "option": {
+            "english": ["Divided by 3", "Divided by 3 and subtract 2", "Only divided by 3", "Subtract 2"],
+            "hindi": ["3 से भाग", "3 से भाग और 2 घटाएं", "केवल 3 से भाग", "2 घटाएं"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three numbers in AP is 24. If the product of the first and third term is 50, find the second term.",
+            "hindi": "AP में तीन संख्याओं का योग 24 है। यदि पहले और तीसरे पद का गुणनफल 50 है, तो दूसरा पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6", "7", "8", "9"],
+            "hindi": ["6", "7", "8", "9"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

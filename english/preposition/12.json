@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The submarine descended _____ the ocean depths.",
+        "hindi": "Choose the correct preposition: The submarine descended _____ the ocean depths."
+      },
+      "option": {
+        "english": [
+          "between",
+          "beside",
+          "among",
+          "into"
+        ],
+        "hindi": [
+          "between",
+          "beside",
+          "among",
+          "into"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The clouds drifted _____ the mountain peak.",
+        "hindi": "Fill in the blank: The clouds drifted _____ the mountain peak."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "near",
+          "above",
+          "at"
+        ],
+        "hindi": [
+          "beside",
+          "near",
+          "above",
+          "at"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The ceremony starts _____ midnight.",
+        "hindi": "Select the right preposition: The ceremony starts _____ midnight."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The wind whispers _____ the trees.",
+        "hindi": "Choose the correct preposition: The wind whispers _____ the trees."
+      },
+      "option": {
+        "english": [
+          "across",
+          "through",
+          "over",
+          "about"
+        ],
+        "hindi": [
+          "across",
+          "through",
+          "over",
+          "about"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The meteor streaked _____ the night sky.",
+        "hindi": "Fill in the blank: The meteor streaked _____ the night sky."
+      },
+      "option": {
+        "english": [
+          "within",
+          "beside",
+          "among",
+          "across"
+        ],
+        "hindi": [
+          "within",
+          "beside",
+          "among",
+          "across"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The meeting begins _____ schedule.",
+        "hindi": "Select the appropriate preposition: The meeting begins _____ schedule."
+      },
+      "option": {
+        "english": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ],
+        "hindi": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The roots grew _____ the soil.",
+        "hindi": "Choose the correct preposition: The roots grew _____ the soil."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "near",
+          "within",
+          "along"
+        ],
+        "hindi": [
+          "beside",
+          "near",
+          "within",
+          "along"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The castle was built _____ the medieval period.",
+        "hindi": "Fill in the blank: The castle was built _____ the medieval period."
+      },
+      "option": {
+        "english": [
+          "during",
+          "in",
+          "at",
+          "while"
+        ],
+        "hindi": [
+          "during",
+          "in",
+          "at",
+          "while"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The ship vanished _____ the horizon.",
+        "hindi": "Select the right preposition: The ship vanished _____ the horizon."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "by",
+          "beyond"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "by",
+          "beyond"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The manuscript was preserved _____ centuries.",
+        "hindi": "Choose the correct preposition: The manuscript was preserved _____ centuries."
+      },
+      "option": {
+        "english": [
+          "throughout",
+          "during",
+          "while",
+          "within"
+        ],
+        "hindi": [
+          "throughout",
+          "during",
+          "while",
+          "within"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

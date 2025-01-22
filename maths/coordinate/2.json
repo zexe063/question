@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the distance of the point (4, -3) from the origin?",
+            "hindi": "बिंदु (4, -3) की मूल बिंदु से दूरी क्या है?"
+        },
+        "option": {
+            "english": ["1 unit", "7 units", "5 units", "3 units"],
+            "hindi": ["1 इकाई", "7 इकाई", "5 इकाई", "3 इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance between the points (3, 4) and (0, 0).",
+            "hindi": "बिंदुओं (3, 4) और (0, 0) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "5", "4",  "7"],
+            "hindi": ["3", "4", "5", "7"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the midpoint of the line segment joining the points (-3, 4) and (1, -2)?",
+            "hindi": "बिंदुओं (-3, 4) और (1, -2) को जोड़ने वाले रेखाखंड का मध्यबिंदु क्या है?"
+        },
+        "option": {
+            "english": ["(-1, 1)", "(-1, 2)", "(1, -1)", "(1, -2)"],
+            "hindi": ["(-1, 1)", "(-1, 2)", "(1, -1)", "(1, -2)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (x, -1) and (3, 2) is 5, then the value of x is:",
+            "hindi": "यदि बिंदुओं (x, -1) और (3, 2) के बीच की दूरी 5 है, तो x का मान है:"
+        },
+        "option": {
+            "english": ["-7 or -1", "7 or -1", "-7 or 1", "7 or 1"],
+            "hindi": ["-7 या -1", "7 या -1", "-7 या 1", "7 या 1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance between the points P(a cos 25°, 0) and Q(0, a cos 65°).",
+            "hindi": "बिंदुओं P(a cos 25°, 0) और Q(0, a cos 65°) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2a", "a", "3a", "None of these"],
+            "hindi": ["2a", "a", "3a", "इनमें से कोई नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(x, y) is equidistant from the points A(5, 1) and B(-1, 5), then:",
+            "hindi": "यदि बिंदु P(x, y) बिंदुओं A(5, 1) और B(-1, 5) से समदूरस्थ है, तो:"
+        },
+        "option": {
+            "english": ["5x = y", "x = 5y", "3x = 2y", "2x = 3y"],
+            "hindi": ["5x = y", "x = 5y", "3x = 2y", "2x = 3y"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the point which divides the join of (-1, 7) and (4, -3) in the ratio 2:3.",
+            "hindi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो (-1, 7) और (4, -3) को मिलाने वाले रेखाखंड को 2:3 के अनुपात में विभाजित करता है।"
+        },
+        "option": {
+            "english": ["(0, 1)", "(1, 3)", "(-1, 3)", "(2, 3)"],
+            "hindi": ["(0, 1)", "(1, 3)", "(-1, 3)", "(2, 3)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the ratio in which the line segment joining the points (-3, 10) and (6, -8) is divided by (-1, 6).",
+            "hindi": "वह अनुपात ज्ञात कीजिए जिसमें बिंदुओं (-3, 10) और (6, -8) को मिलाने वाला रेखाखंड (-1, 6) द्वारा विभाजित होता है।"
+        },
+        "option": {
+            "english": ["1:3", "3:4", "2:7", "2:5"],
+            "hindi": ["1:3", "3:4", "2:7", "2:5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a triangle whose vertices are (1, -1), (-4, 6) and (-3, -5).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष (1, -1), (-4, 6) और (-3, -5) हैं।"
+        },
+        "option": {
+            "english": ["20 sq. units", "22 sq. units", "24 sq. units", "28 sq. units"],
+            "hindi": ["20 वर्ग इकाई", "22 वर्ग इकाई", "24 वर्ग इकाई", "28 वर्ग इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the points (a, 0), (0, b) and (1, 1) are collinear, then 1/a + 1/b is:",
+            "hindi": "यदि बिंदु (a, 0), (0, b) और (1, 1) संरेख हैं, तो 1/a + 1/b है:"
+        },
+        "option": {
+            "english": ["1", "2", "0", "1/2"],
+            "hindi": ["1", "2", "0", "1/2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

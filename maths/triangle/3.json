@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Two triangles are similar if their corresponding sides are:",
+            "hindi": "दो त्रिभुज समरूप होते हैं यदि उनकी संगत भुजाएँ:"
+        },
+        "option": {
+            "english": ["proportional", "equal", "congruent", "perpendicular"],
+            "hindi": ["समानुपाती", "बराबर", "सर्वांगसम", "लंबवत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is the correct similarity criterion for two triangles?",
+            "hindi": "निम्नलिखित में से कौन दो त्रिभुजों के लिए सही समरूपता कसौटी है?"
+        },
+        "option": {
+            "english": ["AAA", "ASA", "AA", "SAS"],
+            "hindi": ["AAA", "ASA", "AA", "SAS"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD = 3 cm, DB = 4 cm and BC = 14 cm, then DE equals:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD = 3 सेमी, DB = 4 सेमी और BC = 14 सेमी, तो DE बराबर है:"
+        },
+        "option": {
+            "english": ["7 cm", "6 cm", "4 cm", "6 cm"],
+            "hindi": ["7 सेमी", "6 सेमी", "4 सेमी", "6 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='132' y1='72' x2='218' y2='72' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='122' y='67'>D</text><text x='223' y='67'>E</text><text x='100' y='90'>3</text><text x='100' y='110'>4</text><text x='160' y='90'>x</text><text x='160' y='135'>14</text><line x1='132' y1='72' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='218' y1='72' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in triangles ABC and DEF, AB/DE = BC/FD, then they will be similar, when:",
+            "hindi": "यदि त्रिभुज ABC और DEF में, AB/DE = BC/FD, तो वे समरूप होंगे, जब:"
+        },
+        "option": {
+            "english": ["∠B = ∠E", "∠B = ∠D", "∠A = ∠D", "∠A = ∠F"],
+            "hindi": ["∠B = ∠E", "∠B = ∠D", "∠A = ∠D", "∠A = ∠F"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PQ || RS, then which of the following is true?",
+            "hindi": "दिए गए चित्र में, यदि PQ || RS, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["ΔPOQ ~ ΔSOR", "ΔPOQ ≅ ΔSOR", "PO = SO", "PQ = RS"],
+            "hindi": ["ΔPOQ ~ ΔSOR", "ΔPOQ ≅ ΔSOR", "PO = SO", "PQ = RS"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='250' y2='120' stroke='black'/><line x1='100' y1='120' x2='250' y2='50' stroke='black'/><line x1='100' y1='50' x2='250' y2='50' stroke='black'/><line x1='100' y1='120' x2='250' y2='120' stroke='black'/><text x='90' y='45'>P</text><text x='255' y='45'>Q</text><text x='90' y='125'>R</text><text x='255' y='125'>S</text><text x='175' y='85'>O</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 2 pens and 3 pencils is ₹25. The cost of 3 pens and 1 pencil is ₹20. What is the cost of one pen?",
+            "hindi": "2 पेन और 3 पेंसिल का मूल्य ₹25 है। 3 पेन और 1 पेंसिल का मूल्य ₹20 है। एक पेन का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹5", "₹8", "₹5", "₹6"],
+            "hindi": ["₹5", "₹8", "₹5", "₹6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of the corresponding sides of two similar triangles is 4:9, then the ratio of their areas is:",
+            "hindi": "यदि दो समरूप त्रिभुजों की संगत भुजाओं का अनुपात 4:9 है, तो उनके क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["2:3", "3:2", "16:81", "81:16"],
+            "hindi": ["2:3", "3:2", "16:81", "81:16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In a right-angled triangle ABC, right-angled at B, if P and Q are points on the sides AB and BC respectively, then:",
+            "hindi": "एक समकोण त्रिभुज ABC में, जो B पर समकोण है, यदि P और Q क्रमशः भुजा AB और BC पर बिंदु हैं, तो:"
+        },
+        "option": {
+            "english": ["AQ² + CP² = AC² + PQ²", "2(AQ² + CP²) = AC² + PQ²", "AQ² + CP² = 2(AC² + PQ²)", "AQ + CP = 1/2(AC + PQ)"],
+            "hindi": ["AQ² + CP² = AC² + PQ²", "2(AQ² + CP²) = AC² + PQ²", "AQ² + CP² = 2(AC² + PQ²)", "AQ + CP = 1/2(AC + PQ)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The diagonals of a rhombus are 16 cm and 12 cm. Find the length of each side of the rhombus.",
+            "hindi": "एक समचतुर्भुज के विकर्ण 16 सेमी और 12 सेमी हैं। समचतुर्भुज की प्रत्येक भुजा की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["10 cm", "12 cm", "14 cm", "16 cm"],
+            "hindi": ["10 सेमी", "12 सेमी", "14 सेमी", "16 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In a triangle ABC, if AB = 16 cm, BC = 12 cm and AC = 20 cm, then triangle ABC is:",
+            "hindi": "एक त्रिभुज ABC में, यदि AB = 16 सेमी, BC = 12 सेमी और AC = 20 सेमी, तो त्रिभुज ABC है:"
+        },
+        "option": {
+            "english": ["an acute-angled triangle", "an isosceles triangle", "an obtuse-angled triangle", "a right-angled triangle"],
+            "hindi": ["एक न्यूनकोण त्रिभुज", "एक समद्विबाहु त्रिभुज", "एक अधिककोण त्रिभुज", "एक समकोण त्रिभुज"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

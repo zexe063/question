@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A circular piece of paper has area 154 cm². If it is cut into two equal parts, find the area of each part.",
+            "hindi": "एक वृत्ताकार कागज का क्षेत्रफल 154 सेमी² है। यदि इसे दो बराबर भागों में काटा जाए, तो प्रत्येक भाग का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["75 cm²", "76 cm²", "77 cm²", "78 cm²"],
+            "hindi": ["75 सेमी²", "76 सेमी²", "77 सेमी²", "78 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The radius of a circular ground is increased by 2 meters. If original radius was 5m, find the increase in area.",
+            "hindi": "एक वृत्ताकार मैदान की त्रिज्या 2 मीटर बढ़ाई जाती है। यदि मूल त्रिज्या 5 मीटर थी, तो क्षेत्रफल में वृद्धि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["75.36 m²", "75.86 m²", "76.36 m²", "76.86 m²"],
+            "hindi": ["75.36 मी²", "75.86 मी²", "76.36 मी²", "76.86 मी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular park of radius 20m has a path of width 2m around it. Find the cost of cementing the path at rate of ₹25 per m².",
+            "hindi": "20 मीटर त्रिज्या वाले एक वृत्ताकार पार्क के चारों ओर 2 मीटर चौड़ा पथ है। ₹25 प्रति मी² की दर से पथ को सीमेंट करने का खर्च ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6425", "6525", "6625", "6725"],
+            "hindi": ["6425", "6525", "6625", "6725"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The circumference of a circular field is 352m. Find its area in m².",
+            "hindi": "एक वृत्ताकार खेत की परिधि 352 मीटर है। इसका क्षेत्रफल मी² में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9856", "9856.5", "9857", "9857.5"],
+            "hindi": ["9856", "9856.5", "9857", "9857.5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular sheet of metal of radius 14cm is converted into a square. Find the side of the square.",
+            "hindi": "14 सेमी त्रिज्या वाली एक वृत्ताकार धातु की चादर को एक वर्ग में बदला जाता है। वर्ग की भुजा ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["24.2 cm", "24.6 cm", "24.8 cm", "25.2 cm"],
+            "hindi": ["24.2 सेमी", "24.6 सेमी", "24.8 सेमी", "25.2 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two concentric circles have radii 8cm and 6cm. Find the area of the ring formed between them.",
+            "hindi": "दो संकेंद्रीय वृत्तों की त्रिज्याएँ 8 सेमी और 6 सेमी हैं। उनके बीच बने छल्ले का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["75.36 cm²", "75.86 cm²", "76.36 cm²", "76.86 cm²"],
+            "hindi": ["75.36 सेमी²", "75.86 सेमी²", "76.36 सेमी²", "76.86 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The area of a circle is numerically equal to its circumference. Find its radius.",
+            "hindi": "एक वृत्त का क्षेत्रफल संख्यात्मक रूप से उसकी परिधि के बराबर है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2 units", "3 units", "4 units", "5 units"],
+            "hindi": ["2 इकाई", "3 इकाई", "4 इकाई", "5 इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular park has diameter 42m. Find the cost of fencing it twice around at rate of ₹80 per meter.",
+            "hindi": "एक वृत्ताकार पार्क का व्यास 42 मीटर है। ₹80 प्रति मीटर की दर से इसके चारों ओर दो बार बाड़ लगाने का खर्च ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["21080", "21120", "21160", "21200"],
+            "hindi": ["21080", "21120", "21160", "21200"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The difference between the areas of two circles is 385 cm². If radius of larger circle is 14cm, find radius of smaller circle.",
+            "hindi": "दो वृत्तों के क्षेत्रफलों का अंतर 385 सेमी² है। यदि बड़े वृत्त की त्रिज्या 14 सेमी है, तो छोटे वृत्त की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9 cm", "10 cm", "11 cm", "12 cm"],
+            "hindi": ["9 सेमी", "10 सेमी", "11 सेमी", "12 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A circular ground has area 15400 cm². Find the cost of leveling it at rate of ₹5 per m².",
+            "hindi": "एक वृत्ताकार मैदान का क्षेत्रफल 15400 सेमी² है। ₹5 प्रति मी² की दर से इसे समतल करने का खर्च ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7.5", "7.7", "7.9", "8.1"],
+            "hindi": ["7.5", "7.7", "7.9", "8.1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

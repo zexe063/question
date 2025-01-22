@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The equation of a line is y = -3x + 5. What is the slope of the line?",
+            "hindi": "एक रेखा का समीकरण y = -3x + 5 है। रेखा की ढलान क्या है?"
+        },
+        "option": {
+            "english": ["5", "-3", "3", "-5"],
+            "hindi": ["5", "-3", "3", "-5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of these points lies on the line x - 2y = 4?",
+            "hindi": "इनमें से कौन सा बिंदु x - 2y = 4 रेखा पर स्थित है?"
+        },
+        "option": {
+            "english": ["(0, 2)", "(4, 0)", "(2, -1)", "(1, 4)"],
+            "hindi": ["(0, 2)", "(4, 0)", "(2, -1)", "(1, 4)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The lines y = 2x - 3 and y = -2x + 3 are:",
+            "hindi": "रेखाएँ y = 2x - 3 और y = -2x + 3 हैं:"
+        },
+        "option": {
+            "english": ["Perpendicular", "Parallel", "Coincident", "None of these"],
+            "hindi": ["लंबवत", "समानांतर", "संपाती", "इनमें से कोई नहीं"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the value of y when x = 0 in the equation 4x - 3y = 9?",
+            "hindi": "जब समीकरण 4x - 3y = 9 में x = 0 तो y का मान क्या है?"
+        },
+        "option": {
+            "english": ["-9", "0", "9", "-3"],
+            "hindi": ["-9", "0", "9", "-3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which line is parallel to the line y = 3x - 2?",
+            "hindi": "कौन सी रेखा y = 3x - 2 के समानांतर है?"
+        },
+        "option": {
+            "english": ["y = -3x + 2", "y = 3x + 5", "y = -2x + 3", "x = 3y - 2"],
+            "hindi": ["y = -3x + 2", "y = 3x + 5", "y = -2x + 3", "x = 3y - 2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Solve for y: 4x + 3y = 11 and 2x - y = 3",
+            "hindi": "y के लिए हल करें: 4x + 3y = 11 और 2x - y = 3"
+        },
+        "option": {
+            "english": ["-1", "0", "2", "1"],
+            "hindi": ["-1", "0", "2", "1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of two numbers is 25 and their difference is 5. What are the numbers?",
+            "hindi": "दो संख्याओं का योग 25 है और उनका अंतर 5 है। संख्याएँ क्या हैं?"
+        },
+        "option": {
+            "english": ["15, 10", "16, 9", "14, 11", "13, 12"],
+            "hindi": ["15, 10", "16, 9", "14, 11", "13, 12"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If 3x - y = 5 and x + 2y = 4, what is the value of x + y?",
+            "hindi": "यदि 3x - y = 5 और x + 2y = 4, तो x + y का मान क्या है?"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of 'k' does the system 2x + ky = 6 and 4x + 4y = 12 have a unique solution?",
+            "hindi": "'k' के किस मान के लिए निकाय 2x + ky = 6 और 4x + 4y = 12 का एक अद्वितीय हल है?"
+        },
+        "option": {
+            "english": ["k = 1", "k ≠ 2", "k = 4", "k ≠ 4"],
+            "hindi": ["k = 1", "k ≠ 2", "k = 4", "k ≠ 4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A fraction becomes 4/5 if 1 is added to both numerator and denominator. If, however, 5 is subtracted from both numerator and denominator, the fraction becomes 1/2. What is the fraction?",
+            "hindi": "एक भिन्न 4/5 हो जाता है यदि अंश और हर दोनों में 1 जोड़ दिया जाए। हालाँकि, यदि अंश और हर दोनों से 5 घटा दिया जाए, तो भिन्न 1/2 हो जाता है। वह भिन्न क्या है?"
+        },
+        "option": {
+            "english": ["5/6", "6/7", "7/8", "7/9"],
+            "hindi": ["5/6", "6/7", "7/8", "7/9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

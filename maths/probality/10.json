@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the probability of drawing a king from a well-shuffled deck of 52 cards?",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से एक बादशाह निकालने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/13", "1/26", "1/52", "1/4"],
+            "hindi": ["1/13", "1/26", "1/52", "1/4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A die is thrown once. What is the probability of getting a number which is not a factor of 36?",
+            "hindi": "एक पासा एक बार फेंका जाता है। वह संख्या प्राप्त करने की प्रायिकता क्या है जो 36 का गुणनखंड नहीं है?"
+        },
+        "option": {
+            "english": ["1/6", "1/3", "1/2", "2/3"],
+            "hindi": ["1/6", "1/3", "1/2", "2/3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a number x is chosen from the numbers 1, 2, 3, and a number y is selected from the numbers 1, 4, 9. Then, P(xy < 9) is:",
+            "hindi": "यदि एक संख्या x को संख्या 1, 2, 3 से चुना जाता है, और एक संख्या y को संख्या 1, 4, 9 से चुना जाता है। तो, P(xy < 9) है:"
+        },
+        "option": {
+            "english": ["1/9", "2/9", "4/9", "5/9"],
+            "hindi": ["1/9", "2/9", "4/9", "5/9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A bag contains 4 red balls and 6 blue balls. What is the probability of drawing a ball that is not blue?",
+            "hindi": "एक बैग में 4 लाल गेंदें और 6 नीली गेंदें हैं। एक ऐसी गेंद निकालने की प्रायिकता क्या है जो नीली नहीं है?"
+        },
+        "option": {
+            "english": ["2/3", "3/5", "2/5", "1/5"],
+            "hindi": ["2/3", "3/5", "2/5", "1/5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two dice are thrown simultaneously. What is the probability of getting the sum of the numbers as a composite number?",
+            "hindi": "दो पासे एक साथ फेंके जाते हैं। संख्याओं का योग भाज्य संख्या आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["5/12", "7/12", "13/36", "23/36"],
+            "hindi": ["5/12", "7/12", "13/36", "23/36"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If three different coins are tossed together, then the probability of getting two heads is:",
+            "hindi": "यदि तीन अलग-अलग सिक्के एक साथ उछाले जाते हैं, तो दो चित आने की प्रायिकता है:"
+        },
+        "option": {
+            "english": ["1/8", "3/8", "5/8", "3/8"],
+            "hindi": ["1/8", "3/8", "5/8", "3/8"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn at random from a deck of cards. What is the probability that the card drawn is a red card and a face card?",
+            "hindi": "ताश के पत्तों की एक गड्डी से यादृच्छिक रूप से एक पत्ता निकाला जाता है। निकाले गए पत्ते के लाल पत्ता और चित्र पत्ता होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/26", "3/26", "3/13", "3/52"],
+            "hindi": ["1/26", "3/26", "3/13", "3/52"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A box contains 20 cards numbered from 1 to 20. A card is drawn at random from the box. What is the probability that the number on the card is a prime number?",
+            "hindi": "एक डिब्बे में 20 कार्ड हैं जिन पर 1 से 20 तक संख्याएँ अंकित हैं। डिब्बे से यादृच्छिक रूप से एक कार्ड निकाला जाता है। कार्ड पर संख्या अभाज्य संख्या होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/5", "2/5", "3/5", "4/5"],
+            "hindi": ["1/5", "2/5", "3/5", "4/5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The probability of guessing the correct answer to a certain test question is x/12. If the probability of not guessing the correct answer to this question is 2/3, then x is equal to:",
+            "hindi": "एक निश्चित परीक्षा प्रश्न के सही उत्तर का अनुमान लगाने की प्रायिकता x/12 है। यदि इस प्रश्न के सही उत्तर का अनुमान न लगाने की प्रायिकता 2/3 है, तो x बराबर है:"
+        },
+        "option": {
+            "english": ["4", "5", "6", "8"],
+            "hindi": ["4", "5", "6", "8"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random from the box, find the probability that it bears a perfect square number.",
+            "hindi": "एक डिब्बे में 90 डिस्क हैं जिन पर 1 से 90 तक संख्याएँ अंकित हैं। यदि डिब्बे से यादृच्छिक रूप से एक डिस्क निकाली जाती है, तो प्रायिकता ज्ञात कीजिए कि उस पर एक पूर्ण वर्ग संख्या है।"
+        },
+        "option": {
+            "english": ["1/9", "1/10", "1/18", "1/90"],
+            "hindi": ["1/9", "1/10", "1/18", "1/90"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

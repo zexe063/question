@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The graph of a linear equation in two variables is always a:",
+            "hindi": "दो चरों वाले रैखिक समीकरण का आलेख हमेशा होता है:"
+        },
+        "option": {
+            "english": ["Straight line", "Circle", "Parabola", "Curve"],
+            "hindi": ["सीधी रेखा", "वृत्त", "परवलय", "वक्र"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of these equations represents a line passing through the point (2, -1)?",
+            "hindi": "इनमें से कौन सा समीकरण बिंदु (2, -1) से गुजरने वाली रेखा को दर्शाता है?"
+        },
+        "option": {
+            "english": ["x + y = 3", "2x + y = 3", "x - y = 1", "x + 2y = 1"],
+            "hindi": ["x + y = 3", "2x + y = 3", "x - y = 1", "x + 2y = 1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the slope of the line represented by the equation 2x - 4y = 8?",
+            "hindi": "समीकरण 2x - 4y = 8 द्वारा प्रदर्शित रेखा की ढलान क्या है?"
+        },
+        "option": {
+            "english": ["-2", "1/4", "2", "1/2"],
+            "hindi": ["-2", "1/4", "2", "1/2"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x = 3 and y = 2 is a solution of the equation 4x - ky = 2, then k = ?",
+            "hindi": "यदि x = 3 और y = 2 समीकरण 4x - ky = 2 का हल है, तो k = ?"
+        },
+        "option": {
+            "english": ["2", "3", "5", "6"],
+            "hindi": ["2", "3", "5", "6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x: 4x - 3y = 7 and 2x + y = 5",
+            "hindi": "x के लिए हल करें: 4x - 3y = 7 और 2x + y = 5"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 5 pens and 3 pencils is ₹31. The cost of 2 pens and 2 pencils is ₹16. What is the cost of one pencil?",
+            "hindi": "5 पेन और 3 पेंसिल का मूल्य ₹31 है। 2 पेन और 2 पेंसिल का मूल्य ₹16 है। एक पेंसिल का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹2", "₹3", "₹2", "₹4"],
+            "hindi": ["₹2", "₹3", "₹2", "₹4"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then what is the value of k?",
+            "hindi": "यदि रेखाएँ 3x + 2ky = 2 और 2x + 5y + 1 = 0 समानांतर हैं, तो k का मान क्या है?"
+        },
+        "option": {
+            "english": ["4/15", "3/2", "2/3", "15/4"],
+            "hindi": ["4/15", "3/2", "2/3", "15/4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The system of equations x - 4y = 8 and 3x - 12y = 24 has:",
+            "hindi": "समीकरणों की प्रणाली x - 4y = 8 और 3x - 12y = 24:"
+        },
+        "option": {
+            "english": ["A unique solution", "Infinitely many solutions", "No solution", "Exactly two solutions"],
+            "hindi": ["एक अद्वितीय हल", "अनंत रूप से अनेक हल", "कोई हल नहीं", "ठीक दो हल"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Eight years ago, Ram was thrice as old as Shyam. Eight years hence, Ram will be twice as old as Shyam. What is Ram's present age?",
+            "hindi": "आठ साल पहले, राम श्याम से तीन गुना बड़ा था। आठ साल बाद, राम श्याम से दोगुना बड़ा होगा। राम की वर्तमान आयु क्या है?"
+        },
+        "option": {
+            "english": ["40 years", "36 years", "42 years", "48 years"],
+            "hindi": ["40 वर्ष", "36 वर्ष", "42 वर्ष", "48 वर्ष"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 63 km downstream.",
+            "hindi": "एक नाव शांत जल में 13 किमी/घंटा की गति से यात्रा कर सकती है। यदि धारा की गति 4 किमी/घंटा है, तो नाव द्वारा 63 किमी धारा के अनुकूल जाने में लगने वाला समय ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9 hrs", "7 hrs", "3 hrs", "5 hrs"],
+            "hindi": ["9 घंटे", "7 घंटे", "3 घंटे", "5 घंटे"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which equation represents a line passing through the origin?",
+            "hindi": "कौन सा समीकरण मूल बिंदु से गुजरने वाली रेखा को दर्शाता है?"
+        },
+        "option": {
+            "english": ["x + y = 1", "x - y = 1", "y = 2x", "x = 2"],
+            "hindi": ["x + y = 1", "x - y = 1", "y = 2x", "x = 2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the value of x when y = -2 in the equation 3x - y = 5?",
+            "hindi": "जब समीकरण 3x - y = 5 में y = -2 तो x का मान क्या है?"
+        },
+        "option": {
+            "english": ["-1", "0", "2", "1"],
+            "hindi": ["-1", "0", "2", "1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The line 4x + ky = 8 passes through (2, 0). What is the value of k?",
+            "hindi": "रेखा 4x + ky = 8 बिंदु (2, 0) से होकर गुजरती है। k का मान क्या है?"
+        },
+        "option": {
+            "english": ["-2", "1", "0", "2"],
+            "hindi": ["-2", "1", "0", "2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is NOT a solution to 2x - y = 6?",
+            "hindi": "निम्नलिखित में से कौन 2x - y = 6 का हल नहीं है?"
+        },
+        "option": {
+            "english": ["(2, 2)", "(3, 0)", "(4, 2)", "(0, -6)"],
+            "hindi": ["(2, 2)", "(3, 0)", "(4, 2)", "(0, -6)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the y-intercept of the line 3x + 2y = 6?",
+            "hindi": "रेखा 3x + 2y = 6 का y-अवरोधन क्या है?"
+        },
+        "option": {
+            "english": ["2", "3", "6", "0"],
+            "hindi": ["2", "3", "6", "0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x: 3x - 2y = 4 and 2x + 2y = 6",
+            "hindi": "x के लिए हल करें: 3x - 2y = 4 और 2x + 2y = 6"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The perimeter of a rectangle is 28 cm. If the length is 4 cm more than the width, what is the width?",
+            "hindi": "एक आयत का परिमाप 28 सेमी है। यदि लंबाई चौड़ाई से 4 सेमी अधिक है, तो चौड़ाई क्या है?"
+        },
+        "option": {
+            "english": ["4 cm", "5 cm", "8 cm", "6 cm"],
+            "hindi": ["4 सेमी", "5 सेमी", "8 सेमी", "6 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If 2x + 3y = 7 and x - y = -1, what is the value of 2x - y?",
+            "hindi": "यदि 2x + 3y = 7 और x - y = -1, तो 2x - y का मान क्या है?"
+        },
+        "option": {
+            "english": ["1", "3", "5", "7"],
+            "hindi": ["1", "3", "5", "7"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of 'a' does the system ax + 3y = 5 and 4x + 6y = 10 have infinitely many solutions?",
+            "hindi": "'a' के किस मान के लिए निकाय ax + 3y = 5 और 4x + 6y = 10 के अनंत हल हैं?"
+        },
+        "option": {
+            "english": ["1", "4", "2", "6"],
+            "hindi": ["1", "4", "2", "6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man has only 20 paisa coins and 25 paisa coins in his purse. If he has 50 coins in all totaling ₹11.25, how many coins of each kind does he have?",
+            "hindi": "एक व्यक्ति के बटुए में केवल 20 पैसे के सिक्के और 25 पैसे के सिक्के हैं। यदि उसके पास कुल मिलाकर 50 सिक्के हैं और कुल ₹11.25 हैं, तो उसके पास प्रत्येक प्रकार के कितने सिक्के हैं?"
+        },
+        "option": {
+            "english": ["25, 25", "35, 15", "30, 20", "40, 10"],
+            "hindi": ["25, 25", "35, 15", "30, 20", "40, 10"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

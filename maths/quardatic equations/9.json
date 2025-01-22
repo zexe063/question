@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The quadratic equation x² + 5x + 6 = 0 has:",
+            "hindi": "द्विघात समीकरण x² + 5x + 6 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["No real roots", "Two real roots", "Equal roots", "Complex roots"],
+            "hindi": ["कोई वास्तविक मूल नहीं", "दो वास्तविक मूल", "बराबर मूल", "मिश्र मूल"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of x² - 4x + 3 = 0 is:",
+            "hindi": "x² - 4x + 3 = 0 का विवेचक है:"
+        },
+        "option": {
+            "english": ["2", "4", "8", "16"],
+            "hindi": ["2", "4", "8", "16"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 6x + 9 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² - 6x + 9 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["9", "6", "3", "0"],
+            "hindi": ["9", "6", "3", "0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k = 0 has real roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k = 0 के वास्तविक मूल हैं:"
+        },
+        "option": {
+            "english": ["k ≤ 1", "k ≥ 1", "k < 1", "k > 1"],
+            "hindi": ["k ≤ 1", "k ≥ 1", "k < 1", "k > 1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of p will x² + 2px + p = 0 have equal roots?",
+            "hindi": "p के किस मान के लिए x² + 2px + p = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["0", "1", "2", "3"],
+            "hindi": ["0", "1", "2", "3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + mx + 6 = 0 is thrice the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 = 0 का एक मूल दूसरे का तिगुना है, तो m बराबर है:"
+        },
+        "option": {
+            "english": ["-3", "-4", "-5", "-6"],
+            "hindi": ["-3", "-4", "-5", "-6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The product of roots of ax² + bx + c = 0 is given by:",
+            "hindi": "ax² + bx + c = 0 के मूलों का गुणनफल दिया जाता है:"
+        },
+        "option": {
+            "english": ["b/a", "c/a", "-c/a", "-b/a"],
+            "hindi": ["b/a", "c/a", "-c/a", "-b/a"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A shopkeeper bought x chairs for Rs. 1000. If he had bought 2 more chairs for the same amount, each chair would have cost Rs. 5 less. The number of chairs he bought is:",
+            "hindi": "एक दुकानदार ने Rs. 1000 में x कुर्सियाँ खरीदीं। यदि वह उतनी ही राशि में 2 कुर्सियाँ और खरीदता, तो प्रत्येक कुर्सी Rs. 5 कम की पड़ती। उसने कितनी कुर्सियाँ खरीदीं:"
+        },
+        "option": {
+            "english": ["8", "10", "12", "14"],
+            "hindi": ["8", "10", "12", "14"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 5x + 6 = 0, then α²β + αβ² equals:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": ["15", "20", "25", "30"],
+            "hindi": ["15", "20", "25", "30"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of squares of two consecutive positive integers is 365. The integers are:",
+            "hindi": "दो क्रमागत धनात्मक पूर्णांकों के वर्गों का योग 365 है। वे पूर्णांक हैं:"
+        },
+        "option": {
+            "english": ["12,13", "13,14", "14,15", "15,16"],
+            "hindi": ["12,13", "13,14", "14,15", "15,16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

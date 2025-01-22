@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Three numbers are in AP. If sum is 15 and product is 125, find the middle number.",
+            "hindi": "तीन संख्याएँ AP में हैं। यदि योग 15 और गुणनफल 125 है, तो मध्य संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 7th term of an AP is twice its 3rd term, and 12th term is twice its 8th term, find the first term if common difference is 4.",
+            "hindi": "यदि एक AP का 7वाँ पद इसके 3रे पद का दोगुना है, और 12वाँ पद इसके 8वें पद का दोगुना है, तो सार्वअंतर 4 होने पर प्रथम पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, sum of first 5 terms is 25 and sum of next 5 terms is 75. Find the common difference.",
+            "hindi": "एक AP में, प्रथम 5 पदों का योग 25 है और अगले 5 पदों का योग 75 है। सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8", "9", "10", "11"],
+            "hindi": ["8", "9", "10", "11"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The 4th and 8th terms of an AP are 14 and 26 respectively. Find the 15th term.",
+            "hindi": "एक AP के 4थे और 8वें पद क्रमशः 14 और 26 हैं। 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["47", "48", "49", "50"],
+            "hindi": ["47", "48", "49", "50"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is (2n² - 3n), find the common difference.",
+            "hindi": "यदि एक AP के n पदों का योग (2n² - 3n) है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the number of terms in AP: 7, 10, 13, ..., 40",
+            "hindi": "AP: 7, 10, 13, ..., 40 में पदों की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["10", "11", "12", "13"],
+            "hindi": ["10", "11", "12", "13"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The arithmetic mean of two numbers is 15 and their geometric mean is 12. Find the numbers.",
+            "hindi": "दो संख्याओं का समांतर माध्य 15 और गुणोत्तर माध्य 12 है। संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9,21", "8,22", "7,23", "6,24"],
+            "hindi": ["9,21", "8,22", "7,23", "6,24"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all two digit numbers which when divided by 4 leave remainder 3.",
+            "hindi": "सभी दो अंकों की संख्याओं का योग ज्ञात कीजिए जो 4 से विभाजित करने पर शेषफल 3 देती हैं।"
+        },
+        "option": {
+            "english": ["1175", "1180", "1185", "1190"],
+            "hindi": ["1175", "1180", "1185", "1190"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP with n terms is increased by 5, then Sn increases by 40. Find n.",
+            "hindi": "यदि n पदों वाली एक AP के प्रत्येक पद में 5 जोड़ा जाए, तो Sn में 40 की वृद्धि होती है। n ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all natural numbers between 100 and 200 which are divisible by 7.",
+            "hindi": "100 और 200 के बीच 7 से विभाज्य सभी प्राकृत संख्याओं का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2107", "2117", "2127", "2137"],
+            "hindi": ["2107", "2117", "2127", "2137"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

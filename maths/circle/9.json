@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A line that intersects a circle in two points is called a:",
+            "hindi": "एक रेखा जो एक वृत्त को दो बिंदुओं पर प्रतिच्छेद करती है, कहलाती है:"
+        },
+        "option": {
+            "english": ["Tangent", "Secant", "Diameter", "Radius"],
+            "hindi": ["स्पर्शरेखा", "छेदक", "व्यास", "त्रिज्या"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The lengths of tangents drawn from an external point to a circle are:",
+            "hindi": "एक बाहरी बिंदु से एक वृत्त पर खींची गई स्पर्शरेखाओं की लंबाई होती है:"
+        },
+        "option": {
+            "english": ["Unequal", "Cannot be determined", "Half", "Equal"],
+            "hindi": ["असमान", "निर्धारित नहीं किया जा सकता", "आधी", "बराबर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if O is the center of the circle, what is the measure of ∠ADC?",
+            "hindi": "दिए गए चित्र में, यदि O वृत्त का केंद्र है, तो ∠ADC का माप क्या है?"
+        },
+        "option": {
+            "english": ["45°", "55°", "65°", "75°"],
+            "hindi": ["45°", "55°", "65°", "75°"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='175' y2='125' stroke='black'/><line x1='225' y1='75' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='170' y='50'>130°</text><text x='160' y='100'>D</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a tangent to a circle is perpendicular to the radius at the point of contact, and the radius is 5 cm, what is the length of the tangent from a point 13 cm away from the center?",
+            "hindi": "यदि एक वृत्त की स्पर्शरेखा स्पर्श बिंदु पर त्रिज्या के लंबवत है, और त्रिज्या 5 सेमी है, तो केंद्र से 13 सेमी दूर एक बिंदु से स्पर्शरेखा की लंबाई क्या है?"
+        },
+        "option": {
+            "english": ["12 cm", "13 cm", "14 cm", "15 cm"],
+            "hindi": ["12 सेमी", "13 सेमी", "14 सेमी", "15 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PQR is a tangent to the circle at Q and ∠SQR = 50°, then what is the measure of ∠SQO?",
+            "hindi": "दिए गए चित्र में, यदि PQR, Q पर वृत्त की स्पर्शरेखा है और ∠SQR = 50°, तो ∠SQO का माप क्या है?"
+        },
+        "option": {
+            "english": ["30°", "40°", "50°", "60°"],
+            "hindi": ["30°", "40°", "50°", "60°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='75' stroke='black'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><line x1='225' y1='75' x2='275' y2='75' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>S</text><text x='230' y='70'>Q</text><text x='280' y='70'>R</text><text x='230' y='60'>50°</text><text x='175' y='125'>P</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If a quadrilateral ABCD is drawn to circumscribe a circle, and AB = 5 cm, BC = 7 cm, and CD = 6 cm, then the length of AD is:",
+            "hindi": "यदि एक चतुर्भुज ABCD एक वृत्त को परिगत करने के लिए खींचा गया है, और AB = 5 सेमी, BC = 7 सेमी, और CD = 6 सेमी, तो AD की लंबाई है:"
+        },
+        "option": {
+            "english": ["3 cm", "4 cm", "5 cm", "6 cm"],
+            "hindi": ["3 सेमी", "4 सेमी", "5 सेमी", "6 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, O is the center of the circle. If ∠OAB = 40° and ∠OCB = 30°, find ∠AOC.",
+            "hindi": "दिए गए चित्र में, O वृत्त का केंद्र है। यदि ∠OAB = 40° और ∠OCB = 30°, तो ∠AOC ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["70°", "100°", "120°", "140°"],
+            "hindi": ["70°", "100°", "120°", "140°"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='175' y1='25' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='140' y='50'>40°</text><text x='200' y='50'>30°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the angle between two tangents drawn from an external point P to a circle of radius 'a' and center O is 60°, then find the length of OP.",
+            "hindi": "यदि एक बाहरी बिंदु P से त्रिज्या 'a' और केंद्र O वाले एक वृत्त पर खींची गई दो स्पर्शरेखाओं के बीच का कोण 60° है, तो OP की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2a", "a", "a√3", "2a√3"],
+            "hindi": ["2a", "a", "a√3", "2a√3"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 70°, then ∠AOB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 70°, तो ∠AOB बराबर है:"
+        },
+        "option": {
+            "english": ["100°", "110°", "120°", "130°"],
+            "hindi": ["100°", "110°", "120°", "130°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>70°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two concentric circles are of radii 13 cm and 5 cm. Find the length of the chord of the larger circle which touches the smaller circle.",
+            "hindi": "दो संकेंद्रित वृत्त 13 सेमी और 5 सेमी त्रिज्या के हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती है।"
+        },
+        "option": {
+            "english": ["12 cm", "18 cm", "24 cm", "25 cm"],
+            "hindi": ["12 सेमी", "18 सेमी", "24 सेमी", "25 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

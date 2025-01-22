@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "The remainder when p(x) = x³ + 2x² - 5x - 6 is divided by x + 2 is:",
+            "hindi": "जब p(x) = x³ + 2x² - 5x - 6 को x + 2 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "-2",
+                "2",
+                "4"
+            ],
+            "hindi": [
+                "0",
+                "-2",
+                "2",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 7x + 10, then α + β equals:",
+            "hindi": "यदि α और β बहुपद x² - 7x + 10 के शून्यक हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": [
+                "10",
+                "7",
+                "-7",
+                "-10"
+            ],
+            "hindi": [
+                "10",
+                "7",
+                "-7",
+                "-10"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x² + px + q has sum of zeros as 4 and product of zeros as 3. The value of p is:",
+            "hindi": "बहुपद x² + px + q के शून्यकों का योग 4 और गुणनफल 3 है। p का मान है:"
+        },
+        "option": {
+            "english": [
+                "4",
+                "-4",
+                "-3",
+                "-5"
+            ],
+            "hindi": [
+                "4",
+                "-4",
+                "-3",
+                "-5"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of x² + 3x + k is twice the other, then k equals:",
+            "hindi": "यदि x² + 3x + k का एक शून्यक दूसरे का दोगुना है, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "hindi": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The number of polynomials having zeros as -2 and 3 is:",
+            "hindi": "-2 और 3 को शून्यक रखने वाले बहुपदों की संख्या है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "Infinite",
+                "0"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "अनंत",
+                "0"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then α²β + αβ² equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "15",
+                "20",
+                "25",
+                "30"
+            ],
+            "hindi": [
+                "15",
+                "20",
+                "25",
+                "30"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x³ - 4x² + 5x - 2 leaves remainder R when divided by x - 1, then:",
+            "hindi": "यदि p(x) = x³ - 4x² + 5x - 2 को x - 1 से विभाजित करने पर शेषफल R है, तो:"
+        },
+        "option": {
+            "english": [
+                "R = p(0)",
+                "R = p(1)",
+                "R = p(-1)",
+                "R = p(2)"
+            ],
+            "hindi": [
+                "R = p(0)",
+                "R = p(1)",
+                "R = p(-1)",
+                "R = p(2)"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 3x + 1, then (1/α² + 1/β²) equals:",
+            "hindi": "यदि α और β बहुपद x² - 3x + 1 के शून्यक हैं, तो (1/α² + 1/β²) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "7",
+                "9",
+                "11",
+                "13"
+            ],
+            "hindi": [
+                "7",
+                "9",
+                "11",
+                "13"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α³ + β³ = 27, α + β = 6, then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α³ + β³ = 27, α + β = 6, तो:"
+        },
+        "option": {
+            "english": [
+                "p = -6, q = 7",
+                "p = -6, q = 8",
+                "p = -6, q = 9",
+                "p = -6, q = 10"
+            ],
+            "hindi": [
+                "p = -6, q = 7",
+                "p = -6, q = 8",
+                "p = -6, q = 9",
+                "p = -6, q = 10"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 4x³ + ax² + bx + 4 has x + 1 and x - 2 as factors, then:",
+            "hindi": "यदि p(x) = x⁴ - 4x³ + ax² + bx + 4 के x + 1 और x - 2 गुणनखंड हैं, तो:"
+        },
+        "option": {
+            "english": [
+                "a - b = 2",
+                "a + b = 2",
+                "a - b = 4",
+                "a + b = 4"
+            ],
+            "hindi": [
+                "a - b = 2",
+                "a + b = 2",
+                "a - b = 4",
+                "a + b = 4"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    }
+]

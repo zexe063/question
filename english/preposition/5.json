@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The bus stopped _____ the traffic light.",
+        "hindi": "Choose the correct preposition: The bus stopped _____ the traffic light."
+      },
+      "option": {
+        "english": [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        "hindi": [
+          "on",
+          "at",
+          "in",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The picture hangs _____ the wall.",
+        "hindi": "Fill in the blank: The picture hangs _____ the wall."
+      },
+      "option": {
+        "english": [
+          "at",
+          "by",
+          "on",
+          "in"
+        ],
+        "hindi": [
+          "at",
+          "by",
+          "on",
+          "in"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The class begins _____ 9 AM.",
+        "hindi": "Select the right preposition: The class begins _____ 9 AM."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The bird flew _____ the forest.",
+        "hindi": "Choose the correct preposition: The bird flew _____ the forest."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "by",
+          "through"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "by",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She is waiting _____ her friend.",
+        "hindi": "Fill in the blank: She is waiting _____ her friend."
+      },
+      "option": {
+        "english": [
+          "to",
+          "for",
+          "at",
+          "by"
+        ],
+        "hindi": [
+          "to",
+          "for",
+          "at",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The car crashed _____ the tree.",
+        "hindi": "Select the appropriate preposition: The car crashed _____ the tree."
+      },
+      "option": {
+        "english": [
+          "on",
+          "by",
+          "at",
+          "into"
+        ],
+        "hindi": [
+          "on",
+          "by",
+          "at",
+          "into"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The milk spilled _____ the floor.",
+        "hindi": "Choose the correct preposition: The milk spilled _____ the floor."
+      },
+      "option": {
+        "english": [
+          "on",
+          "at",
+          "in",
+          "by"
+        ],
+        "hindi": [
+          "on",
+          "at",
+          "in",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: He succeeded _____ his efforts.",
+        "hindi": "Fill in the blank: He succeeded _____ his efforts."
+      },
+      "option": {
+        "english": [
+          "by",
+          "with",
+          "in",
+          "for"
+        ],
+        "hindi": [
+          "by",
+          "with",
+          "in",
+          "for"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: She is fond _____ chocolate.",
+        "hindi": "Select the right preposition: She is fond _____ chocolate."
+      },
+      "option": {
+        "english": [
+          "with",
+          "of",
+          "to",
+          "for"
+        ],
+        "hindi": [
+          "with",
+          "of",
+          "to",
+          "for"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The book was divided _____ chapters.",
+        "hindi": "Choose the correct preposition: The book was divided _____ chapters."
+      },
+      "option": {
+        "english": [
+          "by",
+          "with",
+          "to",
+          "into"
+        ],
+        "hindi": [
+          "by",
+          "with",
+          "to",
+          "into"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

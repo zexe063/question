@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the area of a circle whose radius is 35 cm.",
+            "hindi": "35 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3846.5 cm²", "3847.5 cm²", "3848.5 cm²", "3849.5 cm²"],
+            "hindi": ["3846.5 सेमी²", "3847.5 सेमी²", "3848.5 सेमी²", "3849.5 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the cost of painting a circular table top of diameter 1.4m at rate of ₹40 per m².",
+            "hindi": "1.4 मीटर व्यास की एक वृत्ताकार मेज की ऊपरी सतह को ₹40 प्रति मी² की दर से पेंट करने का खर्च ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["61.6", "62.6", "63.6", "64.6"],
+            "hindi": ["61.6", "62.6", "63.6", "64.6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular playground has diameter 70 meters. Find its area.",
+            "hindi": "एक वृत्ताकार खेल का मैदान का व्यास 70 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3846.5 m²", "3847.5 m²", "3848.5 m²", "3849.5 m²"],
+            "hindi": ["3846.5 मी²", "3847.5 मी²", "3848.5 मी²", "3849.5 मी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Three identical circles of radius 7 cm touch each other externally. Find the area of the space enclosed between them.",
+            "hindi": "7 सेमी त्रिज्या के तीन समान वृत्त एक दूसरे को बाह्य रूप से स्पर्श करते हैं। उनके बीच घिरे स्थान का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["32.14 cm²", "33.14 cm²", "34.14 cm²", "35.14 cm²"],
+            "hindi": ["32.14 सेमी²", "33.14 सेमी²", "34.14 सेमी²", "35.14 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular pond has area 5544 m². Find its circumference.",
+            "hindi": "एक वृत्ताकार तालाब का क्षेत्रफल 5544 मी² है। इसकी परिधि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["262.8 m", "263.8 m", "264.8 m", "265.8 m"],
+            "hindi": ["262.8 मी", "263.8 मी", "264.8 मी", "265.8 मी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two concentric circles have areas 616 cm² and 154 cm². Find the width of the ring formed.",
+            "hindi": "दो संकेंद्रीय वृत्तों के क्षेत्रफल 616 सेमी² और 154 सेमी² हैं। बने हुए छल्ले की चौड़ाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4 cm", "5 cm", "6 cm", "7 cm"],
+            "hindi": ["4 सेमी", "5 सेमी", "6 सेमी", "7 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular track of width 3m has inner radius 32m. Find the area of the track.",
+            "hindi": "3 मीटर चौड़ाई के एक वृत्ताकार ट्रैक की आंतरिक त्रिज्या 32 मीटर है। ट्रैक का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["618.5 m²", "619.5 m²", "620.5 m²", "621.5 m²"],
+            "hindi": ["618.5 मी²", "619.5 मी²", "620.5 मी²", "621.5 मी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular sheet of radius 21 cm is cut from a rectangular sheet of 50 cm × 50 cm. Find the area of remaining part.",
+            "hindi": "50 सेमी × 50 सेमी के आयताकार शीट से 21 सेमी त्रिज्या की एक वृत्ताकार शीट काटी जाती है। शेष भाग का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1112.54 cm²", "1113.54 cm²", "1114.54 cm²", "1115.54 cm²"],
+            "hindi": ["1112.54 सेमी²", "1113.54 सेमी²", "1114.54 सेमी²", "1115.54 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A circular park is divided into 8 equal parts by straight paths through center. Find the total length of all paths.",
+            "hindi": "एक वृत्ताकार पार्क को केंद्र से होकर गुजरने वाले सीधे पथों द्वारा 8 बराबर भागों में बाँटा गया है। सभी पथों की कुल लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["144 m", "145 m", "146 m", "147 m"],
+            "hindi": ["144 मी", "145 मी", "146 मी", "147 मी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A sector of a circle of radius 12 cm has area equal to one-third of the circle. Find the length of its arc.",
+            "hindi": "12 सेमी त्रिज्या वाले वृत्त के एक त्रिज्यखंड का क्षेत्रफल वृत्त के एक-तिहाई के बराबर है। इसके चाप की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["25.12 cm", "25.13 cm", "25.14 cm", "25.15 cm"],
+            "hindi": ["25.12 सेमी", "25.13 सेमी", "25.14 सेमी", "25.15 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the first term of an AP whose 4th term is 13 and 10th term is 31.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 4था पद 13 और 10वाँ पद 31 है।"
+        },
+        "option": {
+            "english": ["4", "5", "6", "7"],
+            "hindi": ["4", "5", "6", "7"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 4, 1, -2, -5, -8",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 4, 1, -2, -5, -8"
+        },
+        "option": {
+            "english": ["-2", "-3", "-4", "-5"],
+            "hindi": ["-2", "-3", "-4", "-5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which term of AP: 5, 8, 11, 14, ... is 101?",
+            "hindi": "AP: 5, 8, 11, 14, ... का कौन सा पद 101 है?"
+        },
+        "option": {
+            "english": ["31st", "32nd", "33rd", "34th"],
+            "hindi": ["31वाँ", "32वाँ", "33वाँ", "34वाँ"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the 20th term of AP: 3, 7, 11, 15, ...",
+            "hindi": "AP: 3, 7, 11, 15, ... का 20वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["75", "77", "79", "81"],
+            "hindi": ["75", "77", "79", "81"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If first term is 5 and last term is 45 in an AP of 11 terms, find the common difference.",
+            "hindi": "यदि 11 पदों की एक AP का पहला पद 5 और अंतिम पद 45 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of first 15 terms of AP whose 3rd term is 7 and 7th term is 23.",
+            "hindi": "एक AP के प्रथम 15 पदों का योग ज्ञात कीजिए जिसका 3रा पद 7 और 7वाँ पद 23 है।"
+        },
+        "option": {
+            "english": ["375", "385", "395", "405"],
+            "hindi": ["375", "385", "395", "405"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three numbers in AP is 21 and their product is 231. Find the numbers.",
+            "hindi": "AP में तीन संख्याओं का योग 21 और उनका गुणनफल 231 है। संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5,7,9", "6,7,8", "7,8,9", "5,8,11"],
+            "hindi": ["5,7,9", "6,7,8", "7,8,9", "5,8,11"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all even numbers between 50 and 200.",
+            "hindi": "50 और 200 के बीच सभी सम संख्याओं का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9950", "10000", "10050", "10100"],
+            "hindi": ["9950", "10000", "10050", "10100"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is 4n² - n, find the common difference.",
+            "hindi": "यदि एक AP के n पदों का योग 4n² - n है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6", "7", "8", "9"],
+            "hindi": ["6", "7", "8", "9"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of 4th and 8th terms of an AP is 28 and sum of 6th and 10th terms is 40. Find the common difference.",
+            "hindi": "एक AP के 4थे और 8वें पद का योग 28 है और 6ठे और 10वें पद का योग 40 है। सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

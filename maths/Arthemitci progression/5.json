@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 15th term of AP: 2, 5, 8, 11, ...",
+            "hindi": "AP: 2, 5, 8, 11, ... का 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["42", "43", "44", "45"],
+            "hindi": ["42", "43", "44", "45"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 6th term of an AP is 22 and 10th term is 38, find the common difference.",
+            "hindi": "यदि एक AP का 6ठा पद 22 और 10वाँ पद 38 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 8th term is 37 and 12th term is 57.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 8वाँ पद 37 और 12वाँ पद 57 है।"
+        },
+        "option": {
+            "english": ["5", "7", "9", "11"],
+            "hindi": ["5", "7", "9", "11"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if a₃ = 12 and a₇ = 24, find a₁₀.",
+            "hindi": "एक AP में, यदि a₃ = 12 और a₇ = 24 है, तो a₁₀ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["33", "34", "35", "36"],
+            "hindi": ["33", "34", "35", "36"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: -8, -3, 2, 7, 12",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: -8, -3, 2, 7, 12"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The 4th term of an AP is twice the first term and 7th term is twice the 4th term. Find the common difference if first term is 3.",
+            "hindi": "एक AP का 4था पद पहले पद का दोगुना है और 7वाँ पद 4थे पद का दोगुना है। यदि पहला पद 3 है तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all multiples of 5 between 50 and 200.",
+            "hindi": "50 और 200 के बीच 5 के सभी गुणजों का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2475", "2575", "2675", "2775"],
+            "hindi": ["2475", "2575", "2675", "2775"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Three numbers are in AP. The sum of first and last number is 10 and middle number is 4. Find the numbers.",
+            "hindi": "तीन संख्याएँ AP में हैं। पहली और अंतिम संख्या का योग 10 है और मध्य संख्या 4 है। संख्याएँ ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1,4,9", "2,4,8", "0,4,10", "3,4,7"],
+            "hindi": ["1,4,9", "2,4,8", "0,4,10", "3,4,7"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is 3n² + 2n, find the 10th term.",
+            "hindi": "यदि एक AP के n पदों का योग 3n² + 2n है, तो 10वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["62", "63", "64", "65"],
+            "hindi": ["62", "63", "64", "65"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of n terms of an AP is (2n² + 3n). The ratio of its 12th term to 8th term is:",
+            "hindi": "एक AP के n पदों का योग (2n² + 3n) है। इसके 12वें पद और 8वें पद का अनुपात है:"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:4", "6:5"],
+            "hindi": ["3:2", "4:3", "5:4", "6:5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

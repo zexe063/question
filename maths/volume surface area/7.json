@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the curved surface area of a cone whose slant height is 10 cm and base radius is 7 cm.",
+            "hindi": "एक शंकु का वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए जिसकी तिर्यक ऊंचाई 10 सेमी और आधार त्रिज्या 7 सेमी है।"
+        },
+        "option": {
+            "english": [
+                "200 cm²",
+                "210 cm²",
+                "220 cm²",
+                "230 cm²"
+            ],
+            "hindi": [
+                "200 सेमी²",
+                "210 सेमी²",
+                "220 सेमी²",
+                "230 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical tank of diameter 14 m and height 3 m is filled with water. Find the volume of water in kiloliters.",
+            "hindi": "14 मीटर व्यास और 3 मीटर ऊंचाई की बेलनाकार टंकी पानी से भरी है। पानी का आयतन किलोलीटर में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "461.58 kL",
+                "471.58 kL",
+                "481.58 kL",
+                "491.58 kL"
+            ],
+            "hindi": [
+                "461.58 किलोलीटर",
+                "471.58 किलोलीटर",
+                "481.58 किलोलीटर",
+                "491.58 किलोलीटर"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The radius of a sphere is increased by 10%. Find the percentage increase in its surface area.",
+            "hindi": "एक गोले की त्रिज्या में 10% की वृद्धि की जाती है। इसके पृष्ठीय क्षेत्रफल में प्रतिशत वृद्धि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "19%",
+                "21%",
+                "23%",
+                "25%"
+            ],
+            "hindi": [
+                "19%",
+                "21%",
+                "23%",
+                "25%"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid iron cuboid measures 4.4 m × 2.6 m × 1.0 m. If iron weighs 7.8 g per cubic cm, find the weight of the cuboid in quintals.",
+            "hindi": "एक ठोस लोहे का घनाभ 4.4 मीटर × 2.6 मीटर × 1.0 मीटर माप का है। यदि लोहे का वजन 7.8 ग्राम प्रति घन सेमी है, तो घनाभ का वजन क्विंटल में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "882.32 q",
+                "892.32 q",
+                "902.32 q",
+                "892.32 q"
+            ],
+            "hindi": [
+                "882.32 क्विंटल",
+                "892.32 क्विंटल",
+                "902.32 क्विंटल",
+                "892.32 क्विंटल"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cylinder has outer radius 7 cm and inner radius 5 cm. If its height is 10 cm, find its volume.",
+            "hindi": "एक खोखले बेलन की बाहरी त्रिज्या 7 सेमी और आंतरिक त्रिज्या 5 सेमी है। यदि इसकी ऊंचाई 10 सेमी है, तो इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "440π cm³",
+                "480π cm³",
+                "520π cm³",
+                "560π cm³"
+            ],
+            "hindi": [
+                "440π सेमी³",
+                "480π सेमी³",
+                "520π सेमी³",
+                "560π सेमी³"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A right circular cone of base radius 6 cm and height 8 cm is immersed vertically in a cylinder of water of radius 10 cm. Find the rise in water level.",
+            "hindi": "6 सेमी आधार त्रिज्या और 8 सेमी ऊंचाई वाले एक लम्ब वृत्तीय शंकु को 10 सेमी त्रिज्या वाले पानी के बेलन में लम्बवत डुबोया जाता है। पानी के स्तर में वृद्धि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "0.96 cm",
+                "1.06 cm",
+                "1.16 cm",
+                "1.26 cm"
+            ],
+            "hindi": [
+                "0.96 सेमी",
+                "1.06 सेमी",
+                "1.16 सेमी",
+                "1.26 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid sphere of diameter 6 cm is dropped into a cylindrical vessel partly filled with water. The diameter of the vessel is 12 cm. If the sphere is completely submerged in water, by how much will the water level rise?",
+            "hindi": "6 सेमी व्यास का एक ठोस गोला आंशिक रूप से पानी से भरे बेलनाकार बर्तन में डाला जाता है। बर्तन का व्यास 12 सेमी है। यदि गोला पूरी तरह से पानी में डूब जाता है, तो पानी का स्तर कितना बढ़ेगा?"
+        },
+        "option": {
+            "english": [
+                "0.75 cm",
+                "1.0 cm",
+                "1.25 cm",
+                "1.5 cm"
+            ],
+            "hindi": [
+                "0.75 सेमी",
+                "1.0 सेमी",
+                "1.25 सेमी",
+                "1.5 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metallic right circular cone of height 120 cm and base radius 30 cm is melted and recast into smaller cones of height 2.5 cm and base radius 0.5 cm. Find the number of smaller cones formed.",
+            "hindi": "120 सेमी ऊंचाई और 30 सेमी आधार त्रिज्या वाले एक ठोस धातु के लम्ब वृत्तीय शंकु को पिघलाकर 2.5 सेमी ऊंचाई और 0.5 सेमी आधार त्रिज्या वाले छोटे शंकु बनाए जाते हैं। बने छोटे शंकुओं की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "13824",
+                "13924",
+                "14024",
+                "14124"
+            ],
+            "hindi": [
+                "13824",
+                "13924",
+                "14024",
+                "14124"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid is formed by joining two right circular cones at their bases. Their heights are 8 cm and 6 cm and the radius of their common base is 3 cm. Find the total surface area of the solid.",
+            "hindi": "दो लम्ब वृत्तीय शंकुओं को उनके आधारों पर जोड़कर एक ठोस बनाया जाता है। उनकी ऊंचाइयाँ 8 सेमी और 6 सेमी हैं और उनके समान आधार की त्रिज्या 3 सेमी है। ठोस का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "105 cm²",
+                "115 cm²",
+                "125 cm²",
+                "135 cm²"
+            ],
+            "hindi": [
+                "105 सेमी²",
+                "115 सेमी²",
+                "125 सेमी²",
+                "135 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a right circular cylinder with two hemispheres at its ends is formed. If the total length is 22 cm and radius is 7 cm, find its total surface area.",
+            "hindi": "एक ठोस जो अपने दोनों सिरों पर दो अर्धगोलों के साथ एक लम्ब वृत्तीय बेलन से बना है। यदि कुल लंबाई 22 सेमी और त्रिज्या 7 सेमी है, तो इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "968 cm²",
+                "978 cm²",
+                "988 cm²",
+                "998 cm²"
+            ],
+            "hindi": [
+                "968 सेमी²",
+                "978 सेमी²",
+                "988 सेमी²",
+                "998 सेमी²"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

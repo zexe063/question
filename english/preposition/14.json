@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The sun rises _____ the east.",
+        "hindi": "Choose the correct preposition: The sun rises _____ the east."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The stars twinkle _____ the dark sky.",
+        "hindi": "Fill in the blank: The stars twinkle _____ the dark sky."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The bird soared _____ the clouds.",
+        "hindi": "Select the right preposition: The bird soared _____ the clouds."
+      },
+      "option": {
+        "english": [
+          "between",
+          "among",
+          "within",
+          "above"
+        ],
+        "hindi": [
+          "between",
+          "among",
+          "within",
+          "above"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The boat sailed _____ the harbor.",
+        "hindi": "Choose the correct preposition: The boat sailed _____ the harbor."
+      },
+      "option": {
+        "english": [
+          "through",
+          "beside",
+          "into",
+          "along"
+        ],
+        "hindi": [
+          "through",
+          "beside",
+          "into",
+          "along"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The train arrives _____ midnight.",
+        "hindi": "Fill in the blank: The train arrives _____ midnight."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The river flows _____ the mountains.",
+        "hindi": "Select the appropriate preposition: The river flows _____ the mountains."
+      },
+      "option": {
+        "english": [
+          "between",
+          "beside",
+          "near",
+          "through"
+        ],
+        "hindi": [
+          "between",
+          "beside",
+          "near",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The painting hangs _____ the fireplace.",
+        "hindi": "Choose the correct preposition: The painting hangs _____ the fireplace."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "above",
+          "near",
+          "along"
+        ],
+        "hindi": [
+          "beside",
+          "above",
+          "near",
+          "along"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The temple stands _____ the hilltop.",
+        "hindi": "Fill in the blank: The temple stands _____ the hilltop."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The ceremony takes place _____ dawn.",
+        "hindi": "Select the right preposition: The ceremony takes place _____ dawn."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The comet streaked _____ the universe.",
+        "hindi": "Choose the correct preposition: The comet streaked _____ the universe."
+      },
+      "option": {
+        "english": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ],
+        "hindi": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

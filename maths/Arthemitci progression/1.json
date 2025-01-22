@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the next term in AP: 5, 8, 11, 14, ...",
+            "hindi": "AP में अगला पद ज्ञात कीजिए: 5, 8, 11, 14, ..."
+        },
+        "option": {
+            "english": ["16", "17", "18", "19"],
+            "hindi": ["16", "17", "18", "19"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 3, 7, 11, 15, 19",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 3, 7, 11, 15, 19"
+        },
+        "option": {
+            "english": ["4", "5", "6", "7"],
+            "hindi": ["4", "5", "6", "7"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which term of AP: 3, 8, 13, 18, ... is 48?",
+            "hindi": "AP: 3, 8, 13, 18, ... का कौन सा पद 48 है?"
+        },
+        "option": {
+            "english": ["8th", "9th", "10th", "11th"],
+            "hindi": ["8वाँ", "9वाँ", "10वाँ", "11वाँ"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term if 5th term is 23 and common difference is 4.",
+            "hindi": "यदि 5वाँ पद 23 है और सार्वअंतर 4 है, तो प्रथम पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5", "7", "9", "11"],
+            "hindi": ["5", "7", "9", "11"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the 10th term of AP: 2, 5, 8, 11, ...",
+            "hindi": "AP: 2, 5, 8, 11, ... का 10वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["27", "28", "29", "30"],
+            "hindi": ["27", "28", "29", "30"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of first 10 terms of AP: 5, 9, 13, 17, ...",
+            "hindi": "AP: 5, 9, 13, 17, ... के प्रथम 10 पदों का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["185", "190", "195", "200"],
+            "hindi": ["185", "190", "195", "200"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if a₅ = 16 and a₉ = 28, find the common difference.",
+            "hindi": "एक AP में, यदि a₅ = 16 और a₉ = 28 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the middle term of AP: 3, 8, 13, ..., 48",
+            "hindi": "AP: 3, 8, 13, ..., 48 का मध्य पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["23", "24", "25", "26"],
+            "hindi": ["23", "24", "25", "26"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of n terms of an AP is 3n² + 5n. Find its 10th term.",
+            "hindi": "एक AP के n पदों का योग 3n² + 5n है। इसका 10वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["61", "62", "63", "65"],
+            "hindi": ["61", "62", "63", "65"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sum of first n terms of an AP is n(2n+1), find its 20th term.",
+            "hindi": "यदि एक AP के प्रथम n पदों का योग n(2n+1) है, तो इसका 20वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["39", "40", "41", "42"],
+            "hindi": ["39", "40", "41", "42"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

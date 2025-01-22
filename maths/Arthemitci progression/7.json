@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 12th term of AP: 3, 8, 13, 18, ...",
+            "hindi": "AP: 3, 8, 13, 18, ... का 12वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["53", "54", "55", "56"],
+            "hindi": ["53", "54", "55", "56"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 6th term is 31 and 10th term is 47.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 6ठा पद 31 और 10वाँ पद 47 है।"
+        },
+        "option": {
+            "english": ["11", "12", "13", "14"],
+            "hindi": ["11", "12", "13", "14"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: -6, 0, 6, 12, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: -6, 0, 6, 12, ..."
+        },
+        "option": {
+            "english": ["4", "5", "6", "7"],
+            "hindi": ["4", "5", "6", "7"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 5th term is twice the 2nd term in an AP, and 7th term is thrice the 3rd term, find the common difference if first term is 4.",
+            "hindi": "यदि एक AP में 5वाँ पद 2रे पद का दोगुना है, और 7वाँ पद 3रे पद का तिगुना है, तो पहला पद 4 होने पर सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of n terms of an AP is 3n² + 4n. Find the common difference.",
+            "hindi": "एक AP के n पदों का योग 3n² + 4n है। सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of all three digit numbers which leave remainder 2 when divided by 5.",
+            "hindi": "सभी तीन अंकों की संख्याओं का योग ज्ञात कीजिए जो 5 से विभाजित करने पर शेषफल 2 देती हैं।"
+        },
+        "option": {
+            "english": ["19800", "19900", "20000", "20100"],
+            "hindi": ["19800", "19900", "20000", "20100"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if a₅ + a₉ = 48 and a₇ + a₁₁ = 64, find the common difference.",
+            "hindi": "एक AP में, यदि a₅ + a₉ = 48 और a₇ + a₁₁ = 64 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is multiplied by 3 and then 4 is added to each term, by how much will the common difference change?",
+            "hindi": "यदि एक AP के प्रत्येक पद को 3 से गुणा करके प्रत्येक पद में 4 जोड़ा जाए, तो सार्वअंतर में कितना परिवर्तन होगा?"
+        },
+        "option": {
+            "english": ["Multiplied by 3", "Added by 4", "Multiplied by 3 only", "No change"],
+            "hindi": ["3 से गुणा", "4 से जोड़", "केवल 3 से गुणा", "कोई परिवर्तन नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(4n - 1), find the ratio of its 12th term to its 8th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(4n - 1) है, तो इसके 12वें पद और 8वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:4", "6:5"],
+            "hindi": ["3:2", "4:3", "5:4", "6:5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three numbers in AP is 15 and their product is 80. Find the middle number.",
+            "hindi": "AP में तीन संख्याओं का योग 15 और उनका गुणनफल 80 है। मध्य संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

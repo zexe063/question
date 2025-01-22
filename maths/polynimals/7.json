@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 8x + 15, then αβ equals:",
+            "hindi": "यदि α और β बहुपद x² - 8x + 15 के शून्यक हैं, तो αβ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8",
+                "15",
+                "23",
+                "-15"
+            ],
+            "hindi": [
+                "8",
+                "15",
+                "23",
+                "-15"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The remainder when x³ + 3x² + 3x + 1 is divided by x + 1 is:",
+            "hindi": "जब x³ + 3x² + 3x + 1 को x + 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x - 2 is a factor of x² + kx - 12, then k equals:",
+            "hindi": "यदि x - 2, x² + kx - 12 का एक गुणनखंड है, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ],
+            "hindi": [
+                "4",
+                "5",
+                "6",
+                "7"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x² + 2x + k has equal roots if:",
+            "hindi": "बहुपद x² + 2x + k के बराबर मूल हैं यदि:"
+        },
+        "option": {
+            "english": [
+                "k = 0",
+                "k = 1",
+                "k = -1",
+                "k = 2"
+            ],
+            "hindi": [
+                "k = 0",
+                "k = 1",
+                "k = -1",
+                "k = 2"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then (α + 1)(β + 1) equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो (α + 1)(β + 1) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - px + q, then α² + β² equals:",
+            "hindi": "यदि α और β बहुपद x² - px + q के शून्यक हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "p² - 2q",
+                "p² + 2q",
+                "2p² - q",
+                "2p² + q"
+            ],
+            "hindi": [
+                "p² - 2q",
+                "p² + 2q",
+                "2p² - q",
+                "2p² + q"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ + x³ - 7x² - x + 6 when divided by x - 2 leaves remainder:",
+            "hindi": "बहुपद x⁴ + x³ - 7x² - x + 6 को x - 2 से विभाजित करने पर शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "2",
+                "4",
+                "6"
+            ],
+            "hindi": [
+                "0",
+                "2",
+                "4",
+                "6"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 4x + k, and α² + β² = 24, then k equals:",
+            "hindi": "यदि α और β बहुपद x² - 4x + k के शून्यक हैं, और α² + β² = 24, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "hindi": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x³ + ax² + bx + c has x - 1 and x + 2 as factors and p(0) = 6, then:",
+            "hindi": "यदि p(x) = x³ + ax² + bx + c के x - 1 और x + 2 गुणनखंड हैं और p(0) = 6, तो:"
+        },
+        "option": {
+            "english": [
+                "a = 1, b = -2",
+                "a = -1, b = -2",
+                "a = 1, b = 2",
+                "a = -1, b = 2"
+            ],
+            "hindi": [
+                "a = 1, b = -2",
+                "a = -1, b = -2",
+                "a = 1, b = 2",
+                "a = -1, b = 2"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α⁴ + β⁴ = 97, α² + β² = 9, then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α⁴ + β⁴ = 97, α² + β² = 9, तो:"
+        },
+        "option": {
+            "english": [
+                "p = -3, q = 2",
+                "p = 3, q = 2",
+                "p = -3, q = -2",
+                "p = 3, q = -2"
+            ],
+            "hindi": [
+                "p = -3, q = 2",
+                "p = 3, q = 2",
+                "p = -3, q = -2",
+                "p = 3, q = -2"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    }
+]

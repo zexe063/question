@@ -1,0 +1,224 @@
+
+
+[
+    {
+        "question_name": {
+            "english": "The value of k for which x² + kx + 16 has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + kx + 16 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "±6",
+                "±8",
+                "±4",
+                "±2"
+            ],
+            "hindi": [
+                "±6",
+                "±8",
+                "±4",
+                "±2"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of x² + px + 12 is 3, then p equals:",
+            "hindi": "यदि x² + px + 12 का एक शून्यक 3 है, तो p बराबर है:"
+        },
+        "option": {
+            "english": [
+                "-5",
+                "-6",
+                "-7",
+                "-4"
+            ],
+            "hindi": [
+                "-5",
+                "-6",
+                "-7",
+                "-4"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The remainder when x³ + 2x² - x - 2 is divided by x + 1 is:",
+            "hindi": "जब x³ + 2x² - x - 2 को x + 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "1",
+                "0",
+                "-1"
+            ],
+            "hindi": [
+                "2",
+                "1",
+                "0",
+                "-1"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - px + q, then α² + β² equals:",
+            "hindi": "यदि α और β बहुपद x² - px + q के शून्यक हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "p² - 2q",
+                "p² + 2q",
+                "2p² - q",
+                "2p² + q"
+            ],
+            "hindi": [
+                "p² - 2q",
+                "p² + 2q",
+                "2p² - q",
+                "2p² + q"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of 2x² - 7x + 5, then α²β + αβ² equals:",
+            "hindi": "यदि α और β बहुपद 2x² - 7x + 5 के शून्यक हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "35/8",
+                "35/4",
+                "35/2",
+                "35"
+            ],
+            "hindi": [
+                "35/8",
+                "35/4",
+                "35/2",
+                "35"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then (2α + 3β)(3α + 2β) equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो (2α + 3β)(3α + 2β) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "60",
+                "65",
+                "70",
+                "75"
+            ],
+            "hindi": [
+                "60",
+                "65",
+                "70",
+                "75"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 2x³ - 7x² + 8x + 12 is divided by x² + 1, the remainder ax + b is:",
+            "hindi": "यदि p(x) = x⁴ - 2x³ - 7x² + 8x + 12 को x² + 1 से विभाजित करने पर शेषफल ax + b है, तो:"
+        },
+        "option": {
+            "english": [
+                "2x + 3",
+                "3x + 2",
+                "2x - 3",
+                "-2x + 3"
+            ],
+            "hindi": [
+                "2x + 3",
+                "3x + 2",
+                "2x - 3",
+                "-2x + 3"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 4x³ + ax² + bx + 4 has x + 1 and x - 2 as factors, then:",
+            "hindi": "यदि p(x) = x⁴ - 4x³ + ax² + bx + 4 के x + 1 और x - 2 गुणनखंड हैं, तो:"
+        },
+        "option": {
+            "english": [
+                "a - b = 4",
+                "a + b = 8",
+                "a - b = 8",
+                "a + b = 4"
+            ],
+            "hindi": [
+                "a - b = 4",
+                "a + b = 8",
+                "a - b = 8",
+                "a + b = 4"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α³ + β³ = 27, α + β = 6, then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α³ + β³ = 27, α + β = 6, तो:"
+        },
+        "option": {
+            "english": [
+                "p = -5, q = 8",
+                "p = -6, q = 9",
+                "p = -6, q = 8",
+                "p = -5, q = 9"
+            ],
+            "hindi": [
+                "p = -5, q = 8",
+                "p = -6, q = 9",
+                "p = -6, q = 8",
+                "p = -5, q = 9"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x³ - ax² + bx - c has x - 2 as a factor and p(0) = 8, p(1) = 5, then:",
+            "hindi": "यदि p(x) = x³ - ax² + bx - c का x - 2 एक गुणनखंड है और p(0) = 8, p(1) = 5, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = 13",
+                "a - b = 13",
+                "a + b = 15",
+                "a - b = 15"
+            ],
+            "hindi": [
+                "a + b = 13",
+                "a - b = 13",
+                "a + b = 15",
+                "a - b = 15"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    }
+]

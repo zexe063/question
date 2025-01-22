@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of cos(-90°) is:",
+            "hindi": "cos(-90°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "-1",
+                "√3/2"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "-1",
+                "√3/2"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of sin(-30°) is:",
+            "hindi": "sin(-30°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "-1/2",
+                "√3/2",
+                "-√3/2"
+            ],
+            "hindi": [
+                "1/2",
+                "-1/2",
+                "√3/2",
+                "-√3/2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos θ = -1/2, then θ could be:",
+            "hindi": "यदि cos θ = -1/2 है, तो θ हो सकता है:"
+        },
+        "option": {
+            "english": [
+                "30°",
+                "60°",
+                "120°",
+                "150°"
+            ],
+            "hindi": [
+                "30°",
+                "60°",
+                "120°",
+                "150°"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = 8/17, then sec A equals:",
+            "hindi": "यदि sin A = 8/17 है, तो sec A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "17/15",
+                "15/17",
+                "17/8",
+                "8/17"
+            ],
+            "hindi": [
+                "17/15",
+                "15/17",
+                "17/8",
+                "8/17"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cos²A = 1/4, then sin A equals:",
+            "hindi": "यदि cos²A = 1/4 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±1/2",
+                "±√3/2",
+                "±1",
+                "±√3"
+            ],
+            "hindi": [
+                "±1/2",
+                "±√3/2",
+                "±1",
+                "±√3"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cot A = 2, then sin A equals:",
+            "hindi": "यदि cot A = 2 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/√5",
+                "2/√5",
+                "1/5",
+                "2/5"
+            ],
+            "hindi": [
+                "1/√5",
+                "2/√5",
+                "1/5",
+                "2/5"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cosec θ = 5/4, then cos θ equals:",
+            "hindi": "यदि cosec θ = 5/4 है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3/5",
+                "4/5",
+                "3/4",
+                "5/3"
+            ],
+            "hindi": [
+                "3/5",
+                "4/5",
+                "3/4",
+                "5/3"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + cos θ = √3 and sin θ cos θ = 1/4, then sin²θ equals:",
+            "hindi": "यदि sin θ + cos θ = √3 और sin θ cos θ = 1/4 है, तो sin²θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "3/4",
+                "2/3",
+                "3/2"
+            ],
+            "hindi": [
+                "1/2",
+                "3/4",
+                "2/3",
+                "3/2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If tan²A + 1 = sec²A and tan A > 0, then tan A equals:",
+            "hindi": "यदि tan²A + 1 = sec²A और tan A > 0 है, तो tan A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "√2",
+                "2"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "√2",
+                "2"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin A + cos A = m and sin³A + cos³A = n, then m³ - 3m - 2n equals:",
+            "hindi": "यदि sin A + cos A = m और sin³A + cos³A = n है, तो m³ - 3m - 2n बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

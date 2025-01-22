@@ -1,0 +1,132 @@
+[
+    {
+         "question_name": {
+             "english": "The equation of a line parallel to the line y = -4x + 5 is:",
+             "hindi": "रेखा y = -4x + 5 के समानांतर रेखा का समीकरण है:"
+         },
+         "option": {
+             "english": ["y = 4x + 3", "y = -2x + 5", "y = -4x + 3", "y = 2x - 5"],
+             "hindi": ["y = 4x + 3", "y = -2x + 5", "y = -4x + 3", "y = 2x - 5"]
+         },
+         "answer": 2,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "The line 2x - 3y = 6 intersects the x-axis at which point?",
+             "hindi": "रेखा 2x - 3y = 6 x-अक्ष को किस बिंदु पर प्रतिच्छेद करती है?"
+         },
+         "option": {
+             "english": ["(3, 0)", "(0, 3)", "(-2, 0)", "(0, -2)"],
+             "hindi": ["(3, 0)", "(0, 3)", "(-2, 0)", "(0, -2)"]
+         },
+         "answer": 0,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "Which of these points lies on the line y = -x + 4?",
+             "hindi": "इनमें से कौन सा बिंदु रेखा y = -x + 4 पर स्थित है?"
+         },
+         "option": {
+             "english": ["(2, 3)", "(2, 2)", "(-2, 2)", "(4, -2)"],
+             "hindi": ["(2, 3)", "(2, 2)", "(-2, 2)", "(4, -2)"]
+         },
+         "answer": 1,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "If (a, 2) is a solution of the equation 4x - 3y = 2, then a = ?",
+             "hindi": "यदि (a, 2) समीकरण 4x - 3y = 2 का हल है, तो a = ?"
+         },
+         "option": {
+             "english": ["-2", "0", "1", "2"],
+             "hindi": ["-2", "0", "1", "2"]
+         },
+         "answer": 3,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "Solve for y: 5x - 2y = 8 and x + y = 4",
+             "hindi": "y के लिए हल करें: 5x - 2y = 8 और x + y = 4"
+         },
+         "option": {
+             "english": ["y=1", "y=3", "y=2", "y=4"],
+             "hindi": ["y=1", "y=3", "y=2", "y=4"]
+         },
+         "answer": 2,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "The cost of 4 apples and 3 mangoes is ₹120. The cost of 2 apples and 6 mangoes is ₹120. What is the cost of one mango?",
+             "hindi": "4 सेब और 3 आम का मूल्य ₹120 है। 2 सेब और 6 आम का मूल्य ₹120 है। एक आम का मूल्य क्या है?"
+         },
+         "option": {
+             "english": ["₹15", "₹20", "₹10", "₹25"],
+             "hindi": ["₹15", "₹20", "₹10", "₹25"]
+         },
+         "answer": 1,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "For what value of k, the system of equations x + 2y - 3 = 0 and 5x + ky + 7 = 0 has no solution?",
+             "hindi": "k के किस मान के लिए, समीकरणों की प्रणाली x + 2y - 3 = 0 और 5x + ky + 7 = 0 का कोई हल नहीं है?"
+         },
+         "option": {
+             "english": ["k = 10", "k = 6", "k = 3", "k = 1"],
+             "hindi": ["k = 10", "k = 6", "k = 3", "k = 1"]
+         },
+         "answer": 0,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "If the system of equations 2x + 3y = 5 and 4x + ky = 10 has infinitely many solutions, then k = ?",
+             "hindi": "यदि समीकरणों की प्रणाली 2x + 3y = 5 और 4x + ky = 10 के अनंत हल हैं, तो k = ?"
+         },
+         "option": {
+             "english": ["1", "3", "5", "6"],
+             "hindi": ["1", "3", "5", "6"]
+         },
+         "answer": 3,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "There are two examination rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. Find the number of students in room A.",
+             "hindi": "दो परीक्षा कक्ष A और B हैं। यदि 10 छात्रों को A से B में भेजा जाता है, तो प्रत्येक कक्ष में छात्रों की संख्या समान होती है। यदि 20 उम्मीदवारों को B से A में भेजा जाता है, तो A में छात्रों की संख्या B में छात्रों की संख्या से दोगुनी होती है। कक्ष A में छात्रों की संख्या ज्ञात कीजिए।"
+         },
+         "option": {
+             "english": ["80", "90", "100", "110"],
+             "hindi": ["80", "90", "100", "110"]
+         },
+         "answer": 2,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "The sum of the numerator and denominator of a fraction is 12. If the denominator is increased by 3, the fraction becomes 1/2. Find the fraction.",
+             "hindi": "एक भिन्न के अंश और हर का योग 12 है। यदि हर में 3 की वृद्धि की जाती है, तो भिन्न 1/2 हो जाता है। भिन्न ज्ञात कीजिए।"
+         },
+         "option": {
+             "english": ["4/8", "6/6", "3/9", "5/7"],
+             "hindi": ["4/8", "6/6", "3/9", "5/7"]
+         },
+         "answer": 1,
+         "image": null,
+         "medium": "hard"
+     }
+ ]

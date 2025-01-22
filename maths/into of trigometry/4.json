@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of cos 30° is:",
+            "hindi": "cos 30° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "1",
+                "√3/2",
+                "√2/2"
+            ],
+            "hindi": [
+                "1/2",
+                "1",
+                "√3/2",
+                "√2/2"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = 1/2, then the value of cos θ is:",
+            "hindi": "यदि sin θ = 1/2 है, तो cos θ का मान है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "1",
+                "√3/2",
+                "√3"
+            ],
+            "hindi": [
+                "1/2",
+                "1",
+                "√3/2",
+                "√3"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of sin²45° + cos²45° is:",
+            "hindi": "sin²45° + cos²45° का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "1/2"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "1/2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos A = 4/5, then sin A equals:",
+            "hindi": "यदि cos A = 4/5 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3/5",
+                "5/3",
+                "4/5",
+                "5/4"
+            ],
+            "hindi": [
+                "3/5",
+                "5/3",
+                "4/5",
+                "5/4"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of sec²30° - tan²30° is:",
+            "hindi": "sec²30° - tan²30° का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cosec A = 5/3, then sin A equals:",
+            "hindi": "यदि cosec A = 5/3 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "5/3",
+                "3/5",
+                "4/5",
+                "5/4"
+            ],
+            "hindi": [
+                "5/3",
+                "3/5",
+                "4/5",
+                "5/4"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + cos θ = p and sin θ - cos θ = q, then cos θ equals:",
+            "hindi": "यदि sin θ + cos θ = p और sin θ - cos θ = q है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "(p + q)/2",
+                "(p - q)/2",
+                "(p + q)",
+                "(p - q)"
+            ],
+            "hindi": [
+                "(p + q)/2",
+                "(p - q)/2",
+                "(p + q)",
+                "(p - q)"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sec A = 17/15, then tan A equals:",
+            "hindi": "यदि sec A = 17/15 है, तो tan A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8/15",
+                "15/8",
+                "8/17",
+                "17/8"
+            ],
+            "hindi": [
+                "8/15",
+                "15/8",
+                "8/17",
+                "17/8"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + sin²θ = 1, then cos⁴θ equals:",
+            "hindi": "यदि sin θ + sin²θ = 1 है, तो cos⁴θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/8",
+                "1/16",
+                "1/4",
+                "1/2"
+            ],
+            "hindi": [
+                "1/8",
+                "1/16",
+                "1/4",
+                "1/2"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If tan A + cot A = 4, then tan²A - cot²A equals:",
+            "hindi": "यदि tan A + cot A = 4 है, तो tan²A - cot²A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8",
+                "0",
+                "4",
+                "16"
+            ],
+            "hindi": [
+                "8",
+                "0",
+                "4",
+                "16"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

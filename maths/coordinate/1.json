@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the distance between the points (0, 0) and (3, 4)?",
+            "hindi": "बिंदुओं (0, 0) और (3, 4) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["3", "4", "5", "7"],
+            "hindi": ["3", "4", "5", "7"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The distance of the point P(3,4) from the x-axis is:",
+            "hindi": "बिंदु P(3,4) की x-अक्ष से दूरी है:"
+        },
+        "option": {
+            "english": ["4 units", "3 units", "5 units", "1 unit"],
+            "hindi": ["4 इकाई", "3 इकाई", "5 इकाई", "1 इकाई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the midpoint of the line segment joining the points (2, 3) and (4, 5)?",
+            "hindi": "बिंदुओं (2, 3) और (4, 5) को जोड़ने वाले रेखाखंड का मध्यबिंदु क्या है?"
+        },
+        "option": {
+            "english": ["(2, 3)", " (2, 4)", "(3, 4)", "(3, 5)"],
+            "hindi": ["(2, 3)", " (2, 4)", "(3, 4)", "(3, 5)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (4, p) and (1, 0) is 5, then the value of p is:",
+            "hindi": "यदि बिंदुओं (4, p) और (1, 0) के बीच की दूरी 5 है, तो p का मान है:"
+        },
+        "option": {
+            "english": ["4 only", "-4 only", "±4", "0"],
+            "hindi": ["केवल 4", "केवल -4", "±4", "0"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the distance between the points (-5, 7) and (-1, 3)?",
+            "hindi": "बिंदुओं (-5, 7) और (-1, 3) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["4", "4√2", "8", "4√3"],
+            "hindi": ["4", "4√2", "8", "4√3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(2, 1) lies on the line segment joining points A(4, 2) and B(8, 4), then:",
+            "hindi": "यदि बिंदु P(2, 1) बिंदुओं A(4, 2) और B(8, 4) को मिलाने वाले रेखाखंड पर स्थित है, तो:"
+        },
+        "option": {
+            "english": ["AP = PB", "AP = 1/3 AB", "AP = 1/2 AB", "PB = 1/3 AB"],
+            "hindi": ["AP = PB", "AP = 1/3 AB", "AP = 1/2 AB", "PB = 1/3 AB"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The distance of the point P(2, 3) from the x-axis is:",
+            "hindi": "बिंदु P(2, 3) की x-अक्ष से दूरी है:"
+        },
+        "option": {
+            "english": ["3", "2", "1", "5"],
+            "hindi": ["3", "2", "1", "5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the point which divides the line segment joining the points (4, -3) and (8, 5) in the ratio 3:1 internally.",
+            "hindi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो बिंदुओं (4, -3) और (8, 5) को मिलाने वाले रेखाखंड को 3:1 के अनुपात में आंतरिक रूप से विभाजित करता है।"
+        },
+        "option": {
+            "english": ["(5, 3)", " (6, 2)", "(6, 3)", "(7, 3)"],
+            "hindi": ["(5, 3)", " (6, 2)", "(6, 3)", "(7, 3)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (2, -2) and (-1, x) is 5, one of the values of x is:",
+            "hindi": "यदि बिंदुओं (2, -2) और (-1, x) के बीच की दूरी 5 है, तो x के मानों में से एक है:"
+        },
+        "option": {
+            "english": ["-2", "2", "-1", "1"],
+            "hindi": ["-2", "2", "-1", "1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the triangle formed by the points A(5, 2), B(4, 7) and C(7, -4).",
+            "hindi": "बिंदुओं A(5, 2), B(4, 7) और C(7, -4) द्वारा निर्मित त्रिभुज का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1 sq. unit", "1.5 sq. units", "2 sq. units", "2.5 sq. units"],
+            "hindi": ["1 वर्ग इकाई", "1.5 वर्ग इकाई", "2 वर्ग इकाई", "2.5 वर्ग इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

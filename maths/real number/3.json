@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "The HCF of two numbers is 23 and their LCM is 1449. If one number is 161, then other number is:",
+        "hindi": "दो संख्याओं का HCF 23 और उनका LCM 1449 है। यदि एक संख्या 161 है, तो दूसरी संख्या है:"
+      },
+      "option": {
+        "english": [
+          "207",
+          "187",
+          "167",
+          "147"
+        ],
+        "hindi": [
+          "207",
+          "187",
+          "167",
+          "147"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of the following has a terminating decimal expansion?",
+        "hindi": "निम्नलिखित में से किसका दशमलव प्रसार अंत होगा?"
+      },
+      "option": {
+        "english": [
+          "7/15",
+          "9/50",
+          "13/2500",
+          "11/90"
+        ],
+        "hindi": [
+          "7/15",
+          "9/50",
+          "13/2500",
+          "11/90"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(a,b) = 16 and ab = 1024, then LCM(a,b) is:",
+        "hindi": "यदि HCF(a,b) = 16 और ab = 1024, तो LCM(a,b) है:"
+      },
+      "option": {
+        "english": [
+          "48",
+          "64",
+          "96",
+          "128"
+        ],
+        "hindi": [
+          "48",
+          "64",
+          "96",
+          "128"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The least number which when divided by 28, 35 and 44 leaves remainder 4 in each case is:",
+        "hindi": "वह छोटी से छोटी संख्या जो 28, 35 और 44 से विभाजित होने पर प्रत्येक स्थिति में 4 शेषफल देती है:"
+      },
+      "option": {
+        "english": [
+          "424",
+          "444",
+          "464",
+          "484"
+        ],
+        "hindi": [
+          "424",
+          "444",
+          "464",
+          "484"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The decimal expansion of 43/2500 will terminate after:",
+        "hindi": "43/2500 का दशमलव प्रसार कितने स्थानों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "4 places",
+          "3 places",
+          "2 places",
+          "5 places"
+        ],
+        "hindi": [
+          "4 स्थान",
+          "3 स्थान",
+          "2 स्थान",
+          "5 स्थान"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Using Euclid's division algorithm, if 805 = 47q + r, where q is quotient and r is remainder, then r equals:",
+        "hindi": "यूक्लिड विभाजन एल्गोरिथ्म का उपयोग करके, यदि 805 = 47q + r, जहां q भागफल और r शेषफल है, तो r बराबर है:"
+      },
+      "option": {
+        "english": [
+          "12",
+          "16",
+          "24",
+          "32"
+        ],
+        "hindi": [
+          "12",
+          "16",
+          "24",
+          "32"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If p and q are co-prime numbers, then HCF(p², q²) is:",
+        "hindi": "यदि p और q सह-अभाज्य संख्याएं हैं, तो HCF(p², q²) है:"
+      },
+      "option": {
+        "english": [
+          "0",
+          "1",
+          "2",
+          "4"
+        ],
+        "hindi": [
+          "0",
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(x,y) = 13 and LCM(x,y) = 169, then product of x and y is:",
+        "hindi": "यदि HCF(x,y) = 13 और LCM(x,y) = 169, तो x और y का गुणनफल है:"
+      },
+      "option": {
+        "english": [
+          "2197",
+          "2223",
+          "2184",
+          "2169"
+        ],
+        "hindi": [
+          "2197",
+          "2223",
+          "2184",
+          "2169"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If d is the HCF of 96 and 404, then values of x and y satisfying d = 96x + 404y are:",
+        "hindi": "यदि d, 96 और 404 का HCF है, तो d = 96x + 404y को संतुष्ट करने वाले x और y के मान हैं:"
+      },
+      "option": {
+        "english": [
+          "x=3, y=-1",
+          "x=4, y=-1",
+          "x=4, y=-2",
+          "x=3, y=-2"
+        ],
+        "hindi": [
+          "x=3, y=-1",
+          "x=4, y=-1",
+          "x=4, y=-2",
+          "x=3, y=-2"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The value of k for which 12/5^k × 2³ will have non-terminating decimal expansion is:",
+        "hindi": "k का वह मान जिसके लिए 12/5^k × 2³ का दशमलव प्रसार अनंत होगा:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

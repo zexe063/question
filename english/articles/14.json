@@ -1,0 +1,233 @@
+
+[
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ Milky Way is our galaxy.",
+        "hindi": "Choose the correct article: _____ Milky Way is our galaxy."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: She is _____ opera singer.",
+        "hindi": "Select the correct article: She is _____ opera singer."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: I need _____ IRC connection.",
+        "hindi": "Fill in the blank: I need _____ IRC connection."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ Himalayas form Earth's highest mountain range.",
+        "hindi": "Choose the correct article: _____ Himalayas form Earth's highest mountain range."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ Renaissance was a cultural movement.",
+        "hindi": "Select the correct article: _____ Renaissance was a cultural movement."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: I need _____ MBA admission letter.",
+        "hindi": "Fill in the blank: I need _____ MBA admission letter."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: He is _____ octogenarian artist.",
+        "hindi": "Choose the correct article: He is _____ octogenarian artist."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ Panama Canal links two oceans.",
+        "hindi": "Select the correct article: _____ Panama Canal links two oceans."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ Magna Carta was signed in 1215.",
+        "hindi": "Fill in the blank: _____ Magna Carta was signed in 1215."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: I need _____ EU passport.",
+        "hindi": "Choose the correct article: I need _____ EU passport."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The number of real roots of x² + |x| + 1 = 0 is:",
+            "hindi": "x² + |x| + 1 = 0 के वास्तविक मूलों की संख्या है:"
+        },
+        "option": {
+            "english": ["0", "1", "2", "3"],
+            "hindi": ["0", "1", "2", "3"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x = 3 is a root of x² + 2x - k = 0, then k equals:",
+            "hindi": "यदि x = 3, x² + 2x - k = 0 का एक मूल है, तो k बराबर है:"
+        },
+        "option": {
+            "english": ["12", "15", "18", "21"],
+            "hindi": ["12", "15", "18", "21"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The nature of roots of 2x² - 3x + 5 = 0 is:",
+            "hindi": "2x² - 3x + 5 = 0 के मूलों की प्रकृति है:"
+        },
+        "option": {
+            "english": ["Real and equal", "Real and unequal", "Rational", "Imaginary"],
+            "hindi": ["वास्तविक और बराबर", "वास्तविक और असमान", "परिमेय", "काल्पनिक"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 4x - 12 = 0, then α³ + β³ equals:",
+            "hindi": "यदि α और β, x² - 4x - 12 = 0 के मूल हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": ["52", "76", "64", "88"],
+            "hindi": ["52", "76", "64", "88"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + kx + 64 = 0 has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + kx + 64 = 0 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": ["±16", "±8", "±4", "±32"],
+            "hindi": ["±16", "±8", "±4", "±32"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the sum of squares of roots of ax² + bx + c = 0 is 2, then:",
+            "hindi": "यदि ax² + bx + c = 0 के मूलों के वर्गों का योग 2 है, तो:"
+        },
+        "option": {
+            "english": ["b²/a² = 2", "(b/a)² = 2", "2b²/a² = c", "b²/2a² = c"],
+            "hindi": ["b²/a² = 2", "(b/a)² = 2", "2b²/a² = c", "b²/2a² = c"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The equation x² + 2x + k = 0 has real roots if:",
+            "hindi": "समीकरण x² + 2x + k = 0 के वास्तविक मूल हैं यदि:"
+        },
+        "option": {
+            "english": ["k > 1", "k < -1", "k ≤ 1", "k ≥ -1"],
+            "hindi": ["k > 1", "k < -1", "k ≤ 1", "k ≥ -1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α, β are roots of x² - px + q = 0, then equation whose roots are (α + 1), (β + 1) is:",
+            "hindi": "यदि α, β, x² - px + q = 0 के मूल हैं, तो वह समीकरण जिसके मूल (α + 1), (β + 1) हैं:"
+        },
+        "option": {
+            "english": ["x² - (p+2)x + (q+p+1) = 0", "x² - (p-2)x + (q-p+1) = 0", "x² + (p+2)x + (q+p+1) = 0", "x² + (p-2)x + (q-p+1) = 0"],
+            "hindi": ["x² - (p+2)x + (q+p+1) = 0", "x² - (p-2)x + (q-p+1) = 0", "x² + (p+2)x + (q+p+1) = 0", "x² + (p-2)x + (q-p+1) = 0"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + x - 1 = 0, then α⁴ + β⁴ equals:",
+            "hindi": "यदि α और β, x² + x - 1 = 0 के मूल हैं, तो α⁴ + β⁴ बराबर है:"
+        },
+        "option": {
+            "english": ["5", "7", "9", "11"],
+            "hindi": ["5", "7", "9", "11"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α, β are roots of x² - 2x + 3 = 0, then the value of 1/(α² + 1) + 1/(β² + 1) is:",
+            "hindi": "यदि α, β, x² - 2x + 3 = 0 के मूल हैं, तो 1/(α² + 1) + 1/(β² + 1) का मान है:"
+        },
+        "option": {
+            "english": ["1/2", "2/3", "3/4", "4/5"],
+            "hindi": ["1/2", "2/3", "3/4", "4/5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A circular disc has circumference 88 cm. Find its area.",
+            "hindi": "एक वृत्ताकार डिस्क की परिधि 88 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["614 cm²", "615 cm²", "616 cm²", "617 cm²"],
+            "hindi": ["614 सेमी²", "615 सेमी²", "616 सेमी²", "617 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular plate of radius 21 cm is divided into 7 equal parts. Find area of each part.",
+            "hindi": "21 सेमी त्रिज्या वाली एक वृत्ताकार प्लेट को 7 बराबर भागों में बाँटा गया है। प्रत्येक भाग का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["197.57 cm²", "198.57 cm²", "199.57 cm²", "200.57 cm²"],
+            "hindi": ["197.57 सेमी²", "198.57 सेमी²", "199.57 सेमी²", "200.57 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The diameter of a circular garden is 98 meters. Find its area.",
+            "hindi": "एक वृत्ताकार बगीचे का व्यास 98 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7539 m²", "7540 m²", "7541 m²", "7542 m²"],
+            "hindi": ["7539 मी²", "7540 मी²", "7541 मी²", "7542 मी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular sheet of radius 10 cm is painted on one side. Cost of painting is ₹5 per cm². Find total cost.",
+            "hindi": "10 सेमी त्रिज्या वाली एक वृत्ताकार शीट के एक तरफ रंग किया जाता है। रंगाई की लागत ₹5 प्रति सेमी² है। कुल लागत ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1570", "1571", "1572", "1573"],
+            "hindi": ["1570", "1571", "1572", "1573"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular playground has area 2464 m². Find its circumference.",
+            "hindi": "एक वृत्ताकार खेल का मैदान का क्षेत्रफल 2464 मी² है। इसकी परिधि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["174 m", "175 m", "176 m", "177 m"],
+            "hindi": ["174 मी", "175 मी", "176 मी", "177 मी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The area of a circular path of uniform width 3m around a circular garden is 150 m². If the radius of garden is 7m, find the cost of constructing the path at rate of ₹100 per m².",
+            "hindi": "एक वृत्ताकार बगीचे के चारों ओर 3 मीटर चौड़े एकसमान पथ का क्षेत्रफल 150 मी² है। यदि बगीचे की त्रिज्या 7 मीटर है, तो ₹100 प्रति मी² की दर से पथ बनाने की लागत ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["15000", "15100", "15200", "15300"],
+            "hindi": ["15000", "15100", "15200", "15300"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A wire in the form of a square of side 44 cm is rebent to form a circle. Find its area.",
+            "hindi": "44 सेमी भुजा वाले वर्ग के आकार का एक तार को मोड़कर वृत्त बनाया जाता है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1532 cm²", "1534 cm²", "1536 cm²", "1538 cm²"],
+            "hindi": ["1532 सेमी²", "1534 सेमी²", "1536 सेमी²", "1538 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of circumferences of two circles is 3:4. Find the ratio of their areas.",
+            "hindi": "दो वृत्तों की परिधियों का अनुपात 3:4 है। उनके क्षेत्रफलों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9:16", "8:15", "7:14", "6:13"],
+            "hindi": ["9:16", "8:15", "7:14", "6:13"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular park of radius 42m has a 3.5m wide path around it. Find the area of the path.",
+            "hindi": "42 मीटर त्रिज्या वाले एक वृत्ताकार पार्क के चारों ओर 3.5 मीटर चौड़ा पथ है। पथ का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["962 m²", "963 m²", "964 m²", "965 m²"],
+            "hindi": ["962 मी²", "963 मी²", "964 मी²", "965 मी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of circumference and area of a circle is 111 units. Find its radius.",
+            "hindi": "एक वृत्त की परिधि और क्षेत्रफल का योग 111 इकाई है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6 units", "7 units", "8 units", "9 units"],
+            "hindi": ["6 इकाई", "7 इकाई", "8 इकाई", "9 इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

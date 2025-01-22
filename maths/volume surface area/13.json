@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A hollow cylinder has outer radius 12 cm and inner radius 8 cm. If its height is 20 cm, find its volume.",
+            "hindi": "एक खोखले बेलन की बाहरी त्रिज्या 12 सेमी और आंतरिक त्रिज्या 8 सेमी है। यदि इसकी ऊंचाई 20 सेमी है, तो इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2512 cm³", "2612 cm³", "2712 cm³", "2812 cm³"],
+            "hindi": ["2512 सेमी³", "2612 सेमी³", "2712 सेमी³", "2812 सेमी³"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a cone mounted on a hemisphere is immersed in water. If both shapes have radius 6 cm and cone height is 8 cm, find the volume of water displaced.",
+            "hindi": "एक अर्धगोले पर स्थित शंकु से बने ठोस को पानी में डुबोया जाता है। यदि दोनों आकृतियों की त्रिज्या 6 सेमी है और शंकु की ऊंचाई 8 सेमी है, तो विस्थापित पानी का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["678 cm³", "728 cm³", "778 cm³", "828 cm³"],
+            "hindi": ["678 सेमी³", "728 सेमी³", "778 सेमी³", "828 सेमी³"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A frustum of a cone has radii 15 cm and 7 cm with height 15 cm. Find its curved surface area.",
+            "hindi": "एक शंकु के छिन्नक की त्रिज्याएँ 15 सेमी और 7 सेमी हैं तथा ऊंचाई 15 सेमी है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1012 cm²", "1112 cm²", "1212 cm²", "1312 cm²"],
+            "hindi": ["1012 सेमी²", "1112 सेमी²", "1212 सेमी²", "1312 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two identical cylinders of radius 7 cm and height 12 cm are placed side by side touching each other. Find the total surface area of the combined shape.",
+            "hindi": "7 सेमी त्रिज्या और 12 सेमी ऊंचाई वाले दो समान बेलनों को एक-दूसरे को स्पर्श करते हुए बगल में रखा गया है। संयुक्त आकृति का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1232 cm²", "1332 cm²", "1432 cm²", "1532 cm²"],
+            "hindi": ["1232 सेमी²", "1332 सेमी²", "1432 सेमी²", "1532 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow sphere of inner radius 6 cm and outer radius 10 cm is filled with water. Find the volume of water it can hold.",
+            "hindi": "6 सेमी आंतरिक त्रिज्या और 10 सेमी बाहरी त्रिज्या वाले एक खोखले गोले में पानी भरा जाता है। यह कितना पानी धारण कर सकता है?"
+        },
+        "option": {
+            "english": ["804 cm³", "904 cm³", "1004 cm³", "1104 cm³"],
+            "hindi": ["804 सेमी³", "904 सेमी³", "1004 सेमी³", "1104 सेमी³"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metal cone of height 36 cm and base radius 9 cm is melted and recast into a sphere. Find its radius.",
+            "hindi": "36 सेमी ऊंचाई और 9 सेमी आधार त्रिज्या वाले एक ठोस धातु के शंकु को पिघलाकर एक गोला बनाया जाता है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8 cm", "9 cm", "10 cm", "11 cm"],
+            "hindi": ["8 सेमी", "9 सेमी", "10 सेमी", "11 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid toy is made by joining two cones of heights 12 cm and 8 cm at their circular bases of radius 6 cm. Find its total surface area.",
+            "hindi": "12 सेमी और 8 सेमी ऊंचाई वाले दो शंकुओं को उनके 6 सेमी त्रिज्या वाले वृत्तीय आधारों पर जोड़कर एक ठोस खिलौना बनाया गया है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["452 cm²", "552 cm²", "652 cm²", "752 cm²"],
+            "hindi": ["452 सेमी²", "552 सेमी²", "652 सेमी²", "752 सेमी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A metallic right circular cylinder of height 20 cm and diameter 14 cm is melted and recast into a hollow sphere of thickness 2 cm. Find its outer radius.",
+            "hindi": "20 सेमी ऊंचाई और 14 सेमी व्यास वाले एक धातु के लम्ब वृत्तीय बेलन को पिघलाकर 2 सेमी मोटाई का एक खोखला गोला बनाया जाता है। इसकी बाहरी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Three spheres of radii 6 cm, 8 cm and 10 cm are melted to form a single sphere. Find its radius.",
+            "hindi": "6 सेमी, 8 सेमी और 10 सेमी त्रिज्या वाले तीन गोलों को पिघलाकर एक गोला बनाया जाता है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["11 cm", "12 cm", "13 cm", "14 cm"],
+            "hindi": ["11 सेमी", "12 सेमी", "13 सेमी", "14 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical bucket of height 32 cm and radius 18 cm is filled with ice cream. The ice cream is distributed into cones of height 12 cm and radius 6 cm, having a hemispherical top. Find the number of possible cones.",
+            "hindi": "32 सेमी ऊंचाई और 18 सेमी त्रिज्या वाली एक बेलनाकार बाल्टी में आइसक्रीम भरी है। आइसक्रीम को 12 सेमी ऊंचाई और 6 सेमी त्रिज्या वाले अर्धगोलाकार शीर्ष वाले शंकुओं में वितरित किया जाता है। संभावित शंकुओं की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["32", "34", "36", "38"],
+            "hindi": ["32", "34", "36", "38"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of the following is a measure of central tendency?",
+            "hindi": "निम्नलिखित में से कौन केंद्रीय प्रवृत्ति का माप है?"
+        },
+        "option": {
+            "english": ["Range", "Variance", "Median", "Standard Deviation"],
+            "hindi": ["परिसर", "विचरण", "माध्यिका", "मानक विचलन"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the median of the following set of numbers: 4, 8, 2, 9, 5, 7, 5?",
+            "hindi": "निम्नलिखित संख्याओं के समूह की माध्यिका क्या है: 4, 8, 2, 9, 5, 7, 5?"
+        },
+        "option": {
+            "english": ["2", "9", "7", "5"],
+            "hindi": ["2", "9", "7", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 5 observations is 4 and their variance is 5.2. If three of these observations are 1, 2 and 6, then the other two observations are:",
+            "hindi": "5 अवलोकनों का माध्य 4 है और उनका विचरण 5.2 है। यदि इन अवलोकनों में से तीन 1, 2 और 6 हैं, तो अन्य दो अवलोकन हैं:"
+        },
+        "option": {
+            "english": ["4 and 5", "2 and 9", "4 and 7", "5 and 6"],
+            "hindi": ["4 और 5", "2 और 9", "4 और 7", "5 और 6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What does the term 'mode' refer to in a set of data?",
+            "hindi": "डेटा के एक सेट में 'बहुलक' शब्द का क्या अर्थ है?"
+        },
+        "option": {
+            "english": ["The most frequently occurring value", "The middle value", "The average value", "The largest value"],
+            "hindi": ["सबसे अधिक बार आने वाला मान", "मध्य मान", "औसत मान", "सबसे बड़ा मान"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the median class of the following distribution:Class Interval: 10-25, 25-40, 40-55, 55-70, 70-85.Frequency: 2, 3, 7, 6, 6",
+            "hindi": "निम्नलिखित वितरण का माध्यिका वर्ग ज्ञात कीजिए:\nवर्ग अंतराल: 10-25, 25-40, 40-55, 55-70, 70-85\nबारंबारता: 2, 3, 7, 6, 6"
+        },
+        "option": {
+            "english": ["10-25", "25-40", "40-55", "55-70"],
+            "hindi": ["10-25", "25-40", "40-55", "55-70"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 5 numbers is 27. If one number is excluded, their mean is 25. Find the excluded number.",
+            "hindi": "5 संख्याओं का माध्य 27 है। यदि एक संख्या को हटा दिया जाता है, तो उनका माध्य 25 हो जाता है। हटाई गई संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["25", "35", "40", "45"],
+            "hindi": ["25", "35", "40", "45"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The following observations have been arranged in ascending order. If the median of the data is 63, find the value of x. 29, 32, 48, 50, x, x + 2, 72, 78, 84, 95.",
+            "hindi": "निम्नलिखित अवलोकनों को आरोही क्रम में व्यवस्थित किया गया है। यदि डेटा का माध्यिका 63 है, तो x का मान ज्ञात करें। 29, 32, 48, 50, x, x + 2, 72, 78, 84, 95."
+        },
+        "option": {
+            "english": ["60", "61", "63", "62"],
+            "hindi": ["60", "61", "63", "62"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the mode of the following data: 12, 14, 12, 16, 15, 13, 14, 18, 19, 12, 14, 15, 16, 15, 16, 16, 15, 17, 13, 16, 16, 15, 15, 13, 15, 17, 15, 14, 15, 13, 15, 14.",
+            "hindi": "निम्नलिखित डेटा का बहुलक ज्ञात कीजिए: 12, 14, 12, 16, 15, 13, 14, 18, 19, 12, 14, 15, 16, 15, 16, 16, 15, 17, 13, 16, 16, 15, 15, 13, 15, 17, 15, 14, 15, 13, 15, 14."
+        },
+        "option": {
+            "english": ["15", "14", "16", "17"],
+            "hindi": ["15", "14", "16", "17"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 100 observations is 50. If one of the observations which was 50 is replaced by 150, the resulting mean will be:",
+            "hindi": "100 अवलोकनों का माध्य 50 है। यदि एक अवलोकन जो 50 था, को 150 से बदल दिया जाए, तो परिणामी माध्य होगा:"
+        },
+        "option": {
+            "english": ["50", "50.5", "51", "51.5"],
+            "hindi": ["50", "50.5", "51", "51.5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In a moderately skewed distribution, the mean and mode are 20 and 26 respectively. Find the approximate value of the median.",
+            "hindi": "एक मध्यम विषम वितरण में, माध्य और बहुलक क्रमशः 20 और 26 हैं। माध्यिका का अनुमानित मान ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["18", "22", "24", "26"],
+            "hindi": ["18", "22", "24", "26"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

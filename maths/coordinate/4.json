@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the distance between the points (-2, 5) and (3, -2).",
+            "hindi": "बिंदुओं (-2, 5) और (3, -2) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5 units", "8 units", "10 units", "√74 units"],
+            "hindi": ["5 इकाई", "8 इकाई", "10 इकाई", "√74 इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the distance between the points (0, 0) and (5, 12)?",
+            "hindi": "बिंदुओं (0, 0) और (5, 12) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["5", "12", "17", "13"],
+            "hindi": ["5", "12", "17", "13"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance of the point P(4, -3) from the origin.",
+            "hindi": "बिंदु P(4, -3) की मूल बिंदु से दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7 units", "5 units", "3 units", "1 unit"],
+            "hindi": ["7 इकाई", "5 इकाई", "3 इकाई", "1 इकाई"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The distance between the points (cos θ, sin θ) and (sin θ, -cos θ) is:",
+            "hindi": "बिंदुओं (cos θ, sin θ) और (sin θ, -cos θ) के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["√2", "2", "√3", "1"],
+            "hindi": ["√2", "2", "√3", "1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the midpoint of the line segment joining the points (-2, 4) and (6, -2)?",
+            "hindi": "बिंदुओं (-2, 4) और (6, -2) को जोड़ने वाले रेखाखंड का मध्यबिंदु क्या है?"
+        },
+        "option": {
+            "english": ["(1, 2)", "(2, 2)", "(2, 1)", "(1, -2)"],
+            "hindi": ["(1, 2)", "(2, 2)", "(2, 1)", "(1, -2)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (x, 5) and (0, 1) is 5, then what is the value of x?",
+            "hindi": "यदि बिंदुओं (x, 5) और (0, 1) के बीच की दूरी 5 है, तो x का मान क्या है?"
+        },
+        "option": {
+            "english": ["5", "3", "4", "2"],
+            "hindi": ["5", "3", "4", "2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The points A(0, 6), B(-5, 3) and C(3, 1) are the vertices of a triangle which is:",
+            "hindi": "बिंदु A(0, 6), B(-5, 3) और C(3, 1) एक त्रिभुज के शीर्ष हैं जो है:"
+        },
+        "option": {
+            "english": ["Equilateral", "Isosceles and Right angled", "Scalene", "Isosceles"],
+            "hindi": ["समबाहु", "समद्विबाहु और समकोण", "विषमबाहु", "समद्विबाहु"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(2, 1) lies on the line segment joining points A(4, 2) and B(8, 4), then which of the following is true?",
+            "hindi": "यदि बिंदु P(2, 1) बिंदुओं A(4, 2) और B(8, 4) को मिलाने वाले रेखाखंड पर स्थित है, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["AP = (1/3)AB", "AP = PB", "PB = (1/3)AB", "AP = (1/2)AB"],
+            "hindi": ["AP = (1/3)AB", "AP = PB", "PB = (1/3)AB", "AP = (1/2)AB"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the points A(1, 2), O(0, 0) and C(a, b) are collinear, then:",
+            "hindi": "यदि बिंदु A(1, 2), O(0, 0) और C(a, b) संरेख हैं, तो:"
+        },
+        "option": {
+            "english": ["a = b", "a = -b", "2a = b", "a = 2b"],
+            "hindi": ["a = b", "a = -b", "2a = b", "a = 2b"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the triangle formed by the points (0, 0), (4, 0), and (0, 3).",
+            "hindi": "बिंदुओं (0, 0), (4, 0), और (0, 3) द्वारा निर्मित त्रिभुज का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4 sq. units", "6 sq. units", "8 sq. units", "12 sq. units"],
+            "hindi": ["4 वर्ग इकाई", "6 वर्ग इकाई", "8 वर्ग इकाई", "12 वर्ग इकाई"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

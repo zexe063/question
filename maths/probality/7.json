@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A bag contains 6 red balls and some blue balls. If the probability of drawing a blue ball is twice that of a red ball, find the number of blue balls in the bag.",
+            "hindi": "एक बैग में 6 लाल गेंदें और कुछ नीली गेंदें हैं। यदि नीली गेंद निकालने की प्रायिकता लाल गेंद निकालने की प्रायिकता से दोगुनी है, तो बैग में नीली गेंदों की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6", "9", "12", "15"],
+            "hindi": ["6", "9", "12", "15"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a number x is chosen from the numbers 1, 2, 3, and a number y is selected from the numbers 1, 4, 9. Then, P(xy < 9) is:",
+            "hindi": "यदि एक संख्या x को संख्या 1, 2, 3 से चुना जाता है, और एक संख्या y को संख्या 1, 4, 9 से चुना जाता है। तो, P(xy < 9) है:"
+        },
+        "option": {
+            "english": ["5/9", "4/9", "1/3", "2/9"],
+            "hindi": ["5/9", "4/9", "1/3", "2/9"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a red face card?",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से एक पत्ता निकाला जाता है। लाल चित्र पत्ता प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/13", "3/26", "5/26", "7/26"],
+            "hindi": ["1/13", "3/26", "5/26", "7/26"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two dice are thrown simultaneously. What is the probability of getting a doublet?",
+            "hindi": "दो पासे एक साथ फेंके जाते हैं। द्विक (doublet) प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/3", "1/4", "1/12", "1/6"],
+            "hindi": ["1/3", "1/4", "1/12", "1/6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A bag contains 3 red balls, 5 black balls, and 4 white balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is not black?",
+            "hindi": "एक बैग में 3 लाल गेंदें, 5 काली गेंदें और 4 सफेद गेंदें हैं। बैग से यादृच्छिक रूप से एक गेंद निकाली जाती है। निकाली गई गेंद काली न होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/3", "2/3", "7/12", "5/12"],
+            "hindi": ["1/3", "2/3", "7/12", "5/12"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If three coins are tossed simultaneously, then the probability of getting at least two heads is:",
+            "hindi": "यदि तीन सिक्के एक साथ उछाले जाते हैं, तो कम से कम दो चित आने की प्रायिकता है:"
+        },
+        "option": {
+            "english": ["1/4", "1/2", "3/4", "3/8"],
+            "hindi": ["1/4", "1/2", "3/4", "3/8"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a king or a queen?",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से एक पत्ता निकाला जाता है। एक बादशाह या एक बेगम प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["2/13", "1/13", "3/13", "4/13"],
+            "hindi": ["2/13", "1/13", "3/13", "4/13"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A number x is chosen at random from the numbers -4, -3, -2, -1, 0, 1, 2, 3, 4. What is the probability that |x| < 3?",
+            "hindi": "एक संख्या x को संख्याओं -4, -3, -2, -1, 0, 1, 2, 3, 4 से यादृच्छिक रूप से चुना जाता है। इसकी क्या प्रायिकता है कि |x| < 3?"
+        },
+        "option": {
+            "english": ["1/3", "2/3", "4/9", "5/9"],
+            "hindi": ["1/3", "2/3", "4/9", "5/9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random from the box, find the probability that it bears a two-digit number.",
+            "hindi": "एक डिब्बे में 90 डिस्क हैं जिन पर 1 से 90 तक संख्याएँ अंकित हैं। यदि डिब्बे से यादृच्छिक रूप से एक डिस्क निकाली जाती है, तो प्रायिकता ज्ञात कीजिए कि उस पर दो अंकों की संख्या है।"
+        },
+        "option": {
+            "english": ["8/9", "9/10", "1/9", "1/10"],
+            "hindi": ["8/9", "9/10", "1/9", "1/10"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is thrice that of a red ball, determine the number of blue balls in the bag.",
+            "hindi": "एक बैग में 5 लाल गेंदें और कुछ नीली गेंदें हैं। यदि नीली गेंद निकालने की प्रायिकता लाल गेंद निकालने की प्रायिकता की तीन गुनी है, तो बैग में नीली गेंदों की संख्या निर्धारित करें।"
+        },
+        "option": {
+            "english": ["10", "15", "20", "25"],
+            "hindi": ["10", "15", "20", "25"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Three consecutive integers whose sum of squares is 365 are:",
+            "hindi": "तीन क्रमागत पूर्णांक जिनके वर्गों का योग 365 है:"
+        },
+        "option": {
+            "english": ["10,11,12", "11,12,13", "12,13,14", "13,14,15"],
+            "hindi": ["10,11,12", "11,12,13", "12,13,14", "13,14,15"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 7x + 12 = 0, then (α + 1)(β + 1) equals:",
+            "hindi": "यदि α और β, x² - 7x + 12 = 0 के मूल हैं, तो (α + 1)(β + 1) बराबर है:"
+        },
+        "option": {
+            "english": ["6", "7", "8", "9"],
+            "hindi": ["6", "7", "8", "9"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The coefficient of x in the equation (x + 2)(x - 3) = 12 is:",
+            "hindi": "समीकरण (x + 2)(x - 3) = 12 में x का गुणांक है:"
+        },
+        "option": {
+            "english": ["-1", "0", "1", "-2"],
+            "hindi": ["-1", "0", "1", "-2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will 2x² + kx + 2 = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए 2x² + kx + 2 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±2", "±4", "±6", "±8"],
+            "hindi": ["±2", "±4", "±6", "±8"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + px + 12 = 0 is twice the other, then p equals:",
+            "hindi": "यदि x² + px + 12 = 0 का एक मूल दूसरे का दोगुना है, तो p बराबर है:"
+        },
+        "option": {
+            "english": ["-6", "-7", "-8", "-9"],
+            "hindi": ["-6", "-7", "-8", "-9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² - 2kx + k² - 1 = 0 has real roots is:",
+            "hindi": "k का वह मान जिसके लिए x² - 2kx + k² - 1 = 0 के वास्तविक मूल हैं:"
+        },
+        "option": {
+            "english": ["All real values", "No real value", "k > 1", "k < 1"],
+            "hindi": ["सभी वास्तविक मान", "कोई वास्तविक मान नहीं", "k > 1", "k < 1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A boat goes 30 km downstream and returns in a total time of 10 hours. If the speed of stream is 3 km/h, the speed of boat in still water is:",
+            "hindi": "एक नाव धारा के साथ 30 km जाती है और कुल 10 घंटे में वापस आती है। यदि धारा की गति 3 km/h है, तो स्थिर जल में नाव की गति है:"
+        },
+        "option": {
+            "english": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"],
+            "hindi": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of two numbers is 15 and sum of their squares is 113. The numbers are:",
+            "hindi": "दो संख्याओं का योग 15 और उनके वर्गों का योग 113 है। वे संख्याएँ हैं:"
+        },
+        "option": {
+            "english": ["7,8", "6,9", "5,10", "4,11"],
+            "hindi": ["7,8", "6,9", "5,10", "4,11"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 4x + k = 0 and α² + β² = 24, then k equals:",
+            "hindi": "यदि α और β, x² - 4x + k = 0 के मूल हैं और α² + β² = 24, तो k बराबर है:"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A rectangular park has area 1200m². If its length is 5m more than twice its breadth, then its breadth is:",
+            "hindi": "एक आयताकार पार्क का क्षेत्रफल 1200m² है। यदि इसकी लंबाई इसकी चौड़ाई के दोगुने से 5m अधिक है, तो इसकी चौड़ाई है:"
+        },
+        "option": {
+            "english": ["20m", "25m", "30m", "35m"],
+            "hindi": ["20m", "25m", "30m", "35m"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

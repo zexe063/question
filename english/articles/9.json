@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct article: She is _____ MBA student.",
+        "hindi": "Choose the correct article: She is _____ MBA student."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: I need _____ NDA form.",
+        "hindi": "Select the correct article: I need _____ NDA form."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ Pacific Ocean is the largest ocean.",
+        "hindi": "Fill in the blank: _____ Pacific Ocean is the largest ocean."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ book you gave me is interesting.",
+        "hindi": "Choose the correct article: _____ book you gave me is interesting."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: He is _____ honest man.",
+        "hindi": "Select the correct article: He is _____ honest man."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ Statue of Liberty is in New York.",
+        "hindi": "Fill in the blank: _____ Statue of Liberty is in New York."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: I need _____ FBI agent's help.",
+        "hindi": "Choose the correct article: I need _____ FBI agent's help."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ dinner was excellent.",
+        "hindi": "Select the correct article: _____ dinner was excellent."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She is _____ one-of-a-kind artist.",
+        "hindi": "Fill in the blank: She is _____ one-of-a-kind artist."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ United Kingdom includes four countries.",
+        "hindi": "Choose the correct article: _____ United Kingdom includes four countries."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

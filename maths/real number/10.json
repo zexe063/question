@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "If HCF(x,y) = 12 and LCM(x,y) = 336, then the product xy is:",
+        "hindi": "यदि HCF(x,y) = 12 और LCM(x,y) = 336 है, तो गुणनफल xy है:"
+      },
+      "option": {
+        "english": [
+          "4032",
+          "3024",
+          "2048",
+          "1296"
+        ],
+        "hindi": [
+          "4032",
+          "3024",
+          "2048",
+          "1296"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The rational number 13/2400 has decimal expansion that terminates after:",
+        "hindi": "परिमेय संख्या 13/2400 का दशमलव प्रसार कितने स्थानों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "2 places",
+          "3 places",
+          "4 places",
+          "5 places"
+        ],
+        "hindi": [
+          "2 स्थान",
+          "3 स्थान",
+          "4 स्थान",
+          "5 स्थान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If p is prime and p > 2, then p² - 1 is always:",
+        "hindi": "यदि p अभाज्य है और p > 2, तो p² - 1 हमेशा होता है:"
+      },
+      "option": {
+        "english": [
+          "Prime",
+          "Composite",
+          "Even",
+          "Odd"
+        ],
+        "hindi": [
+          "अभाज्य",
+          "भाज्य",
+          "सम",
+          "विषम"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If a = 2^4 × 3^3 × 5^2 and b = 2^3 × 3^4 × 5^2, then LCM(a,b) is:",
+        "hindi": "यदि a = 2^4 × 3^3 × 5^2 और b = 2^3 × 3^4 × 5^2 है, तो LCM(a,b) है:"
+      },
+      "option": {
+        "english": [
+          "2^3 × 3^3 × 5^2",
+          "2^3 × 3^4 × 5^2",
+          "2^4 × 3^4 × 5^2",
+          "2^4 × 3^3 × 5^2"
+        ],
+        "hindi": [
+          "2^3 × 3^3 × 5^2",
+          "2^3 × 3^4 × 5^2",
+          "2^4 × 3^4 × 5^2",
+          "2^4 × 3^3 × 5^2"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The sum of a rational and an irrational number is rational when:",
+        "hindi": "एक परिमेय और एक अपरिमेय संख्या का योग परिमेय कब होता है:"
+      },
+      "option": {
+        "english": [
+          "Always",
+          "Never",
+          "Sometimes",
+          "When rational is zero"
+        ],
+        "hindi": [
+          "हमेशा",
+          "कभी नहीं",
+          "कभी-कभी",
+          "जब परिमेय शून्य हो"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "For any three positive integers a, b, c, which is always true?",
+        "hindi": "किन्हीं तीन धनात्मक पूर्णांकों a, b, c के लिए, कौन सा कथन हमेशा सत्य है?"
+      },
+      "option": {
+        "english": [
+          "HCF(a,b,c) ≤ HCF(a,b)",
+          "HCF(a,b,c) ≥ HCF(a,b)",
+          "LCM(a,b,c) ≤ LCM(a,b)",
+          "LCM(a,b,c) ≥ LCM(a,b)"
+        ],
+        "hindi": [
+          "HCF(a,b,c) ≤ HCF(a,b)",
+          "HCF(a,b,c) ≥ HCF(a,b)",
+          "LCM(a,b,c) ≤ LCM(a,b)",
+          "LCM(a,b,c) ≥ LCM(a,b)"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If p is prime, then the number of factors of p^4 is:",
+        "hindi": "यदि p अभाज्य है, तो p^4 के गुणनखंडों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "4",
+          "5",
+          "6",
+          "8"
+        ],
+        "hindi": [
+          "4",
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(a,b) = x and LCM(a,b) = y, then HCF(ax,bx) equals:",
+        "hindi": "यदि HCF(a,b) = x और LCM(a,b) = y है, तो HCF(ax,bx) बराबर है:"
+      },
+      "option": {
+        "english": [
+          "x",
+          "y",
+          "xy",
+          "x²"
+        ],
+        "hindi": [
+          "x",
+          "y",
+          "xy",
+          "x²"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If a and b are co-prime, then LCM(a^m, b^n) equals:",
+        "hindi": "यदि a और b सह-अभाज्य हैं, तो LCM(a^m, b^n) बराबर है:"
+      },
+      "option": {
+        "english": [
+          "a^m × b^n",
+          "(ab)^min(m,n)",
+          "(ab)^max(m,n)",
+          "a^n × b^m"
+        ],
+        "hindi": [
+          "a^m × b^n",
+          "(ab)^min(m,n)",
+          "(ab)^max(m,n)",
+          "a^n × b^m"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If p and q are distinct primes, then the number of factors of p²q³ is:",
+        "hindi": "यदि p और q भिन्न अभाज्य संख्याएं हैं, तो p²q³ के गुणनखंडों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ],
+        "hindi": [
+          "6",
+          "8",
+          "10",
+          "12"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct article: I need _____ MP3 player.",
+        "hindi": "Choose the correct article: I need _____ MP3 player."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: He is _____ European.",
+        "hindi": "Select the correct article: He is _____ European."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ cat is sleeping on the sofa.",
+        "hindi": "Fill in the blank: _____ cat is sleeping on the sofa."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "no article",
+          "A"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "no article",
+          "A"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ Moon orbits Earth.",
+        "hindi": "Choose the correct article: _____ Moon orbits Earth."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: I need _____ SSD for my computer.",
+        "hindi": "Select the correct article: I need _____ SSD for my computer."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: _____ sky is blue today.",
+        "hindi": "Fill in the blank: _____ sky is blue today."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: She is _____ MBA student.",
+        "hindi": "Choose the correct article: She is _____ MBA student."
+      },
+      "option": {
+        "english": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ],
+        "hindi": [
+          "a",
+          "an",
+          "the",
+          "no article"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the correct article: _____ Pacific Ocean is the largest ocean.",
+        "hindi": "Select the correct article: _____ Pacific Ocean is the largest ocean."
+      },
+      "option": {
+        "english": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ],
+        "hindi": [
+          "A",
+          "An",
+          "The",
+          "no article"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: I need _____ FBI agent's help.",
+        "hindi": "Fill in the blank: I need _____ FBI agent's help."
+      },
+      "option": {
+        "english": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ],
+        "hindi": [
+          "a",
+          "the",
+          "no article",
+          "an"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct article: _____ sun rises in the east.",
+        "hindi": "Choose the correct article: _____ sun rises in the east."
+      },
+      "option": {
+        "english": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ],
+        "hindi": [
+          "The",
+          "An",
+          "A",
+          "no article"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

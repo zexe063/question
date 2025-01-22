@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of these is NOT a quadratic equation?",
+            "hindi": "इनमें से कौन द्विघात समीकरण नहीं है?"
+        },
+        "option": {
+            "english": ["x² + 1 = 0", "x² - x = 0", "(x-2)² = x", "x = x²"],
+            "hindi": ["x² + 1 = 0", "x² - x = 0", "(x-2)² = x", "x = x²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The nature of roots of x² + 2x + 5 = 0 is:",
+            "hindi": "x² + 2x + 5 = 0 के मूलों की प्रकृति है:"
+        },
+        "option": {
+            "english": ["Real and equal", "Real and unequal", "No real roots", "One real root"],
+            "hindi": ["वास्तविक और बराबर", "वास्तविक और असमान", "कोई वास्तविक मूल नहीं", "एक वास्तविक मूल"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The coefficient of x² in the equation (x - 2)(x + 3) = 6 is:",
+            "hindi": "समीकरण (x - 2)(x + 3) = 6 में x² का गुणांक है:"
+        },
+        "option": {
+            "english": ["1", "2", "3", "0"],
+            "hindi": ["1", "2", "3", "0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 7x + 12 = 0, then α² + β² equals:",
+            "hindi": "यदि α और β, x² - 7x + 12 = 0 के मूल हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": ["47", "49", "45", "43"],
+            "hindi": ["47", "49", "45", "43"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will 3x² + kx + 3 = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए 3x² + kx + 3 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±4", "±6", "±8", "±10"],
+            "hindi": ["±4", "±6", "±8", "±10"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k = 0 has real and equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k = 0 के वास्तविक और बराबर मूल हैं:"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the difference of roots of x² - px + q = 0 is 6, then:",
+            "hindi": "यदि x² - px + q = 0 के मूलों का अंतर 6 है, तो:"
+        },
+        "option": {
+            "english": ["p² - 4q = 12", "p² - 4q = 24", "p² - 4q = 36", "p² - 4q = 48"],
+            "hindi": ["p² - 4q = 12", "p² - 4q = 24", "p² - 4q = 36", "p² - 4q = 48"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ages of a father and son differ by 30 years. If father's age is twice the son's age, then father's age is:",
+            "hindi": "एक पिता और पुत्र की आयु में 30 वर्ष का अंतर है। यदि पिता की आयु पुत्र की आयु की दोगुनी है, तो पिता की आयु है:"
+        },
+        "option": {
+            "english": ["50 years", "60 years", "40 years", "70 years"],
+            "hindi": ["50 वर्ष", "60 वर्ष", "40 वर्ष", "70 वर्ष"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two numbers are in the ratio 5:3. If their product is 480, the numbers are:",
+            "hindi": "दो संख्याएँ 5:3 के अनुपात में हैं। यदि उनका गुणनफल 480 है, तो संख्याएँ हैं:"
+        },
+        "option": {
+            "english": ["30,18", "40,24", "35,21", "45,27"],
+            "hindi": ["30,18", "40,24", "35,21", "45,27"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A motor boat goes 24 km upstream and returns in a total time of 6 hours. If the speed of stream is 2 km/h, the speed of boat in still water is:",
+            "hindi": "एक मोटर नाव धारा के विपरीत 24 km जाती है और कुल 6 घंटे में वापस आती है। यदि धारा की गति 2 km/h है, तो स्थिर जल में नाव की गति है:"
+        },
+        "option": {
+            "english": ["10 km/h", "8 km/h", "12 km/h", "14 km/h"],
+            "hindi": ["10 km/h", "8 km/h", "12 km/h", "14 km/h"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The standard form of 2x² = 8 is:",
+            "hindi": "2x² = 8 का मानक रूप है:"
+        },
+        "option": {
+            "english": ["x² = 4", "2x² - 8 = 0", "2x² + 8 = 0", "x² - 4 = 0"],
+            "hindi": ["x² = 4", "2x² - 8 = 0", "2x² + 8 = 0", "x² - 4 = 0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The roots of x² + 2x + 1 = 0 are:",
+            "hindi": "x² + 2x + 1 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["-1, -1", "1, 1", "0, 0", "-2, -2"],
+            "hindi": ["-1, -1", "1, 1", "0, 0", "-2, -2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 3x + 2 = 0, then αβ equals:",
+            "hindi": "यदि α और β, x² - 3x + 2 = 0 के मूल हैं, तो αβ बराबर है:"
+        },
+        "option": {
+            "english": ["3", "2", "-2", "-3"],
+            "hindi": ["3", "2", "-2", "-3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + kx + 16 = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए x² + kx + 16 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±6", "±8", "±4", "±16"],
+            "hindi": ["±6", "±8", "±4", "±16"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of x² - 5x + 6 = 0 is:",
+            "hindi": "x² - 5x + 6 = 0 का विवेचक है:"
+        },
+        "option": {
+            "english": ["1", "25", "9", "16"],
+            "hindi": ["1", "25", "9", "16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of roots of x² + px + 6 = 0 is -4, then p equals:",
+            "hindi": "यदि x² + px + 6 = 0 के मूलों का योग -4 है, तो p बराबर है:"
+        },
+        "option": {
+            "english": ["2", "4", "-4", "6"],
+            "hindi": ["2", "4", "-4", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² - kx + k = 0 and x² - 4x + 4 = 0 have a common root is:",
+            "hindi": "k का वह मान जिसके लिए x² - kx + k = 0 और x² - 4x + 4 = 0 का एक समान मूल है:"
+        },
+        "option": {
+            "english": ["4", "2", "8", "6"],
+            "hindi": ["4", "2", "8", "6"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of a number and its reciprocal is 5. The number is:",
+            "hindi": "एक संख्या और उसके व्युत्क्रम का योग 5 है। वह संख्या है:"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + mx + 6 = 0 is twice the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 = 0 का एक मूल दूसरे का दोगुना है, तो m बराबर है:"
+        },
+        "option": {
+            "english": ["-3", "-4", "-6", "-5"],
+            "hindi": ["-3", "-4", "-6", "-5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A rectangular field has area 528 m². If its length is 6m more than its breadth, then the breadth of field is:",
+            "hindi": "एक आयताकार खेत का क्षेत्रफल 528 m² है। यदि इसकी लंबाई चौड़ाई से 6m अधिक है, तो खेत की चौड़ाई है:"
+        },
+        "option": {
+            "english": ["22m", "24m", "18m", "20m"],
+            "hindi": ["22m", "24m", "18m", "20m"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

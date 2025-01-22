@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the sum of all odd numbers between 1 and 100.",
+            "hindi": "1 और 100 के बीच सभी विषम संख्याओं का योग ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2500", "2525", "2550", "2575"],
+            "hindi": ["2500", "2525", "2550", "2575"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the number of terms in the AP: 5, 11, 17, ..., 95.",
+            "hindi": "AP: 5, 11, 17, ..., 95 में पदों की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["13", "14", "15", "16"],
+            "hindi": ["13", "14", "15", "16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In an AP, if sum of first n terms is 3n + n², find its first term.",
+            "hindi": "एक AP में, यदि प्रथम n पदों का योग 3n + n² है, तो इसका प्रथम पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 5th term of an AP is 17 and 9th term is 33, find the first term.",
+            "hindi": "यदि एक AP का 5वाँ पद 17 और 9वाँ पद 33 है, तो प्रथम पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: -5, -2, 1, 4, 7",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: -5, -2, 1, 4, 7"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is doubled and 5 is added to each term, how does the common difference change?",
+            "hindi": "यदि एक AP के प्रत्येक पद को दोगुना करके उसमें 5 जोड़ा जाए, तो सार्वअंतर में क्या परिवर्तन होगा?"
+        },
+        "option": {
+            "english": ["Doubled", "Doubled+5", "Doubled-5", "No change"],
+            "hindi": ["दोगुना", "दोगुना+5", "दोगुना-5", "कोई परिवर्तन नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three consecutive terms of an AP is 33 and their product is 1287. Find the terms.",
+            "hindi": "एक AP के तीन क्रमागत पदों का योग 33 और उनका गुणनफल 1287 है। पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["9,11,13", "10,11,12", "11,12,13", "12,13,14"],
+            "hindi": ["9,11,13", "10,11,12", "11,12,13", "12,13,14"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of 7th term to 4th term of an AP is 3:2, find the ratio of 10th term to 5th term.",
+            "hindi": "यदि एक AP के 7वें पद और 4थे पद का अनुपात 3:2 है, तो 10वें पद और 5वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:3", "2:1"],
+            "hindi": ["3:2", "4:3", "5:3", "2:1"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In an AP of 20 terms, if S₅ + S₁₀ + S₁₅ = 375, find the last term.",
+            "hindi": "20 पदों की एक AP में, यदि S₅ + S₁₀ + S₁₅ = 375, तो अंतिम पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["27", "28", "29", "30"],
+            "hindi": ["27", "28", "29", "30"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sum of first n terms of an AP is n(3n-1), find the ratio of its 10th term to 5th term.",
+            "hindi": "यदि एक AP के प्रथम n पदों का योग n(3n-1) है, तो इसके 10वें पद और 5वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3:2", "4:3", "5:3", "2:1"],
+            "hindi": ["3:2", "4:3", "5:3", "2:1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

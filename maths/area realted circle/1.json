@@ -1,0 +1,133 @@
+
+[
+    {
+        "question_name": {
+            "english": "Find the area of a circle with radius 14 cm.",
+            "hindi": "14 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["515.57 cm²", "615.44 cm²", "715.57 cm²", "815.44 cm²"],
+            "hindi": ["515.57 सेमी²", "615.44 सेमी²", "715.57 सेमी²", "815.44 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular park has a circumference of 176 m. Find its area.",
+            "hindi": "एक वृत्ताकार पार्क की परिधि 176 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2464 m²", "2564 m²", "2664 m²", "2764 m²"],
+            "hindi": ["2464 मी²", "2564 मी²", "2664 मी²", "2764 मी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a circle whose diameter is 28 cm.",
+            "hindi": "28 सेमी व्यास वाले वृत्त का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["515.57 cm²", "515.75 cm²", "615.44 cm²", "715.57 cm²"],
+            "hindi": ["515.57 सेमी²", "515.75 सेमी²", "615.44 सेमी²", "715.57 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The radius of a circular field is 42 meters. Find its area.",
+            "hindi": "एक वृत्ताकार खेत की त्रिज्या 42 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5538.96 m²", "5538.86 m²", "5538.76 m²", "5539.96 m²"],
+            "hindi": ["5538.96 मी²", "5538.86 मी²", "5538.76 मी²", "5539.96 मी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a circle whose circumference is 44 cm.",
+            "hindi": "एक वृत्त जिसकी परिधि 44 सेमी है, का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["152.76 cm²", "153.86 cm²", "154.96 cm²", "155.96 cm²"],
+            "hindi": ["152.76 सेमी²", "153.86 सेमी²", "154.96 सेमी²", "155.96 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular path of width 3.5 m runs around a circular garden. The area of the path is 153.86 m². Find the radius of the garden.",
+            "hindi": "एक वृत्ताकार बगीचे के चारों ओर 3.5 मीटर चौड़ा वृत्ताकार पथ है। पथ का क्षेत्रफल 153.86 मी² है। बगीचे की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7 m", "8 m", "9 m", "10 m"],
+            "hindi": ["7 मी", "8 मी", "9 मी", "10 मी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The difference between the circumference and radius of a circle is 37 cm. Find its area.",
+            "hindi": "एक वृत्त की परिधि और त्रिज्या का अंतर 37 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["154 cm²", "254 cm²", "354 cm²", "454 cm²"],
+            "hindi": ["154 सेमी²", "254 सेमी²", "354 सेमी²", "454 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The area of a circular field is 15400 cm². Find its circumference.",
+            "hindi": "एक वृत्ताकार खेत का क्षेत्रफल 15400 सेमी² है। इसकी परिधि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["420 cm", "430 cm", "440 cm", "450 cm"],
+            "hindi": ["420 सेमी", "430 सेमी", "440 सेमी", "450 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The area of a circular playground is 22000 cm². Find the cost of fencing it at the rate of ₹50 per meter.",
+            "hindi": "एक वृत्ताकार खेल के मैदान का क्षेत्रफल 22000 सेमी² है। ₹50 प्रति मीटर की दर से इसकी बाड़ लगाने का खर्च ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["₹235", "₹245", "₹255", "₹265"],
+            "hindi": ["₹235", "₹245", "₹255", "₹265"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The circumference of a circle exceeds its diameter by 16.84 cm. Find its area.",
+            "hindi": "एक वृत्त की परिधि उसके व्यास से 16.84 सेमी अधिक है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["78.5 cm²", "88.5 cm²", "98.5 cm²", "108.5 cm²"],
+            "hindi": ["78.5 सेमी²", "88.5 सेमी²", "98.5 सेमी²", "108.5 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

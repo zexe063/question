@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If the mean of the following data is 15, find p:  x: 5, 10, 15, 20, 25; f: 6, p, 6, 10, 5",
+            "hindi": "यदि निम्नलिखित डेटा का माध्य 15 है, तो p ज्ञात करें: x: 5, 10, 15, 20, 25; f: 6, p, 6, 10, 5"
+        },
+        "option": {
+            "english": ["4", "5", "6", "8"],
+            "hindi": ["4", "5", "6", "8"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 5 numbers is 30. If one number is excluded, their mean becomes 28. The excluded number is:",
+            "hindi": "5 संख्याओं का माध्य 30 है। यदि एक संख्या को हटा दिया जाता है, तो उनका माध्य 28 हो जाता है। हटाई गई संख्या है:"
+        },
+        "option": {
+            "english": ["28", "30", "35", "38"],
+            "hindi": ["28", "30", "35", "38"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the median of the data: 24, 25, 26, x + 2, x + 3, 30, 31, 34 is 27.5, then x is equal to:",
+            "hindi": "यदि डेटा: 24, 25, 26, x + 2, x + 3, 30, 31, 34 का माध्यिका 27.5 है, तो x बराबर है:"
+        },
+        "option": {
+            "english": ["25", "26", "27", "28"],
+            "hindi": ["25", "26", "27", "28"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The median of a set of 9 distinct observations is 20.5. If each of the largest 4 observations of the set is increased by 2, then the median of the new set:",
+            "hindi": "9 अलग-अलग अवलोकनों के एक सेट का माध्यिका 20.5 है। यदि सेट के सबसे बड़े 4 अवलोकनों में से प्रत्येक में 2 की वृद्धि की जाती है, तो नए सेट का माध्यिका:"
+        },
+        "option": {
+            "english": ["Is increased by 2", "Is decreased by 2", "Is two times the original median", "Remains the same as that of the original set"],
+            "hindi": ["2 बढ़ जाता है", "2 घट जाता है", "मूल माध्यिका का दोगुना है", "मूल सेट के समान ही रहता है"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the mode of the following marks (out of 10) obtained by 20 students: 4, 6, 5, 9, 3, 2, 7, 7, 6, 5, 4, 9, 10, 10, 3, 4, 7, 6, 9, 9",
+            "hindi": "20 छात्रों द्वारा प्राप्त निम्नलिखित अंकों (10 में से) का बहुलक ज्ञात कीजिए: 4, 6, 5, 9, 3, 2, 7, 7, 6, 5, 4, 9, 10, 10, 3, 4, 7, 6, 9, 9"
+        },
+        "option": {
+            "english": ["4", "7", "6", "9"],
+            "hindi": ["4", "7", "6", "9"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the mode of the data: 64, 60, 48, x, 43, 48, 43, 34 is 43, then x + 3 is equal to:",
+            "hindi": "यदि डेटा: 64, 60, 48, x, 43, 48, 43, 34 का बहुलक 43 है, तो x + 3 बराबर है:"
+        },
+        "option": {
+            "english": ["43", "44", "45", "46"],
+            "hindi": ["43", "44", "45", "46"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of 5 numbers is 18. If one number is excluded, their mean is 16. Find the excluded number.",
+            "hindi": "5 संख्याओं का माध्य 18 है। यदि एक संख्या को हटा दिया जाता है, तो उनका माध्य 16 हो जाता है। हटाई गई संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["26", "27", "28", "29"],
+            "hindi": ["26", "27", "28", "29"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the 'less than' type ogive and 'more than' type ogive intersect each other at (42.5, 15.5), then the median of the given data is:",
+            "hindi": "यदि 'से कम' प्रकार का तोरण और 'से अधिक' प्रकार का तोरण एक दूसरे को (42.5, 15.5) पर प्रतिच्छेद करते हैं, तो दिए गए डेटा का माध्यिका है:"
+        },
+        "option": {
+            "english": ["27", "58", "42.5", "15.5"],
+            "hindi": ["27", "58", "42.5", "15.5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The mean of a, b, c, d and e is 28. If the mean of a, c and e is 24, what is the mean of b and d?",
+            "hindi": "a, b, c, d और e का माध्य 28 है। यदि a, c और e का माध्य 24 है, तो b और d का माध्य क्या है?"
+        },
+        "option": {
+            "english": ["31", "32", "33", "34"],
+            "hindi": ["31", "32", "33", "34"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The median of a set of 9 distinct observations is 20.5. If each of the largest 4 observations of the set is increased by 2, then the median of the new set:",
+            "hindi": "9 अलग-अलग अवलोकनों के एक सेट का माध्यिका 20.5 है। यदि सेट के सबसे बड़े 4 अवलोकनों में से प्रत्येक में 2 की वृद्धि की जाती है, तो नए सेट का माध्यिका:"
+        },
+        "option": {
+            "english": ["is increased by 2", "is decreased by 2", "is two times the original median", "remains the same as that of the original set"],
+            "hindi": ["2 बढ़ जाता है", "2 घट जाता है", "मूल माध्यिका का दोगुना है", "मूल सेट के समान ही रहता है"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

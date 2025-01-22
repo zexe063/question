@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the distance between the points (0, 0) and (36, 15).",
+            "hindi": "बिंदुओं (0, 0) और (36, 15) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["39", "40", "45", "51"],
+            "hindi": ["39", "40", "45", "51"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The distance of the point P(-6, 8) from the origin is:",
+            "hindi": "बिंदु P(-6, 8) की मूल बिंदु से दूरी है:"
+        },
+        "option": {
+            "english": ["6 units", "8 units", "10 units", "14 units"],
+            "hindi": ["6 इकाई", "8 इकाई", "10 इकाई", "14 इकाई"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the midpoint of the line segment joining the points (4, -6) and (-2, 4).",
+            "hindi": "बिंदुओं (4, -6) और (-2, 4) को मिलाने वाले रेखाखंड के मध्यबिंदु के निर्देशांक ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["(2, -1)", "(-1, 2)", "(1, -2)", "(1, -1)"],
+            "hindi": ["(2, -1)", "(-1, 2)", "(1, -2)", "(1, -1)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (x, -1) and (3, 2) is 5, then the value of x is:",
+            "hindi": "यदि बिंदुओं (x, -1) और (3, 2) के बीच की दूरी 5 है, तो x का मान है:"
+        },
+        "option": {
+            "english": ["7 or -1", "2 or -1", "-7 or -1", "7 or 1"],
+            "hindi": ["7 या -1", "2 या -1", "-7 या -1", "7 या 1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the point which divides the line segment joining the points (4, -3) and (8, 5) in the ratio 3:1 internally.",
+            "hindi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो बिंदुओं (4, -3) और (8, 5) को मिलाने वाले रेखाखंड को 3:1 के अनुपात में आंतरिक रूप से विभाजित करता है।"
+        },
+        "option": {
+            "english": ["(7, 3)", "(6, 3)", "(5, 3)", "(4, 3)"],
+            "hindi": ["(7, 3)", "(6, 3)", "(5, 3)", "(4, 3)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the points A(2, 3), O(0, 0) and C(a, b) are collinear, then which of the following is true?",
+            "hindi": "यदि बिंदु A(2, 3), O(0, 0) और C(a, b) संरेख हैं, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["2a = 3b", "a = 3b", "a = 2b","3a = 2b"],
+            "hindi": ["2a = 3b", "3a = 2b", "a = 3b", "a = 2b"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the ratio in which the point P(3/4, 5/12) divides the line segment joining the points A(1/2, 3/2) and B(2, -5).",
+            "hindi": "वह अनुपात ज्ञात कीजिए जिसमें बिंदु P(3/4, 5/12) बिंदुओं A(1/2, 3/2) और B(2, -5) को मिलाने वाले रेखाखंड को विभाजित करता है।"
+        },
+        "option": {
+            "english": ["1:3", "1:5", "1:4", "1:6"],
+            "hindi": ["1:3", "1:5", "1:4", "1:6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the triangle whose vertices are A(1, -1), B(-4, 6) and C(-3, -5).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष A(1, -1), B(-4, 6) और C(-3, -5) हैं।"
+        },
+        "option": {
+            "english": ["12 sq. units", "18 sq. units", "24 sq. units", "30 sq. units"],
+            "hindi": ["12 वर्ग इकाई", "18 वर्ग इकाई", "24 वर्ग इकाई", "30 वर्ग इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the points (a, 0), (0, b) and (1, 1) are collinear, then 1/a + 1/b is:",
+            "hindi": "यदि बिंदु (a, 0), (0, b) और (1, 1) संरेख हैं, तो 1/a + 1/b है:"
+        },
+        "option": {
+            "english": ["1", "2", "0", "1/2"],
+            "hindi": ["1", "2", "0", "1/2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a quadrilateral whose vertices, taken in order, are (-4, -2), (-3, -5), (3, -2) and (2, 3).",
+            "hindi": "उस चतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष, क्रम में, (-4, -2), (-3, -5), (3, -2) और (2, 3) हैं।"
+        },
+        "option": {
+            "english": ["24 sq. units", "28 sq. units", "32 sq. units", "36 sq. units"],
+            "hindi": ["24 वर्ग इकाई", "28 वर्ग इकाई", "32 वर्ग इकाई", "36 वर्ग इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A coin is tossed twice. What is the probability of getting at least one tail?",
+            "hindi": "एक सिक्के को दो बार उछाला जाता है। कम से कम एक पट आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/4", "1/2", "3/4", "1"],
+            "hindi": ["1/4", "1/2", "3/4", "1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From a well-shuffled pack of 52 cards, a card is drawn at random. Find the probability of getting a black queen.",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से, एक पत्ता यादृच्छिक रूप से निकाला जाता है। एक काली बेगम प्राप्त करने की प्रायिकता ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1/13", "1/26", "1/52", "1/2"],
+            "hindi": ["1/13", "1/26", "1/52", "1/2"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A bag contains 4 red and 6 black balls. A ball is taken out of the bag at random. What is the probability of getting a black ball?",
+            "hindi": "एक बैग में 4 लाल और 6 काली गेंदें हैं। बैग से यादृच्छिक रूप से एक गेंद निकाली जाती है। एक काली गेंद प्राप्त करने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["2/5", "3/5", "4/5", "1/5"],
+            "hindi": ["2/5", "3/5", "4/5", "1/5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the probability of getting a sum of 9 when two dice are thrown simultaneously?",
+            "hindi": "दो पासे एक साथ फेंकने पर योग 9 आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/9", "1/12", "1/18", "1/36"],
+            "hindi": ["1/9", "1/12", "1/18", "1/36"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the probability of getting 53 Sundays in a leap year?",
+            "hindi": "लीप वर्ष में 53 रविवार आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/7", "2/7", "5/7", "6/7"],
+            "hindi": ["1/7", "2/7", "5/7", "6/7"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the probability of an event occurring is 'p', what is the probability of the event not occurring?",
+            "hindi": "यदि किसी घटना के घटित होने की प्रायिकता 'p' है, तो घटना के घटित न होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["p", "1 - p", "p - 1", "1/p"],
+            "hindi": ["p", "1 - p", "p - 1", "1/p"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A card is drawn from a well-shuffled deck of 52 cards. What is the probability of getting a king or a queen?",
+            "hindi": "अच्छी तरह से फेंटी गई 52 ताश के पत्तों की गड्डी से एक पत्ता निकाला जाता है। बादशाह या बेगम आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["1/13", "2/13", "3/13", "4/13"],
+            "hindi": ["1/13", "2/13", "3/13", "4/13"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two dice are thrown simultaneously. What is the probability of getting the sum of the numbers as a prime number?",
+            "hindi": "दो पासे एक साथ फेंके जाते हैं। संख्याओं का योग अभाज्य संख्या आने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["5/12", "1/6", "5/36", "7/36"],
+            "hindi": ["5/12", "1/6", "5/36", "7/36"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A number x is chosen at random from the numbers -3, -2, -1, 0, 1, 2, 3. What is the probability that |x| < 2?",
+            "hindi": "एक संख्या x को संख्याओं -3, -2, -1, 0, 1, 2, 3 से यादृच्छिक रूप से चुना जाता है। इसकी क्या प्रायिकता है कि |x| < 2?"
+        },
+        "option": {
+            "english": ["5/7", "4/7", "3/7", "2/7"],
+            "hindi": ["5/7", "4/7", "3/7", "2/7"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A box contains cards numbered 11 to 123. A card is drawn at random from the box. What is the probability that the number on the drawn card is a perfect square number?",
+            "hindi": "एक डिब्बे में 11 से 123 तक संख्या वाले कार्ड हैं। डिब्बे से यादृच्छिक रूप से एक कार्ड निकाला जाता है। निकाले गए कार्ड पर संख्या एक पूर्ण वर्ग संख्या होने की प्रायिकता क्या है?"
+        },
+        "option": {
+            "english": ["7/113", "8/113", "9/113", "10/113"],
+            "hindi": ["7/113", "8/113", "9/113", "10/113"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

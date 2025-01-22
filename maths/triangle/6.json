@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of the following is NOT a criterion for similarity of two triangles?",
+            "hindi": "निम्नलिखित में से कौन दो त्रिभुजों की समरूपता के लिए एक कसौटी नहीं है?"
+        },
+        "option": {
+            "english": ["AAA", "SSA", "SSS", "SAS"],
+            "hindi": ["AAA", "SSA", "SSS", "SAS"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AB || CD, then which similarity criterion can be used to show that ΔAOB ~ ΔDOC?",
+            "hindi": "दिए गए चित्र में, यदि AB || CD, तो ΔAOB ~ ΔDOC दिखाने के लिए किस समरूपता कसौटी का उपयोग किया जा सकता है?"
+        },
+        "option": {
+            "english": ["SSS", "AA", "SAS", "ASA"],
+            "hindi": ["SSS", "AA", "SAS", "ASA"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='250' y2='120' stroke='black'/><line x1='100' y1='120' x2='250' y2='50' stroke='black'/><line x1='100' y1='50' x2='150' y2='50' stroke='black'/><line x1='250' y1='50' x2='300' y2='50' stroke='black'/><text x='90' y='45'>A</text><text x='155' y='45'>B</text><text x='240' y='45'>C</text><text x='305' y='45'>D</text><text x='175' y='85'>O</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in two triangles, the corresponding sides are in the same ratio, then the triangles are:",
+            "hindi": "यदि दो त्रिभुजों में, संगत भुजाएँ समान अनुपात में हैं, तो त्रिभुज हैं:"
+        },
+        "option": {
+            "english": ["congruent", "isosceles", "equilateral", "similar"],
+            "hindi": ["सर्वांगसम", "समद्विबाहु", "समबाहु", "समरूप"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔPQR, and ar(ΔABC) = 4 * ar(ΔPQR), then the ratio of corresponding sides of ΔABC to ΔPQR is:",
+            "hindi": "यदि ΔABC ~ ΔPQR, और ar(ΔABC) = 4 * ar(ΔPQR), तो ΔABC की संगत भुजाओं का ΔPQR की संगत भुजाओं से अनुपात है:"
+        },
+        "option": {
+            "english": ["1:4", "4:1", "2:1", "1:2"],
+            "hindi": ["1:4", "4:1", "2:1", "1:2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the figure, if DE || BC, AD = x, DB = x - 2, AE = x + 2 and EC = x - 1, then the value of x is:",
+            "hindi": "चित्र में, यदि DE || BC, AD = x, DB = x - 2, AE = x + 2 और EC = x - 1, तो x का मान है:"
+        },
+        "option": {
+            "english": ["4", "5", "6", "3"],
+            "hindi": ["4", "5", "6", "3"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='125' y='95'>x</text><text x='100' y='115'>x-2</text><text x='190' y='50'>x+2</text><text x='235' y='90'>x-1</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding:",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनकी संगत _____ के अनुपात के वर्ग के बराबर होता है:"
+        },
+        "option": {
+            "english": ["perimeters", "altitudes", "sides", "angles"],
+            "hindi": ["परिमाप", "ऊंचाई", "भुजाओं", "कोणों"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then what is the value of k?",
+            "hindi": "यदि रेखाएँ 3x + 2ky = 2 और 2x + 5y + 1 = 0 समानांतर हैं, तो k का मान क्या है?"
+        },
+        "option": {
+            "english": ["4/15", "3/2", "2/5", "15/4"],
+            "hindi": ["4/15", "3/2", "2/5", "15/4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if LM || CB and LN || CD, then which of the following is true?",
+            "hindi": "दिए गए चित्र में, यदि LM || CB और LN || CD, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["AM/AB = AN/ND", "AM/AB = AN/AD", "AL/AC = AN/AD", "AM/MB = AN/AD"],
+            "hindi": ["AM/AB = AN/ND", "AM/AB = AN/AD", "AL/AC = AN/AD", "AM/MB = AN/AD"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='87.5' y='25' width='175' height='100' stroke='black' fill='none'/><line x1='87.5' y1='25' x2='262.5' y2='125' stroke='black'/><line x1='131.25' y1='50' x2='218.75' y2='50' stroke='black'/><line x1='175' y1='75' x2='218.75' y2='75' stroke='black'/><text x='82.5' y='20'>A</text><text x='267.5' y='130'>D</text><text x='82.5' y='130'>B</text><text x='267.5' y='20'>C</text><text x='126.25' y='45'>L</text><text x='223.75' y='45'>M</text><text x='170' y='70'>N</text></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two poles of heights 6 m and 11 m stand vertically on a plane ground. If the distance between their feet is 12 m, what is the distance between their tops?",
+            "hindi": "6 मीटर और 11 मीटर ऊँचाई वाले दो खंभे समतल जमीन पर ऊर्ध्वाधर खड़े हैं। यदि उनके पादों के बीच की दूरी 12 मीटर है, तो उनके शीर्षों के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["13 m", "14 m", "15 m", "12.8 m"],
+            "hindi": ["13 मीटर", "14 मीटर", "15 मीटर", "12.8 मीटर"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In an equilateral triangle ABC, if AD is perpendicular to BC, then AD² is equal to:",
+            "hindi": "एक समबाहु त्रिभुज ABC में, यदि AD, BC पर लंब है, तो AD² बराबर है:"
+        },
+        "option": {
+            "english": ["3CD²", "2CD²", "4CD²", "CD²"],
+            "hindi": ["3CD²", "2CD²", "4CD²", "CD²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

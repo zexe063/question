@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the distance between the points (-5, 7) and (-1, 3)?",
+            "hindi": "बिंदुओं (-5, 7) और (-1, 3) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["4", "4√2", "8", "4√3"],
+            "hindi": ["4", "4√2", "8", "4√3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The distance of the point P(2, 3) from the x-axis is:",
+            "hindi": "बिंदु P(2, 3) की x-अक्ष से दूरी है:"
+        },
+        "option": {
+            "english": ["2", "1", "5", "3"],
+            "hindi": ["2", "1", "5", "3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the midpoint of the line segment joining the points (0, 0) and (6, 8)?",
+            "hindi": "बिंदुओं (0, 0) और (6, 8) को जोड़ने वाले रेखाखंड का मध्यबिंदु क्या है?"
+        },
+        "option": {
+            "english": ["(2, 3)", " (3, 4)", "(3, 3)", "(4, 4)"],
+            "hindi": ["(2, 3)", " (3, 4)", "(3, 3)", "(4, 4)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (x, -1) and (3, 2) is 5, then the value of x is:",
+            "hindi": "यदि बिंदुओं (x, -1) और (3, 2) के बीच की दूरी 5 है, तो x का मान है:"
+        },
+        "option": {
+            "english": ["7 or -1", "2 or -1", "-7 or -1", "7 or 1"],
+            "hindi": ["7 या -1", "2 या -1", "-7 या -1", "7 या 1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance between the points (a, b) and (-a, -b).",
+            "hindi": "बिंदुओं (a, b) और (-a, -b) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["√(2(a² + b²))", "2√(a² + b²)", "√(a² + b²)", "0"],
+            "hindi": ["√(2(a² + b²))", "2√(a² + b²)", "√(a² + b²)", "0"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(x, y) is equidistant from the points A(5, 1) and B(-1, 5), then:",
+            "hindi": "यदि बिंदु P(x, y) बिंदुओं A(5, 1) और B(-1, 5) से समदूरस्थ है, तो:"
+        },
+        "option": {
+            "english": ["5x = y", "x = 5y", "2x = 3y", "3x = 2y"],
+            "hindi": ["5x = y", "x = 5y", "2x = 3y", "3x = 2y"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the ratio in which the point P(3/4, 5/12) divides the line segment joining the points A(1/2, 3/2) and B(2, -5).",
+            "hindi": "वह अनुपात ज्ञात कीजिए जिसमें बिंदु P(3/4, 5/12) बिंदुओं A(1/2, 3/2) और B(2, -5) को मिलाने वाले रेखाखंड को विभाजित करता है।"
+        },
+        "option": {
+            "english": ["1:4", "1:6", "1:2", "1:5"],
+            "hindi": ["1:4", "1:6", "1:2", "1:5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a triangle whose vertices are (1, -1), (-4, 6) and (-3, -5).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष (1, -1), (-4, 6) और (-3, -5) हैं।"
+        },
+        "option": {
+            "english": ["24 sq. units", "12 sq. units", "18 sq. units", "36 sq. units"],
+            "hindi": ["24 वर्ग इकाई", "12 वर्ग इकाई", "18 वर्ग इकाई", "36 वर्ग इकाई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the centroid of a triangle whose vertices are (0, 6), (8, 12) and (8, 0).",
+            "hindi": "उस त्रिभुज के केन्द्रक के निर्देशांक ज्ञात कीजिए जिसके शीर्ष (0, 6), (8, 12) और (8, 0) हैं।"
+        },
+        "option": {
+            "english": ["(16/3, 6)", "(6, 16/3)", "(8, 6)", "(16, 6)"],
+            "hindi": ["(16/3, 6)", "(6, 16/3)", "(8, 6)", "(16, 6)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the points A(1, 2), O(0, 0) and C(a, b) are collinear, then which of the following is true?",
+            "hindi": "यदि बिंदु A(1, 2), O(0, 0) और C(a, b) संरेख हैं, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["a = b", "a = -b", "a = 2b", "2a = b"],
+            "hindi": ["a = b", "a = -b", "a = 2b", "2a = b"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

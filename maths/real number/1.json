@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "The decimal expansion of 2/5 will terminate after:",
+        "hindi": "2/5 का दशमलव प्रसार कितने पदों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "2 places",
+          "1 place",
+          "3 places",
+          "4 places"
+        ],
+        "hindi": [
+          "2 स्थान",
+          "1 स्थान",
+          "3 स्थान",
+          "4 स्थान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "HCF of 12 and 18 is:",
+        "hindi": "12 और 18 का HCF है:"
+      },
+      "option": {
+        "english": [
+          "6",
+          "8",
+          "4",
+          "2"
+        ],
+        "hindi": [
+          "6",
+          "8",
+          "4",
+          "2"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of the following is irrational?",
+        "hindi": "निम्नलिखित में से कौन अपरिमेय संख्या है?"
+      },
+      "option": {
+        "english": [
+          "√25",
+          "√36",
+          "√7",
+          "√64"
+        ],
+        "hindi": [
+          "√25",
+          "√36",
+          "√7",
+          "√64"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The LCM of 12 and 18 is:",
+        "hindi": "12 और 18 का LCM है:"
+      },
+      "option": {
+        "english": [
+          "24",
+          "30",
+          "32",
+          "36"
+        ],
+        "hindi": [
+          "24",
+          "30",
+          "32",
+          "36"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Every rational number can be expressed in the form:",
+        "hindi": "प्रत्येक परिमेय संख्या को किस रूप में व्यक्त किया जा सकता है:"
+      },
+      "option": {
+        "english": [
+          "p÷q",
+          "p/q",
+          "p×q",
+          "p+q"
+        ],
+        "hindi": [
+          "p÷q",
+          "p/q",
+          "p×q",
+          "p+q"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(26, 91) = 13, then LCM(26, 91) is:",
+        "hindi": "यदि HCF(26, 91) = 13 है, तो LCM(26, 91) है:"
+      },
+      "option": {
+        "english": [
+          "156",
+          "169",
+          "182",
+          "195"
+        ],
+        "hindi": [
+          "156",
+          "169",
+          "182",
+          "195"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The decimal expansion of 7/40 will terminate after:",
+        "hindi": "7/40 का दशमलव प्रसार कितने पदों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "3 places",
+          "2 places",
+          "1 place",
+          "4 places"
+        ],
+        "hindi": [
+          "3 स्थान",
+          "2 स्थान",
+          "1 स्थान",
+          "4 स्थान"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Using Euclid's division algorithm, if 961 = 72q + r, then r is:",
+        "hindi": "यूक्लिड विभाजन एल्गोरिथ्म का उपयोग करके, यदि 961 = 72q + r, तो r है:"
+      },
+      "option": {
+        "english": [
+          "25",
+          "49",
+          "61",
+          "37"
+        ],
+        "hindi": [
+          "25",
+          "49",
+          "61",
+          "37"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(x, y) × LCM(x, y) = x × y, then x and y are:",
+        "hindi": "यदि HCF(x, y) × LCM(x, y) = x × y, तो x और y हैं:"
+      },
+      "option": {
+        "english": [
+          "Prime numbers",
+          "Even numbers",
+          "Co-prime numbers",
+          "Odd numbers"
+        ],
+        "hindi": [
+          "अभाज्य संख्याएं",
+          "सम संख्याएं",
+          "सह-अभाज्य संख्याएं",
+          "विषम संख्याएं"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "If d = HCF(156, 273), then d can be expressed in the form 156x + 273y, the value of y is:",
+        "hindi": "यदि d = HCF(156, 273), और d को 156x + 273y के रूप में व्यक्त किया जा सकता है, तो y का मान है:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "-2",
+          "-1"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "-2",
+          "-1"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

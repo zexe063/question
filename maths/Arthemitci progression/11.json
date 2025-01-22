@@ -1,0 +1,134 @@
+[
+    {
+        "question_name": {
+            "english": "Find the 12th term of AP: 6, 11, 16, 21, ...",
+            "hindi": "AP: 6, 11, 16, 21, ... का 12वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["56", "57", "58", "59"],
+            "hindi": ["56", "57", "58", "59"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the first term of AP whose 4th term is 22 and 8th term is 38.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए जिसका 4था पद 22 और 8वाँ पद 38 है।"
+        },
+        "option": {
+            "english": ["13", "14", "15", "16"],
+            "hindi": ["13", "14", "15", "16"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: -3, 2, 7, 12, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: -3, 2, 7, 12, ..."
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a₅ + a₉ = 36 and a₇ + a₁₁ = 44 in an AP, find the common difference.",
+            "hindi": "एक AP में यदि a₅ + a₉ = 36 और a₇ + a₁₁ = 44 है, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three consecutive terms of an AP is 33 and their product is 1155. Find the terms.",
+            "hindi": "एक AP के तीन क्रमागत पदों का योग 33 और उनका गुणनफल 1155 है। पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["10,11,12", "9,11,13", "8,11,14", "7,11,15"],
+            "hindi": ["10,11,12", "9,11,13", "8,11,14", "7,11,15"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(4n + 1), find the 10th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(4n + 1) है, तो 10वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["79", "81", "83", "85"],
+            "hindi": ["79", "81", "83", "85"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+
+    {
+        "question_name": {
+            "english": "Find the sum of all three-digit numbers which when divided by 8 leave remainder 5.",
+            "hindi": "सभी तीन अंकों की संख्याओं का योग ज्ञात कीजिए जो 8 से विभाजित करने पर शेषफल 5 देती हैं।"
+        },
+        "option": {
+            "english": ["62445", "62545", "62645", "62745"],
+            "hindi": ["62445", "62545", "62645", "62745"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+
+    {
+        "question_name": {
+            "english": "If each term of an AP is increased by p% and common difference becomes q% of original, find p:q.",
+            "hindi": "यदि एक AP के प्रत्येक पद में p% की वृद्धि की जाए और सार्वअंतर मूल का q% हो जाए, तो p:q ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1:1", "2:1", "1:2", "No relation"],
+            "hindi": ["1:1", "2:1", "1:2", "कोई संबंध नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If Sn = 3n² + 2n, find the value of (a₁₂ - a₈).",
+            "hindi": "यदि Sn = 3n² + 2n है, तो (a₁₂ - a₈) का मान ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12", "13", "14", "15"],
+            "hindi": ["12", "13", "14", "15"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of 9th term to 4th term of an AP is 2:1. Find the ratio of 11th term to 3rd term.",
+            "hindi": "एक AP के 9वें पद और 4थे पद का अनुपात 2:1 है। 11वें पद और 3रे पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2:1", "5:2", "3:1", "7:2"],
+            "hindi": ["2:1", "5:2", "3:1", "7:2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

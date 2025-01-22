@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If the sum and product of zeros of quadratic polynomial x² + kx + 12 are equal, then k equals:",
+            "hindi": "यदि द्विघात बहुपद x² + kx + 12 के शून्यकों का योग और गुणनफल बराबर हैं, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "-6",
+                "-4",
+                "-8",
+                "-7"
+            ],
+            "hindi": [
+                "-6",
+                "-4",
+                "-8",
+                "-7"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + kx + 64 = 0 has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + kx + 64 = 0 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "±16",
+                "±8",
+                "±4",
+                "±12"
+            ],
+            "hindi": [
+                "±16",
+                "±8",
+                "±4",
+                "±12"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x - 1 is a factor of x³ - ax² + bx - c, then:",
+            "hindi": "यदि x - 1, x³ - ax² + bx - c का एक गुणनखंड है, तो:"
+        },
+        "option": {
+            "english": [
+                "1 - a + b - c = 0",
+                "1 + a + b + c = 0",
+                "-1 + a - b + c = 0",
+                "1 + a - b - c = 0"
+            ],
+            "hindi": [
+                "1 - a + b - c = 0",
+                "1 + a + b + c = 0",
+                "-1 + a - b + c = 0",
+                "1 + a - b - c = 0"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ - 5x³ + px² + qx + 8 has x + 2 as a factor. The values of p and q are:",
+            "hindi": "बहुपद x⁴ - 5x³ + px² + qx + 8 का x + 2 एक गुणनखंड है। p और q के मान हैं:"
+        },
+        "option": {
+            "english": [
+                "p = 7, q = -4",
+                "p = 8, q = -6",
+                "p = 6, q = -4",
+                "p = 8, q = -4"
+            ],
+            "hindi": [
+                "p = 7, q = -4",
+                "p = 8, q = -6",
+                "p = 6, q = -4",
+                "p = 8, q = -4"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 3x + 1, then α³ + β³ equals:",
+            "hindi": "यदि α और β बहुपद x² - 3x + 1 के शून्यक हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "9",
+                "7",
+                "8",
+                "6"
+            ],
+            "hindi": [
+                "9",
+                "7",
+                "8",
+                "6"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one zero of x² + px + q is twice the other, then:",
+            "hindi": "यदि x² + px + q का एक शून्यक दूसरे का दोगुना है, तो:"
+        },
+        "option": {
+            "english": [
+                "q = p²/8",
+                "q = p²/9",
+                "q = p²/6",
+                "q = p²/4"
+            ],
+            "hindi": [
+                "q = p²/8",
+                "q = p²/9",
+                "q = p²/6",
+                "q = p²/4"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then the value of (1/α + 1/β) is:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो (1/α + 1/β) का मान है:"
+        },
+        "option": {
+            "english": [
+                "5/6",
+                "6/5",
+                "5/3",
+                "3/5"
+            ],
+            "hindi": [
+                "5/6",
+                "6/5",
+                "5/3",
+                "3/5"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ + x³ - 7x² - x + 6 when divided by x - 1 leaves remainder:",
+            "hindi": "बहुपद x⁴ + x³ - 7x² - x + 6 को x - 1 से विभाजित करने पर शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "-2",
+                "2",
+                "1"
+            ],
+            "hindi": [
+                "0",
+                "-2",
+                "2",
+                "1"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 2x + 3, then the value of (α - 1)³ + (β - 1)³ is:",
+            "hindi": "यदि α और β बहुपद x² - 2x + 3 के शून्यक हैं, तो (α - 1)³ + (β - 1)³ का मान है:"
+        },
+        "option": {
+            "english": [
+                "6",
+                "0",
+                "-2",
+                "2"
+            ],
+            "hindi": [
+                "6",
+                "0",
+                "-2",
+                "2"
+            ]
+        },
+        "answer": 3,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x³ + ax² + bx + c has x + 1 and x - 1 as factors, then:",
+            "hindi": "यदि p(x) = x³ + ax² + bx + c के x + 1 और x - 1 गुणनखंड हैं, तो:"
+        },
+        "option": {
+            "english": [
+                "a = 0, c = -b",
+                "a = -b, c = 1",
+                "a = 0, b = -1",
+                "a = 1, b = -c"
+            ],
+            "hindi": [
+                "a = 0, c = -b",
+                "a = -b, c = 1",
+                "a = 0, b = -1",
+                "a = 1, b = -c"
+            ]
+        },
+        "answer": 0,
+        "medium": "hard"
+    }
+]

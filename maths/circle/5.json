@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A tangent to a circle is _______ to the radius through the point of contact.",
+            "hindi": "एक वृत्त की स्पर्शरेखा, स्पर्श बिंदु से गुजरने वाली त्रिज्या के _______ होती है।"
+        },
+        "option": {
+            "english": ["parallel", "perpendicular", "equal", "none of these"],
+            "hindi": ["समानांतर", "लंबवत", "बराबर", "इनमें से कोई नहीं"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The angle in a semicircle is always:",
+            "hindi": "एक अर्धवृत्त में कोण हमेशा होता है:"
+        },
+        "option": {
+            "english": ["45°", "60°", "90°", "180°"],
+            "hindi": ["45°", "60°", "90°", "180°"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "How many tangents can be drawn to a circle from a point outside the circle?",
+            "hindi": "वृत्त के बाहर स्थित एक बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?"
+        },
+        "option": {
+            "english": ["2", "1", "0", "Infinite"],
+            "hindi": ["2", "1", "0", "अनंत"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In a circle with center O, if two chords AB and CD intersect at point P, then which of the following is true?",
+            "hindi": "केंद्र O वाले एक वृत्त में, यदि दो जीवाएँ AB और CD बिंदु P पर प्रतिच्छेद करती हैं, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["PA × PB = PC × PD", "PA + PB = PC + PD", "PA - PB = PC - PD", "None of these"],
+            "hindi": ["PA × PB = PC × PD", "PA + PB = PC + PD", "PA - PB = PC - PD", "इनमें से कोई नहीं"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='125' y1='50' x2='225' y2='100' stroke='black'/><line x1='150' y1='35' x2='200' y2='115' stroke='black'/><text x='120' y='45'>A</text><text x='230' y='105'>B</text><text x='145' y='30'>C</text><text x='205' y='120'>D</text><text x='175' y='75'>O</text><text x='180' y='65'>P</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 50°, then ∠OAB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 50°, तो ∠OAB बराबर है:"
+        },
+        "option": {
+            "english": ["30°", "25°", "40°", "45°"],
+            "hindi": ["30°", "25°", "40°", "45°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>50°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "From a point Q, the length of the tangent to a circle is 24 cm and the distance of Q from the center is 25 cm. The radius of the circle is:",
+            "hindi": "एक बिंदु Q से, एक वृत्त पर स्पर्शरेखा की लंबाई 24 सेमी है और Q से केंद्र की दूरी 25 सेमी है। वृत्त की त्रिज्या है:"
+        },
+        "option": {
+            "english": ["6 cm", "6.5 cm", "7.5 cm", "7 cm"],
+            "hindi": ["6 सेमी", "6.5 सेमी", "7.5 सेमी", "7 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PQR is a tangent to the circle at Q, whose center is O, and AB is a chord parallel to PR and ∠BQR = 60°, then ∠AQB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PQR, Q पर वृत्त की स्पर्शरेखा है, जिसका केंद्र O है, और AB, PR के समानांतर एक जीवा है और ∠BQR = 60°, तो ∠AQB बराबर है:"
+        },
+        "option": {
+            "english": ["60°", "45°", "75°", "90°"],
+            "hindi": ["60°", "45°", "75°", "90°"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='175' y2='125' stroke='black'/><line x1='105' y2='125' x2='245' y2='125' stroke='black'/><line x1='125' y1='75' x2='225' y2='75' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='95' y='130'>P</text><text x='175' y='130'>Q</text><text x='250' y='130'>R</text><text x='225' y='100'>60°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If two tangents inclined at an angle of 75° are drawn to a circle of radius 4 cm, then the distance between the point of intersection of tangents and the center of the circle is:",
+            "hindi": "यदि 4 सेमी त्रिज्या वाले एक वृत्त पर 75° के कोण पर झुकी हुई दो स्पर्श रेखाएँ खींची जाती हैं, तो स्पर्शरेखाओं के प्रतिच्छेदन बिंदु और वृत्त के केंद्र के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["6 cm", "7 cm", "8 cm", "9 cm"],
+            "hindi": ["6 सेमी", "7 सेमी", "8 सेमी", "9 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If tangents PA and PB from a point P to a circle with center O are inclined to each other at an angle of 80°, then ∠POA is equal to:",
+            "hindi": "यदि एक बिंदु P से केंद्र O वाले एक वृत्त पर स्पर्शरेखाएँ PA और PB एक दूसरे से 80° के कोण पर झुकी हुई हैं, तो ∠POA बराबर है:"
+        },
+        "option": {
+            "english": ["40°", "50°", "60°", "70°"],
+            "hindi": ["40°", "50°", "60°", "70°"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two circles of radii 8 cm and 6 cm intersect at points P and Q. If the distance between their centers is 10 cm, then the length of PQ is:",
+            "hindi": "8 सेमी और 6 सेमी त्रिज्या वाले दो वृत्त बिंदुओं P और Q पर प्रतिच्छेद करते हैं। यदि उनके केंद्रों के बीच की दूरी 10 सेमी है, तो PQ की लंबाई है:"
+        },
+        "option": {
+            "english": ["8 cm", "9 cm", "10 cm", "11 cm"],
+            "hindi": ["8 सेमी", "9 सेमी", "10 सेमी", "11 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='40' stroke='black' fill='none'/><circle cx='200' cy='75' r='30' stroke='black' fill='none'/><text x='145' y='70'>O₁</text><text x='195' y='70'>O₂</text><text x='175' y='45'>P</text><text x='175' y='105'>Q</text><line x1='150' y1='75' x2='200' y2='75' stroke='black' stroke-dasharray='5,5'/><text x='170' y='90'>10</text></svg>",
+        "medium": "hard"
+    }
+]

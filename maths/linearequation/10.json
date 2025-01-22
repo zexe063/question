@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The slope of a line parallel to the x-axis is:",
+            "hindi": "x-अक्ष के समानांतर रेखा की ढलान है:"
+        },
+        "option": {
+            "english": ["0", "1", "-1", "Undefined"],
+            "hindi": ["0", "1", "-1", "अपरिभाषित"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following points lies on the line 2x + 3y = 8?",
+            "hindi": "निम्नलिखित में से कौन सा बिंदु रेखा 2x + 3y = 8 पर स्थित है?"
+        },
+        "option": {
+            "english": ["(1, 1)", "(1, 2)", "(-1, 2)", "(2, -1)"],
+            "hindi": ["(1, 1)", "(1, 2)", "(-1, 2)", "(2, -1)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the equation of the line passing through (0, -3) and having a slope of 2?",
+            "hindi": "(0, -3) से गुजरने वाली और ढलान 2 वाली रेखा का समीकरण क्या है?"
+        },
+        "option": {
+            "english": ["y = 2x - 3", "y = -2x - 3", "y = 3x - 2", "y = 2x + 3"],
+            "hindi": ["y = 2x - 3", "y = -2x - 3", "y = 3x - 2", "y = 2x + 3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 4x + py = 8 and 2x + 2y = 2 are parallel, then the value of p is:",
+            "hindi": "यदि रेखाएँ 4x + py = 8 और 2x + 2y = 2 समानांतर हैं, तो p का मान है:"
+        },
+        "option": {
+            "english": ["1", "2", "4", "3"],
+            "hindi": ["1", "2", "4", "3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x and y: 3x - y = 1 and 2x + y = 4",
+            "hindi": "x और y के लिए हल करें: 3x - y = 1 और 2x + y = 4"
+        },
+        "option": {
+            "english": ["x=1, y=2", "x=2, y=5", "x=3, y=8", "x=-1, y=-4"],
+            "hindi": ["x=1, y=2", "x=2, y=5", "x=3, y=8", "x=-1, y=-4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of the digits of a two-digit number is 8. If 18 is added to the number, its digits are reversed. Find the number.",
+            "hindi": "दो अंकों की संख्या के अंकों का योग 8 है। यदि संख्या में 18 जोड़ दिया जाए, तो उसके अंक उलट जाते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["53", "26", "62", "35"],
+            "hindi": ["53", "26", "62", "35"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If (2, 0) is a solution of the linear equation 2x + 3y = k, then the value of k is",
+            "hindi": "यदि (2, 0) रैखिक समीकरण 2x + 3y = k का एक हल है, तो k का मान है"
+        },
+        "option": {
+            "english": ["6", "4", "2", "5"],
+            "hindi": ["6", "4", "2", "5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of p, the following pair of linear equations has infinitely many solutions: (p-3)x + 3y = p ; px + py = 12?",
+            "hindi": "p के किस मान के लिए, निम्नलिखित रैखिक समीकरणों के युग्म के अपरिमित रूप से अनेक हल हैं: (p-3)x + 3y = p ; px + py = 12?"
+        },
+        "option": {
+            "english": ["p = 3", "p = 4", "p = 6", "p = 5"],
+            "hindi": ["p = 3", "p = 4", "p = 6", "p = 5"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The angles of a triangle are x, y and 40°. The difference between the two angles x and y is 30°. Find the value of x.",
+            "hindi": "एक त्रिभुज के कोण x, y और 40° हैं। दो कोणों x और y के बीच का अंतर 30° है। x का मान ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["55°", "45°", "60°", "50°"],
+            "hindi": ["55°", "45°", "60°", "50°"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man has ₹480 in the denominations of one-rupee notes, five-rupee notes, and ten-rupee notes. The number of notes of each denomination is equal. What is the total number of notes that he has?",
+            "hindi": "एक व्यक्ति के पास एक रुपये के नोट, पांच रुपये के नोट और दस रुपये के नोट के मूल्यवर्ग में ₹480 हैं। प्रत्येक मूल्यवर्ग के नोटों की संख्या समान है। उसके पास कुल कितने नोट हैं?"
+        },
+        "option": {
+            "english": ["45", "75", "60", "90"],
+            "hindi": ["45", "75", "60", "90"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

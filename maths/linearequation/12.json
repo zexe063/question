@@ -1,0 +1,132 @@
+[
+    {
+         "question_name": {
+             "english": "The line y = -4 is parallel to which axis?",
+             "hindi": "रेखा y = -4 किस अक्ष के समानांतर है?"
+         },
+         "option": {
+             "english": ["y-axis", "Both x and y-axis", "Neither x nor y-axis", "x-axis"],
+             "hindi": ["y-अक्ष", "x और y-अक्ष दोनों", "न तो x और न ही y-अक्ष", "x-अक्ष"]
+         },
+         "answer": 3,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "Which point lies on the line 3x - 2y = 5?",
+             "hindi": "कौन सा बिंदु रेखा 3x - 2y = 5 पर स्थित है?"
+         },
+         "option": {
+             "english": ["(1, 1)", "(0, 2.5)", "(1, -1)", "(-1, -4)"],
+             "hindi": ["(1, 1)", "(0, 2.5)", "(1, -1)", "(-1, -4)"]
+         },
+         "answer": 2,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "What is the value of y when x = 0 in the equation 4x - 5y = 20?",
+             "hindi": "जब समीकरण 4x - 5y = 20 में x = 0 है तो y का मान क्या है?"
+         },
+         "option": {
+             "english": ["-4", "4", "5", "-5"],
+             "hindi": ["-4", "4", "5", "-5"]
+         },
+         "answer": 0,
+         "image": null,
+         "medium": "easy"
+     },
+     {
+         "question_name": {
+             "english": "Solve for y in the equation: 2x - y = 5, when x = 3",
+             "hindi": "समीकरण 2x - y = 5 में y के लिए हल करें, जब x = 3"
+         },
+         "option": {
+             "english": ["-1", "1", "2", "3"],
+             "hindi": ["-1", "1", "2", "3"]
+         },
+         "answer": 1,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "If 2x + 3y = 8 and x - y = 1, what is the value of x?",
+             "hindi": "यदि 2x + 3y = 8 और x - y = 1, तो x का मान क्या है?"
+         },
+         "option": {
+             "english": ["1", "2", "4", "2"],
+             "hindi": ["1", "2", "4", "2"]
+         },
+         "answer": 3,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "The cost of 3 apples and 4 bananas is ₹100. The cost of 2 apples and 2 bananas is ₹60. What is the cost of one apple?",
+             "hindi": "3 सेब और 4 केले का मूल्य ₹100 है। 2 सेब और 2 केले का मूल्य ₹60 है। एक सेब का मूल्य क्या है?"
+         },
+         "option": {
+             "english": ["₹20", "₹10", "₹15", "₹25"],
+             "hindi": ["₹20", "₹10", "₹15", "₹25"]
+         },
+         "answer": 0,
+         "image": null,
+         "medium": "medium"
+     },
+     {
+         "question_name": {
+             "english": "What is the value of 'k' for which the system of equations x + 2y = 5 and 3x + ky + 15 = 0 has no solution?",
+             "hindi": "'k' का वह मान क्या है जिसके लिए समीकरण निकाय x + 2y = 5 और 3x + ky + 15 = 0 का कोई हल नहीं है?"
+         },
+         "option": {
+             "english": ["5", "3", "6", "2"],
+             "hindi": ["5", "3", "6", "2"]
+         },
+         "answer": 2,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "If the lines given by 3x + 2ky = 2 and 2x + 5y + 1 = 0 are parallel, then the value of k is",
+             "hindi": "यदि 3x + 2ky = 2 और 2x + 5y + 1 = 0 द्वारा दी गई रेखाएँ समानांतर हैं, तो k का मान है"
+         },
+         "option": {
+             "english": ["-5/4", "15/4", "2/5", "3/2"],
+             "hindi": ["-5/4", "15/4", "2/5", "3/2"]
+         },
+         "answer": 1,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "Five years ago, a father was seven times as old as his son. Five years hence, the father will be three times as old as his son. What is the father's present age?",
+             "hindi": "पाँच वर्ष पहले, एक पिता अपने पुत्र से सात गुना बड़ा था। पाँच वर्ष बाद, पिता अपने पुत्र से तीन गुना बड़ा होगा। पिता की वर्तमान आयु क्या है?"
+         },
+         "option": {
+             "english": ["35 years", "40 years", "50 years", "45 years"],
+             "hindi": ["35 वर्ष", "40 वर्ष", "50 वर्ष", "45 वर्ष"]
+         },
+         "answer": 3,
+         "image": null,
+         "medium": "hard"
+     },
+     {
+         "question_name": {
+             "english": "A fraction becomes 1/3 when 1 is subtracted from the numerator and it becomes 1/4 when 8 is added to its denominator. Find the fraction.",
+             "hindi": "एक भिन्न 1/3 हो जाता है जब अंश से 1 घटाया जाता है और यह 1/4 हो जाता है जब इसके हर में 8 जोड़ा जाता है। भिन्न ज्ञात कीजिए।"
+         },
+         "option": {
+             "english": ["5/12", "2/11", "9/13", "4/15"],
+             "hindi": ["5/12", "2/11", "9/13", "4/15"]
+         },
+         "answer": 0,
+         "image": null,
+         "medium": "hard"
+     }
+ ]

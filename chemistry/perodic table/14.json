@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which group elements are called alkali metals?",
+        "hindi": "किस समूह के तत्वों को क्षार धातु कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Group 1",
+          "Group 2",
+          "Group 17",
+          "Group 18"
+        ],
+        "hindi": [
+          "समूह 1",
+          "समूह 2",
+          "समूह 17",
+          "समूह 18"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "How many elements are in period 2?",
+        "hindi": "आवर्त 2 में कितने तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ],
+        "hindi": [
+          "2",
+          "8",
+          "18",
+          "32"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which period contains maximum elements?",
+        "hindi": "किस आवर्त में सबसे अधिक तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "Period 2",
+          "Period 4",
+          "Period 6",
+          "Period 3"
+        ],
+        "hindi": [
+          "आवर्त 2",
+          "आवर्त 4",
+          "आवर्त 6",
+          "आवर्त 3"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which group is called halogens?",
+        "hindi": "किस समूह को हैलोजन कहा जाता है?"
+      },
+      "option": {
+        "english": [
+          "Group 15",
+          "Group 16",
+          "Group 17",
+          "Group 18"
+        ],
+        "hindi": [
+          "समूह 15",
+          "समूह 16",
+          "समूह 17",
+          "समूह 18"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Where are non-metals located in periodic table?",
+        "hindi": "आवर्त सारणी में अधातुएं कहाँ स्थित हैं?"
+      },
+      "option": {
+        "english": [
+          "Right top",
+          "Left bottom",
+          "Left top",
+          "Right bottom"
+        ],
+        "hindi": [
+          "दायें ऊपर",
+          "बायें नीचे",
+          "बायें ऊपर",
+          "दायें नीचे"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which elements are in group 18?",
+        "hindi": "समूह 18 में कौन से तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "Alkali metals",
+          "Halogens",
+          "Metals",
+          "Noble gases"
+        ],
+        "hindi": [
+          "क्षार धातु",
+          "हैलोजन",
+          "धातुएं",
+          "उत्कृष्ट गैसें"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is common in elements of same period?",
+        "hindi": "एक ही आवर्त के तत्वों में क्या समान होता है?"
+      },
+      "option": {
+        "english": [
+          "Shell number",
+          "Valency",
+          "Properties",
+          "Mass"
+        ],
+        "hindi": [
+          "कोश संख्या",
+          "संयोजकता",
+          "गुणधर्म",
+          "द्रव्यमान"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Why do elements in same group have similar properties?",
+        "hindi": "एक ही समूह के तत्वों के गुण समान क्यों होते हैं?"
+      },
+      "option": {
+        "english": [
+          "Same mass",
+          "Same shells",
+          "Similar electrons",
+          "Same period"
+        ],
+        "hindi": [
+          "समान द्रव्यमान",
+          "समान कोश",
+          "समान इलेक्ट्रॉन",
+          "समान आवर्त"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Where are metalloids located in periodic table?",
+        "hindi": "आवर्त सारणी में उपधातुएं कहाँ स्थित हैं?"
+      },
+      "option": {
+        "english": [
+          "Left side",
+          "Right side",
+          "Zigzag line",
+          "Bottom"
+        ],
+        "hindi": [
+          "बायीं तरफ",
+          "दायीं तरफ",
+          "टेढ़ी रेखा",
+          "नीचे"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Which period contains only two elements?",
+        "hindi": "किस आवर्त में केवल दो तत्व हैं?"
+      },
+      "option": {
+        "english": [
+          "Period 4",
+          "Period 3",
+          "Period 2",
+          "Period 1"
+        ],
+        "hindi": [
+          "आवर्त 4",
+          "आवर्त 3",
+          "आवर्त 2",
+          "आवर्त 1"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

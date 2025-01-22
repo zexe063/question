@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the y-intercept of the line represented by the equation 5x - 2y = 10?",
+            "hindi": "समीकरण 5x - 2y = 10 द्वारा दर्शाई गई रेखा का y-अवरोधन क्या है?"
+        },
+        "option": {
+            "english": ["5", "-2", "-5", "2"],
+            "hindi": ["5", "-2", "-5", "2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The line y = -x + 4 intersects the x-axis at:",
+            "hindi": "रेखा y = -x + 4, x-अक्ष को निम्न पर प्रतिच्छेद करती है:"
+        },
+        "option": {
+            "english": ["(4, 0)", "(0, 4)", "(-4, 0)", "(0, -4)"],
+            "hindi": ["(4, 0)", "(0, 4)", "(-4, 0)", "(0, -4)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of these equations has a graph parallel to the line y = -2x + 5?",
+            "hindi": "इनमें से किस समीकरण का आरेख y = -2x + 5 के समानांतर है?"
+        },
+        "option": {
+            "english": ["y = 2x - 5", "y = -2x + 3", "2y = -x + 5", "y = -5x + 2"],
+            "hindi": ["y = 2x - 5", "y = -2x + 3", "2y = -x + 5", "y = -5x + 2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the point (2, k) lies on the line 3x - 5y = 1, what is the value of k?",
+            "hindi": "यदि बिंदु (2, k) रेखा 3x - 5y = 1 पर स्थित है, तो k का मान क्या है?"
+        },
+        "option": {
+            "english": ["-1", "0", "2", "1"],
+            "hindi": ["-1", "0", "2", "1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x and y: 2x + y = 7 and x - y = 2",
+            "hindi": "x और y के लिए हल करें: 2x + y = 7 और x - y = 2"
+        },
+        "option": {
+            "english": ["x=2, y=3", "x=1, y=5", "x=3, y=1", "x=4, y=-1"],
+            "hindi": ["x=2, y=3", "x=1, y=5", "x=3, y=1", "x=4, y=-1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 3 tables and 2 chairs is ₹1850. The cost of 5 tables and 3 chairs is ₹2850. What is the cost of one chair?",
+            "hindi": "3 मेज और 2 कुर्सियों का मूल्य ₹1850 है। 5 मेज और 3 कुर्सियों का मूल्य ₹2850 है। एक कुर्सी का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹500", "₹250", "₹350", "₹450"],
+            "hindi": ["₹500", "₹250", "₹350", "₹450"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If 2x + ky = 7 and x - y = -1 are consistent equations, then the value of k is:",
+            "hindi": "यदि 2x + ky = 7 और x - y = -1 संगत समीकरण हैं, तो k का मान है:"
+        },
+        "option": {
+            "english": ["Any real number except -2", "k = -2", "Any real number", "k = 2"],
+            "hindi": ["-2 को छोड़कर कोई भी वास्तविक संख्या", "k = -2", "कोई भी वास्तविक संख्या", "k = 2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The pair of equations y = 0 and y = -7 has:",
+            "hindi": "समीकरणों की जोड़ी y = 0 और y = -7:"
+        },
+        "option": {
+            "english": ["One solution", "Two solutions", "Infinitely many solutions", "No solution"],
+            "hindi": ["एक हल", "दो हल", "अनंत हल", "कोई हल नहीं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The area of a rectangle gets reduced by 80 sq units if its length is reduced by 5 units and the breadth is increased by 2 units. If we increase the length by 10 units and decrease the breadth by 5 units, the area is increased by 50 sq units. Find the length of the rectangle.",
+            "hindi": "एक आयत का क्षेत्रफल 80 वर्ग इकाई कम हो जाता है यदि इसकी लंबाई 5 इकाई कम कर दी जाए और चौड़ाई 2 इकाई बढ़ा दी जाए। यदि हम लंबाई में 10 इकाई की वृद्धि करते हैं और चौड़ाई में 5 इकाई की कमी करते हैं, तो क्षेत्रफल में 50 वर्ग इकाई की वृद्धि होती है। आयत की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["60 units", "30 units", "40 units", "50 units"],
+            "hindi": ["60 इकाई", "30 इकाई", "40 इकाई", "50 इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A two-digit number is such that the product of the digits is 14. When 45 is added to the number, then the digits are reversed. Find the number.",
+            "hindi": "दो अंकों की एक संख्या इस प्रकार है कि अंकों का गुणनफल 14 है। जब संख्या में 45 जोड़ा जाता है, तो अंक उलट जाते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["72", "27", "43", "34"],
+            "hindi": ["72", "27", "43", "34"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

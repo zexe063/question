@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC and AD = 3 cm, DB = 2 cm, find AE if AC = 10 cm.",
+            "hindi": "दिए गए चित्र में, यदि DE || BC और AD = 3 सेमी, DB = 2 सेमी, तो AE ज्ञात कीजिए यदि AC = 10 सेमी है।"
+        },
+        "option": {
+            "english": ["6 cm","4 cm", "5 cm", "7 cm"],
+            "hindi": ["4 सेमी", "5 सेमी", "6 सेमी", "7 सेमी"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='125' y1='70' x2='225' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='115' y='65'>D</text><text x='230' y='65'>E</text><text x='100' y='90'>3</text><text x='150' y='110'>2</text><text x='250' y='100'>10</text><line x1='125' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='225' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in two triangles ABC and PQR, ∠A = ∠P and ∠B = ∠Q, then which similarity criterion proves that the two triangles are similar?",
+            "hindi": "यदि दो त्रिभुजों ABC और PQR में, ∠A = ∠P और ∠B = ∠Q, तो कौन सी समरूपता कसौटी सिद्ध करती है कि दोनों त्रिभुज समरूप हैं?"
+        },
+        "option": {
+            "english": ["SSS similarity", "AA similarity", "SAS similarity", "None of the above"],
+            "hindi": ["SSS समरूपता", "AA समरूपता", "SAS समरूपता", "इनमें से कोई नहीं"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the figure, if DE || BC, AD = x, DB = x - 2, AE = x + 2 and EC = x - 1, then the value of x is:",
+            "hindi": "चित्र में, यदि DE || BC, AD = x, DB = x - 2, AE = x + 2 और EC = x - 1, तो x का मान है:"
+        },
+        "option": {
+            "english": ["3", "5", "4", "6"],
+            "hindi": ["3", "5", "4", "6"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='125' y='95'>x</text><text x='100' y='115'>x-2</text><text x='190' y='50'>x+2</text><text x='235' y='90'>x-1</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔPQR, and ar(ΔABC) = 4 * ar(ΔPQR), then the ratio of corresponding sides of ΔABC to ΔPQR is:",
+            "hindi": "यदि ΔABC ~ ΔPQR, और ar(ΔABC) = 4 * ar(ΔPQR), तो ΔABC की संगत भुजाओं का ΔPQR की संगत भुजाओं से अनुपात है:"
+        },
+        "option": {
+            "english": ["1:4", "4:1", "2:1", "1:2"],
+            "hindi": ["1:4", "4:1", "2:1", "1:2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AB || CD, OA = 3x - 19, OB = x - 4, OC = x - 3, and OD = 4, find x.",
+            "hindi": "दिए गए चित्र में, यदि AB || CD, OA = 3x - 19, OB = x - 4, OC = x - 3, और OD = 4, तो x ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["11", "10", "9", "8"],
+            "hindi": ["11", "10", "9", "8"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='250' y2='120' stroke='black'/><line x1='100' y1='120' x2='250' y2='50' stroke='black'/><line x1='100' y1='50' x2='150' y2='50' stroke='black'/><line x1='250' y1='50' x2='300' y2='50' stroke='black'/><text x='90' y='45'>A</text><text x='155' y='45'>B</text><text x='240' y='45'>C</text><text x='305' y='45'>D</text><text x='175' y='85'>O</text><text x='110' y='40'>3x-19</text><text x='260' y='40'>x-3</text><text x='155' y='60'>x-4</text><text x='210' y='70'>4</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The shadow of a tower standing on level ground is found to be 30 m longer when the sun's altitude is 30° than when it was 60°. Find the height of the tower.",
+            "hindi": "समतल भूमि पर खड़े एक टावर की छाया सूर्य के 30° उन्नयन कोण पर 30 मीटर अधिक लंबी पाई जाती है जब यह 60° था। टावर की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["15 m", "45 m", "15√3 m", "15√3 m"],
+            "hindi": ["15 मीटर", "45 मीटर", "15√3 मीटर", "15√3 मीटर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the areas of two similar triangles are in the ratio 25:64, then the ratio of their corresponding altitudes is:",
+            "hindi": "यदि दो समरूप त्रिभुजों के क्षेत्रफल 25:64 के अनुपात में हैं, तो उनकी संगत ऊँचाइयों का अनुपात है:"
+        },
+        "option": {
+            "english": ["4:5", "5:8", "8:5", "64:25"],
+            "hindi": ["4:5", "5:8", "8:5", "64:25"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔPQR, such that AB = 1.2 cm, PQ = 1.4 cm. Find the ratio of the areas of ΔABC and ΔPQR.",
+            "hindi": "यदि ΔABC ~ ΔPQR, इस प्रकार कि AB = 1.2 सेमी, PQ = 1.4 सेमी। ΔABC और ΔPQR के क्षेत्रफलों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["36/49", "49/36", "6/7", "7/6"],
+            "hindi": ["36/49", "49/36", "6/7", "7/6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The areas of two similar triangles are 81 cm² and 49 cm². If the altitude of the bigger triangle is 4.5 cm, find the corresponding altitude of the smaller triangle.",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफल 81 वर्ग सेमी और 49 वर्ग सेमी हैं। यदि बड़े त्रिभुज का शीर्षलंब 4.5 सेमी है, तो छोटे त्रिभुज का संगत शीर्षलंब ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3.5 cm", "4.5 cm", "2.5 cm", "5.5 cm"],
+            "hindi": ["3.5 सेमी", "4.5 सेमी", "2.5 सेमी", "5.5 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In triangle ABC, D and E are points on the sides AB and AC respectively such that DE || BC. If AD = 4 cm, AE = 8 cm, DB = x - 4, and EC = 3x - 19, find x.",
+            "hindi": "त्रिभुज ABC में, D और E क्रमशः भुजा AB और AC पर ऐसे बिंदु हैं कि DE || BC है। यदि AD = 4 सेमी, AE = 8 सेमी, DB = x - 4, और EC = 3x - 19, तो x ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["10 cm", "12 cm", "13 cm", "11 cm"],
+            "hindi": ["10 सेमी", "12 सेमी", "13 सेमी", "11 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of sin²45° - cos²45° is:",
+            "hindi": "sin²45° - cos²45° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "-1",
+                "0",
+                "2"
+            ],
+            "hindi": [
+                "1",
+                "-1",
+                "0",
+                "2"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos θ = sin θ, then θ equals:",
+            "hindi": "यदि cos θ = sin θ है, तो θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "30°",
+                "60°",
+                "45°",
+                "90°"
+            ],
+            "hindi": [
+                "30°",
+                "60°",
+                "45°",
+                "90°"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of (1 - sin²30°) is:",
+            "hindi": "(1 - sin²30°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "1/4",
+                "3/4",
+                "1/2",
+                "1"
+            ],
+            "hindi": [
+                "1/4",
+                "3/4",
+                "1/2",
+                "1"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = 16/65, then cos A equals:",
+            "hindi": "यदि sin A = 16/65 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "63/65",
+                "65/63",
+                "16/63",
+                "63/16"
+            ],
+            "hindi": [
+                "63/65",
+                "65/63",
+                "16/63",
+                "63/16"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sec θ = 17/8, then sin θ equals:",
+            "hindi": "यदि sec θ = 17/8 है, तो sin θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "8/17",
+                "15/17",
+                "17/15",
+                "15/8"
+            ],
+            "hindi": [
+                "8/17",
+                "15/17",
+                "17/15",
+                "15/8"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cosec A = 5/3, then cos A equals:",
+            "hindi": "यदि cosec A = 5/3 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "4/5",
+                "5/4",
+                "3/4",
+                "4/3"
+            ],
+            "hindi": [
+                "4/5",
+                "5/4",
+                "3/4",
+                "4/3"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin²θ + cos²θ = 1 and sin θ = x², then cos θ equals:",
+            "hindi": "यदि sin²θ + cos²θ = 1 और sin θ = x² है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±x",
+                "±√(1-x⁴)",
+                "±(1-x²)",
+                "±x⁴"
+            ],
+            "hindi": [
+                "±x",
+                "±√(1-x⁴)",
+                "±(1-x²)",
+                "±x⁴"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If tan θ · cot θ = k, then k equals:",
+            "hindi": "यदि tan θ · cot θ = k है, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "∞"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "∞"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = x and cos θ = y, then x²/y² + y²/x² equals:",
+            "hindi": "यदि sin θ = x और cos θ = y है, तो x²/y² + y²/x² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "tan²θ + cot²θ",
+                "sec²θ + cosec²θ"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "tan²θ + cot²θ",
+                "sec²θ + cosec²θ"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + cos θ = √2 and sin θ · cos θ = 1/4, then sin⁴θ + cos⁴θ equals:",
+            "hindi": "यदि sin θ + cos θ = √2 और sin θ · cos θ = 1/4 है, तो sin⁴θ + cos⁴θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "3/4",
+                "5/8",
+                "7/8"
+            ],
+            "hindi": [
+                "1/2",
+                "3/4",
+                "5/8",
+                "7/8"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

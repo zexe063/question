@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the total surface area of a hemisphere of radius 7 cm.",
+            "hindi": "7 सेमी त्रिज्या वाले अर्धगोले का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "308 cm²",
+                "462 cm²",
+                "462.7 cm²",
+                "308.7 cm²"
+            ],
+            "hindi": [
+                "308 सेमी²",
+                "462 सेमी²",
+                "462.7 सेमी²",
+                "308.7 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical tank of radius 10 m and height 12 m is filled with water. How many cubic meters of water can it hold?",
+            "hindi": "10 मीटर त्रिज्या और 12 मीटर ऊंचाई वाली बेलनाकार टंकी पानी से भरी है। इसमें कितने घन मीटर पानी आ सकता है?"
+        },
+        "option": {
+            "english": [
+                "3650 m³",
+                "3750 m³",
+                "3768 m³",
+                "3768.5 m³"
+            ],
+            "hindi": [
+                "3650 घन मीटर",
+                "3750 घन मीटर",
+                "3768 घन मीटर",
+                "3768.5 घन मीटर"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The radius of a cone is 5 cm and its slant height is 13 cm. Find its curved surface area.",
+            "hindi": "एक शंकु की त्रिज्या 5 सेमी और तिर्यक ऊंचाई 13 सेमी है। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "204.7 cm²",
+                "204.2 cm²",
+                "205 cm²",
+                "205.7 cm²"
+            ],
+            "hindi": [
+                "204.7 सेमी²",
+                "204.2 सेमी²",
+                "205 सेमी²",
+                "205.7 सेमी²"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cube has its edges 10 cm long. Find its volume.",
+            "hindi": "एक घन की भुजाएँ 10 सेमी लंबी हैं। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1000 cm³",
+                "1100 cm³",
+                "1200 cm³",
+                "1300 cm³"
+            ],
+            "hindi": [
+                "1000 सेमी³",
+                "1100 सेमी³",
+                "1200 सेमी³",
+                "1300 सेमी³"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The diameter of a sphere is 14 cm. Find its surface area.",
+            "hindi": "एक गोले का व्यास 14 सेमी है। इसका पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "506 cm²",
+                "586 cm²",
+                "616 cm²",
+                "626 cm²"
+            ],
+            "hindi": [
+                "506 सेमी²",
+                "586 सेमी²",
+                "616 सेमी²",
+                "626 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid iron cuboid measures 4.4 m × 2.6 m × 1.0 m. If iron weighs 7.8 g per cubic cm, find the weight of the cuboid in kg.",
+            "hindi": "एक ठोस लोहे का घनाभ 4.4 मीटर × 2.6 मीटर × 1.0 मीटर माप का है। यदि लोहे का वजन 7.8 ग्राम प्रति घन सेमी है, तो घनाभ का वजन किलोग्राम में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "89232 kg",
+                "89332 kg",
+                "89432 kg",
+                "89532 kg"
+            ],
+            "hindi": [
+                "89232 किग्रा",
+                "89332 किग्रा",
+                "89432 किग्रा",
+                "89532 किग्रा"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cylinder has internal radius 8 cm, external radius 12 cm and height 15 cm. Find its volume.",
+            "hindi": "एक खोखले बेलन की आंतरिक त्रिज्या 8 सेमी, बाहरी त्रिज्या 12 सेमी और ऊंचाई 15 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "2160π cm³",
+                "2260π cm³",
+                "2360π cm³",
+                "2460π cm³"
+            ],
+            "hindi": [
+                "2160π सेमी³",
+                "2260π सेमी³",
+                "2360π सेमी³",
+                "2460π सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical bucket of height 32 cm and base radius 18 cm is filled with sand. This sand is emptied on the ground and forms a conical heap of height 24 cm. Find the radius of the base of the conical heap.",
+            "hindi": "32 सेमी ऊंचाई और 18 सेमी आधार त्रिज्या वाली बेलनाकार बाल्टी रेत से भरी है। इस रेत को जमीन पर खाली किया जाता है और 24 सेमी ऊंचाई का शंकु आकार का ढेर बनता है। शंकु के आधार की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "27 cm",
+                "28 cm",
+                "29 cm",
+                "30 cm"
+            ],
+            "hindi": [
+                "27 सेमी",
+                "28 सेमी",
+                "29 सेमी",
+                "30 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a cylinder with hemispherical ends is 15 cm long and 7 cm in diameter. Find its surface area.",
+            "hindi": "एक ठोस जिसमें अर्धगोलाकार सिरों वाला बेलन है, 15 सेमी लंबा और 7 सेमी व्यास का है। इसका पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "440 cm²",
+                "462 cm²",
+                "484 cm²",
+                "506 cm²"
+            ],
+            "hindi": [
+                "440 सेमी²",
+                "462 सेमी²",
+                "484 सेमी²",
+                "506 सेमी²"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Three cubes of sides 3 cm, 4 cm and 5 cm respectively are melted to form a single cube. Find the side of the resulting cube.",
+            "hindi": "क्रमशः 3 सेमी, 4 सेमी और 5 सेमी भुजाओं वाले तीन घनों को पिघलाकर एक घन बनाया जाता है। परिणामी घन की भुजा ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "5 cm",
+                "6 cm",
+                "7 cm",
+                "8 cm"
+            ],
+            "hindi": [
+                "5 सेमी",
+                "6 सेमी",
+                "7 सेमी",
+                "8 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

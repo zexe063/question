@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "The decimal expansion of 15/24 will terminate after:",
+        "hindi": "15/24 का दशमलव प्रसार कितने पदों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "1 place",
+          "2 places",
+          "3 places",
+          "4 places"
+        ],
+        "hindi": [
+          "1 स्थान",
+          "2 स्थान",
+          "3 स्थान",
+          "4 स्थान"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(306, 657) = 9, then LCM(306, 657) = ?",
+        "hindi": "यदि HCF(306, 657) = 9 है, तो LCM(306, 657) = ?"
+      },
+      "option": {
+        "english": [
+          "22338",
+          "22388",
+          "22308",
+          "22438"
+        ],
+        "hindi": [
+          "22338",
+          "22388",
+          "22308",
+          "22438"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The largest number which divides 70 and 125 leaving remainders 5 and 8 respectively is:",
+        "hindi": "वह बड़ी से बड़ी संख्या जो 70 और 125 को विभाजित करने पर क्रमशः 5 और 8 शेषफल देती है:"
+      },
+      "option": {
+        "english": [
+          "13",
+          "65",
+          "117",
+          "27"
+        ],
+        "hindi": [
+          "13",
+          "65",
+          "117",
+          "27"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If two positive integers p and q can be expressed as p = ab² and q = a³b; where a, b are prime numbers, then LCM(p,q) is:",
+        "hindi": "यदि दो धनात्मक पूर्णांक p और q को p = ab² और q = a³b के रूप में व्यक्त किया जा सकता है; जहां a, b अभाज्य संख्याएं हैं, तो LCM(p,q) है:"
+      },
+      "option": {
+        "english": [
+          "a²b²",
+          "a³b",
+          "a³b²",
+          "ab²"
+        ],
+        "hindi": [
+          "a²b²",
+          "a³b",
+          "a³b²",
+          "ab²"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The value of k for which 7/2k × 5³ will have terminating decimal expansion is:",
+        "hindi": "k का वह मान जिसके लिए 7/2k × 5³ का दशमलव प्रसार अंत होगा:"
+      },
+      "option": {
+        "english": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "hindi": [
+          "2",
+          "3",
+          "4",
+          "5"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If HCF(x, y) = 12 and LCM(x, y) = 336, then one value of x could be:",
+        "hindi": "यदि HCF(x, y) = 12 और LCM(x, y) = 336 है, तो x का एक मान हो सकता है:"
+      },
+      "option": {
+        "english": [
+          "24",
+          "48",
+          "72",
+          "84"
+        ],
+        "hindi": [
+          "24",
+          "48",
+          "72",
+          "84"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If d is the HCF of 35 and 56, then values of x and y satisfying d = 35x + 56y are:",
+        "hindi": "यदि d, 35 और 56 का HCF है, तो d = 35x + 56y को संतुष्ट करने वाले x और y के मान हैं:"
+      },
+      "option": {
+        "english": [
+          "x=1, y=-2",
+          "x=2, y=-1",
+          "x=1, y=-1",
+          "x=2, y=-2"
+        ],
+        "hindi": [
+          "x=1, y=-2",
+          "x=2, y=-1",
+          "x=1, y=-1",
+          "x=2, y=-2"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The least number which when divided by 6, 15 and 18 leaves remainder 5 in each case is:",
+        "hindi": "वह छोटी से छोटी संख्या जो 6, 15 और 18 से विभाजित होने पर प्रत्येक स्थिति में 5 शेषफल देती है:"
+      },
+      "option": {
+        "english": [
+          "85",
+          "95",
+          "185",
+          "275"
+        ],
+        "hindi": [
+          "85",
+          "95",
+          "185",
+          "275"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If the HCF of 408 and 1032 is expressible in the form 1032m - 408k, then k equals:",
+        "hindi": "यदि 408 और 1032 का HCF, 1032m - 408k के रूप में व्यक्त किया जा सकता है, तो k बराबर है:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "The decimal expansion of 129/250 will terminate after how many places:",
+        "hindi": "129/250 का दशमलव प्रसार कितने स्थानों के बाद समाप्त होगा:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

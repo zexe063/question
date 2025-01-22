@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the volume of a cube with edge 4 cm.",
+            "hindi": "4 सेमी भुजा वाले घन का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "54 cm³",
+                "64 cm³",
+                "74 cm³",
+                "84 cm³"
+            ],
+            "hindi": [
+                "54 सेमी³",
+                "64 सेमी³",
+                "74 सेमी³",
+                "84 सेमी³"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The surface area of a sphere is 154 cm². Find its radius.",
+            "hindi": "एक गोले का पृष्ठीय क्षेत्रफल 154 सेमी² है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "3.5 cm",
+                "4.5 cm",
+                "5.5 cm",
+                "6.5 cm"
+            ],
+            "hindi": [
+                "3.5 सेमी",
+                "4.5 सेमी",
+                "5.5 सेमी",
+                "6.5 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the volume of a cylinder with radius 7 cm and height 10 cm.",
+            "hindi": "7 सेमी त्रिज्या और 10 सेमी ऊंचाई वाले बेलन का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1440 cm³",
+                "1430 cm³",
+                "1540 cm³",
+                "1530 cm³"
+            ],
+            "hindi": [
+                "1440 सेमी³",
+                "1430 सेमी³",
+                "1540 सेमी³",
+                "1530 सेमी³"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The total surface area of a cuboid is 376 cm². If length is 10 cm and breadth is 8 cm, find its height.",
+            "hindi": "एक घनाभ का कुल पृष्ठीय क्षेत्रफल 376 सेमी² है। यदि लंबाई 10 सेमी और चौड़ाई 8 सेमी है, तो ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "4 cm",
+                "5 cm",
+                "6 cm",
+                "7 cm"
+            ],
+            "hindi": [
+                "4 सेमी",
+                "5 सेमी",
+                "6 सेमी",
+                "7 सेमी"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the curved surface area of a cylinder with radius 14 cm and height 20 cm.",
+            "hindi": "14 सेमी त्रिज्या और 20 सेमी ऊंचाई वाले बेलन का वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "1650 cm²",
+                "1760 cm²",
+                "1870 cm²",
+                "1980 cm²"
+            ],
+            "hindi": [
+                "1650 सेमी²",
+                "1760 सेमी²",
+                "1870 सेमी²",
+                "1980 सेमी²"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cone has radius 5 cm and height 12 cm. Find its volume.",
+            "hindi": "एक शंकु की त्रिज्या 5 सेमी और ऊंचाई 12 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "300 cm³",
+                "310 cm³",
+                "314 cm³",
+                "324 cm³"
+            ],
+            "hindi": [
+                "300 सेमी³",
+                "310 सेमी³",
+                "314 सेमी³",
+                "324 सेमी³"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the volume of a sphere is 4851 cm³, find its radius.",
+            "hindi": "यदि एक गोले का आयतन 4851 सेमी³ है, तो उसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "11 cm",
+                "12 cm",
+                "13 cm",
+                "14 cm"
+            ],
+            "hindi": [
+                "11 सेमी",
+                "12 सेमी",
+                "13 सेमी",
+                "14 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid cylinder is melted to form a cone of same radius. If the height of cylinder was 21 cm, find the height of cone.",
+            "hindi": "एक ठोस बेलन को पिघलाकर समान त्रिज्या का शंकु बनाया गया। यदि बेलन की ऊंचाई 21 सेमी थी, तो शंकु की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "42 cm",
+                "54 cm",
+                "60 cm",
+                "63 cm"
+            ],
+            "hindi": [
+                "42 सेमी",
+                "54 सेमी",
+                "60 सेमी",
+                "63 सेमी"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid sphere of radius 6 cm is melted to form smaller identical spheres of radius 2 cm. Find the number of smaller spheres.",
+            "hindi": "6 सेमी त्रिज्या के एक ठोस गोले को पिघलाकर 2 सेमी त्रिज्या के समान छोटे गोले बनाए गए। छोटे गोलों की संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "24",
+                "27",
+                "30",
+                "33"
+            ],
+            "hindi": [
+                "24",
+                "27",
+                "30",
+                "33"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A cube and a sphere have equal surface areas. Find the ratio of their volumes.",
+            "hindi": "एक घन और एक गोले का पृष्ठीय क्षेत्रफल समान है। उनके आयतनों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "π:6",
+                "6:π",
+                "π√6:6",
+                "6:π√6"
+            ],
+            "hindi": [
+                "π:6",
+                "6:π",
+                "π√6:6",
+                "6:π√6"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

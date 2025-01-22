@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of these lines is perpendicular to the line y = 2x - 3?",
+            "hindi": "इनमें से कौन सी रेखा y = 2x - 3 के लंबवत है?"
+        },
+        "option": {
+            "english": ["y = 2x + 3", "y = -2x + 3", "y = -1/2x + 3", "y = 1/2x + 3"],
+            "hindi": ["y = 2x + 3", "y = -2x + 3", "y = -1/2x + 3", "y = 1/2x + 3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The line 3x + 4y = 12 intersects the y-axis at what point?",
+            "hindi": "रेखा 3x + 4y = 12 y-अक्ष को किस बिंदु पर प्रतिच्छेद करती है?"
+        },
+        "option": {
+            "english": ["(4, 0)", "(3, 0)", "(0, 3)", "(0, 4)"],
+            "hindi": ["(4, 0)", "(3, 0)", "(0, 3)", "(0, 4)"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the standard form of the equation y - 4 = 2(x - 3)?",
+            "hindi": "समीकरण y - 4 = 2(x - 3) का मानक रूप क्या है?"
+        },
+        "option": {
+            "english": ["2x - y = -2", "2x - y = 2", "-2x + y = 2", "-2x + y = -2"],
+            "hindi": ["2x - y = -2", "2x - y = 2", "-2x + y = 2", "-2x + y = -2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If (a, 4) lies on the graph of 3x + y = 10, then the value of a is:",
+            "hindi": "यदि (a, 4) 3x + y = 10 के आलेख पर स्थित है, तो a का मान है:"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve the system of equations: x + 2y = 5 and 2x - y = 5",
+            "hindi": "समीकरणों की प्रणाली को हल करें: x + 2y = 5 और 2x - y = 5"
+        },
+        "option": {
+            "english": ["x=1, y=2", "x=2, y=1", "x=4, y=0.5", "x=3, y=1"],
+            "hindi": ["x=1, y=2", "x=2, y=1", "x=4, y=0.5", "x=3, y=1"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 4 kg of apples and 2 kg of oranges is ₹300. The cost of 6 kg of apples and 3 kg of oranges is ₹420. What is the cost per kg of apples?",
+            "hindi": "4 किलो सेब और 2 किलो संतरे का मूल्य ₹300 है। 6 किलो सेब और 3 किलो संतरे का मूल्य ₹420 है। सेब का प्रति किलो मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹60", "₹45", "₹55", "₹40"],
+            "hindi": ["₹60", "₹45", "₹55", "₹40"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k, the system of equations 2x + 3y = 5 and 4x + ky = 10 has infinitely many solutions?",
+            "hindi": "k के किस मान के लिए, समीकरणों की प्रणाली 2x + 3y = 5 और 4x + ky = 10 के अपरिमित रूप से अनेक हल हैं?"
+        },
+        "option": {
+            "english": ["k = 3", "k = 1", "k = 6", "k = -6"],
+            "hindi": ["k = 3", "k = 1", "k = 6", "k = -6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is true for the system of equations: x - 2y = 4 and -3x + 6y = -12?",
+            "hindi": "समीकरणों की प्रणाली के लिए निम्नलिखित में से कौन सा सत्य है: x - 2y = 4 और -3x + 6y = -12?"
+        },
+        "option": {
+            "english": ["No solution", "Unique solution", "Infinitely many solutions", "None of these"],
+            "hindi": ["कोई हल नहीं", "अद्वितीय हल", "अपरिमित रूप से अनेक हल", "इनमें से कोई नहीं"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Half the perimeter of a rectangular garden, whose length is 4 m more than its width, is 36 m. Find the length of the garden.",
+            "hindi": "एक आयताकार बगीचे का आधा परिमाप, जिसकी लंबाई उसकी चौड़ाई से 4 मीटर अधिक है, 36 मीटर है। बगीचे की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["18 m", "16 m", "24 m", "20 m"],
+            "hindi": ["18 मीटर", "16 मीटर", "24 मीटर", "20 मीटर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The difference between two numbers is 26 and one number is three times the other. Find the larger number.",
+            "hindi": "दो संख्याओं के बीच का अंतर 26 है और एक संख्या दूसरी संख्या की तीन गुनी है। बड़ी संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["39", "26", "13", "52"],
+            "hindi": ["39", "26", "13", "52"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 6x + 9, then α² + β² equals:",
+            "hindi": "यदि α और β बहुपद x² - 6x + 9 के शून्यक हैं, तो α² + β² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "18",
+                "36",
+                "27",
+                "45"
+            ],
+            "hindi": [
+                "18",
+                "36",
+                "27",
+                "45"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The remainder when x³ - 2x² + 3x - 4 is divided by x - 1 is:",
+            "hindi": "जब x³ - 2x² + 3x - 4 को x - 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "-2",
+                "0",
+                "2",
+                "4"
+            ],
+            "hindi": [
+                "-2",
+                "0",
+                "2",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x - 2 is a factor of x³ - ax² + bx - 8, then:",
+            "hindi": "यदि x - 2, x³ - ax² + bx - 8 का एक गुणनखंड है, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = 14",
+                "a - b = 14",
+                "a + b = 12",
+                "a - b = 12"
+            ],
+            "hindi": [
+                "a + b = 14",
+                "a - b = 14",
+                "a + b = 12",
+                "a - b = 12"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The zeros of quadratic polynomial x² + kx + 4 are negative, then:",
+            "hindi": "द्विघात बहुपद x² + kx + 4 के शून्यक ऋणात्मक हैं, तो:"
+        },
+        "option": {
+            "english": [
+                "k < 0",
+                "k > 0",
+                "k = 0",
+                "k ≥ 0"
+            ],
+            "hindi": [
+                "k < 0",
+                "k < 0",
+                "k = 0",
+                "k ≥ 0"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then (1/α + 1/β) equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो (1/α + 1/β) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "5/6",
+                "6/5",
+                "5/3",
+                "3/5"
+            ],
+            "hindi": [
+                "5/6",
+                "6/5",
+                "5/3",
+                "3/5"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of zeros of quadratic polynomial f(x) = x² + px + q is 5 and their product is 6, then:",
+            "hindi": "यदि द्विघात बहुपद f(x) = x² + px + q के शून्यकों का योग 5 और उनका गुणनफल 6 है, तो:"
+        },
+        "option": {
+            "english": [
+                "p = -5, q = 6",
+                "p = 5, q = 6",
+                "p = -5, q = -6",
+                "p = 5, q = -6"
+            ],
+            "hindi": [
+                "p = -5, q = 6",
+                "p = 5, q = 6",
+                "p = -5, q = -6",
+                "p = 5, q = -6"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 3x - 10, then α³ + β³ equals:",
+            "hindi": "यदि α और β बहुपद x² - 3x - 10 के शून्यक हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "39",
+                "49",
+                "59",
+                "69"
+            ],
+            "hindi": [
+                "39",
+                "49",
+                "59",
+                "69"
+            ]
+        },
+        "answer": 2,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If p(x) = x⁴ - 6x³ + ax² + bx + c is divided by x² + 1, the remainder is x + 2. Then:",
+            "hindi": "यदि p(x) = x⁴ - 6x³ + ax² + bx + c को x² + 1 से विभाजित करने पर शेषफल x + 2 है, तो:"
+        },
+        "option": {
+            "english": [
+                "a = 11, b = -6",
+                "a = 13, b = -8",
+                "a = 11, b = -8",
+                "a = 13, b = -6"
+            ],
+            "hindi": [
+                "a = 11, b = -6",
+                "a = 13, b = -8",
+                "a = 11, b = -8",
+                "a = 13, b = -6"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + px + q, and α² + β² = 2(p² - 2q), then:",
+            "hindi": "यदि α और β बहुपद x² + px + q के शून्यक हैं, और α² + β² = 2(p² - 2q), तो:"
+        },
+        "option": {
+            "english": [
+                "p = ±2q",
+                "p = ±3q",
+                "p = ±4q",
+                "p = ±5q"
+            ],
+            "hindi": [
+                "p = ±2q",
+                "p = ±3q",
+                "p = ±4q",
+                "p = ±5q"
+            ]
+        },
+        "answer": 3,
+        "medium": "hard"
+    }
+]

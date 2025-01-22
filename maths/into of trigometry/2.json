@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of cos 60° is equal to:",
+            "hindi": "cos 60° का मान बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "1/2",
+                "√3/2",
+                "1/√2"
+            ],
+            "hindi": [
+                "1",
+                "1/2",
+                "√3/2",
+                "1/√2"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = 1/2, then cos θ equals:",
+            "hindi": "यदि sin θ = 1/2 है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "√2/2",
+                "√3/2",
+                "1/2",
+                "1"
+            ],
+            "hindi": [
+                "√2/2",
+                "√3/2",
+                "1/2",
+                "1"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of sin²45° + cos²45° is:",
+            "hindi": "sin²45° + cos²45° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "0",
+                "2",
+                "1/2"
+            ],
+            "hindi": [
+                "1",
+                "0",
+                "2",
+                "1/2"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos A = 12/13, then sin A equals:",
+            "hindi": "यदि cos A = 12/13 है, तो sin A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "13/12",
+                "12/13",
+                "5/13",
+                "13/5"
+            ],
+            "hindi": [
+                "13/12",
+                "12/13",
+                "5/13",
+                "13/5"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of sec²30° - tan²30° is:",
+            "hindi": "sec²30° - tan²30° का मान है:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "1",
+                "0",
+                "3"
+            ],
+            "hindi": [
+                "2",
+                "1",
+                "0",
+                "3"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + cos θ = p and sin θ - cos θ = q, then sin θ equals:",
+            "hindi": "यदि sin θ + cos θ = p और sin θ - cos θ = q है, तो sin θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "(p + q)/2",
+                "(p - q)/2",
+                "(p + q)",
+                "(p - q)"
+            ],
+            "hindi": [
+                "(p + q)/2",
+                "(p - q)/2",
+                "(p + q)",
+                "(p - q)"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cosec A = 13/5, then cot A equals:",
+            "hindi": "यदि cosec A = 13/5 है, तो cot A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "5/12",
+                "12/5",
+                "13/12",
+                "12/13"
+            ],
+            "hindi": [
+                "5/12",
+                "12/5",
+                "13/12",
+                "12/13"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = x and cos A = y, then x²/y² + y²/x² equals:",
+            "hindi": "यदि sin A = x और cos A = y है, तो x²/y² + y²/x² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "2",
+                "4",
+                "0"
+            ],
+            "hindi": [
+                "1",
+                "2",
+                "4",
+                "0"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ + sin²θ = 1, then cos²θ equals:",
+            "hindi": "यदि sin θ + sin²θ = 1 है, तो cos²θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/4",
+                "1/2",
+                "sin θ",
+                "3/4"
+            ],
+            "hindi": [
+                "1/4",
+                "1/2",
+                "sin θ",
+                "3/4"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If tan A + cot A = 2√3, then tan²A equals:",
+            "hindi": "यदि tan A + cot A = 2√3 है, तो tan²A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3",
+                "1",
+                "2",
+                "0"
+            ],
+            "hindi": [
+                "3",
+                "1",
+                "2",
+                "0"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

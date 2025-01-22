@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In a right-angled triangle, the hypotenuse is 13 cm and one of the sides is 5 cm. What is the length of the other side?",
+            "hindi": "एक समकोण त्रिभुज में, कर्ण 13 सेमी है और एक भुजा 5 सेमी है। दूसरी भुजा की लंबाई क्या है?"
+        },
+        "option": {
+            "english": ["8 cm", "10 cm", "11 cm", "12 cm"],
+            "hindi": ["8 सेमी", "10 सेमी", "11 सेमी", "12 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is the correct statement of the Converse of Pythagoras Theorem?",
+            "hindi": "निम्नलिखित में से कौन सा पाइथागोरस प्रमेय के विलोम का सही कथन है?"
+        },
+        "option": {
+            "english": ["If the square of the longest side of a triangle is equal to the sum of the squares of the other two sides, then the triangle is acute-angled.", "If the square of the longest side of a triangle is less than the sum of the squares of the other two sides, then the triangle is obtuse-angled.", "If the square of the longest side of a triangle is equal to the sum of the squares of the other two sides, then the triangle is right-angled.", "If the square of the longest side of a triangle is greater than the sum of the squares of the other two sides, then the triangle is right-angled."],
+            "hindi": ["यदि किसी त्रिभुज की सबसे लंबी भुजा का वर्ग अन्य दो भुजाओं के वर्गों के योग के बराबर है, तो त्रिभुज न्यूनकोण है।", "यदि किसी त्रिभुज की सबसे लंबी भुजा का वर्ग अन्य दो भुजाओं के वर्गों के योग से कम है, तो त्रिभुज अधिककोण है।", "यदि किसी त्रिभुज की सबसे लंबी भुजा का वर्ग अन्य दो भुजाओं के वर्गों के योग के बराबर है, तो त्रिभुज समकोण है।", "यदि किसी त्रिभुज की सबसे लंबी भुजा का वर्ग अन्य दो भुजाओं के वर्गों के योग से अधिक है, तो त्रिभुज समकोण है।"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AD is the angle bisector of ∠BAC, AB = 6 cm, BD = 4 cm, and DC = 3 cm, find AC.",
+            "hindi": "दिए गए चित्र में, यदि AD, ∠BAC का कोण समद्विभाजक है, AB = 6 सेमी, BD = 4 सेमी, और DC = 3 सेमी, तो AC ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4.5 cm", "5 cm", "6 cm", "7.5 cm"],
+            "hindi": ["4.5 सेमी", "5 सेमी", "6 सेमी", "7.5 सेमी"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='175' y1='30' x2='175' y2='130' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='165' y='85'>D</text><text x='125' y='135'>4</text><text x='225' y='135'>3</text><text x='160' y='45'>6</text><text x='200' y='45'>x</text><line x1='175' y1='30' x2='75' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='175' y1='30' x2='275' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of the areas of two similar triangles is 9:16, then the ratio of their corresponding sides is:",
+            "hindi": "यदि दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात 9:16 है, तो उनकी संगत भुजाओं का अनुपात है:"
+        },
+        "option": {
+            "english": ["3:5", "3:4", "4:3", "4:5"],
+            "hindi": ["3:5", "3:4", "4:3", "4:5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In a triangle ABC, if AB² + BC² = AC², then the right angle is at:",
+            "hindi": "एक त्रिभुज ABC में, यदि AB² + BC² = AC², तो समकोण कहाँ है:"
+        },
+        "option": {
+            "english": ["∠A", "∠C", "Can't be determined", "∠B"],
+            "hindi": ["∠A", "∠C", "निर्धारित नहीं किया जा सकता", "∠B"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the corresponding medians of two similar triangles are in the ratio 5:7, then the ratio of their corresponding sides is:",
+            "hindi": "यदि दो समरूप त्रिभुजों की संगत माध्यिकाओं का अनुपात 5:7 है, तो उनकी संगत भुजाओं का अनुपात है:"
+        },
+        "option": {
+            "english": ["5:7", "7:5", "25:49", "49:25"],
+            "hindi": ["5:7", "7:5", "25:49", "49:25"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, then what is the value of x?",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, तो x का मान क्या है?"
+        },
+        "option": {
+            "english": ["5", "6", "7", "8"],
+            "hindi": ["5", "6", "7", "8"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='145' y1='70' x2='205' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='135' y='65'>D</text><text x='210' y='65'>E</text><text x='125' y='95'>5</text><text x='155' y='110'>2</text><text x='185' y='60'>x</text><text x='235' y='90'>3</text><line x1='145' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='205' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man goes 24 m due west and then 10 m due north. How far is he from the starting point?",
+            "hindi": "एक आदमी 24 मीटर पश्चिम की ओर जाता है और फिर 10 मीटर उत्तर की ओर जाता है। वह शुरुआती बिंदु से कितनी दूर है?"
+        },
+        "option": {
+            "english": ["25 m", "26 m", "28 m", "30 m"],
+            "hindi": ["25 मीटर", "26 मीटर", "28 मीटर", "30 मीटर"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AD is the bisector of ∠A, meeting BC at D. If BD = 2.5 cm, AB = 5 cm, and AC = 4.2 cm, find DC.",
+            "hindi": "दिए गए चित्र में, यदि AD, ∠A का समद्विभाजक है, जो BC से D पर मिलता है। यदि BD = 2.5 सेमी, AB = 5 सेमी, और AC = 4.2 सेमी, तो DC ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1.5 cm", "1.8 cm", "2.0 cm", "2.1 cm"],
+            "hindi": ["1.5 सेमी", "1.8 सेमी", "2.0 सेमी", "2.1 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='175' y1='30' x2='175' y2='130' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='165' y='85'>D</text><text x='125' y='135'>2.5</text><text x='225' y='135'>x</text><text x='160' y='45'>5</text><text x='200' y='45'>4.2</text><line x1='175' y1='30' x2='75' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='175' y1='30' x2='275' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The areas of two similar triangles are in the ratio 4:9. Find the ratio of their corresponding angle bisectors.",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफल 4:9 के अनुपात में हैं। उनकी संगत कोण समद्विभाजकों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2:3", "3:2", "4:9", "9:4"],
+            "hindi": ["2:3", "3:2", "4:9", "9:4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

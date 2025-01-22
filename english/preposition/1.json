@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The plane flew _____ the clouds.",
+        "hindi": "Choose the correct preposition: The plane flew _____ the clouds."
+      },
+      "option": {
+        "english": [
+          "between",
+          "above",
+          "on",
+          "at"
+        ],
+        "hindi": [
+          "between",
+          "above",
+          "on",
+          "at"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: She has been working here _____ 2010.",
+        "hindi":"Fill in the blank: She has been working here _____ 2010."
+      },
+      "option": {
+        "english": [
+          "since",
+          "for",
+          "from",
+          "in"
+        ],
+        "hindi": [
+          "since",
+          "for",
+          "from",
+          "in"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The book is _____ the table.",
+        "hindi": "Select the right preposition: The book is _____ the table."
+      },
+      "option": {
+        "english": [
+          "at",
+          "by",
+          "on",
+          "in"
+        ],
+        "hindi": [
+          "at",
+          "by",
+          "on",
+          "in"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: He lives _____ 42 Park Street.",
+        "hindi": "Choose the correct preposition: He lives _____ 42 Park Street."
+      },
+      "option": {
+        "english": [
+          "in",
+          "on",
+          "by",
+          "at"
+        ],
+        "hindi": [
+          "in",
+          "on",
+          "by",
+          "at"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The cat is hiding _____ the sofa.",
+        "hindi": "Fill in the blank: The cat is hiding _____ the sofa."
+      },
+      "option": {
+        "english": [
+          "on",
+          "under",
+          "above",
+          "over"
+        ],
+        "hindi": [
+          "on",
+          "under",
+          "above",
+          "over"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The meeting is scheduled _____ Monday morning.",
+        "hindi": "Select the appropriate preposition: The meeting is scheduled _____ Monday morning."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "for",
+          "on"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "for",
+          "on"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The painting was done _____ oil colors.",
+        "hindi": "Choose the correct preposition: The painting was done _____ oil colors."
+      },
+      "option": {
+        "english": [
+          "with",
+          "by",
+          "in",
+          "from"
+        ],
+        "hindi": [
+          "with",
+          "by",
+          "in",
+          "from"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The ship sailed _____ the storm.",
+        "hindi": "Fill in the blank: The ship sailed _____ the storm."
+      },
+      "option": {
+        "english": [
+          "into",
+          "with",
+          "by",
+          "through"
+        ],
+        "hindi": [
+          "into",
+          "with",
+          "by",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: He was accused _____ stealing the money.",
+        "hindi": "Select the right preposition: He was accused _____ stealing the money."
+      },
+      "option": {
+        "english": [
+          "for",
+          "of",
+          "with",
+          "by"
+        ],
+        "hindi": [
+          "for",
+          "of",
+          "with",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The movie differs _____ the book in many ways.",
+        "hindi": "Choose the correct preposition: The movie differs _____ the book in many ways."
+      },
+      "option": {
+        "english": [
+          "with",
+          "by",
+          "from",
+          "to"
+        ],
+        "hindi": [
+          "with",
+          "by",
+          "from",
+          "to"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    }
+]

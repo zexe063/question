@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A hollow sphere has outer radius 12 cm and inner radius 8 cm. Find its volume.",
+            "hindi": "एक खोखले गोले की बाहरी त्रिज्या 12 सेमी और आंतरिक त्रिज्या 8 सेमी है। इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2144 cm³", "2244 cm³", "2344 cm³", "2444 cm³"],
+            "hindi": ["2144 सेमी³", "2244 सेमी³", "2344 सेमी³", "2444 सेमी³"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid cone of height 21 cm and radius 5 cm is melted to form a sphere. Find its radius.",
+            "hindi": "21 सेमी ऊंचाई और 5 सेमी त्रिज्या वाले एक ठोस शंकु को पिघलाकर एक गोला बनाया जाता है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5 cm", "6 cm", "7 cm", "8 cm"],
+            "hindi": ["5 सेमी", "6 सेमी", "7 सेमी", "8 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cylinder of height 14 cm has outer and inner radii as 8 cm and 6 cm. Find its curved surface area.",
+            "hindi": "14 सेमी ऊंचाई वाले एक खोखले बेलन की बाहरी और आंतरिक त्रिज्याएँ क्रमशः 8 सेमी और 6 सेमी हैं। इसका वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["616 cm²", "716 cm²", "816 cm²", "916 cm²"],
+            "hindi": ["616 सेमी²", "716 सेमी²", "816 सेमी²", "916 सेमी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid consisting of a hemisphere mounted on a cylinder is immersed in a larger cylinder full of water. All shapes have radius 7 cm and cylinder height is 12 cm. Find the rise in water level.",
+            "hindi": "एक बेलन पर स्थित अर्धगोले से बने ठोस को पानी से भरे बड़े बेलन में डुबोया जाता है। सभी आकृतियों की त्रिज्या 7 सेमी और बेलन की ऊंचाई 12 सेमी है। पानी के स्तर में वृद्धि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["15 cm", "16 cm", "17 cm", "18 cm"],
+            "hindi": ["15 सेमी", "16 सेमी", "17 सेमी", "18 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A hollow cone has inner radius 5 cm, outer radius 8 cm and outer height 15 cm. Find its total surface area.",
+            "hindi": "एक खोखले शंकु की आंतरिक त्रिज्या 5 सेमी, बाहरी त्रिज्या 8 सेमी और बाहरी ऊंचाई 15 सेमी है। इसका कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["754 cm²", "854 cm²", "954 cm²", "1054 cm²"],
+            "hindi": ["754 सेमी²", "854 सेमी²", "954 सेमी²", "1054 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Two tanks are connected by a pipe. First tank is a cylinder of radius 8 m and height 15 m, second is a cone of radius 6 m and height 12 m. If first tank is full and water flows at 2 m³/min, in how many minutes will second tank be full?",
+            "hindi": "दो टंकियाँ एक पाइप से जुड़ी हैं। पहली टंकी 8 मीटर त्रिज्या और 15 मीटर ऊंचाई का बेलन है, दूसरी 6 मीटर त्रिज्या और 12 मीटर ऊंचाई का शंकु है। यदि पहली टंकी भरी है और पानी 2 मी³/मिनट की दर से बहता है, तो दूसरी टंकी कितने मिनट में भरेगी?"
+        },
+        "option": {
+            "english": ["113 min", "123 min", "133 min", "143 min"],
+            "hindi": ["113 मिनट", "123 मिनट", "133 मिनट", "143 मिनट"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid metal sphere of radius 10.5 cm is melted and drawn into a wire of uniform thickness. If the length of the wire is 1.386 km, find its radius.",
+            "hindi": "10.5 सेमी त्रिज्या के एक ठोस धातु के गोले को पिघलाकर एकसमान मोटाई की तार खींची जाती है। यदि तार की लंबाई 1.386 किमी है, तो इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["0.5 cm", "0.6 cm", "0.7 cm", "0.8 cm"],
+            "hindi": ["0.5 सेमी", "0.6 सेमी", "0.7 सेमी", "0.8 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A container shaped like a right circular cylinder having diameter 12 cm and height 15 cm is full of ice cream. The ice cream is to be filled in cones of height 12 cm and radius 3 cm, having a hemispherical top. Find the number of such cones that can be filled.",
+            "hindi": "12 सेमी व्यास और 15 सेमी ऊंचाई वाले एक लम्ब वृत्तीय बेलनाकार पात्र में आइसक्रीम भरी है। आइसक्रीम को 12 सेमी ऊंचाई और 3 सेमी त्रिज्या वाले शंकुओं में भरना है जिनका ऊपरी भाग अर्धगोलाकार है। ऐसे कितने शंकु भरे जा सकते हैं?"
+        },
+        "option": {
+            "english": ["15", "16", "17", "18"],
+            "hindi": ["15", "16", "17", "18"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A solid metallic right circular cone of height 120 cm and radius 30 cm is melted and recast into a hollow cylinder of radius 15 cm and thickness 5 cm. Find its height.",
+            "hindi": "120 सेमी ऊंचाई और 30 सेमी त्रिज्या वाले एक ठोस धातु के लम्ब वृत्तीय शंकु को पिघलाकर 15 सेमी त्रिज्या और 5 सेमी मोटाई का एक खोखला बेलन बनाया जाता है। इसकी ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["150 cm", "160 cm", "170 cm", "180 cm"],
+            "hindi": ["150 सेमी", "160 सेमी", "170 सेमी", "180 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Three identical right circular cones each of base radius 3.5 cm and height 12 cm are placed on a horizontal surface touching each other. Find the vertical height of their centroid from the base.",
+            "hindi": "3.5 सेमी आधार त्रिज्या और 12 सेमी ऊंचाई वाले तीन समान लम्ब वृत्तीय शंकुओं को एक क्षैतिज सतह पर एक-दूसरे को स्पर्श करते हुए रखा गया है। आधार से उनके केंद्रक की ऊर्ध्वाधर ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3 cm", "4 cm", "5 cm", "6 cm"],
+            "hindi": ["3 सेमी", "4 सेमी", "5 सेमी", "6 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

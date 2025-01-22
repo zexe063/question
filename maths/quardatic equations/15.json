@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 6x + 9 = 0, then α⁴ + β⁴ equals:",
+            "hindi": "यदि α और β, x² - 6x + 9 = 0 के मूल हैं, तो α⁴ + β⁴ बराबर है:"
+        },
+        "option": {
+            "english": ["81", "72", "63", "54"],
+            "hindi": ["81", "72", "63", "54"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation whose sum and product of roots are both 4 is:",
+            "hindi": "वह द्विघात समीकरण जिसके मूलों का योग और गुणनफल दोनों 4 हैं:"
+        },
+        "option": {
+            "english": ["x² - 4x + 4 = 0", "x² + 4x + 4 = 0", "x² - 4x - 4 = 0", "x² + 4x - 4 = 0"],
+            "hindi": ["x² - 4x + 4 = 0", "x² + 4x + 4 = 0", "x² - 4x - 4 = 0", "x² + 4x - 4 = 0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + kx + 1 = 0 have equal roots?",
+            "hindi": "k के किस मान के लिए x² + kx + 1 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["±1", "±2", "±3", "±4"],
+            "hindi": ["±1", "±2", "±3", "±4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A shopkeeper buys x oranges for Rs. 640. If he had bought 8 more oranges for the same amount, each orange would have cost Rs. 2 less. The number of oranges he bought is:",
+            "hindi": "एक दुकानदार Rs. 640 में x संतरे खरीदता है। यदि वह उतनी ही राशि में 8 संतरे और खरीदता, तो प्रत्येक संतरा Rs. 2 कम का पड़ता। उसने कितने संतरे खरीदे:"
+        },
+        "option": {
+            "english": ["32", "40", "48", "56"],
+            "hindi": ["32", "40", "48", "56"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + mx + 8 = 0 is reciprocal of the other, then m equals:",
+            "hindi": "यदि x² + mx + 8 = 0 का एक मूल दूसरे का व्युत्क्रम है, तो m बराबर है:"
+        },
+        "option": {
+            "english": ["0", "±6", "±8", "±10"],
+            "hindi": ["0", "±6", "±8", "±10"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of squares of three consecutive even integers is 460. The smallest integer is:",
+            "hindi": "तीन क्रमागत सम पूर्णांकों के वर्गों का योग 460 है। सबसे छोटा पूर्णांक है:"
+        },
+        "option": {
+            "english": ["10", "12", "8", "6"],
+            "hindi": ["10", "12", "8", "6"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The equation x² + 2(k+2)x + (k²+4k+3) = 0 has equal roots for:",
+            "hindi": "समीकरण x² + 2(k+2)x + (k²+4k+3) = 0 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": ["All values of k", "k = -1", "k = -3", "k = -2"],
+            "hindi": ["k के सभी मान", "k = -1", "k = -3", "k = -2"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 1 hour less. The speed of the train is:",
+            "hindi": "एक ट्रेन 360 km की दूरी एकसमान चाल से तय करती है। यदि चाल 5 km/h अधिक होती, तो 1 घंटा कम लगता। ट्रेन की चाल है:"
+        },
+        "option": {
+            "english": ["45 km/h", "60 km/h", "72 km/h", "90 km/h"],
+            "hindi": ["45 km/h", "60 km/h", "72 km/h", "90 km/h"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - px + q = 0 and α³ + β³ = 27, p = 3, then q equals:",
+            "hindi": "यदि α और β, x² - px + q = 0 के मूल हैं और α³ + β³ = 27, p = 3, तो q बराबर है:"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A rectangular swimming pool has a length that is 5 meters more than twice its width. If the area of the pool is 150 square meters, find the width of the pool.",
+            "hindi": "एक आयताकार स्विमिंग पूल की लंबाई उसकी चौड़ाई के दोगुने से 5 मीटर अधिक है। यदि पूल का क्षेत्रफल 150 वर्ग मीटर है, तो पूल की चौड़ाई ज्ञात करें।"
+        },
+        "option": {
+            "english": ["5 meters", "6 meters", "7.5 meters", "10 meters"],
+            "hindi": ["5 मीटर", "6 मीटर", "7.5 मीटर", "10 मीटर"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

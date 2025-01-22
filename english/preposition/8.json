@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The leaves swirled _____ the autumn wind.",
+        "hindi": "Choose the correct preposition: The leaves swirled _____ the autumn wind."
+      },
+      "option": {
+        "english": [
+          "by",
+          "with",
+          "through",
+          "in"
+        ],
+        "hindi": [
+          "by",
+          "with",
+          "through",
+          "in"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The museum is located _____ the old city.",
+        "hindi": "Fill in the blank: The museum is located _____ the old city."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "near",
+          "within",
+          "along"
+        ],
+        "hindi": [
+          "beside",
+          "near",
+          "within",
+          "along"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The festival begins _____ sunrise.",
+        "hindi": "Select the right preposition: The festival begins _____ sunrise."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "by",
+          "with"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "by",
+          "with"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The melody drifted _____ the night air.",
+        "hindi": "Choose the correct preposition: The melody drifted _____ the night air."
+      },
+      "option": {
+        "english": [
+          "across",
+          "through",
+          "over",
+          "around"
+        ],
+        "hindi": [
+          "across",
+          "through",
+          "over",
+          "around"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The spacecraft traveled _____ the galaxy.",
+        "hindi": "Fill in the blank: The spacecraft traveled _____ the galaxy."
+      },
+      "option": {
+        "english": [
+          "within",
+          "between",
+          "among",
+          "across"
+        ],
+        "hindi": [
+          "within",
+          "between",
+          "among",
+          "across"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The treasure was buried _____ the island.",
+        "hindi": "Select the appropriate preposition: The treasure was buried _____ the island."
+      },
+      "option": {
+        "english": [
+          "beneath",
+          "below",
+          "under",
+          "inside"
+        ],
+        "hindi": [
+          "beneath",
+          "below",
+          "under",
+          "inside"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The fog rolled _____ the hills.",
+        "hindi": "Choose the correct preposition: The fog rolled _____ the hills."
+      },
+      "option": {
+        "english": [
+          "between",
+          "among",
+          "over",
+          "inside"
+        ],
+        "hindi": [
+          "between",
+          "among",
+          "over",
+          "inside"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The castle stands _____ the mountain peak.",
+        "hindi": "Fill in the blank: The castle stands _____ the mountain peak."
+      },
+      "option": {
+        "english": [
+          "over",
+          "upon",
+          "above",
+          "on"
+        ],
+        "hindi": [
+          "over",
+          "upon",
+          "above",
+          "on"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The comet streaked _____ the night sky.",
+        "hindi": "Select the right preposition: The comet streaked _____ the night sky."
+      },
+      "option": {
+        "english": [
+          "by",
+          "with",
+          "through",
+          "across"
+        ],
+        "hindi": [
+          "by",
+          "with",
+          "through",
+          "across"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The ancient scroll was preserved _____ generations.",
+        "hindi": "Choose the correct preposition: The ancient scroll was preserved _____ generations."
+      },
+      "option": {
+        "english": [
+          "throughout",
+          "during",
+          "within",
+          "between"
+        ],
+        "hindi": [
+          "throughout",
+          "during",
+          "within",
+          "between"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the value of x in the given figure if DE || BC?",
+            "hindi": "दिए गए चित्र में x का मान क्या है यदि DE || BC?"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='115' y1='70' x2='235' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='105' y='65'>D</text><text x='240' y='65'>E</text><text x='95' y='90'>2</text><text x='95' y='110'>3</text><text x='160' y='60'>x</text><text x='240' y='90'>4</text><line x1='115' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='235' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which theorem is used to check whether a triangle is a right-angled triangle?",
+            "hindi": "यह जाँचने के लिए किस प्रमेय का उपयोग किया जाता है कि कोई त्रिभुज समकोण त्रिभुज है या नहीं?"
+        },
+        "option": {
+            "english": ["Pythagoras Theorem", "Basic Proportionality Theorem", "Angle Bisector Theorem", "Thales Theorem"],
+            "hindi": ["पाइथागोरस प्रमेय", "आधारभूत समानुपातिकता प्रमेय", "कोण समद्विभाजक प्रमेय", "थेल्स प्रमेय"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠A = ∠D, then which similarity criterion can be used to prove that the two triangles are similar?",
+            "hindi": "दिए गए चित्र में, यदि ∠A = ∠D, तो कौन सी समरूपता कसौटी का उपयोग यह सिद्ध करने के लिए किया जा सकता है कि दोनों त्रिभुज समरूप हैं?"
+        },
+        "option": {
+            "english": ["SSS", "AA", "SAS", "ASA"],
+            "hindi": ["SSS", "AA", "SAS", "ASA"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='50,30 150,130 25,130' stroke='black' fill='none'/><polygon points='250,30 350,130 200,130' stroke='black' fill='none'/><text x='45' y='25'>A</text><text x='15' y='135'>B</text><text x='155' y='135'>C</text><text x='245' y='25'>D</text><text x='195' y='135'>E</text><text x='355' y='135'>F</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔDEF, BC = 3 cm, EF = 4 cm and ar(ΔABC) = 54 cm². Determine ar(ΔDEF).",
+            "hindi": "यदि ΔABC ~ ΔDEF, BC = 3 सेमी, EF = 4 सेमी और ar(ΔABC) = 54 वर्ग सेमी। तो ar(ΔDEF) निर्धारित करें।"
+        },
+        "option": {
+            "english": ["54 cm²", "72 cm²", "84 cm²", "96 cm²"],
+            "hindi": ["54 वर्ग सेमी", "72 वर्ग सेमी", "84 वर्ग सेमी", "96 वर्ग सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of the corresponding medians of two similar triangles is 4:9, then the ratio of their areas is:",
+            "hindi": "यदि दो समरूप त्रिभुजों की संगत माध्यिकाओं का अनुपात 4:9 है, तो उनके क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["2:3", "3:2", "16:81", "81:16"],
+            "hindi": ["2:3", "3:2", "16:81", "81:16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, AD/DB = 3/4 and AC = 14 cm, then AE is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, AD/DB = 3/4 और AC = 14 सेमी, तो AE बराबर है:"
+        },
+        "option": {
+            "english": ["5 cm", "6 cm", "7 cm", "8 cm"],
+            "hindi": ["5 सेमी", "6 सेमी", "7 सेमी", "8 सेमी"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='132' y1='72' x2='218' y2='72' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='122' y='67'>D</text><text x='223' y='67'>E</text><text x='100' y='90'>3</text><text x='100' y='110'>4</text><text x='160' y='90'>x</text><text x='160' y='135'>14</text><line x1='132' y1='72' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='218' y1='72' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the areas of two similar triangles are equal, then they are:",
+            "hindi": "यदि दो समरूप त्रिभुजों के क्षेत्रफल बराबर हैं, तो वे हैं:"
+        },
+        "option": {
+            "english": ["congruent", "equilateral", "isosceles", "not similar"],
+            "hindi": ["सर्वांगसम", "समबाहु", "समद्विबाहु", "समरूप नहीं"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The diagonals of a rhombus are 16 cm and 12 cm. Find the length of each side of the rhombus.",
+            "hindi": "एक समचतुर्भुज के विकर्ण 16 सेमी और 12 सेमी हैं। समचतुर्भुज की प्रत्येक भुजा की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["8 cm", "9 cm", "12 cm", "10 cm"],
+            "hindi": ["8 सेमी", "9 सेमी", "12 सेमी", "10 सेमी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In ΔABC, if AB = 6√3 cm, AC = 12 cm and BC = 6 cm, then the measure of ∠B is:",
+            "hindi": "ΔABC में, यदि AB = 6√3 सेमी, AC = 12 सेमी और BC = 6 सेमी, तो ∠B का माप है:"
+        },
+        "option": {
+            "english": ["45°", "60°", "90°", "120°"],
+            "hindi": ["45°", "60°", "90°", "120°"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A ladder is placed against a wall such that its foot is at a distance of 5 m from the wall and its top reaches a window 12 m above the ground. Find the length of the ladder.",
+            "hindi": "एक सीढ़ी को एक दीवार के सहारे इस प्रकार रखा गया है कि उसका निचला सिरा दीवार से 5 मीटर की दूरी पर है और उसका ऊपरी सिरा जमीन से 12 मीटर ऊपर एक खिड़की तक पहुँचता है। सीढ़ी की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["17 m", "13 m", "14 m", "15 m"],
+            "hindi": ["17 मीटर", "13 मीटर", "14 मीटर", "15 मीटर"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

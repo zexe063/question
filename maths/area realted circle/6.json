@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the area of a circle whose radius is 28 cm.",
+            "hindi": "28 सेमी त्रिज्या वाले वृत्त का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2461.76 cm²", "2462.76 cm²", "2463.76 cm²", "2464.76 cm²"],
+            "hindi": ["2461.76 सेमी²", "2462.76 सेमी²", "2463.76 सेमी²", "2464.76 सेमी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular pond has circumference 132 m. Find its area.",
+            "hindi": "एक वृत्ताकार तालाब की परिधि 132 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1384.74 m²", "1385.74 m²", "1386.74 m²", "1387.74 m²"],
+            "hindi": ["1384.74 मी²", "1385.74 मी²", "1386.74 मी²", "1387.74 मी²"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular plate has diameter 56 cm. Find its area.",
+            "hindi": "एक वृत्ताकार प्लेट का व्यास 56 सेमी है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2461.76 cm²", "2462.76 cm²", "2463.76 cm²", "2464.76 cm²"],
+            "hindi": ["2461.76 सेमी²", "2462.76 सेमी²", "2463.76 सेमी²", "2464.76 सेमी²"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two concentric circles have radii 15 cm and 8 cm. Find the area of the ring.",
+            "hindi": "दो संकेंद्रीय वृत्तों की त्रिज्याएँ 15 सेमी और 8 सेमी हैं। छल्ले का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["533.14 cm²", "534.14 cm²", "535.14 cm²", "536.14 cm²"],
+            "hindi": ["533.14 सेमी²", "534.14 सेमी²", "535.14 सेमी²", "536.14 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular path of width 2m runs around a circular garden. The area of the path is 88m². Find the radius of the garden.",
+            "hindi": "एक वृत्ताकार बगीचे के चारों ओर 2 मीटर चौड़ा वृत्ताकार पथ है। पथ का क्षेत्रफल 88 मी² है। बगीचे की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12 m", "13 m", "14 m", "15 m"],
+            "hindi": ["12 मी", "13 मी", "14 मी", "15 मी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A wire in the form of a circle of radius 21 cm is bent into a rectangle of length 44 cm. Find its breadth.",
+            "hindi": "21 सेमी त्रिज्या वाले वृत्त के आकार का एक तार 44 सेमी लंबाई वाले आयत में मोड़ा जाता है। इसकी चौड़ाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["22 cm", "23 cm", "24 cm", "25 cm"],
+            "hindi": ["22 सेमी", "23 सेमी", "24 सेमी", "25 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of areas of two circles is 25:36. Find the ratio of their radii.",
+            "hindi": "दो वृत्तों के क्षेत्रफलों का अनुपात 25:36 है। उनकी त्रिज्याओं का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5:6", "6:5", "3:4", "4:3"],
+            "hindi": ["5:6", "6:5", "3:4", "4:3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The perimeter of a circular ground is 440m. Find its area in hectares.",
+            "hindi": "एक वृत्ताकार मैदान का परिमाप 440 मीटर है। इसका क्षेत्रफल हेक्टेयर में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1.54 hectares", "1.55 hectares", "1.56 hectares", "1.57 hectares"],
+            "hindi": ["1.54 हेक्टेयर", "1.55 हेक्टेयर", "1.56 हेक्टेयर", "1.57 हेक्टेयर"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The difference between the areas of two circles is 616 cm². If radius of larger circle is 21 cm, find radius of smaller circle.",
+            "hindi": "दो वृत्तों के क्षेत्रफलों का अंतर 616 सेमी² है। यदि बड़े वृत्त की त्रिज्या 21 सेमी है, तो छोटे वृत्त की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["14 cm", "15 cm", "16 cm", "17 cm"],
+            "hindi": ["14 सेमी", "15 सेमी", "16 सेमी", "17 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A circular sheet of radius 20 cm is cut into two parts in the ratio 1:2. Find the area of smaller part.",
+            "hindi": "20 सेमी त्रिज्या वाली एक वृत्ताकार शीट को 1:2 के अनुपात में दो भागों में काटा जाता है। छोटे भाग का क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["414.67 cm²", "415.67 cm²", "416.67 cm²", "417.67 cm²"],
+            "hindi": ["414.67 सेमी²", "415.67 सेमी²", "416.67 सेमी²", "417.67 सेमी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

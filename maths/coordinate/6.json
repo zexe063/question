@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the distance between the points P(3, -4) and Q(3, 6)?",
+            "hindi": "बिंदुओं P(3, -4) और Q(3, 6) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["10 units", "6 units", "8 units", "5 units"],
+            "hindi": ["10 इकाई", "6 इकाई", "8 इकाई", "5 इकाई"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "What is the distance of the point (-5, 12) from the origin?",
+            "hindi": "बिंदु (-5, 12) की मूल बिंदु से दूरी क्या है?"
+        },
+        "option": {
+            "english": ["12 units", "13 units", "14 units", "15 units"],
+            "hindi": ["12 इकाई", "13 इकाई", "14 इकाई", "15 इकाई"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the coordinates of the midpoint of the line segment joining the points (6, 8) and (2, 4).",
+            "hindi": "बिंदुओं (6, 8) और (2, 4) को मिलाने वाले रेखाखंड के मध्यबिंदु के निर्देशांक ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["(4, 5)", " (3, 6)", "(5, 6)", "(4, 6)"],
+            "hindi": ["(4, 5)", " (3, 6)", "(5, 6)", "(4, 6)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the point (x, 4) lies on a circle whose center is at the origin and radius is 5, then x = ?",
+            "hindi": "यदि बिंदु (x, 4) एक ऐसे वृत्त पर स्थित है जिसका केंद्र मूल बिंदु पर है और त्रिज्या 5 है, तो x = ?"
+        },
+        "option": {
+            "english": ["±5", "±4", "±3", "0"],
+            "hindi": ["±5", "±4", "±3", "0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance between the points (a cos θ, 0) and (0, a sin θ).",
+            "hindi": "बिंदुओं (a cos θ, 0) और (0, a sin θ) के बीच की दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["a", "2a", "a/2", "√(2a)"],
+            "hindi": ["a", "2a", "a/2", "√(2a)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the points (k, 2k), (3k, 3k) and (3, 1) are collinear, then k =",
+            "hindi": "यदि बिंदु (k, 2k), (3k, 3k) और (3, 1) संरेख हैं, तो k ="
+        },
+        "option": {
+            "english": ["-2", "-1/2", "2/3", "1/3"],
+            "hindi": ["-2", "-1/2", "2/3", "1/3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the value of y for which the distance between the points P(2, -3) and Q(10, y) is 10 units.",
+            "hindi": "y का वह मान ज्ञात कीजिए जिसके लिए बिंदुओं P(2, -3) और Q(10, y) के बीच की दूरी 10 इकाई है।"
+        },
+        "option": {
+            "english": ["3", "4", "-9", "3 or -9"],
+            "hindi": ["3", "4", "-9", "3 या -9"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the ratio in which the line segment joining A(1, -5) and B(-4, 5) is divided by the x-axis.",
+            "hindi": "वह अनुपात ज्ञात कीजिए जिसमें बिंदुओं A(1, -5) और B(-4, 5) को मिलाने वाला रेखाखंड x-अक्ष द्वारा विभाजित होता है।"
+        },
+        "option": {
+            "english": ["1:2", "1:1", "2:3", "3:2"],
+            "hindi": ["1:2", "1:1", "2:3", "3:2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (4, p) and (1, 0) is 5 units, then the value(s) of p is/are:",
+            "hindi": "यदि बिंदुओं (4, p) और (1, 0) के बीच की दूरी 5 इकाई है, तो p का मान है/हैं:"
+        },
+        "option": {
+            "english": ["4 only", "-4 only", "±4", "0"],
+            "hindi": ["केवल 4", "केवल -4", "±4", "0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the triangle formed by joining the mid-points of the sides of the triangle whose vertices are (0, -1), (2, 1) and (0, 3).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जो उस त्रिभुज की भुजाओं के मध्य-बिंदुओं को मिलाने से बनता है जिसके शीर्ष (0, -1), (2, 1) और (0, 3) हैं।"
+        },
+        "option": {
+            "english": ["2 sq. units", "4 sq. units", "1 sq. unit", "3 sq. units"],
+            "hindi": ["2 वर्ग इकाई", "4 वर्ग इकाई", "1 वर्ग इकाई", "3 वर्ग इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

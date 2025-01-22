@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "How many tangents can be drawn to a circle from a point outside the circle?",
+            "hindi": "वृत्त के बाहर स्थित एक बिंदु से वृत्त पर कितनी स्पर्श रेखाएँ खींची जा सकती हैं?"
+        },
+        "option": {
+            "english": ["0", "1", "2", "Infinite"],
+            "hindi": ["0", "1", "2", "अनंत"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In a circle with center O, if two chords AB and CD are equal and parallel, then which of the following is true?",
+            "hindi": "केंद्र O वाले एक वृत्त में, यदि दो जीवाएँ AB और CD बराबर और समानांतर हैं, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["Arcs AC and BD are equal", "∠AOB = ∠COD", "Both chords are equidistant from center", "All of these"],
+            "hindi": ["चाप AC और BD बराबर हैं", "∠AOB = ∠COD", "दोनों जीवाएँ केंद्र से समान दूरी पर हैं", "ये सभी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='125' y1='50' x2='225' y2='50' stroke='black'/><line x1='125' y1='100' x2='225' y2='100' stroke='black'/><text x='120' y='45'>A</text><text x='230' y='45'>B</text><text x='120' y='105'>C</text><text x='230' y='105'>D</text><text x='175' y='75'>O</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A tangent to a circle intersects it in _______ point(s).",
+            "hindi": "एक वृत्त की स्पर्श रेखा उसे _______ बिंदु/बिंदुओं में प्रतिच्छेद करती है।"
+        },
+        "option": {
+            "english": ["0", "1", "2", "Infinite"],
+            "hindi": ["0", "1", "2", "अनंत"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠AOB = 125°, then ∠COD is equal to:",
+            "hindi": "दिए गए चित्र में, यदि ∠AOB = 125°, तो ∠COD बराबर है:"
+        },
+        "option": {
+            "english": ["55°", "62.5°", "125°", "35°"],
+            "hindi": ["55°", "62.5°", "125°", "35°"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='175' y2='125' stroke='black'/><line x1='225' y1='75' x2='175' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>A</text><text x='230' y='70'>B</text><text x='170' y='130'>C</text><text x='170' y='50'>125°</text><text x='160' y='100'>D</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a line intersects a circle in two distinct points, then it is known as a:",
+            "hindi": "यदि एक रेखा एक वृत्त को दो अलग-अलग बिंदुओं पर प्रतिच्छेद करती है, तो इसे कहा जाता है:"
+        },
+        "option": {
+            "english": ["Tangent", "Radius", "Secant", "Diameter"],
+            "hindi": ["स्पर्शरेखा", "त्रिज्या", "छेदक", "व्यास"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if TP and TQ are two tangents to a circle with center O so that ∠POQ = 130°, then ∠PTQ is equal to:",
+            "hindi": "दिए गए चित्र में, यदि TP और TQ केंद्र O वाले एक वृत्त की दो स्पर्शरेखाएँ इस प्रकार हैं कि ∠POQ = 130°, तो ∠PTQ बराबर है:"
+        },
+        "option": {
+            "english": ["65°", "50°", "60°", "70°"],
+            "hindi": ["65°", "50°", "60°", "70°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='125' y2='75' stroke='black'/><line x1='175' y1='25' x2='225' y2='75' stroke='black'/><line x1='125' y1='75' x2='85' y2='120' stroke='black'/><line x1='225' y1='75' x2='265' y2='120' stroke='black'/><text x='170' y='20'>O</text><text x='120' y='70'>P</text><text x='230' y='70'>Q</text><text x='75' y='125'>T</text><text x='160' y='45'>130°</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If tangents PA and PB from a point P to a circle with center O are inclined to each other at an angle of 80°, then ∠POA is equal to:",
+            "hindi": "यदि एक बिंदु P से केंद्र O वाले एक वृत्त पर स्पर्शरेखाएँ PA और PB एक दूसरे से 80° के कोण पर झुकी हुई हैं, तो ∠POA बराबर है:"
+        },
+        "option": {
+            "english": ["50°", "60°", "70°", "50°"],
+            "hindi": ["50°", "60°", "70°", "50°"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A quadrilateral ABCD is drawn to circumscribe a circle. If AB = 10 cm, BC = 12 cm and CD = 15 cm, then AD is equal to:",
+            "hindi": "एक वृत्त को परिगत करने के लिए एक चतुर्भुज ABCD खींचा गया है। यदि AB = 10 सेमी, BC = 12 सेमी और CD = 15 सेमी, तो AD बराबर है:"
+        },
+        "option": {
+            "english": ["13 cm", "14 cm", "15 cm", "16 cm"],
+            "hindi": ["13 सेमी", "14 सेमी", "15 सेमी", "16 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The distance between two parallel tangents of a circle of radius 5 cm is:",
+            "hindi": "5 सेमी त्रिज्या वाले एक वृत्त की दो समानांतर स्पर्शरेखाओं के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["5 cm", "8 cm", "10 cm", "12 cm"],
+            "hindi": ["5 सेमी", "8 सेमी", "10 सेमी", "12 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if PA and PB are tangents to the circle with center O such that ∠APB = 50°, then ∠OAB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि PA और PB केंद्र O वाले वृत्त की स्पर्श रेखाएँ इस प्रकार हैं कि ∠APB = 50°, तो ∠OAB बराबर है:"
+        },
+        "option": {
+            "english": ["25°", "30°", "40°", "50°"],
+            "hindi": ["25°", "30°", "40°", "50°"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='175' cy='75' r='50' stroke='black' fill='none'/><line x1='175' y1='25' x2='105' y2='125' stroke='black'/><line x1='175' y1='25' x2='245' y2='125' stroke='black'/><text x='170' y='20'>O</text><text x='95' y='130'>P</text><text x='250' y='130'>A</text><text x='100' y='80'>50°</text><text x='210' y='75'>B</text></svg>",
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + 3x - 10 = 0, then αβ equals:",
+            "hindi": "यदि α और β, x² + 3x - 10 = 0 के मूल हैं, तो αβ बराबर है:"
+        },
+        "option": {
+            "english": ["10", "-10", "3", "-3"],
+            "hindi": ["10", "-10", "3", "-3"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The sum of squares of two consecutive odd numbers is 202. The numbers are:",
+            "hindi": "दो क्रमागत विषम संख्याओं के वर्गों का योग 202 है। वे संख्याएँ हैं:"
+        },
+        "option": {
+            "english": ["9,11", "11,13", "7,9", "13,15"],
+            "hindi": ["9,11", "11,13", "7,9", "13,15"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If one root of x² + mx + 6 = 0 is negative of the other, then m equals:",
+            "hindi": "यदि x² + mx + 6 = 0 का एक मूल दूसरे का ऋणात्मक है, तो m बराबर है:"
+        },
+        "option": {
+            "english": ["0", "1", "2", "3"],
+            "hindi": ["0", "1", "2", "3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k = 0 and x² + kx + 2 = 0 have a common root is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k = 0 और x² + kx + 2 = 0 का एक समान मूल है:"
+        },
+        "option": {
+            "english": ["1", "2", "3", "4"],
+            "hindi": ["1", "2", "3", "4"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of p will px² - 4x + 1 = 0 have equal roots?",
+            "hindi": "p के किस मान के लिए px² - 4x + 1 = 0 के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["4", "8", "16", "32"],
+            "hindi": ["4", "8", "16", "32"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 5x + 6 = 0, then α²β + αβ² equals:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": ["15", "18", "21", "24"],
+            "hindi": ["15", "18", "21", "24"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A wholesaler bought a number of articles for ₹2000. Had he bought 40 more articles for the same amount, each article would have cost ₹5 less. The number of articles he bought is:",
+            "hindi": "एक थोक व्यापारी ने ₹2000 में कुछ वस्तुएँ खरीदीं। यदि वह उतनी ही राशि में 40 वस्तुएँ और खरीदता, तो प्रत्येक वस्तु ₹5 कम की पड़ती। उसने कितनी वस्तुएँ खरीदीं:"
+        },
+        "option": {
+            "english": ["80", "100", "120", "140"],
+            "hindi": ["80", "100", "120", "140"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The difference of squares of two consecutive natural numbers is 39. The smaller number is:",
+            "hindi": "दो क्रमागत प्राकृत संख्याओं के वर्गों का अंतर 39 है। छोटी संख्या है:"
+        },
+        "option": {
+            "english": ["19", "18", "17", "16"],
+            "hindi": ["19", "18", "17", "16"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man's age is twice the sum of ages of his two sons. After 20 years, his age will be equal to the sum of their ages. The present age of father is:",
+            "hindi": "एक व्यक्ति की आयु उसके दो पुत्रों की आयु के योग की दोगुनी है। 20 वर्ष बाद, उसकी आयु उनकी आयु के योग के बराबर होगी। पिता की वर्तमान आयु है:"
+        },
+        "option": {
+            "english": ["40 years", "50 years", "60 years", "70 years"],
+            "hindi": ["40 वर्ष", "50 वर्ष", "60 वर्ष", "70 वर्ष"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two pipes can fill a tank in 15 hours and 12 hours respectively. If both pipes are opened together, the time taken to fill the tank is:",
+            "hindi": "दो पाइप एक टंकी को क्रमशः 15 घंटे और 12 घंटे में भर सकते हैं। यदि दोनों पाइप एक साथ खोले जाएं, तो टंकी भरने में लगा समय है:"
+        },
+        "option": {
+            "english": ["6.5 hours", "6.7 hours", "7.5 hours", "8.5 hours"],
+            "hindi": ["6.5 घंटे", "6.7 घंटे", "7.5 घंटे", "8.5 घंटे"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

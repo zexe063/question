@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The children jumped _____ the swimming pool.",
+        "hindi": "Choose the correct preposition: The children jumped _____ the swimming pool."
+      },
+      "option": {
+        "english": [
+          "to",
+          "at",
+          "by",
+          "into"
+        ],
+        "hindi": [
+          "to",
+          "at",
+          "by",
+          "into"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The keys are _____ the drawer.",
+        "hindi": "Fill in the blank: The keys are _____ the drawer."
+      },
+      "option": {
+        "english": [
+          "over",
+          "in",
+          "at",
+          "by"
+        ],
+        "hindi": [
+          "over",
+          "in",
+          "at",
+          "by"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: We usually have dinner _____ 8 PM.",
+        "hindi": "Select the right preposition: We usually have dinner _____ 8 PM."
+      },
+      "option": {
+        "english": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ],
+        "hindi": [
+          "at",
+          "in",
+          "on",
+          "by"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The bird flew _____ my head.",
+        "hindi": "Choose the correct preposition: The bird flew _____ my head."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "over",
+          "to"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "over",
+          "to"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The movie will start _____ ten minutes.",
+        "hindi": "Fill in the blank: The movie will start _____ ten minutes."
+      },
+      "option": {
+        "english": [
+          "at",
+          "on",
+          "by",
+          "in"
+        ],
+        "hindi": [
+          "at",
+          "on",
+          "by",
+          "in"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: She has been waiting _____ morning.",
+        "hindi": "Select the appropriate preposition: She has been waiting _____ morning."
+      },
+      "option": {
+        "english": [
+          "since",
+          "for",
+          "from",
+          "at"
+        ],
+        "hindi": [
+          "since",
+          "for",
+          "from",
+          "at"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The book was written _____ Charles Dickens.",
+        "hindi": "Choose the correct preposition: The book was written _____ Charles Dickens."
+      },
+      "option": {
+        "english": [
+          "with",
+          "by",
+          "from",
+          "of"
+        ],
+        "hindi": [
+          "with",
+          "by",
+          "from",
+          "of"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: He is allergic _____ peanuts.",
+        "hindi": "Fill in the blank: He is allergic _____ peanuts."
+      },
+      "option": {
+        "english": [
+          "from",
+          "of",
+          "to",
+          "with"
+        ],
+        "hindi": [
+          "from",
+          "of",
+          "to",
+          "with"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The thief broke _____ the house.",
+        "hindi": "Select the right preposition: The thief broke _____ the house."
+      },
+      "option": {
+        "english": [
+          "through",
+          "by",
+          "at",
+          "into"
+        ],
+        "hindi": [
+          "through",
+          "by",
+          "at",
+          "into"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The teacher insisted _____ punctuality.",
+        "hindi": "Choose the correct preposition: The teacher insisted _____ punctuality."
+      },
+      "option": {
+        "english": [
+          "on",
+          "at",
+          "for",
+          "in"
+        ],
+        "hindi": [
+          "on",
+          "at",
+          "for",
+          "in"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard"
+    }
+]

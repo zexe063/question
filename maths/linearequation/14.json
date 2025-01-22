@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "The equation y = -x + 7 has a slope of:",
+            "hindi": "समीकरण y = -x + 7 की ढलान है:"
+        },
+        "option": {
+            "english": ["-1", "7", "1", "-7"],
+            "hindi": ["-1", "7", "1", "-7"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which point lies on the line 4x + y = -2?",
+            "hindi": "कौन सा बिंदु रेखा 4x + y = -2 पर स्थित है?"
+        },
+        "option": {
+            "english": ["(-1, 2)", "(0, 2)", "(1, -2)", "(-2, 0)"],
+            "hindi": ["(-1, 2)", "(0, 2)", "(1, -2)", "(-2, 0)"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The line y = 3x - 5 intersects the y-axis at what point?",
+            "hindi": "रेखा y = 3x - 5 y-अक्ष को किस बिंदु पर प्रतिच्छेद करती है?"
+        },
+        "option": {
+            "english": ["(3, 0)", "(0, 3)", "(-5, 0)", "(0, -5)"],
+            "hindi": ["(3, 0)", "(0, 3)", "(-5, 0)", "(0, -5)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x = 2 and y = -1 is a solution of the equation 3x - ay = 8, what is the value of a?",
+            "hindi": "यदि x = 2 और y = -1 समीकरण 3x - ay = 8 का हल है, तो a का मान क्या है?"
+        },
+        "option": {
+            "english": ["-2", "3", "-1", "1"],
+            "hindi": ["-2", "3", "-1", "1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Solve for x: 2x - 3y = 1 and x + 4y = 6",
+            "hindi": "x के लिए हल करें: 2x - 3y = 1 और x + 4y = 6"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The cost of 5 pens and 2 notebooks is ₹95. The cost of 3 pens and 4 notebooks is ₹95. What is the cost of one notebook?",
+            "hindi": "5 पेन और 2 नोटबुक का मूल्य ₹95 है। 3 पेन और 4 नोटबुक का मूल्य ₹95 है। एक नोटबुक का मूल्य क्या है?"
+        },
+        "option": {
+            "english": ["₹10", "₹15", "₹25", "₹20"],
+            "hindi": ["₹10", "₹15", "₹25", "₹20"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k, the system of equations 4x + 6y = 11 and 2x + ky = 7 will be inconsistent?",
+            "hindi": "k के किस मान के लिए, समीकरणों की प्रणाली 4x + 6y = 11 और 2x + ky = 7 असंगत होगी?"
+        },
+        "option": {
+            "english": ["k = 2", "k = 3", "k = 4", "k = 5"],
+            "hindi": ["k = 2", "k = 3", "k = 4", "k = 5"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the lines 2x - ky = 5 and 3x + y = 1 intersect at a unique point, then:",
+            "hindi": "यदि रेखाएँ 2x - ky = 5 और 3x + y = 1 एक अद्वितीय बिंदु पर प्रतिच्छेद करती हैं, तो:"
+        },
+        "option": {
+            "english": ["k can be any real number", "k ≠ -2/3", "k = -2/3", "k ≠ 2/3"],
+            "hindi": ["k कोई भी वास्तविक संख्या हो सकती है", "k ≠ -2/3", "k = -2/3", "k ≠ 2/3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "4 chairs and 3 tables cost ₹2100 and 5 chairs and 2 tables cost ₹1750. Find the cost of a chair.",
+            "hindi": "4 कुर्सियों और 3 मेजों का मूल्य ₹2100 है और 5 कुर्सियों और 2 मेजों का मूल्य ₹1750 है। एक कुर्सी का मूल्य ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["₹150", "₹250", "₹350", "₹500"],
+            "hindi": ["₹150", "₹250", "₹350", "₹500"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A number consists of two digits. When it is divided by the sum of its digits, the quotient is 7. If 27 is subtracted from the number, the digits are reversed. Find the number.",
+            "hindi": "एक संख्या में दो अंक होते हैं। जब इसे इसके अंकों के योग से विभाजित किया जाता है, तो भागफल 7 आता है। यदि संख्या में से 27 घटा दिया जाए, तो अंक उलट जाते हैं। संख्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["54", "72", "63", "84"],
+            "hindi": ["54", "72", "63", "84"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

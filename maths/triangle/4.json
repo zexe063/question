@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In the given figure, DE || BC. If AD = 2.4 cm, DB = 3.6 cm and AC = 5 cm, find AE.",
+            "hindi": "दिए गए चित्र में, DE || BC। यदि AD = 2.4 सेमी, DB = 3.6 सेमी और AC = 5 सेमी, तो AE ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1.6 cm", "1.8 cm", "2 cm", "2.4 cm"],
+            "hindi": ["1.6 सेमी", "1.8 सेमी", "2 सेमी", "2.4 सेमी"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='125' y1='70' x2='225' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='115' y='65'>D</text><text x='230' y='65'>E</text><text x='100' y='90'>2.4</text><text x='100' y='110'>3.6</text><text x='185' y='60'>x</text><text x='255' y='100'>5</text><line x1='125' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='225' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a line intersects sides AB and AC of a ΔABC at D and E respectively and is parallel to BC, then AE/AC is equal to:",
+            "hindi": "यदि एक रेखा ΔABC की भुजाओं AB और AC को क्रमशः D और E पर प्रतिच्छेद करती है और BC के समानांतर है, तो AE/AC बराबर है:"
+        },
+        "option": {
+            "english": ["DB/AB", "DE/BC", "BC/DE", "AD/AB"],
+            "hindi": ["DB/AB", "DE/BC", "BC/DE", "AD/AB"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if ∠A = ∠D and AB/DE = AC/DF then the two triangles are:",
+            "hindi": "दिए गए चित्र में, यदि ∠A = ∠D और AB/DE = AC/DF तो दो त्रिभुज हैं:"
+        },
+        "option": {
+            "english": ["Congruent", "Similar", "Not Similar", "Cannot be determined"],
+            "hindi": ["सर्वांगसम", "समरूप", "समरूप नहीं", "निर्धारित नहीं किया जा सकता"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='50,30 150,130 25,130' stroke='black' fill='none'/><polygon points='250,30 350,130 200,130' stroke='black' fill='none'/><text x='45' y='25'>A</text><text x='15' y='135'>B</text><text x='155' y='135'>C</text><text x='245' y='25'>D</text><text x='195' y='135'>E</text><text x='355' y='135'>F</text></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If in triangles ABC and DEF, ∠A = ∠D, ∠B = ∠E, then which similarity criterion can be used to prove their similarity?",
+            "hindi": "यदि त्रिभुज ABC और DEF में, ∠A = ∠D, ∠B = ∠E, तो उनकी समरूपता को सिद्ध करने के लिए किस समरूपता कसौटी का उपयोग किया जा सकता है?"
+        },
+        "option": {
+            "english": ["AA similarity", "SAS similarity", "SSS similarity", "None of the above"],
+            "hindi": ["AA समरूपता", "SAS समरूपता", "SSS समरूपता", "उपरोक्त में से कोई नहीं"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Triangles ABC and DEF are similar. If AC = 10 cm and DF = 15 cm, and the similarity ratio is 2:3, which of the following is true?",
+            "hindi": "त्रिभुज ABC और DEF समरूप हैं। यदि AC = 10 सेमी और DF = 15 सेमी, और समरूपता अनुपात 2:3 है, तो निम्नलिखित में से कौन सा सत्य है?"
+        },
+        "option": {
+            "english": ["AB/DE = 3/2", "BC/EF = 2/3", "∠A = ∠F", "∠B = ∠E"],
+            "hindi": ["AB/DE = 3/2", "BC/EF = 2/3", "∠A = ∠F", "∠B = ∠E"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In ΔABC, DE || BC and AD/DB = 3/5, if AC = 5.6 cm, then AE is equal to:",
+            "hindi": "ΔABC में, DE || BC और AD/DB = 3/5, यदि AC = 5.6 सेमी, तो AE बराबर है:"
+        },
+        "option": {
+            "english": ["2.8 cm", "2.1 cm", "4 cm", "4.4 cm"],
+            "hindi": ["2.8 सेमी", "2.1 सेमी", "4 सेमी", "4.4 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A vertical stick 20 m long casts a shadow 10 m long on the ground. At the same time a tower casts a shadow 50 m long on the ground. The height of the tower is:",
+            "hindi": "एक 20 मीटर लंबी ऊर्ध्वाधर छड़ी जमीन पर 10 मीटर लंबी छाया डालती है। उसी समय एक टावर जमीन पर 50 मीटर लंबी छाया डालता है। टावर की ऊंचाई है:"
+        },
+        "option": {
+            "english": ["80 m", "90 m", "120 m", "100 m"],
+            "hindi": ["80 मीटर", "90 मीटर", "120 मीटर", "100 मीटर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In a right-angled triangle ABC, right-angled at B, if AB = 5 cm and BC = 12 cm, then the length of the hypotenuse AC is:",
+            "hindi": "एक समकोण त्रिभुज ABC में, B पर समकोण, यदि AB = 5 सेमी और BC = 12 सेमी, तो कर्ण AC की लंबाई है:"
+        },
+        "option": {
+            "english": ["13 cm", "17 cm", "15 cm", "14 cm"],
+            "hindi": ["13 सेमी", "17 सेमी", "15 सेमी", "14 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔDEF such that 3AB = DE and BC = 6 cm, then EF is equal to:",
+            "hindi": "यदि ΔABC ~ ΔDEF इस प्रकार है कि 3AB = DE और BC = 6 सेमी, तो EF बराबर है:"
+        },
+        "option": {
+            "english": ["16 cm", "14 cm", "18 cm", "8 cm"],
+            "hindi": ["16 सेमी", "14 सेमी", "18 सेमी", "8 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The areas of two similar triangles are 169 cm² and 121 cm². If the longest side of the larger triangle is 26 cm, find the longest side of the smaller triangle.",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफल 169 वर्ग सेमी और 121 वर्ग सेमी हैं। यदि बड़े त्रिभुज की सबसे लंबी भुजा 26 सेमी है, तो छोटे त्रिभुज की सबसे लंबी भुजा ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["20 cm", "22 cm", "24 cm", "25 cm"],
+            "hindi": ["20 सेमी", "22 सेमी", "24 सेमी", "25 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

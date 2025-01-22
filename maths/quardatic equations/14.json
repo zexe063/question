@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of these equations has real roots?",
+            "hindi": "इनमें से किस समीकरण के वास्तविक मूल हैं?"
+        },
+        "option": {
+            "english": ["x² + x + 1 = 0", "x² - x + 1 = 0", "x² - 4x + 3 = 0", "x² + 4x + 5 = 0"],
+            "hindi": ["x² + x + 1 = 0", "x² - x + 1 = 0", "x² - 4x + 3 = 0", "x² + 4x + 5 = 0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 8x + 15 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² - 8x + 15 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["15", "8", "-8", "-15"],
+            "hindi": ["15", "8", "-8", "-15"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The number of real solutions of |x² - 4| = 5 is:",
+            "hindi": "|x² - 4| = 5 के वास्तविक हलों की संख्या है:"
+        },
+        "option": {
+            "english": ["2", "3", "4", "5"],
+            "hindi": ["2", "3", "4", "5"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + px + q = 0 and α² + β² = 12, then p² equals:",
+            "hindi": "यदि α और β, x² + px + q = 0 के मूल हैं और α² + β² = 12, तो p² बराबर है:"
+        },
+        "option": {
+            "english": ["8", "16", "24", "32"],
+            "hindi": ["8", "16", "24", "32"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The equation x² + kx + 16 = 0 has real roots if:",
+            "hindi": "समीकरण x² + kx + 16 = 0 के वास्तविक मूल हैं यदि:"
+        },
+        "option": {
+            "english": ["k² > 64", "k² < 64", "k² ≥ 64", "k² ≤ 64"],
+            "hindi": ["k² > 64", "k² < 64", "k² ≥ 64", "k² ≤ 64"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A student multiplied a number by 3 instead of 2 and got 12 more than the correct answer. The number is:",
+            "hindi": "एक छात्र ने एक संख्या को 2 के बजाय 3 से गुणा किया और सही उत्तर से 12 अधिक प्राप्त किया। वह संख्या है:"
+        },
+        "option": {
+            "english": ["8", "10", "12", "14"],
+            "hindi": ["8", "10", "12", "14"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of a two-digit number and the number formed by reversing its digits is 165. If the digits differ by 3, the number is:",
+            "hindi": "एक दो अंकों की संख्या और उसके अंकों को उलटने से बनी संख्या का योग 165 है। यदि अंकों में 3 का अंतर है, तो संख्या है:"
+        },
+        "option": {
+            "english": ["86", "96", "76", "66"],
+            "hindi": ["86", "96", "76", "66"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A rectangular field has area 720m² and perimeter 108m. The difference between length and breadth is:",
+            "hindi": "एक आयताकार खेत का क्षेत्रफल 720m² और परिमाप 108m है। लंबाई और चौड़ाई का अंतर है:"
+        },
+        "option": {
+            "english": ["6m", "8m", "12m", "16m"],
+            "hindi": ["6m", "8m", "12m", "16m"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of x² + 2x + k = 0 is positive for:",
+            "hindi": "x² + 2x + k = 0 का विवेचक धनात्मक है:"
+        },
+        "option": {
+            "english": ["k > 1", "k < 1", "k > -1", "k < -1"],
+            "hindi": ["k > 1", "k < 1", "k > -1", "k < -1"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two cars start at the same time from points A and B towards each other. They meet after 3 hours. If one car had been 10 km/h faster, they would have met 36 minutes earlier. The distance between A and B is:",
+            "hindi": "दो कारें एक ही समय पर बिंदु A और B से एक-दूसरे की ओर चलना शुरू करती हैं। वे 3 घंटे बाद मिलती हैं। यदि एक कार 10 km/h तेज होती, तो वे 36 मिनट पहले मिलतीं। A और B के बीच की दूरी है:"
+        },
+        "option": {
+            "english": ["240 km", "300 km", "360 km", "420 km"],
+            "hindi": ["240 km", "300 km", "360 km", "420 km"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

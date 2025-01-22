@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of (cos²45° - sin²45°)² is:",
+            "hindi": "(cos²45° - sin²45°)² का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "1/2",
+                "0",
+                "1/4"
+            ],
+            "hindi": [
+                "1",
+                "1/2",
+                "0",
+                "1/4"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cot θ = 0, then sin θ equals:",
+            "hindi": "यदि cot θ = 0 है, तो sin θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "±1",
+                "1",
+                "-1"
+            ],
+            "hindi": [
+                "0",
+                "±1",
+                "1",
+                "-1"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of (sin 30° · cosec 30°) is:",
+            "hindi": "(sin 30° · cosec 30°) का मान है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "√3"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "√3"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = 56/65, then cos A equals:",
+            "hindi": "यदि sin A = 56/65 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "33/65",
+                "65/33",
+                "56/33",
+                "33/56"
+            ],
+            "hindi": [
+                "33/65",
+                "65/33",
+                "56/33",
+                "33/56"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sec θ = 37/12, then tan θ equals:",
+            "hindi": "यदि sec θ = 37/12 है, तो tan θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "35/12",
+                "12/35",
+                "37/35",
+                "35/37"
+            ],
+            "hindi": [
+                "35/12",
+                "12/35",
+                "37/35",
+                "35/37"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If cosec A = 13/5, then cot A equals:",
+            "hindi": "यदि cosec A = 13/5 है, तो cot A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "12/5",
+                "5/12",
+                "13/12",
+                "12/13"
+            ],
+            "hindi": [
+                "12/5",
+                "5/12",
+                "13/12",
+                "12/13"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin²θ + cos²θ = 1 and cosec θ = a, then sec θ equals:",
+            "hindi": "यदि sin²θ + cos²θ = 1 और cosec θ = a है, तो sec θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "√(a² - 1)",
+                "√(a² + 1)",
+                "a",
+                "1/a"
+            ],
+            "hindi": [
+                "√(a² - 1)",
+                "√(a² + 1)",
+                "a",
+                "1/a"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = x and cos θ = y, then (x/y)⁴ + (y/x)⁴ equals:",
+            "hindi": "यदि sin θ = x और cos θ = y है, तो (x/y)⁴ + (y/x)⁴ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "tan⁴θ + cot⁴θ",
+                "(tan²θ + cot²θ)²",
+                "sec⁴θ + cosec⁴θ",
+                "2(sec²θ + cosec²θ)"
+            ],
+            "hindi": [
+                "tan⁴θ + cot⁴θ",
+                "(tan²θ + cot²θ)²",
+                "sec⁴θ + cosec⁴θ",
+                "2(sec²θ + cosec²θ)"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin A + cos A = p and sin³A + cos³A = q, then p³ - 3pq equals:",
+            "hindi": "यदि sin A + cos A = p और sin³A + cos³A = q है, तो p³ - 3pq बराबर है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "p",
+                "q"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "p",
+                "q"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin²A = cos²B and cos²A = sin²B, then (A + B) equals:",
+            "hindi": "यदि sin²A = cos²B और cos²A = sin²B है, तो (A + B) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "30°",
+                "45°",
+                "90°",
+                "180°"
+            ],
+            "hindi": [
+                "30°",
+                "45°",
+                "90°",
+                "180°"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

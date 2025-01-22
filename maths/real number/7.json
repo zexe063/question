@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Which of the following is an irrational number?",
+        "hindi": "निम्नलिखित में से कौन एक अपरिमेय संख्या है?"
+      },
+      "option": {
+        "english": [
+          "√144",
+          "√169",
+          "√17",
+          "√100"
+        ],
+        "hindi": [
+          "√144",
+          "√169",
+          "√17",
+          "√100"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The number of zeros at the end of 5! is:",
+        "hindi": "5! के अंत में शून्यों की संख्या है:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ],
+        "hindi": [
+          "1",
+          "2",
+          "3",
+          "0"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The product of a rational and an irrational number is:",
+        "hindi": "एक परिमेय और एक अपरिमेय संख्या का गुणनफल होता है:"
+      },
+      "option": {
+        "english": [
+          "Always rational",
+          "Always irrational",
+          "Sometimes rational",
+          "Zero"
+        ],
+        "hindi": [
+          "हमेशा परिमेय",
+          "हमेशा अपरिमेय",
+          "कभी-कभी परिमेय",
+          "शून्य"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "The HCF of smallest two digit and largest two digit number is:",
+        "hindi": "दो अंकों की सबसे छोटी और सबसे बड़ी संख्या का HCF है:"
+      },
+      "option": {
+        "english": [
+          "1",
+          "10",
+          "11",
+          "99"
+        ],
+        "hindi": [
+          "1",
+          "10",
+          "11",
+          "99"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "A number that has exactly three factors is:",
+        "hindi": "वह संख्या जिसके ठीक तीन गुणनखंड हैं:"
+      },
+      "option": {
+        "english": [
+          "15",
+          "25",
+          "9",
+          "12"
+        ],
+        "hindi": [
+          "15",
+          "25",
+          "9",
+          "12"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "If p is prime number, then HCF(p, p+1) is:",
+        "hindi": "यदि p एक अभाज्य संख्या है, तो HCF(p, p+1) है:"
+      },
+      "option": {
+        "english": [
+          "p",
+          "1",
+          "p+1",
+          "0"
+        ],
+        "hindi": [
+          "p",
+          "1",
+          "p+1",
+          "0"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "The sum of a rational and an irrational number is:",
+        "hindi": "एक परिमेय और एक अपरिमेय संख्या का योग होता है:"
+      },
+      "option": {
+        "english": [
+          "Always irrational",
+          "Always rational",
+          "Sometimes rational",
+          "Zero"
+        ],
+        "hindi": [
+          "हमेशा अपरिमेय",
+          "हमेशा परिमेय",
+          "कभी-कभी परिमेय",
+          "शून्य"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which of these will have a non-terminating decimal expansion?",
+        "hindi": "इनमें से किसका दशमलव प्रसार अनंत होगा?"
+      },
+      "option": {
+        "english": [
+          "1/8",
+          "1/40",
+          "7/6",
+          "3/20"
+        ],
+        "hindi": [
+          "1/8",
+          "1/40",
+          "7/6",
+          "3/20"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "If p and q are prime numbers, then HCF(p², q²) is:",
+        "hindi": "यदि p और q अभाज्य संख्याएं हैं, तो HCF(p², q²) है:"
+      },
+      "option": {
+        "english": [
+          "pq",
+          "1",
+          "p²q²",
+          "p+q"
+        ],
+        "hindi": [
+          "pq",
+          "1",
+          "p²q²",
+          "p+q"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "For any positive integers a and b, HCF(a,b) × LCM(a,b) is:",
+        "hindi": "किन्हीं दो धनात्मक पूर्णांकों a और b के लिए, HCF(a,b) × LCM(a,b) होता है:"
+      },
+      "option": {
+        "english": [
+          "Greater than a×b",
+          "Equal to a×b",
+          "Less than a×b",
+          "Not related to a×b"
+        ],
+        "hindi": [
+          "a×b से अधिक",
+          "a×b के बराबर",
+          "a×b से कम",
+          "a×b से असंबंधित"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"
+    }
+]

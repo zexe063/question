@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the basic proportionality theorem also known as?",
+            "hindi": "आधारभूत समानुपातिकता प्रमेय को और किस नाम से जाना जाता है?"
+        },
+        "option": {
+            "english": ["Pythagoras Theorem", "Thales Theorem", "Angle Bisector Theorem", "Midpoint Theorem"],
+            "hindi": ["पाइथागोरस प्रमेय", "थेल्स प्रमेय", "कोण समद्विभाजक प्रमेय", "मध्यबिंदु प्रमेय"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If a line is drawn parallel to one side of a triangle intersecting the other two sides, then it divides the two sides in the same ratio. This is the statement of:",
+            "hindi": "यदि किसी त्रिभुज की एक भुजा के समांतर एक रेखा खींची जाए जो अन्य दो भुजाओं को प्रतिच्छेद करती है, तो यह दो भुजाओं को समान अनुपात में विभाजित करती है। यह कथन है:"
+        },
+        "option": {
+            "english": ["Basic Proportionality Theorem", "Converse of BPT", "Pythagoras Theorem", "Angle Bisector Theorem"],
+            "hindi": ["आधारभूत समानुपातिकता प्रमेय", "BPT का विलोम", "पाइथागोरस प्रमेय", "कोण समद्विभाजक प्रमेय"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, DE || BC. If AD = 2 cm, DB = 3 cm and AE = 1.6 cm, then EC is equal to:",
+            "hindi": "दिए गए चित्र में, DE || BC। यदि AD = 2 सेमी, DB = 3 सेमी और AE = 1.6 सेमी, तो EC बराबर है:"
+        },
+        "option": {
+            "english": ["1.2 cm", "2 cm", "2.4 cm", "3 cm"],
+            "hindi": ["1.2 सेमी", "2 सेमी", "2.4 सेमी", "3 सेमी"]
+        },
+        "answer": 2,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 100,130 250,130' stroke='black' fill='none'/><line x1='145' y1='70' x2='205' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='90' y='140'>B</text><text x='255' y='140'>C</text><text x='135' y='65'>D</text><text x='210' y='65'>E</text><text x='125' y='95'>2</text><text x='155' y='110'>3</text><text x='180' y='60'>1.6</text><text x='220' y='95'>x</text><line x1='145' y1='70' x2='90' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='205' y1='70' x2='260' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Two triangles are similar if their corresponding angles are:",
+            "hindi": "दो त्रिभुज समरूप होते हैं यदि उनके संगत कोण:"
+        },
+        "option": {
+            "english": ["proportional", "complementary", "supplementary", "equal"],
+            "hindi": ["समानुपाती", "पूरक", "संपूरक", "बराबर"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is NOT a criterion for the similarity of two triangles?",
+            "hindi": "निम्नलिखित में से कौन दो त्रिभुजों की समरूपता के लिए एक कसौटी नहीं है?"
+        },
+        "option": {
+            "english": ["AA", "SSA", "SSS", "SAS"],
+            "hindi": ["AA", "SSA", "SSS", "SAS"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If ΔABC ~ ΔDEF, AB = 4 cm, DE = 6 cm, BC = 9 cm and FD = 12 cm, then the perimeter of ΔABC is:",
+            "hindi": "यदि ΔABC ~ ΔDEF, AB = 4 सेमी, DE = 6 सेमी, BC = 9 सेमी और FD = 12 सेमी, तो ΔABC का परिमाप है:"
+        },
+        "option": {
+            "english": ["18 cm", "20 cm", "21 cm", "22 cm"],
+            "hindi": ["18 सेमी", "20 सेमी", "21 सेमी", "22 सेमी"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if LM || CB and LN || CD, then AM/AB is equal to:",
+            "hindi": "दिए गए चित्र में, यदि LM || CB और LN || CD, तो AM/AB बराबर है:"
+        },
+        "option": {
+            "english": ["AN/AD", "AN/ND", "AM/MB", "AL/AC"],
+            "hindi": ["AN/AD", "AN/ND", "AM/MB", "AL/AC"]
+        },
+        "answer": 0,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='87.5' y='25' width='175' height='100' stroke='black' fill='none'/><line x1='87.5' y1='25' x2='262.5' y2='125' stroke='black'/><line x1='131.25' y1='50' x2='218.75' y2='50' stroke='black'/><line x1='175' y1='75' x2='218.75' y2='75' stroke='black'/><text x='82.5' y='20'>A</text><text x='267.5' y='130'>D</text><text x='82.5' y='130'>B</text><text x='267.5' y='20'>C</text><text x='126.25' y='45'>L</text><text x='223.75' y='45'>M</text><text x='170' y='70'>N</text></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of the areas of two similar triangles is equal to the square of the ratio of their:",
+            "hindi": "दो समरूप त्रिभुजों के क्षेत्रफलों का अनुपात उनके संगत _____ के अनुपात के वर्ग के बराबर होता है:"
+        },
+        "option": {
+            "english": ["altitudes", "perimeters", "angle bisectors", "corresponding sides"],
+            "hindi": ["ऊंचाईयों", "परिमापों", "कोण समद्विभाजकों", "संगत भुजाओं"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In ΔABC, if AB = 6√3 cm, AC = 12 cm and BC = 6 cm, then the measure of ∠B is:",
+            "hindi": "ΔABC में, यदि AB = 6√3 सेमी, AC = 12 सेमी और BC = 6 सेमी, तो ∠B का माप है:"
+        },
+        "option": {
+            "english": ["45°", "90°", "60°", "30°"],
+            "hindi": ["45°", "90°", "60°", "30°"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A man goes 24 m due west and then 10 m due north. How far is he from the starting point?",
+            "hindi": "एक आदमी 24 मीटर पश्चिम की ओर जाता है और फिर 10 मीटर उत्तर की ओर जाता है। वह शुरुआती बिंदु से कितनी दूर है?"
+        },
+        "option": {
+            "english": ["34 m", "26 m", "28 m", "17 m"],
+            "hindi": ["34 मीटर", "26 मीटर", "28 मीटर", "17 मीटर"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

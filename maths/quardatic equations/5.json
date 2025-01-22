@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are the roots of 3x² - 2x - 1 = 0, then α/β + β/α equals:",
+            "hindi": "यदि α और β, 3x² - 2x - 1 = 0 के मूल हैं, तो α/β + β/α बराबर है:"
+        },
+        "option": {
+            "english": ["2", "10/3", "8/3", "4"],
+            "hindi": ["2", "10/3", "8/3", "4"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation whose roots are double the roots of x² + 3x + 2 = 0 is:",
+            "hindi": "वह द्विघात समीकरण जिसके मूल x² + 3x + 2 = 0 के मूलों के दोगुने हैं:"
+        },
+        "option": {
+            "english": ["x² + 3x + 2 = 0", "x² + 6x + 8 = 0", "x² + 6x + 4 = 0", "x² + 3x + 4 = 0"],
+            "hindi": ["x² + 3x + 2 = 0", "x² + 6x + 8 = 0", "x² + 6x + 4 = 0", "x² + 3x + 4 = 0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of the equation 2x² - 7x + 3 = 0 is:",
+            "hindi": "समीकरण 2x² - 7x + 3 = 0 का विवेचक है:"
+        },
+        "option": {
+            "english": ["25", "49", "13", "37"],
+            "hindi": ["25", "49", "13", "37"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + 2kx + k have equal roots?",
+            "hindi": "k के किस मान के लिए x² + 2kx + k के बराबर मूल होंगे?"
+        },
+        "option": {
+            "english": ["0", "1", "2", "4"],
+            "hindi": ["0", "1", "2", "4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the difference of roots of x² - px + q = 0 is 5, then:",
+            "hindi": "यदि x² - px + q = 0 के मूलों का अंतर 5 है, तो:"
+        },
+        "option": {
+            "english": ["p² - 4q = 25", "p² + 4q = 25", "4q - p² = 25", "p² - 4q = -25"],
+            "hindi": ["p² - 4q = 25", "p² + 4q = 25", "4q - p² = 25", "p² - 4q = -25"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 5x + 6 = 0, then equation with roots 1/α and 1/β is:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो 1/α और 1/β मूल वाला समीकरण है:"
+        },
+        "option": {
+            "english": ["6x² - 5x + 1 = 0", "x² - 5x + 6 = 0", "x² + 5x + 6 = 0", "6x² + 5x + 1 = 0"],
+            "hindi": ["6x² - 5x + 1 = 0", "x² - 5x + 6 = 0", "x² + 5x + 6 = 0", "6x² + 5x + 1 = 0"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + 2x + k = 0 and x² + kx + 2 = 0 have a common root is:",
+            "hindi": "k का वह मान जिसके लिए x² + 2x + k = 0 और x² + kx + 2 = 0 का एक समान मूल है:"
+        },
+        "option": {
+            "english": ["2", "4", "1", "3"],
+            "hindi": ["2", "4", "1", "3"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² + x - 6 = 0, then α³ + β³ equals:",
+            "hindi": "यदि α और β, x² + x - 6 = 0 के मूल हैं, तो α³ + β³ बराबर है:"
+        },
+        "option": {
+            "english": ["-1", "5", "-11", "11"],
+            "hindi": ["-1", "5", "-11", "11"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of ax² + bx + c = 0, then (α + β)²/(αβ) equals:",
+            "hindi": "यदि α और β, ax² + bx + c = 0 के मूल हैं, तो (α + β)²/(αβ) बराबर है:"
+        },
+        "option": {
+            "english": ["b²/ac", "4ac/b²", "b/ac", "b²/4ac"],
+            "hindi": ["b²/ac", "4ac/b²", "b/ac", "b²/4ac"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 2x - 15 = 0, then the value of (α - 2)³ + (β - 2)³ is:",
+            "hindi": "यदि α और β, x² - 2x - 15 = 0 के मूल हैं, तो (α - 2)³ + (β - 2)³ का मान है:"
+        },
+        "option": {
+            "english": ["-90", "-60", "-45", "-30"],
+            "hindi": ["-90", "-60", "-45", "-30"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

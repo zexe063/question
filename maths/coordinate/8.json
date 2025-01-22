@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "What is the distance between the points (a, 0) and (0, b)?",
+            "hindi": "बिंदुओं (a, 0) और (0, b) के बीच की दूरी क्या है?"
+        },
+        "option": {
+            "english": ["√(a + b)", "√(a - b)", "√(a² - b²)", "√(a² + b²)"],
+            "hindi": ["√(a + b)", "√(a - b)", "√(a² - b²)", "√(a² + b²)"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the distance between the points (4, p) and (1, 0) is 5, then the value of p is:",
+            "hindi": "यदि बिंदुओं (4, p) और (1, 0) के बीच की दूरी 5 है, तो p का मान है:"
+        },
+        "option": {
+            "english": ["4 only", "-4 only", "±4", "0"],
+            "hindi": ["केवल 4", "केवल -4", "±4", "0"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the distance of the point P(x, y) from the origin.",
+            "hindi": "बिंदु P(x, y) की मूल बिंदु से दूरी ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["√(x² + y²)", "x² + y²", "(x + y)²", "x + y"],
+            "hindi": ["√(x² + y²)", "x² + y²", "(x + y)²", "x + y"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the point P(k, 0) divides the line segment joining the points A(2, -2) and B(-7, 4) in the ratio 1:2, then the value of k is:",
+            "hindi": "यदि बिंदु P(k, 0) बिंदुओं A(2, -2) और B(-7, 4) को मिलाने वाले रेखाखंड को 1:2 के अनुपात में विभाजित करता है, तो k का मान है:"
+        },
+        "option": {
+            "english": ["1", "-1", "2", "-2"],
+            "hindi": ["1", "-1", "2", "-2"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of a triangle whose vertices are (1, -1), (-4, 6) and (-3, -5).",
+            "hindi": "उस त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष (1, -1), (-4, 6) और (-3, -5) हैं।"
+        },
+        "option": {
+            "english": ["20 sq. units", "22 sq. units", "12 sq. units", "24 sq. units"],
+            "hindi": ["20 वर्ग इकाई", "22 वर्ग इकाई", "12 वर्ग इकाई", "24 वर्ग इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The coordinates of the midpoint of the line segment joining the points (x₁, y₁) and (x₂, y₂) are:",
+            "hindi": "बिंदुओं (x₁, y₁) और (x₂, y₂) को मिलाने वाले रेखाखंड के मध्यबिंदु के निर्देशांक हैं:"
+        },
+        "option": {
+            "english": ["((x₁ + x₂)/2 , (y₁ + y₂)/2)", "((x₁ - x₂)/2 , (y₁ - y₂)/2)", "((x₁ + y₁)/2 , (x₂ + y₂)/2)", "((x₁ - y₁)/2 , (x₂ - y₂)/2)"],
+            "hindi": ["((x₁ + x₂)/2 , (y₁ + y₂)/2)", "((x₁ - x₂)/2 , (y₁ - y₂)/2)", "((x₁ + y₁)/2 , (x₂ + y₂)/2)", "((x₁ - y₁)/2 , (x₂ - y₂)/2)"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the value of a, so that the point (3, a) lies on the line represented by 2x – 3y = 5.",
+            "hindi": "a का मान ज्ञात कीजिए, ताकि बिंदु (3, a) 2x – 3y = 5 द्वारा निरूपित रेखा पर स्थित हो।"
+        },
+        "option": {
+            "english": ["1/3", "2/3", "1/3", "-2/3"],
+            "hindi": ["1/3", "2/3", "1/3", "-2/3"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the points (a, 0), (0, b) and (1, 1) are collinear, then 1/a + 1/b is equal to:",
+            "hindi": "यदि बिंदु (a, 0), (0, b) और (1, 1) संरेख हैं, तो 1/a + 1/b बराबर है:"
+        },
+        "option": {
+            "english": ["-1", "1", "2", "0"],
+            "hindi": ["-1", "1", "2", "0"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Find the area of the quadrilateral whose vertices, taken in order, are (-4, -2), (-3, -5), (3, -2) and (2, 3).",
+            "hindi": "उस चतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके शीर्ष, क्रम में, (-4, -2), (-3, -5), (3, -2) और (2, 3) हैं।"
+        },
+        "option": {
+            "english": ["14 sq. units", "21 sq. units", "24 sq. units", "28 sq. units"],
+            "hindi": ["14 वर्ग इकाई", "21 वर्ग इकाई", "24 वर्ग इकाई", "28 वर्ग इकाई"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the points (1, 2), (0, 0), and (a, b) are collinear, then:",
+            "hindi": "यदि बिंदु (1, 2), (0, 0), और (a, b) संरेख हैं, तो:"
+        },
+        "option": {
+            "english": ["a = 2b", "2a = b", "a = -b", "a = b"],
+            "hindi": ["a = 2b", "2a = b", "a = -b", "a = b"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    }
+]

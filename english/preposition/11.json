@@ -1,0 +1,232 @@
+[
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The archaeologists excavated _____ the pyramid.",
+        "hindi": "Choose the correct preposition: The archaeologists excavated _____ the pyramid."
+      },
+      "option": {
+        "english": [
+          "around",
+          "beside",
+          "beneath",
+          "above"
+        ],
+        "hindi": [
+          "around",
+          "beside",
+          "beneath",
+          "above"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"    
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The concert begins _____ schedule.",
+        "hindi": "Fill in the blank: The concert begins _____ schedule."
+      },
+      "option": {
+        "english": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ],
+        "hindi": [
+          "on",
+          "in",
+          "by",
+          "at"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy"   
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The butterfly rested _____ the flower.",
+        "hindi": "Select the right preposition: The butterfly rested _____ the flower."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "upon",
+          "over",
+          "above"
+        ],
+        "hindi": [
+          "beside",
+          "upon",
+          "over",
+          "above"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"    
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The comet passed _____ Earth's atmosphere.",
+        "hindi": "Choose the correct preposition: The comet passed _____ Earth's atmosphere."
+      },
+      "option": {
+        "english": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ],
+        "hindi": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"    
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The moss grows _____ the north side of trees.",
+        "hindi": "Fill in the blank: The moss grows _____ the north side of trees."
+      },
+      "option": {
+        "english": [
+          "beside",
+          "near",
+          "on",
+          "at"
+        ],
+        "hindi": [
+          "beside",
+          "near",
+          "on",
+          "at"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy"    
+    },
+    {
+      "question_name": {
+        "english": "Select the appropriate preposition: The snow drifted _____ the windowsill.",
+        "hindi": "Select the appropriate preposition: The snow drifted _____ the windowsill."
+      },
+      "option": {
+        "english": [
+          "across",
+          "onto",
+          "into",
+          "through"
+        ],
+        "hindi": [
+          "across",
+          "onto",
+          "into",
+          "through"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium"   
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The festival occurs _____ spring.",
+        "hindi": "Choose the correct preposition: The festival occurs _____ spring."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "on",
+          "during"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "on",
+          "during"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"    
+    },
+    {
+      "question_name": {
+        "english": "Fill in the blank: The galaxy spirals _____ infinite space.",
+        "hindi": "Fill in the blank: The galaxy spirals _____ infinite space."
+      },
+      "option": {
+        "english": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ],
+        "hindi": [
+          "within",
+          "between",
+          "among",
+          "through"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"    
+    },
+    {
+      "question_name": {
+        "english": "Select the right preposition: The prophecy was written _____ ancient scrolls.",
+        "hindi": "Select the right preposition: The prophecy was written _____ ancient scrolls."
+      },
+      "option": {
+        "english": [
+          "in",
+          "at",
+          "upon",
+          "by"
+        ],
+        "hindi": [
+          "in",
+          "at",
+          "upon",
+          "by"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"    
+    },
+    {
+      "question_name": {
+        "english": "Choose the correct preposition: The spell was cast _____ moonlight.",
+        "hindi": "Choose the correct preposition: The spell was cast _____ moonlight."
+      },
+      "option": {
+        "english": [
+          "through",
+          "by",
+          "with",
+          "in"
+        ],
+        "hindi": [
+          "through",
+          "by",
+          "with",
+          "in"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "hard"    
+    }
+]

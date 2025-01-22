@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "The value of sin 0° is:",
+            "hindi": "sin 0° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "0",
+                "√3/2",
+                "-1"
+            ],
+            "hindi": [
+                "1",
+                "0",
+                "√3/2",
+                "-1"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of cot 60° is:",
+            "hindi": "cot 60° का मान है:"
+        },
+        "option": {
+            "english": [
+                "√3",
+                "2",
+                "1/√3",
+                "1"
+            ],
+            "hindi": [
+                "√3",
+                "2",
+                "1/√3",
+                "1"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sec θ = 2, then cos θ equals:",
+            "hindi": "यदि sec θ = 2 है, तो cos θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "2",
+                "1",
+                "√3/2"
+            ],
+            "hindi": [
+                "1/2",
+                "2",
+                "1",
+                "√3/2"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of cosec 45° is:",
+            "hindi": "cosec 45° का मान है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "√2",
+                "2",
+                "√2"
+            ],
+            "hindi": [
+                "1",
+                "√2",
+                "2",
+                "√2"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If cos θ = 1/3, then sec θ equals:",
+            "hindi": "यदि cos θ = 1/3 है, तो sec θ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "3",
+                "1/3",
+                "√3"
+            ],
+            "hindi": [
+                "1",
+                "3",
+                "1/3",
+                "√3"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = 24/25, then cos A equals:",
+            "hindi": "यदि sin A = 24/25 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "24/25",
+                "7/25",
+                "25/24",
+                "7/24"
+            ],
+            "hindi": [
+                "24/25",
+                "7/25",
+                "25/24",
+                "7/24"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin²A = 1/4, then cos A equals:",
+            "hindi": "यदि sin²A = 1/4 है, तो cos A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±1/2",
+                "±√3/2",
+                "±1",
+                "±√3"
+            ],
+            "hindi": [
+                "±1/2",
+                "±√3/2",
+                "±1",
+                "±√3"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If tan²A = 3, then cos²A equals:",
+            "hindi": "यदि tan²A = 3 है, तो cos²A बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1/2",
+                "1/3",
+                "1/4",
+                "1/6"
+            ],
+            "hindi": [
+                "1/2",
+                "1/3",
+                "1/4",
+                "1/6"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sin A = p, cos A = q, then p⁴ + q⁴ equals:",
+            "hindi": "यदि sin A = p, cos A = q है, तो p⁴ + q⁴ बराबर है:"
+        },
+        "option": {
+            "english": [
+                "1",
+                "1 - 2p²q²",
+                "1 + 2p²q²",
+                "2"
+            ],
+            "hindi": [
+                "1",
+                "1 - 2p²q²",
+                "1 + 2p²q²",
+                "2"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If sin θ = x/2 and sec θ = 2, then x equals:",
+            "hindi": "यदि sin θ = x/2 और sec θ = 2 है, तो x बराबर है:"
+        },
+        "option": {
+            "english": [
+                "±1",
+                "±√2",
+                "±√3",
+                "±2"
+            ],
+            "hindi": [
+                "±1",
+                "±√2",
+                "±√3",
+                "±2"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    }
+]

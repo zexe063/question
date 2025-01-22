@@ -1,0 +1,222 @@
+[
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 7x + 12, then α²β + αβ² equals:",
+            "hindi": "यदि α और β बहुपद x² - 7x + 12 के शून्यक हैं, तो α²β + αβ² बराबर है:"
+        },
+        "option": {
+            "english": [
+                "72",
+                "84",
+                "96",
+                "108"
+            ],
+            "hindi": [
+                "72",
+                "84",
+                "96",
+                "108"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ + mx³ + nx² + px + q has x - 1 and x + 2 as factors. If x = 2 is also a zero, then:",
+            "hindi": "बहुपद x⁴ + mx³ + nx² + px + q के x - 1 और x + 2 गुणनखंड हैं। यदि x = 2 भी एक शून्यक है, तो:"
+        },
+        "option": {
+            "english": [
+                "m + n = p + q",
+                "m - n = p - q",
+                "m + p = n + q",
+                "m - p = n - q"
+            ],
+            "hindi": [
+                "m + n = p + q",
+                "m - n = p - q",
+                "m + p = n + q",
+                "m - p = n - q"
+            ]
+        },
+        "answer": 3,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If x - 2 is a factor of x³ - ax² + bx - 4, then:",
+            "hindi": "यदि x - 2, x³ - ax² + bx - 4 का एक गुणनखंड है, तो:"
+        },
+        "option": {
+            "english": [
+                "a + b = 10",
+                "a - b = 10",
+                "a + b = 12",
+                "a - b = 12"
+            ],
+            "hindi": [
+                "a + b = 10",
+                "a - b = 10",
+                "a + b = 12",
+                "a - b = 12"
+            ]
+        },
+        "answer": 1,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The remainder when x³ - 6x² + 11x - 6 is divided by x - 1 is:",
+            "hindi": "जब x³ - 6x² + 11x - 6 को x - 1 से विभाजित किया जाता है, तो शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "-1",
+                "2"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "-1",
+                "2"
+            ]
+        },
+        "answer": 0,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 5x + 6, then (α + 1)(β + 1) equals:",
+            "hindi": "यदि α और β बहुपद x² - 5x + 6 के शून्यक हैं, तो (α + 1)(β + 1) बराबर है:"
+        },
+        "option": {
+            "english": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "hindi": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        "answer": 2,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If sum of zeros of quadratic polynomial f(x) = x² + px + q is 3 and their product is 2, then:",
+            "hindi": "यदि द्विघात बहुपद f(x) = x² + px + q के शून्यकों का योग 3 और उनका गुणनफल 2 है, तो:"
+        },
+        "option": {
+            "english": [
+                "p = -3, q = 2",
+                "p = 3, q = 2",
+                "p = -3, q = -2",
+                "p = 3, q = -2"
+            ],
+            "hindi": [
+                "p = -3, q = 2",
+                "p = 3, q = 2",
+                "p = -3, q = -2",
+                "p = 3, q = -2"
+            ]
+        },
+        "answer": 1,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² - 3x + 1, then the value of (α³ + β³)/(α + β) is:",
+            "hindi": "यदि α और β बहुपद x² - 3x + 1 के शून्यक हैं, तो (α³ + β³)/(α + β) का मान है:"
+        },
+        "option": {
+            "english": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "hindi": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ]
+        },
+        "answer": 3,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The polynomial x⁴ - 6x³ + 13x² - 12x + 4 when divided by (x - 2) gives remainder:",
+            "hindi": "बहुपद x⁴ - 6x³ + 13x² - 12x + 4 को (x - 2) से विभाजित करने पर शेषफल है:"
+        },
+        "option": {
+            "english": [
+                "0",
+                "1",
+                "2",
+                "4"
+            ],
+            "hindi": [
+                "0",
+                "1",
+                "2",
+                "4"
+            ]
+        },
+        "answer": 0,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of x² + 2x + k, and α² + β² = 7, then k equals:",
+            "hindi": "यदि α और β बहुपद x² + 2x + k के शून्यक हैं, और α² + β² = 7, तो k बराबर है:"
+        },
+        "option": {
+            "english": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "hindi": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ]
+        },
+        "answer": 2,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are zeros of ax² + bx + c, then the value of (aα + b)(aβ + b) equals:",
+            "hindi": "यदि α और β बहुपद ax² + bx + c के शून्यक हैं, तो (aα + b)(aβ + b) का मान है:"
+        },
+        "option": {
+            "english": [
+                "b² - 4ac",
+                "b² - ac",
+                "b² + ac",
+                "b² + 4ac"
+            ],
+            "hindi": [
+                "b² - 4ac",
+                "b² - ac",
+                "b² + ac",
+                "b² + 4ac"
+            ]
+        },
+        "answer": 1,
+        "medium": "hard"
+    }
+]

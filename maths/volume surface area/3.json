@@ -1,0 +1,232 @@
+[
+    {
+        "question_name": {
+            "english": "Find the volume of a sphere whose radius is 7 cm.",
+            "hindi": "एक गोले का आयतन ज्ञात कीजिए जिसकी त्रिज्या 7 सेमी है।"
+        },
+        "option": {
+            "english": [
+                "1437.33 cm³",
+                "1447.33 cm³",
+                "1457.33 cm³",
+                "1467.33 cm³"
+            ],
+            "hindi": [
+                "1437.33 सेमी³",
+                "1447.33 सेमी³",
+                "1457.33 सेमी³",
+                "1467.33 सेमी³"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A cylindrical well of depth 20 m and diameter 7 m is dug out. The earth taken out is spread evenly to form a cuboid of height 0.5 m. If the length of the cuboid is twice its breadth, find the breadth of the cuboid.",
+            "hindi": "20 मीटर गहराई और 7 मीटर व्यास वाला एक बेलनाकार कुआँ खोदा गया है। निकाली गई मिट्टी को समान रूप से फैलाकर 0.5 मीटर ऊंचाई का एक घनाभ बनाया गया है। यदि घनाभ की लंबाई उसकी चौड़ाई की दोगुनी है, तो घनाभ की चौड़ाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "10 m",
+                "12 m",
+                "14 m",
+                "16 m"
+            ],
+            "hindi": [
+                "10 मीटर",
+                "12 मीटर",
+                "14 मीटर",
+                "16 मीटर"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid wooden toy is in the form of a hemisphere surmounted by a cone of same radius. If the radius is 3.5 cm and the total height is 10.5 cm, find its volume.",
+            "hindi": "एक ठोस लकड़ी का खिलौना एक अर्धगोले के ऊपर समान त्रिज्या के शंकु के रूप में है। यदि त्रिज्या 3.5 सेमी और कुल ऊंचाई 10.5 सेमी है, तो इसका आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "173.25 cm³",
+                "178.25 cm³",
+                "183.25 cm³",
+                "189.58 cm³"
+            ],
+            "hindi": [
+                "173.25 सेमी³",
+                "178.25 सेमी³",
+                "183.25 सेमी³",
+                "189.58 सेमी³"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The curved surface area of a right circular cylinder is 264 m² and its volume is 924 m³. Find its radius.",
+            "hindi": "एक लम्ब वृत्तीय बेलन का वक्र पृष्ठीय क्षेत्रफल 264 वर्ग मीटर और आयतन 924 घन मीटर है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "5 m",
+                "6 m",
+                "7 m",
+                "8 m"
+            ],
+            "hindi": [
+                "5 मीटर",
+                "6 मीटर",
+                "7 मीटर",
+                "8 मीटर"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A hemispherical bowl of internal radius 9 cm is full of water. The water is emptied into a cylindrical vessel of radius 3 cm. Find the height of water in the cylindrical vessel.",
+            "hindi": "9 सेमी आंतरिक त्रिज्या वाला एक अर्धगोलाकार कटोरा पानी से भरा है। पानी को 3 सेमी त्रिज्या वाले बेलनाकार बर्तन में खाली किया जाता है। बेलनाकार बर्तन में पानी की ऊंचाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "27 cm",
+                "36 cm",
+                "45 cm",
+                "54 cm"
+            ],
+            "hindi": [
+                "27 सेमी",
+                "36 सेमी",
+                "45 सेमी",
+                "54 सेमी"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A solid iron pole consists of a cylinder of height 220 cm and base diameter 24 cm, which is surmounted by another cylinder of height 60 cm and radius 8 cm. Find the mass of the pole, given that 1 cm³ of iron has mass of 7.5 g.",
+            "hindi": "एक ठोस लोहे का खम्भा 220 सेमी ऊंचाई और 24 सेमी आधार व्यास के बेलन से बना है, जिसके ऊपर 60 सेमी ऊंचाई और 8 सेमी त्रिज्या का दूसरा बेलन है। खम्भे का द्रव्यमान ज्ञात कीजिए, यदि 1 घन सेमी लोहे का द्रव्यमान 7.5 ग्राम है।"
+        },
+        "option": {
+            "english": [
+                "95.4 kg",
+                "97.2 kg",
+                "99.6 kg",
+                "101.4 kg"
+            ],
+            "hindi": [
+                "95.4 किग्रा",
+                "97.2 किग्रा",
+                "99.6 किग्रा",
+                "101.4 किग्रा"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Water flows at the rate of 10 km/hour through a cylindrical pipe of diameter 14 cm into a rectangular tank of dimension 50 m × 44 m. In how much time will the water level in the tank rise by 21 cm?",
+            "hindi": "14 सेमी व्यास वाली बेलनाकार पाइप से 10 किमी/घंटा की दर से पानी 50 मीटर × 44 मीटर आयाम वाली आयताकार टंकी में बहता है। टंकी में पानी का स्तर 21 सेमी बढ़ने में कितना समय लगेगा?"
+        },
+        "option": {
+            "english": [
+                "20 hours",
+                "24 hours",
+                "28 hours",
+                "32 hours"
+            ],
+            "hindi": [
+                "20 घंटे",
+                "24 घंटे",
+                "28 घंटे",
+                "32 घंटे"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A container in the form of a right circular cylinder of radius 12 cm contains water up to a height of 20 cm. A solid sphere is lowered into it until it touches the bottom. If the water level rises by 6.75 cm, find the radius of the sphere.",
+            "hindi": "12 सेमी त्रिज्या वाले एक लम्ब वृत्तीय बेलनाकार पात्र में 20 सेमी ऊंचाई तक पानी भरा है। एक ठोस गोले को उसमें तब तक डुबोया जाता है जब तक वह तल को न छू ले। यदि पानी का स्तर 6.75 सेमी बढ़ जाता है, तो गोले की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "6 cm",
+                "7 cm",
+                "8 cm",
+                "9 cm"
+            ],
+            "hindi": [
+                "6 सेमी",
+                "7 सेमी",
+                "8 सेमी",
+                "9 सेमी"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A solid toy is in the form of a hemisphere surmounted by a right circular cone. The height of the cone is 2 cm and the diameter of the base is 4 cm. If the radius of hemisphere is 3 cm, find the volume of the toy.",
+            "hindi": "एक ठोस खिलौना एक अर्धगोले के ऊपर लम्ब वृत्तीय शंकु के रूप में है। शंकु की ऊंचाई 2 सेमी और आधार का व्यास 4 सेमी है। यदि अर्धगोले की त्रिज्या 3 सेमी है, तो खिलौने का आयतन ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "61.71 cm³",
+                "63.71 cm³",
+                "65.71 cm³",
+                "67.71 cm³"
+            ],
+            "hindi": [
+                "61.71 सेमी³",
+                "63.71 सेमी³",
+                "65.71 सेमी³",
+                "67.71 सेमी³"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "A metallic right circular cone of height 20 cm and radius 5 cm is melted and recast into a sphere. Find the radius of the sphere.",
+            "hindi": "20 सेमी ऊंचाई और 5 सेमी त्रिज्या वाले एक धातु के लम्ब वृत्तीय शंकु को पिघलाकर एक गोला बनाया गया है। गोले की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": [
+                "4 cm",
+                "5 cm",
+                "6 cm",
+                "7 cm"
+            ],
+            "hindi": [
+                "4 सेमी",
+                "5 सेमी",
+                "6 सेमी",
+                "7 सेमी"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

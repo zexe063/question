@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "In a triangle, the line segment joining the midpoints of any two sides is parallel to the third side and is _______ of it.",
+            "hindi": "एक त्रिभुज में, किन्हीं दो भुजाओं के मध्यबिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा के समानांतर होता है और उसका _______ होता है।"
+        },
+        "option": {
+            "english": ["one-third", "one-fourth", "half", "double"],
+            "hindi": ["एक-तिहाई", "एक-चौथाई", "आधा", "दोगुना"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If the areas of two similar triangles are equal, then the triangles are:",
+            "hindi": "यदि दो समरूप त्रिभुजों के क्षेत्रफल बराबर हैं, तो वे त्रिभुज हैं:"
+        },
+        "option": {
+            "english": ["congruent", "equilateral", "isosceles", "scalene"],
+            "hindi": ["सर्वांगसम", "समबाहु", "समद्विबाहु", "विषमबाहु"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which of the following is NOT a criterion for the similarity of two triangles?",
+            "hindi": "निम्नलिखित में से कौन दो त्रिभुजों की समरूपता के लिए एक कसौटी नहीं है?"
+        },
+        "option": {
+            "english": ["AA", "SSA", "SSS", "SAS"],
+            "hindi": ["AA", "SSA", "SSS", "SAS"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if AD is the bisector of ∠BAC, what is the length of AC?",
+            "hindi": "दिए गए चित्र में, यदि AD, ∠BAC का समद्विभाजक है, तो AC की लंबाई क्या है?"
+        },
+        "option": {
+            "english": ["5 cm", "8 cm", "9 cm", "10 cm"],
+            "hindi": ["5 सेमी", "8 सेमी", "9 सेमी", "10 सेमी"]
+        },
+        "answer": 3,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='175' y1='30' x2='175' y2='130' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='165' y='85'>D</text><text x='125' y='135'>6</text><text x='225' y='135'>x</text><text x='160' y='45'>5</text><line x1='175' y1='30' x2='75' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='175' y1='30' x2='275' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of corresponding sides of two similar triangles is 4:9, then the ratio of their areas is:",
+            "hindi": "यदि दो समरूप त्रिभुजों की संगत भुजाओं का अनुपात 4:9 है, तो उनके क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["2:3", "3:2", "16:81", "81:16"],
+            "hindi": ["2:3", "3:2", "16:81", "81:16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "In the given figure, if DE || BC, then x is equal to:",
+            "hindi": "दिए गए चित्र में, यदि DE || BC, तो x बराबर है:"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 1,
+        "image": "<svg width='350' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='175,30 75,130 275,130' stroke='black' fill='none'/><line x1='135' y1='70' x2='215' y2='70' stroke='black'/><text x='170' y='25'>A</text><text x='65' y='140'>B</text><text x='280' y='140'>C</text><text x='125' y='65'>D</text><text x='220' y='65'>E</text><text x='125' y='95'>3</text><text x='100' y='115'>x</text><text x='190' y='50'>6</text><text x='235' y='90'>4</text><line x1='135' y1='70' x2='65' y2='130' stroke-dasharray='5,5' stroke='black' /><line x1='215' y1='70' x2='285' y2='130' stroke-dasharray='5,5' stroke='black' /></svg>",
+        "medium": "medium"
+    },
+     {
+        "question_name": {
+            "english": "If a ladder 10 m long reaches a window 8 m above the ground, what is the distance of the foot of the ladder from the base of the wall?",
+            "hindi": "यदि 10 मीटर लंबी एक सीढ़ी जमीन से 8 मीटर ऊपर एक खिड़की तक पहुँचती है, तो सीढ़ी के पाद की दीवार के आधार से दूरी क्या है?"
+        },
+        "option": {
+            "english": ["6 m", "8 m", "10 m", "12 m"],
+            "hindi": ["6 मीटर", "8 मीटर", "10 मीटर", "12 मीटर"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "In an equilateral triangle of side 2a, find the length of its altitude.",
+            "hindi": "भुजा 2a वाले एक समबाहु त्रिभुज में, उसके शीर्षलंब की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["a", "2a", "a√2", "a√3"],
+            "hindi": ["a", "2a", "a√2", "a√3"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If the ratio of the perimeters of two similar triangles is 4:5, then the ratio of their areas is:",
+            "hindi": "यदि दो समरूप त्रिभुजों के परिमापों का अनुपात 4:5 है, तो उनके क्षेत्रफलों का अनुपात है:"
+        },
+        "option": {
+            "english": ["2:5", "16:10", "16:25", "25:16"],
+            "hindi": ["2:5", "16:10", "16:25", "25:16"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "Two isosceles triangles have equal angles and their areas are in the ratio 16:25. Find the ratio of corresponding heights.",
+            "hindi": "दो समद्विबाहु त्रिभुजों के कोण बराबर हैं और उनके क्षेत्रफल 16:25 के अनुपात में हैं। संगत ऊँचाइयों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["4:5", "5:4", "3:2", "5:7"],
+            "hindi": ["4:5", "5:4", "3:2", "5:7"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    }
+]

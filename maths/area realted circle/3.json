@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "A circular flower bed has a diameter of 35 meters. Find its area.",
+            "hindi": "एक वृत्ताकार फूलों की क्यारी का व्यास 35 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["952.875 m²", "961.625 m²", "962.115 m²", "962.625 m²"],
+            "hindi": ["952.875 मी²", "961.625 मी²", "962.115 मी²", "962.625 मी²"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular swimming pool has a radius of 21 meters. Find its area.",
+            "hindi": "एक वृत्ताकार स्विमिंग पूल की त्रिज्या 21 मीटर है। इसका क्षेत्रफल ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["1375.14 m²", "1385.14 m²", "1385.44 m²", "1385.74 m²"],
+            "hindi": ["1375.14 मी²", "1385.14 मी²", "1385.44 मी²", "1385.74 मी²"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The area of a circular playground is 5544 m². Find its circumference.",
+            "hindi": "एक वृत्ताकार खेल के मैदान का क्षेत्रफल 5544 मी² है। इसकी परिधि ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["262.4 m", "263.4 m", "264.4 m", "265.4 m"],
+            "hindi": ["262.4 मी", "263.4 मी", "264.4 मी", "265.4 मी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular metal plate has area 616 cm². What is its radius?",
+            "hindi": "एक वृत्ताकार धातु की प्लेट का क्षेत्रफल 616 सेमी² है। इसकी त्रिज्या क्या है?"
+        },
+        "option": {
+            "english": ["12 cm", "14 cm", "16 cm", "18 cm"],
+            "hindi": ["12 सेमी", "14 सेमी", "16 सेमी", "18 सेमी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A wire is bent to form a circle of area 346.5 cm². Find the length of the wire.",
+            "hindi": "एक तार को मोड़कर 346.5 सेमी² क्षेत्रफल का वृत्त बनाया गया है। तार की लंबाई ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["66 cm", "66.5 cm", "67 cm", "67.5 cm"],
+            "hindi": ["66 सेमी", "66.5 सेमी", "67 सेमी", "67.5 सेमी"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "A circular park has two concentric circular paths. If the area between paths is 185 m² and width is 2 m, find the radius of inner path.",
+            "hindi": "एक वृत्ताकार पार्क में दो संकेंद्रीय वृत्ताकार पथ हैं। यदि पथों के बीच का क्षेत्रफल 185 मी² और चौड़ाई 2 मी है, तो आंतरिक पथ की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["14 m", "14.5 m", "15 m", "15.5 m"],
+            "hindi": ["14 मी", "14.5 मी", "15 मी", "15.5 मी"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The areas of two circles are in ratio 4:25. Find the ratio of their circumferences.",
+            "hindi": "दो वृत्तों के क्षेत्रफलों का अनुपात 4:25 है। उनकी परिधियों का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["2:5", "3:5", "4:5", "5:2"],
+            "hindi": ["2:5", "3:5", "4:5", "5:2"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A circular garden has a 2.5 m wide path around it. If the area of path is 70 m², find the radius of garden.",
+            "hindi": "एक वृत्ताकार बगीचे के चारों ओर 2.5 मीटर चौड़ा पथ है। यदि पथ का क्षेत्रफल 70 मी² है, तो बगीचे की त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["11 m", "11.5 m", "12 m", "12.5 m"],
+            "hindi": ["11 मी", "11.5 मी", "12 मी", "12.5 मी"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The perimeter of a circular field is 880 meters. Find its area in hectares.",
+            "hindi": "एक वृत्ताकार खेत का परिमाप 880 मीटर है। इसका क्षेत्रफल हेक्टेयर में ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6.16 hectares", "6.18 hectares", "6.20 hectares", "6.22 hectares"],
+            "hindi": ["6.16 हेक्टेयर", "6.18 हेक्टेयर", "6.20 हेक्टेयर", "6.22 हेक्टेयर"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The sum of circumference and area of a circle is 129 units. Find its radius.",
+            "hindi": "एक वृत्त की परिधि और क्षेत्रफल का योग 129 इकाई है। इसकी त्रिज्या ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["7 units", "8 units", "9 units", "10 units"],
+            "hindi": ["7 इकाई", "8 इकाई", "9 इकाई", "10 इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Which of the following is a quadratic equation?",
+            "hindi": "निम्नलिखित में से कौन एक द्विघात समीकरण है?"
+        },
+        "option": {
+            "english": ["x² + 2x = 4", "x³ + x = 1", "x + 2 = 0", "√x + 1 = 0"],
+            "hindi": ["x² + 2x = 4", "x³ + x = 1", "x + 2 = 0", "√x + 1 = 0"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The value of k for which x² + kx + 4 = 0 has equal roots is:",
+            "hindi": "k का वह मान जिसके लिए x² + kx + 4 = 0 के बराबर मूल हैं:"
+        },
+        "option": {
+            "english": ["±2", "±4", "±6", "±8"],
+            "hindi": ["±2", "±4", "±6", "±8"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "The nature of roots of x² + x + 1 = 0 is:",
+            "hindi": "x² + x + 1 = 0 के मूलों की प्रकृति है:"
+        },
+        "option": {
+            "english": ["Real and equal", "Real and unequal", "No real roots", "One real root"],
+            "hindi": ["वास्तविक और बराबर", "वास्तविक और असमान", "कोई वास्तविक मूल नहीं", "एक वास्तविक मूल"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If α and β are roots of x² - 5x + 6 = 0, then α + β equals:",
+            "hindi": "यदि α और β, x² - 5x + 6 = 0 के मूल हैं, तो α + β बराबर है:"
+        },
+        "option": {
+            "english": ["6", "5", "-5", "-6"],
+            "hindi": ["6", "5", "-5", "-6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The quadratic equation x² - 4x + 4 = 0 has:",
+            "hindi": "द्विघात समीकरण x² - 4x + 4 = 0 के मूल हैं:"
+        },
+        "option": {
+            "english": ["Two equal roots", "Two distinct roots", "No real roots", "Complex roots"],
+            "hindi": ["दो बराबर मूल", "दो भिन्न मूल", "कोई वास्तविक मूल नहीं", "मिश्र मूल"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "For what value of k will x² + 2x + k = 0 have real roots?",
+            "hindi": "k के किस मान के लिए x² + 2x + k = 0 के वास्तविक मूल होंगे?"
+        },
+        "option": {
+            "english": ["k ≤ 1", "k < 1", "k ≥ 1", "k > 1"],
+            "hindi": ["k ≤ 1", "k < 1", "k ≥ 1", "k > 1"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of roots of x² + px + 12 = 0 is -8, then p equals:",
+            "hindi": "यदि x² + px + 12 = 0 के मूलों का योग -8 है, तो p बराबर है:"
+        },
+        "option": {
+            "english": ["6", "8", "-8", "4"],
+            "hindi": ["6", "8", "-8", "4"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "A train travels a distance of 480 km at a uniform speed. If the speed had been 8 km/h less, it would have taken 3 hours more. The speed of the train is:",
+            "hindi": "एक ट्रेन 480 km की दूरी एकसमान चाल से तय करती है। यदि चाल 8 km/h कम होती, तो 3 घंटे अधिक लगते। ट्रेन की चाल है:"
+        },
+        "option": {
+            "english": ["40 km/h", "48 km/h", "32 km/h", "56 km/h"],
+            "hindi": ["40 km/h", "48 km/h", "32 km/h", "56 km/h"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The discriminant of ax² + bx + c = 0 is negative when:",
+            "hindi": "ax² + bx + c = 0 का विवेचक ऋणात्मक होता है जब:"
+        },
+        "option": {
+            "english": ["b² > 4ac", "b² = 4ac", "b² < 4ac", "b² ≥ 4ac"],
+            "hindi": ["b² > 4ac", "b² = 4ac", "b² < 4ac", "b² ≥ 4ac"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The area of a rectangle is 28 sq units and its perimeter is 22 units. The length of the rectangle is:",
+            "hindi": "एक आयत का क्षेत्रफल 28 वर्ग इकाई और परिमाप 22 इकाई है। आयत की लंबाई है:"
+        },
+        "option": {
+            "english": ["4 units", "5 units", "7 units", "8 units"],
+            "hindi": ["4 इकाई", "5 इकाई", "7 इकाई", "8 इकाई"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]

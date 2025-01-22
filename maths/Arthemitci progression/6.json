@@ -1,0 +1,132 @@
+[
+    {
+        "question_name": {
+            "english": "Find the first term of an AP if 5th term is 21 and 9th term is 37.",
+            "hindi": "एक AP का प्रथम पद ज्ञात कीजिए यदि 5वाँ पद 21 और 9वाँ पद 37 है।"
+        },
+        "option": {
+            "english": ["5", "7", "9", "11"],
+            "hindi": ["5", "7", "9", "11"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Find the common difference of AP: 7, 13, 19, 25, ...",
+            "hindi": "AP का सार्वअंतर ज्ञात कीजिए: 7, 13, 19, 25, ..."
+        },
+        "option": {
+            "english": ["4", "5", "6", "7"],
+            "hindi": ["4", "5", "6", "7"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "Which term of AP: 4, 9, 14, 19, ... is 84?",
+            "hindi": "AP: 4, 9, 14, 19, ... का कौन सा पद 84 है?"
+        },
+        "option": {
+            "english": ["15th", "16th", "17th", "18th"],
+            "hindi": ["15वाँ", "16वाँ", "17वाँ", "18वाँ"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy"
+    },
+    {
+        "question_name": {
+            "english": "If 8th and 15th terms of an AP are 43 and 71 respectively, find the common difference.",
+            "hindi": "यदि एक AP का 8वाँ और 15वाँ पद क्रमशः 43 और 71 हैं, तो सार्वअंतर ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["3", "4", "5", "6"],
+            "hindi": ["3", "4", "5", "6"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "The sum of three consecutive terms of an AP is 24 and their product is 440. Find the terms.",
+            "hindi": "एक AP के तीन क्रमागत पदों का योग 24 और उनका गुणनफल 440 है। पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["6,8,10", "7,8,9", "5,8,11", "4,8,12"],
+            "hindi": ["6,8,10", "7,8,9", "5,8,11", "4,8,12"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "Find the sum of first 20 terms of an AP whose 3rd term is 12 and 7th term is 24.",
+            "hindi": "एक AP के प्रथम 20 पदों का योग ज्ञात कीजिए जिसका 3रा पद 12 और 7वाँ पद 24 है।"
+        },
+        "option": {
+            "english": ["620", "630", "640", "650"],
+            "hindi": ["620", "630", "640", "650"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If each term of an AP is increased by 5, then Sn increases by 100. Find n.",
+            "hindi": "यदि एक AP के प्रत्येक पद में 5 जोड़ा जाए, तो Sn में 100 की वृद्धि होती है। n ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["17", "18", "19", "20"],
+            "hindi": ["17", "18", "19", "20"]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium"
+    },
+    {
+        "question_name": {
+            "english": "If sum of n terms of an AP is n(5n + 2), find the 15th term.",
+            "hindi": "यदि एक AP के n पदों का योग n(5n + 2) है, तो 15वाँ पद ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["152", "153", "154", "155"],
+            "hindi": ["152", "153", "154", "155"]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "The ratio of 12th term to 8th term of an AP is 3:2. Find the ratio of 9th term to 6th term.",
+            "hindi": "एक AP के 12वें पद और 8वें पद का अनुपात 3:2 है। 9वें पद और 6वें पद का अनुपात ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["5:4", "6:5", "7:6", "8:7"],
+            "hindi": ["5:4", "6:5", "7:6", "8:7"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
+    },
+    {
+        "question_name": {
+            "english": "If Sn = 3n² - n, find the value of (a₁₀ - a₆).",
+            "hindi": "यदि Sn = 3n² - n है, तो (a₁₀ - a₆) का मान ज्ञात कीजिए।"
+        },
+        "option": {
+            "english": ["12", "13", "14", "15"],
+            "hindi": ["12", "13", "14", "15"]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard"
+    }
+]
