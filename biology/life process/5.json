@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What is the function of epiglottis?",
-        "hindi": "एपिग्लोटिस का कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Produces saliva",
-          "Prevents food entering windpipe",
-          "Helps in swallowing",
-          "Produces mucus"
-        ],
-        "hindi": [
-          "लार उत्पन्न करता है",
-          "भोजन को श्वास नली में जाने से रोकता है",
-          "निगलने में मदद करता है",
-          "श्लेष्मा उत्पन्न करता है"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the function of epiglottis?",
+      "hindi": "एपिग्लोटिस का कार्य क्या है?"
     },
-    {
-      "question_name": {
-        "english": "Which part of nephron filters blood?",
-        "hindi": "नेफ्रॉन का कौन सा भाग रक्त को छानता है?"
-      },
-      "option": {
-        "english": [
-          "Bowman's capsule",
-          "Collecting duct",
-          "Loop of Henle",
-          "Tubules"
-        ],
-        "hindi": [
-          "बोमन संपुट",
-          "संग्रही नलिका",
-          "हेनले का लूप",
-          "नलिकाएं"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Produces saliva",
+        "Prevents food entering windpipe",
+        "Helps in swallowing",
+        "Produces mucus"
+      ],
+      "hindi": [
+        "लार उत्पन्न करता है",
+        "भोजन को श्वास नली में जाने से रोकता है",
+        "निगलने में मदद करता है",
+        "श्लेष्मा उत्पन्न करता है"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the role of mucus in stomach?",
-        "hindi": "आमाशय में श्लेष्मा की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Digests food",
-          "Kills bacteria",
-          "Protects stomach wall",
-          "Absorbs nutrients"
-        ],
-        "hindi": [
-          "भोजन पचाता है",
-          "जीवाणुओं को मारता है",
-          "आमाशय की दीवार की रक्षा करता है",
-          "पोषक तत्व अवशोषित करता है"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the main function of alveoli?",
-        "hindi": "वायु कूपिकाओं का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Filter air",
-          "Warm air",
-          "Gas exchange",
-          "Produce mucus"
-        ],
-        "hindi": [
-          "वायु छानना",
-          "वायु गरम करना",
-          "गैसों का आदान-प्रदान",
-          "श्लेष्मा उत्पन्न करना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which enzyme breaks down fats?",
-        "hindi": "कौन सा एंजाइम वसा को तोड़ता है?"
-      },
-      "option": {
-        "english": [
-          "Amylase",
-          "Pepsin",
-          "Lipase",
-          "Trypsin"
-        ],
-        "hindi": [
-          "एमाइलेज",
-          "पेप्सिन",
-          "लाइपेज",
-          "ट्रिप्सिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What happens during systole?",
-        "hindi": "सिस्टोल के दौरान क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "Heart relaxes",
-          "Ventricles contract",
-          "Blood pressure drops",
-          "Valves close"
-        ],
-        "hindi": [
-          "हृदय शिथिल होता है",
-          "निलय संकुचित होते हैं",
-          "रक्तचाप घटता है",
-          "वाल्व बंद होते हैं"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "How do plants transport water against gravity?",
-        "hindi": "पौधे गुरुत्वाकर्षण के विरुद्ध जल का परिवहन कैसे करते हैं?"
-      },
-      "option": {
-        "english": [
-          "Root pressure only",
-          "Transpiration pull only",
-          "Both root pressure and transpiration",
-          "Osmotic pressure"
-        ],
-        "hindi": [
-          "केवल मूल दाब",
-          "केवल वाष्पोत्सर्जन खिंचाव",
-          "मूल दाब और वाष्पोत्सर्जन दोनों",
-          "परासरणी दाब"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of ATP in active transport?",
-        "hindi": "सक्रिय परिवहन में ATP की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Provides energy",
-          "Forms membrane",
-          "Makes proteins",
-          "Controls pressure"
-        ],
-        "hindi": [
-          "ऊर्जा प्रदान करता है",
-          "झिल्ली बनाता है",
-          "प्रोटीन बनाता है",
-          "दाब नियंत्रित करता है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why does blood pressure remain high in arteries?",
-        "hindi": "धमनियों में रक्तचाप अधिक क्यों रहता है?"
-      },
-      "option": {
-        "english": [
-          "Due to thin walls",
-          "Due to elastic nature and narrow lumen",
-          "Due to blood volume",
-          "Due to gravity"
-        ],
-        "hindi": [
-          "पतली दीवारों के कारण",
-          "लोचदार प्रकृति और संकीर्ण गुहा के कारण",
-          "रक्त मात्रा के कारण",
-          "गुरुत्वाकर्षण के कारण"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What causes autoregulation of blood flow?",
-        "hindi": "रक्त प्रवाह का स्वतः नियमन किस कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "Nervous system",
-          "Hormones",
-          "Local tissue needs",
-          "Blood pressure"
-        ],
-        "hindi": [
-          "तंत्रिका तंत्र",
-          "हार्मोन",
-          "स्थानीय ऊतक की आवश्यकताएं",
-          "रक्तचाप"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The epiglottis is a flap of cartilage that covers the opening of the trachea (windpipe) during swallowing, preventing food from entering the respiratory tract.",
+      "hindi": "एपिग्लोटिस उपास्थि का एक प्रालंब (फ्लैप) है जो निगलने के दौरान श्वासनली (विंडपाइप) के मुख को ढक लेता है, जिससे भोजन श्वसन तंत्र में प्रवेश नहीं कर पाता है।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "In the nephron, what is the primary function of Bowman's capsule?",
+      "hindi": "नेफ्रॉन में, बोमन संपुट का प्राथमिक कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Reabsorbs water",
+        "Secretes hormones",
+        "Filters blood plasma",
+        "Stores urine"
+      ],
+      "hindi": [
+        "जल का पुनर्अवशोषण करता है",
+        "हार्मोन स्रावित करता है",
+        "रक्त प्लाज्मा को छानता है",
+        "मूत्र संग्रहित करता है"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Bowman's capsule is the first part of the nephron that receives blood from the glomerulus and filters blood plasma to begin the process of urine formation.",
+      "hindi": "बोमन संपुट नेफ्रॉन का पहला भाग है जो ग्लोमेरुलस से रक्त प्राप्त करता है और मूत्र निर्माण की प्रक्रिया शुरू करने के लिए रक्त प्लाज्मा को छानता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of mucus in stomach?",
+      "hindi": "आमाशय में श्लेष्मा की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Protects stomach wall",
+        "Digests food",
+        "Kills bacteria",
+        "Absorbs nutrients"
+      ],
+      "hindi": [
+        "आमाशय की दीवार की रक्षा करता है",
+        "भोजन पचाता है",
+        "जीवाणुओं को मारता है",
+        "पोषक तत्व अवशोषित करता है"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Mucus in the stomach forms a protective layer that shields the stomach lining from the corrosive effects of stomach acid and digestive enzymes.",
+      "hindi": "आमाशय में श्लेष्मा एक सुरक्षात्मक परत बनाती है जो आमाशय की दीवार को आमाशयिक अम्ल और पाचक एंजाइमों के क्षरणकारी प्रभावों से बचाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of alveoli?",
+      "hindi": "वायु कूपिकाओं का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Filter air",
+        "Warm air",
+        "Produce mucus",
+        "Gas exchange"
+      ],
+      "hindi": [
+        "वायु छानना",
+        "वायु गरम करना",
+        "श्लेष्मा उत्पन्न करना",
+        "गैसों का आदान-प्रदान"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Alveoli are tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place between the lungs and the bloodstream.",
+      "hindi": "वायु कूपिकाएं फेफड़ों में छोटी-छोटी वायु थैलियां होती हैं जहां फेफड़ों और रक्तप्रवाह के बीच ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान होता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which enzyme breaks down fats?",
+      "hindi": "कौन सा एंजाइम वसा को तोड़ता है?"
+    },
+    "option": {
+      "english": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "hindi": [
+        "एमाइलेज",
+        "लाइपेज",
+        "पेप्सिन",
+        "ट्रिप्सिन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Lipase is the enzyme that breaks down fats (lipids) into fatty acids and glycerol.",
+      "hindi": "लाइपेज वह एंजाइम है जो वसा (लिपिड) को वसा अम्ल और ग्लिसरॉल में तोड़ता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What happens during systole?",
+      "hindi": "सिस्टोल के दौरान क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Heart relaxes",
+        "Blood pressure drops",
+        "Valves close",
+        "Ventricles contract"
+      ],
+      "hindi": [
+        "हृदय शिथिल होता है",
+        "रक्तचाप घटता है",
+        "वाल्व बंद होते हैं",
+        "निलय संकुचित होते हैं"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "During systole, the ventricles of the heart contract, pumping blood out of the heart and into the arteries.",
+      "hindi": "सिस्टोल के दौरान, हृदय के निलय संकुचित होते हैं, जिससे रक्त हृदय से बाहर धमनियों में पंप होता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How do plants transport water against gravity?",
+      "hindi": "पौधे गुरुत्वाकर्षण के विरुद्ध जल का परिवहन कैसे करते हैं?"
+    },
+    "option": {
+      "english": [
+        "Both root pressure and transpiration",
+        "Root pressure only",
+        "Transpiration pull only",
+        "Osmotic pressure"
+      ],
+      "hindi": [
+        "मूल दाब और वाष्पोत्सर्जन दोनों",
+        "केवल मूल दाब",
+        "केवल वाष्पोत्सर्जन खिंचाव",
+        "परासरणी दाब"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Water transport in plants against gravity is primarily driven by transpiration pull, which creates a negative pressure that draws water up the xylem vessels. Root pressure also contributes, especially at night.",
+      "hindi": "पौधों में गुरुत्वाकर्षण के विरुद्ध जल का परिवहन मुख्य रूप से वाष्पोत्सर्जन खिंचाव द्वारा होता है, जो एक नकारात्मक दाब बनाता है जो जाइलम वाहिकाओं में पानी को ऊपर खींचता है। मूल दाब भी इसमें योगदान देता है, खासकर रात में।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of ATP in active transport?",
+      "hindi": "सक्रिय परिवहन में ATP की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Forms membrane",
+        "Makes proteins",
+        "Provides energy",
+        "Controls pressure"
+      ],
+      "hindi": [
+        "झिल्ली बनाता है",
+        "प्रोटीन बनाता है",
+        "ऊर्जा प्रदान करता है",
+        "दाब नियंत्रित करता है"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "ATP (adenosine triphosphate) provides the energy needed for active transport, which moves molecules across a cell membrane against their concentration gradient.",
+      "hindi": "एटीपी (एडेनोसिन ट्राइफॉस्फेट) सक्रिय परिवहन के लिए आवश्यक ऊर्जा प्रदान करता है, जो अणुओं को उनकी सांद्रण प्रवणता के विरुद्ध कोशिका झिल्ली के पार ले जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does blood pressure remain high in arteries?",
+      "hindi": "धमनियों में रक्तचाप अधिक क्यों रहता है?"
+    },
+    "option": {
+      "english": [
+        "Due to thin walls",
+        "Due to elastic nature and narrow lumen",
+        "Due to blood volume",
+        "Due to gravity"
+      ],
+      "hindi": [
+        "पतली दीवारों के कारण",
+        "लोचदार प्रकृति और संकीर्ण गुहा के कारण",
+        "रक्त मात्रा के कारण",
+        "गुरुत्वाकर्षण के कारण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Blood pressure remains high in arteries due to their elastic walls that can stretch and recoil, and their narrow lumen (internal diameter) which offers resistance to blood flow.",
+      "hindi": "धमनियों में रक्तचाप उनकी लोचदार दीवारों के कारण अधिक रहता है जो फैल और सिकुड़ सकती हैं, और उनकी संकीर्ण गुहा (आंतरिक व्यास) रक्त प्रवाह को प्रतिरोध प्रदान करती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes autoregulation of blood flow?",
+      "hindi": "रक्त प्रवाह का स्वतः नियमन किस कारण होता है?"
+    },
+    "option": {
+      "english": [
+        "Nervous system",
+        "Hormones",
+        "Blood pressure",
+        "Local tissue needs"
+      ],
+      "hindi": [
+        "तंत्रिका तंत्र",
+        "हार्मोन",
+        "रक्तचाप",
+        "स्थानीय ऊतक की आवश्यकताएं"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Autoregulation of blood flow is primarily caused by the local tissue needs. Changes in the concentration of oxygen, carbon dioxide, and other metabolites influence the diameter of blood vessels, adjusting blood flow accordingly.",
+      "hindi": "रक्त प्रवाह का स्वतः नियमन मुख्य रूप से स्थानीय ऊतक की आवश्यकताओं के कारण होता है। ऑक्सीजन, कार्बन डाइऑक्साइड और अन्य मेटाबोलाइट्स की सांद्रता में परिवर्तन रक्त वाहिकाओं के व्यास को प्रभावित करते हैं, जिससे रक्त प्रवाह तदनुसार समायोजित होता है।"
+    }
+  }
+]

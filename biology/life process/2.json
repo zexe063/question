@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -7,21 +6,25 @@
       },
       "option": {
         "english": [
-          "Pepsin",
-          "Amylase",
+          "Trypsin",
+          "Pepsin", 
           "Lipase",
-          "Trypsin"
+          "Amylase"
         ],
         "hindi": [
+          "ट्रिप्सिन",
           "पेप्सिन",
-          "एमाइलेज",
           "लाइपेज",
-          "ट्रिप्सिन"
+          "एमाइलेज"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Amylase is the digestive enzyme present in saliva. It helps break down complex carbohydrates (starch) into simpler sugars like maltose. This begins the digestion process in the mouth itself.",
+        "hindi": "एमाइलेज लार में पाया जाने वाला पाचक एंजाइम है। यह जटिल कार्बोहाइड्रेट (स्टार्च) को सरल शर्करा जैसे माल्टोज में तोड़ने में मदद करता है। यह मुंह में ही पाचन प्रक्रिया शुरू कर देता है।"
+      }
     },
     {
       "question_name": {
@@ -30,21 +33,25 @@
       },
       "option": {
         "english": [
-          "Blood clotting",
-          "Carrying oxygen",
           "Fighting infection",
-          "Producing hormones"
+          "Blood clotting",
+          "Producing hormones",
+          "Carrying oxygen"
         ],
         "hindi": [
-          "रक्त का थक्का जमाना",
-          "ऑक्सीजन ले जाना",
           "संक्रमण से लड़ना",
-          "हार्मोन उत्पन्न करना"
+          "रक्त का थक्का जमाना",
+          "हार्मोन उत्पन्न करना",
+          "ऑक्सीजन ले जाना"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Platelets or thrombocytes are blood cells responsible for blood clotting. When there is an injury, platelets aggregate at the site and form a plug to prevent blood loss. They release chemicals that activate the clotting cascade.",
+        "hindi": "प्लेटलेट्स या थ्रोम्बोसाइट्स रक्त कोशिकाएं हैं जो रक्त के थक्के जमाने के लिए जिम्मेदार होती हैं। चोट लगने पर प्लेटलेट्स उस स्थान पर एकत्रित होकर एक प्लग बनाती हैं जो रक्तस्राव को रोकता है। वे ऐसे रसायन छोड़ती हैं जो थक्का जमाने की प्रक्रिया को सक्रिय करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -53,21 +60,25 @@
       },
       "option": {
         "english": [
-          "Right atrium",
           "Left atrium",
-          "Right ventricle",
-          "Left ventricle"
+          "Right atrium", 
+          "Left ventricle",
+          "Right ventricle"
         ],
         "hindi": [
+           "बायाँ आलिंद",
           "दायाँ आलिंद",
-          "बायाँ आलिंद",
-          "दायाँ निलय",
-          "बायाँ निलय"
+          "बायाँ निलय",
+          "दायाँ निलय"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The left atrium receives oxygenated blood from the lungs via pulmonary veins. This oxygen-rich blood is then pumped to the left ventricle and from there to the rest of the body through the aorta.",
+        "hindi": "बायाँ आलिंद फेफड़ों से फुफ्फुसीय शिराओं द्वारा ऑक्सीजनयुक्त रक्त प्राप्त करता है। यह ऑक्सीजन समृद्ध रक्त फिर बाएं निलय में पंप किया जाता है और वहां से महाधमनी के माध्यम से शरीर के बाकी हिस्सों में जाता है।"
+      }
     },
     {
       "question_name": {
@@ -76,21 +87,25 @@
       },
       "option": {
         "english": [
+          "Break carbohydrates",
           "Digest fats",
           "Kill bacteria",
-          "Absorb nutrients",
-          "Break carbohydrates"
+          "Absorb nutrients"
         ],
         "hindi": [
+          "कार्बोहाइड्रेट का विघटन",
           "वसा का पाचन",
           "जीवाणुओं को मारना",
-          "पोषक तत्वों का अवशोषण",
-          "कार्बोहाइड्रेट का विघटन"
+          "पोषक तत्वों का अवशोषण"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Hydrochloric acid (HCl) in the stomach serves multiple purposes: it kills harmful bacteria in food, creates an acidic environment necessary for pepsin enzyme to work, and helps convert inactive pepsinogen to active pepsin for protein digestion.",
+        "hindi": "आमाशय में हाइड्रोक्लोरिक अम्ल कई कार्य करता है: यह भोजन में मौजूद हानिकारक जीवाणुओं को मारता है, पेप्सिन एंजाइम के काम करने के लिए आवश्यक अम्लीय वातावरण बनाता है, और निष्क्रिय पेप्सिनोजन को सक्रिय पेप्सिन में बदलने में मदद करता है जो प्रोटीन पाचन के लिए आवश्यक है।"
+      }
     },
     {
       "question_name": {
@@ -101,19 +116,23 @@
         "english": [
           "Aorta",
           "Pulmonary vein",
-          "Pulmonary artery",
-          "Vena cava"
+          "Vena cava",
+          "Pulmonary artery"
         ],
         "hindi": [
           "महाधमनी",
           "फुफ्फुस शिरा",
-          "फुफ्फुस धमनी",
-          "महाशिरा"
+          "महाशिरा",
+          "फुफ्फुस धमनी"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The pulmonary artery carries deoxygenated blood from the right ventricle of the heart to the lungs for oxygenation. Unlike other arteries that carry oxygenated blood, the pulmonary artery carries deoxygenated blood.",
+        "hindi": "फुफ्फुस धमनी हृदय के दाएं निलय से ऑक्सीजनरहित रक्त को फेफड़ों तक ले जाती है जहां इसका ऑक्सीजनीकरण होता है। अन्य धमनियों के विपरीत जो ऑक्सीजनयुक्त रक्त ले जाती हैं, फुफ्फुस धमनी ऑक्सीजनरहित रक्त ले जाती है।"
+      }
     },
     {
       "question_name": {
@@ -122,21 +141,25 @@
       },
       "option": {
         "english": [
-          "Glucose forms alcohol",
           "Lactic acid forms",
+          "Glucose forms alcohol",
           "CO2 is released",
           "Proteins break down"
         ],
         "hindi": [
+            "लैक्टिक अम्ल बनता है",
           "ग्लूकोज से अल्कोहल बनता है",
-          "लैक्टिक अम्ल बनता है",
           "CO2 निकलती है",
           "प्रोटीन टूटते हैं"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "During anaerobic respiration in muscles, glucose is broken down to form lactic acid in the absence of oxygen. This process produces less energy than aerobic respiration and leads to muscle fatigue and soreness.",
+        "hindi": "मांसपेशियों में अवायवीय श्वसन के दौरान, ऑक्सीजन की अनुपस्थिति में ग्लूकोज टूटकर लैक्टिक अम्ल बनता है। इस प्रक्रिया से वायवीय श्वसन की तुलना में कम ऊर्जा उत्पन्न होती है और इससे मांसपेशियों में थकान और दर्द होता है।"
+      }
     },
     {
       "question_name": {
@@ -145,21 +168,25 @@
       },
       "option": {
         "english": [
-          "Saves energy",
-          "Maintains blood pressure",
+          "Reduces heart rate",
           "Separates oxygenated and deoxygenated blood",
-          "Reduces heart rate"
+          "Maintains blood pressure",
+          "Saves energy"
         ],
         "hindi": [
-          "ऊर्जा बचाता है",
+          "हृदय गति कम करता है",
+         "ऑक्सीजनयुक्त और ऑक्सीजनरहित रक्त को अलग करता है",
           "रक्तचाप बनाए रखता है",
-          "ऑक्सीजनयुक्त और ऑक्सीजनरहित रक्त को अलग करता है",
-          "हृदय गति कम करता है"
+          "ऊर्जा बचाता है"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Double circulation ensures that oxygenated and deoxygenated blood remain separate. This system includes pulmonary circulation (heart to lungs and back) and systemic circulation (heart to body and back), allowing efficient oxygen delivery to tissues.",
+        "hindi": "दोहरा परिसंचरण सुनिश्चित करता है कि ऑक्सीजनयुक्त और ऑक्सीजनरहित रक्त अलग-अलग रहें। इस प्रणाली में फुफ्फुसीय परिसंचरण (हृदय से फेफड़े और वापस) और दैहिक परिसंचरण (हृदय से शरीर और वापस) शामिल हैं, जो ऊतकों तक ऑक्सीजन की कुशल आपूर्ति को संभव बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -168,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Increases rate",
           "No effect",
+          "Increases rate",
           "Decreases rate",
           "Stops completely"
         ],
         "hindi": [
-          "दर बढ़ जाती है",
           "कोई प्रभाव नहीं",
+          "दर बढ़ जाती है",
           "दर घट जाती है",
           "पूरी तरह रुक जाता है"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When stomata close, CO2 intake is restricted, which is essential for photosynthesis. This reduces the rate of photosynthesis as carbon dioxide is a key reactant in the process of converting light energy to chemical energy.",
+        "hindi": "जब रंध्र बंद होते हैं, तो CO2 का प्रवेश सीमित हो जाता है, जो प्रकाश संश्लेषण के लिए आवश्यक है। इससे प्रकाश संश्लेषण की दर कम हो जाती है क्योंकि कार्बन डाइऑक्साइड प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलने की प्रक्रिया में एक महत्वपूर्ण अभिकारक है।"
+      }
     },
     {
       "question_name": {
@@ -191,21 +222,25 @@
       },
       "option": {
         "english": [
-          "To prevent blood loss",
-          "To maintain blood pressure",
           "To slow blood flow",
-          "To filter blood"
+          "To prevent blood loss",
+          "To filter blood",
+          "To maintain blood pressure"
         ],
         "hindi": [
-          "रक्त की हानि रोकने के लिए",
-          "रक्तचाप बनाए रखने के लिए",
           "रक्त प्रवाह धीमा करने के लिए",
-          "रक्त छानने के लिए"
+          "रक्त की हानि रोकने के लिए",
+          "रक्त छानने के लिए",
+          "रक्तचाप बनाए रखने के लिए"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Arteries have thick elastic walls to withstand and maintain high blood pressure. The elasticity allows them to expand when blood is pumped from the heart (systole) and recoil when the heart relaxes (diastole), helping maintain continuous blood flow.",
+        "hindi": "धमनियों की दीवारें लोचदार और मोटी होती हैं ताकि वे उच्च रक्तचाप को सहन कर सकें और उसे बनाए रख सकें। लोच के कारण वे हृदय से रक्त पंप होने पर फैल जाती हैं (सिस्टोल) और हृदय के विश्राम काल में सिकुड़ जाती हैं (डायस्टोल), जो निरंतर रक्त प्रवाह को बनाए रखने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -214,20 +249,24 @@
       },
       "option": {
         "english": [
-          "Blood pressure increases",
-          "Heart beats faster",
           "Heart muscles die",
-          "Blood clots form"
+          "Blood pressure increases",
+          "Blood clots form",
+          "Heart beats faster"
         ],
         "hindi": [
-          "रक्तचाप बढ़ जाता है",
-          "हृदय तेजी से धड़कता है",
           "हृदय की मांसपेशियां मर जाती हैं",
-          "रक्त के थक्के बनते हैं"
+          "रक्तचाप बढ़ जाता है",
+          "रक्त के थक्के बनते हैं",
+          "हृदय तेजी से धड़कता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "When coronary arteries are blocked, the heart muscles (myocardium) don't receive enough oxygen and nutrients. This leads to death of heart muscle cells (myocardial infarction), causing a heart attack. The damaged area can't contract properly, affecting heart function.",
+        "hindi": "कोरोनरी धमनियों के अवरुद्ध होने पर हृदय की मांसपेशियों (मायोकार्डियम) को पर्याप्त ऑक्सीजन और पोषक तत्व नहीं मिलते। इससे हृदय की मांसपेशी कोशिकाएं मर जाती हैं (मायोकार्डियल इन्फार्क्शन), जिससे हृदयाघात होता है। क्षतिग्रस्त क्षेत्र ठीक से संकुचित नहीं हो पाता, जो हृदय के कार्य को प्रभावित करता है।"
+      }
     }
   ]

@@ -7,18 +7,22 @@
       "option": {
         "english": [
           "Pineal",
-          "Pituitary",
+          "Pituitary", 
           "Thyroid",
           "Adrenal"
         ],
         "hindi": [
           "पीनियल",
           "पीयूष",
-          "थायरॉइड",
+          "थायरॉइड", 
           "एड्रेनल"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The pineal gland is called the third eye because it is sensitive to light and helps regulate our sleep-wake cycle (day-night rhythm)",
+        "hindi": "पीनियल ग्रंथि को तीसरी आंख कहा जाता है क्योंकि यह प्रकाश के प्रति संवेदनशील होती है और हमारे सोने-जागने के चक्र (दिन-रात लय) को नियंत्रित करने में मदद करती है"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -31,7 +35,7 @@
         "english": [
           "Estrogen",
           "Oxytocin",
-          "Progesterone",
+          "Progesterone", 
           "Prolactin"
         ],
         "hindi": [
@@ -42,29 +46,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Oxytocin causes contractions in the uterus during childbirth and helps in the delivery of the baby",
+        "hindi": "ऑक्सीटोसिन प्रसव के दौरान गर्भाशय में संकुचन उत्पन्न करता है और बच्चे के जन्म में सहायता करता है"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the function of cerebrospinal fluid?",
-        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+        "english": "What is the function of nerve endings in skin?",
+        "hindi": "त्वचा में तंत्रिका सिरों का क्या कार्य है?"
       },
       "option": {
         "english": [
-          "Hormone production",
-          "Blood filtration",
-          "Waste removal",
-          "Shock absorption"
+          "Digestion",
+          "Circulation",
+          "Protection",
+          "Sensation"
         ],
         "hindi": [
-          "हार्मोन उत्पादन",
-          "रक्त छानना",
-          "अपशिष्ट निष्कासन",
-          "आघात अवशोषण"
+          "पाचन",
+          "परिसंचरण",
+          "सुरक्षा",
+          "संवेदना"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Nerve endings in our skin help us feel touch, temperature, pain and pressure - they are our sensors for feeling the world around us",
+        "hindi": "हमारी त्वचा में तंत्रिका सिरे हमें स्पर्श, तापमान, दर्द और दबाव महसूस करने में मदद करते हैं - ये हमारे आस-पास की दुनिया को महसूस करने के लिए हमारे संवेदक हैं"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The temporal lobe, located near our ears, processes all the sounds we hear and helps us understand speech and music",
+        "hindi": "कनपटी पालि, जो हमारे कानों के पास स्थित है, हमारे द्वारा सुनी जाने वाली सभी ध्वनियों को संसाधित करती है और हमें भाषण और संगीत को समझने में मदद करती है"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The thymus gland produces thymosin hormone which helps in developing our immune system and protecting our body from diseases",
+        "hindi": "थाइमस ग्रंथि थाइमोसिन हार्मोन का उत्पादन करती है जो हमारी रोग प्रतिरोधक क्षमता को विकसित करने और हमारे शरीर को बीमारियों से बचाने में मदद करता है"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,52 +154,64 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "During action potential, sodium and potassium ions move in and out of nerve cells, creating electrical signals that carry messages in our nervous system",
+        "hindi": "क्रिया विभव के दौरान, सोडियम और पोटैशियम आयन तंत्रिका कोशिकाओं के अंदर और बाहर जाते हैं, जो हमारी तंत्रिका तंत्र में संदेश ले जाने वाले विद्युत संकेत बनाते हैं"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which hormone controls metamorphosis in amphibians?",
-        "hindi": "कौन सा हार्मोन उभयचरों में कायांतरण को नियंत्रित करता है?"
+        "english": "What causes plants to grow towards water?",
+        "hindi": "पौधों को पानी की ओर बढ़ने का क्या कारण है?"
       },
       "option": {
         "english": [
-          "Insulin",
-          "Thyroxine",
-          "Growth hormone",
-          "Adrenaline"
+          "Phototropism",
+          "Hydrotropism",
+          "Geotropism",
+          "Thigmotropism"
         ],
         "hindi": [
-          "इंसुलिन",
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन",
-          "एड्रेनालिन"
+          "प्रकाशानुवर्तन",
+          "जलानुवर्तन",
+          "गुरुत्वानुवर्तन",
+          "स्पर्शानुवर्तन"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Hydrotropism is the natural movement of plant roots towards water, helping plants find water for survival",
+        "hindi": "जलानुवर्तन पौधों की जड़ों की पानी की ओर स्वाभाविक गति है, जो पौधों को जीवित रहने के लिए पानी खोजने में मदद करती है"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which part controls circadian rhythm?",
-        "hindi": "कौन सा भाग सर्केडियन लय को नियंत्रित करता है?"
+        "english": "Which gland regulates circadian rhythm?",
+        "hindi": "कौन सी ग्रंथि सर्केडियन लय को नियंत्रित करती है?"
       },
       "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Suprachiasmatic nucleus",
-          "Cerebellum"
+        "english":[
+          "Pituitary Gland",
+          "Thyroid Gland",
+          "Pineal Gland",
+          "Adrenal Gland"
         ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "सुप्राकाइज्मैटिक नाभिक",
-          "सेरेबेलम"
+        "hindi":[
+          "पीयूष ग्रंथि",
+          "थायरॉइड ग्रंथि",
+          "पीनियल ग्रंथि",
+          "एड्रेनल ग्रंथि"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The pineal gland produces melatonin hormone which controls our sleep-wake cycle (circadian rhythm) based on day and night",
+        "hindi": "पीनियल ग्रंथि मेलाटोनिन हार्मोन का उत्पादन करती है जो दिन और रात के आधार पर हमारे सोने-जागने के चक्र (सर्केडियन लय) को नियंत्रित करती है"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,13 +235,17 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Islets of Langerhans are special cell clusters in pancreas that produce important hormones like insulin and glucagon to control blood sugar",
+        "hindi": "लैंगरहैंस की द्वीपिकाएं अग्न्याशय में विशेष कोशिकाओं के समूह हैं जो रक्त शर्करा को नियंत्रित करने के लिए इंसुलिन और ग्लूकागон जैसे महत्वपूर्ण हार्मोन का उत्पादन करती हैं"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
         "english": "What is the role of glial cells?",
-        "hindi": "तंत्रिका बंधक कोशिकाओं की क्या भूमिका है?"
+        "hindi": "ग्लिया कोशिकाओं की क्या भूमिका है?"
       },
       "option": {
         "english": [
@@ -226,7 +262,11 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Glial cells support, protect and nourish neurons (nerve cells) in our brain and help them work properly",
+        "hindi": "ग्लिया कोशिकाएं हमारे मस्तिष्क में न्यूरॉन्स (तंत्रिका कोशिकाओं) को सहारा देती हैं, उनकी रक्षा करती हैं और उन्हें पोषण देती हैं तथा उन्हें ठीक से काम करने में मदद करती हैं"
+      },
       "image": null,
       "medium": "hard"
     }
-  ]
+]

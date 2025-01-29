@@ -1,26 +1,30 @@
 [
     {
       "question_name": {
-        "english": "What is bronze made of?",
-        "hindi": "कांसा किससे बनता है?"
+        "english": "What is solder made of?",
+        "hindi": "सोल्डर किससे बनता है?"
       },
       "option": {
         "english": [
           "Cu + Zn",
-          "Fe + C",
-          "Cu + Sn",
+          "Fe + C", 
+          "Pb + Sn",
           "Fe + Ni"
         ],
         "hindi": [
           "Cu + Zn",
           "Fe + C",
-          "Cu + Sn",
+          "Pb + Sn", 
           "Fe + Ni"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Solder is an alloy made of lead (Pb) and tin (Sn). It has a low melting point which makes it useful for joining metal parts. When heated, solder melts and flows between the metal surfaces. As it cools, it solidifies and creates a strong bond. This process is called soldering.",
+        "hindi": "सोल्डर सीसा (Pb) और टिन (Sn) से बनी एक मिश्रधातु है। इसका गलनांक कम होता है जो इसे धातु के टुकड़ों को जोड़ने के लिए उपयोगी बनाता है। गरम करने पर, सोल्डर पिघल जाता है और धातु की सतहों के बीच बहता है। ठंडा होने पर, यह ठोस हो जाता है और एक मजबूत बंधन बनाता है। इस प्रक्रिया को सोल्डरिंग कहते हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Galvanized iron is used in making water tanks because it is coated with zinc which prevents rusting. The process is called galvanization: Fe + Zn → Fe/Zn coating. This zinc coating acts as a sacrificial metal and corrodes first, protecting the iron underneath. This makes the tanks long-lasting and safe for storing water.",
+        "hindi": "पानी की टंकी बनाने में जस्ती लोहे का उपयोग किया जाता है क्योंकि इस पर जस्ते की परत चढ़ी होती है जो जंग लगने से बचाती है। इस प्रक्रिया को जस्तीकरण कहते हैं: Fe + Zn → Fe/Zn परत। यह जस्ते की परत त्यागी धातु के रूप में कार्य करती है और पहले स्वयं क्षय होती है, जिससे नीचे का लोहा सुरक्षित रहता है। इससे टंकी लंबे समय तक चलती है और पानी के भंडारण के लिए सुरक्षित रहती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Brass is an alloy of copper (Cu) and zinc (Zn). It is used in decorative items because it has a golden-like appearance and doesn't tarnish easily. The reaction to form brass: Cu + Zn → CuZn (brass). Brass is also easy to mold into different shapes and can be polished to give a bright shine.",
+        "hindi": "पीतल तांबा (Cu) और जस्ता (Zn) की मिश्रधातु है। इसका उपयोग सजावटी सामान में किया जाता है क्योंकि इसकी दिखावट सोने जैसी होती है और यह आसानी से मैली नहीं होती। पीतल बनाने की अभिक्रिया: Cu + Zn → CuZn (पीतल)। पीतल को विभिन्न आकार देना आसान होता है और इसे पॉलिश करके चमकदार बनाया जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -89,30 +101,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Barium compounds like barium platinocyanide (BaPt(CN)4) are used in X-ray screens because they fluoresce (glow) when exposed to X-rays. When X-rays hit the screen: BaPt(CN)4 + X-rays → BaPt(CN)4* → BaPt(CN)4 + visible light. This property helps convert invisible X-rays into visible images for medical diagnosis.",
+        "hindi": "बेरियम यौगिक जैसे बेरियम प्लैटिनोसाइनाइड (BaPt(CN)4) का उपयोग एक्स-रे स्क्रीन में किया जाता है क्योंकि एक्स-रे के संपर्क में आने पर ये प्रतिदीप्त होते हैं (चमकते हैं)। जब एक्स-रे स्क्रीन पर पड़ती हैं: BaPt(CN)4 + एक्स-रे → BaPt(CN)4* → BaPt(CN)4 + दृश्य प्रकाश। यह गुण अदृश्य एक्स-रे को चिकित्सा निदान के लिए दृश्य छवियों में बदलने में मदद करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the chemical name of lime water?",
-        "hindi": "चूने के पानी का रासायनिक नाम क्या है?"
+        "english": "Why are electric wires coated with plastic or rubber?",
+        "hindi": "बिजली के तारों को प्लास्टिक या रबर से क्यों लपेटा जाता है?"
       },
       "option": {
         "english": [
-          "Calcium oxide",
-          "Calcium carbonate",
-          "Calcium hydroxide",
-          "Calcium chloride"
+          "To make them colorful",
+          "To make them flexible",
+          "To prevent electric shock",
+          "To make them strong"
         ],
         "hindi": [
-          "कैल्शियम ऑक्साइड",
-          "कैल्शियम कार्बोनेट",
-          "कैल्शियम हाइड्रॉक्साइड",
-          "कैल्शियम क्लोराइड"
+          "रंगीन बनाने के लिए",
+          "लचीला बनाने के लिए",
+          "बिजली के झटके से बचाने के लिए",
+          "मजबूत बनाने के लिए"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation":{
+        "english": "Electric wires are coated with plastic or rubber to prevent electric shock. The plastic or rubber coating insulates the wire and protects the user from electric shocks.",
+        "hindi": "बिजली के तारों को प्लास्टिक या रबर से लपेटा जाता है बिजली के झटके से बचाने के लिए। प्लास्टिक या रबर की परत विद्युत तार को अलग करती है और उपयोगकर्ता को बिजली के झटके से बचाती है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Silver nitrate (AgNO3) solution is colorless. When silver metal reacts with nitric acid: 3Ag + 4HNO3 → 3AgNO3 + NO + 2H2O. Silver nitrate is light sensitive and turns black on exposure to sunlight: 2AgNO3 → 2Ag + 2NO2 + O2. This is why it should be stored in dark bottles.",
+        "hindi": "सिल्वर नाइट्रेट (AgNO3) का विलयन रंगहीन होता है। जब चांदी नाइट्रिक अम्ल से क्रिया करती है: 3Ag + 4HNO3 → 3AgNO3 + NO + 2H2O। सिल्वर नाइट्रेट प्रकाश-संवेदी होता है और सूर्य के प्रकाश में काला हो जाता है: 2AgNO3 → 2Ag + 2NO2 + O2। इसीलिए इसे काली बोतलों में रखा जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Magnesium (Mg) is present in chlorophyll, the green pigment in plants. Chlorophyll has a complex structure with Mg at its center: C55H72O5N4Mg. This Mg helps in absorbing sunlight during photosynthesis: 6CO2 + 6H2O → C6H12O6 + 6O2. Without Mg, plants cannot make their food and turn yellow.",
+        "hindi": "क्लोरोफिल में मैग्नीशियम (Mg) पाया जाता है, जो पौधों का हरा वर्णक है। क्लोरोफिल की संरचना जटिल होती है जिसके केंद्र में Mg होता है: C55H72O5N4Mg। यह Mg प्रकाश संश्लेषण के दौरान सूर्य के प्रकाश को अवशोषित करने में मदद करता है: 6CO2 + 6H2O → C6H12O6 + 6O2। Mg के बिना पौधे अपना भोजन नहीं बना सकते और पीले पड़ जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Silvering is the process of coating copper with silver. It is done by electroplating: Cu + 2AgNO3 → Cu(NO3)2 + 2Ag. The copper object is made the cathode in a silver nitrate solution, and silver metal gets deposited on it. This gives copper items a silver-like appearance and protects them from tarnishing.",
+        "hindi": "रजतलेपन तांबे पर चांदी की परत चढ़ाने की प्रक्रिया है। यह विद्युत लेपन द्वारा किया जाता है: Cu + 2AgNO3 → Cu(NO3)2 + 2Ag। तांबे की वस्तु को सिल्वर नाइट्रेट के घोल में कैथोड बनाया जाता है, और चांदी धातु इस पर जम जाती है। इससे तांबे की वस्तुओं को चांदी जैसी दिखावट मिलती है और वे मैली नहीं होतीं।"
+      }
     },
     {
       "question_name": {
@@ -204,29 +236,37 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "German silver is an alloy of copper (Cu), zinc (Zn) and nickel (Ni). It contains no actual silver. The typical composition is: Cu (60%) + Zn (20%) + Ni (20%) → German silver. It looks like silver but is much cheaper. It is used in making jewelry, utensils and electrical resistors because it is corrosion resistant.",
+        "hindi": "जर्मन सिल्वर तांबा (Cu), जस्ता (Zn) और निकल (Ni) की मिश्रधातु है। इसमें वास्तविक चांदी नहीं होती। इसकी सामान्य संरचना है: Cu (60%) + Zn (20%) + Ni (20%) → जर्मन सिल्वर। यह चांदी जैसी दिखती है लेकिन बहुत सस्ती होती है। इसका उपयोग आभूषण, बर्तन और विद्युत प्रतिरोधक बनाने में किया जाता है क्योंकि यह संक्षारण प्रतिरोधी होती है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which metal is used as catalyst in Haber's process?",
-        "hindi": "हैबर की प्रक्रिया में किस धातु का उपयोग उत्प्रेरक के रूप में किया जाता है?"
+        "english": "Why is iron used as a catalyst in Haber's process for ammonia production?",
+        "hindi": "अमोनिया उत्पादन में हैबर की प्रक्रिया में लोहे का उपयोग उत्प्रेरक के रूप में क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Copper",
-          "Iron",
-          "Platinum",
-          "Nickel"
+          "Due to low cost",
+          "Due to high surface activity",
+          "Due to high melting point",
+          "Due to magnetic properties"
         ],
         "hindi": [
-          "तांबा",
-          "लोहा",
-          "प्लैटिनम",
-          "निकल"
+          "कम लागत के कारण",
+          "उच्च सतह सक्रियता के कारण",
+          "उच्च गलनांक के कारण",
+          "चुंबकीय गुणों के कारण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Iron is used as a catalyst in Haber's process due to its high surface activity. The reaction is: N2 + 3H2 ⇌ 2NH3. Iron provides its surface for nitrogen and hydrogen to react more efficiently. The iron catalyst increases the rate of reaction without being consumed. It is also cheap and readily available.",
+        "hindi": "हैबर की प्रक्रिया में लोहे का उपयोग उत्प्रेरक के रूप में उसकी उच्च सतह सक्रियता के कारण किया जाता है। अभिक्रिया है: N2 + 3H2 ⇌ 2NH3। लोहा नाइट्रोजन और हाइड्रोजन को अधिक कुशलता से अभिक्रिया करने के लिए अपनी सतह प्रदान करता है। लोहा उत्प्रेरक स्वयं खपत हुए बिना अभिक्रिया की दर बढ़ाता है। यह सस्ता और आसानी से उपलब्ध भी है।"
+      }
     }
 ]

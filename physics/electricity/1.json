@@ -1,23 +1,27 @@
 
-   [
+[ 
+    {
+      "question_name": {
+        "english": "Which device measures electric current?",
+        "hindi": "विद्युत धारा को कौन सा उपकरण मापता है?"
+      },
+      "option": {
+        "english": ["Voltmeter", "Ammeter", "Ohmmeter", "Galvanometer"],
+        "hindi": ["वोल्टमीटर", "एमीटर", "ओममीटर", "गैल्वेनोमीटर"]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy"
+    },
+  
     {
       "question_name": {
         "english": "What is the relationship between voltage (V), current (I), and resistance (R) according to Ohm's law?",
         "hindi": "ओम के नियम के अनुसार वोल्टेज (V), करंट (I), और प्रतिरोध (R) के बीच क्या संबंध है?"
       },
       "option": {
-        "english": [
-          "V = I × R",
-          "V = I ÷ R",
-          "R = V × I",
-          "I = V × R"
-        ],
-        "hindi": [
-          "V = I × R",
-          "V = I ÷ R",
-          "R = V × I",
-          "I = V × R"
-        ]
+        "english": ["V = I × R", "V = I ÷ R", "R = V × I", "I = V × R"],
+        "hindi": ["V = I × R", "V = I ÷ R", "R = V × I", "I = V × R"]
       },
       "answer": 0,
       "image": null,
@@ -29,181 +33,10 @@
         "hindi": "विद्युत प्रतिरोध की SI इकाई क्या है?"
       },
       "option": {
-        "english": [
-          "Volt",
-          "Ampere",
-          "Ohm",
-          "Watt"
-        ],
-        "hindi": [
-          "वोल्ट",
-          "एम्पीयर",
-          "ओम",
-          "वाट"
-        ]
+        "english": ["Volt", "Ampere", "Ohm", "Watt"],
+        "hindi": ["वोल्ट", "एम्पीयर", "ओम", "वाट"]
       },
       "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which of these materials is an insulator?",
-        "hindi": "इनमें से कौन सा पदार्थ कुचालक है?"
-      },
-      "option": {
-        "english": [
-          "Copper",
-          "Aluminum",
-          "Rubber",
-          "Silver"
-        ],
-        "hindi": [
-          "तांबा",
-          "एल्युमीनियम",
-          "रबर",
-          "चांदी"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of an electric switch?",
-        "hindi": "विद्युत स्विच का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "To store electricity",
-          "To measure current",
-          "To break or complete a circuit",
-          "To convert AC to DC"
-        ],
-        "hindi": [
-          "बिजली को स���टोर करना",
-          "करंट को मापना",
-          "सर्किट को तोड़ना या पूरा करना",
-          "AC को DC में बदलना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What causes electric current to flow in a circuit?",
-        "hindi": "सर्किट में विद्युत धारा का प्रवाह किस कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "Potential difference",
-          "Resistance",
-          "Temperature",
-          "Pressure"
-        ],
-        "hindi": [
-          "विभवांतर",
-          "प्रतिरोध",
-          "तापमान",
-          "दबाव"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which device measures electric current?",
-        "hindi": "विद्युत धारा को कौन सा उपकरण मापता है?"
-      },
-      "option": {
-        "english": [
-          "Voltmeter",
-          "Ammeter",
-          "Ohmmeter",
-          "Galvanometer"
-        ],
-        "hindi": [
-          "वोल्टमीटर",
-          "एमीटर",
-          "ओममीटर",
-          "गैल्वेनोमीटर"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the commercial unit of electrical energy?",
-        "hindi": "विद्युत ऊर्जा की व्यावसायिक इकाई क्या है?"
-      },
-      "option": {
-        "english": [
-          "Watt",
-          "Joule",
-          "Kilowatt-hour",
-          "Volt-ampere"
-        ],
-        "hindi": [
-          "वाट",
-          "जूल",
-          "किलोवाट-घंटा",
-          "वोल्ट-एम्पीयर"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the effect of connecting resistors in series?",
-        "hindi": "श्रेणीक्रम में प्रतिरोधकों को जोड़ने का क्या प्रभाव होता है?"
-      },
-      "option": {
-        "english": [
-          "Total resistance decreases",
-          "Total resistance increases",
-          "Resistance remains same",
-          "Resistance becomes zero"
-        ],
-        "hindi": [
-          "कुल प्रतिरोध घटता है",
-          "कुल प्रतिरोध बढ़ता है",
-          "प्रतिरोध समान रहता है",
-          "प्रतिरोध शून्य हो जाता है"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which of these affects the resistance of a conductor?",
-        "hindi": "इनमें से कौन चालक के प्रतिरोध को प्रभावित करता है?"
-      },
-      "option": {
-        "english": [
-          "Only length",
-          "Only area of cross-section",
-          "Only temperature",
-          "All of these"
-        ],
-        "hindi": [
-          "केवल लंबाई",
-          "केवल अनुप्रस्थ काट का क्षेत्रफल",
-          "केवल तापमान",
-          "ये सभी"
-        ]
-      },
-      "answer": 3,
       "image": null,
       "medium": "easy"
     },
@@ -213,368 +46,89 @@
         "hindi": "सर्किट में विद्युत फ्यूज का क्या उद्देश्य है?"
       },
       "option": {
-        "english": [
-          "To increase current flow",
-          "To protect from excess current",
-          "To store electricity",
-          "To reduce voltage"
-        ],
-        "hindi": [
-          "करंट प्रवाह बढ़ाने के लिए",
-          "अधिक करंट से बचाने के लिए",
-          "बिजली स्टोर करने के लिए",
-          "वोल्टेज कम करने के लिए"
-        ]
+        "english": ["Increase current flow", "Store electricity", "Reduce voltage", "Protect from excess current"],
+        "hindi": ["करंट बढ़ाएं", "बिजली स्टोर करें", "वोल्टेज कम करें", "अधिक करंट से बचाएं"]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy"
+    },
+    {
+      "question_name": {
+        "english": "Which of these affects the resistance of a conductor?",
+        "hindi": "चालक के प्रतिरोध को कौन प्रभावित करता है?"
+      },
+      "option": {
+        "english": ["Only length", "All of these", "Only temperature", "Only cross-sectional area"],
+        "hindi": ["केवल लंबाई", "ये सभी", "केवल तापमान", "केवल अनुप्रस्थ काट"]
       },
       "answer": 1,
       "image": null,
       "medium": "easy"
     },
     {
-        "question_name": {
-          "english": "A circuit has three resistors of 6Ω each. If the power dissipated in one resistor is 36W, what is the voltage across each resistor in the parallel combination?",
-          "hindi": "एक सर्किट में 6Ω के तीन प्रतिरोधक हैं। यदि एक प्रतिरोधक में व्ययित शक्ति 36W है, तो समानांतर संयोजन में प्रत्येक प्रतिरोधक के आर-पार वोल्टेज क्या है?"
-        },
-        "option": {
-          "english": [
-            "6V",
-            "12V",
-            "18V",
-            "24V"
-          ],
-          "hindi": [
-            "6V",
-            "12V",
-            "18V",
-            "24V"
-          ]
-        },
-        "answer": 2,
-        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='70' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='100' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='50' y1='50' x2='100' y2='50' stroke='black'/><line x1='50' y1='80' x2='100' y2='80' stroke='black'/><line x1='50' y1='110' x2='100' y2='110' stroke='black'/><line x1='140' y1='50' x2='250' y2='50' stroke='black'/><line x1='140' y1='80' x2='250' y2='80' stroke='black'/><line x1='140' y1='110' x2='250' y2='110' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><text x='110' y='55'>6Ω</text><text x='110' y='85'>6Ω</text><text x='110' y='115'>6Ω</text></svg>",
-        "medium": "hard"
-      },
-      {
-        "question_name": {
-          "english": "If a current of 2A flows through a resistance of 5Ω, what is the potential difference?",
-          "hindi": "यदि 5Ω प्रतिरोध में 2A की धारा प्रवाहित होती है, तो विभवांतर क्या होगा?"
-        },
-        "option": {
-          "english": [
-            "7V",
-            "10V",
-            "12V",
-            "15V"
-          ],
-          "hindi": [
-            "7V",
-            "10V",
-            "12V",
-            "15V"
-          ]
-        },
-        "answer": 1,
-        "image": null,
-        "medium": "medium"
-      },
-      {
-        "question_name": {
-          "english": "Calculate the resistance of a conductor if current is 0.5A at 230V.",
-          "hindi": "यदि 230V पर धारा 0.5A है, तो चालक का प्रतिरोध ज्ञात करें।"
-        },
-        "option": {
-          "english": [
-            "115Ω",
-            "460Ω",
-            "230Ω",
-            "500Ω"
-          ],
-          "hindi": [
-            "115Ω",
-            "460Ω",
-            "230Ω",
-            "500Ω"
-          ]
-        },
-        "answer": 1,
-        "image": null,
-        "medium": "medium"
-      },
-      {
-        "question_name": {
-          "english": "What is the power consumed by a device drawing 3A current at 12V?",
-          "hindi": "12V पर 3A धारा खींचने वाले उपकरण द्वारा खपत की गई शक्ति क्या है?"
-        },
-        "option": {
-          "english": [
-            "24W",
-            "36W",
-            "15W",
-            "48W"
-          ],
-          "hindi": [
-            "24W",
-            "36W",
-            "15W",
-            "48W"
-          ]
-        },
-        "answer": 1,
-        "image": null,
-        "medium": "medium"
-      },
-      {
-        "question_name": {
-          "english": "Two resistors of 6Ω and 3Ω are connected in series. Find the total resistance.",
-          "hindi": "6Ω और 3Ω के दो प्रतिरोधक श्रेणीक्रम में जुड़े हैं। कुल प्रतिरोध ज्ञात करें।"
-        },
-        "option": {
-          "english": [
-            "2Ω",
-            "9Ω",
-            "18Ω",
-            "4.5Ω"
-          ],
-          "hindi": [
-            "2Ω",
-            "9Ω",
-            "18Ω",
-            "4.5Ω"
-          ]
-        },
-        "answer": 1,
-        "image": null,
-        "medium": "medium"
-      },
-      {
-        "question_name": {
-          "english": "A 100W bulb operates at 250V. Calculate the current flowing through it.",
-          "hindi": "एक 100W का बल्ब 250V पर कार्य करता है। इससे प्रवाहित धारा की गणना करें।"
-        },
-        "option": {
-          "english": [
-            "0.2A",
-            "0.4A",
-            "2.5A",
-            "25A"
-          ],
-          "hindi": [
-            "0.2A",
-            "0.4A",
-            "2.5A",
-            "25A"
-          ]
-        },
-        "answer": 1,
-        "image": null,
-        "medium": "medium"
-      },
-
-    {
       "question_name": {
-        "english": "Identify the type of circuit connection shown in the diagram:",
-        "hindi": "चित्र में दिखाए गए सर्किट कनेक्शन का प्रकार पहचानें:"
+        "english": "Three 2Ω resistors in parallel: effective resistance?",
+        "hindi": "2Ω के तीन प्रतिरोधक समानांतर में: प्रभावी प्रतिरोध?"
       },
       "option": {
-        "english": [
-          "Series connection",
-          "Parallel connection",
-          "Mixed connection",
-          "None of these"
-        ],
-        "hindi": [
-          "श्रेणी संयोजन",
-          "समानांतर संयोजन",
-          "मिश्रित संयोजन",
-          "इनमें से कोई नहीं"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='50' y1='60' x2='100' y2='60' stroke='black'/><line x1='50' y1='100' x2='100' y2='100' stroke='black'/><line x1='140' y1='60' x2='250' y2='60' stroke='black'/><line x1='140' y1='100' x2='250' y2='100' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><text x='110' y='65'>R₁</text><text x='110' y='105'>R₂</text></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of electrical measuring instrument is shown in the circuit?",
-        "hindi": "सर्किट में किस प्रकार का विद्युत मापन उपकरण दिखाया गया है?"
-      },
-      "option": {
-        "english": [
-          "Ammeter",
-          "Voltmeter",
-          "Galvanometer",
-          "Ohmmeter"
-        ],
-        "hindi": [
-          "एमीटर",
-          "वोल्टमीटर",
-          "गैल्वेनोमीटर",
-          "ओममीटर"
-        ]
-      },
-      "answer": 0,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' fill='none' stroke='black'/><text x='140' y='80'>A</text><line x1='80' y1='75' x2='130' y2='75' stroke='black'/><line x1='170' y1='75' x2='220' y2='75' stroke='black'/><rect x='220' y='65' width='40' height='20' fill='none' stroke='black'/><text x='230' y='80'>R</text></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which electrical component is represented in the diagram?",
-        "hindi": "चित्र में किस विद्युत घटक को दर्शाया गया है?"
-      },
-      "option": {
-        "english": [
-          "Battery",
-          "Capacitor",
-          "Resistor",
-          "Inductor"
-        ],
-        "hindi": [
-          "बैटरी",
-          "संधारित्र",
-          "प्रतिरोधक",
-          "प्रेरक"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='140' y2='75' stroke='black'/><line x1='160' y1='55' x2='160' y2='95' stroke='black'/><line x1='140' y1='55' x2='140' y2='95' stroke='black'/><line x1='160' y1='75' x2='200' y2='75' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of switch configuration is shown in the diagram?",
-        "hindi": "चित्र में किस प्रकार का स्विच विन्यास दिखाया गया है?"
-      },
-      "option": {
-        "english": [
-          "SPST (Single Pole Single Throw)",
-          "SPDT (Single Pole Double Throw)",
-          "DPST (Double Pole Single Throw)",
-          "DPDT (Double Pole Double Throw)"
-        ],
-        "hindi": [
-          "SPST (सिंगल पोल सिंगल थ्रो)",
-          "SPDT (सिंगल पोल डबल थ्रो)",
-          "DPST (डबल पोल सिंगल थ्रो)",
-          "DPDT (डबल पोल डबल थ्रो)"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='75' r='3' fill='black'/><line x1='100' y1='75' x2='150' y2='60' stroke='black'/><line x1='60' y1='75' x2='100' y2='75' stroke='black'/><line x1='150' y1='60' x2='190' y2='60' stroke='black'/><line x1='150' y1='90' x2='190' y2='90' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Identify the power source shown in the circuit diagram:",
-        "hindi": "सर्किट आरेख में दिखाए गए विद्युत स्रोत की पहचान करें:"
-      },
-      "option": {
-        "english": [
-          "AC Source",
-          "DC Battery",
-          "Solar Cell",
-          "Fuel Cell"
-        ],
-        "hindi": [
-          "AC स्रोत",
-          "DC बैटरी",
-          "सौर सेल",
-          "ईंधन सेल"
-        ]
-      },
-      "answer": 0,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='25' fill='none' stroke='black'/><path d='M 135 75 Q 150 45 165 75' stroke='black' fill='none'/><line x1='100' y1='75' x2='125' y2='75' stroke='black'/><line x1='175' y1='75' x2='200' y2='75' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "In the given circuit, if R₁ = 4Ω and R₂ = 6Ω are in parallel with 12V supply, calculate the total current drawn:",
-        "hindi": "दिए गए सर्किट में, यदि R₁ = 4Ω और R₂ = 6Ω समानांतर में 12V आपूर्ति के साथ हैं, तो कुल धारा की गणना करें:"
-      },
-      "option": {
-        "english": [
-          "2A",
-          "3A",
-          "5A",
-          "7A"
-        ],
-        "hindi": [
-          "2A",
-          "3A",
-          "5A",
-          "7A"
-        ]
+        "english": ["6Ω",  "3Ω",  "2/3Ω", "1Ω"],
+        "hindi": ["6Ω", "3Ω", "2/3Ω", "1Ω"]
       },
       "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='50' y1='60' x2='100' y2='60' stroke='black'/><line x1='50' y1='100' x2='100' y2='100' stroke='black'/><line x1='140' y1='60' x2='250' y2='60' stroke='black'/><line x1='140' y1='100' x2='250' y2='100' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/><text x='110' y='65'>4Ω</text><text x='110' y='105'>6Ω</text><text x='30' y='70'>12V</text></svg>",
-      "medium": "hard"
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='70' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='100' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='140' y1='50' x2='250' y2='50' stroke='black'/><line x1='140' y1='80' x2='250' y2='80' stroke='black'/><line x1='140' y1='110' x2='250' y2='110' stroke='black'/><text x='110' y='55'>2Ω</text><text x='110' y='85'>2Ω</text><text x='110' y='115'>2Ω</text></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "A heating element draws 5A current at 220V. If the voltage drops to 110V, what will be the new power consumption assuming resistance remains constant?",
-        "hindi": "एक हीटिंग एलिमेंट 220V पर 5A धारा खींचता है। यदि वोल्टेज घटकर 110V हो जाता है, तो प्रतिरोध स्थिर मानते हुए नई शक्ति खपत क्या होगी?"
+        "english": "Potential difference across 5Ω resistor with 2A current?",
+        "hindi": "5Ω प्रतिरोधक में 2A धारा पर विभवांतर?"
       },
       "option": {
-        "english": [
-          "1100W",
-          "550W",
-          "275W",
-          "2200W"
-        ],
-        "hindi": [
-          "1100W",
-          "550W",
-          "275W",
-          "2200W"
-        ]
+        "english": ["10V", "12V", "15V", "7V"],
+        "hindi": ["10V", "12V", "15V", "7V"]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Power consumed by a 3A device at 12V?",
+        "hindi": "12V पर 3A उपकरण की शक्ति खपत?"
+      },
+      "option": {
+        "english": ["24W", "15W", "48W", "36W"],
+        "hindi": ["24W", "15W", "48W", "36W"]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Voltage across each resistor in parallel (6Ω, 36W)?",
+        "hindi": "समानांतर में प्रत्येक 6Ω प्रतिरोधक पर वोल्टेज (36W)?"
+      },
+      "option": {
+        "english": ["6V", "18V", "12V",  "24V"],
+        "hindi": ["6V", "18V", "12V", "24V"]
       },
       "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='60' width='60' height='30' fill='none' stroke='black'/><text x='125' y='80'>R</text><line x1='80' y1='75' x2='120' y2='75' stroke='black'/><line x1='180' y1='75' x2='220' y2='75' stroke='black'/><text x='90' y='60'>220V→110V</text><text x='190' y='60'>5A</text></svg>",
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='120' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='140' stroke='black'/><line x1='140' y1='50' x2='250' y2='50' stroke='black'/><line x1='140' y1='90' x2='250' y2='90' stroke='black'/><line x1='140' y1='130' x2='250' y2='130' stroke='black'/><text x='110' y='55'>6Ω</text><text x='110' y='95'>6Ω</text><text x='110' y='135'>6Ω</text></svg>",
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "In the given circuit, what will be the reading on the ammeter if the battery voltage is 9V and total resistance is 3Ω? (Consider internal resistance of ammeter as negligible)",
-        "hindi": "दिए गए सर्किट में, यदि बैटरी वोल्टेज 9V और कुल प्रतिरोध 3Ω है, तो एमीटर का पाठ्यांक क्या होगा? (एमीटर का आंतरिक प्रतिरोध नगण्य मानें)"
+        "english": "Total current in parallel circuit (R₁=4Ω, R₂=6Ω, 12V)?",
+        "hindi": "समानांतर सर्किट में कुल धारा (R₁=4Ω, R₂=6Ω, 12V)?"
       },
       "option": {
-        "english": [
-          "1A",
-          "2A",
-          "3A",
-          "4A"
-        ],
-        "hindi": [
-          "1A",
-          "2A",
-          "3A",
-          "4A"
-        ]
+        "english": ["2A", "3A", "5A", "7A"],
+        "hindi": ["2A", "3A", "5A", "7A"]
       },
       "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='60' r='15' fill='none' stroke='black'/><text x='145' y='65'>A</text><line x1='80' y1='60' x2='135' y2='60' stroke='black'/><line x1='165' y1='60' x2='220' y2='60' stroke='black'/><line x1='80' y1='40' x2='80' y2='80' stroke='black'/><line x1='90' y1='40' x2='90' y2='80' stroke='black'/><text x='60' y='65'>9V</text><rect x='180' y='50' width='40' height='20' fill='none' stroke='black'/><text x='190' y='65'>3Ω</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Analyze the given circuit and determine the equivalent resistance between points A and B:",
-        "hindi": "दिए गए सर्किट का विश्लेषण करें और बिंदु A और B के बीच तुल्य प्रतिरोध निर्धारित करें:"
-      },
-      "option": {
-        "english": [
-          "2Ω",
-          "4Ω",
-          "6Ω",
-          "8Ω"
-        ],
-        "hindi": [
-          "2Ω",
-          "4Ω",
-          "6Ω",
-          "8Ω"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='250' y2='50' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><rect x='180' y='60' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='50' x2='50' y2='100' stroke='black'/><line x1='250' y1='50' x2='250' y2='100' stroke='black'/><line x1='50' y1='100' x2='250' y2='100' stroke='black'/><text x='110' y='55'>6Ω</text><text x='110' y='95'>6Ω</text><text x='190' y='75'>12Ω</text><text x='40' y='45'>A</text><text x='260' y='45'>B</text></svg>",
+      "image": null,
       "medium": "hard"
     }
-    
   ]

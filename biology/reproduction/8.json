@@ -9,20 +9,24 @@
       "option": {
         "english": [
           "Egg production",
-          "Milk production",
+          "Milk production", 
           "Energy production",
           "Male characteristics"
         ],
         "hindi": [
           "अंडा उत्पादन",
           "दूध उत्पादन",
-          "ऊर्जा उत्पादन",
+          "ऊर्जा उत्पादन", 
           "पुरुष लक्षण"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Testosterone is a male hormone produced by testes. It is responsible for development of male secondary sexual characteristics like facial hair, deep voice, muscular body and male reproductive organs.",
+        "hindi": "टेस्टोस्टेरोन एक पुरुष हार्मोन है जो वृषण द्वारा उत्पादित होता है। यह पुरुष द्वितीयक यौन विशेषताओं जैसे चेहरे के बाल, गहरी आवाज, मांसपेशीय शरीर और पुरुष प्रजनन अंगों के विकास के लिए जिम्मेदार है।"
+      }
     },
     {
       "question_name": {
@@ -31,21 +35,25 @@
       },
       "option": {
         "english": [
-          "Testosterone production",
           "Energy production",
+          "Hormone regulation",
           "Sperm production",
-          "Hormone regulation"
+          "None of the above"
         ],
         "hindi": [
-          "टेस्टोस्टेरोन उत्पादन",
           "ऊर्जा उत्पादन",
+          "हार्मोन नियमन",
           "शुक्राणु उत्पादन",
-          "हार्मोन नियमन"
+          "इनमें से कोई नहीं"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "FSH (Follicle Stimulating Hormone) in males stimulates the testes to produce sperm cells. It acts on the seminiferous tubules to promote sperm production (spermatogenesis).",
+        "hindi": "पुरुषों में FSH (फॉलिकल स्टिमुलेटिंग हार्मोन) वृषण को शुक्राणु कोशिकाएं बनाने के लिए उत्तेजित करता है। यह शुक्राणु उत्पादन को बढ़ावा देने के लिए शुक्राणु वाहिनियों पर कार्य करता है।"
+      }
     },
     {
       "question_name": {
@@ -68,7 +76,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The epididymis is a long, coiled tube located behind each testicle that stores and carries sperm. It's where sperm cells mature and gain the ability to swim.",
+        "hindi": "एपिडिडिमिस प्रत्येक वृषण के पीछे स्थित एक लंबी, कुंडलित नली है जो शुक्राणु को संग्रहित और वहन करती है। यहीं शुक्राणु कोशिकाएं परिपक्व होती हैं और तैरने की क्षमता प्राप्त करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -91,30 +103,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "LH (Luteinizing Hormone) triggers ovulation in females. It causes the mature follicle to rupture and release the egg from the ovary into the fallopian tube.",
+        "hindi": "महिलाओं में LH (ल्यूटिनाइजिंग हार्मोन) अंडोत्सर्जन को शुरू करता है। यह परिपक्व पुटिका को फटने और अंडाशय से अंडे को फैलोपियन ट्यूब में छोड़ने का कारण बनता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of capacitation?",
-        "hindi": "कैपासिटेशन की क्या भूमिका है?"
+        "english": "What is the function of pollen tube?",
+        "hindi": "परागनली का क्या कार्य है?"
       },
       "option": {
         "english": [
-          "Sperm movement",
-          "Sperm storage",
-          "Sperm maturation",
-          "Sperm activation"
+          "Store pollen",
+          "Produce pollen",
+          "Filter pollen",
+          "Transport male gametes"
         ],
         "hindi": [
-          "शुक्राणु गति",
-          "शुक्राणु संग्रह",
-          "शुक्राणु परिपक्वता",
-          "शुक्राणु सक्रियण"
+          "परागकण संग्रह",
+          "परागकण उत्पादन",
+          "परागकण छानना",
+          "नर युग्मक का परिवहन"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The pollen tube grows from the pollen grain through the style to reach the ovule. It carries male gametes (sperm cells) to the egg cell for fertilization in flowering plants.",
+        "hindi": "परागनली परागकण से वर्तिका के माध्यम से बीजांड तक बढ़ती है। यह फूलदार पौधों में निषेचन के लिए नर युग्मक (शुक्राणु कोशिकाओं) को अंडाणु तक ले जाती है।"
+      }
     },
     {
       "question_name": {
@@ -137,98 +157,118 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Acrosin is an enzyme found in the acrosome of sperm cells. It helps break down the outer covering of the egg cell, allowing the sperm to enter and fertilize the egg.",
+        "hindi": "एक्रोसिन एक एंजाइम है जो शुक्राणु कोशिकाओं के एक्रोसोम में पाया जाता है। यह अंडे की बाहरी परत को तोड़ने में मदद करता है, जिससे शुक्राणु अंडे में प्रवेश कर निषेचन कर सकता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the function of yolk sac?",
-        "hindi": "पीत कोष का क्या कार्य है?"
+        "english": "Which of the following helps in pollination?",
+        "hindi": "परागण में कौन सा मदद करता है?"
       },
       "option": {
         "english": [
-          "Gas exchange",
-          "Waste storage",
-          "Nutrient supply",
-          "Protection"
+          "Roots",
+          "Leaves",
+          "Insects",
+          "Stems"
         ],
         "hindi": [
-          "गैस विनिमय",
-          "अपशिष्ट संग्रह",
-          "पोषक तत्व आपूर्ति",
-          "सुरक्षा"
+          "जड़ें",
+          "पत्तियां",
+          "कीट",
+          "तना"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Insects like bees, butterflies, and moths help in pollination by carrying pollen grains from one flower to another while collecting nectar. This is called insect pollination.",
+        "hindi": "मधुमक्खियां, तितलियां और पतंगे जैसे कीट मकरंद एकत्र करते समय एक फूल से दूसरे फूल तक परागकणों को ले जाकर परागण में मदद करते हैं। इसे कीट परागण कहते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes implantation?",
-        "hindi": "रोपण का क्या कारण है?"
+        "english": "What is the use of condoms?",
+        "hindi": "कंडोम का क्या उपयोग है?"
       },
       "option": {
         "english": [
-          "High estrogen",
-          "Blastocyst enzymes",
-          "High FSH",
-          "High LH"
+          "Hormone control",
+          "Disease prevention",
+          "Pain relief",
+          "Blood control"
         ],
         "hindi": [
-          "उच्च एस्ट्रोजन",
-          "ब्लास्टोसिस्ट एंजाइम",
-          "उच्च FSH",
-          "उच्च LH"
+          "हार्मोन नियंत्रण",
+          "रोग रोकथाम",
+          "दर्द राहत",
+          "रक्त नियंत्रण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Condoms are barrier contraceptives that prevent pregnancy and protect against sexually transmitted diseases (STDs). They create a physical barrier preventing direct contact during sexual intercourse.",
+        "hindi": "कंडोम अवरोधक गर्भनिरोधक हैं जो गर्भावस्था को रोकते हैं और यौन संचारित रोगों से बचाते हैं। वे यौन संबंध के दौरान सीधे संपर्क को रोकने के लिए एक भौतिक बाधा बनाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of sperm centrosome?",
-        "hindi": "शुक्राणु सेंट्रोसोम की क्या भूमिका है?"
+        "english": "Which disease can be transmitted sexually?",
+        "hindi": "कौन सा रोग यौन संचारित होता है?"
       },
       "option": {
         "english": [
-          "Energy production",
-          "Movement control",
-          "DNA storage",
-          "Cell division"
+          "Diabetes",
+          "Arthritis",
+          "Asthma",
+          "AIDS"
         ],
         "hindi": [
-          "ऊर्जा उत्पादन",
-          "गति नियंत्रण",
-          "DNA संग्रह",
-          "कोशिका विभाजन"
+          "मधुमेह",
+          "गठिया",
+          "दमा",
+          "एड्स"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "AIDS (Acquired Immunodeficiency Syndrome) is caused by HIV virus which can be transmitted through sexual contact. It weakens the body's immune system making it vulnerable to other infections.",
+        "hindi": "एड्स (एक्वायर्ड इम्युनोडेफिशिएंसी सिंड्रोम) HIV वायरस के कारण होता है जो यौन संपर्क से फैल सकता है। यह शरीर की प्रतिरक्षा प्रणाली को कमजोर कर अन्य संक्रमणों के प्रति संवेदनशील बना देता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which protein blocks polyspermy?",
-        "hindi": "कौन सा प्रोटीन बहुशुक्रता को रोकता है?"
+        "english": "What is the significance of double fertilization in flowering plants?",
+        "hindi": "फूलदार पौधों में दोहरे निषेचन का क्या महत्व है?"
       },
       "option": {
         "english": [
-          "Fertilizin",
-          "Acrosin",
-          "Protamine",
-          "Hyaluronidase"
+          "One male gamete forms zygote, second forms endosperm",
+          "Two male gametes form two separate embryos",
+          "Two pollen tubes deliver sperm cells",
+          "Two ovules develop into seeds"
         ],
         "hindi": [
-          "फर्टिलिज़िन",
-          "एक्रोसिन",
-          "प्रोटामाइन",
-          "हायलूरोनिडेज"
+          "एक नर युग्मक युग्मनज बनाता है, दूसरा भ्रूणपोष बनाता है",
+          "दो नर युग्मक दो अलग भ्रूण बनाते हैं",
+          "दो परागनलियां शुक्राणु कोशिकाएं पहुंचाती हैं",
+          "दो बीजांड बीज में विकसित होते हैं"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard", 
+      "explanation": {
+        "english": "Double fertilization is a unique process in flowering plants (angiosperms) where two fertilization events occur simultaneously. One sperm cell fertilizes the egg cell to form a diploid zygote that develops into the embryo. The second sperm cell fuses with two polar nuclei in the central cell to form a triploid endosperm tissue, which provides nutrition to the developing embryo. This process ensures both embryo formation and nutritive tissue development, essential for seed development.",
+        "hindi": "दोहरे निषेचन फूलदार पौधों (आवृतबीजी) की एक विशिष्ट प्रक्रिया है जहां दो निषेचन घटनाएं एक साथ होती हैं। एक शुक्राणु कोशिका अंडाणु को निषेचित करके द्विगुणित युग्मनज बनाती है जो भ्रूण में विकसित होता है। दूसरी शुक्राणु कोशिका केंद्रीय कोशिका में दो ध्रुवीय केंद्रकों से संलयन करके त्रिगुणित भ्रूणपोष ऊतक बनाती है, जो विकासशील भ्रूण को पोषण प्रदान करता है। यह प्रक्रिया भ्रूण निर्माण और पोषक ऊतक विकास दोनों को सुनिश्चित करती है, जो बीज विकास के लिए आवश्यक है।"
+      }
     }
-  ]
+]

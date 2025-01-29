@@ -19,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Aluminum oxide (Al₂O₃) is an amphoteric oxide, which means it can react with both acids and bases. With acids: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O. With bases: Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]",
+        "hindi": "एल्युमिनियम ऑक्साइड (Al₂O₃) एक उभयधर्मी ऑक्साइड है, जिसका अर्थ है कि यह अम्ल और क्षार दोनों से क्रिया कर सकता है। अम्ल के साथ: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O। क्षार के साथ: Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Oxalic acid (H₂C₂O₄) is naturally present in spinach leaves. It gives spinach its slightly sour taste. However, excessive consumption should be avoided as it can interfere with calcium absorption in the body.",
+        "hindi": "ऑक्सैलिक एसिड (H₂C₂O₄) पालक के पत्तों में प्राकृतिक रूप से पाया जाता है। यह पालक को हल्का खट्टा स्वाद देता है। हालांकि, अधिक मात्रा में सेवन से बचना चाहिए क्योंकि यह शरीर में कैल्शियम के अवशोषण में बाधा डाल सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Vinegar has a pH less than 7 (around 2.5-3.5) because it contains acetic acid (CH₃COOH). Any solution with pH less than 7 is acidic. Vinegar is a common household acid used in cooking and cleaning.",
+        "hindi": "सिरके का pH 7 से कम (लगभग 2.5-3.5) होता है क्योंकि इसमें एसिटिक एसिड (CH₃COOH) होता है। pH 7 से कम वाला कोई भी विलयन अम्लीय होता है। सिरका एक सामान्य घरेलू अम्ल है जिसका उपयोग खाना पकाने और सफाई में किया जाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Potassium chloride (KCl) gives a neutral solution in water because it is formed from a strong acid (HCl) and strong base (KOH). When dissolved, K⁺ and Cl⁻ ions don't react with water (no hydrolysis), keeping the solution neutral with pH = 7.",
+        "hindi": "पोटैशियम क्लोराइड (KCl) जल में उदासीन विलयन देता है क्योंकि यह एक प्रबल अम्ल (HCl) और प्रबल क्षार (KOH) से बना है। घुलने पर, K⁺ और Cl⁻ आयन जल के साथ क्रिया नहीं करते (कोई जल-अपघटन नहीं), जिससे विलयन का pH = 7 रहता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Toothpaste is basic in nature (pH around 8-9) because it contains alkaline compounds like calcium carbonate (CaCO₃) and sodium bicarbonate (NaHCO₃). This basic nature helps neutralize acids produced by bacteria in the mouth, preventing tooth decay.",
+        "hindi": "टूथपेस्ट क्षारीय प्रकृति का होता है (pH लगभग 8-9) क्योंकि इसमें कैल्शियम कार्बोनेट (CaCO₃) और सोडियम बाइकार्बोनेट (NaHCO₃) जैसे क्षारीय यौगिक होते हैं। यह क्षारीय प्रकृति मुंह में बैक्टीरिया द्वारा उत्पादित अम्लों को उदासीन करने में मदद करती है, जिससे दांतों की सड़न से बचाव होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -121,19 +141,23 @@
       },
       "option": {
         "english": [
+          "Sulphuric acid",
           "Phenolphthalein",
-          "Methyl orange",
           "Water",
           "Alcohol"
         ],
         "hindi": [
+          "सल्फ्यूरिक एसिड",
           "फिनॉल्फ्थेलीन",
-          "मिथाइल ऑरेंज",
           "जल",
           "अल्कोहल"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Phenolphthalein is an acid-base indicator that shows different colors: colorless in acidic solutions (pH < 8.2) and pink in basic solutions (pH > 8.2). It is commonly used in laboratories to determine if a solution is acidic or basic.",
+        "hindi": "फिनॉल्फ्थेलीन एक अम्ल-क्षार सूचक है जो अलग-अलग रंग दिखाता है: अम्लीय विलयन में रंगहीन (pH < 8.2) और क्षारीय विलयन में गुलाबी (pH > 8.2)। इसका उपयोग प्रयोगशालाओं में किसी विलयन के अम्लीय या क्षारीय होने का पता लगाने के लिए किया जाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,29 +181,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "In an acid-base neutralization reaction, an acid reacts with a base to form salt and water. For example: HCl (acid) + NaOH (base) → NaCl (salt) + H₂O (water). This is a fundamental reaction where the acid and base neutralize each other's properties.",
+        "hindi": "अम्ल-क्षार उदासीनीकरण अभिक्रिया में, एक अम्ल एक क्षार से क्रिया करके लवण और जल बनाता है। उदाहरण के लिए: HCl (अम्ल) + NaOH (क्षार) → NaCl (लवण) + H₂O (जल)। यह एक मूल अभिक्रिया है जहां अम्ल और क्षार एक-दूसरे के गुणों को उदासीन करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "The pH of a solution is 2. Its H⁺ ion concentration is:",
-        "hindi": "एक विलयन का pH 2 है। इसकी H⁺ आयन सांद्रता है:"
+        "english": "If a solution has pH = 7.4, which of the following statements is correct?",
+        "hindi": "यदि किसी विलयन का pH = 7.4 है, तो निम्नलिखित में से कौन सा कथन सही है?"
       },
       "option": {
         "english": [
-          "1×10⁻² M",
-          "1×10⁻¹² M",
-          "2×10⁻² M",
-          "1×10⁻³ M"
+          "It is slightly basic solution",
+          "It is a strongly acidic solution",
+          "It is a strongly basic solution", 
+          "It is slightly acidic solution"
         ],
         "hindi": [
-          "1×10⁻² M",
-          "1×10⁻¹² M",
-          "2×10⁻² M",
-          "1×10⁻³ M"
+          "यह एक मृदु क्षारीय विलयन है",
+          "यह एक प्रबल अम्लीय विलयन है",
+          "यह एक प्रबल क्षारीय विलयन है", 
+          "यह एक मृदु अम्लीय विलयन है"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "A pH of 7.4 indicates a slightly basic solution because it's just above neutral (pH 7). This is similar to human blood pH, which is maintained between 7.35-7.45. Any pH between 7-8 is considered slightly basic.",
+        "hindi": "7.4 का pH एक मृदु क्षारीय विलयन को दर्शाता है क्योंकि यह उदासीन (pH 7) से थोड़ा ऊपर है। यह मानव रक्त के pH के समान है, जो 7.35-7.45 के बीच बना रहता है। 7-8 के बीच का कोई भी pH मृदु क्षारीय माना जाता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Sodium carbonate (Na₂CO₃) forms a basic solution in water because it undergoes hydrolysis: Na₂CO₃ + H₂O → NaHCO₃ + NaOH. The NaOH formed makes the solution basic. This is why Na₂CO₃ (washing soda) is used in cleaning.",
+        "hindi": "सोडियम कार्बोनेट (Na₂CO₃) जल में क्षारीय विलयन बनाता है क्योंकि यह जल-अपघटन करता है: Na₂CO₃ + H₂O → NaHCO₃ + NaOH। बना हुआ NaOH विलयन को क्षारीय बनाता है। इसीलिए Na₂CO₃ (धावन सोडा) का उपयोग सफाई में किया जाता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Sulphuric acid (H₂SO₄) is used in lead storage batteries. The battery works through this reaction: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O. During discharge, sulfuric acid is consumed, and during charging, it is regenerated. The acid acts as an electrolyte.",
+        "hindi": "लेड स्टोरेज बैटरियों में सल्फ्यूरिक एसिड (H₂SO₄) का उपयोग किया जाता है। बैटरी इस अभिक्रिया से काम करती है: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O। डिस्चार्ज के दौरान, सल्फ्यूरिक एसिड खपत होता है, और चार्जिंग के दौरान, यह पुनर्जनित होता है। एसिड विद्युत अपघट्य का काम करता है।"
+      },
       "image": null,
       "medium": "hard"
     }

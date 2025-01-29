@@ -1,137 +1,46 @@
 
+
 [
     {
       "question_name": {
-        "english": "In the given circuit, calculate the effective resistance between points A and B:",
-        "hindi": "दिए गए परिपथ में बिंदु A और B के बीच प्रभावी प्रतिरोध की गणना करें:"
+        "english": "Why is tungsten used in bulb filaments?",
+        "hindi": "बल्ब के फिलामेंट में टंगस्टन का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "4Ω",
-          "6Ω",
-          "8Ω",
-          "10Ω"
+          "Low melting point",
+          "High resistivity",
+          "High melting point and durability",
+          "Low cost"
         ],
         "hindi": [
-          "4Ω",
-          "6Ω",
-          "8Ω",
-          "10Ω"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='150' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><text x='60' y='45'>4Ω</text><text x='160' y='45'>8Ω</text><text x='110' y='95'>12Ω</text><text x='30' y='40'>A</text><text x='260' y='40'>B</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A heating coil draws 5A at 220V. If its radius is doubled keeping length constant, new current will be:",
-        "hindi": "एक हीटिंग कॉइल 220V पर 5A खींचता है। यदि लंबाई स्थिर रखते हुए इसकी त्रिज्या दोगुनी कर दी जाए, नई धारा होगी:"
-      },
-      "option": {
-        "english": [
-          "10A",
-          "15A",
-          "20A",
-          "25A"
-        ],
-        "hindi": [
-          "10A",
-          "15A",
-          "20A",
-          "25A"
+          "निम्न गलनांक",
+          "उच्च प्रतिरोधकता",
+          "उच्च गलनांक और टिकाऊपन",
+          "कम लागत"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Calculate the current through 6Ω resistor in this Wheatstone bridge:",
-        "hindi": "इस व्हीटस्टोन ब्रिज में 6Ω प्रतिरोधक से प्रवाहित धारा की गणना करें:"
+        "english": "What happens to the resistance of a superconductor below critical temperature?",
+        "hindi": "क्रांतिक तापमान से नीचे अतिचालक का प्रतिरोध क्या हो जाता है?"
       },
       "option": {
         "english": [
-          "0.5A",
-          "1.0A",
-          "1.5A",
-          "2.0A"
+          "Becomes zero",
+          "Increases sharply",
+          "Remains constant",
+          "Becomes infinite"
         ],
         "hindi": [
-          "0.5A",
-          "1.0A",
-          "1.5A",
-          "2.0A"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><line x1='150' y1='50' x2='50' y2='100' stroke='black'/><line x1='150' y1='50' x2='250' y2='100' stroke='black'/><line x1='50' y1='100' x2='150' y2='150' stroke='black'/><line x1='250' y1='100' x2='150' y2='150' stroke='black'/><text x='100' y='80'>6Ω</text><text x='200' y='80'>12Ω</text><text x='100' y='130'>12Ω</text><text x='200' y='130'>24Ω</text><text x='150' y='40'>12V</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Three identical cells of EMF 2V and internal resistance 0.2Ω each are connected in parallel. Calculate the current through a 1Ω external resistance:",
-        "hindi": "2V विद्युत वाहक बल और 0.2Ω आंतरिक प्रतिरोध वाली तीन समान सेल समानांतर में जुड़ी हैं। 1Ω बाह्य प्रतिरोध से प्रवाहित धारा की गणना करें:"
-      },
-      "option": {
-        "english": [
-          "4A",
-          "5A",
-          "6A",
-          "7A"
-        ],
-        "hindi": [
-          "4A",
-          "5A",
-          "6A",
-          "7A"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Find the potential difference across XY in the given network:",
-        "hindi": "दिए गए नेटवर्क में XY के बीच विभवांतर ज्ञात करें:"
-      },
-      "option": {
-        "english": [
-          "2V",
-          "4V",
-          "6V",
-          "8V"
-        ],
-        "hindi": [
-          "2V",
-          "4V",
-          "6V",
-          "8V"
-        ]
-      },
-      "answer": 2,
-      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='50' width='200' height='100' fill='none' stroke='black'/><line x1='100' y1='50' x2='100' y2='150' stroke='black'/><line x1='200' y1='50' x2='200' y2='150' stroke='black'/><text x='80' y='100'>12V</text><text x='130' y='100'>4Ω</text><text x='230' y='100'>8Ω</text><text x='90' y='40'>X</text><text x='90' y='170'>Y</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A wire of resistance 12Ω is cut into three equal parts which are connected in parallel. The equivalent resistance is:",
-        "hindi": "12Ω प्रतिरोध वाले तार को तीन बराबर भागों में काटा जाता है जो समानांतर में जुड़े हैं। तुल्य प्रतिरोध है:"
-      },
-      "option": {
-        "english": [
-          "1.33Ω",
-          "4Ω",
-          "36Ω",
-          "108Ω"
-        ],
-        "hindi": [
-          "1.33Ω",
-          "4Ω",
-          "36Ω",
-          "108Ω"
+          "शून्य हो जाता है",
+          "तेजी से बढ़ता है",
+          "स्थिर रहता है",
+          "अनंत हो जाता है"
         ]
       },
       "answer": 0,
@@ -140,90 +49,182 @@
     },
     {
       "question_name": {
-        "english": "Calculate the heat produced in joules when current in this circuit flows for 2 minutes:",
-        "hindi": "इस परिपथ में 2 मिनट तक धारा प्रवाहित होने पर जूल में उत्पन्न ऊष्मा की गणना करें:"
+        "english": "Calculate the energy consumed by a 1500W air conditioner in 8 hours:",
+        "hindi": "1500W के एयर कंडीशनर द्वारा 8 घंटे में खपत की गई ऊर्जा की गणना करें:"
       },
       "option": {
         "english": [
-          "14400J",
-          "28800J",
-          "43200J",
-          "57600J"
+          "10 kWh",
+          "12 kWh",
+          "14 kWh",
+          "16 kWh"
         ],
         "hindi": [
-          "14400J",
-          "28800J",
-          "43200J",
-          "57600J"
+          "10 किलोवाट घंटा",
+          "12 किलोवाट घंटा",
+          "14 किलोवाट घंटा",
+          "16 किलोवाट घंटा"
         ]
       },
-      "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='40' height='20' fill='none' stroke='black'/><text x='130' y='55'>6Ω</text><text x='80' y='70'>12V</text><rect x='120' y='90' width='40' height='20' fill='none' stroke='black'/><text x='130' y='105'>3Ω</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Two resistors when connected in series give 9Ω and in parallel give 2Ω. Their individual values are:",
-        "hindi": "दो प्रतिरोधक श्रेणीक्रम में जुड़ने पर 9Ω और समानांतर में जुड़ने पर 2Ω देते हैं। उनके व्यक्तिगत मान हैं:"
-      },
-      "option": {
-        "english": [
-          "3Ω, 6Ω",
-          "4Ω, 5Ω",
-          "2Ω, 7Ω",
-          "1Ω, 8Ω"
-        ],
-        "hindi": [
-          "3Ω, 6Ω",
-          "4Ω, 5Ω",
-          "2Ω, 7Ω",
-          "1Ω, 8Ω"
-        ]
-      },
-      "answer": 0,
+      "answer": 1,
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "In the given potentiometer circuit, find the position of null point if E1=2V and E2=1.5V:",
-        "hindi": "दिए गए विभवमापी परिपथ में, शून्य बिंदु की स्थिति ज्ञात करें यदि E1=2V और E2=1.5V है:"
+        "english": "Why are copper wires not suitable for overhead power transmission?",
+        "hindi": "ऊपरी बिजली संचरण के लिए तांबे के तार क्यों उपयुक्त नहीं हैं?"
       },
       "option": {
         "english": [
-          "60cm",
-          "75cm",
-          "80cm",
-          "90cm"
+          "High cost",
+          "Low tensile strength",
+          "High resistance",
+          "Both A and B"
         ],
         "hindi": [
-          "60cm",
-          "75cm",
-          "80cm",
-          "90cm"
+          "उच्च लागत",
+          "कम तन्य सामर्थ्य",
+          "उच्च प्रतिरोध",
+          "A और B दोनों"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the effect of connecting a voltmeter in series?",
+        "hindi": "वोल्टमीटर को श्रेणीक्रम में जोड़ने का क्या प्रभाव होता है?"
+      },
+      "option": {
+        "english": [
+          "Circuit breaks",
+          "Wrong reading",
+          "Voltmeter burns",
+          "All of these"
+        ],
+        "hindi": [
+          "परिपथ टूट जाता है",
+          "गलत पाठ्यांक",
+          "वोल्टमीटर जल जाता है",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "A wire of resistance 4Ω is stretched to double its length. Its new resistance will be:",
+        "hindi": "4Ω प्रतिरोध वाले तार को उसकी लंबाई का दोगुना खींचा जाता है। इसका नया प्रतिरोध होगा:"
+      },
+      "option": {
+        "english": [
+          "8Ω",
+          "16Ω",
+          "2Ω",
+          "4Ω"
+        ],
+        "hindi": [
+          "8Ω",
+          "16Ω",
+          "2Ω",
+          "4Ω"
         ]
       },
       "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='50' x2='250' y2='50' stroke='black'/><circle cx='150' cy='100' r='3' fill='black'/><text x='40' y='40'>E1</text><text x='260' y='40'>E2</text><text x='140' y='120'>G</text></svg>",
+      "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "A battery of EMF 12V and internal resistance 2Ω is connected to a resistor. If current in circuit is 2A, power dissipated in external resistor is:",
-        "hindi": "12V विद्युत वाहक बल और 2Ω आंतरिक प्रतिरोध वाली बैटरी एक प्रतिरोधक से जुड़ी है। यदि परिपथ में धारा 2A है, तो बाह्य प्रतिरोधक में व्यय शक्ति है:"
+        "english": "Why is electrical energy preferred over other forms of energy?",
+        "hindi": "विद्युत ऊर्जा को अन्य प्रकार की ऊर्जाओं से क्यों प्राथमिकता दी जाती है?"
       },
       "option": {
         "english": [
-          "16W",
-          "24W",
-          "32W",
-          "40W"
+          "Easy transmission",
+          "Clean energy",
+          "Easy conversion",
+          "All of these"
         ],
         "hindi": [
-          "16W",
-          "24W",
-          "32W",
-          "40W"
+          "आसान संचरण",
+          "स्वच्छ ऊर्जा",
+          "आसान रूपांतरण",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the resistance of copper wire at 100°C if its resistance at 20°C is 100Ω (α = 0.004/°C):",
+        "hindi": "100°C पर तांबे के तार का प्रतिरोध ज्ञात करें यदि 20°C पर इसका प्रतिरोध 100Ω है (α = 0.004/°C):"
+      },
+      "option": {
+        "english": [
+          "120Ω",
+          "132Ω",
+          "140Ω",
+          "152Ω"
+        ],
+        "hindi": [
+          "120Ω",
+          "132Ω",
+          "140Ω",
+          "152Ω"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What is the purpose of using high voltage in power transmission?",
+        "hindi": "विद्युत संचरण में उच्च वोल्टेज का उपयोग करने का क्या उद्देश्य है?"
+      },
+      "option": {
+        "english": [
+          "To reduce current",
+          "To reduce power loss",
+          "To reduce wire thickness",
+          "All of these"
+        ],
+        "hindi": [
+          "धारा कम करने के लिए",
+          "शक्ति हानि कम करने के लिए",
+          "तार की मोटाई कम करने के लिए",
+          "ये सभी"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Find the internal resistance of a cell if terminal voltage drops from 6V to 5.5V when current drawn is 5A:",
+        "hindi": "सेल का आंतरिक प्रतिरोध ज्ञात करें यदि 5A धारा खींचने पर टर्मिनल वोल्टेज 6V से 5.5V हो जाता है:"
+      },
+      "option": {
+        "english": [
+          "0.1Ω",
+          "0.2Ω",
+          "0.3Ω",
+          "0.4Ω"
+        ],
+        "hindi": [
+          "0.1Ω",
+          "0.2Ω",
+          "0.3Ω",
+          "0.4Ω"
         ]
       },
       "answer": 0,

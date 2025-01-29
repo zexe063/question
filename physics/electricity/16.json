@@ -1,233 +1,234 @@
 
+
 [
     {
       "question_name": {
-        "english": "Calculate the resistivity of a wire of length 2m, area 0.5mm² and resistance 10Ω:",
-        "hindi": "2 मीटर लंबाई, 0.5mm² क्षेत्रफल और 10Ω प्रतिरोध वाले तार की प्रतिरोधकता की गणना करें:"
+        "english": "Identify the electrical component shown in the diagram:",
+        "hindi": "चित्र में दर्शाए गए विद्युत घटक की पहचान करें:"
       },
       "option": {
         "english": [
-          "2.5 × 10⁻⁶ Ωm",
-          "2.5 × 10⁻⁷ Ωm",
-          "2.5 × 10⁻⁸ Ωm",
-          "2.5 × 10⁻⁹ Ωm"
+          "Resistor",
+          "Battery",
+          "Bulb",
+          "Switch"
         ],
         "hindi": [
-          "2.5 × 10⁻⁶ Ωm",
-          "2.5 × 10⁻⁷ Ωm",
-          "2.5 × 10⁻⁸ Ωm",
-          "2.5 × 10⁻⁹ Ωm"
+          "प्रतिरोधक",
+          "बैटरी",
+          "बल्ब",
+          "स्विच"
         ]
       },
       "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A wire of resistivity 3 × 10⁻⁶ Ωm has resistance 6Ω. If its length is 1m, what is its cross-sectional area?",
-        "hindi": "3 × 10⁻⁶ Ωm प्रतिरोधकता वाले तार का प्रतिरोध 6Ω है। यदि इसकी लंबाई 1m है, तो इसका अनुप्रस्थ काट क्षेत्रफल क्या है?"
-      },
-      "option": {
-        "english": [
-          "0.25 mm²",
-          "0.5 mm²",
-          "0.75 mm²",
-          "1.0 mm²"
-        ],
-        "hindi": [
-          "0.25 mm²",
-          "0.5 mm²",
-          "0.75 mm²",
-          "1.0 mm²"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "If resistivity of a wire is 1.68 × 10⁻⁸ Ωm at 20°C, what will be its value at 100°C? (α = 0.004/°C)",
-        "hindi": "यदि 20°C पर तार की प्रतिरोधकता 1.68 × 10⁻⁸ Ωm है, तो 100°C पर इसका मान क्या होगा? (α = 0.004/°C)"
-      },
-      "option": {
-        "english": [
-          "2.184 × 10⁻⁸ Ωm",
-          "2.352 × 10⁻⁸ Ωm",
-          "2.520 × 10⁻⁸ Ωm",
-          "2.688 × 10⁻⁸ Ωm"
-        ],
-        "hindi": [
-          "2.184 × 10⁻⁸ Ωm",
-          "2.352 × 10⁻⁸ Ωm",
-          "2.520 × 10⁻⁸ Ωm",
-          "2.688 × 10⁻⁸ Ωm"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Compare the resistivity of copper (1.68 × 10⁻⁸ Ωm) and aluminum (2.82 × 10⁻⁸ Ωm). How many times is aluminum more resistive?",
-        "hindi": "तांबे (1.68 × 10⁻⁸ Ωm) और एल्युमीनियम (2.82 × 10⁻⁸ Ωm) की प्रतिरोधकता की तुलना करें। एल्युमीनियम कितनी गुना अधिक प्रतिरोधी है?"
-      },
-      "option": {
-        "english": [
-          "1.5 times",
-          "1.68 times",
-          "1.75 times",
-          "1.82 times"
-        ],
-        "hindi": [
-          "1.5 गुना",
-          "1.68 गुना",
-          "1.75 गुना",
-          "1.82 गुना"
-        ]
-      },
-      "answer": 1,
-      "image": null,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='100' height='20' fill='none' stroke='black'/><text x='140' y='30'>?</text></svg>",
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "A wire is drawn to 4 times its original length. What happens to its resistivity?",
-        "hindi": "एक तार को उसकी मूल लंबाई का 4 गुना खींचा जाता है। इसकी प्रतिरोधकता में क्या होता है?"
+        "english": "What type of electrical meter is shown?",
+        "hindi": "किस प्रकार का विद्युत मीटर दर्शाया गया है?"
       },
       "option": {
         "english": [
-          "Becomes 4 times",
-          "Becomes 16 times",
-          "Remains same",
-          "Becomes 1/4 times"
+          "Ammeter",
+          "Voltmeter",
+          "Galvanometer",
+          "Wattmeter"
         ],
         "hindi": [
-          "4 गुना हो जाती है",
-          "16 गुना हो जाती है",
-          "समान रहती है",
-          "1/4 गुना हो जाती है"
+          "एमीटर",
+          "वोल्टमीटर",
+          "गैल्वेनोमीटर",
+          "वाटमीटर"
         ]
       },
-      "answer": 2,
-      "image": null,
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='50' r='20' fill='none' stroke='black'/><text x='145' y='55'>A</text></svg>",
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Calculate the length of aluminum wire needed to have same resistance as 1m copper wire of same area (ρAl/ρCu = 1.68):",
-        "hindi": "समान क्षेत्रफल वाले 1m तांबे के तार के बराबर प्रतिरोध के लिए आवश्यक एल्युमीनियम तार की लंबाई की गणना करें (ρAl/ρCu = 1.68):"
+        "english": "Which type of fuse symbol is this?",
+        "hindi": "यह किस प्रकार का फ्यूज प्रतीक है?"
       },
       "option": {
         "english": [
-          "0.595m",
-          "1.68m",
-          "2.68m",
-          "3.68m"
+          "Cartridge fuse",
+          "Wire fuse",
+          "HRC fuse",
+          "Rewirable fuse"
         ],
         "hindi": [
-          "0.595m",
-          "1.68m",
-          "2.68m",
-          "3.68m"
+          "कार्ट्रिज फ्यूज",
+          "तार फ्यूज",
+          "HRC फ्यूज",
+          "पुनः तार योग्य फ्यूज"
         ]
       },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+      "answer": 1,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='200' y2='50' stroke='black'/><line x1='130' y1='50' x2='170' y2='50' stroke='black' stroke-width='2'/></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Find the resistance of a 1km aluminum transmission line of cross-section 3.14mm² (ρAl = 2.82 × 10⁻⁸ Ωm):",
-        "hindi": "3.14mm² अनुप्रस्थ काट वाली 1km एल्युमीनियम संचरण लाइन का प्रतिरोध ज्ञात करें (ρAl = 2.82 × 10⁻⁸ Ωm):"
+        "english": "What does this combination of symbols represent?",
+        "hindi": "प्रतीकों का यह संयोजन क्या दर्शाता है?"
       },
       "option": {
         "english": [
-          "8.98Ω",
-          "9.98Ω",
-          "10.98Ω",
-          "11.98Ω"
+          "Series circuit",
+          "Parallel circuit",
+          "Mixed circuit",
+          "Open circuit"
         ],
         "hindi": [
-          "8.98Ω",
-          "9.98Ω",
-          "10.98Ω",
-          "11.98Ω"
+          "श्रेणी परिपथ",
+          "समानांतर परिपथ",
+          "मिश्रित परिपथ",
+          "खुला परिपथ"
         ]
       },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='100' stroke='black'/><line x1='250' y1='30' x2='250' y2='100' stroke='black'/></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the resistivity of nichrome if a 2m wire of area 0.4mm² has resistance 40Ω?",
-        "hindi": "नाइक्रोम की प्रतिरोधकता क्या है यदि 0.4mm² क्षेत्रफल के 2m तार का प्रतिरोध 40Ω है?"
+        "english": "Identify the type of switch shown:",
+        "hindi": "दर्शाए गए स्विच के प्रकार की पहचान करें:"
       },
       "option": {
         "english": [
-          "0.8 × 10⁻⁶ Ωm",
-          "1.0 × 10⁻⁶ Ωm",
-          "1.2 × 10⁻⁶ Ωm",
-          "1.4 × 10⁻⁶ Ωm"
+          "SPST switch",
+          "DPST switch",
+          "SPDT switch",
+          "DPDT switch"
         ],
         "hindi": [
-          "0.8 × 10⁻⁶ Ωm",
-          "1.0 × 10⁻⁶ Ωm",
-          "1.2 × 10⁻⁶ Ωm",
-          "1.4 × 10⁻⁶ Ωm"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Two wires A and B have same length but resistivity of A is twice that of B and area of A is half of B. Ratio of their resistances (RA:RB) is:",
-        "hindi": "दो तार A और B की लंबाई समान है लेकिन A की प्रतिरोधकता B की दोगुनी और A का क्षेत्रफल B का आधा है। उनके प्रतिरोधों का अनुपात (RA:RB) है:"
-      },
-      "option": {
-        "english": [
-          "1:1",
-          "2:1",
-          "4:1",
-          "1:4"
-        ],
-        "hindi": [
-          "1:1",
-          "2:1",
-          "4:1",
-          "1:4"
+          "SPST स्विच",
+          "DPST स्विच",
+          "SPDT स्विच",
+          "DPDT स्विच"
         ]
       },
       "answer": 2,
-      "image": null,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='50' x2='150' y2='30' stroke='black'/><circle cx='100' cy='50' r='3' fill='black'/><circle cx='180' cy='30' r='3' fill='black'/><circle cx='180' cy='70' r='3' fill='black'/></svg>",
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "A copper wire has resistivity 1.7 × 10⁻⁸ Ωm at 20°C. What will be the percentage increase in resistivity at 60°C? (α = 0.004/°C)",
-        "hindi": "20°C पर तांबे के तार की प्रतिरोधकता 1.7 × 10⁻⁸ Ωm है। 60°C पर प्रतिरोधकता में कितने प्रतिशत की वृद्धि होगी? (α = 0.004/°C)"
+        "english": "What type of bulb connection is shown in the diagram?",
+        "hindi": "चित्र में किस प्रकार का बल्ब कनेक्शन दर्शाया गया है?"
       },
       "option": {
         "english": [
-          "12%",
-          "14%",
-          "16%",
-          "18%"
+          "Series connection",
+          "Parallel connection",
+          "Mixed connection",
+          "Single bulb"
         ],
         "hindi": [
-          "12%",
-          "14%",
-          "16%",
-          "18%"
+          "श्रेणी कनेक्शन",
+          "समानांतर कनेक्शन",
+          "मिश्रित कनेक्शन",
+          "एकल बल्ब"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='50' r='15' fill='none' stroke='black'/><circle cx='200' cy='50' r='15' fill='none' stroke='black'/><line x1='50' y1='50' x2='250' y2='50' stroke='black'/><text x='95' y='55'>×</text><text x='195' y='55'>×</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which electrical component is connected incorrectly?",
+        "hindi": "कौन सा विद्युत घटक गलत जुड़ा है?"
+      },
+      "option": {
+        "english": [
+          "Ammeter",
+          "Voltmeter",
+          "Battery",
+          "Switch"
+        ],
+        "hindi": [
+          "एमीटर",
+          "वोल्टमीटर",
+          "बैटरी",
+          "स्विच"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='40' height='20' fill='none' stroke='black'/><circle cx='200' cy='60' r='15' fill='none' stroke='black'/><text x='195' y='65'>V</text><line x1='200' y1='45' x2='200' y2='75' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "What does this heating element symbol represent?",
+        "hindi": "यह तापन तत्व प्रतीक क्या दर्शाता है?"
+      },
+      "option": {
+        "english": [
+          "Electric heater",
+          "Electric iron",
+          "Water heater",
+          "Room heater"
+        ],
+        "hindi": [
+          "विद्युत हीटर",
+          "विद्युत इस्तरी",
+          "जल तापक",
+          "कमरा हीटर"
+        ]
+      },
+      "answer": 0,
+      "image": "<svg width='300' height='100' xmlns='http://www.w3.org/2000/svg'><path d='M 100 50 Q 150 30 200 50' fill='none' stroke='black'/><path d='M 100 60 Q 150 80 200 60' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Identify the earth connection symbol:",
+        "hindi": "अर्थ कनेक्शन प्रतीक की पहचान करें:"
+      },
+      "option": {
+        "english": [
+          "Symbol A",
+          "Symbol B",
+          "Symbol C",
+          "Symbol D"
+        ],
+        "hindi": [
+          "प्रतीक A",
+          "प्रतीक B",
+          "प्रतीक C",
+          "प्रतीक D"
         ]
       },
       "answer": 2,
-      "image": null,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='50' y2='70' stroke='black'/><line x1='30' y1='70' x2='70' y2='70' stroke='black'/><line x1='35' y1='80' x2='65' y2='80' stroke='black'/><line x1='40' y1='90' x2='60' y2='90' stroke='black'/><text x='40' y='110'>C</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What type of meter connection is shown for measuring high voltage?",
+        "hindi": "उच्च वोल्टेज मापने के लिए किस प्रकार का मीटर कनेक्शन दर्शाया गया है?"
+      },
+      "option": {
+        "english": [
+          "Direct connection",
+          "Series connection",
+          "Parallel connection",
+          "Multiplier connection"
+        ],
+        "hindi": [
+          "प्रत्यक्ष कनेक्शन",
+          "श्रेणी कनेक्शन",
+          "समानांतर कनेक्शन",
+          "गुणक कनेक्शन"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='60' r='20' fill='none' stroke='black'/><text x='145' y='65'>V</text><rect x='200' y='50' width='40' height='20' fill='none' stroke='black'/><text x='210' y='65'>R</text></svg>",
       "medium": "hard"
     }
   ]

@@ -1,47 +1,55 @@
 [
     {
       "question_name": {
-        "english": "Which metal is used in making jewelry?",
-        "hindi": "आभूषण बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Which oil or grease is used to prevent rusting of iron tools?",
+        "hindi": "लोहे के औजारों में जंग लगने से रोकने के लिए किस तेल या ग्रीस का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Gold",
-          "Iron",
-          "Copper",
-          "Zinc"
+          "Machine oil",
+          "Vegetable oil", 
+          "Kerosene",
+          "Diesel"
         ],
         "hindi": [
-          "सोना",
-          "लोहा",
-          "तांबा",
-          "जस्ता"
+          "मशीन का तेल",
+          "वनस्पति तेल",
+          "मिट्टी का तेल",
+          "डीजल"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Machine oil is used to prevent rusting of iron tools because it forms a protective layer on the iron surface that prevents contact with moisture and oxygen, which cause rusting. The reaction for rusting is: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (rust)",
+        "hindi": "मशीन का तेल लोहे के औजारों में जंग लगने से रोकने के लिए उपयोग किया जाता है क्योंकि यह लोहे की सतह पर एक सुरक्षात्मक परत बनाता है जो नमी और ऑक्सीजन के संपर्क को रोकता है, जो जंग का कारण बनते हैं। जंग लगने की अभिक्रिया है: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (जंग)"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which metal is used in making coins?",
-        "hindi": "सिक्के बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Which metal is used in chrome plating to give a shiny protective coating?",
+        "hindi": "क्रोम प्लेटिंग में चमकदार सुरक्षात्मक कोटिंग देने के लिए किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Lead",
-          "Copper",
-          "Mercury",
-          "Zinc"
+          "Iron",
+          "Chromium",
+          "Zinc",
+          "Nickel"
         ],
         "hindi": [
-          "सीसा",
-          "तांबा",
-          "पारा",
-          "जस्ता"
+          "लोहा",
+          "क्रोमियम",
+          "जस्ता",
+          "निकल"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Chromium is used in chrome plating because it provides a bright, shiny finish and protects the underlying metal from corrosion. The chromium coating is very hard and resistant to scratches. During electroplating, chromium ions from the solution are reduced to chromium metal on the object's surface.",
+        "hindi": "क्रोमियम का उपयोग क्रोम प्लेटिंग में किया जाता है क्योंकि यह चमकदार खत्म प्रदान करता है और नीचे की धातु को जंग से बचाता है। क्रोमियम की परत बहुत कठोर होती है और खरोंचों का प्रतिरोध करती है। विद्युत लेपन के दौरान, घोल से क्रोमियम आयन वस्तु की सतह पर क्रोमियम धातु में परिवर्तित हो जाते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,29 +73,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Solder is made from a lead-tin alloy because it has a low melting point (around 180-190°C) which makes it easy to melt and join metals. The typical ratio is 60% tin and 40% lead. When heated, it melts and forms strong metallic bonds with the metals being joined.",
+        "hindi": "सोल्डर सीसा-टिन मिश्रधातु से बनाया जाता है क्योंकि इसका गलनांक कम (लगभग 180-190°C) होता है जो इसे आसानी से पिघलाने और धातुओं को जोड़ने में मदद करता है। सामान्य अनुपात 60% टिन और 40% सीसा होता है। गरम करने पर, यह पिघल जाता है और जुड़ने वाली धातुओं के साथ मजबूत धात्विक बंध बनाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which metal is used in making electric bulb filaments?",
-        "hindi": "बिजली के बल्ब का फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Which metal is used in making catalytic converters in cars?",
+        "hindi": "कारों में उत्प्रेरक कनवर्टर बनाने में किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Copper",
           "Iron",
-          "Tungsten",
-          "Zinc"
+          "Copper",
+          "Platinum",
+          "Aluminum"
         ],
         "hindi": [
-          "तांबा",
           "लोहा",
-          "टंगस्टन",
-          "जस्ता"
+          "तांबा",
+          "प्लैटिनम",
+          "एल्युमिनियम"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Platinum is used in catalytic converters because it acts as a catalyst to convert harmful gases into less harmful ones. For example: Carbon monoxide is converted to carbon dioxide (2CO + O₂ → 2CO₂), and nitrogen oxides are converted to nitrogen and oxygen (2NO → N₂ + O₂).",
+        "hindi": "प्लैटिनम का उपयोग उत्प्रेरक कनवर्टर में किया जाता है क्योंकि यह हानिकारक गैसों को कम हानिकारक गैसों में बदलने के लिए उत्प्रेरक का काम करता है। उदाहरण के लिए: कार्बन मोनोऑक्साइड को कार्बन डाइऑक्साइड में बदला जाता है (2CO + O₂ → 2CO₂), और नाइट्रोजन ऑक्साइड को नाइट्रोजन और ऑक्सीजन में बदला जाता है (2NO → N₂ + O₂)।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,13 +127,17 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Silver is used in making mirrors because it is the best reflector of light among all metals (reflects about 95% of visible light). A thin layer of silver is deposited on glass through the silver mirror reaction: 2AgNO₃ + 2NaOH + C₆H₁₂O₆ → 2Ag + C₆H₁₂O₇ + 2NaNO₃ + H₂O",
+        "hindi": "दर्पण बनाने में चांदी का उपयोग किया जाता है क्योंकि यह सभी धातुओं में प्रकाश का सबसे अच्छा परावर्तक है (दृश्य प्रकाश का लगभग 95% परावर्तित करता है)। कांच पर चांदी की एक पतली परत सिल्वर मिरर अभिक्रिया द्वारा जमाई जाती है: 2AgNO₃ + 2NaOH + C₆H₁₂O₆ → 2Ag + C₆H₁₂O₇ + 2NaNO₃ + H₂O"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is formed when metals react with oxygen?",
-        "hindi": "धातुएं ऑक्सीजन से अभिक्रिया करने पर क्या बनता है?"
+        "english": "What is formed when metals react with Oxide?",
+        "hindi": "धातुएं ऑक्साइड से अभिक्रिया करने पर क्या बनता है?"
       },
       "option": {
         "english": [
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "When metals react with oxide, they form metal oxides. For example: 2Mg + O₂ → 2MgO (magnesium oxide), 4Na + O₂ → 2Na₂O (sodium oxide). These metal oxides are basic in nature and when dissolved in water form metal hydroxides.",
+        "hindi": "जब धातुएं ऑक्साइड से अभिक्रिया करती हैं, तो धातु ऑक्साइड बनते हैं। उदाहरण के लिए: 2Mg + O₂ → 2MgO (मैग्नीशियम ऑक्साइड), 4Na + O₂ → 2Na₂O (सोडियम ऑक्साइड)। ये धातु ऑक्साइड क्षारीय प्रकृति के होते हैं और पानी में घुलने पर धातु हाइड्रॉक्साइड बनाते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Chromium plating or chromium electroplating is the process of coating iron with chromium using electricity. The process involves passing an electric current through a solution of chromium salts (usually chromic acid, H₂CrO₄), where chromium ions are reduced to chromium metal on the iron surface: Cr³⁺ + 3e⁻ → Cr",
+        "hindi": "क्रोमियम लेपन या क्रोमियम विद्युत लेपन बिजली का उपयोग करके लोहे पर क्रोमियम की परत चढ़ाने की प्रक्रिया है। इस प्रक्रिया में क्रोमियम लवण के घोल (आमतौर पर क्रोमिक एसिड, H₂CrO₄) से विद्युत धारा प्रवाहित की जाती है, जहां क्रोमियम आयन लोहे की सतह पर क्रोमियम धातु में अपचयित हो जाते हैं: Cr³⁺ + 3e⁻ → Cr"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,53 +208,65 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Brass is an alloy of copper (Cu) and zinc (Zn). The typical composition is about 70% copper and 30% zinc. It has a golden-yellow color and is more durable than pure copper. Brass is used in making decorative items, musical instruments, and plumbing fittings because of its corrosion resistance and attractive appearance.",
+        "hindi": "पीतल तांबा (Cu) और जस्ता (Zn) का मिश्रधातु है। इसकी सामान्य संरचना लगभग 70% तांबा और 30% जस्ता होती है। इसका रंग सुनहरा-पीला होता है और यह शुद्ध तांबे से अधिक टिकाऊ होता है। पीतल का उपयोग सजावटी वस्तुएं, वाद्य यंत्र और प्लंबिंग फिटिंग बनाने में किया जाता है क्योंकि यह जंग प्रतिरोधी होता है और दिखने में आकर्षक होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which metal is most malleable?",
-        "hindi": "कौन सी धातु सबसे अधिक आघातवर्धनीय है?"
+        "english": "Why is brass used in making decorative items and musical instruments?",
+        "hindi": "सजावटी वस्तुएं और वाद्य यंत्र बनाने में पीतल का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Gold",
-          "Silver",
-          "Copper",
-          "Iron"
+          "Due to its attractive color and sonorous nature",
+          "Due to its strength",
+          "Due to its low cost",
+          "Due to its weight"
         ],
         "hindi": [
-          "सोना",
-          "चांदी",
-          "तांबा",
-          "लोहा"
+          "इसके आकर्षक रंग और स्वरयुक्त प्रकृति के कारण",
+          "इसकी मजबूती के कारण",
+          "इसकी कम कीमत के कारण",
+          "इसके वजन के कारण"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Brass is used in making decorative items and musical instruments because of its attractive golden color and sonorous nature (ability to produce sound). The regular crystalline structure and strong metallic bonds in brass allow it to vibrate uniformly when struck, producing clear musical notes. This property makes it ideal for instruments like trumpets and bells.",
+        "hindi": "पीतल का उपयोग सजावटी वस्तुएं और वाद्य यंत्र बनाने में किया जाता है क्योंकि इसका सुनहरा रंग आकर्षक होता है और यह स्वरयुक्त (ध्वनि उत्पन्न करने की क्षमता) होता है। पीतल में नियमित क्रिस्टलीय संरचना और मजबूत धात्विक बंध होते हैं जो इसे आघात करने पर एक समान कंपन करने देते हैं, जिससे स्पष्ट संगीतमय स्वर उत्पन्न होते हैं। यह गुण इसे तुरही और घंटी जैसे वाद्य यंत्रों के लिए आदर्श बनाता है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the process of obtaining pure metals from their ores called?",
-        "hindi": "अयस्कों से शुद्ध धातुओं को प्राप्त करने की प्रक्रिया को क्या कहते हैं?"
+        "english": "Which metal is used in making catalytic converters in cars?",
+        "hindi": "कारों में उत्प्रेरक कनवर्टर बनाने में किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Galvanization",
-          "Smelting",
-          "Metallurgy",
-          "Refining"
+          "Iron",
+          "Copper",
+          "Platinum",
+          "Aluminum"
         ],
         "hindi": [
-          "जस्तीकरण",
-          "प्रगलन",
-          "धातुकर्म",
-          "परिष्करण"
+          "लोहा",
+          "तांबा",
+          "प्लैटिनम",
+          "एल्युमिनियम"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Platinum is used in catalytic converters because it acts as a catalyst to convert harmful exhaust gases into less harmful ones. The reactions include: CO + ½O₂ → CO₂ (carbon monoxide to carbon dioxide) and 2NO → N₂ + O₂ (nitrogen oxide to nitrogen and oxygen). Platinum is not consumed in these reactions.",
+        "hindi": "प्लैटिनम का उपयोग उत्प्रेरक कनवर्टर में किया जाता है क्योंकि यह हानिकारक निकास गैसों को कम हानिकारक गैसों में बदलने के लिए उत्प्रेरक का काम करता है। अभिक्रियाएं हैं: CO + ½O₂ → CO₂ (कार्बन मोनोऑक्साइड से कार्बन डाइऑक्साइड) और 2NO → N₂ + O₂ (नाइट्रोजन ऑक्साइड से नाइट्रोजन और ऑक्सीजन)। इन अभिक्रियाओं में प्लैटिनम खपत नहीं होता है।"
+      },
       "image": null,
-      "medium": "hard"
+      "medium": "easy"
     }
 ]

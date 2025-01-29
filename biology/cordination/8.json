@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What is the function of corpus callosum?",
-        "hindi": "कॉर्पस कैलोसम का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Store memory",
-          "Control balance",
-          "Process vision",
-          "Connect hemispheres"
-        ],
-        "hindi": [
-          "स्मृति संग्रह",
-          "संतुलन नियंत्रण",
-          "दृष्टि प्रक्रिया",
-          "गोलार्धों को जोड़ना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which part of brain controls breathing?",
+      "hindi": "मस्तिष्क का कौन सा भाग श्वास को नियंत्रित करता है?"
     },
-    {
-      "question_name": {
-        "english": "Which part of brain processes vision?",
-        "hindi": "मस्तिष्क का कौन सा भाग दृष्टि को संसाधित करता है?"
-      },
-      "option": {
-        "english": [
-          "Temporal lobe",
-          "Frontal lobe",
-          "Occipital lobe",
-          "Parietal lobe"
-        ],
-        "hindi": [
-          "कनपटी पालि",
-          "ललाट पालि",
-          "पश्चकपाल पालि",
-          "पार्श्व पालि"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Cerebrum",
+        "Cerebellum", 
+        "Pons",
+        "Medulla"
+      ],
+      "hindi": [
+        "सेरेब्रम",
+        "सेरेबेलम",
+        "पोंस",
+        "मेडुला"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which gland secretes growth hormone?",
-        "hindi": "कौन सी ग्रंथि वृद्धि हार्मोन स्रावित करती है?"
-      },
-      "option": {
-        "english": [
-          "Pituitary",
-          "Thyroid",
-          "Pancreas",
-          "Adrenal"
-        ],
-        "hindi": [
-          "पीयूष",
-          "थायरॉइड",
-          "अग्न्याशय",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone controls ovulation?",
-        "hindi": "कौन सा हार्मोन अंडोत्सर्जन को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Estrogen",
-          "LH",
-          "Progesterone",
-          "FSH"
-        ],
-        "hindi": [
-          "एस्ट्रोजन",
-          "एलएच",
-          "प्रोजेस्टेरोन",
-          "एफएसएच"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of neurotransmitters?",
-        "hindi": "न्यूरोट्रांसमीटर की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Store energy",
-          "Filter blood",
-          "Produce hormones",
-          "Signal transmission"
-        ],
-        "hindi": [
-          "ऊर्जा संग्रह",
-          "रक्त छानना",
-          "हार्मोन उत्पादन",
-          "संकेत संचरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which gland produces glucagon?",
-        "hindi": "कौन सी ग्रंथि ग्लूकागॉन का उत्पादन करती है?"
-      },
-      "option": {
-        "english": [
-          "Pancreas",
-          "Thyroid",
-          "Pituitary",
-          "Adrenal"
-        ],
-        "hindi": [
-          "अग्न्याशय",
-          "थायरॉइड",
-          "पीयूष",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone promotes seed dormancy?",
-        "hindi": "कौन सा हार्मोन बीज प्रसुप्ति को बढ़ावा देता है?"
-      },
-      "option": {
-        "english": [
-          "Auxin",
-          "Cytokinin",
-          "Abscisic acid",
-          "Gibberellin"
-        ],
-        "hindi": [
-          "ऑक्सिन",
-          "साइटोकाइनिन",
-          "एब्सिसिक एसिड",
-          "जिबरेलिन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone deficiency causes dwarfism?",
-        "hindi": "किस हार्मोन की कमी से बौनापन होता है?"
-      },
-      "option": {
-        "english": [
-          "Thyroxine",
-          "Growth hormone",
-          "Insulin",
-          "Adrenaline"
-        ],
-        "hindi": [
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन",
-          "इंसुलिन",
-          "एड्रेनालिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of blood-brain barrier?",
-        "hindi": "रक्त-मस्तिष्क अवरोध का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Filter nutrients",
-          "Store glucose",
-          "Produce hormones",
-          "Protect brain"
-        ],
-        "hindi": [
-          "पोषक तत्व छानना",
-          "ग्लूकोज संग्रह",
-          "हार्मोन उत्पादन",
-          "मस्तिष्क की रक्षा"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Which gland is affected in Addison's disease?",
-        "hindi": "एडिसन रोग में कौन सी ग्रंथि प्रभावित होती है?"
-      },
-      "option": {
-        "english": [
-          "Adrenal",
-          "Thyroid",
-          "Pituitary",
-          "Pancreas"
-        ],
-        "hindi": [
-          "एड्रेनल",
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Medulla oblongata, located in the brain stem, controls involuntary actions like breathing, heart rate, blood pressure, coughing, and swallowing. It is a vital part that keeps us alive even when we are sleeping.",
+      "hindi": "मेडुला ऑब्लोंगाटा, जो मस्तिष्क के तने में स्थित है, सांस लेने, हृदय गति, रक्तचाप, खांसी और निगलने जैसी अनैच्छिक क्रियाओं को नियंत्रित करता है। यह एक महत्वपूर्ण भाग है जो हमें सोते समय भी जीवित रखता है।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "What type of tissue is present in our brain?",
+      "hindi": "हमारे मस्तिष्क में किस प्रकार का ऊतक पाया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Muscular tissue",
+        "Epithelial tissue",
+        "Nervous tissue", 
+        "Connective tissue"
+      ],
+      "hindi": [
+        "पेशीय ऊतक",
+        "उपकला ऊतक",
+        "तंत्रिका ऊतक",
+        "संयोजी ऊतक"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The brain is made up of nervous tissue, which consists of specialized cells called neurons. These neurons help in transmitting messages throughout our body in the form of electrical signals.",
+      "hindi": "मस्तिष्क तंत्रिका ऊतक से बना होता है, जिसमें न्यूरॉन नामक विशेष कोशिकाएं होती हैं। ये न्यूरॉन विद्युत संकेतों के रूप में हमारे पूरे शरीर में संदेशों को प्रेषित करने में मदद करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which response helps us maintain balance while walking?",
+      "hindi": "चलते समय संतुलन बनाए रखने में कौन सी प्रतिक्रिया मदद करती है?"
+    },
+    "option": {
+      "english": [
+        "Involuntary",
+        "Voluntary",
+        "Learned",
+        "Artificial"
+      ],
+      "hindi": [
+        "अनैच्छिक",
+        "ऐच्छिक",
+        "सीखी गई",
+        "कृत्रिम"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Involuntary responses, controlled by our cerebellum, help us maintain balance while walking. These responses happen automatically without our conscious effort, like adjusting muscle movements and posture.",
+      "hindi": "अनैच्छिक प्रतिक्रियाएं, जो हमारे सेरेबेलम द्वारा नियंत्रित होती हैं, चलते समय संतुलन बनाए रखने में मदद करती हैं। ये प्रतिक्रियाएं हमारे सचेत प्रयास के बिना स्वचालित रूप से होती हैं, जैसे मांसपेशियों की गति और मुद्रा को समायोजित करना।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What helps plants respond to light?",
+      "hindi": "पौधों को प्रकाश के प्रति प्रतिक्रिया में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Roots",
+        "Growth hormones",
+        "Flowers",
+        "Leaves"
+      ],
+      "hindi": [
+        "जड़ें",
+        "वृद्धि हार्मोन",
+        "फूल",
+        "पत्तियां"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Plant growth hormones, especially auxins, help plants respond to light. These hormones cause cells to grow longer on the darker side of the plant, making it bend towards light - a process called phototropism.",
+      "hindi": "पौधों के वृद्धि हार्मोन, विशेषकर ऑक्सिन, पौधों को प्रकाश के प्रति प्रतिक्रिया में मदद करते हैं। ये हार्मोन पौधे के अंधेरे भाग की कोशिकाओं को लंबा होने में मदद करते हैं, जिससे वह प्रकाश की ओर मुड़ता है - इस प्रक्रिया को प्रकाशानुवर्तन कहते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of neuron carries impulses away from cell body?",
+      "hindi": "न्यूरॉन का कौन सा भाग कोशिका काय से आवेग को दूर ले जाता है?"
+    },
+    "option": {
+      "english": [
+        "Dendrite",
+        "Cell body",
+        "Synapse",
+        "Axon"
+      ],
+      "hindi": [
+        "डेंड्राइट",
+        "कोशिका काय",
+        "सिनैप्स",
+        "एक्सॉन"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The axon is a long fiber that carries nerve impulses away from the cell body to other neurons or muscles. It is covered with a myelin sheath that helps in faster transmission of signals.",
+      "hindi": "एक्सॉन एक लंबी रेशेदार संरचना है जो तंत्रिका आवेगों को कोशिका काय से अन्य न्यूरॉन्स या मांसपेशियों तक ले जाती है। यह माइलिन आवरण से ढकी होती है जो संकेतों के तेज संचरण में मदद करती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of movement is shown by sunflower?",
+      "hindi": "सूरजमुखी किस प्रकार की गति दर्शाता है?"
+    },
+    "option": {
+      "english": [
+        "Phototropism",
+        "Geotropism",
+        "Hydrotropism",
+        "Thigmotropism"
+      ],
+      "hindi": [
+        "प्रकाशानुवर्तन",
+        "गुरुत्वानुवर्तन",
+        "जलानुवर्तन",
+        "स्पर्शानुवर्तन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Sunflowers show phototropism - the movement of plant parts in response to light. The flower head follows the sun's movement from east to west during the day, which helps maximize light absorption for photosynthesis.",
+      "hindi": "सूरजमुखी प्रकाशानुवर्तन दर्शाता है - यह प्रकाश के प्रति पौधे के भागों की गति है। फूल का सिर दिन के दौरान सूर्य की गति के साथ पूर्व से पश्चिम की ओर घूमता है, जो प्रकाश संश्लेषण के लिए प्रकाश अवशोषण को अधिकतम करने में मदद करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which tissue protects our brain?",
+      "hindi": "कौन सा ऊतक हमारे मस्तिष्क की रक्षा करता है?"
+    },
+    "option": {
+      "english": [
+        "Muscles",
+        "Blood",
+        "Meninges",
+        "Fat"
+      ],
+      "hindi": [
+        "मांसपेशियां",
+        "रक्त",
+        "मेनिन्जीज",
+        "वसा"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Meninges are three protective layers of tissue that cover the brain and spinal cord. They protect the brain from injury and provide a cushioning effect. The layers are called dura mater, arachnoid mater, and pia mater.",
+      "hindi": "मेनिन्जीज तीन सुरक्षात्मक ऊतक परतें हैं जो मस्तिष्क और रीढ़ की हड्डी को ढकती हैं। ये मस्तिष्क को चोट से बचाती हैं और गद्दीदार प्रभाव प्रदान करती हैं। इन परतों को ड्यूरा मेटर, एराक्नॉइड मेटर और पिया मेटर कहा जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What controls the sleep-wake cycle in humans?",
+      "hindi": "मनुष्यों में नींद-जागरण चक्र को कौन नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Cerebrum",
+        "Hypothalamus",
+        "Medulla",
+        "Pons"
+      ],
+      "hindi": [
+        "सेरेब्रम",
+        "हाइपोथैलेमस",
+        "मेडुला",
+        "पोंस"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "The hypothalamus controls our sleep-wake cycle (circadian rhythm). It responds to light and dark signals from our eyes and releases hormones like melatonin that make us feel sleepy or awake.",
+      "hindi": "हाइपोथैलेमस हमारे नींद-जागरण चक्र (सर्केडियन लय) को नियंत्रित करता है। यह हमारी आंखों से प्राप्त प्रकाश और अंधेरे के संकेतों पर प्रतिक्रिया करता है और मेलाटोनिन जैसे हार्मोन छोड़ता है जो हमें नींद या जागृत महसूस कराते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which disease is caused by lack of iodine?",
+      "hindi": "आयोडीन की कमी से कौन सा रोग होता है?"
+    },
+    "option": {
+      "english": [
+        "Diabetes",
+        "Dwarfism",
+        "Tetany",
+        "Goitre"
+      ],
+      "hindi": [
+        "मधुमेह",
+        "बौनापन",
+        "टेटनी",
+        "घेंघा"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Goitre is caused by iodine deficiency. Iodine is needed to make thyroid hormones. When there isn't enough iodine, the thyroid gland enlarges to try to produce more hormones, causing a visible swelling in the neck.",
+      "hindi": "घेंघा आयोडीन की कमी से होता है। थायरॉइड हार्मोन बनाने के लिए आयोडीन आवश्यक है। जब पर्याप्त आयोडीन नहीं होता, तो थायरॉइड ग्रंथि अधिक हार्मोन बनाने का प्रयास करती है और बड़ी हो जाती है, जिससे गर्दन में सूजन दिखाई देती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which disease is caused by malfunctioning of pancreas?",
+      "hindi": "अग्न्याशय के खराब कार्य से कौन सा रोग होता है?"
+    },
+    "option": {
+      "english": [
+        "Diabetes",
+        "Goitre",
+        "Gigantism",
+        "Tetany"
+      ],
+      "hindi": [
+        "मधुमेह",
+        "घेंघा",
+        "दैत्यता",
+        "टेटनी"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Diabetes is caused when the pancreas doesn't produce enough insulin or the body can't use insulin properly. Insulin helps regulate blood sugar levels. Without proper insulin function, blood sugar levels become too high.",
+      "hindi": "मधुमेह तब होता है जब अग्न्याशय पर्याप्त इंसुलिन नहीं बनाता या शरीर इंसुलिन का सही उपयोग नहीं कर पाता। इंसुलिन रक्त शर्करा के स्तर को नियंत्रित करने में मदद करता है। उचित इंसुलिन कार्य के बिना, रक्त शर्करा का स्तर बहुत अधिक हो जाता है।"
+    }
+  }
+]

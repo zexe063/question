@@ -1,234 +1,262 @@
-
-
 [
-    {
-      "question_name": {
-        "english": "What is the function of seminiferous tubules?",
-        "hindi": "शुक्रजनक नलिकाओं का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Sperm production",
-          "Hormone production",
-          "Sperm storage",
-          "Sperm transport"
-        ],
-        "hindi": [
-          "शुक्राणु उत्पादन",
-          "हार्मोन उत्पादन",
-          "शुक्राणु संग्रह",
-          "शुक्राणु परिवहन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What causes genetic variation?",
+      "hindi": "आनुवंशिक विविधता का क्या कारण है?"
     },
-    {
-      "question_name": {
-        "english": "Which structure produces testosterone?",
-        "hindi": "टेस्टोस्टेरोन किस संरचना से बनता है?"
-      },
-      "option": {
-        "english": [
-          "Seminiferous tubules",
-          "Leydig cells",
-          "Sertoli cells",
-          "Epididymis"
-        ],
-        "hindi": [
-          "शुक्रजनक नलिकाएं",
-          "लीडिग कोशिकाएं",
-          "सर्टोली कोशिकाएं",
-          "एपिडिडिमिस"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Sexual reproduction",
+        "Asexual reproduction", 
+        "Cloning",
+        "Budding"
+      ],
+      "hindi": [
+        "लैंगिक प्रजनन",
+        "अलैंगिक प्रजनन",
+        "क्लोनिंग",
+        "मुकुलन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What triggers labor contractions?",
-        "hindi": "प्रसव संकुचन को क्या प्रेरित करता है?"
-      },
-      "option": {
-        "english": [
-          "Progesterone",
-          "Relaxin",
-          "Estrogen",
-          "Oxytocin"
-        ],
-        "hindi": [
-          "प्रोजेस्टेरोन",
-          "रिलैक्सिन",
-          "एस्ट्रोजन",
-          "ऑक्सीटोसिन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of cervical mucus?",
-        "hindi": "सर्विकल म्यूकस का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Block bacteria",
-          "Store nutrients",
-          "Help sperm movement",
-          "Produce hormones"
-        ],
-        "hindi": [
-          "बैक्टीरिया रोकना",
-          "पोषक तत्व संग्रह",
-          "शुक्राणु गति में मदद",
-          "हार्मोन उत्पादन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which enzyme helps sperm penetrate egg?",
-        "hindi": "कौन सा एंजाइम शुक्राणु को अंडे में प्रवेश में मदद करता है?"
-      },
-      "option": {
-        "english": [
-          "Acrosin",
-          "Amylase",
-          "Lipase",
-          "Protease"
-        ],
-        "hindi": [
-          "एक्रोसिन",
-          "एमाइलेज",
-          "लाइपेज",
-          "प्रोटीएज"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What causes milk ejection?",
-        "hindi": "दूध निकलने का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "Prolactin",
-          "Estrogen",
-          "Progesterone",
-          "Oxytocin"
-        ],
-        "hindi": [
-          "प्रोलैक्टिन",
-          "एस्ट्रोजन",
-          "प्रोजेस्टेरोन",
-          "ऑक्सीटोसिन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of FSH in females?",
-        "hindi": "महिलाओं में FSH की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Trigger ovulation",
-          "Follicle development",
-          "Maintain pregnancy",
-          "Milk production"
-        ],
-        "hindi": [
-          "अंडोत्सर्जन प्रेरित करना",
-          "पुटिका विकास",
-          "गर्भावस्था बनाए रखना",
-          "दूध उत्पादन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of placental barrier?",
-        "hindi": "प्लेसेंटल अवरोध का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Hormone production",
-          "Nutrient storage",
-          "Selective transport",
-          "Waste removal"
-        ],
-        "hindi": [
-          "हार्मोन उत्पादन",
-          "पोषक तत्व संग्रह",
-          "चयनात्मक परिवहन",
-          "अपशिष्ट निष्कासन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What initiates sperm production?",
-        "hindi": "शुक्राणु उत्पादन की शुरुआत क्या करता है?"
-      },
-      "option": {
-        "english": [
-          "GnRH",
-          "Testosterone",
-          "Estrogen",
-          "Progesterone"
-        ],
-        "hindi": [
-          "GnRH",
-          "टेस्टोस्टेरोन",
-          "एस्ट्रोजन",
-          "प्रोजेस्टेरोन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What causes blastocyst implantation?",
-        "hindi": "ब्लास्टोसिस्ट रोपण का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "Estrogen",
-          "FSH",
-          "LH",
-          "Enzymes"
-        ],
-        "hindi": [
-          "एस्ट्रोजन",
-          "FSH",
-          "LH",
-          "एंजाइम"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+    "answer": 0,
+    "medium": "easy",
+    "explanation": {
+      "english": "Sexual reproduction combines genetic material from two parents, creating new combinations of genes that lead to variation in offspring. This helps species adapt and survive.",
+      "hindi": "लैंगिक प्रजनन दो जनकों से आनुवंशिक पदार्थ को मिलाता है, जो संतान में जीन के नए संयोजन बनाता है। यह प्रजातियों को अनुकूलन और जीवित रहने में मदद करता है।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which disease spreads through blood?",
+      "hindi": "कौन सा रोग रक्त से फैलता है?"
+    },
+    "option": {
+      "english": [
+        "Cholera",
+        "Hepatitis B",
+        "Flu",
+        "Typhoid"
+      ],
+      "hindi": [
+        "हैजा",
+        "हेपेटाइटिस बी",
+        "फ्लू",
+        "टाइफाइड"
+      ]
+    },
+    "answer": 1,
+    "medium": "easy",
+    "explanation": {
+      "english": "Hepatitis B virus spreads through infected blood and body fluids. It can be transmitted through blood transfusions, shared needles, or from mother to baby during childbirth.",
+      "hindi": "हेपेटाइटिस बी वायरस संक्रमित रक्त और शरीर के तरल पदार्थों से फैलता है। यह रक्त आधान, साझा सुइयों, या प्रसव के दौरान माँ से बच्चे में फैल सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What protects developing baby?",
+      "hindi": "विकसित हो रहे शिशु की रक्षा कौन करता है?"
+    },
+    "option": {
+      "english": [
+        "Uterus",
+        "Ovary",
+        "Cervix",
+        "Amniotic fluid"
+      ],
+      "hindi": [
+        "गर्भाशय",
+        "अंडाशय",
+        "गर्भाशय ग्रीवा",
+        "उल्ब द्रव"
+      ]
+    },
+    "answer": 3,
+    "medium": "easy",
+    "explanation": {
+      "english": "Amniotic fluid surrounds and cushions the developing baby in the womb. It protects from injury, helps maintain temperature, and allows movement for proper development.",
+      "hindi": "उल्ब द्रव गर्भ में विकसित हो रहे शिशु को घेरता और सुरक्षित रखता है। यह चोट से बचाता है, तापमान बनाए रखता है, और उचित विकास के लिए हलचल की अनुमति देता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What helps in natural contraception?",
+      "hindi": "प्राकृतिक गर्भनिरोधन में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Exercise",
+        "Sleep",
+        "Breastfeeding",
+        "Diet"
+      ],
+      "hindi": [
+        "व्यायाम",
+        "नींद",
+        "स्तनपान",
+        "आहार"
+      ]
+    },
+    "answer": 2,
+    "medium": "medium",
+    "explanation": {
+      "english": "Breastfeeding can act as a natural contraceptive method as it delays ovulation. This is called lactational amenorrhea and works best in the first 6 months after childbirth.",
+      "hindi": "स्तनपान एक प्राकृतिक गर्भनिरोधक विधि के रूप में काम कर सकता है क्योंकि यह अंडोत्सर्ग को विलंबित करता है। इसे स्तन्यस्रावी अनार्तव कहा जाता है और जन्म के बाद पहले 6 महीनों में सबसे अच्छा काम करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which plant reproduces by layering?",
+      "hindi": "कौन सा पौधा दाब कलम द्वारा प्रजनन करता है?"
+    },
+    "option": {
+      "english": [
+        "Jasmine",
+        "Wheat",
+        "Maize",
+        "Pea"
+      ],
+      "hindi": [
+        "चमेली",
+        "गेहूं",
+        "मक्का",
+        "मटर"
+      ]
+    },
+    "answer": 0,
+    "medium": "medium",
+    "explanation": {
+      "english": "Jasmine can reproduce through layering, where a stem touching soil develops roots while still attached to the parent plant. This is a form of vegetative propagation.",
+      "hindi": "चमेली दाब कलम द्वारा प्रजनन कर सकती है, जहां मिट्टी को छूने वाली शाखा मूल पौधे से जुड़ी रहते हुए जड़ें विकसित करती है। यह काय्यिक प्रवर्धन का एक रूप है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is needed for IVF?",
+      "hindi": "IVF के लिए क्या आवश्यक है?"
+    },
+    "option": {
+      "english": [
+        "Natural process",
+        "Regular checkup",
+        "Normal diet",
+        "Special lab"
+      ],
+      "hindi": [
+        "प्राकृतिक प्रक्रिया",
+        "नियमित जांच",
+        "सामान्य आहार",
+        "विशेष प्रयोगशाला"
+      ]
+    },
+    "answer": 3,
+    "medium": "medium",
+    "explanation": {
+      "english": "IVF requires a special laboratory with controlled conditions where eggs and sperm are combined outside the body. The fertilized egg is then implanted in the uterus.",
+      "hindi": "IVF के लिए नियंत्रित परिस्थितियों वाली विशेष प्रयोगशाला की आवश्यकता होती है जहां अंडे और शुक्राणु को शरीर के बाहर मिलाया जाता है। निषेचित अंडे को फिर गर्भाशय में प्रत्यारोपित किया जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which vaccine prevents birth defects?",
+      "hindi": "कौन सा टीका जन्म दोषों को रोकता है?"
+    },
+    "option": {
+      "english": [
+        "Polio",
+        "Rubella",
+        "BCG",
+        "DPT"
+      ],
+      "hindi": [
+        "पोलियो",
+        "रूबेला",
+        "बीसीजी",
+        "डीपीटी"
+      ]
+    },
+    "answer": 1,
+    "medium": "hard",
+    "explanation": {
+      "english": "Rubella vaccine prevents German measles which can cause serious birth defects if a pregnant woman gets infected. Vaccination before pregnancy protects the baby.",
+      "hindi": "रूबेला टीका जर्मन खसरा को रोकता है जो गर्भवती महिला के संक्रमित होने पर गंभीर जन्म दोष पैदा कर सकता है। गर्भावस्था से पहले टीकाकरण बच्चे की रक्षा करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes premature birth?",
+      "hindi": "समय से पहले जन्म का क्या कारण है?"
+    },
+    "option": {
+      "english": [
+        "Good diet",
+        "Regular exercise",
+        "Infection",
+        "Rest"
+      ],
+      "hindi": [
+        "अच्छा आहार",
+        "नियमित व्यायाम",
+        "संक्रमण",
+        "आराम"
+      ]
+    },
+    "answer": 2,
+    "medium": "hard",
+    "explanation": {
+      "english": "Infections during pregnancy can lead to premature birth by triggering early labor. Common infections include urinary tract infections and certain viral or bacterial infections.",
+      "hindi": "गर्भावस्था के दौरान संक्रमण समय से पहले प्रसव पीड़ा शुरू करके समय से पहले जन्म का कारण बन सकता है। सामान्य संक्रमणों में मूत्र मार्ग के संक्रमण और कुछ वायरल या बैक्टीरियल संक्रमण शामिल हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which method prevents STDs?",
+      "hindi": "कौन सी विधि यौन रोगों को रोकती है?"
+    },
+    "option": {
+      "english": [
+        "Safe sex",
+        "Exercise",
+        "Diet",
+        "Sleep"
+      ],
+      "hindi": [
+        "सुरक्षित यौन संबंध",
+        "व्यायाम",
+        "आहार",
+        "नींद"
+      ]
+    },
+    "answer": 0,
+    "medium": "hard",
+    "explanation": {
+      "english": "Safe sex practices, including using condoms, help prevent sexually transmitted diseases (STDs) by creating a barrier that stops the transmission of infectious organisms.",
+      "hindi": "कंडोम का उपयोग सहित सुरक्षित यौन संबंध अभ्यास, संक्रामक जीवों के प्रसार को रोकने वाली बाधा बनाकर यौन संचारित रोगों (एसटीडी) को रोकने में मदद करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which process is essential for DNA replication during reproduction?",
+      "hindi": "प्रजनन के दौरान डीएनए प्रतिकृति के लिए कौन सी प्रक्रिया आवश्यक है?"
+    },
+    "option": {
+      "english": [
+        "Transcription",
+        "Translation",
+        "Protein synthesis",
+        "DNA splitting"
+      ],
+      "hindi": [
+        "अनुलेखन",
+        "अनुवाद",
+        "प्रोटीन संश्लेषण",
+        "डीएनए विभाजन"
+      ]
+    },
+    "answer": 3,
+    "medium": "hard",
+    "explanation": {
+      "english": "DNA splitting (replication) is essential during reproduction as it creates exact copies of genetic material. Each new cell needs a complete set of DNA to function properly.",
+      "hindi": "प्रजनन के दौरान डीएनए विभाजन (प्रतिकृति) आवश्यक है क्योंकि यह आनुवंशिक पदार्थ की सटीक प्रतियां बनाता है। प्रत्येक नई कोशिका को ठीक से काम करने के लिए डीएनए का पूरा सेट चाहिए।"
+    }
+  }
+]

@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which acid is used in the manufacturing of artificial silk?",
-        "hindi": "कृत्रिम रेशम के निर्माण में किस अम्ल का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Acetic acid",
-          "Nitric acid",
-          "Sulphuric acid",
-          "Hydrochloric acid"
-        ],
-        "hindi": [
-          "एसीटिक एसिड",
-          "नाइट्रिक एसिड",
-          "सल्फ्यूरिक एसिड",
-          "हाइड्रोक्लोरिक एसिड"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Why do farmers add lime to acidic soil?",
-        "hindi": "किसान अम्लीय मिट्टी में चूना क्यों डालते हैं?"
-      },
-      "option": {
-        "english": [
-          "To kill insects",
-          "To add nutrients",
-          "To neutralize acidity",
-          "To retain moisture"
-        ],
-        "hindi": [
-          "कीड़ों को मारने के लिए",
-          "पोषक तत्व जोड़ने के लिए",
-          "अम्लीयता को उदासीन करने के लिए",
-          "नमी बनाए रखने के लिए"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which base is used in the manufacturing of soap?",
-        "hindi": "साबुन के निर्माण में किस क्षार का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "NaOH",
-          "KOH",
-          "Ca(OH)₂",
-          "Mg(OH)₂"
-        ],
-        "hindi": [
-          "NaOH",
-          "KOH",
-          "Ca(OH)₂",
-          "Mg(OH)₂"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Why does acid rain damage marble buildings?",
-        "hindi": "अम्लीय वर्षा संगमरमर की इमारतों को क्यों नुकसान पहुंचाती है?"
-      },
-      "option": {
-        "english": [
-          "Physical erosion",
-          "Chemical reaction",
-          "Water damage",
-          "Natural aging"
-        ],
-        "hindi": [
-          "भौतिक क्षरण",
-          "रासायनिक अभिक्रिया",
-          "जल क्षति",
-          "प्राकृतिक जीर्णता"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which salt is used in photography as 'hypo'?",
-        "hindi": "फोटोग्राफी में 'हाइपो' के रूप में किस लवण का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Sodium chloride",
-          "Sodium bromide",
-          "Sodium thiosulphate",
-          "Sodium nitrate"
-        ],
-        "hindi": [
-          "सोडियम क्लोराइड",
-          "सोडियम ब्रोमाइड",
-          "सोडियम थायोसल्फेट",
-          "सोडियम नाइट्रेट"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Why do bee keepers spray dilute solution of sodium bicarbonate on bee stings?",
-        "hindi": "मधुमक्खी पालक मधुमक्खी के डंक पर सोडियम बाइकार्बोनेट का तनु विलयन क्यों छिड़कते हैं?"
-      },
-      "option": {
-        "english": [
-          "To clean the area",
-          "To reduce swelling",
-          "To neutralize acid",
-          "To prevent infection"
-        ],
-        "hindi": [
-          "क्षेत्र को साफ करने के लिए",
-          "सूजन कम करने के लिए",
-          "अम्ल को उदासीन करने के लिए",
-          "संक्रमण रोकने के लिए"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which property of bases makes them useful in drain cleaners?",
-        "hindi": "क्षारों का कौन सा गुण उन्हें नाली क्लीनर में उपयोगी बनाता है?"
-      },
-      "option": {
-        "english": [
-          "Dissolve proteins",
-          "Kill bacteria",
-          "Remove rust",
-          "Break down fats"
-        ],
-        "hindi": [
-          "प्रोटीन को घोलना",
-          "बैक्टीरिया को मारना",
-          "जंग हटाना",
-          "वसा को तोड़ना"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why is sodium benzoate added to food products?",
-        "hindi": "खाद्य पदार्थों में सोडियम बेंजोएट क्यों मिलाया जाता है?"
-      },
-      "option": {
-        "english": [
-          "As flavoring",
-          "As preservative",
-          "As coloring",
-          "As sweetener"
-        ],
-        "hindi": [
-          "स्वाद के लिए",
-          "परिरक्षक के रूप में",
-          "रंग के लिए",
-          "मिठास के लिए"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "In lead storage batteries, what prevents the acid from spilling during transportation?",
-        "hindi": "लेड स्टोरेज बैटरियों में, परिवहन के दौरान अम्ल को फैलने से क्या रोकता है?"
-      },
-      "option": {
-        "english": [
-          "Plastic container",
-          "Rubber seal",
-          "Silica gel",
-          "Glass mat"
-        ],
-        "hindi": [
-          "प्लास्टिक पात्र",
-          "रबर सील",
-          "सिलिका जेल",
-          "ग्लास मैट"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Why is calcium hydroxide solution stored in sealed bottles?",
-        "hindi": "कैल्शियम हाइड्रॉक्साइड विलयन को सीलबंद बोतलों में क्यों रखा जाता है?"
-      },
-      "option": {
-        "english": [
-          "Prevents evaporation",
-          "Avoids CO₂ reaction",
-          "Maintains purity",
-          "Prevents leakage"
-        ],
-        "hindi": [
-          "वाष्पीकरण रोकने के लिए",
-          "CO₂ अभिक्रिया रोकने के लिए",
-          "शुद्धता बनाए रखने के लिए",
-          "रिसाव रोकने के लिए"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
+  {
+   "question_name": {
+       "english": "Which acid is used in the manufacturing of artificial silk?",
+       "hindi": "कृत्रिम रेशम के निर्माण में किस अम्ल का उपयोग किया जाता है?"
+     },
+     "option": {
+       "english": [
+         "Acetic acid",
+         "Sulphuric acid", 
+         "Nitric acid",
+         "Hydrochloric acid"
+       ],
+       "hindi": [
+         "एसीटिक एसिड",
+         "सल्फ्यूरिक एसिड",
+         "नाइट्रिक एसिड",
+         "हाइड्रोक्लोरिक एसिड"
+       ]
+     },
+     "answer": 1,
+     "image": null,
+     "medium": "easy",
+     "explanation": {
+       "english": "Sulphuric acid (H₂SO₄) is used to dissolve cellulose to make artificial silk (rayon). The cellulose reacts with sulphuric acid to form cellulose xanthate which is then converted to artificial silk.",
+       "hindi": "सल्फ्यूरिक एसिड (H₂SO₄) का उपयोग सेलूलोज को घोलने के लिए किया जाता है जिससे कृत्रिम रेशम (रेयॉन) बनता है। सेलूलोज सल्फ्यूरिक एसिड के साथ प्रतिक्रिया करके सेलूलोज जैंथेट बनाता है जो फिर कृत्रिम रेशम में परिवर्तित हो जाता है।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Why do farmers add lime to acidic soil?",
+       "hindi": "किसान अम्लीय मिट्टी में चूना क्यों डालते हैं?"
+     },
+     "option": {
+       "english": [
+         "To kill insects",
+         "To add nutrients",
+         "To retain moisture",
+         "To neutralize acidity"
+       ],
+       "hindi": [
+         "कीड़ों को मारने के लिए",
+         "पोषक तत्व जोड़ने के लिए",
+         "नमी बनाए रखने के लिए",
+         "अम्लीयता को उदासीन करने के लिए"
+       ]
+     },
+     "answer": 3,
+     "image": null,
+     "medium": "easy",
+     "explanation": {
+       "english": "Lime (calcium oxide, CaO) neutralizes acidic soil through the reaction: CaO + H₂O → Ca(OH)₂ followed by Ca(OH)₂ + 2H⁺ → Ca²⁺ + 2H₂O. This makes the soil suitable for growing crops.",
+       "hindi": "चूना (कैल्शियम ऑक्साइड, CaO) अम्लीय मिट्टी को इस प्रतिक्रिया द्वारा उदासीन करता है: CaO + H₂O → Ca(OH)₂ उसके बाद Ca(OH)₂ + 2H⁺ → Ca²⁺ + 2H₂O। यह मिट्टी को फसल उगाने के लिए उपयुक्त बनाता है।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "What is the formula of plaster of Paris?",
+       "hindi": "प्लास्टर ऑफ पेरिस का सूत्र क्या है?"
+     },
+     "option": {
+       "english": [
+         "CaSO₄",
+         "CaSO₄·H₂O",
+         "CaSO₄·½H₂O",
+         "CaSO₄·2H₂O"
+       ],
+       "hindi": [
+         "CaSO₄",
+         "CaSO₄·H₂O",
+         "CaSO₄·½H₂O",
+         "CaSO₄·2H₂O"
+       ]
+     },
+     "answer": 2,
+     "image": null,
+     "medium": "easy",
+     "explanation": {
+       "english": "Plaster of Paris (CaSO₄·½H₂O) is formed when gypsum (CaSO₄·2H₂O) is heated: CaSO₄·2H₂O → CaSO₄·½H₂O + 1½H₂O. When mixed with water, it rehardens: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O",
+       "hindi": "प्लास्टर ऑफ पेरिस (CaSO₄·½H₂O) जिप्सम (CaSO₄·2H₂O) को गरम करने पर बनता है: CaSO₄·2H₂O → CaSO₄·½H₂O + 1½H₂O। जब पानी के साथ मिलाया जाता है, यह फिर से कठोर हो जाता है: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Why does acid rain damage marble buildings?",
+       "hindi": "अम्लीय वर्षा संगमरमर की इमारतों को क्यों नुकसान पहुंचाती है?"
+     },
+     "option": {
+       "english": [
+         "Chemical reaction",
+         "Physical erosion",
+         "Water damage",
+         "Natural aging"
+       ],
+       "hindi": [
+         "रासायनिक अभिक्रिया",
+         "भौतिक क्षरण",
+         "जल क्षति",
+         "प्राकृतिक जीर्णता"
+       ]
+     },
+     "answer": 0,
+     "image": null,
+     "medium": "easy",
+     "explanation": {
+       "english": "Acid rain contains H₂SO₄ and HNO₃ which react with marble (CaCO₃): CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂. This reaction dissolves the marble, damaging the buildings.",
+       "hindi": "अम्लीय वर्षा में H₂SO₄ और HNO₃ होते हैं जो संगमरमर (CaCO₃) से प्रतिक्रिया करते हैं: CaCO₃ + H₂SO₄ → CaSO₄ + H₂O + CO₂। यह प्रतिक्रिया संगमरमर को घोल देती है, जिससे इमारतें क्षतिग्रस्त हो जाती हैं।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Which salt is used in photography as 'hypo'?",
+       "hindi": "फोटोग्राफी में 'हाइपो' के रूप में किस लवण का उपयोग किया जाता है?"
+     },
+     "option": {
+       "english": [
+         "Sodium chloride",
+         "Sodium thiosulphate",
+         "Sodium bromide",
+         "Sodium nitrate"
+       ],
+       "hindi": [
+         "सोडियम क्लोराइड",
+         "सोडियम थायोसल्फेट",
+         "सोडियम ब्रोमाइड",
+         "सोडियम नाइट्रेट"
+       ]
+     },
+     "answer": 1,
+     "image": null,
+     "medium": "easy",
+     "explanation": {
+       "english": "Sodium thiosulphate (Na₂S₂O₃) is used as 'hypo' in photography. It reacts with unused silver bromide to form a soluble complex: AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr",
+       "hindi": "सोडियम थायोसल्फेट (Na₂S₂O₃) का उपयोग फोटोग्राफी में 'हाइपो' के रूप में किया जाता है। यह अप्रयुक्त सिल्वर ब्रोमाइड से प्रतिक्रिया करके एक घुलनशील यौगिक बनाता है: AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Why do bee keepers spray dilute solution of sodium bicarbonate on bee stings?",
+       "hindi": "मधुमक्खी पालक मधुमक्खी के डंक पर सोडियम बाइकार्बोनेट का तनु विलयन क्यों छिड़कते हैं?"
+     },
+     "option": {
+       "english": [
+         "To clean the area",
+         "To reduce swelling",
+         "To neutralize acid",
+         "To prevent infection"
+       ],
+       "hindi": [
+         "क्षेत्र को साफ करने के लिए",
+         "सूजन कम करने के लिए",
+         "अम्ल को उदासीन करने के लिए",
+         "संक्रमण रोकने के लिए"
+       ]
+     },
+     "answer": 2,
+     "image": null,
+     "medium": "medium",
+     "explanation": {
+       "english": "Bee stings contain formic acid (HCOOH). Sodium bicarbonate (NaHCO₃) neutralizes this acid: HCOOH + NaHCO₃ → HCOONa + H₂O + CO₂, providing relief from the sting.",
+       "hindi": "मधुमक्खी के डंक में फॉर्मिक एसिड (HCOOH) होता है। सोडियम बाइकार्बोनेट (NaHCO₃) इस अम्ल को उदासीन करता है: HCOOH + NaHCO₃ → HCOONa + H₂O + CO₂, जो डंक से राहत प्रदान करता है।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Which property of bases makes them useful in drain cleaners?",
+       "hindi": "क्षारों का कौन सा गुण उन्हें नाली क्लीनर में उपयोगी बनाता है?"
+     },
+     "option": {
+       "english": [
+         "Kill bacteria",
+         "Remove rust",
+         "Break down fats",
+         "Dissolve proteins"
+       ],
+       "hindi": [
+         "बैक्टीरिया को मारना",
+         "जंग हटाना",
+         "वसा को तोड़ना",
+         "प्रोटीन को घोलना"
+       ]
+     },
+     "answer": 3,
+     "image": null,
+     "medium": "medium",
+     "explanation": {
+       "english": "Bases like NaOH in drain cleaners break peptide bonds in proteins through hydrolysis: R-CO-NH-R' + OH⁻ → R-COO⁻ + NH₂-R'. This dissolves hair and other protein-based clogs.",
+       "hindi": "नाली क्लीनर में मौजूद NaOH जैसे क्षार जलअपघटन द्वारा प्रोटीन में पेप्टाइड बंधों को तोड़ते हैं: R-CO-NH-R' + OH⁻ → R-COO⁻ + NH₂-R'। यह बाल और अन्य प्रोटीन-आधारित अवरोधों को घोल देता है।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Why is sodium benzoate added to food products?",
+       "hindi": "खाद्य पदार्थों में सोडियम बेंजोएट क्यों मिलाया जाता है?"
+     },
+     "option": {
+       "english": [
+        "As preservative",
+         "As flavoring",
+         "As coloring",
+         "As sweetener"
+       ],
+       "hindi": [
+        "परिरक्षक के रूप में",
+         "स्वाद के लिए",
+         "रंग के लिए",
+         "मिठास के लिए"
+       ]
+     },
+     "answer": 0,
+     "image": null,
+     "medium": "medium",
+     "explanation": {
+       "english": "Sodium benzoate (C₆H₅COONa) in acidic conditions forms benzoic acid: C₆H₅COONa + H⁺ → C₆H₅COOH + Na⁺. This benzoic acid prevents growth of microorganisms.",
+       "hindi": "सोडियम बेंजोएट (C₆H₅COONa) अम्लीय परिस्थितियों में बेंजोइक एसिड बनाता है: C₆H₅COONa + H⁺ → C₆H₅COOH + Na⁺। यह बेंजोइक एसिड सूक्ष्मजीवों की वृद्धि को रोकता है।"
+     }
+   },
+   {
+     "question_name": {
+       "english": "In lead storage batteries, what prevents the acid from spilling during transportation?",
+       "hindi": "लेड स्टोरेज बैटरियों में, परिवहन के दौरान अम्ल को फैलने से क्या रोकता है?"
+     },
+     "option": {
+       "english": [
+         "Plastic container",
+          "Glass mat",
+         "Rubber seal",
+         "Silica gel"
+       ],
+       "hindi": [
+         "प्लास्टिक पात्र",
+         "ग्लास मैट",
+         "रबर सील",
+         "सिलिका जेल"
+       ]
+     },
+     "answer": 1,
+     "image": null,
+     "medium": "hard",
+     "explanation": {
+       "english": "Glass mat absorbs H₂SO₄ through capillary action, preventing spillage while allowing the acid to participate in the battery reaction: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O",
+       "hindi": "ग्लास मैट केशिका क्रिया द्वारा H₂SO₄ को अवशोषित करता है, जो रिसाव को रोकता है और साथ ही अम्ल को बैटरी प्रतिक्रिया में भाग लेने देता है: Pb + PbO₂ + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O"
+     }
+   },
+   {
+     "question_name": {
+       "english": "Why is calcium hydroxide solution stored in sealed bottles?",
+       "hindi": "कैल्शियम हाइड्रॉक्साइड विलयन को सीलबंद बोतलों में क्यों रखा जाता है?"
+     },
+     "option": {
+       "english": [
+         "Prevents evaporation",
+         "Maintains purity",
+         "Avoids CO₂ reaction",
+         "Prevents leakage"
+       ],
+       "hindi": [
+         "वाष्पीकरण रोकने के लिए",
+         "शुद्धता बनाए रखने के लिए",
+         "CO₂ अभिक्रिया रोकने के लिए",
+         "रिसाव रोकने के लिए"
+       ]
+     },
+     "answer": 2,
+     "image": null,
+     "medium": "hard",
+     "explanation": {
+       "english": "Ca(OH)₂ reacts with CO₂ from air: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O. This forms insoluble CaCO₃ (calcium carbonate), reducing the solution's effectiveness. Sealed bottles prevent this reaction.",
+       "hindi": "Ca(OH)₂ हवा से CO₂ के साथ प्रतिक्रिया करता है: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O। इससे अघुलनशील CaCO₃ (कैल्शियम कार्बोनेट) बनता है, जो विलयन की प्रभावशीलता को कम करता है। सीलबंद बोतलें इस प्रतिक्रिया को रोकती हैं।"
+     }
+   }
 ]

@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃COOH (Acetic acid) is a weak acid because it partially ionizes in water. Strong acids like HCl, H₂SO₄, and HNO₃ completely ionize in water.",
+        "hindi": "CH₃COOH (एसीटिक एसिड) एक दुर्बल अम्ल है क्योंकि यह पानी में आंशिक रूप से आयनित होता है। HCl, H₂SO₄, और HNO₃ जैसे प्रबल अम्ल पानी में पूरी तरह से आयनित हो जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -30,7 +34,7 @@
       "option": {
         "english": [
           "Red",
-          "Blue",
+          "Blue", 
           "Yellow",
           "Green"
         ],
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Methyl orange is a pH indicator that turns yellow in basic solutions (pH > 7) and red in acidic solutions (pH < 7). This color change helps us identify if a solution is acidic or basic.",
+        "hindi": "मिथाइल ऑरेंज एक pH सूचक है जो क्षारीय विलयन में पीला (pH > 7) और अम्लीय विलयन में लाल (pH < 7) हो जाता है। यह रंग परिवर्तन हमें यह पहचानने में मदद करता है कि कोई विलयन अम्लीय है या क्षारीय।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Milk of magnesia contains Mg(OH)₂ (Magnesium hydroxide). It is a basic compound commonly used as an antacid to neutralize excess stomach acid: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O",
+        "hindi": "मैग्नीशिया का दूध Mg(OH)₂ (मैग्नीशियम हाइड्रॉक्साइड) युक्त होता है। यह एक क्षारीय यौगिक है जिसका उपयोग अधिक पेट के अम्ल को निष्प्रभावी करने के लिए एंटासिड के रूप में किया जाता है: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "A neutral solution has pH = 7. Solutions with pH < 7 are acidic, and solutions with pH > 7 are basic. Pure water is neutral with equal H⁺ and OH⁻ ions.",
+        "hindi": "एक उदासीन विलयन का pH = 7 होता है। pH < 7 वाले विलयन अम्लीय होते हैं, और pH > 7 वाले विलयन क्षारीय होते हैं। शुद्ध जल उदासीन होता है जिसमें H⁺ और OH⁻ आयन बराबर मात्रा में होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Citric acid (C₆H₈O₇) is naturally found in citrus fruits like oranges and lemons. It gives these fruits their sour taste. It is a weak organic acid commonly used as a natural preservative.",
+        "hindi": "साइट्रिक एसिड (C₆H₈O₇) प्राकृतिक रूप से संतरे और नींबू जैसे खट्टे फलों में पाया जाता है। यह इन फलों को खट्टा स्वाद प्रदान करता है। यह एक दुर्बल कार्बनिक अम्ल है जिसका उपयोग प्राकृतिक परिरक्षक के रूप में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When CO₂ is passed through lime water (Ca(OH)₂), it turns milky due to formation of insoluble calcium carbonate: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O. This is a common test for CO₂ gas.",
+        "hindi": "जब CO₂ को चूने के पानी (Ca(OH)₂) से गुजारा जाता है, तो अघुलनशील कैल्शियम कार्बोनेट बनने के कारण यह दूधिया हो जाता है: Ca(OH)₂ + CO₂ → CaCO₃↓ + H₂O. यह CO₂ गैस की पहचान के लिए एक सामान्य परीक्षण है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Baking powder contains NaHCO₃ (Sodium bicarbonate). When heated during baking, it decomposes to release CO₂ gas which makes the cake/bread rise: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑",
+        "hindi": "बेकिंग पाउडर में NaHCO₃ (सोडियम बाइकार्बोनेट) होता है। बेकिंग के दौरान गरम करने पर, यह CO₂ गैस छोड़ता है जो केक/ब्रेड को फुलाता है: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Neutralization is the reaction between an acid and a base to form salt and water. For example: HCl (acid) + NaOH (base) → NaCl (salt) + H₂O (water). The solution becomes neutral with pH = 7.",
+        "hindi": "उदासीनीकरण अम्ल और क्षार के बीच की अभिक्रिया है जिससे लवण और जल बनता है। उदाहरण: HCl (अम्ल) + NaOH (क्षार) → NaCl (लवण) + H₂O (जल)। विलयन का pH = 7 होकर उदासीन हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "For any solution at 25°C: pH + pOH = 14. So if pH = 3, then pOH = 14 - 3 = 11. This shows the solution is acidic as pH < 7.",
+        "hindi": "25°C पर किसी भी विलयन के लिए: pH + pOH = 14. इसलिए यदि pH = 3 है, तो pOH = 14 - 3 = 11. यह दर्शाता है कि विलयन अम्लीय है क्योंकि pH < 7 है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Sodium acetate is formed by neutralization reaction between acetic acid (CH₃COOH) and sodium hydroxide (NaOH): CH₃COOH + NaOH → CH₃COONa + H₂O. This is a typical acid-base reaction.",
+        "hindi": "सोडियम एसीटेट एसीटिक एसिड (CH₃COOH) और सोडियम हाइड्रॉक्साइड (NaOH) के बीच उदासीनीकरण अभिक्रिया से बनता है: CH₃COOH + NaOH → CH₃COONa + H₂O. यह एक विशिष्ट अम्ल-क्षार अभिक्रिया है।"
+      }
     }
 ]

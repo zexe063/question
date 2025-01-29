@@ -6,19 +6,23 @@
       },
       "option": {
         "english": [
-          "Brass",
+          "Aluminum",
           "Lead",
-          "Iron",
+          "Iron oxide", 
           "Mercury"
         ],
         "hindi": [
-          "पीतल",
+          "एल्युमिनियम",
           "सीसा",
-          "लोहा",
+          "लोहा ऑक्साइड",
           "पारा"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Aluminum is used for making cooking vessels because it is lightweight, good conductor of heat, does not react with food, and is resistant to corrosion. It is also affordable and readily available.",
+        "hindi": "एल्युमिनियम का उपयोग खाना पकाने के बर्तन बनाने में किया जाता है क्योंकि यह हल्का होता है, ऊष्मा का अच्छा चालक है, भोजन के साथ प्रतिक्रिया नहीं करता है, और जंग प्रतिरोधी होता है। यह सस्ता और आसानी से उपलब्ध भी होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -30,7 +34,7 @@
       "option": {
         "english": [
           "Iron",
-          "Lead",
+          "Lead", 
           "Bronze",
           "Aluminum"
         ],
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Bronze (an alloy of copper and tin) is used for making bells because it produces good resonant sound when struck. It is also durable and resistant to corrosion. The composition of bronze (88% copper + 12% tin) gives it the perfect properties for bell making.",
+        "hindi": "कांसा (तांबा और टिन की मिश्रधातु) का उपयोग घंटी बनाने में किया जाता है क्योंकि टकराने पर यह अच्छी गूंजदार ध्वनि उत्पन्न करता है। यह टिकाऊ और जंग प्रतिरोधी भी होता है। कांसे की संरचना (88% तांबा + 12% टिन) इसे घंटी बनाने के लिए एकदम सही गुण प्रदान करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Dental amalgam (a mixture of mercury with other metals like silver, tin, and copper) is used for dental fillings. It is strong, durable and can withstand the forces of biting and chewing. The composition is typically: Mercury (50%) + Silver (35%) + Tin (13%) + Copper (2%)",
+        "hindi": "दांतों की फिलिंग में डेंटल अमलगम (पारा और अन्य धातुओं जैसे चांदी, टिन, और तांबे का मिश्रण) का उपयोग किया जाता है। यह मजबूत, टिकाऊ होता है और चबाने और काटने के दबाव को सहन कर सकता है। इसकी सामान्य संरचना है: पारा (50%) + चांदी (35%) + टिन (13%) + तांबा (2%)"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Aluminum is used in making aircraft bodies because it is very lightweight yet strong. It has a low density (2.7 g/cm³) compared to iron (7.9 g/cm³). It also forms a protective oxide layer that prevents corrosion. These properties make it ideal for aircraft construction.",
+        "hindi": "विमान के बॉडी बनाने में एल्युमिनियम का उपयोग किया जाता है क्योंकि यह बहुत हल्का होने के साथ-साथ मजबूत भी होता है। इसका घनत्व (2.7 ग्राम/सेमी³) लोहे (7.9 ग्राम/सेमी³) की तुलना में कम होता है। यह एक सुरक्षात्मक ऑक्साइड परत भी बनाता है जो जंग को रोकती है। ये गुण इसे विमान निर्माण के लिए आदर्श बनाते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Mercury is the only metal that exists as a liquid at room temperature (25°C). It has a very low melting point of -38.83°C. This unique property makes it useful in thermometers and other measuring instruments. However, mercury is toxic and must be handled with care.",
+        "hindi": "पारा एकमात्र धातु है जो कमरे के तापमान (25°C) पर तरल अवस्था में पाई जाती है। इसका गलनांक बहुत कम -38.83°C होता है। यह विशेष गुण इसे थर्मामीटर और अन्य मापक यंत्रों में उपयोगी बनाता है। हालांकि, पारा विषैला होता है और इसे सावधानी से उपयोग करना चाहिए।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Galvanization is the process of coating iron with zinc to prevent rusting. The zinc layer acts as a sacrificial metal and corrodes first, protecting the iron underneath. The reaction during rusting is: Fe + O₂ + H₂O → Fe₂O₃·xH₂O (rust). Zinc coating prevents this reaction by forming a protective layer.",
+        "hindi": "जस्तीकरण लोहे पर जंग लगने से बचाने के लिए जस्ते (zinc) की परत चढ़ाने की प्रक्रिया है। जस्ते की परत त्यागी धातु की तरह काम करती है और पहले स्वयं क्षय होती है, जिससे नीचे का लोहा सुरक्षित रहता है। जंग लगने की अभिक्रिया है: Fe + O₂ + H₂O → Fe₂O₃·xH₂O (जंग)। जस्ते की परत एक सुरक्षात्मक परत बनाकर इस अभिक्रिया को रोकती है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Steel is an alloy of iron and carbon (0.05% to 2% carbon). Adding carbon makes iron stronger and harder. Different types of steel are made by varying the carbon content: Mild steel (0.25-0.5% C) for construction, High carbon steel (0.5-1.5% C) for tools and machinery.",
+        "hindi": "स्टील लोहे और कार्बन की मिश्रधातु है (0.05% से 2% कार्बन)। कार्बन मिलाने से लोहा अधिक मजबूत और कठोर हो जाता है। कार्बन की मात्रा बदलकर विभिन्न प्रकार की स्टील बनाई जाती है: मृदु इस्पात (0.25-0.5% C) निर्माण कार्य के लिए, उच्च कार्बन इस्पात (0.5-1.5% C) औजार और मशीनरी के लिए।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Iron is used in making electromagnets because it is ferromagnetic - it can be temporarily magnetized by an electric current. When current flows through a copper wire wrapped around an iron core, the iron becomes magnetic. When current stops, it loses its magnetic properties.",
+        "hindi": "विद्युत चुंबक बनाने में लोहे का उपयोग किया जाता है क्योंकि यह लौह-चुंबकीय है - यह विद्युत धारा द्वारा अस्थायी रूप से चुंबकित हो सकता है। जब तांबे के तार को लोहे के कोर पर लपेटकर विद्युत धारा प्रवाहित की जाती है, तो लोहा चुंबकीय हो जाता है। जब धारा बंद हो जाती है, तो यह अपने चुंबकीय गुण खो देता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Rust is iron oxide hydrate (Fe₂O₃·xH₂O). It forms when iron reacts with oxygen in the presence of moisture. The reaction is: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O. Rust is reddish-brown in color and makes iron weak and brittle. This process is called corrosion.",
+        "hindi": "जंग आयरन ऑक्साइड हाइड्रेट (Fe₂O₃·xH₂O) है। यह तब बनता है जब लोहा नमी की उपस्थिति में ऑक्सीजन से प्रतिक्रिया करता है। अभिक्रिया है: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O। जंग लाल-भूरे रंग का होता है और लोहे को कमजोर और भंगुर बना देता है। इस प्रक्रिया को संक्षारण कहते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Iron is used as a catalyst in Haber's process for manufacturing ammonia. The reaction is: N₂ + 3H₂ ⇌ 2NH₃. Iron helps speed up the reaction without being consumed. The process requires high pressure (200 atm), moderate temperature (450°C), and iron catalyst to get good yield.",
+        "hindi": "हैबर की प्रक्रिया में अमोनिया बनाने के लिए लोहे का उपयोग उत्प्रेरक के रूप में किया जाता है। अभिक्रिया है: N₂ + 3H₂ ⇌ 2NH₃। लोहा बिना खपत हुए अभिक्रिया को तेज करने में मदद करता है। अच्छी उपज के लिए इस प्रक्रिया में उच्च दाब (200 वायुमंडल), मध्यम तापमान (450°C), और लोहे के उत्प्रेरक की आवश्यकता होती है।"
+      },
       "image": null,
       "medium": "hard"
     }

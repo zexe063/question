@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which metal is most commonly used in electrical wiring?",
-        "hindi": "विद्युत तारों में सबसे अधिक किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Iron",
-          "Zinc",
-          "Copper",
-          "Lead"
-        ],
-        "hindi": [
-          "लोहा",
-          "जस्ता",
-          "तांबा",
-          "सीसा"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which metal is used in making solar cells?",
+      "hindi": "सौर सेल बनाने में किस धातु का उपयोग किया जाता है?"
     },
-    {
-      "question_name": {
-        "english": "Which metal reacts most vigorously with water?",
-        "hindi": "कौन सी धातु पानी के साथ सबसे तीव्र अभिक्रिया करती है?"
-      },
-      "option": {
-        "english": [
-          "Sodium",
-          "Iron",
-          "Zinc",
-          "Copper"
-        ],
-        "hindi": [
-          "सोडियम",
-          "लोहा",
-          "जस्ता",
-          "तांबा"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Iron",
+        "Copper", 
+        "Silicon",
+        "Aluminum"
+      ],
+      "hindi": [
+        "लोहा",
+        "तांबा",
+        "सिलिकॉन",
+        "एल्युमिनियम"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which property allows metals to be beaten into sheets?",
-        "hindi": "कौन सा गुण धातुओं को चादर में परिवर्तित करने की अनुमति देता है?"
-      },
-      "option": {
-        "english": [
-          "Ductility",
-          "Malleability",
-          "Sonority",
-          "Conductivity"
-        ],
-        "hindi": [
-          "तन्यता",
-          "आघातवर्धनीयता",
-          "ध्वनिकता",
-          "चालकता"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "answer": 2,
+    "explanation": {
+      "english": "Silicon is used in making solar cells because it is a semiconductor that can convert sunlight into electricity through the photovoltaic effect. When sunlight hits silicon, it causes electrons to move, creating an electric current. Silicon is abundant, stable and efficient for solar cells.",
+      "hindi": "सिलिकॉन का उपयोग सौर सेल बनाने में किया जाता है क्योंकि यह एक अर्धचालक है जो प्रकाश-विद्युत प्रभाव के माध्यम से सूर्य के प्रकाश को बिजली में बदल सकता है। जब सूर्य का प्रकाश सिलिकॉन पर पड़ता है, तो यह इलेक्ट्रॉनों को गति प्रदान करता है, जिससे विद्युत धारा उत्पन्न होती है। सिलिकॉन प्रचुर मात्रा में उपलब्ध है, स्थिर है और सौर सेल के लिए कुशल है।"
     },
-    {
-      "question_name": {
-        "english": "What prevents iron from rusting?",
-        "hindi": "लोहे को जंग लगने से क्या बचाता है?"
-      },
-      "option": {
-        "english": [
-          "Water",
-          "Oxygen",
-          "Paint",
-          "Galvanization"
-        ],
-        "hindi": [
-          "पानी",
-          "ऑक्सीजन",
-          "पेंट",
-          "जस्तीकरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which metal reacts most vigorously with water?",
+      "hindi": "कौन सी धातु पानी के साथ सबसे तीव्र अभिक्रिया करती है?"
     },
-    {
-      "question_name": {
-        "english": "Which metal is used in making water pipes?",
-        "hindi": "पानी की पाइप बनाने में किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Lead",
-          "Mercury",
-          "Galvanized iron",
-          "Silver"
-        ],
-        "hindi": [
-          "सीसा",
-          "पारा",
-          "जस्ती लोहा",
-          "चांदी"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Sodium",
+        "Iron",
+        "Zinc",
+        "Copper"
+      ],
+      "hindi": [
+        "सोडियम",
+        "लोहा",
+        "जस्ता",
+        "तांबा"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the nature of metallic oxides?",
-        "hindi": "धातु ऑक्साइड की प्रकृति कैसी होती है?"
-      },
-      "option": {
-        "english": [
-          "Acidic",
-          "Basic",
-          "Neutral",
-          "Amphoteric"
-        ],
-        "hindi": [
-          "अम्लीय",
-          "क्षारीय",
-          "उदासीन",
-          "उभयधर्मी"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
+    "answer": 0,
+    "explanation": {
+      "english": "Sodium reacts most vigorously with water because it is highly reactive alkali metal. The reaction produces sodium hydroxide and hydrogen gas: 2Na + 2H₂O → 2NaOH + H₂. The reaction is so vigorous that the hydrogen produced catches fire and sodium dances on water surface with a hissing sound.",
+      "hindi": "सोडियम पानी के साथ सबसे तीव्र अभिक्रिया करता है क्योंकि यह एक अत्यधिक क्रियाशील क्षार धातु है। अभिक्रिया से सोडियम हाइड्रॉक्साइड और हाइड्रोजन गैस बनती है: 2Na + 2H₂O → 2NaOH + H₂. अभिक्रिया इतनी तीव्र होती है कि उत्पन्न हाइड्रोजन आग पकड़ लेती है और सोडियम फुसफुसाहट की आवाज के साथ पानी की सतह पर नाचता है।"
     },
-    {
-      "question_name": {
-        "english": "Which gas is produced when metals react with dilute acids?",
-        "hindi": "धातुएं तनु अम्लों से अभिक्रिया करके कौन सी गैस बनाती हैं?"
-      },
-      "option": {
-        "english": [
-          "Hydrogen",
-          "Oxygen",
-          "Carbon dioxide",
-          "Nitrogen"
-        ],
-        "hindi": [
-          "हाइड्रोजन",
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which property allows metals to be beaten into sheets?",
+      "hindi": "कौन सा गुण धातुओं को चादर में परिवर्तित करने की अनुमति देता है?"
     },
-    {
-      "question_name": {
-        "english": "What is the process of obtaining metals from their ores called?",
-        "hindi": "अयस्कों से धातुओं को प्राप्त करने की प्रक्रिया को क्या कहते हैं?"
-      },
-      "option": {
-        "english": [
-          "Galvanization",
-          "Smelting",
-          "Alloying",
-          "Metallurgy"
-        ],
-        "hindi": [
-          "जस्तीकरण",
-          "प्रगलन",
-          "मिश्रधातु",
-          "धातुकर्म"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Ductility",
+        "Malleability",
+        "Sonority",
+        "Conductivity"
+      ],
+      "hindi": [
+        "तन्यता",
+        "आघातवर्धनीयता",
+        "ध्वनिकता",
+        "चालकता"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the composition of stainless steel?",
-        "hindi": "स्टेनलेस स्टील की संरचना क्या है?"
-      },
-      "option": {
-        "english": [
-          "Fe + Zn",
-          "Fe + Cu",
-          "Fe + Cr + Ni",
-          "Fe + Al"
-        ],
-        "hindi": [
-          "Fe + Zn",
-          "Fe + Cu",
-          "Fe + Cr + Ni",
-          "Fe + Al"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "explanation": {
+      "english": "Malleability is the property that allows metals to be beaten into thin sheets without breaking. This is possible because of the metallic bonding where layers of atoms can slide over each other. For example, aluminum foil is made by beating aluminum into very thin sheets.",
+      "hindi": "आघातवर्धनीयता वह गुण है जो धातुओं को बिना टूटे पतली चादरों में परिवर्तित होने की अनुमति देता है। यह धात्विक बंधन के कारण संभव है जहां परमाणुओं की परतें एक दूसरे पर फिसल सकती हैं। उदाहरण के लिए, एल्युमिनियम फॉइल एल्युमिनियम को बहुत पतली चादरों में पीटकर बनाई जाती है।"
     },
-    {
-      "question_name": {
-        "english": "Which metal is placed at the top of the reactivity series?",
-        "hindi": "सक्रियता श्रेणी में सबसे ऊपर कौन सी धातु होती है?"
-      },
-      "option": {
-        "english": [
-          "Copper",
-          "Potassium",
-          "Iron",
-          "Zinc"
-        ],
-        "hindi": [
-          "तांबा",
-          "पोटैशियम",
-          "लोहा",
-          "जस्ता"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What prevents iron from rusting?",
+      "hindi": "लोहे को जंग लगने से क्या बचाता है?"
+    },
+    "option": {
+      "english": [
+        "Water",
+        "Oxygen",
+        "Paint",
+        "Galvanization"
+      ],
+      "hindi": [
+        "पानी",
+        "ऑक्सीजन",
+        "पेंट",
+        "जस्तीकरण"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Galvanization prevents iron from rusting by coating it with a layer of zinc. Zinc acts as a sacrificial metal and corrodes instead of iron. The reaction is: Zn → Zn²⁺ + 2e⁻. Even if the zinc coating is scratched, zinc will still protect iron by sacrificial protection.",
+      "hindi": "जस्तीकरण लोहे को जस्ते की परत चढ़ाकर जंग से बचाता है। जस्ता त्यागी धातु के रूप में कार्य करता है और लोहे के बजाय स्वयं क्षय होता है। अभिक्रिया है: Zn → Zn²⁺ + 2e⁻. यदि जस्ते की परत खरोंच भी जाए, तो भी जस्ता त्यागी सुरक्षा द्वारा लोहे की रक्षा करेगा।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is used in making water pipes?",
+      "hindi": "पानी की पाइप बनाने में किस धातु का उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Lead",
+        "Mercury",
+        "Galvanized iron",
+        "Silver"
+      ],
+      "hindi": [
+        "सीसा",
+        "पारा",
+        "जस्ती लोहा",
+        "चांदी"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Galvanized iron is used in making water pipes because it is resistant to corrosion. The zinc coating on iron prevents rusting by acting as a sacrificial metal. This makes the pipes long-lasting and safe for carrying water. The pipes are strong yet affordable compared to other metals.",
+      "hindi": "जस्ती लोहे का उपयोग पानी की पाइप बनाने में किया जाता है क्योंकि यह जंग प्रतिरोधी होता है। लोहे पर जस्ते की परत त्यागी धातु के रूप में कार्य करके जंग को रोकती है। इससे पाइप लंबे समय तक चलने वाली और पानी ले जाने के लिए सुरक्षित होती हैं। ये पाइप मजबूत होने के साथ-साथ अन्य धातुओं की तुलना में किफायती भी होती हैं।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the nature of non-metallic oxides?",
+      "hindi": "अधातु ऑक्साइड की प्रकृति कैसी होती है?"
+    },
+    "option": {
+      "english": [
+        "Basic",
+        "Acidic",
+        "Neutral",
+        "Amphoteric"
+      ],
+      "hindi": [
+        "क्षारीय",
+        "अम्लीय",
+        "उदासीन",
+        "उभयधर्मी"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Non-metallic oxides are acidic in nature. When they react with water, they form acids. For example: CO₂ + H₂O → H₂CO₃ (carbonic acid), SO₃ + H₂O → H₂SO₄ (sulfuric acid). These acids turn blue litmus red, showing their acidic nature.",
+      "hindi": "अधातु ऑक्साइड अम्लीय प्रकृति के होते हैं। जब ये पानी से क्रिया करते हैं, तो अम्ल बनाते हैं। उदाहरण के लिए: CO₂ + H₂O → H₂CO₃ (कार्बोनिक अम्ल), SO₃ + H₂O → H₂SO₄ (सल्फ्यूरिक अम्ल)। ये अम्ल नीले लिटमस को लाल कर देते हैं, जो उनकी अम्लीय प्रकृति को दर्शाता है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": " which gas is produced  when non-metals react with water?",
+      "hindi": "अधातुएं तनु अम्लों से अभिक्रिया करके कौन सी गैस बनाती हैं?"
+    },
+    "option": {
+      "english": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "hindi": [
+        "हाइड्रोजन",
+        "ऑक्सीजन",
+        "कार्बन डाइऑक्साइड",
+        "नाइट्रोजन"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "When non-metals react with water, they produce hydrogen gas. For example: 2Na + 2H₂O → 2NaOH + H₂↑, 2K + 2H₂O → 2KOH + H₂↑. The hydrogen gas can be tested by bringing a burning matchstick near it - it burns with a 'pop' sound.",
+      "hindi": "जब अधातुएं पानी से क्रिया करती हैं, तो हाइड्रोजन गैस उत्पन्न करती हैं। उदाहरण के लिए: 2Na + 2H₂O → 2NaOH + H₂↑, 2K + 2H₂O → 2KOH + H₂↑. हाइड्रोजन गैस की जाँच जलती हुई तीली को पास लाकर की जा सकती है - यह 'पॉप' की आवाज के साथ जलती है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which property makes metals good conductors of heat?",
+      "hindi": "कौन सा गुण धातुओं को ऊष्मा का अच्छा चालक बनाता है?"
+    },
+    "option": {
+      "english": [
+        "Close packed structure",
+        "High density",
+        "High melting point",
+        "Free electrons"
+      ],
+      "hindi": [
+        "निकट पैक संरचना",
+        "उच्च घनत्व",
+        "उच्च गलनांक",
+        "मुक्त इलेक्ट्रॉन"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Free electrons in metals make them good conductors of heat. In metallic bonding, the outer electrons of metal atoms are free to move throughout the metal structure. These free electrons can transfer energy (heat) quickly from one part to another, making metals good thermal conductors.",
+      "hindi": "धातुओं में मुक्त इलेक्ट्रॉन उन्हें ऊष्मा का अच्छा चालक बनाते हैं। धात्विक बंधन में, धातु परमाणुओं के बाहरी इलेक्ट्रॉन पूरी धातु संरचना में स्वतंत्र रूप से घूम सकते हैं। ये मुक्त इलेक्ट्रॉन ऊर्जा (ऊष्मा) को एक भाग से दूसरे भाग में तेजी से स्थानांतरित कर सकते हैं, जो धातुओं को अच्छा ऊष्मीय चालक बनाता है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What is the composition of stainless steel?",
+      "hindi": "स्टेनलेस स्टील की संरचना क्या है?"
+    },
+    "option": {
+      "english": [
+        "Fe + Zn",
+        "Fe + Cu",
+        "Fe + Cr + Ni",
+        "Fe + Al"
+      ],
+      "hindi": [
+        "Fe + Zn",
+        "Fe + Cu",
+        "Fe + Cr + Ni",
+        "Fe + Al"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Stainless steel is an alloy of iron (Fe), chromium (Cr), and nickel (Ni). It typically contains about 74% iron, 18% chromium, and 8% nickel. The chromium forms a protective oxide layer (Cr₂O₃) that prevents rusting, while nickel gives it strength and a shiny appearance.",
+      "hindi": "स्टेनलेस स्टील लोहा (Fe), क्रोमियम (Cr), और निकल (Ni) की मिश्रधातु है। इसमें सामान्यतः लगभग 74% लोहा, 18% क्रोमियम, और 8% निकल होता है। क्रोमियम एक सुरक्षात्मक ऑक्साइड परत (Cr₂O₃) बनाता है जो जंग को रोकता है, जबकि निकल इसे मजबूती और चमकदार रूप प्रदान करता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is placed at the top of the reactivity series?",
+      "hindi": "सक्रियता श्रेणी में सबसे ऊपर कौन सी धातु होती है?"
+    },
+    "option": {
+      "english": [
+        "Copper",
+        "Potassium",
+        "Iron",
+        "Zinc"
+      ],
+      "hindi": [
+        "तांबा",
+        "पोटैशियम",
+        "लोहा",
+        "जस्ता"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Potassium (K) is placed at the top of the reactivity series because it is the most reactive metal. It reacts violently with water: 2K + 2H₂O → 2KOH + H₂. The reaction is so vigorous that the hydrogen produced catches fire with a lilac flame. Potassium must be stored under kerosene to prevent contact with air and moisture.",
+      "hindi": "पोटैशियम (K) सक्रियता श्रेणी में सबसे ऊपर होता है क्योंकि यह सबसे अधिक क्रियाशील धातु है। यह पानी के साथ तीव्र अभिक्रिया करता है: 2K + 2H₂O → 2KOH + H₂. अभिक्रिया इतनी तीव्र होती है कि उत्पन्न हाइड्रोजन बैंगनी लौ के साथ जल उठती है। पोटैशियम को हवा और नमी के संपर्क से बचाने के लिए केरोसीन में रखा जाता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  }
 ]

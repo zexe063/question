@@ -1,233 +1,133 @@
-
 [
-    {
-      "question_name": {
-        "english": "What is the commercial unit of electrical energy consumption?",
-        "hindi": "विद्युत ऊर्जा खपत की वाणिज्यिक इकाई क्या है?"
+      {
+        "question_name": {
+          "english": "Which color wire is used as the earth wire in domestic circuits?",
+          "hindi": "घरेलू विद्युत परिपथों में अर्थ तार के लिए किस रंग का तार प्रयोग किया जाता है?"
+        },
+        "option": {
+          "english": ["Red", "Black", "Green", "Blue"],
+          "hindi": ["लाल", "काला", "हरा", "नीला"]
+        },
+        "answer": 2, 
+        "image": null,
+        "medium": "easy"
       },
-      "option": {
-        "english": [
-          "Watt-hour",
-          "Kilowatt",
-          "Kilowatt-hour",
-          "Joule"
-        ],
-        "hindi": [
-          "वाट-घंटा",
-          "किलोवाट",
-          "किलोवाट-घंटा",
-          "जूल"
-        ]
+      {
+        "question_name": {
+          "english": "Function of MCB in domestic circuits?",
+          "hindi": "घरेलू परिपथों में MCB का क्या कार्य है?"
+        },
+        "option": {
+          "english": ["Measure current", "Automatic circuit breaking", "Boost voltage", "Store energy"],
+          "hindi": ["धारा मापना", "स्वचालित सर्किट तोड़ना", "वोल्टेज बढ़ाना", "ऊर्जा संग्रह"]
+        },
+        "answer": 1, 
+        "image": null,
+        "medium": "easy"
       },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which safety device is based on the heating effect of electric current?",
-        "hindi": "कौन सा सुरक्षा उपकरण विद्युत धारा के तापीय प्रभाव पर आधारित है?"
+      {
+        "question_name": {
+          "english": "Monthly bill for a 1000W geyser used 2 hours/day (₹5/unit)?",
+          "hindi": "1000W गीजर का मासिक बिल (2 घंटे/दिन, ₹5/यूनिट)?"
+        },
+        "option": {
+          "english": ["₹300", "₹450", "₹600", "₹750"],
+          "hindi": ["₹300", "₹450", "₹600", "₹750"]
+        },
+        "answer": 1, 
+        "image": null,
+        "medium": "easy"
       },
-      "option": {
-        "english": [
-          "Electric switch",
-          "Electric fuse",
-          "Electric meter",
-          "Electric socket"
-        ],
-        "hindi": [
-          "विद्युत स्विच",
-          "विद्युत फ्यूज",
-          "विद्युत मीटर",
-          "विद्युत सॉकेट"
-        ]
+      {
+        "question_name": {
+          "english": "Effective resistance of three 3Ω resistors in parallel?",
+          "hindi": "तीन 3Ω प्रतिरोधक समानांतर में: प्रभावी प्रतिरोध?"
+        },
+        "option": {
+          "english": ["1Ω", "9Ω", "3Ω", "0.33Ω"],
+          "hindi": ["1Ω", "9Ω", "3Ω", "0.33Ω"]
+        },
+        "answer": 0, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='80' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='120' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='140' stroke='black'/><line x1='140' y1='50' x2='250' y2='50' stroke='black'/><line x1='140' y1='90' x2='250' y2='90' stroke='black'/><line x1='140' y1='130' x2='250' y2='130' stroke='black'/><text x='110' y='55'>3Ω</text><text x='110' y='95'>3Ω</text><text x='110' y='135'>3Ω</text></svg>",
+        "medium": "easy"
       },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What happens to the resistance of a conductor when its temperature increases?",
-        "hindi": "चालक का तापमान बढ़ने पर उसके प्रतिरोध में क्या होता है?"
+      {
+        "question_name": {
+          "english": "Why are appliances connected in parallel?",
+          "hindi": "उपकरणों को समानांतर में क्यों जोड़ा जाता है?"
+        },
+        "option": {
+          "english": ["Same voltage to all", "Less wiring", "Lower current", "Cost-saving"],
+          "hindi": ["सभी को समान वोल्टेज", "कम तार", "कम धारा", "लागत बचत"]
+        },
+        "answer": 0, 
+        "image": null,
+        "medium": "easy"
       },
-      "option": {
-        "english": [
-          "Increases",
-          "Decreases",
-          "Remains same",
-          "Becomes zero"
-        ],
-        "hindi": [
-          "बढ़ता है",
-          "घटता है",
-          "समान रहता है",
-          "शून्य हो जाता है"
-        ]
+      {
+        "question_name": {
+          "english": "Identify the incorrect household wiring connection:",
+          "hindi": "घरेलू वायरिंग में गलत कनेक्शन पहचानें:"
+        },
+        "option": {
+          "english": ["Live wire (red)", "Neutral wire (black)", "Earth wire (green)", "MCB in neutral line"],
+          "hindi": ["लाइव तार (लाल)", "न्यूट्रल तार (काला)", "अर्थ तार (हरा)", "MCB न्यूट्रल में"]
+        },
+        "answer": 3, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='30' width='200' height='90' fill='none' stroke='black'/><line x1='100' y1='30' x2='100' y2='120' stroke='red'/><line x1='150' y1='30' x2='150' y2='120' stroke='black'/><line x1='200' y1='30' x2='200' y2='120' stroke='green'/><text x='90' y='20'>L</text><text x='140' y='20'>N</text><text x='190' y='20'>E</text></svg>",
+        "medium": "medium"
       },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the energy consumed by a 1000W heater in 2 hours.",
-        "hindi": "1000W के हीटर द्वारा 2 घंटे में खपत की गई ऊर्जा की गणना करें।"
+      {
+        "question_name": {
+          "english": "Which meter is shown in this circuit?",
+          "hindi": "इस सर्किट में कौन सा मीटर दिखाया गया है?"
+        },
+        "option": {
+          "english": ["Ammeter", "Voltmeter", "Wattmeter", "Ohmmeter"],
+          "hindi": ["एमीटर", "वोल्टमीटर", "वॉटमीटर", "ओममीटर"]
+        },
+        "answer": 0, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' fill='none' stroke='black'/><text x='145' y='80'>A</text><line x1='80' y1='75' x2='130' y2='75' stroke='black'/><line x1='170' y1='75' x2='220' y2='75' stroke='black'/></svg>",
+        "medium": "medium"
       },
-      "option": {
-        "english": [
-          "1 kWh",
-          "2 kWh",
-          "3 kWh",
-          "4 kWh"
-        ],
-        "hindi": [
-          "1 किलोवाट-घंटा",
-          "2 किलोवाट-घंटा",
-          "3 किलोवाट-घंटा",
-          "4 किलोवाट-घंटा"
-        ]
+      {
+        "question_name": {
+          "english": "What component is marked 'X' in the diagram?",
+          "hindi": "आरेख में 'X' कौन सा घटक है?"
+        },
+        "option": {
+          "english": ["Resistor", "Capacitor", "Battery", "Switch"],
+          "hindi": ["प्रतिरोधक", "संधारित्र", "बैटरी", "स्विच"]
+        },
+        "answer": 1, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='140' y2='75' stroke='black'/><line x1='160' y1='55' x2='160' y2='95' stroke='black'/><line x1='140' y1='55' x2='140' y2='95' stroke='black'/><text x='150' y='45'>X</text></svg>",
+        "medium": "medium"
       },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "If a 220V electric iron draws 2A current, what is its power rating?",
-        "hindi": "यदि 220V का विद्युत इस्तरी 2A धारा लेता है, तो इसकी शक्ति क्या होगी?"
+      {
+        "question_name": {
+          "english": "Resonant frequency of RLC circuit (L=2H, C=8µF)?",
+          "hindi": "RLC परिपथ की अनुनादी आवृत्ति (L=2H, C=8µF)?"
+        },
+        "option": {
+          "english": ["39.89 Hz", "79.78 Hz", "25.12 Hz", "50.24 Hz"],
+          "hindi": ["39.89 Hz", "79.78 Hz", "25.12 Hz", "50.24 Hz"]
+        },
+        "answer": 0, 
+        "image": null,
+        "medium": "hard"
       },
-      "option": {
-        "english": [
-          "110W",
-          "220W",
-          "440W",
-          "880W"
-        ],
-        "hindi": [
-          "110W",
-          "220W",
-          "440W",
-          "880W"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Identify the type of connection shown in the circuit:",
-        "hindi": "सर्किट में दिखाए गए कनेक्शन का प्रकार पहचानें:"
-      },
-      "option": {
-        "english": [
-          "Series",
-          "Parallel",
-          "Mixed",
-          "None of these"
-        ],
-        "hindi": [
-          "श्रेणी",
-          "समानांतर",
-          "मिश्रित",
-          "इनमें से कोई नहीं"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What does this circuit symbol represent?",
-        "hindi": "यह सर्किट प्रतीक क्या दर्शाता है?"
-      },
-      "option": {
-        "english": [
-          "Ammeter",
-          "Voltmeter",
-          "Battery",
-          "Cell"
-        ],
-        "hindi": [
-          "एमीटर",
-          "वोल्टमीटर",
-          "बैटरी",
-          "सेल"
-        ]
-      },
-      "answer": 0,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='75' r='20' fill='none' stroke='black'/><text x='145' y='80'>A</text></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which component is connected incorrectly in this household circuit?",
-        "hindi": "इस घरेलू सर्किट में कौन सा घटक गलत तरीके से जुड़ा है?"
-      },
-      "option": {
-        "english": [
-          "Switch",
-          "Fuse",
-          "Voltmeter",
-          "Earth wire"
-        ],
-        "hindi": [
-          "स्विच",
-          "फ्यूज",
-          "वोल्टमीटर",
-          "अर्थ तार"
-        ]
-      },
-      "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='60' height='30' fill='none' stroke='black'/><text x='140' y='60'>V</text><line x1='150' y1='70' x2='150' y2='120' stroke='black'/><circle cx='150' cy='30' r='10' fill='none' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the current through R₂ in the given parallel circuit if total current is 5A and R₁ = R₂:",
-        "hindi": "दिए गए समानांतर सर्किट में R₂ से प्रवाहित धारा की गणना करें यदि कुल धारा 5A है और R₁ = R₂ है:"
-      },
-      "option": {
-        "english": [
-          "1.5A",
-          "2.5A",
-          "3.5A",
-          "5A"
-        ],
-        "hindi": [
-          "1.5A",
-          "2.5A",
-          "3.5A",
-          "5A"
-        ]
-      },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='110' y='65'>R₁</text><text x='110' y='105'>R₂</text><text x='30' y='75'>5A</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Why do we use parallel connection for household appliances instead of series connection? Explain with reason:",
-        "hindi": "घरेलू उपकरणों के लिए श्रेणी संयोजन के बजाय समानांतर संयोजन का उपयोग क्यों करते हैं? कारण सहित समझाएं:"
-      },
-      "option": {
-        "english": [
-          "Because parallel connection divides voltage",
-          "Because parallel connection provides same voltage to all appliances",
-          "Because parallel connection uses less current",
-          "Because parallel connection is easier to install"
-        ],
-        "hindi": [
-          "क्योंकि समानांतर संयोजन वोल्टेज को विभाजित करता है",
-          "क्योंकि समानांतर संयोजन सभी उपकरणों को समान वोल्टेज प्रदान करता है",
-          "क्योंकि समानांतर संयोजन कम धारा का उपयोग करता है",
-          "क्योंकि समानांतर संयोजन स्थापित करने में आसान होता है"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
-  ]
+      {
+        "question_name": {
+          "english": "Impedance in an AC circuit (R=5Ω, XL=12Ω)?",
+          "hindi": "AC परिपथ में प्रतिबाधा (R=5Ω, XL=12Ω)?"
+        },
+        "option": {
+          "english": ["5Ω", "13Ω", "17Ω", "7Ω"],
+          "hindi": ["5Ω", "13Ω", "17Ω", "7Ω"]
+        },
+        "answer": 1,
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><text x='105' y='65'>R=5Ω</text><path d='M 180 50 Q 190 50 190 60 Q 190 70 180 70 Q 170 70 170 80 Q 170 90 180 90' stroke='black' fill='none'/><text x='160' y='45'>XL=12Ω</text></svg>",
+        "medium": "hard"
+      }
+    ]
+  

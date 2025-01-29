@@ -1,4 +1,32 @@
 [
+  
+  {
+    "question_name": {
+      "english": "What is the role of the diaphragm in human respiration?",
+      "hindi": "मानव श्वसन में डायाफ्राम की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "To filter the air entering the lungs",
+        "To contract and relax, changing the volume of the chest cavity",
+        "To exchange oxygen and carbon dioxide",
+        "To produce mucus to trap dust particles"
+      ],
+      "hindi": [
+        "फेफड़ों में प्रवेश करने वाली हवा को छानना",
+        "संकुचित और शिथिल होना, छाती गुहा के आयतन को बदलना",
+        "ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान करना",
+        "धूल के कणों को फंसाने के लिए बलगम का उत्पादन करना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The diaphragm is a major muscle of respiration. When it contracts, it increases the volume of the chest cavity, drawing air into the lungs. When it relaxes, the volume decreases, forcing air out.",
+      "hindi": "डायाफ्राम श्वसन की एक प्रमुख मांसपेशी है। जब यह सिकुड़ता है, तो यह छाती गुहा के आयतन को बढ़ाता है, जिससे हवा फेफड़ों में जाती है। जब यह शिथिल होता है, तो आयतन कम हो जाता है, जिससे हवा बाहर निकल जाती है।"
+    }
+  },
   {
     "question_name": {
       "english": "What is the function of kidneys?",
@@ -6,159 +34,25 @@
     },
     "option": {
       "english": [
+        "Digest food",
+        "Produce hormones",
         "Store water",
-        "Filter blood",
-        "Produce hormones", 
-        "Digest food"
+        "Filter blood"
       ],
       "hindi": [
-        "जल संग्रह",
-        "रक्त छानना",
+        "भोजन पचाना",
         "हार्मोन उत्पादन",
-        "भोजन पचाना"
-      ]
-    },
-    "answer": 1,
-    "image": null,
-    "medium": "easy"
-  },
-  {
-    "question_name": {
-      "english": "Which blood component helps in immunity?",
-      "hindi": "कौन सा रक्त घटक प्रतिरक्षा में मदद करता है?"
-    },
-    "option": {
-      "english": [
-        "RBC",
-        "Platelets",
-        "Plasma",
-        "WBC"
-      ],
-      "hindi": [
-        "लाल रक्त कणिकाएं",
-        "प्लेटलेट्स",
-        "प्लाज्मा",
-        "श्वेत रक्त कणिकाएं"
+        "जल संग्रह",
+        "रक्त छानना"
       ]
     },
     "answer": 3,
     "image": null,
-    "medium": "medium"
-  },
-  {
-    "question_name": {
-      "english": "What helps in digestion of proteins?",
-      "hindi": "प्रोटीन के पाचन में क्या मदद करता है?"
-    },
-    "option": {
-      "english": [
-        "Amylase",
-        "Lipase",
-        "Pepsin",
-        "Bile"
-      ],
-      "hindi": [
-        "एमाइलेज",
-        "लाइपेज",
-        "पेप्सिन",
-        "पित्त"
-      ]
-    },
-    "answer": 2,
-    "image": null,
-    "medium": "medium"
-  },
-  {
-    "question_name": {
-      "english": "Which process occurs in alveoli?",
-      "hindi": "वायु कूपिकाओं में कौन सी प्रक्रिया होती है?"
-    },
-    "option": {
-      "english": [
-        "Gas exchange",
-        "Blood filtration",
-        "Food digestion",
-        "Hormone secretion"
-      ],
-      "hindi": [
-        "गैस विनिमय",
-        "रक्त छनन",
-        "भोजन पाचन",
-        "हार्मोन स्रावण"
-      ]
-    },
-    "answer": 0, 
-    "image": null,
-    "medium": "easy"
-  },
-  {
-    "question_name": {
-      "english": "What is the function of platelets?",
-      "hindi": "प्लेटलेट्स का क्या कार्य है?"
-    },
-    "option": {
-      "english": [
-        "Transport oxygen",
-        "Blood clotting",
-        "Fight infection",
-        "Carry nutrients"
-      ],
-      "hindi": [
-        "ऑक्सीजन परिवहन",
-        "रक्त का थक्का जमाना",
-        "संक्रमण से लड़ना",
-        "पोषक तत्वों का वहन"
-      ]
-    },
-    "answer": 1,
-    "image": null,
-    "medium": "easy"
-  },
-  {
-    "question_name": {
-      "english": "What is the role of bile?",
-      "hindi": "पित्त की क्या भूमिका है?"
-    },
-    "option": {
-      "english": [
-        "Digest proteins",
-        "Store fats",
-        "Emulsify fats",
-        "Absorb minerals"
-      ],
-      "hindi": [
-        "प्रोटीन पचाना",
-        "वसा संग्रह",
-        "वसा का पायसीकरण",
-        "खनिज अवशोषण"
-      ]
-    },
-    "answer": 2,
-    "image": null,
-    "medium": "medium"
-  },
-  {
-    "question_name": {
-      "english": "Which organ produces insulin?",
-      "hindi": "इंसुलिन किस अंग से स्रावित होता है?"
-    },
-    "option": {
-      "english": [
-        "Liver",
-        "Stomach",
-        "Kidney",
-        "Pancreas"
-      ],
-      "hindi": [
-        "यकृत",
-        "आमाशय",
-        "गुर्दा",
-        "अग्न्याशय"
-      ]
-    },
-    "answer": 3,
-    "image": null,
-    "medium": "hard"
+    "medium": "easy",
+    "explanation": {
+      "english": "The kidneys filter waste products, excess water, and other impurities out of the blood. They also regulate blood pressure, electrolyte balance, and red blood cell production.",
+      "hindi": "गुर्दे रक्त से अपशिष्ट उत्पादों, अतिरिक्त पानी और अन्य अशुद्धियों को छानकर बाहर निकालते हैं। वे रक्तचाप, इलेक्ट्रोलाइट संतुलन और लाल रक्त कोशिका उत्पादन को भी नियंत्रित करते हैं।"
+    }
   },
   {
     "question_name": {
@@ -167,21 +61,52 @@
     },
     "option": {
       "english": [
-        "Gas exchange",
         "Filter blood",
-        "Produce blood cells",
-        "Store air"
+        "Store air",
+        "Gas exchange",
+        "Produce blood cells"
       ],
       "hindi": [
-        "गैस विनिमय",
         "रक्त छानना",
-        "रक्त कोशिकाएं बनाना",
-        "वायु संग्रह"
+        "वायु संग्रह",
+        "गैस विनिमय",
+        "रक्त कोशिकाएं बनाना"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The main function of the lungs is gas exchange, also known as respiration. In respiration, oxygen from incoming air enters the blood, and carbon dioxide, a waste gas from the metabolism, leaves the blood.",
+      "hindi": "फेफड़ों का मुख्य कार्य गैस विनिमय है, जिसे श्वसन भी कहा जाता है। श्वसन में, आने वाली हवा से ऑक्सीजन रक्त में प्रवेश करती है, और कार्बन डाइऑक्साइड, जो चयापचय से निकलने वाली एक अपशिष्ट गैस है, रक्त से बाहर निकलती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the primary function of alveoli in the respiratory system?",
+      "hindi": "श्वसन तंत्र में वायु कूपिकाओं का प्राथमिक कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Exchange of oxygen and carbon dioxide",
+        "Production of surfactant",
+        "Warming of inhaled air",
+        "Removal of dust particles"
+      ],
+      "hindi": [
+        "ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान",
+        "सरफैक्टेंट का उत्पादन",
+        "सांस ली गई हवा को गरम करना",
+        "धूल के कणों को हटाना"
       ]
     },
     "answer": 0,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "Alveoli are tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place between the lungs and the bloodstream.",
+      "hindi": "वायु कूपिकाएं फेफड़ों में छोटी-छोटी वायु थैलियां होती हैं जहां फेफड़ों और रक्तप्रवाह के बीच ऑक्सीजन और कार्बन डाइऑक्साइड का आदान-प्रदान होता है।"
+    }
   },
   {
     "question_name": {
@@ -204,29 +129,145 @@
     },
     "answer": 1,
     "image": null,
-    "medium": "medium"
+    "medium": "easy",
+    "explanation": {
+      "english": "Hemoglobin is a protein in red blood cells that carries oxygen from the lungs to the body's tissues and returns carbon dioxide from the tissues back to the lungs.",
+      "hindi": "हीमोग्लोबिन लाल रक्त कोशिकाओं में एक प्रोटीन है जो फेफड़ों से ऑक्सीजन को शरीर के ऊतकों तक ले जाता है और ऊतकों से कार्बन डाइऑक्साइड को वापस फेफड़ों तक ले जाता है।"
+    }
   },
   {
     "question_name": {
-      "english": "What is the role of villi?",
-      "hindi": "कूपिकाओं की क्या भूमिका है?"
+      "english": "Which blood component helps in immunity?",
+      "hindi": "कौन सा रक्त घटक प्रतिरक्षा में मदद करता है?"
     },
     "option": {
       "english": [
-        "Secrete enzymes",
-        "Store nutrients",
-        "Increase absorption",
-        "Filter blood"
+        "RBC",
+        "Platelets",
+        "WBC",
+        "Plasma"
       ],
       "hindi": [
-        "एंजाइम स्रावण",
-        "पोषक तत्व संग्रह",
-        "अवशोषण बढ़ाना",
-        "रक्त छानना"
+        "लाल रक्त कणिकाएं",
+        "प्लेटलेट्स",
+        "श्वेत रक्त कणिकाएं",
+        "प्लाज्मा"
       ]
     },
     "answer": 2,
     "image": null,
-    "medium": "hard"
+    "medium": "medium",
+    "explanation": {
+      "english": "White blood cells (WBCs), also called leukocytes, are the cells of the immune system that are involved in protecting the body against both infectious disease and foreign invaders.",
+      "hindi": "श्वेत रक्त कणिकाएं (WBC), जिन्हें ल्यूकोसाइट्स भी कहा जाता है, प्रतिरक्षा प्रणाली की कोशिकाएं हैं जो संक्रामक रोगों और बाहरी आक्रमणकारियों दोनों से शरीर की रक्षा करने में शामिल होती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which digestive enzyme in the stomach specifically breaks down proteins into peptides?",
+      "hindi": "आमाशय में कौन सा पाचक एंजाइम विशेष रूप से प्रोटीन को पेप्टाइड्स में तोड़ता है?"
+    },
+    "option": {
+      "english": [
+        "Bile",
+        "Amylase",
+        "Lipase",
+        "Pepsin"
+      ],
+      "hindi": [
+        "पित्त",
+        "एमाइलेज",
+        "लाइपेज",
+        "पेप्सिन"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Pepsin is the chief digestive enzyme in the stomach, which breaks down proteins into polypeptides.",
+      "hindi": "पेप्सिन आमाशय में मुख्य पाचक एंजाइम है, जो प्रोटीन को पॉलीपेप्टाइड्स में तोड़ता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What specific chemical property of bile helps in fat digestion?",
+      "hindi": "वसा के पाचन में पित्त का कौन सा रासायनिक गुण सहायक होता है?"
+    },
+    "option": {
+      "english": [
+        "Its amphipathic nature",
+        "Its acidic nature",
+        "Its enzymatic nature",
+        "Its alkaline nature"
+      ],
+      "hindi": [
+        "इसकी उभयधर्मी प्रकृति",
+        "इसकी अम्लीय प्रकृति",
+        "इसकी एंजाइमी प्रकृति",
+        "इसकी क्षारीय प्रकृति"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Bile salts have a hydrophobic (water-fearing) side and a hydrophilic (water-loving) side, making them amphipathic. This property allows bile to emulsify fats, breaking them down into smaller droplets for easier digestion by lipases.",
+      "hindi": "पित्त लवणों में एक जलविरोधी (हाइड्रोफोबिक) पक्ष और एक जलस्नेही (हाइड्रोफिलिक) पक्ष होता है, जो उन्हें उभयधर्मी बनाता है। यह गुण पित्त को वसा का पायसीकरण करने में मदद करता है, उन्हें छोटे-छोटे बूंदों में तोड़कर लाइपेज द्वारा आसानी से पचाने में सक्षम बनाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which organ produces insulin?",
+      "hindi": "इंसुलिन किस अंग से स्रावित होता है?"
+    },
+    "option": {
+      "english": [
+        "Stomach",
+        "Pancreas",
+        "Liver",
+        "Kidney"
+      ],
+      "hindi": [
+        "आमाशय",
+        "अग्न्याशय",
+        "यकृत",
+        "गुर्दा"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Insulin is a hormone produced by the beta cells of the islets of Langerhans in the pancreas.",
+      "hindi": "इंसुलिन अग्न्याशय में लैंगरहैंस के आइलेट्स की बीटा कोशिकाओं द्वारा उत्पादित एक हार्मोन है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How do villi increase the efficiency of absorption in the small intestine?",
+      "hindi": "कूपिकाएं छोटी आंत में अवशोषण की दक्षता कैसे बढ़ाती हैं?"
+    },
+    "option": {
+      "english": [
+        "By secreting more enzymes",
+        "By selective permeability",
+        "By increasing surface area",
+        "By slowing down food movement"
+      ],
+      "hindi": [
+        "अधिक एंजाइम स्रावित करके",
+        "चयनात्मक पारगम्यता द्वारा",
+        "सतह क्षेत्र बढ़ाकर",
+        "भोजन की गति धीमी करके"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Villi are small, finger-like projections that line the inner wall of the small intestine. They greatly increase the surface area available for the absorption of nutrients.",
+      "hindi": "विली छोटी, उंगली जैसी संरचनाएं होती हैं जो छोटी आंत की भीतरी दीवार पर पंक्तिबद्ध होती हैं। वे पोषक तत्वों के अवशोषण के लिए उपलब्ध सतह क्षेत्र को बहुत बढ़ा देती हैं।"
+    }
   }
 ]

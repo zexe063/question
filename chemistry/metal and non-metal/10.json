@@ -1,95 +1,111 @@
 [
     {
       "question_name": {
-        "english": "Which metal is found in liquid state at room temperature?",
-        "hindi": "कमरे के तापमान पर कौन सी धातु द्रव अवस्था में पाई जाती है?"
+        "english": "Why is mercury used in thermometers and barometers?",
+        "hindi": "थर्मामीटर और बैरोमीटर में पारे का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Mercury",
-          "Sodium",
-          "Zinc",
-          "Lead"
+          "High thermal expansion",
+          "Low melting point",
+          "High density",
+          "Low boiling point"
         ],
         "hindi": [
-          "पारा",
-          "सोडियम",
-          "जस्ता",
-          "सीसा"
+          "उच्च तापीय प्रसार",
+          "निम्न गलनांक",
+          "उच्च घनत्व",
+          "निम्न क्वथनांक"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Mercury is used in thermometers because it has high thermal expansion - it expands uniformly when heated and contracts when cooled. This property allows accurate temperature measurement. Mercury also has a wide liquid range (-39°C to 357°C) and does not stick to glass.",
+        "hindi": "पारे का उपयोग थर्मामीटर में किया जाता है क्योंकि इसमें उच्च तापीय प्रसार होता है - यह गरम होने पर एक समान रूप से फैलता है और ठंडा होने पर सिकुड़ता है। यह गुण सटीक तापमान मापने की अनुमति देता है। पारे की द्रव सीमा भी व्यापक (-39°C से 357°C) है और यह कांच से नहीं चिपकता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the chemical name of caustic soda?",
-        "hindi": "कास्टिक सोडा का रासायनिक नाम क्या है?"
+        "english": "Why are iron bridges painted regularly?",
+        "hindi": "लोहे के पुलों को नियमित रूप से पेंट क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Sodium carbonate",
-          "Sodium hydroxide",
-          "Sodium chloride",
-          "Sodium bicarbonate"
+          "To look beautiful",
+          "To prevent rusting",
+          "To make them strong",
+          "To reduce weight"
         ],
         "hindi": [
-          "सोडियम कार्बोनेट",
-          "सोडियम हाइड्रॉक्साइड",
-          "सोडियम क्लोराइड",
-          "सोडियम बाइकार्बोनेट"
+          "सुंदर दिखने के लिए",
+          "जंग लगने से बचाने के लिए",
+          "मजबूत बनाने के लिए",
+          "वजन कम करने के लिए"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Iron bridges are painted regularly to prevent rusting. The paint forms a protective layer on the surface of the metal, which prevents the metal from reacting with oxygen and moisture, which can cause corrosion.",
+        "hindi": "लोहे के पुलों को नियमित रूप से पेंट किया जाता है जंग लगने से रोकने के लिए। पेंट धातु की सतह पर एक सुरक्षात्मक परत बनाता है, जो धातु को ऑक्सीजन और जल से अभिक्रिया नहीं करने में मदद करता है, जो जंग लगने का कारण बनता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which metal is used in making filament of electric bulbs?",
-        "hindi": "बिजली के बल्ब का फिलामेंट बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Why is petroleum oil used for lubricating machine parts instead of water?",
+        "hindi": "मशीन के पुर्जों को चिकना करने के लिए पानी की बजाय पेट्रोलियम तेल का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Copper",
-          "Iron",
-          "Nickel",
-          "Tungsten"
+          "Low viscosity",
+          "High boiling point",
+          "High viscosity",
+          "Low density"
         ],
         "hindi": [
-          "तांबा",
-          "लोहा",
-          "निकल",
-          "टंगस्टन"
+          "कम श्यानता",
+          "उच्च क्वथनांक",
+          "उच्च श्यानता", 
+          "कम घनत्व"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Petroleum oil has high viscosity which helps reduce friction between moving parts. It forms a thick protective layer between metal surfaces. Unlike water, it doesn't evaporate easily due to its high boiling point. It also prevents rusting of machine parts as it is non-reactive with metals.",
+        "hindi": "पेट्रोलियम तेल में उच्च श्यानता होती है जो चलते हुए पुर्जों के बीच घर्षण को कम करने में मदद करती है। यह धातु की सतहों के बीच एक मोटी सुरक्षात्मक परत बनाता है। पानी के विपरीत, यह उच्च क्वथनांक के कारण आसानी से वाष्पित नहीं होता है। यह धातुओं के साथ अभिक्रिया नहीं करता है इसलिए मशीन के पुर्जों को जंग लगने से भी बचाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the chemical formula of slaked lime?",
-        "hindi": "बुझे हुए चूने का रासायनिक सूत्र क्या है?"
+        "english": "Why are metals not stored in acid containers?",
+        "hindi": "धातुओं को अम्ल के बर्तनों में क्यों नहीं रखा जाता है?"
       },
       "option": {
         "english": [
-          "CaO",
-          "CaCO₃",
-          "Ca(OH)₂",
-          "CaCl₂"
+          "Acids are colorless",
+          "Metals are heavy",
+          "Metals react with acids",
+          "Acids are expensive"
         ],
         "hindi": [
-          "CaO",
-          "CaCO₃",
-          "Ca(OH)₂",
-          "CaCl₂"
+          "अम्ल रंगहीन होते हैं",
+          "धातुएं भारी होती हैं",
+          "धातुएं अम्लों से अभिक्रिया करती हैं",
+          "अम्ल महंगे होते हैं"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metals react with acids, which can cause the metal to corrode and change color. This makes it unsuitable for storing acidic foods like pickles.",
+        "hindi": "धातुएं अम्लों से अभिक्रिया करती हैं, जो धातु को जंग लगने और रंग बदलने का कारण बनती हैं। इसलिए इसे अम्लीय खाद्य पदार्थों को स्टोर करने के लिए उपयुक्त नहीं है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Aluminum is used to make aluminum foil because it is malleable (can be beaten into thin sheets), lightweight, and resistant to corrosion. When exposed to air, it forms a protective oxide layer (Al₂O₃) that prevents further corrosion. It is also non-toxic and good conductor of heat.",
+        "hindi": "एल्युमिनियम फॉइल बनाने में एल्युमिनियम का उपयोग किया जाता है क्योंकि यह आघातवर्धनीय (पतली चादरों में पीटा जा सकता है), हल्का और संक्षारण प्रतिरोधी होता है। हवा के संपर्क में आने पर, यह एक सुरक्षात्मक ऑक्साइड परत (Al₂O₃) बनाता है जो आगे के संक्षारण को रोकती है। यह गैर-विषैला और ऊष्मा का अच्छा चालक भी है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When metals react with bases (like NaOH), they form salt and hydrogen gas. For example: Zn + 2NaOH → Na₂ZnO₂ (sodium zincate) + H₂↑. The hydrogen gas produced can be tested by bringing a burning matchstick - it burns with a 'pop' sound.",
+        "hindi": "जब धातुएं क्षारों (जैसे NaOH) से क्रिया करती हैं, तो लवण और हाइड्रोजन गैस बनती है। उदाहरण: Zn + 2NaOH → Na₂ZnO₂ (सोडियम जिंकेट) + H₂↑. उत्पन्न हाइड्रोजन गैस की जाँच जलती हुई तीली लाकर की जा सकती है - यह 'पॉप' की आवाज के साथ जलती है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
-          "Gold",
           "Silver",
+          "Gold",
           "Copper",
           "Iron"
         ],
         "hindi": [
-          "सोना",
           "चांदी",
+          "सोना",
           "तांबा",
           "लोहा"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Gold is the least reactive metal. It does not react with oxygen in air (no oxidation/rusting), water, acids or bases at room temperature. This is why gold is found in pure form in nature and stays shiny for years. Due to this property, it is used in making jewelry and coins.",
+        "hindi": "सोना सबसे कम क्रियाशील धातु है। यह सामान्य तापमान पर हवा में ऑक्सीजन (कोई ऑक्सीकरण/जंग नहीं), पानी, अम्ल या क्षार से क्रिया नहीं करता है। इसीलिए सोना प्रकृति में शुद्ध रूप में पाया जाता है और वर्षों तक चमकदार रहता है। इस गुण के कारण, इसका उपयोग आभूषण और सिक्के बनाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Reduction is the process of obtaining pure metals from their compounds. For example, iron oxide is reduced to iron using carbon: Fe₂O₃ + 3CO → 2Fe + 3CO₂. In this process, iron oxide loses oxygen (is reduced) while carbon monoxide gains oxygen (is oxidized).",
+        "hindi": "अपचयन धातुओं के यौगिकों से शुद्ध धातु प्राप्त करने की प्रक्रिया है। उदाहरण के लिए, आयरन ऑक्साइड का कार्बन द्वारा अपचयन करके लोहा प्राप्त किया जाता है: Fe₂O₃ + 3CO → 2Fe + 3CO₂. इस प्रक्रिया में, आयरन ऑक्साइड ऑक्सीजन खोता है (अपचयित होता है) जबकि कार्बन मोनोऑक्साइड ऑक्सीजन प्राप्त करता है (ऑक्सीकृत होता है)।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Cobalt is used in making permanent magnets because it has strong magnetic properties that remain even after removing the magnetic field. This property is called magnetic retentivity. Cobalt magnets are stronger than iron magnets and are used in speakers, motors, and magnetic storage devices.",
+        "hindi": "कोबाल्ट का उपयोग स्थायी चुंबक बनाने में किया जाता है क्योंकि इसमें मजबूत चुंबकीय गुण होते हैं जो चुंबकीय क्षेत्र हटाने के बाद भी बने रहते हैं। इस गुण को चुंबकीय धारणशीलता कहते हैं। कोबाल्ट के चुंबक लोहे के चुंबक से अधिक शक्तिशाली होते हैं और इनका उपयोग स्पीकर, मोटर और चुंबकीय भंडारण उपकरणों में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Limestone (CaCO₃) acts as a flux in iron extraction. When heated, it decomposes: CaCO₃ → CaO + CO₂. The CaO formed reacts with silica (SiO₂) impurities to form calcium silicate slag: CaO + SiO₂ → CaSiO₃. This slag floats on molten iron and can be easily removed.",
+        "hindi": "चूना पत्थर (CaCO₃) लोहे के निष्कर्षण में गालक का काम करता है। गरम करने पर, यह विघटित होता है: CaCO₃ → CaO + CO₂. बना हुआ CaO सिलिका (SiO₂) अशुद्धियों से क्रिया करके कैल्शियम सिलिकेट धातुमल बनाता है: CaO + SiO₂ → CaSiO₃. यह धातुमल पिघले हुए लोहे पर तैरता है और आसानी से हटाया जा सकता है।"
+      }
     }
 ]

@@ -8,7 +8,7 @@
         "english": [
           "NaCl",
           "Na₂CO₃",
-          "KCl",
+          "KCl", 
           "Na₂CO₃·10H₂O"
         ],
         "hindi": [
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Water of crystallization is the fixed number of water molecules present in one formula unit of a salt. Na₂CO₃·10H₂O (washing soda) contains 10 water molecules in its crystal structure, while other options are anhydrous salts.",
+        "hindi": "क्रिस्टलीकरण का जल एक लवण के एक सूत्र इकाई में उपस्थित जल अणुओं की निश्चित संख्या है। Na₂CO₃·10H₂O (धावन सोडा) में इसकी क्रिस्टल संरचना में 10 जल अणु होते हैं, जबकि अन्य विकल्प जलरहित लवण हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "When milk becomes sour, bacteria convert the lactose sugar in milk to lactic acid. This process is called fermentation. Lactic acid gives curd its characteristic sour taste.",
+        "hindi": "जब दूध खट्टा होता है, तो बैक्टीरिया दूध में मौजूद लैक्टोज शर्करा को लैक्टिक अम्ल में बदल देते हैं। इस प्रक्रिया को किण्वन कहते हैं। लैक्टिक अम्ल दही को उसका विशिष्ट खट्टा स्वाद देता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Basic solutions have pH > 7. They turn red litmus blue and make phenolphthalein pink. Acids turn blue litmus red and keep phenolphthalein colorless. This is a basic property shown by substances like NaOH, KOH etc.",
+        "hindi": "क्षारीय विलयन का pH 7 से अधिक होता है। यह लाल लिटमस को नीला और फिनॉल्फ्थेलीन को गुलाबी कर देता है। अम्ल नीले लिटमस को लाल करते हैं और फिनॉल्फ्थेलीन को रंगहीन रखते हैं। यह NaOH, KOH आदि पदार्थों द्वारा दर्शाई जाने वाली क्षारीय विशेषता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -76,18 +88,22 @@
       "option": {
         "english": [
           "Zinc oxide",
-          "Sodium zincate",
           "Sodium zinc hydroxide",
+          "Sodium zincate",
           "Zinc hydroxide"
         ],
         "hindi": [
           "जिंक ऑक्साइड",
-          "सोडियम जिंकेट",
           "सोडियम जिंक हाइड्रॉक्साइड",
+          "सोडियम जिंकेट",
           "जिंक हाइड्रॉक्साइड"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Zinc is amphoteric in nature. When it reacts with NaOH, it forms sodium zincate and hydrogen gas. The reaction is: Zn + 2NaOH → Na₂ZnO₂ + H₂. This shows zinc can react with both acids and bases.",
+        "hindi": "जिंक उभयधर्मी प्रकृति का होता है। जब यह NaOH से क्रिया करता है, तो सोडियम जिंकेट और हाइड्रोजन गैस बनाता है। अभिक्रिया है: Zn + 2NaOH → Na₂ZnO₂ + H₂. यह दर्शाता है कि जिंक अम्ल और क्षार दोनों से क्रिया कर सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Human blood is slightly basic with a pH of 7.4. This specific pH is crucial for our survival. Even small changes in blood pH can be dangerous. Our body has natural buffer systems to maintain this pH balance.",
+        "hindi": "मानव रक्त थोड़ा क्षारीय होता है जिसका pH 7.4 होता है। यह विशिष्ट pH हमारे जीवन के लिए महत्वपूर्ण है। रक्त के pH में छोटा सा परिवर्तन भी खतरनाक हो सकता है। हमारे शरीर में इस pH संतुलन को बनाए रखने के लिए प्राकृतिक बफर प्रणाली होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -121,19 +141,23 @@
       },
       "option": {
         "english": [
+          "CH₃COONa",
           "KCl",
           "NH₄Cl",
-          "NaCl",
-          "CH₃COONa"
+          "NaCl"
         ],
         "hindi": [
+          "CH₃COONa",
           "KCl",
           "NH₄Cl",
-          "NaCl",
-          "CH₃COONa"
+          "NaCl"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "CH₃COONa (sodium acetate) is a salt of strong base (NaOH) and weak acid (CH₃COOH). In water, it undergoes hydrolysis: CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻, producing OH⁻ ions making the solution basic.",
+        "hindi": "CH₃COONa (सोडियम एसीटेट) प्रबल क्षार (NaOH) और दुर्बल अम्ल (CH₃COOH) का लवण है। जल में, यह जल-अपघटन करता है: CH₃COO⁻ + H₂O ⇌ CH₃COOH + OH⁻, OH⁻ आयन उत्पन्न करके विलयन को क्षारीय बनाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "When CuO reacts with HCl, copper chloride (CuCl₂) is formed along with water. The reaction is: CuO + 2HCl → CuCl₂ + H₂O. CuCl₂ solution has a characteristic blue-green color due to Cu²⁺ ions.",
+        "hindi": "जब CuO, HCl से क्रिया करता है, तो कॉपर क्लोराइड (CuCl₂) और जल बनता है। अभिक्रिया है: CuO + 2HCl → CuCl₂ + H₂O. CuCl₂ विलयन Cu²⁺ आयनों के कारण विशिष्ट नीला-हरा रंग का होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Methyl orange is suitable because it shows different colors in strong and weak acids. In strong acids (pH < 3.1), it turns red, while in weak acids (pH > 4.4), it appears orange-yellow. This color difference helps distinguish between them.",
+        "hindi": "मिथाइल ऑरेंज उपयुक्त है क्योंकि यह प्रबल और दुर्बल अम्लों में अलग-अलग रंग दिखाता है। प्रबल अम्लों में (pH < 3.1), यह लाल हो जाता है, जबकि दुर्बल अम्लों में (pH > 4.4), यह नारंगी-पीला दिखाई देता है। यह रंग अंतर उनके बीच अंतर करने में मदद करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -190,19 +222,23 @@
       },
       "option": {
         "english": [
-          "1 × 10⁻³ M",
           "3 × 10⁻³ M",
           "1 × 10⁻⁴ M",
-          "1 × 10⁻² M"
+          "1 × 10⁻² M",
+          "1 × 10⁻³ M"
         ],
         "hindi": [
-          "1 × 10⁻³ M",
           "3 × 10⁻³ M",
           "1 × 10⁻⁴ M",
-          "1 × 10⁻² M"
+          "1 × 10⁻² M",
+          "1 × 10⁻³ M"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "pH = -log[H₃O⁺]. When pH = 3, then -log[H₃O⁺] = 3. Therefore, [H₃O⁺] = 10⁻³ M = 1 × 10⁻³ M. This shows the inverse relationship between pH and hydronium ion concentration.",
+        "hindi": "pH = -log[H₃O⁺]. जब pH = 3 होता है, तब -log[H₃O⁺] = 3. इसलिए, [H₃O⁺] = 10⁻³ M = 1 × 10⁻³ M. यह pH और हाइड्रोनियम आयन सांद्रता के बीच विपरीत संबंध को दर्शाता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "NaCl is a neutral salt formed from a strong acid (HCl) and strong base (NaOH). When dissolved in water, it doesn't undergo hydrolysis and maintains pH = 7. The reaction is: HCl + NaOH → NaCl + H₂O",
+        "hindi": "NaCl एक उदासीन लवण है जो प्रबल अम्ल (HCl) और प्रबल क्षार (NaOH) से बनता है। जल में घुलने पर, यह जल-अपघटन नहीं करता और pH = 7 बनाए रखता है। अभिक्रिया है: HCl + NaOH → NaCl + H₂O"
+      },
       "image": null,
       "medium": "hard"
     }

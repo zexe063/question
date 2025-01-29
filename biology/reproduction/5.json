@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -8,7 +7,7 @@
       "option": {
         "english": [
           "Store sperm",
-          "Transport sperm",
+          "Transport sperm", 
           "Produce sperm",
           "Filter sperm"
         ],
@@ -20,6 +19,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The vas deferens is a tube that carries sperm from the epididymis to the urethra. It acts like a pathway for sperm to travel during ejaculation.",
+        "hindi": "वास डेफरेंस एक नली है जो एपिडिडिमिस से मूत्रमार्ग तक शुक्राणु ले जाती है। यह स्खलन के दौरान शुक्राणु के यात्रा के लिए एक मार्ग की तरह कार्य करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -43,6 +46,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Seminiferous tubules are small tubes in the testes where sperm cells are made. They provide the right conditions needed for sperm production.",
+        "hindi": "शुक्रजनक नलिकाएं अंडकोष में छोटी नलियां हैं जहां शुक्राणु कोशिकाएं बनती हैं। ये शुक्राणु उत्पादन के लिए सही परिस्थितियां प्रदान करती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -66,29 +73,37 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Ovaries produce eggs and female hormones. Each month, one egg matures and is released during ovulation.",
+        "hindi": "अंडाशय अंडे और महिला हार्मोन उत्पन्न करते हैं। हर महीने, एक अंडा परिपक्व होता है और अंडोत्सर्जन के दौरान निकलता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of placenta?",
-        "hindi": "प्लेसेंटा की क्या भूमिका है?"
+        "english": "When does placenta begin to form in pregnancy?",
+        "hindi": "गर्भावस्था में प्लेसेंटा कब बनना शुरू होता है?"
       },
       "option": {
         "english": [
-          "Store nutrients",
-          "Filter waste",
-          "Support embryo",
-          "Exchange materials"
+          "After birth",
+          "During labor",
+          "At 6 months",
+          "First trimester"
         ],
         "hindi": [
-          "पोषक तत्व संग्रह",
-          "अपशिष्ट छानना",
-          "भ्रूण को सहारा",
-          "पदार्थों का आदान-प्रदान"
+          "जन्म के बाद",
+          "प्रसव के दौरान",
+          "6 महीने पर",
+          "प्रथम तिमाही में"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "The placenta starts forming in the first trimester. It connects mother and baby, providing oxygen and nutrients to the growing baby.",
+        "hindi": "प्लेसेंटा प्रथम तिमाही में बनना शुरू होता है। यह मां और बच्चे को जोड़ता है, बढ़ते बच्चे को ऑक्सीजन और पोषक तत्व प्रदान करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -112,6 +127,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The cervix connects the uterus to the vagina. It stays closed during pregnancy to protect the baby and opens during childbirth.",
+        "hindi": "सर्विक्स गर्भाशय को योनि से जोड़ता है। यह गर्भावस्था के दौरान बच्चे की रक्षा के लिए बंद रहता है और प्रसव के दौरान खुलता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -135,6 +154,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Follicle cells surround and protect the egg in the ovary. They provide nutrients to help the egg grow and develop properly.",
+        "hindi": "पुटिका कोशिकाएं अंडाशय में अंडे को घेरती और सुरक्षित रखती हैं। वे अंडे को बढ़ने और विकसित होने में मदद करने के लिए पोषक तत्व प्रदान करती हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -158,6 +181,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "LH (Luteinizing Hormone) causes ovulation. When LH levels rise suddenly, it triggers the release of an egg from the ovary.",
+        "hindi": "LH (ल्यूटिनाइजिंग हार्मोन) अंडोत्सर्जन का कारण बनता है। जब LH का स्तर अचानक बढ़ता है, तो यह अंडाशय से अंडे को निकलने को प्रेरित करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -171,16 +198,20 @@
           "Hormone production",
           "Waste removal",
           "Shock absorption",
-          "Nutrient supply"
+          "None of the above"
         ],
         "hindi": [
           "हार्मोन उत्पादन",
           "अपशिष्ट निष्कासन",
           "आघात अवशोषण",
-          "पोषक तत्व आपूर्ति"
+          "इनमें से कोई नहीं"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Amniotic fluid surrounds the baby in the womb. It protects the baby from injury by acting as a cushion and allows the baby to move freely.",
+        "hindi": "उल्ब द्रव गर्भ में बच्चे को घेरता है। यह गद्दी की तरह काम करके बच्चे को चोट से बचाता है और बच्चे को स्वतंत्र रूप से हिलने-डुलने की अनुमति देता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -204,6 +235,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Menstruation happens when progesterone levels fall. This causes the uterine lining to break down and shed when pregnancy doesn't occur.",
+        "hindi": "जब प्रोजेस्टेरोन का स्तर गिरता है तो मासिक धर्म होता है। जब गर्भावस्था नहीं होती है तो इससे गर्भाशय की परत टूटकर बाहर निकलती है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -214,20 +249,25 @@
       },
       "option": {
         "english": [
-          "Egg nutrition",
-          "Sperm selection",
-          "Hormone production",
-          "Species specificity"
+          "Transport nutrients",
+          "Produce hormones",
+          "Store calcium",
+          "Protect the egg"
         ],
         "hindi": [
-          "अंडे का पोषण",
-          "शुक्राणु चयन",
+          "पोषक तत्वों का परिवहन",
           "हार्मोन उत्पादन",
-          "प्रजाति विशिष्टता"
+          "कैल्शियम संग्रह",
+          "अंडे की सुरक्षा"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Zona pellucida is a protective layer around the egg. It protects the egg and allows only one sperm to fertilize it.",
+        "hindi": "जोना पेल्यूसिडा अंडे के चारों ओर एक सुरक्षात्मक परत है। यह अंडे की रक्षा करती है और केवल एक शुक्राणु को ही निषेचित करने की अनुमति देती है।"
+      },
       "image": null,
       "medium": "hard"
     }
+   
   ]

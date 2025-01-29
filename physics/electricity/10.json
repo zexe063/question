@@ -3,21 +3,44 @@
 [
     {
       "question_name": {
-        "english": "What is the purpose of earthing in electrical appliances?",
-        "hindi": "विद्युत उपकरणों में अर्थिंग का क्या उद्देश्य है?"
+        "english": "Why are copper wires preferred over aluminum wires in domestic wiring?",
+        "hindi": "घरेलू वायरिंग में एल्युमीनियम तारों की तुलना में तांबे के तार क्यों पसंद किए जाते हैं?"
       },
       "option": {
         "english": [
-          "To increase current flow",
-          "To provide safety path for leakage current",
-          "To reduce voltage",
-          "To save electricity"
+          "Lower cost",
+          "Better flexibility",
+          "Lower resistivity",
+          "Higher melting point"
         ],
         "hindi": [
-          "धारा प्रवाह बढ़ाने के लिए",
-          "लीकेज धारा के लिए सुरक्षा पथ प्रदान करने के लिए",
-          "वोल्टेज कम करने के लिए",
-          "बिजली बचाने के लिए"
+          "कम लागत",
+          "बेहतर लचीलापन",
+          "कम प्रतिरोधकता",
+          "उच्च गलनांक"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What happens to the brightness of two identical bulbs when connected in series compared to parallel?",
+        "hindi": "समानांतर की तुलना में श्रेणी में जुड़े दो समान बल्बों की चमक में क्या होता है?"
+      },
+      "option": {
+        "english": [
+          "Remains same",
+          "Becomes half",
+          "Doubles",
+          "Becomes one-fourth"
+        ],
+        "hindi": [
+          "समान रहती है",
+          "आधी हो जाती है",
+          "दोगुनी हो जाती है",
+          "एक-चौथाई हो जाती है"
         ]
       },
       "answer": 1,
@@ -26,21 +49,21 @@
     },
     {
       "question_name": {
-        "english": "Why are electrical appliances rated in watts rather than in volts or amperes?",
-        "hindi": "विद्युत उपकरणों की रेटिंग वोल्ट या एम्पियर के बजाय वाट में क्यों की जाती है?"
+        "english": "Why does a fuse wire have a lower melting point than the main circuit wire?",
+        "hindi": "फ्यूज तार का गलनांक मुख्य परिपथ तार से कम क्यों होता है?"
       },
       "option": {
         "english": [
-          "Because watts measure energy consumption",
-          "Because watts indicate power consumption",
-          "Because watts are easier to calculate",
-          "Because watts are SI units"
+          "To save cost",
+          "To protect circuit",
+          "To reduce resistance",
+          "To increase current"
         ],
         "hindi": [
-          "क्योंकि वाट ऊर्जा खपत मापता है",
-          "क्योंकि वाट शक्ति खपत दर्शाता है",
-          "क्योंकि वाट की गणना आसान होती है",
-          "क्योंकि वाट SI इकाई है"
+          "लागत बचाने के लिए",
+          "परिपथ की सुरक्षा के लिए",
+          "प्रतिरोध कम करने के लिए",
+          "धारा बढ़ाने के लिए"
         ]
       },
       "answer": 1,
@@ -49,67 +72,21 @@
     },
     {
       "question_name": {
-        "english": "What happens to the resistance of a semiconductor when temperature increases?",
-        "hindi": "तापमान बढ़ने पर अर्धचालक के प्रतिरोध में क्या होता है?"
+        "english": "If resistance of a wire is 10Ω, what will be its resistance when its length is halved and area is doubled?",
+        "hindi": "यदि एक तार का प्रतिरोध 10Ω है, तो उसका प्रतिरोध क्या होगा जब उसकी लंबाई आधी और क्षेत्रफल दोगुना कर दिया जाए?"
       },
       "option": {
         "english": [
-          "Increases",
-          "Decreases",
-          "Remains constant",
-          "Becomes zero"
-        ],
-        "hindi": [
-          "बढ़ता है",
-          "घटता है",
-          "स्थिर रहता है",
-          "शून्य हो जाता है"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "A wire of resistance 20Ω is stretched to double its length. Calculate its new resistance.",
-        "hindi": "20Ω प्रतिरोध वाले तार को खींचकर उसकी लंबाई दोगुनी कर दी जाती है। उसका नया प्रतिरोध ज्ञात करें।"
-      },
-      "option": {
-        "english": [
-          "40Ω",
-          "80Ω",
-          "10Ω",
-          "20Ω"
-        ],
-        "hindi": [
-          "40Ω",
-          "80Ω",
-          "10Ω",
-          "20Ω"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the resistance of a conductor if current changes from 2A to 3A when voltage changes from 10V to 15V.",
-        "hindi": "एक चालक का प्रतिरोध ज्ञात करें यदि वोल्टेज 10V से 15V होने पर धारा 2A से 3A हो जाती है।"
-      },
-      "option": {
-        "english": [
+          "2.5Ω",
           "5Ω",
-          "10Ω",
-          "15Ω",
-          "20Ω"
+          "20Ω",
+          "40Ω"
         ],
         "hindi": [
+          "2.5Ω",
           "5Ω",
-          "10Ω",
-          "15Ω",
-          "20Ω"
+          "20Ω",
+          "40Ω"
         ]
       },
       "answer": 0,
@@ -118,117 +95,140 @@
     },
     {
       "question_name": {
-        "english": "Find the current through R₁ in this balanced Wheatstone bridge:",
-        "hindi": "इस संतुलित व्हीटस्टोन ब्रिज में R₁ से प्रवाहित धारा ज्ञात करें:"
+        "english": "Calculate the energy consumed in kWh when a 1500W appliance is used for 40 minutes.",
+        "hindi": "1500W के उपकरण को 40 मिनट तक उपयोग करने पर खपत की गई ऊर्जा kWh में ज्ञात करें।"
       },
       "option": {
         "english": [
-          "0.5A",
-          "1.0A",
-          "1.5A",
-          "2.0A"
+          "0.5 kWh",
+          "1.0 kWh",
+          "1.5 kWh",
+          "2.0 kWh"
         ],
         "hindi": [
-          "0.5A",
-          "1.0A",
-          "1.5A",
-          "2.0A"
+          "0.5 kWh",
+          "1.0 kWh",
+          "1.5 kWh",
+          "2.0 kWh"
         ]
       },
       "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><polygon points='100,30 200,30 150,120' fill='none' stroke='black'/><text x='90' y='50'>R₁=6Ω</text><text x='190' y='50'>R₂=12Ω</text><text x='120' y='100'>R₃=12Ω</text><text x='50' y='70'>12V</text></svg>",
-      "medium": "hard"
+      "image": null,
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which resistor has maximum potential difference across it?",
-        "hindi": "किस प्रतिरोधक के सिरों पर अधिकतम विभवांतर है?"
+        "english": "Find the voltage V₁ across the 4Ω resistor:",
+        "hindi": "4Ω प्रतिरोधक के सिरों पर वोल्टेज V₁ ज्ञात करें:"
       },
       "option": {
         "english": [
-          "3Ω",
+          "4V",
+          "8V",
+          "12V",
+          "16V"
+        ],
+        "hindi": [
+          "4V",
+          "8V",
+          "12V",
+          "16V"
+        ]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='40' height='20' fill='none' stroke='black'/><text x='130' y='55'>4Ω</text><text x='170' y='55'>V₁</text><text x='80' y='70'>24V</text><rect x='120' y='90' width='40' height='20' fill='none' stroke='black'/><text x='130' y='105'>8Ω</text></svg>",
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "Which resistor dissipates maximum power in this circuit?",
+        "hindi": "इस परिपथ में कौन सा प्रतिरोधक अधिकतम शक्ति व्यय करता है?"
+      },
+      "option": {
+        "english": [
+          "2Ω",
+          "4Ω",
           "6Ω",
-          "9Ω",
           "All equal"
         ],
         "hindi": [
-          "3Ω",
+          "2Ω",
+          "4Ω",
           "6Ω",
-          "9Ω",
           "सभी बराबर"
         ]
       },
-      "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='70' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='100' width='40' height='20' fill='none' stroke='black'/><text x='110' y='55'>3Ω</text><text x='110' y='85'>6Ω</text><text x='110' y='115'>9Ω</text><text x='50' y='70'>18V</text></svg>",
-      "medium": "hard"
+      "answer": 0,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='70' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='100' width='40' height='20' fill='none' stroke='black'/><text x='110' y='55'>2Ω</text><text x='110' y='85'>4Ω</text><text x='110' y='115'>6Ω</text><text x='40' y='70'>12V</text></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Calculate the equivalent resistance between A and B:",
-        "hindi": "A और B के बीच तुल्य प्रतिरोध ज्ञात करें:"
+        "english": "What is the equivalent resistance between points A and B?",
+        "hindi": "बिंदु A और B के बीच तुल्य प्रतिरोध क्या है?"
       },
       "option": {
         "english": [
           "2Ω",
-          "3Ω",
           "4Ω",
-          "6Ω"
+          "6Ω",
+          "8Ω"
         ],
         "hindi": [
           "2Ω",
-          "3Ω",
           "4Ω",
-          "6Ω"
+          "6Ω",
+          "8Ω"
         ]
       },
       "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><text x='40' y='75'>A</text><text x='250' y='75'>B</text><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='160' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='130' y='90' width='40' height='20' fill='none' stroke='black'/><text x='110' y='55'>6Ω</text><text x='170' y='55'>6Ω</text><text x='140' y='105'>6Ω</text></svg>",
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><text x='40' y='75'>A</text><text x='250' y='75'>B</text><rect x='80' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='180' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='130' y='90' width='40' height='20' fill='none' stroke='black'/><text x='90' y='55'>6Ω</text><text x='190' y='55'>12Ω</text><text x='140' y='105'>12Ω</text></svg>",
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "Find the power dissipated in the 4Ω resistor:",
-        "hindi": "4Ω प्रतिरोधक में व्यय शक्ति ज्ञात करें:"
+        "english": "Calculate the current through the 6Ω resistor in this complex circuit:",
+        "hindi": "इस जटिल परिपथ में 6Ω प्रतिरोधक से प्रवाहित धारा की गणना करें:"
       },
       "option": {
         "english": [
-          "16W",
-          "32W",
-          "48W",
-          "64W"
+          "1A",
+          "2A",
+          "3A",
+          "4A"
         ],
         "hindi": [
-          "16W",
-          "32W",
-          "48W",
-          "64W"
-        ]
-      },
-      "answer": 3,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='40' height='20' fill='none' stroke='black'/><text x='130' y='65'>4Ω</text><text x='80' y='70'>16V</text><line x1='80' y1='60' x2='120' y2='60' stroke='black'/><line x1='160' y1='60' x2='200' y2='60' stroke='black'/></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the heat produced in joules when 5A current flows through a 2Ω resistor for 2 minutes:",
-        "hindi": "जब 5A धारा 2Ω प्रतिरोधक से 2 मिनट तक प्रवाहित होती है तो जूल में उत्पन्न ऊष्मा की गणना करें:"
-      },
-      "option": {
-        "english": [
-          "3000J",
-          "6000J",
-          "9000J",
-          "12000J"
-        ],
-        "hindi": [
-          "3000J",
-          "6000J",
-          "9000J",
-          "12000J"
+          "1A",
+          "2A",
+          "3A",
+          "4A"
         ]
       },
       "answer": 2,
-      "image": null,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='180' y='40' width='40' height='20' fill='none' stroke='black'/><text x='105' y='55'>6Ω</text><text x='185' y='55'>3Ω</text><text x='50' y='70'>36V</text><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Find the total heat energy produced in 5 minutes when the circuit carries 2A current:",
+        "hindi": "जब परिपथ में 2A धारा प्रवाहित हो तो 5 मिनट में उत्पन्न कुल ऊष्मा ऊर्जा ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "2880J",
+          "5760J",
+          "7200J",
+          "14400J"
+        ],
+        "hindi": [
+          "2880J",
+          "5760J",
+          "7200J",
+          "14400J"
+        ]
+      },
+      "answer": 3,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='40' height='20' fill='none' stroke='black'/><text x='130' y='55'>8Ω</text><text x='80' y='70'>2A</text><rect x='120' y='90' width='40' height='20' fill='none' stroke='black'/><text x='130' y='105'>4Ω</text></svg>",
       "medium": "hard"
     }
   ]

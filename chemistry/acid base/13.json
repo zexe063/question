@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Factory waste is usually acidic in nature. Lime (calcium oxide - CaO) is a basic substance that neutralizes acidic waste. The reaction is: CaO + 2HCl → CaCl₂ + H₂O. This makes the waste safe for disposal.",
+        "hindi": "कारखाने का कचरा आमतौर पर अम्लीय होता है। चूना (कैल्शियम ऑक्साइड - CaO) एक क्षारीय पदार्थ है जो अम्लीय कचरे को उदासीन करता है। अभिक्रिया है: CaO + 2HCl → CaCl₂ + H₂O। यह कचरे को निपटान के लिए सुरक्षित बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Baking powder contains sodium bicarbonate (NaHCO₃) and tartaric acid. When water is added, tartaric acid reacts with sodium bicarbonate to produce carbon dioxide gas. The reaction is: NaHCO₃ + H⁺ → Na⁺ + H₂O + CO₂↑. This CO₂ makes the cake/bread soft and fluffy.",
+        "hindi": "बेकिंग पाउडर में सोडियम बाइकार्बोनेट (NaHCO₃) और टार्टरिक एसिड होता है। जब पानी मिलाया जाता है, टार्टरिक एसिड सोडियम बाइकार्बोनेट से क्रिया करके कार्बन डाइऑक्साइड गैस बनाता है। अभिक्रिया है: NaHCO₃ + H⁺ → Na⁺ + H₂O + CO₂↑। यह CO₂ केक/ब्रेड को मुलायम और फूला हुआ बनाती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Plaster of Paris (CaSO₄·½H₂O) reacts with moisture to form gypsum (CaSO₄·2H₂O) which is hard. The reaction is: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O. To prevent this premature hardening, it must be kept away from moisture.",
+        "hindi": "प्लास्टर ऑफ पेरिस (CaSO₄·½H₂O) नमी के साथ क्रिया करके जिप्सम (CaSO₄·2H₂O) बनाता है जो कठोर होता है। अभिक्रिया है: CaSO₄·½H₂O + 1½H₂O → CaSO₄·2H₂O। इस समय से पहले कठोर होने से बचाने के लिए, इसे नमी से दूर रखना जरूरी है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium bicarbonate (NaHCO₃) is used in fire extinguishers because when heated it decomposes to release CO₂ which helps put out the fire. The reaction is: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑. CO₂ being heavier than air forms a blanket over fire cutting off oxygen supply.",
+        "hindi": "अग्निशामकों में सोडियम बाइकार्बोनेट (NaHCO₃) का उपयोग किया जाता है क्योंकि गरम होने पर यह टूटकर CO₂ छोड़ता है जो आग बुझाने में मदद करता है। अभिक्रिया है: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑। CO₂ हवा से भारी होने के कारण आग पर एक परत बना लेती है जो ऑक्सीजन की आपूर्ति रोक देती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When acid is added to water, the heat of dilution is spread over a large volume of water. If water is added to acid, the heat generated can cause the mixture to splash out dangerously. Remember: 'Always Add Acid to Water' (AAA rule).",
+        "hindi": "जब अम्ल को पानी में मिलाया जाता है, तो तनुकरण की गर्मी बड़ी मात्रा में पानी में फैल जाती है। यदि अम्ल में पानी मिलाया जाए, तो उत्पन्न गर्मी से मिश्रण खतरनाक तरीके से छिटक सकता है। याद रखें: 'हमेशा पानी में अम्ल मिलाएं' (AAA नियम)।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Sodium oxide (Na₂O) is used in glass making along with silica (SiO₂). The basic reaction is: Na₂CO₃ + SiO₂ → Na₂SiO₃ (sodium silicate) + CO₂. Sodium helps lower the melting point of silica and makes the glass more workable.",
+        "hindi": "कांच बनाने में सोडियम ऑक्साइड (Na₂O) का उपयोग सिलिका (SiO₂) के साथ किया जाता है। मूल अभिक्रिया है: Na₂CO₃ + SiO₂ → Na₂SiO₃ (सोडियम सिलिकेट) + CO₂। सोडियम सिलिका के गलनांक को कम करने में मदद करता है और कांच को अधिक कार्यशील बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -146,42 +170,50 @@
         "english": [
           "SO₄²⁻ ions",
           "OH⁻ ions",
-          "Cu²⁺ ions",
-          "H⁺ ions"
+          "H⁺ ions",
+          "Cu²⁺ ions"
         ],
         "hindi": [
           "SO₄²⁻ आयन",
           "OH⁻ आयन",
-          "Cu²⁺ आयन",
-          "H⁺ आयन"
+          "H⁺ आयन",
+          "Cu²⁺ आयन"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When copper sulphate (CuSO₄) dissolves in water, it forms Cu²⁺ and SO₄²⁻ ions. The Cu²⁺ ions are surrounded by water molecules forming [Cu(H₂O)₆]²⁺ complex which gives the characteristic blue color. The reaction is: CuSO₄ + 6H₂O → [Cu(H₂O)₆]²⁺ + SO₄²⁻",
+        "hindi": "जब कॉपर सल्फेट (CuSO₄) पानी में घुलता है, तो यह Cu²⁺ और SO₄²⁻ आयन बनाता है। Cu²⁺ आयनों के चारों ओर पानी के अणु [Cu(H₂O)₆]²⁺ जटिल बनाते हैं जो विशिष्ट नीला रंग देता है। अभिक्रिया है: CuSO₄ + 6H₂O → [Cu(H₂O)₆]²⁺ + SO₄²⁻"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas is produced when metal carbonates react with acids?",
-        "hindi": "धातु कार्बोनेट जब अम्लों से अभिक्रिया करते हैं तो कौन सी गैस बनती है?"
+        "english": "What happens to the smell of onion indicator when it reacts with an acid?",
+        "hindi": "प्याज सूचक की गंध क्या होती है जब यह एक अम्ल से प्रतिक्रिया करता है?"
       },
       "option": {
         "english": [
-          "CO₂",
-          "O₂",
-          "H₂",
-          "SO₂"
+          "Smell disappears",
+          "Becomes stronger",
+          "Changes to sweet",
+          "No change"
         ],
         "hindi": [
-          "CO₂",
-          "O₂",
-          "H₂",
-          "SO₂"
+          "गंध गायब हो जाती है",
+          "गंध तेज हो जाती है", 
+          "मीठी गंध में बदल जाती है",
+          "कोई बदलाव नहीं"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Onion contains volatile sulfur compounds that give it its characteristic smell. When onion juice reacts with acids, these compounds are neutralized, causing the smell to disappear. This makes onion juice a natural acid-base indicator.",
+        "hindi": "प्याज में वाष्पशील सल्फर यौगिक होते हैं जो इसे विशिष्ट गंध देते हैं। जब प्याज का रस अम्लों से प्रतिक्रिया करता है, ये यौगिक उदासीन हो जाते हैं, जिससे गंध गायब हो जाती है। यह प्याज के रस को एक प्राकृतिक अम्ल-क्षार सूचक बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -190,21 +222,25 @@
       },
       "option": {
         "english": [
-          "Neutralizes acid",
           "Coats stomach",
+          "Neutralizes acid",
           "Kills bacteria",
           "Reduces inflammation"
         ],
         "hindi": [
-          "अम्ल को उदासीन करता है",
           "पेट को कोट करता है",
+          "अम्ल को उदासीन करता है",
           "बैक्टीरिया को मारता है",
           "सूजन कम करता है"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Milk of magnesia (Mg(OH)₂) is a base that neutralizes excess stomach acid (HCl). The reaction is: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O. This helps relieve acidity and heartburn. MgCl₂ formed is harmless and water-soluble.",
+        "hindi": "मैग्नीशिया का दूध (Mg(OH)₂) एक क्षार है जो अतिरिक्त पेट के अम्ल (HCl) को उदासीन करता है। अभिक्रिया है: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O। यह अम्लता और सीने में जलन से राहत देता है। बना हुआ MgCl₂ हानिरहित और जल में घुलनशील है।"
+      }
     },
     {
       "question_name": {
@@ -214,19 +250,23 @@
       "option": {
         "english": [
           "Crystallization",
-          "Galvanization",
           "Sublimation",
+          "Galvanization",
           "Distillation"
         ],
         "hindi": [
           "क्रिस्टलीकरण",
-          "जस्तीकरण",
           "ऊर्ध्वपातन",
+          "जस्तीकरण",
           "आसवन"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Galvanization is coating iron with zinc to prevent rusting. Zinc acts as a sacrificial metal - it corrodes instead of iron. The reaction of rusting is: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (rust). Zinc coating prevents iron from coming in contact with oxygen and moisture.",
+        "hindi": "जस्तीकरण लोहे पर जस्ता (zinc) की परत चढ़ाकर जंग को रोकने की प्रक्रिया है। जस्ता त्यागी धातु की तरह काम करता है - यह लोहे की जगह स्वयं क्षय होता है। जंग लगने की अभिक्रिया है: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (जंग)। जस्ते की परत लोहे को ऑक्सीजन और नमी के संपर्क में आने से रोकती है।"
+      }
     }
 ]

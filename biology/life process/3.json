@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -7,21 +6,25 @@
       },
       "option": {
         "english": [
-          "Protect leaves",
           "Control stomatal opening",
+          "Protect leaves",
           "Store food",
           "Produce chlorophyll"
         ],
         "hindi": [
-          "पत्तियों की रक्षा",
           "रंध्रों का खुलना नियंत्रित करना",
+          "पत्तियों की रक्षा",
           "भोजन संग्रह",
           "क्लोरोफिल उत्पादन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Guard cells are specialized cells that control the opening and closing of stomata (tiny pores) in leaves. They help regulate gas exchange and water loss through transpiration by changing their shape based on water content.",
+        "hindi": "द्वार कोशिकाएं विशेष कोशिकाएं हैं जो पत्तियों में रंध्रों (छोटे छिद्रों) के खुलने और बंद होने को नियंत्रित करती हैं। वे अपनी जल मात्रा के आधार पर आकार बदलकर गैस विनिमय और वाष्पोत्सर्जन द्वारा जल की हानि को नियंत्रित करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -31,7 +34,7 @@
       "option": {
         "english": [
           "Pancreas",
-          "Stomach",
+          "Stomach", 
           "Liver",
           "Gallbladder"
         ],
@@ -44,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The liver produces bile, which is stored in the gallbladder. Bile helps in the digestion of fats by breaking them down into smaller droplets through emulsification, making it easier for enzymes to digest them.",
+        "hindi": "यकृत पित्त का निर्माण करता है, जो पित्ताशय में संग्रहित होता है। पित्त वसा के पाचन में सहायता करता है, उन्हें पायसीकरण द्वारा छोटी बूंदों में तोड़कर एंजाइमों द्वारा पाचन को आसान बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -55,19 +62,23 @@
         "english": [
           "Transport oxygen",
           "Blood clotting",
-          "Fight infection",
-          "Transport nutrients"
+          "Transport nutrients",
+          "Fight infection"
         ],
         "hindi": [
           "ऑक्सीजन का परिवहन",
           "रक्त का थक्का जमाना",
-          "संक्रमण से लड़ना",
-          "पोषक तत्वों का परिवहन"
+          "पोषक तत्वों का परिवहन",
+          "संक्रमण से लड़ना"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "White blood cells (WBCs) are crucial components of the body's immune system. They protect the body by identifying, attacking and destroying harmful pathogens like bacteria and viruses that cause infections.",
+        "hindi": "श्वेत रक्त कोशिकाएं (WBC) शरीर की प्रतिरक्षा प्रणाली के महत्वपूर्ण घटक हैं। वे हानिकारक रोगजनकों जैसे बैक्टीरिया और वायरस जो संक्रमण पैदा करते हैं, की पहचान कर, उन पर आक्रमण कर और उन्हें नष्ट करके शरीर की रक्षा करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -90,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Urea is formed in the liver through the urea cycle. It is the main end product of protein metabolism. The liver converts toxic ammonia from protein breakdown into urea, which is then filtered by kidneys and excreted in urine.",
+        "hindi": "यूरिया यकृत में यूरिया चक्र द्वारा बनता है। यह प्रोटीन चयापचय का मुख्य अंतिम उत्पाद है। यकृत प्रोटीन टूटने से बने विषैले अमोनिया को यूरिया में बदलता है, जिसे फिर गुर्दे छानकर मूत्र के रूप में बाहर निकालते हैं।"
+      }
     },
     {
       "question_name": {
@@ -99,21 +114,25 @@
       },
       "option": {
         "english": [
+          "Complete digestion",
           "Storage of food",
           "Absorption of water",
-          "Complete digestion",
           "Removal of waste"
         ],
         "hindi": [
+          "पूर्ण पाचन",
           "भोजन का संग्रह",
           "जल का अवशोषण",
-          "पूर्ण पाचन",
           "अपशिष्ट का निष्कासन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The small intestine completes the digestion process through enzymes from pancreas and intestinal walls. It breaks down proteins into amino acids, carbohydrates into glucose, and fats into fatty acids. Most nutrient absorption also occurs here.",
+        "hindi": "छोटी आंत अग्न्याशय और आंत की दीवारों से निकलने वाले एंजाइमों द्वारा पाचन प्रक्रिया को पूरा करती है। यह प्रोटीन को अमीनो एसिड में, कार्बोहाइड्रेट को ग्लूकोज में, और वसा को वसीय अम्ल में तोड़ती है। अधिकांश पोषक तत्वों का अवशोषण भी यहीं होता है।"
+      }
     },
     {
       "question_name": {
@@ -124,19 +143,23 @@
         "english": [
           "Blood proteins escape",
           "Blood pressure increases",
-          "Plasma filters out",
-          "RBCs break down"
+          "RBCs break down",
+          "Plasma filters out"
         ],
         "hindi": [
           "रक्त प्रोटीन बाहर निकलते हैं",
           "रक्तचाप बढ़ता है",
-          "प्लाज्मा छन जाता है",
-          "RBC टूटते हैं"
+          "RBC टूटते हैं",
+          "प्लाज्मा छानता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "During tissue fluid formation, blood plasma filters out of capillaries due to blood pressure. This filtered fluid, minus proteins and blood cells, bathes the body cells providing nutrients and removing waste products.",
+        "hindi": "ऊतक द्रव के निर्माण के दौरान, रक्तचाप के कारण केशिकाओं से रक्त प्लाज्मा छन जाता है। यह छना हुआ द्रव, प्रोटीन और रक्त कोशिकाओं के बिना, शरीर की कोशिकाओं को पोषक तत्व प्रदान करता है और अपशिष्ट पदार्थों को हटाता है।"
+      }
     },
     {
       "question_name": {
@@ -146,20 +169,24 @@
       "option": {
         "english": [
           "Creates root pressure",
-          "Creates pull force",
           "Increases osmosis",
+          "Creates pull force",
           "Decreases water loss"
         ],
         "hindi": [
           "मूल दाब उत्पन्न करता है",
-          "खींचने का बल उत्पन्न करता है",
           "परासरण बढ़ाता है",
+          "खींचने का बल उत्पन्न करता है",
           "जल हानि घटाता है"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Transpiration creates a pull force in plants through water potential gradient. As water evaporates from leaves, it creates a continuous column of water from roots to leaves through xylem vessels, helping in upward water transport.",
+        "hindi": "वाष्पोत्सर्जन जल विभव प्रवणता के माध्यम से पौधों में खींचने का बल उत्पन्न करता है। जब पत्तियों से पानी वाष्पित होता है, तो यह जाइलम वाहिकाओं के माध्यम से जड़ों से पत्तियों तक पानी का एक निरंतर स्तंभ बनाता है, जो ऊपर की ओर जल परिवहन में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -182,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Reabsorption in kidneys is crucial for conserving useful substances like glucose, amino acids, water, and essential ions that are initially filtered. This process prevents the loss of important nutrients and helps maintain body homeostasis.",
+        "hindi": "गुर्दे में पुनरावशोषण प्रारंभ में छने हुए ग्लूकोज, अमीनो एसिड, जल और आवश्यक आयनों जैसे उपयोगी पदार्थों के संरक्षण के लिए महत्वपूर्ण है। यह प्रक्रिया महत्वपूर्ण पोषक तत्वों की हानि को रोकती है और शरीर की समस्थिति बनाए रखने में मदद करती है।"
+      }
     },
     {
       "question_name": {
@@ -205,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Blood pressure drops in arterioles due to their narrow diameter which increases resistance to blood flow. This narrowing is essential as it helps regulate blood flow to different tissues and maintains appropriate pressure in capillaries.",
+        "hindi": "धमनिकाओं में रक्तचाप उनके संकीर्ण व्यास के कारण घटता है जो रक्त प्रवाह के प्रति प्रतिरोध बढ़ाता है। यह संकीर्णता आवश्यक है क्योंकि यह विभिन्न ऊतकों में रक्त प्रवाह को नियंत्रित करने और केशिकाओं में उचित दाब बनाए रखने में मदद करती है।"
+      }
     },
     {
       "question_name": {
@@ -215,19 +250,23 @@
       "option": {
         "english": [
           "By filtering blood",
-          "By removing excess H+ ions",
           "By storing minerals",
+          "By removing excess H+ ions",
           "By producing enzymes"
         ],
         "hindi": [
           "रक्त छानकर",
-          "अतिरिक्त H+ आयन निकालकर",
           "खनिज संग्रह करके",
+          "अतिरिक्त H+ आयन निकालकर",
           "एंजाइम उत्पन्न करके"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Kidneys maintain blood pH by removing excess H+ ions and regulating bicarbonate(H2CO3) levels. They can either excrete more H+ ions in urine when blood is too acidic, or retain more bicarbonate when blood is too basic, thus maintaining pH balance.",
+        "hindi": "गुर्दे अतिरिक्त H+ आयनों को निकालकर और बाइकार्बोनेट(H2CO3) स्तर को नियंत्रित करके रक्त का pH बनाए रखते हैं। जब रक्त बहुत अम्लीय होता है तो वे मूत्र में अधिक H+ आयन निकालते हैं, या जब रक्त बहुत क्षारीय होता है तो अधिक बाइकार्बोनेट रोक लेते हैं, इस प्रकार pH संतुलन बनाए रखते हैं।"
+      }
     }
   ]

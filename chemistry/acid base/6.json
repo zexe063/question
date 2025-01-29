@@ -8,7 +8,7 @@
         "english": [
           "Universal indicator",
           "Red litmus",
-          "Phenolphthalein",
+          "Phenolphthalein", 
           "Blue litmus"
         ],
         "hindi": [
@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Universal indicator is used to test soil acidity as it shows different colors for different pH values. It gives the most accurate measure of how acidic or basic the soil is.",
+        "hindi": "सार्वत्रिक सूचक का उपयोग मिट्टी की अम्लता का परीक्षण करने के लिए किया जाता है क्योंकि यह विभिन्न pH मानों के लिए अलग-अलग रंग दिखाता है। यह मिट्टी कितनी अम्लीय या क्षारीय है इसका सबसे सटीक माप देता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium acetate (CH₃COONa) is commonly known as vinegar salt. It is formed by the reaction between acetic acid (vinegar) and sodium hydroxide: CH₃COOH + NaOH → CH₃COONa + H₂O",
+        "hindi": "सोडियम एसीटेट (CH₃COONa) को आमतौर पर सिरका लवण के नाम से जाना जाता है। यह एसीटिक एसिड (सिरका) और सोडियम हाइड्रॉक्साइड की अभिक्रिया से बनता है: CH₃COOH + NaOH → CH₃COONa + H₂O"
+      }
     },
     {
       "question_name": {
@@ -54,19 +62,23 @@
         "english": [
           "O₂",
           "H₂",
-          "CO₂",
-          "SO₂"
+          "SO₂",
+          "CO₂"
         ],
         "hindi": [
           "O₂",
           "H₂",
-          "CO₂",
-          "SO₂"
+          "SO₂",
+          "CO₂"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When metal carbonates react with acids, carbon dioxide (CO₂) gas is evolved. For example: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑. The CO₂ gas turns lime water milky.",
+        "hindi": "जब धातु कार्बोनेट अम्ल से अभिक्रिया करते हैं, तो कार्बन डाइऑक्साइड (CO₂) गैस निकलती है। उदाहरण: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑. CO₂ गैस चूने के पानी को दूधिया कर देती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Methanoic acid (HCOOH) is present in ant sting, which causes pain and irritation. It is also known as formic acid. The sting can be neutralized using a mild base like baking soda.",
+        "hindi": "चींटी के डंक में मेथेनोइक एसिड (HCOOH) पाया जाता है, जो दर्द और जलन पैदा करता है। इसे फॉर्मिक एसिड भी कहा जाता है। डंक को बेकिंग सोडा जैसे हल्के क्षार से निष्प्रभावी किया जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -98,21 +114,26 @@
       },
       "option": {
         "english": [
+          "Lemon juice",
           "NaOH solution",
           "Lime water",
-          "Pure water",
-          "Lemon juice"
+          "Pure water"
+          
         ],
         "hindi": [
+          "नींबू का रस",
           "NaOH विलयन",
           "चूने का पानी",
-          "शुद्ध जल",
-          "नींबू का रस"
+          "शुद्ध जल"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Lemon juice contains citric acid which turns blue litmus red. This is a characteristic property of acids. Bases like NaOH and lime water turn red litmus blue.",
+        "hindi": "नींबू के रस में साइट्रिक एसिड होता है जो नीले लिटमस को लाल कर देता है। यह अम्लों का एक विशिष्ट गुण है। NaOH और चूने का पानी जैसे क्षार लाल लिटमस को नीला कर देते हैं।"
+      }
     },
     {
       "question_name": {
@@ -123,19 +144,23 @@
         "english": [
           "Basic salt",
           "Neutral salt",
-          "Mixed salt",
-          "Acidic salt"
+           "Acidic salt",
+          "Mixed salt"
         ],
         "hindi": [
           "क्षारीय लवण",
           "उदासीन लवण",
-          "मिश्रित लवण",
-          "अम्लीय लवण"
+           "अम्लीय लवण",
+          "मिश्रित लवण"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "NH₄Cl (Ammonium chloride) is an acidic salt formed by reaction between a strong acid (HCl) and weak base (NH₄OH): NH₄OH + HCl → NH₄Cl + H₂O. Its solution in water is acidic.",
+        "hindi": "NH₄Cl (अमोनियम क्लोराइड) एक अम्लीय लवण है जो एक प्रबल अम्ल (HCl) और दुर्बल क्षार (NH₄OH) की अभिक्रिया से बनता है: NH₄OH + HCl → NH₄Cl + H₂O. पानी में इसका विलयन अम्लीय होता है।"
+      }
     },
     {
       "question_name": {
@@ -146,19 +171,23 @@
         "english": [
           "Sweet taste",
           "Bitter taste",
-          "Electrical conductivity",
-          "Blue litmus turns red"
+          "Blue litmus turns red",
+          "Electrical conductivity"
         ],
         "hindi": [
           "मीठा स्वाद",
           "कड़वा स्वाद",
-          "विद्युत चालकता",
-          "नीला लिटमस लाल हो जाता है"
+          "नीला लिटमस लाल हो जाता है",
+          "विद्युत चालकता"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Both acids and bases conduct electricity in their aqueous solutions due to the presence of ions. Acids produce H⁺ ions while bases produce OH⁻ ions in water.",
+        "hindi": "अम्ल और क्षार दोनों अपने जलीय विलयन में आयनों की उपस्थिति के कारण विद्युत का चालन करते हैं। अम्ल पानी में H⁺ आयन जबकि क्षार OH⁻ आयन उत्पन्न करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -168,20 +197,24 @@
       "option": {
         "english": [
           "Only salt forms",
-          "Only water forms",
           "Salt and water form",
+          "Only water forms",
           "No reaction occurs"
         ],
         "hindi": [
           "केवल लवण बनता है",
-          "केवल जल बनता है",
           "लवण और जल बनते हैं",
+          "केवल जल बनता है",
           "कोई अभिक्रिया नहीं होती"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When an acid reacts with a metal oxide, it forms salt and water. For example: CuO + 2HCl → CuCl₂ + H₂O. This is a neutralization reaction between a basic oxide and an acid.",
+        "hindi": "जब एक अम्ल धातु ऑक्साइड से अभिक्रिया करता है, तो लवण और जल बनते हैं। उदाहरण: CuO + 2HCl → CuCl₂ + H₂O. यह एक क्षारीय ऑक्साइड और अम्ल के बीच उदासीनीकरण अभिक्रिया है।"
+      }
     },
     {
       "question_name": {
@@ -193,18 +226,22 @@
           "1 × 10⁻⁵ M",
           "5 × 10⁻⁵ M",
           "1 × 10⁻⁹ M",
-          "1 × 10⁻¹⁴ M"
+          "1 × 10⁻¹ M"
         ],
         "hindi": [
           "1 × 10⁻⁵ M",
           "5 × 10⁻⁵ M",
           "1 × 10⁻⁹ M",
-          "1 × 10⁻¹⁴ M"
+          "1 × 10⁻¹ M"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "For pH = 5, [H⁺] = 10⁻⁵ M = 1 × 10⁻⁵ M. This is because pH = -log[H⁺]. The solution is acidic as pH < 7.",
+        "hindi": "pH = 5 के लिए, [H⁺] = 10⁻⁵ M = 1 × 10⁻⁵ M. यह इसलिए क्योंकि pH = -log[H⁺]. विलयन अम्लीय है क्योंकि pH < 7 है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +264,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "HCl + KOH → KCl + H₂O is a neutralization reaction where an acid (HCl) reacts with a base (KOH) to form salt (KCl) and water. The solution becomes neutral with pH = 7.",
+        "hindi": "HCl + KOH → KCl + H₂O एक उदासीनीकरण अभिक्रिया है जहां एक अम्ल (HCl) एक क्षार (KOH) से अभिक्रिया करके लवण (KCl) और जल बनाता है। विलयन का pH = 7 होकर उदासीन हो जाता है।"
+      }
     }
 ]

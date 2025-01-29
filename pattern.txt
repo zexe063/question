@@ -6,6 +6,9 @@
   "25": "Complex theoretical scenario"
 }
 
+can add explanation for class 10 as simple depth , simple language as hinid and english  only explanation come from class 10  and more efcetiive and understandable
+
+ explanation:value 
 
 # Fisher-Yates for MCQ (20 levels)
 # Rules: 

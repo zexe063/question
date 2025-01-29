@@ -1,234 +1,262 @@
-
-
 [
-    {
-      "question_name": {
-        "english": "What is the function of inhibin?",
-        "hindi": "इनहिबिन का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Stimulate FSH",
-          "Inhibit FSH",
-          "Stimulate LH",
-          "Inhibit LH"
-        ],
-        "hindi": [
-          "FSH को उत्तेजित करना",
-          "FSH को रोकना",
-          "LH को उत्तेजित करना",
-          "LH को रोकना"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What helps in seed dispersal?",
+      "hindi": "बीज प्रकीर्णन में क्या मदद करता है?"
     },
-    {
-      "question_name": {
-        "english": "What is the role of hCG hormone?",
-        "hindi": "hCG हार्मोन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Trigger labor",
-          "Start ovulation",
-          "Stimulate milk",
-          "Maintain pregnancy"
-        ],
-        "hindi": [
-          "प्रसव शुरू करना",
-          "अंडोत्सर्जन शुरू करना",
-          "दूध उत्तेजित करना",
-          "गर्भावस्था बनाए रखना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Roots",
+        "Wind",
+        "Stems",
+        "Leaves"
+      ],
+      "hindi": [
+        "जड़ें",
+        "हवा",
+        "तना",
+        "पत्तियां"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What causes primary sex determination?",
-        "hindi": "प्राथमिक लिंग निर्धारण का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "X chromosome",
-          "Hormones",
-          "SRY gene",
-          "Environment"
-        ],
-        "hindi": [
-          "X गुणसूत्र",
-          "हार्मोन",
-          "SRY जीन",
-          "वातावरण"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which structure forms umbilical cord?",
-        "hindi": "नाभिनाल कौन सी संरचना से बनती है?"
-      },
-      "option": {
-        "english": [
-          "Allantois",
-          "Amnion",
-          "Chorion",
-          "Yolk sac"
-        ],
-        "hindi": [
-          "अलैंटॉइस",
-          "उल्बकोष",
-          "जरायु",
-          "पीत कोष"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of activin?",
-        "hindi": "एक्टिविन का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Inhibit FSH",
-          "Stimulate FSH",
-          "Inhibit LH",
-          "Stimulate LH"
-        ],
-        "hindi": [
-          "FSH को रोकना",
-          "FSH को उत्तेजित करना",
-          "LH को रोकना",
-          "LH को उत्तेजित करना"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What causes sperm capacitation?",
-        "hindi": "शुक्राणु कैपासिटेशन का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "pH change",
-          "Temperature",
-          "Calcium ions",
-          "Enzymes"
-        ],
-        "hindi": [
-          "pH परिवर्तन",
-          "तापमान",
-          "कैल्शियम आयन",
-          "एंजाइम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of kisspeptin?",
-        "hindi": "किस्पेप्टिन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Egg development",
-          "Sperm production",
-          "Hormone regulation",
-          "Puberty onset"
-        ],
-        "hindi": [
-          "अंडा विकास",
-          "शुक्राणु उत्पादन",
-          "हार्मोन नियमन",
-          "यौवन प्रारंभ"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which enzyme digests zona pellucida?",
-        "hindi": "कौन सा एंजाइम जोना पेल्यूसिडा को पचाता है?"
-      },
-      "option": {
-        "english": [
-          "Acrosin",
-          "Hyaluronidase",
-          "Protease",
-          "Lipase"
-        ],
-        "hindi": [
-          "एक्रोसिन",
-          "हायलूरोनिडेज",
-          "प्रोटीएज",
-          "लाइपेज"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of relaxin?",
-        "hindi": "रिलैक्सिन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Milk production",
-          "Pelvic softening",
-          "Uterus contraction",
-          "Hormone regulation"
-        ],
-        "hindi": [
-          "दूध उत्पादन",
-          "श्रोणि मृदुकरण",
-          "गर्भाशय संकुचन",
-          "हार्मोन नियमन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What causes cortical reaction?",
-        "hindi": "कॉर्टिकल प्रतिक्रिया का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "Hormone change",
-          "pH change",
-          "Sperm entry",
-          "Temperature"
-        ],
-        "hindi": [
-          "हार्मोन परिवर्तन",
-          "pH परिवर्तन",
-          "तापमान",
-          "शुक्राणु प्रवेश"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "medium": "easy",
+    "explanation": {
+      "english": "Wind is a natural agent that helps in seed dispersal. When wind blows, it carries light seeds and fruits to different places. This helps plants spread to new areas. Many plants like dandelions and maple have special structures that help their seeds float in the wind.",
+      "hindi": "हवा बीज प्रकीर्णन में मदद करने वाला एक प्राकृतिक कारक है। जब हवा चलती है, तो यह हल्के बीजों और फलों को अलग-अलग जगहों पर ले जाती है। यह पौधों को नए क्षेत्रों में फैलने में मदद करता है। डैंडेलियन और मेपल जैसे कई पौधों में विशेष संरचनाएं होती हैं जो उनके बीजों को हवा में तैरने में मदद करती हैं।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which vitamin prevents birth defects?",
+      "hindi": "कौन सा विटामिन जन्म दोषों को रोकता है?"
+    },
+    "option": {
+      "english": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Folic acid"
+      ],
+      "hindi": [
+        "विटामिन A",
+        "विटामिन B",
+        "विटामिन C",
+        "फोलिक एसिड"
+      ]
+    },
+    "answer": 3,
+    "medium": "easy",
+    "explanation": {
+      "english": "Folic acid is a B vitamin that is crucial during pregnancy. It helps prevent serious birth defects of the baby's brain and spine. Pregnant women need to take folic acid supplements, especially in the first three months of pregnancy. Foods like green leafy vegetables are good sources of folic acid.",
+      "hindi": "फोलिक एसिड एक बी विटामिन है जो गर्भावस्था के दौरान बहुत महत्वपूर्ण होता है। यह बच्चे के मस्तिष्क और रीढ़ की हड्डी के गंभीर जन्म दोषों को रोकने में मदद करता है। गर्भवती महिलाओं को फोलिक एसिड की गोलियां लेनी चाहिए, विशेषकर गर्भावस्था के पहले तीन महीनों में। हरी पत्तेदार सब्जियां फोलिक एसिड का अच्छा स्रोत हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of flower becomes fruit?",
+      "hindi": "फूल का कौन सा भाग फल बनता है?"
+    },
+    "option": {
+      "english": [
+        "Sepal",
+        "Petal",
+        "Ovary",
+        "Stamen"
+      ],
+      "hindi": [
+        "बाह्यदल",
+        "पंखुड़ी",
+        "अंडाशय",
+        "पुंकेसर"
+      ]
+    },
+    "answer": 2,
+    "medium": "easy",
+    "explanation": {
+      "english": "The ovary of the flower develops into a fruit after fertilization. When pollen fertilizes the egg cell in the ovary, the ovary starts growing into a fruit while the ovules inside develop into seeds. This is why fruits contain seeds - they were once ovules in the flower's ovary.",
+      "hindi": "निषेचन के बाद फूल का अंडाशय फल में विकसित होता है। जब परागकण अंडाशय में अंडकोशिका को निषेचित करता है, तब अंडाशय फल में बढ़ना शुरू करता है जबकि अंदर के बीजांड बीज में विकसित होते हैं। इसीलिए फलों में बीज होते हैं - ये एक समय फूल के अंडाशय में बीजांड थे।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is needed for seed formation?",
+      "hindi": "बीज बनने के लिए क्या आवश्यक है?"
+    },
+    "option": {
+      "english": [
+        "Fertilization",
+        "Leaves",
+        "Stem",
+        "Roots"
+      ],
+      "hindi": [
+        "निषेचन",
+        "पत्तियां",
+        "तना",
+        "जड़ें"
+      ]
+    },
+    "answer": 0,
+    "medium": "easy",
+    "explanation": {
+      "english": "Fertilization is essential for seed formation. It occurs when a male gamete (from pollen) fuses with a female gamete (egg cell) in the ovule. After fertilization, the ovule develops into a seed containing the embryo of a new plant. This is how flowering plants reproduce sexually.",
+      "hindi": "बीज बनने के लिए निषेचन आवश्यक है। यह तब होता है जब नर युग्मक (परागकण से) मादा युग्मक (अंडकोशिका) से बीजांड में मिलता है। निषेचन के बाद, बीजांड एक बीज में विकसित होता है जिसमें नए पौधे का भ्रूण होता है। इस तरह फूलदार पौधे लैंगिक प्रजनन करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which STD affects liver?",
+      "hindi": "कौन सा यौन रोग यकृत को प्रभावित करता है?"
+    },
+    "option": {
+      "english": [
+        "AIDS",
+        "Hepatitis B",
+        "Syphilis",
+        "Gonorrhea"
+      ],
+      "hindi": [
+        "एड्स",
+        "हेपेटाइटिस B",
+        "सिफलिस",
+        "सुजाक"
+      ]
+    },
+    "answer": 1,
+    "medium": "medium",
+    "explanation": {
+      "english": "Hepatitis B is a serious liver infection that can be transmitted sexually. It is caused by the hepatitis B virus (HBV) which attacks the liver. The virus can cause both acute and chronic liver disease. It can be prevented through vaccination and by practicing safe sex.",
+      "hindi": "हेपेटाइटिस बी एक गंभीर यकृत संक्रमण है जो यौन संबंधों से फैल सकता है। यह हेपेटाइटिस बी वायरस (एचबीवी) के कारण होता है जो यकृत पर हमला करता है। यह वायरस तीव्र और दीर्घकालिक यकृत रोग दोनों का कारण बन सकता है। इससे टीकाकरण और सुरक्षित यौन संबंधों द्वारा बचा जा सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What helps in vegetative reproduction?",
+      "hindi": "काय्यिक प्रजनन में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Seeds",
+        "Flowers",
+        "Buds",
+        "Fruits"
+      ],
+      "hindi": [
+        "बीज",
+        "फूल",
+        "कलियाँ",
+        "फल"
+      ]
+    },
+    "answer": 2,
+    "medium": "medium",
+    "explanation": {
+      "english": "Buds help in vegetative reproduction, which is a type of asexual reproduction in plants. Plants like potato have buds (called eyes) that can grow into new plants. Similarly, plants like Bryophyllum can produce new plants from buds that grow on their leaves. This is a natural way of cloning plants.",
+      "hindi": "कलियाँ काय्यिक प्रजनन में मदद करती हैं, जो पौधों में अलैंगिक प्रजनन का एक प्रकार है। आलू जैसे पौधों में कलियाँ (जिन्हें आँखें कहा जाता है) होती हैं जो नए पौधों में विकसित हो सकती हैं। इसी तरह, ब्रायोफिलम जैसे पौधे अपनी पत्तियों पर उगने वाली कलियों से नए पौधे उत्पन्न कर सकते हैं। यह पौधों के क्लोनिंग का एक प्राकृतिक तरीका है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which contraceptive is permanent?",
+      "hindi": "कौन सा गर्भनिरोधक स्थायी है?"
+    },
+    "option": {
+      "english": [
+        "Pills",
+        "Condoms",
+        "IUD",
+        "Sterilization"
+      ],
+      "hindi": [
+        "गोलियां",
+        "कंडोम",
+        "आई.यू.डी",
+        "नसबंदी"
+      ]
+    },
+    "answer": 3,
+    "medium": "medium",
+    "explanation": {
+      "english": "Sterilization is a permanent method of contraception. In males (vasectomy), the vas deferens is cut and tied to prevent sperm from reaching the penis. In females (tubectomy), the fallopian tubes are cut and tied to prevent eggs from reaching the uterus. Unlike other methods, this is not reversible.",
+      "hindi": "नसबंदी एक स्थायी गर्भनिरोधक विधि है। पुरुषों में (वैसेक्टोमी), वास डेफरेंस को काट कर बांध दिया जाता है ताकि शुक्राणु लिंग तक न पहुंच सकें। महिलाओं में (ट्यूबेक्टोमी), फैलोपियन ट्यूब को काट कर बांध दिया जाता है ताकि अंडे गर्भाशय तक न पहुंच सकें। अन्य विधियों के विपरीत, यह उलट नहीं की जा सकती।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which process occurs during meiosis that increases genetic diversity?",
+      "hindi": "अर्धसूत्री विभाजन के दौरान कौन सी प्रक्रिया आनुवंशिक विविधता बढ़ाती है?"
+    },
+    "option": {
+      "english": [
+        "Crossing over",
+        "Mitosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "hindi": [
+        "क्रॉसिंग ओवर",
+        "समसूत्री विभाजन",
+        "द्विखंडन",
+        "मुकुलन"
+      ]
+    },
+    "answer": 0,
+    "medium": "hard", 
+    "explanation": {
+      "english": "Crossing over occurs during prophase I of meiosis when homologous chromosomes exchange genetic material. This process creates new combinations of genes, leading to increased genetic diversity in offspring. This is why siblings can have different traits even though they have the same parents.",
+      "hindi": "क्रॉसिंग ओवर अर्धसूत्री विभाजन के प्रोफेज I के दौरान होता है जब समजात गुणसूत्र आनुवंशिक सामग्री का आदान-प्रदान करते हैं। यह प्रक्रिया जीन के नए संयोजन बनाती है, जिससे संतान में आनुवंशिक विविधता बढ़ती है। यही कारण है कि भाई-बहनों में अलग-अलग लक्षण हो सकते हैं भले ही उनके माता-पिता एक ही हों।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which plant reproduces by spores?",
+      "hindi": "कौन सा पौधा बीजाणु द्वारा प्रजनन करता है?"
+    },
+    "option": {
+      "english": [
+        "Rose",
+        "Fern",
+        "Mango",
+        "Pea"
+      ],
+      "hindi": [
+        "गुलाब",
+        "फर्न",
+        "आम",
+        "मटर"
+      ]
+    },
+    "answer": 1,
+    "medium": "hard",
+    "explanation": {
+      "english": "Ferns reproduce through spores instead of seeds. Spores are produced in small structures called sporangia on the underside of fern leaves. When mature, these spores are released and can grow into new fern plants if they land in suitable conditions. This is a type of asexual reproduction.",
+      "hindi": "फर्न बीजों के बजाय बीजाणुओं द्वारा प्रजनन करते हैं। बीजाणु फर्न की पत्तियों के नीचे की तरफ स्पोरैंजिया नामक छोटी संरचनाओं में बनते हैं। परिपक्व होने पर, ये बीजाणु मुक्त हो जाते हैं और उपयुक्त परिस्थितियों में गिरने पर नए फर्न पौधों में विकसित हो सकते हैं। यह अलैंगिक प्रजनन का एक प्रकार है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes infertility in males?",
+      "hindi": "पुरुषों में बांझपन का क्या कारण है?"
+    },
+    "option": {
+      "english": [
+        "High blood pressure",
+        "Diabetes",
+        "Low sperm count",
+        "Thyroid"
+      ],
+      "hindi": [
+        "उच्च रक्तचाप",
+        "मधुमेह",
+        "कम शुक्राणु संख्या",
+        "थाइरॉइड"
+      ]
+    },
+    "answer": 2,
+    "medium": "hard",
+    "explanation": {
+      "english": "Low sperm count (oligospermia) is a main cause of male infertility. Normal sperm count is 15 million or more sperm per milliliter of semen. When the count is lower, it reduces the chances of a sperm cell fertilizing an egg. This can be caused by various factors including genetics, lifestyle, or medical conditions.",
+      "hindi": "कम शुक्राणु संख्या (ओलिगोस्पर्मिया) पुरुष बांझपन का एक मुख्य कारण है। सामान्य शुक्राणु संख्या वीर्य के प्रति मिलीलीटर में 15 मिलियन या अधिक होती है। जब संख्या कम होती है, तो शुक्राणु कोशिका के अंडे को निषेचित करने की संभावना कम हो जाती है। यह विभिन्न कारणों से हो सकता है जिसमें आनुवंशिकी, जीवनशैली, या चिकित्सीय स्थितियां शामिल हैं।"
+    }
+  }
+]

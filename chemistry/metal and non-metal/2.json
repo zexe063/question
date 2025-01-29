@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Gold",
-          "Lead",
+          "Lead", 
           "Tin",
           "Aluminum"
         ],
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Aluminum is used for making cans because it is lightweight, does not rust, and can be easily recycled. It also does not react with food items stored inside.",
+        "hindi": "एल्युमिनियम का उपयोग डिब्बे बनाने में किया जाता है क्योंकि यह हल्का होता है, जंग नहीं लगता है, और आसानी से रीसायकल किया जा सकता है। यह अंदर रखे खाद्य पदार्थों के साथ प्रतिक्रिया भी नहीं करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Copper is commonly used in coins because it is durable, resistant to corrosion, and has a distinctive reddish color. It is also relatively inexpensive compared to precious metals.",
+        "hindi": "तांबे का उपयोग सिक्कों में किया जाता है क्योंकि यह टिकाऊ होता है, जंग प्रतिरोधी होता है, और इसका एक विशिष्ट लाल रंग होता है। यह कीमती धातुओं की तुलना में सस्ता भी होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Steel is used for making utensils because it is strong, durable, and resistant to rust. It is also safe for cooking as it does not react with food items.",
+        "hindi": "स्टील का उपयोग बर्तन बनाने में किया जाता है क्योंकि यह मजबूत, टिकाऊ और जंग प्रतिरोधी होता है। यह खाना पकाने के लिए सुरक्षित भी है क्योंकि यह खाद्य पदार्थों के साथ प्रतिक्रिया नहीं करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Aluminum is used for window frames because it is lightweight, does not rust, and is weather-resistant. It is also easy to shape and maintain.",
+        "hindi": "एल्युमिनियम का उपयोग खिड़की के फ्रेम बनाने में किया जाता है क्योंकि यह हल्का होता है, जंग नहीं लगता है, और मौसम प्रतिरोधी होता है। इसे आकार देना और रखरखाव करना भी आसान होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Tungsten is used for bulb filaments because it has a very high melting point (3422°C) and can withstand high temperatures without melting. It also has good electrical conductivity.",
+        "hindi": "टंगस्टन का उपयोग बल्ब के फिलामेंट में किया जाता है क्योंकि इसका गलनांक बहुत अधिक (3422°C) होता है और यह पिघले बिना उच्च तापमान को सहन कर सकता है। इसमें विद्युत चालकता भी अच्छी होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "When metals react with water, they form metal hydroxide and hydrogen gas. The reaction is: Metal + Water → Metal Hydroxide + Hydrogen gas. For example: 2Na + 2H₂O → 2NaOH + H₂",
+        "hindi": "जब धातुएं पानी से प्रतिक्रिया करती हैं, तो धातु हाइड्रॉक्साइड और हाइड्रोजन गैस बनती है। अभिक्रिया है: धातु + जल → धातु हाइड्रॉक्साइड + हाइड्रोजन गैस। उदाहरण: 2Na + 2H₂O → 2NaOH + H₂"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "When metals react with acids, hydrogen gas is produced along with a salt. The reaction is: Metal + Acid → Salt + Hydrogen gas. For example: Zn + 2HCl → ZnCl₂ + H₂",
+        "hindi": "जब धातुएं अम्ल से प्रतिक्रिया करती हैं, तो हाइड्रोजन गैस और लवण बनता है। अभिक्रिया है: धातु + अम्ल → लवण + हाइड्रोजन गैस। उदाहरण: Zn + 2HCl → ZnCl₂ + H₂"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Metal oxides are basic in nature. When dissolved in water, they form metal hydroxides. For example: Na₂O + H₂O → 2NaOH (sodium hydroxide, which is basic)",
+        "hindi": "धातु ऑक्साइड क्षारीय प्रकृति के होते हैं। पानी में घुलने पर वे धातु हाइड्रॉक्साइड बनाते हैं। उदाहरण: Na₂O + H₂O → 2NaOH (सोडियम हाइड्रॉक्साइड, जो क्षारीय है)"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Bronze is an alloy made of copper (Cu) and tin (Sn). It is harder than copper and has been used since ancient times for making statues, tools, and weapons. The typical composition is about 88% copper and 12% tin.",
+        "hindi": "कांसा तांबा (Cu) और टिन (Sn) का मिश्र धातु है। यह तांबे से अधिक कठोर होता है और प्राचीन काल से मूर्तियां, औजार और हथियार बनाने में इस्तेमाल किया जाता है। इसकी सामान्य संरचना लगभग 88% तांबा और 12% टिन होती है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Potassium (K) is the most reactive among these metals. It reacts violently with water: 2K + 2H₂O → 2KOH + H₂. The reaction is so vigorous that the hydrogen produced catches fire. This is why potassium is stored in kerosene.",
+        "hindi": "पोटैशियम (K) इन धातुओं में सबसे अधिक क्रियाशील है। यह पानी के साथ तीव्र प्रतिक्रिया करता है: 2K + 2H₂O → 2KOH + H₂. प्रतिक्रिया इतनी तीव्र होती है कि उत्पन्न हाइड्रोजन आग पकड़ लेती है। इसलिए पोटैशियम को केरोसीन में रखा जाता है।"
+      },
       "image": null,
       "medium": "hard"
     }

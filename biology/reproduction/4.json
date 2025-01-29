@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Produce pollen",
-          "Store nutrients",
+          "Store nutrients", 
           "Transport male gametes",
           "Support flower"
         ],
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The pollen tube is a tubular structure that grows from a pollen grain after it lands on the stigma. Its main function is to transport male gametes (sperm cells) from the pollen grain to the ovule for fertilization. This process is crucial for sexual reproduction in flowering plants.",
+        "hindi": "परागनली एक नलीनुमा संरचना है जो परागकण से वर्तिकाग्र पर पहुंचने के बाद विकसित होती है। इसका मुख्य कार्य नर युग्मक (शुक्राणु कोशिकाओं) को परागकण से बीजांड तक निषेचन के लिए पहुंचाना है। यह प्रक्रिया फूलों वाले पौधों में लैंगिक प्रजनन के लिए महत्वपूर्ण है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "The integument develops into the seed coat after fertilization. The seed coat is a protective outer covering of the seed that protects the embryo and stored food from mechanical injury, water loss, and harmful microorganisms. It also helps in seed dispersal.",
+        "hindi": "निषेचन के बाद बीजावरण बीज का आवरण बनाता है। बीज का आवरण बीज का बाहरी सुरक्षात्मक आवरण होता है जो भ्रूण और संग्रहित भोजन को यांत्रिक चोट, पानी की कमी और हानिकारक सूक्ष्मजीवों से बचाता है। यह बीज के प्रसार में भी मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The umbilical cord is a vital connection between the developing fetus and the placenta. It contains blood vessels that carry oxygen and nutrients from the mother to the fetus and removes waste products. This cord ensures the survival and proper development of the baby during pregnancy.",
+        "hindi": "नाभिनाल विकासशील भ्रूण और प्लेसेंटा के बीच एक महत्वपूर्ण संबंध है। इसमें रक्त वाहिकाएं होती हैं जो मां से भ्रूण तक ऑक्सीजन और पोषक तत्वों को पहुंचाती हैं और अपशिष्ट पदार्थों को हटाती हैं। यह नाल गर्भावस्था के दौरान शिशु के जीवन और उचित विकास को सुनिश्चित करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Seminal vesicles are paired glands that produce about 60% of the seminal fluid. This fluid contains fructose (energy source for sperm), proteins, and other nutrients essential for sperm survival. It also helps in neutralizing the acidic environment of the vaginal tract.",
+        "hindi": "शुक्राशय युग्मित ग्रंथियां हैं जो लगभग 60% शुक्र द्रव का उत्पादन करती हैं। इस द्रव में फ्रक्टोज (शुक्राणुओं के लिए ऊर्जा स्रोत), प्रोटीन और अन्य पोषक तत्व होते हैं जो शुक्राणुओं के जीवन के लिए आवश्यक हैं। यह योनि मार्ग के अम्लीय वातावरण को भी निष्प्रभावी करने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "A missed period is typically the first noticeable sign of pregnancy. This occurs because after fertilization and implantation, the body produces human chorionic gonadotropin (hCG) hormone, which maintains the pregnancy and stops regular menstrual cycles.",
+        "hindi": "मासिक धर्म का रुकना आमतौर पर गर्भावस्था का पहला दिखाई देने वाला लक्षण होता है। यह इसलिए होता है क्योंकि निषेचन और रोपण के बाद, शरीर मानव कोरियोनिक गोनाडोट्रोपिन (एचसीजी) हार्मोन का उत्पादन करता है, जो गर्भावस्था को बनाए रखता है और नियमित मासिक धर्म चक्र को रोकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,13 +154,17 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The father's sperm determines the baby's gender. Males produce two types of sperm: those carrying X chromosome and those carrying Y chromosome. The mother always contributes an X chromosome. If a Y-carrying sperm fertilizes the egg, the baby will be male (XY); if an X-carrying sperm fertilizes the egg, the baby will be female (XX).",
+        "hindi": "पिता के शुक्राणु शिशु का लिंग निर्धारित करते हैं। पुरुष दो प्रकार के शुक्राणु उत्पन्न करते हैं: X गुणसूत्र वाले और Y गुणसूत्र वाले। माँ हमेशा X गुणसूत्र प्रदान करती है। यदि Y वाला शुक्राणु अंडे को निषेचित करता है, तो शिशु पुरुष (XY) होगा; यदि X वाला शुक्राणु अंडे को निषेचित करता है, तो शिशु महिला (XX) होगी।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "When does implantation occur?",
-        "hindi": "रोपण कब होता है?"
+        "english": "how many days after fertilization does implantation occur?",
+        "hindi": "निषेचन के कितने दिन बाद अंडाशय बनता है?"
       },
       "option": {
         "english": [
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Implantation typically occurs about 7 days after fertilization. During this time, the fertilized egg (now called a blastocyst) travels down the fallopian tube while continuously dividing. When it reaches the uterus, it burrows into the uterine lining (endometrium) in a process called implantation.",
+        "hindi": "रोपण आमतौर पर निषेचन के लगभग 7 दिनों के बाद होता है। इस दौरान, निषेचित अंडा (जिसे अब ब्लास्टोसिस्ट कहा जाता है) फैलोपियन ट्यूब से नीचे की ओर जाता है और लगातार विभाजित होता रहता है। जब यह गर्भाशय तक पहुंचता है, तो यह गर्भाशय की परत (एंडोमेट्रियम) में एक प्रक्रिया में घुस जाता है जिसे रोपण कहा जाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Oxytocin is the primary hormone responsible for initiating labor. It causes powerful contractions of the uterus that help push the baby out during childbirth. This hormone is naturally produced by the body, but can also be given medically to induce labor when necessary.",
+        "hindi": "ऑक्सीटोसिन प्रसव शुरू करने के लिए जिम्मेदार प्राथमिक हार्मोन है। यह गर्भाशय में शक्तिशाली संकुचन पैदा करता है जो प्रसव के दौरान बच्चे को बाहर धकेलने में मदद करता है। यह हार्मोन प्राकृतिक रूप से शरीर द्वारा उत्पादित किया जाता है, लेकिन आवश्यकता पड़ने पर चिकित्सकीय रूप से भी दिया जा सकता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Colostrum is the first milk produced by mothers immediately after giving birth. It is rich in antibodies (immunoglobulins) that provide crucial immunity to the newborn. It also contains growth factors, proteins, and other nutrients that help protect the baby from infections and support healthy development.",
+        "hindi": "कोलोस्ट्रम जन्म के तुरंत बाद माताओं द्वारा उत्पादित पहला दूध होता है। यह एंटीबॉडी (इम्युनोग्लोबुलिन) से भरपूर होता है जो नवजात शिशु को महत्वपूर्ण प्रतिरक्षा प्रदान करता है। इसमें विकास कारक, प्रोटीन और अन्य पोषक तत्व भी होते हैं जो बच्चे को संक्रमण से बचाते हैं और स्वस्थ विकास में सहायता करते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Fraternal twins occur when two separate eggs are released and fertilized by different sperm cells during the same menstrual cycle. Unlike identical twins, fraternal twins develop from different eggs and sperm, so they share only about 50% of their genes, just like regular siblings.",
+        "hindi": "असमान जुड़वाँ तब बनते हैं जब एक ही मासिक धर्म चक्र के दौरान दो अलग-अलग अंडे निकलते हैं और अलग-अलग शुक्राणु कोशिकाओं द्वारा निषेचित होते हैं। समान जुड़वाँ के विपरीत, असमान जुड़वाँ अलग-अलग अंडे और शुक्राणु से विकसित होते हैं, इसलिए उनमें केवल लगभग 50% जीन समान होते हैं, जैसे सामान्य भाई-बहनों में होता है।"
+      },
       "image": null,
       "medium": "hard"
     }

@@ -8,7 +8,7 @@
         "english": [
           "Lemon juice",
           "Vinegar",
-          "Pure water",
+          "Pure water", 
           "Soap solution"
         ],
         "hindi": [
@@ -19,29 +19,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Soap solution is basic in nature. Basic solutions turn red litmus paper blue. Lemon juice and vinegar are acidic while pure water is neutral.",
+        "hindi": "साबुन का घोल क्षारीय प्रकृति का होता है। क्षारीय विलयन लाल लिटमस को नीला कर देते हैं। नींबू का रस और सिरका अम्लीय हैं जबकि शुद्ध जल उदासीन होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "The acid used in car batteries is:",
-        "hindi": "कार की बैटरियों में प्रयुक्त अम्ल है:"
+        "english": "What color does vanilla extract turn in a basic solution?",
+        "hindi": "क्षारीय विलयन में वेनिला अर्क का रंग क्या हो जाता है?"
       },
       "option": {
         "english": [
-          "Nitric acid",
-          "Hydrochloric acid",
-          "Sulphuric acid",
-          "Acetic acid"
+          "Red",
+          "Blue",
+          "Yellow",
+          "Green"
         ],
         "hindi": [
-          "नाइट्रिक एसिड",
-          "हाइड्रोक्लोरिक एसिड",
-          "सल्फ्यूरिक एसिड",
-          "एसीटिक एसिड"
+          "लाल",
+          "नीला", 
+          "पीला",
+          "हरा"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Vanilla extract contains natural indicators that change color in different pH conditions. In basic solutions, vanilla extract turns yellow due to the presence of vanillin compounds that act as pH indicators.",
+        "hindi": "वेनिला अर्क में प्राकृतिक सूचक होते हैं जो विभिन्न pH परिस्थितियों में रंग बदलते हैं। क्षारीय विलयन में, वेनिला अर्क पीला हो जाता है क्योंकि इसमें वैनिलिन यौगिक होते हैं जो pH सूचक की तरह काम करते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Ammonium hydroxide (NH₄OH) is a weak base as it partially ionizes in water. NaOH, KOH, and Ca(OH)₂ are strong bases that completely ionize in water.",
+        "hindi": "अमोनियम हाइड्रॉक्साइड (NH₄OH) एक दुर्बल क्षार है क्योंकि यह पानी में आंशिक रूप से आयनित होता है। NaOH, KOH, और Ca(OH)₂ प्रबल क्षार हैं जो पानी में पूरी तरह से आयनित हो जाते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,29 +100,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Antacid tablets are basic in nature. They contain bases like Mg(OH)₂ or CaCO₃ which neutralize excess stomach acid (HCl): Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O",
+        "hindi": "एंटासिड टैबलेट क्षारीय प्रकृति की होती हैं। इनमें Mg(OH)₂ या CaCO₃ जैसे क्षार होते हैं जो पेट के अतिरिक्त अम्ल (HCl) को उदासीन करते हैं: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which gas is produced when metals react with acids?",
-        "hindi": "धातुएं जब अम्लों से अभिक्रिया करती हैं तो कौन सी गैस बनती है?"
+        "english": "Which acid is used in the preservation of food items?",
+        "hindi": "खाद्य पदार्थों के संरक्षण में किस अम्ल का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Oxygen",
-          "Carbon dioxide",
-          "Nitrogen",
-          "Hydrogen"
+          "Sulfuric acid",
+          "Hydrochloric acid",
+          "Nitric acid",
+          "Benzoic acid"
         ],
         "hindi": [
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
-          "हाइड्रोजन"
+          "सल्फ्यूरिक एसिड",
+          "हाइड्रोक्लोरिक एसिड",
+          "नाइट्रिक एसिड",
+          "बेंजोइक एसिड"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Benzoic acid (C₆H₅COOH) is commonly used as a food preservative because it prevents the growth of bacteria and fungi. It is safe for consumption in small quantities.",
+        "hindi": "बेंजोइक एसिड (C₆H₅COOH) का उपयोग खाद्य परिरक्षक के रूप में किया जाता है क्योंकि यह बैक्टीरिया और फंगी की वृद्धि को रोकता है। छोटी मात्रा में यह खाने के लिए सुरक्षित है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,29 +154,37 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "NH₄Cl (Ammonium chloride) gives acidic solution in water because NH₄⁺ ions undergo hydrolysis: NH₄⁺ + H₂O ⇌ NH₄OH + H⁺, producing H⁺ ions that make the solution acidic.",
+        "hindi": "NH₄Cl (अमोनियम क्लोराइड) जल में अम्लीय विलयन देता है क्योंकि NH₄⁺ आयन जलअपघटन से गुजरते हैं: NH₄⁺ + H₂O ⇌ NH₄OH + H⁺, जो H⁺ आयन उत्पन्न करते हैं और विलयन को अम्लीय बनाते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What happens when an acid reacts with a base?",
-        "hindi": "जब एक अम्ल क्षार से अभिक्रिया करता है तो क्या होता है?"
+        "english": "Why is baking soda used in bakery products?",
+        "hindi": "बेकरी उत्पादों में बेकिंग सोडा का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Only water forms",
-          "Only gas evolves",
-          "Salt and water form",
-          "No reaction occurs"
+          "To make them salty",
+          "To improve their color",
+          "To make them rise due to CO₂ release",
+          "To make them more sweet"
         ],
         "hindi": [
-          "केवल जल बनता है",
-          "केवल गैस निकलती है",
-          "लवण और जल बनते हैं",
-          "कोई अभिक्रिया नहीं होती"
+          "उन्हें नमकीन बनाने के लिए",
+          "उनका रंग सुधारने के लिए",
+          "CO₂ निकलने से उन्हें फूलने के लिए",
+          "उन्हें अधिक मीठा बनाने के लिए"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Baking soda (NaHCO₃) reacts with acids in the dough to release CO₂ gas: NaHCO₃ + H⁺ → Na⁺ + H₂O + CO₂. These CO₂ bubbles make the dough rise and make bakery products fluffy.",
+        "hindi": "बेकिंग सोडा (NaHCO₃) आटे में मौजूद अम्लों से क्रिया करके CO₂ गैस निकालता है: NaHCO₃ + H⁺ → Na⁺ + H₂O + CO₂. ये CO₂ के बुलबुले आटे को फुलाते हैं और बेकरी उत्पादों को मुलायम बनाते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Gastric juice has pH 1.2 due to the presence of hydrochloric acid (HCl). This acidic environment helps in digestion of food and kills harmful bacteria.",
+        "hindi": "हाइड्रोक्लोरिक एसिड (HCl) की उपस्थिति के कारण गैस्ट्रिक जूस का pH 1.2 होता है। यह अम्लीय वातावरण भोजन के पाचन में मदद करता है और हानिकारक बैक्टीरिया को मारता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "pH + pOH = 14 (in water at 25°C). So if pOH = 4, then pH = 14 - 4 = 10. This shows the solution is basic as pH > 7.",
+        "hindi": "pH + pOH = 14 (25°C पर जल में)। अतः यदि pOH = 4 है, तो pH = 14 - 4 = 10 होगा। यह दर्शाता है कि विलयन क्षारीय है क्योंकि pH > 7 है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Al₂O₃ is amphoteric - it reacts with both acids and bases. With HCl: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O. With NaOH: Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]",
+        "hindi": "Al₂O₃ उभयधर्मी है - यह अम्ल और क्षार दोनों से क्रिया करता है। HCl के साथ: Al₂O₃ + 6HCl → 2AlCl₃ + 3H₂O. NaOH के साथ: Al₂O₃ + 2NaOH + 3H₂O → 2Na[Al(OH)₄]"
+      },
       "image": null,
       "medium": "hard"
     }

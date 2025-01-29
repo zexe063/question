@@ -1,52 +1,60 @@
-
 [
-    {
-      "question_name": {
-        "english": "Which hormone regulates blood sugar level?",
-        "hindi": "कौन सा हार्मोन रक्त शर्करा स्तर को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Thyroxine",
-          "Insulin",
-          "Adrenaline",
-          "Growth hormone"
-        ],
-        "hindi": [
-          "थायरॉक्सिन",
-          "इंसुलिन", 
-          "एड्रेनालिन",
-          "वृद्धि हार्मोन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What happens when auxin is present on one side of stem?",
+      "hindi": "जब तने के एक तरफ ऑक्सिन मौजूद होता है तो क्या होता है?"
     },
-    {
-      "question_name": {
-        "english": "Which part of brain controls memory?",
-        "hindi": "मस्तिष्क का कौन सा भाग स्मृति को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Cerebrum",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "सेरेब्रम",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Stem grows straight",
+        "Stem bends towards auxin",
+        "Stem stops growing",
+        "Stem bends away from auxin"
+      ],
+      "hindi": [
+        "तना सीधा बढ़ता है",
+         "तना ऑक्सिन की ओर मुड़ता है",
+        "तना बढ़ना बंद कर देता है", 
+        "तना ऑक्सिन से दूर मुड़ता है"
+       
+      ]
     },
-    {
+    "answer": 1,
+    "explanation": {
+      "english": "When auxin is present on one side of the stem, it causes faster cell elongation on that side. This unequal growth makes the stem bend towards the side with more auxin. This is how plants respond to light and gravity.",
+      "hindi": "जब तने के एक तरफ ऑक्सिन होता है, तो वह उस तरफ कोशिकाओं को तेजी से लंबा करता है। इस असमान वृद्धि के कारण तना अधिक ऑक्सिन वाली तरफ मुड़ जाता है। इस तरह पौधे प्रकाश और गुरुत्वाकर्षण के प्रति प्रतिक्रिया करते हैं।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What is the function of dendrites in a neuron?",
+      "hindi": "न्यूरॉन में डेंड्राइट्स का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Carry messages away from cell body",
+        "Store food for neuron",
+        "Receive messages from other neurons",
+        "Produce energy"
+      ],
+      "hindi": [
+        "कोशिका काय से संदेश दूर ले जाना",
+        "न्यूरॉन के लिए भोजन संग्रह करना",
+        "अन्य न्यूरॉन्स से संदेश प्राप्त करना",
+        "ऊर्जा उत्पन्न करना"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Dendrites are branch-like structures that receive signals from other neurons and pass them to the cell body. They have many branches to receive signals from multiple neurons, helping in neural communication.",
+      "hindi": "डेंड्राइट्स शाखा जैसी संरचनाएं हैं जो अन्य न्यूरॉन्स से संकेत प्राप्त करती हैं और उन्हें कोशिका काय तक पहुंचाती हैं। उनमें कई शाखाएं होती हैं जो कई न्यूरॉन्स से संकेत प्राप्त करने में मदद करती हैं।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
       "question_name": {
         "english": "Which gland secretes adrenaline?",
         "hindi": "कौन सी ग्रंथि एड्रेनालिन स्रावित करती है?"
@@ -66,6 +74,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Adrenal glands secrete adrenaline hormone during stress or emergency situations. This hormone increases heart rate, breathing rate and blood pressure, preparing the body for 'fight or flight' response.",
+        "hindi": "एड्रेनल ग्रंथियां तनाव या आपातकालीन स्थितियों में एड्रेनालिन हार्मोन स्रावित करती हैं। यह हार्मोन हृदय गति, श्वसन दर और रक्तचाप बढ़ाता है, जो शरीर को 'लड़ो या भागो' प्रतिक्रिया के लिए तैयार करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -89,29 +101,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Myelin sheath is a fatty covering around nerve fibers that acts as an insulator. It helps in faster transmission of nerve impulses by preventing the loss of electrical signals. It works like the plastic covering on electrical wires.",
+        "hindi": "माइलिन आवरण तंत्रिका तंतुओं के चारों ओर वसायुक्त आवरण है जो विद्युतरोधक का काम करता है। यह विद्युत संकेतों के नुकसान को रोककर तंत्रिका आवेगों के तेज संचरण में मदद करता है। यह बिजली के तारों पर प्लास्टिक के आवरण की तरह काम करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which hormone controls calcium level?",
-        "hindi": "कौन सा हार्मोन कैल्शियम स्तर को नियंत्रित करता है?"
+        "english": "What protects our brain from injury?",
+        "hindi": "हमारा मस्तिष्क चोट से कैसे बचता है?"
       },
       "option": {
         "english": [
-          "Insulin",
-          "Calcitonin",
-          "Thyroxine",
-          "Adrenaline"
+          "Blood",
+          "Skull",
+          "Muscles",
+          "Bones"
         ],
         "hindi": [
-          "इंसुलिन",
-          "कैल्सीटोनिन",
-          "थायरॉक्सिन",
-          "एड्रेनालिन"
+          "रक्त",
+          "खोपड़ी",
+          "मांसपेशियां",
+          "हड्डियां"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The skull (cranium) is a hard bony case that protects our brain from injury. It forms a strong protective covering around the brain. Inside the skull, cerebrospinal fluid acts as a cushion to protect the brain from shocks.",
+        "hindi": "खोपड़ी (कपाल) एक कठोर हड्डी का आवरण है जो हमारे मस्तिष्क को चोट से बचाता है। यह मस्तिष्क के चारों ओर एक मजबूत सुरक्षात्मक आवरण बनाता है। खोपड़ी के अंदर, मस्तिष्क-मेरु द्रव गद्दी की तरह काम करता है जो मस्तिष्क को झटकों से बचाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -135,30 +155,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Reflex action is a sudden, automatic and involuntary response to a stimulus. It happens quickly without involving the brain, as the response is controlled by the spinal cord. Example: pulling hand away from a hot object.",
+        "hindi": "प्रतिवर्त क्रिया एक उद्दीपन के प्रति अचानक, स्वचालित और अनैच्छिक प्रतिक्रिया है। यह मस्तिष्क की भागीदारी के बिना तेजी से होती है, क्योंकि प्रतिक्रिया रीढ़ की हड्डी द्वारा नियंत्रित होती है। उदाहरण: गर्म वस्तु से हाथ हटाना।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which gland produces thyroid hormones?",
-        "hindi": "कौन सी ग्रंथि थायरॉइड हार्मोन का उत्पादन करती है?"
+        "english": "Which fluid surrounds and protects the brain?",
+        "hindi": "कौन सा द्रव मस्तिष्क को घेरता और सुरक्षित रखता है?"
       },
       "option": {
         "english": [
-          "Thyroid",
-          "Pituitary",
-          "Pancreas",
-          "Adrenal"
+          "Cerebrospinal fluid",
+          "Blood",
+          "Water",
+          "Lymph"
         ],
         "hindi": [
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय",
-          "एड्रेनल"
+          "मस्तिष्क मेरु द्रव",
+          "रक्त",
+          "जल",
+          "लसीका"
         ]
       },
       "answer": 0,
-      "image": null,
+      "explanation": {
+        "english": "Cerebrospinal fluid (CSF) surrounds the brain and spinal cord. It acts as a shock absorber, protecting the brain from injury. It also provides nutrients to brain tissue and removes waste products.",
+        "hindi": "मस्तिष्क-मेरु द्रव मस्तिष्क और रीढ़ की हड्डी को घेरता है। यह झटका अवशोषक की तरह काम करता है, जो मस्तिष्क को चोट से बचाता है। यह मस्तिष्क ऊतक को पोषक तत्व भी प्रदान करता है और अपशिष्ट पदार्थों को हटाता है।"
+      },
       "medium": "medium"
     },
     {
@@ -181,6 +208,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Cytokinin promotes cell division in plants. It is found in high concentrations in young fruits, seeds and roots. It helps in formation of new leaves and shoots, and delays aging of leaves.",
+        "hindi": "साइटोकाइनिन पौधों में कोशिका विभाजन को बढ़ावा देता है। यह युवा फलों, बीजों और जड़ों में अधिक मात्रा में पाया जाता है। यह नई पत्तियों और प्ररोहों के निर्माण में मदद करता है, और पत्तियों की वृद्धावस्था को विलंबित करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -204,29 +235,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Ecdysone hormone controls metamorphosis in insects. It helps in molting (shedding of old skin) and transformation of larva into pupa and then into adult. For example, it controls the change of caterpillar into butterfly.",
+        "hindi": "एक्डाइसोन हार्मोन कीटों में कायांतरण को नियंत्रित करता है। यह निर्मोचन (पुरानी त्वचा का त्याग) और लार्वा का प्यूपा में और फिर वयस्क में परिवर्तन में मदद करता है। उदाहरण के लिए, यह कैटरपिलर का तितली में परिवर्तन नियंत्रित करता है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the role of cerebrospinal fluid?",
-        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+        "english": "Which plant hormone causes leaves to fall from trees?",
+        "hindi": "कौन सा पादप हार्मोन पेड़ों से पत्तियों को गिराता है?"
       },
       "option": {
         "english": [
-          "Blood filtration",
-          "Hormone production",
-          "Waste removal",
-          "Shock absorption"
+          "Auxin",
+          "Cytokinin", 
+          "Abscisic acid",
+          "Ethylene"
         ],
         "hindi": [
-          "रक्त छनन",
-          "हार्मोन उत्पादन",
-          "अपशिष्ट निष्कासन",
-          "आघात अवशोषण"
+          "ऑक्सिन",
+          "साइटोकाइनिन",
+          "एब्सिसिक एसिड", 
+          "एथिलीन"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Ethylene is a gaseous plant hormone that causes leaf fall (abscission) and fruit ripening. It weakens the cells at the base of leaves, causing them to fall. It also helps fruits ripen by converting complex substances into simpler forms.",
+        "hindi": "एथिलीन एक गैसीय पादप हार्मोन है जो पत्तियों के गिरने (विच्छेदन) और फलों के पकने का कारण बनता है। यह पत्तियों के आधार पर कोशिकाओं को कमजोर करता है, जिससे वे गिर जाती हैं। यह जटिल पदार्थों को सरल रूपों में बदलकर फलों को पकाने में भी मदद करता है।"
+      },
       "image": null,
       "medium": "hard"
     }

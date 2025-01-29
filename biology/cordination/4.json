@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Medulla",
-          "Cerebellum",
+          "Cerebellum", 
           "Cerebrum",
           "Pons"
         ],
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The cerebrum is the largest part of the brain and is responsible for thinking, intelligence, memory and consciousness. It processes information from our senses and controls voluntary actions. This is why it is often called the 'seat of intelligence'.",
+        "hindi": "सेरेब्रम मस्तिष्क का सबसे बड़ा भाग है और यह सोचने, बुद्धि, याददाश्त और चेतना के लिए जिम्मेदार है। यह हमारी इंद्रियों से मिली जानकारी को प्रोसेस करता है और स्वैच्छिक क्रियाओं को नियंत्रित करता है। इसीलिए इसे अक्सर 'बुद्धि का केंद्र' कहा जाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "A synapse is a tiny gap between two neurons where signals are passed from one neuron to another. It acts like a bridge that allows nerve signals to travel through our nervous system. Without synapses, neurons cannot communicate with each other.",
+        "hindi": "सिनैप्स दो न्यूरॉन्स के बीच एक छोटा सा अंतर होता है जहां एक न्यूरॉन से दूसरे में संकेत पास होते हैं। यह एक पुल की तरह काम करता है जो तंत्रिका संकेतों को हमारी तंत्रिका तंत्र में यात्रा करने की अनुमति देता है। सिनैप्स के बिना, न्यूरॉन्स एक दूसरे से संवाद नहीं कर सकते।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -52,19 +60,23 @@
       },
       "option": {
         "english": [
-          "Somatotropin",
           "Thyroxine",
+          "Somatotropin",
           "Insulin",
           "Adrenaline"
         ],
         "hindi": [
-          "सोमेटोट्रोपिन",
           "थायरॉक्सिन",
+          "सोमेटोट्रोपिन",
           "इंसुलिन",
           "एड्रेनालिन"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Somatotropin is called the growth hormone because it promotes growth in children and adolescents. It is produced by the pituitary gland and helps in increasing height, bone growth, and muscle development during the growing years.",
+        "hindi": "सोमेटोट्रोपिन को वृद्धि हार्मोन कहा जाता है क्योंकि यह बच्चों और किशोरों में वृद्धि को बढ़ावा देता है। यह पीयूष ग्रंथि द्वारा उत्पादित होता है और बढ़ने के वर्षों के दौरान ऊंचाई, हड्डियों की वृद्धि और मांसपेशियों के विकास में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,29 +100,37 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The thyroid gland, located in our neck, secretes thyroxine hormone. This hormone controls our body's metabolism - how quickly we use energy from food. It also helps in proper growth and development of the body.",
+        "hindi": "थायरॉइड ग्रंथि, जो हमारी गर्दन में स्थित होती है, थायरॉक्सिन हार्मोन स्रावित करती है। यह हार्मोन हमारे शरीर के चयापचय को नियंत्रित करता है - हम भोजन से ऊर्जा का उपयोग कितनी तेजी से करते हैं। यह शरीर की उचित वृद्धि और विकास में भी मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which plant hormone promotes ripening of fruits?",
-        "hindi": "कौन सा पादप हार्मोन फलों के पकने को बढ़ावा देता है?"
+        "english": "What happens to the axons of neurons in the central nervous system?",
+        "hindi": "केंद्रीय तंत्रिका तंत्र में न्यूरॉन्स के एक्सन का क्या होता है?"
       },
       "option": {
         "english": [
-          "Auxin",
-          "Cytokinin",
-          "Ethylene",
-          "Gibberellin"
+          "They are covered by fat",
+          "They remain uncovered",
+          "They are covered by myelin sheath",
+          "They are covered by proteins"
         ],
         "hindi": [
-          "ऑक्सिन",
-          "साइटोकाइनिन",
-          "एथिलीन",
-          "जिबरेलिन"
+          "वे वसा से ढके होते हैं",
+          "वे अनावृत रहते हैं",
+          "वे माइलिन आवरण से ढके होते हैं",
+          "वे प्रोटीन से ढके होते हैं"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "In the central nervous system, axons are covered by myelin sheath. This white, fatty covering acts like insulation on an electrical wire. It helps nerve signals travel faster and more efficiently along the neuron, making our nervous system work better.",
+        "hindi": "केंद्रीय तंत्रिका तंत्र में, एक्सन माइलिन आवरण से ढके होते हैं। यह सफेद, वसायुक्त आवरण बिजली के तार पर इन्सुलेशन की तरह काम करता है। यह तंत्रिका संकेतों को न्यूरॉन के साथ तेजी से और अधिक कुशलता से यात्रा करने में मदद करता है, जिससे हमारा तंत्रिका तंत्र बेहतर काम करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -121,42 +141,50 @@
       },
       "option": {
         "english": [
-          "Carry signals to muscles",
           "Detect stimuli",
+          "Carry signals to muscles",
           "Process information",
           "Store memory"
         ],
         "hindi": [
-          "मांसपेशियों को संकेत ले जाना",
           "उद्दीपन का पता लगाना",
+          "मांसपेशियों को संकेत ले जाना",
           "सूचना संसाधित करना",
           "स्मृति संग्रह"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Motor neurons carry signals from the brain and spinal cord to muscles and glands. When you decide to move your hand, motor neurons send this message to your arm muscles, making them contract. This is how we perform all our voluntary movements.",
+        "hindi": "प्रेरक तंत्रिका कोशिकाएं मस्तिष्क और रीढ़ की हड्डी से मांसपेशियों और ग्रंथियों तक संकेत ले जाती हैं। जब आप अपना हाथ हिलाने का निर्णय लेते हैं, तो मोटर न्यूरॉन्स यह संदेश आपकी बांह की मांसपेशियों तक पहुंचाते हैं, जिससे वे सिकुड़ती हैं। इसी तरह हम अपनी सभी स्वैच्छिक गतिविधियां करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What causes the closing of leaves in touch-me-not plant?",
-        "hindi": "छुई-मुई के पौधे में पत्तियों का बंद होना किस कारण होता है?"
+        "english": "Why do touch-me-not leaves close when touched?",
+        "hindi": "छुई-मुई की पत्तियां छूने पर क्यों बंद हो जाती हैं?"
       },
       "option": {
         "english": [
-          "Geotropism",
-          "Phototropism",
-          "Chemotropism",
-          "Thigmonasty"
+          "Due to light",
+          "Due to water",
+          "Due to chemicals",
+          "Due to touch"
         ],
         "hindi": [
-          "गुरुत्वानुवर्तन",
-          "प्रकाशानुवर्तन",
-          "रसायनानुवर्तन",
-          "स्पर्शानुकुंचन"
+          "प्रकाश के कारण",
+          "पानी के कारण",
+          "रसायन के कारण",
+          "स्पर्श के कारण"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Touch-me-not plant (Mimosa pudica) shows rapid movement in response to touch. When touched, a chemical signal travels through the plant, causing water to move out of cells at the base of leaves. This makes the leaves fold and droop - a defense mechanism against predators.",
+        "hindi": "छुई-मुई पौधा स्पर्श के प्रति तेज प्रतिक्रिया दिखाता है। छूने पर, एक रासायनिक संकेत पौधे में यात्रा करता है, जिससे पत्तियों के आधार पर कोशिकाओं से पानी बाहर निकल जाता है। इससे पत्तियां मुड़ जाती हैं और झुक जाती हैं - यह शिकारियों से बचाव का तरीका है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The adrenal gland is called the emergency gland because it releases adrenaline hormone during stress or danger. This hormone prepares our body for 'fight or flight' response by increasing heart rate, blood pressure, and energy levels to help us deal with emergency situations.",
+        "hindi": "एड्रेनल ग्रंथि को आपातकालीन ग्रंथि कहा जाता है क्योंकि यह तनाव या खतरे के दौरान एड्रेनालिन हार्मोन छोड़ती है। यह हार्मोन हमारे शरीर को 'लड़ो या भागो' प्रतिक्रिया के लिए तैयार करता है, जिससे दिल की धड़कन, रक्तचाप और ऊर्जा स्तर बढ़ जाते हैं, जो आपातकालीन स्थितियों से निपटने में मदद करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,29 +235,37 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Synthetic auxins are used in weedicides to kill unwanted plants (weeds). When sprayed in high concentrations, these plant hormones cause abnormal growth in weeds, leading to their death. However, crop plants are usually resistant to these chemicals at the used concentrations.",
+        "hindi": "कृत्रिम ऑक्सिन का उपयोग खरपतवारनाशी में अवांछित पौधों (खरपतवार) को मारने के लिए किया जाता है। जब अधिक मात्रा में छिड़का जाता है, ये पौधों के हार्मोन खरपतवार में असामान्य वृद्धि का कारण बनते हैं, जिससे वे मर जाते हैं। हालांकि, फसल के पौधे आमतौर पर इस मात्रा में इन रसायनों के प्रति प्रतिरोधी होते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "Which hormone deficiency causes diabetes insipidus?",
-        "hindi": "किस हार्मोन की कमी से डायबिटीज इनसिपिडस होता है?"
+        "english": "Which gland controls water balance in body?",
+        "hindi": "कौन सी ग्रंथि शरीर में जल संतुलन को नियंत्रित करती है?"
       },
       "option": {
         "english": [
-          "Insulin",
-          "Vasopressin",
-          "Thyroxine",
-          "Growth hormone"
+          "Thyroid",
+          "Pituitary",
+          "Pancreas",
+          "Adrenal"
         ],
         "hindi": [
-          "इंसुलिन",
-          "वैसोप्रेसिन",
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन"
+          "थायरॉइड",
+          "पीयूष",
+          "अग्न्याशय",
+          "एड्रेनल"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The pituitary gland controls water balance in our body by releasing ADH (Anti-Diuretic Hormone). When our body needs more water, it releases more ADH, which makes kidneys conserve water. When we have enough water, less ADH is released, allowing excess water to be removed as urine.",
+        "hindi": "पीयूष ग्रंथि ADH (एंटी-डायुरेटिक हार्मोन) छोड़कर हमारे शरीर में जल संतुलन को नियंत्रित करती है। जब हमारे शरीर को अधिक पानी की आवश्यकता होती है, तो यह अधिक ADH छोड़ती है, जो गुर्दे को पानी बचाने के लिए प्रेरित करता है। जब हमारे पास पर्याप्त पानी होता है, तो कम ADH छोड़ा जाता है, जिससे अतिरिक्त पानी मूत्र के रूप में निकल जाता है।"
+      },
       "image": null,
       "medium": "hard"
     }

@@ -1,24 +1,29 @@
 [
     {
       "question_name": {
-        "english": "Which hormone is secreted by pancreas to control blood sugar?",
-        "hindi": "रक्त शर्करा को नियंत्रित करने के लिए अग्न्याशय कौन सा हार्मोन स्रावित करता है?"
+        "english": "What happens when there is too much sugar in our blood?",
+        "hindi": "जब हमारे रक्त में बहुत अधिक शर्करा होती है तो क्या होता है?"
       },
       "option": {
         "english": [
-          "Insulin",
-          "Thyroxine", 
-          "Adrenaline",
-          "Growth hormone"
+          "Pancreas releases insulin",
+          "Pancreas releases thyroxine",
+          "Liver releases adrenaline", 
+          "Brain releases growth hormone"
         ],
         "hindi": [
-          "इंसुलिन",
-          "थायरॉक्सिन",
-          "एड्रेनालिन",
-          "वृद्धि हार्मोन"
+          "अग्न्याशय इंसुलिन छोड़ता है",
+          "अग्न्याशय थायरॉक्सिन छोड़ता है",
+          "यकृत एड्रेनालिन छोड़ता है",
+          "मस्तिष्क वृद्धि हार्मोन छोड़ता है"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "When we eat food and blood sugar increases, our pancreas detects this and releases insulin hormone. Insulin helps our body cells to take in sugar from blood, which brings blood sugar back to normal levels. This is how our body maintains proper sugar balance.",
+        "hindi": "जब हम भोजन खाते हैं और रक्त शर्करा बढ़ जाती है, तो हमारा अग्न्याशय इसे पहचानता है और इंसुलिन हार्मोन छोड़ता है। इंसुलिन हमारी शरीर की कोशिकाओं को रक्त से शर्करा लेने में मदद करता है, जो रक्त शर्करा को सामान्य स्तर पर वापस लाता है। इस तरह हमारा शरीर उचित शर्करा संतुलन बनाए रखता है।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -41,6 +46,11 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The cerebellum is responsible for maintaining body balance and posture. It coordinates our movements and helps us stay upright and steady while walking or performing other activities.",
+        "hindi": "सेरेबेलम शरीर का संतुलन और मुद्रा बनाए रखने के लिए जिम्मेदार है। यह हमारी गतिविधियों का समन्वय करता है और चलने या अन्य गतिविधियों के दौरान हमें सीधा और स्थिर रहने में मदद करता है।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -63,6 +73,11 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Medulla controls involuntary actions like breathing, heartbeat, blood pressure, coughing, sneezing and vomiting. These actions happen automatically without our conscious control.",
+        "hindi": "मेडुला सांस लेने, हृदय गति, रक्तचाप, खांसी, छींक और उल्टी जैसी अनैच्छिक क्रियाओं को नियंत्रित करता है। ये क्रियाएं हमारे सचेत नियंत्रण के बिना स्वचालित रूप से होती हैं।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -85,6 +100,11 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Pituitary gland is called the master gland because it controls the functions of other endocrine glands. It produces many important hormones that regulate growth, development and other body functions.",
+        "hindi": "पीयूष ग्रंथि को मास्टर ग्रंथि कहा जाता है क्योंकि यह अन्य अंतःस्रावी ग्रंथियों के कार्यों को नियंत्रित करती है। यह कई महत्वपूर्ण हार्मोन उत्पन्न करती है जो वृद्धि, विकास और अन्य शारीरिक कार्यों को नियंत्रित करते हैं।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -107,6 +127,11 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Adrenaline is released during stress or emergency situations. It increases heart rate, blood pressure and breathing rate, preparing the body for 'fight or flight' response.",
+        "hindi": "तनाव या आपातकालीन स्थितियों के दौरान एड्रेनालिन स्रावित होता है। यह हृदय गति, रक्तचाप और श्वास दर को बढ़ाता है, जो शरीर को 'लड़ो या भागो' प्रतिक्रिया के लिए तैयार करता है।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -116,41 +141,51 @@
       },
       "option": {
         "english": [
-          "Phototropism",
-          "Hydrotropism",
-          "Chemotropism",
-          "Geotropism"
+          "For water",
+          "For minerals",
+          "For air",
+          "Due to gravity"
         ],
         "hindi": [
-          "प्रकाशानुवर्तन",
-          "जलानुवर्तन",
-          "रसायनानुवर्तन",
-          "गुरुत्वानुवर्तन"
+        "पानी के लिए",
+        "खनिजों के लिए",
+        "हवा के लिए",
+        "गुरुत्व के कारण"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Plants move towards gravity due to geotropism. Roots show positive geotropism (grow downwards) while stems show negative geotropism (grow upwards) in response to gravity.",
+        "hindi": "पौधे गुरुत्वानुकर्षण के कारण गुरुत्व की ओर गति करते हैं। जड़ें धनात्मक गुरुत्वानुकर्षण (नीचे की ओर बढ़ना) दिखाती हैं जबकि तने ऋणात्मक गुरुत्वानुकर्षण (ऊपर की ओर बढ़ना) दिखाते हैं।"
+      },
+      "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which plant hormone promotes cell division?",
-        "hindi": "कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है?"
+         "english": "Which hormone helps in fruit ripening?",
+         "hindi": "कौन सा हार्मोन फल पकने में मदद करता है?"
       },
       "option": {
         "english": [
           "Auxin",
-          "Ethylene",
           "Cytokinin",
+          "Ethylene",
           "Abscisic acid"
         ],
         "hindi": [
           "ऑक्सिन",
-          "एथिलीन",
           "साइटोकाइनिन",
+          "एथिलीन",
           "एब्सिसिक एसिड"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Ethylene is a plant hormone that promotes fruit ripening. It causes fruits to soften and develop color, flavor and aroma. This is why keeping ripe fruits with unripe ones speeds up ripening.",
+        "hindi": "एथिलीन एक पादप हार्मोन है जो फलों को पकाने में मदद करता है। यह फलों को नरम बनाता है और उनमें रंग, स्वाद और सुगंध विकसित करता है। इसीलिए पके फलों को कच्चे फलों के साथ रखने से पकने की प्रक्रिया तेज हो जाती है।"
+      },
+      "image": null,
       "medium": "medium"
     },
     {
@@ -160,19 +195,24 @@
       },
       "option": {
         "english": [
-          "Body temperature",
           "Memory",
+          "Body temperature",
           "Vision",
           "Hearing"
         ],
         "hindi": [
-          "शरीर का तापमान",
           "स्मृति",
+          "शरीर का तापमान",
           "दृष्टि",
           "श्रवण"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Hypothalamus maintains body temperature and other conditions like hunger, thirst, sleep, and emotional behavior. It acts like the body's thermostat to keep temperature constant.",
+        "hindi": "हाइपोथैलेमस शरीर के तापमान और भूख, प्यास, नींद और भावनात्मक व्यवहार जैसी अन्य स्थितियों को नियंत्रित करता है। यह शरीर के थर्मोस्टेट की तरह काम करता है जो तापमान को स्थिर रखता है।"
+      },
+      "image": null,
       "medium": "medium"
     },
     {
@@ -195,6 +235,11 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Testosterone is the male hormone responsible for developing secondary sexual characters like facial hair, deep voice, and muscle development during puberty.",
+        "hindi": "टेस्टोस्टेरोन पुरुष हार्मोन है जो यौवन के दौरान चेहरे के बाल, गहरी आवाज और मांसपेशियों के विकास जैसे द्वितीयक लैंगिक लक्षणों के विकास के लिए जिम्मेदार है।"
+      },
+      "image": null,
       "medium": "hard"
     },
     {
@@ -217,7 +262,11 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Abscisic acid is a growth inhibiting hormone in plants. It promotes seed dormancy, helps plants survive stress conditions and causes leaves to fall off (abscission).",
+        "hindi": "एब्सिसिक एसिड पौधों में वृद्धि को रोकने वाला हार्मोन है। यह बीज सुप्तावस्था को बढ़ावा देता है, पौधों को तनाव की स्थितियों में जीवित रहने में मदद करता है और पत्तियों को गिरने का कारण बनता है।"
+      },
+      "image": null,
       "medium": "hard"
     }
   ]
-  

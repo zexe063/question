@@ -20,7 +20,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ductility is the property that allows metals to be drawn into thin wires without breaking. This is possible because metals have closely packed atoms that can slide over each other. For example, copper and aluminum can be drawn into thin wires for electrical cables.",
+        "hindi": "तन्यता वह गुण है जो धातुओं को बिना टूटे पतले तार में खींचने की अनुमति देता है। यह इसलिए संभव है क्योंकि धातुओं में परमाणु पास-पास होते हैं जो एक-दूसरे पर फिसल सकते हैं। उदाहरण के लिए, तांबे और एल्युमीनियम को बिजली के तारों के लिए पतले तार में खींचा जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When iron nails are placed in copper sulphate solution, a displacement reaction occurs: Fe + CuSO₄ → FeSO₄ + Cu. Iron being more reactive displaces copper, forming a brown copper coating on the nail. The blue color of copper sulphate solution fades as iron sulphate forms.",
+        "hindi": "जब लोहे की कीलों को कॉपर सल्फेट के घोल में रखा जाता है, एक विस्थापन अभिक्रिया होती है: Fe + CuSO₄ → FeSO₄ + Cu। लोहा अधिक क्रियाशील होने के कारण तांबे को विस्थापित कर देता है, जिससे कील पर तांबे की भूरी परत बन जाती है। कॉपर सल्फेट के घोल का नीला रंग आयरन सल्फेट बनने के कारण फीका पड़ जाता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Aluminum is used in overhead electric wires because it is lightweight, has good electrical conductivity, and is cheaper than copper. Being lightweight reduces the stress on supporting poles. It also forms a protective oxide layer that prevents corrosion.",
+        "hindi": "एल्युमीनियम का उपयोग ऊपरी बिजली के तारों में किया जाता है क्योंकि यह हल्का होता है, इसमें विद्युत चालकता अच्छी होती है, और यह तांबे की तुलना में सस्ता होता है। हल्का होने के कारण सहायक खंभों पर तनाव कम होता है। यह एक सुरक्षात्मक ऑक्साइड परत भी बनाता है जो जंग को रोकती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Metal oxides are basic in nature when dissolved in water. For example: Na₂O + H₂O → 2NaOH (sodium hydroxide, a base). They turn red litmus paper blue and feel soapy to touch. This is why metal oxides can neutralize acids: CaO + 2HCl → CaCl₂ + H₂O.",
+        "hindi": "जल में घुलने पर धातु ऑक्साइड क्षारीय प्रकृति के होते हैं। उदाहरण: Na₂O + H₂O → 2NaOH (सोडियम हाइड्रॉक्साइड, एक क्षार)। ये लाल लिटमस पत्र को नीला कर देते हैं और छूने पर साबुन जैसे लगते हैं। इसीलिए धातु ऑक्साइड अम्लों को उदासीन कर सकते हैं: CaO + 2HCl → CaCl₂ + H₂O।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Both water and oxygen are necessary for rusting of iron. The chemical reaction is: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (rust). This is why iron doesn't rust in dry air or in boiled water (no oxygen). To prevent rusting, we can paint iron or coat it with zinc (galvanization).",
+        "hindi": "लोहे में जंग लगने के लिए जल और ऑक्सीजन दोनों आवश्यक हैं। रासायनिक अभिक्रिया है: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃·H₂O (जंग)। इसीलिए लोहे में सूखी हवा या उबले पानी (ऑक्सीजन नहीं) में जंग नहीं लगती। जंग को रोकने के लिए, हम लोहे पर पेंट कर सकते हैं या जस्ता चढ़ा सकते हैं (गैल्वनीकरण)।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Sodium reacts explosively with cold water: 2Na + 2H₂O → 2NaOH + H₂↑. The reaction releases so much heat that the hydrogen gas produced catches fire. The sodium metal dances on water surface due to the force of the reaction. The solution formed is basic due to NaOH formation.",
+        "hindi": "सोडियम ठंडे पानी से विस्फोटक अभिक्रिया करता है: 2Na + 2H₂O → 2NaOH + H₂↑। अभिक्रिया इतनी ऊष्मा उत्पन्न करती है कि उत्पन्न हाइड्रोजन गैस आग पकड़ लेती है। सोडियम धातु अभिक्रिया के बल के कारण पानी की सतह पर नाचती है। NaOH बनने के कारण बना घोल क्षारीय होता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Pure gold (24 karat) is too soft for making jewelry as it can be easily bent or scratched. Therefore, it is alloyed with metals like copper or silver to increase its hardness. For example, 22K gold contains 22 parts gold and 2 parts other metals, making it more suitable for jewelry.",
+        "hindi": "शुद्ध सोना (24 कैरेट) आभूषण बनाने के लिए बहुत नरम होता है क्योंकि इसे आसानी से मोड़ा या खरोंचा जा सकता है। इसलिए, इसे कठोरता बढ़ाने के लिए तांबा या चांदी जैसी धातुओं के साथ मिश्रित किया जाता है। उदाहरण के लिए, 22K सोने में 22 भाग सोना और 2 भाग अन्य धातुएं होती हैं, जो इसे आभूषण के लिए अधिक उपयुक्त बनाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metals have metallic bonding where positive metal ions are surrounded by a sea of free electrons. These free electrons make metals good conductors of heat and electricity. The mobility of these electrons also gives metals their shine and malleability.",
+        "hindi": "धातुओं में धात्विक बंधन होता है जहाँ धनात्मक धातु आयन मुक्त इलेक्ट्रॉनों के समुद्र से घिरे होते हैं। ये मुक्त इलेक्ट्रॉन धातुओं को ऊष्मा और विद्युत के सुचालक बनाते हैं। इन इलेक्ट्रॉनों की गतिशीलता धातुओं को उनकी चमक और आघातवर्धनीयता प्रदान करती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In blast furnace, coke acts as a reducing agent to convert iron oxide to iron: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Coke (carbon) first reacts with hot air to form CO: C + O₂ → CO₂; CO₂ + C → 2CO. This CO then reduces iron oxide to pure iron. Coke also provides heat by burning.",
+        "hindi": "वाष्प भट्टी में कोक आयरन ऑक्साइड को आयरन में बदलने के लिए अपचायक का काम करता है: Fe₂O₃ + 3CO → 2Fe + 3CO₂। कोक (कार्बन) पहले गर्म हवा से क्रिया करके CO बनाता है: C + O₂ → CO₂; CO₂ + C → 2CO। यह CO फिर आयरन ऑक्साइड को शुद्ध आयरन में अपचयित करता है। कोक जलकर ऊष्मा भी प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Gold is found in free (native) state in nature because it is least reactive. It does not react with oxygen, water or most chemicals at room temperature. Other metals like iron are found as oxides or other compounds because they are reactive and combine with elements in nature.",
+        "hindi": "सोना प्रकृति में मुक्त अवस्था में पाया जाता है क्योंकि यह सबसे कम क्रियाशील है। यह सामान्य तापमान पर ऑक्सीजन, पानी या अधिकांश रसायनों से क्रिया नहीं करता है। लोहे जैसी अन्य धातुएं ऑक्साइड या अन्य यौगिकों के रूप में पाई जाती हैं क्योंकि वे क्रियाशील हैं और प्रकृति में तत्वों के साथ संयोग करती हैं।"
+      }
     }
 ]

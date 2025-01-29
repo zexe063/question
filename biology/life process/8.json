@@ -1,233 +1,272 @@
-
 [
-    {
-      "question_name": {
-        "english": "What is the function of small intestine?",
-        "hindi": "छोटी आंत का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Store food",
-          "Absorb water",
-          "Complete digestion and absorption",
-          "Remove waste"
-        ],
-        "hindi": [
-          "भोजन संग्रह",
-          "जल अवशोषण",
-          "पूर्ण पाचन और अवशोषण",
-          "अपशिष्ट निकालना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the function of the small intestine?",
+      "hindi": "छोटी आंत का क्या कार्य है?"
     },
-    {
-      "question_name": {
-        "english": "Which chamber of heart has thickest walls?",
-        "hindi": "हृदय के किस कक्ष की दीवारें सबसे मोटी होती हैं?"
-      },
-      "option": {
-        "english": [
-          "Right atrium",
-          "Left ventricle",
-          "Right ventricle",
-          "Left atrium"
-        ],
-        "hindi": [
-          "दायाँ आलिंद",
-          "बायाँ निलय",
-          "दायाँ निलय",
-          "बायाँ आलिंद"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Store food",
+        "Absorb water",
+        "Remove waste",
+        "Complete digestion and absorption of nutrients"
+      ],
+      "hindi": [
+        "भोजन संग्रह",
+        "जल अवशोषण",
+        "अपशिष्ट निकालना",
+        "पाचन और पोषक तत्वों का अवशोषण पूर्ण करना"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the main function of xylem?",
-        "hindi": "जाइलम का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Transport food",
-          "Transport water",
-          "Store food",
-          "Produce hormones"
-        ],
-        "hindi": [
-          "भोजन का परिवहन",
-          "जल का परिवहन",
-          "भोजन संग्रह",
-          "हार्मोन उत्पादन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of saliva in digestion?",
-        "hindi": "पाचन में लार की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Breaks proteins",
-          "Digests fats",
-          "Breaks starch",
-          "Absorbs minerals"
-        ],
-        "hindi": [
-          "प्रोटीन तोड़ना",
-          "वसा पचाना",
-          "स्टार्च तोड़ना",
-          "खनिज अवशोषित करना"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which organ stores bile?",
-        "hindi": "पित्त का संग्रह किस अंग में होता है?"
-      },
-      "option": {
-        "english": [
-          "Liver",
-          "Pancreas",
-          "Gallbladder",
-          "Stomach"
-        ],
-        "hindi": [
-          "यकृत",
-          "अग्न्याशय",
-          "पित्ताशय",
-          "आमाशय"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What causes the second heart sound?",
-        "hindi": "दूसरी हृदय ध्वनि किस कारण होती है?"
-      },
-      "option": {
-        "english": [
-          "Opening of AV valves",
-          "Closing of semilunar valves",
-          "Blood flow in arteries",
-          "Ventricular contraction"
-        ],
-        "hindi": [
-          "AV वाल्वों का खुलना",
-          "अर्धचंद्राकार वाल्वों का बंद होना",
-          "धमनियों में रक्त प्रवाह",
-          "निलय संकुचन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "How do plants transport minerals?",
-        "hindi": "पौधे खनिजों का परिवहन कैसे करते हैं?"
-      },
-      "option": {
-        "english": [
-          "Through phloem",
-          "By diffusion only",
-          "Through xylem",
-          "By osmosis only"
-        ],
-        "hindi": [
-          "फ्लोएम द्वारा",
-          "केवल विसरण द्वारा",
-          "जाइलम द्वारा",
-          "केवल परासरण द्वारा"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What regulates blood glucose level?",
-        "hindi": "रक्त ग्लूकोज स्तर को क्या नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Liver alone",
-          "Insulin and glucagon",
-          "Kidneys alone",
-          "Pancreas alone"
-        ],
-        "hindi": [
-          "केवल यकृत",
-          "इंसुलिन और ग्लूकागॉन",
-          "केवल गुर्दे",
-          "केवल अग्न्याशय"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What causes coronary artery disease?",
-        "hindi": "कोरोनरी धमनी रोग किस कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "High blood pressure",
-          "Cholesterol deposits",
-          "Blood clots",
-          "Weak heart muscles"
-        ],
-        "hindi": [
-          "उच्च रक्तचाप",
-          "कोलेस्ट्रॉल जमाव",
-          "रक्त के थक्के",
-          "कमजोर हृदय पेशियां"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "How is blood pressure regulated?",
-        "hindi": "रक्तचाप का नियंत्रण कैसे होता है?"
-      },
-      "option": {
-        "english": [
-          "By heart rate only",
-          "By blood volume only",
-          "By nervous system",
-          "By multiple mechanisms"
-        ],
-        "hindi": [
-          "केवल हृदय गति द्वारा",
-          "केवल रक्त मात्रा द्वारा",
-          "तंत्रिका तंत्र द्वारा",
-          "कई तंत्रों द्वारा"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The small intestine is the primary site for the completion of digestion and the absorption of nutrients into the bloodstream.",
+      "hindi": "छोटी आंत पाचन को पूरा करने और पोषक तत्वों को रक्तप्रवाह में अवशोषित करने का प्राथमिक स्थल है।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which chamber of the heart has the thickest walls?",
+      "hindi": "हृदय के किस कक्ष की दीवारें सबसे मोटी होती हैं?"
+    },
+    "option": {
+      "english": [
+        "Right atrium",
+        "Right ventricle",
+        "Left ventricle",
+        "Left atrium"
+      ],
+      "hindi": [
+        "दायाँ आलिंद",
+        "दायाँ निलय",
+        "बायाँ निलय",
+        "बायाँ आलिंद"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The left ventricle has the thickest walls because it pumps blood at high pressure to the entire body.",
+      "hindi": "बाएं निलय की दीवारें सबसे मोटी होती हैं क्योंकि यह पूरे शरीर में उच्च दबाव पर रक्त पंप करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of xylem?",
+      "hindi": "जाइलम का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Transport water and minerals",
+        "Transport food",
+        "Store food",
+        "Produce hormones"
+      ],
+      "hindi": [
+        "जल और खनिजों का परिवहन",
+        "भोजन का परिवहन",
+        "भोजन संग्रह",
+        "हार्मोन उत्पादन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Xylem is a vascular tissue in plants that transports water and dissolved minerals from the roots to the rest of the plant.",
+      "hindi": "जाइलम पौधों में एक संवहन ऊतक है जो जड़ों से पौधे के बाकी हिस्सों में पानी और घुले हुए खनिजों का परिवहन करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of saliva in digestion?",
+      "hindi": "पाचन में लार की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Breaks proteins",
+        "Moistens food and begins starch digestion",
+        "Digests fats",
+        "Absorbs minerals"
+      ],
+      "hindi": [
+        "प्रोटीन तोड़ना",
+        "भोजन को नम करना और स्टार्च का पाचन शुरू करना",
+        "वसा पचाना",
+        "खनिज अवशोषित करना"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Saliva moistens food, making it easier to swallow, and contains the enzyme amylase, which begins the digestion of starch.",
+      "hindi": "लार भोजन को नम करती है, जिससे उसे निगलना आसान हो जाता है, और इसमें एमाइलेज एंजाइम होता है, जो स्टार्च का पाचन शुरू करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is stored in the Liver?",
+      "hindi": "यकृत में क्या संग्रहित होता है?"
+    },
+    "option": {
+      "english": [
+        "Bile",
+        "Enzymes",
+        "Acid",
+        "Glycogen"
+      ],
+      "hindi": [
+        "पित्त",
+        "एंजाइम",
+        "अम्ल",
+        "ग्लाइकोजन"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The liver stores glucose in the form of glycogen, a complex carbohydrate.",
+      "hindi": "यकृत ग्लूकोज को ग्लाइकोजन, एक जटिल कार्बोहाइड्रेट के रूप में संग्रहित करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes the second heart sound?",
+      "hindi": "दूसरी हृदय ध्वनि किस कारण होती है?"
+    },
+    "option": {
+      "english": [
+        "Closing of semilunar valves",
+        "Opening of AV valves",
+        "Blood flow in arteries",
+        "Ventricular contraction"
+      ],
+      "hindi": [
+        "अर्धचंद्राकार वाल्वों का बंद होना",
+        "AV वाल्वों का खुलना",
+        "धमनियों में रक्त प्रवाह",
+        "निलय संकुचन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The second heart sound (\"dub\") is caused by the closure of the semilunar valves (aortic and pulmonary valves) at the end of ventricular contraction.",
+      "hindi": "दूसरी हृदय ध्वनि (\"डब\") निलय संकुचन के अंत में अर्धचंद्राकार वाल्व (महाधमनी और फुफ्फुसीय वाल्व) के बंद होने के कारण होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How do plants transport minerals?",
+      "hindi": "पौधे खनिजों का परिवहन कैसे करते हैं?"
+    },
+    "option": {
+      "english": [
+        "Through phloem",
+        "By osmosis only",
+        "Through xylem along with water",
+        "By diffusion only"
+      ],
+      "hindi": [
+        "फ्लोएम द्वारा",
+        "केवल परासरण द्वारा",
+        "जाइलम द्वारा पानी के साथ",
+        "केवल विसरण द्वारा"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Plants primarily transport dissolved minerals from the roots to other parts of the plant through the xylem, along with the flow of water.",
+      "hindi": "पौधे मुख्य रूप से घुले हुए खनिजों को जड़ों से पौधे के अन्य भागों में जाइलम के माध्यम से पानी के प्रवाह के साथ परिवहन करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What regulates blood glucose level?",
+      "hindi": "रक्त ग्लूकोज स्तर को क्या नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Liver alone",
+        "Insulin and glucagon hormones",
+        "Kidneys alone",
+        "Pancreas alone"
+      ],
+      "hindi": [
+        "केवल यकृत",
+        "इंसुलिन और ग्लूकागॉन हार्मोन",
+        "केवल गुर्दे",
+        "केवल अग्न्याशय"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Blood glucose levels are regulated by the hormones insulin and glucagon, which are produced by the pancreas. Insulin lowers blood glucose, while glucagon raises it.",
+      "hindi": "रक्त ग्लूकोज का स्तर इंसुलिन और ग्लूकागॉन हार्मोन द्वारा नियंत्रित होता है, जो अग्न्याशय द्वारा निर्मित होते हैं। इंसुलिन रक्त ग्लूकोज को कम करता है, जबकि ग्लूकागॉन इसे बढ़ाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes coronary artery disease?",
+      "hindi": "कोरोनरी धमनी रोग किस कारण होता है?"
+    },
+    "option": {
+      "english": [
+        "High blood pressure",
+        "Blood clots",
+        "Weak heart muscles",
+        "Atherosclerosis"
+      ],
+      "hindi": [
+        "उच्च रक्तचाप",
+        "रक्त के थक्के",
+        "कमजोर हृदय पेशियां",
+        "एथेरोस्क्लेरोसिस"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Coronary artery disease (CAD) is primarily caused by atherosclerosis, which is the buildup of plaque (fatty deposits, cholesterol, etc.) within the walls of the coronary arteries, narrowing them and reducing blood flow to the heart muscle.",
+      "hindi": "कोरोनरी धमनी रोग (CAD) मुख्य रूप से एथेरोस्क्लेरोसिस के कारण होता है, जो कोरोनरी धमनियों की दीवारों के भीतर प्लाक (वसा जमा, कोलेस्ट्रॉल, आदि) का निर्माण होता है, जिससे वे संकरी हो जाती हैं और हृदय की मांसपेशियों में रक्त का प्रवाह कम हो जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How is blood pressure regulated?",
+      "hindi": "रक्तचाप का नियंत्रण कैसे होता है?"
+    },
+    "option": {
+      "english": [
+        "By multiple mechanisms involving the nervous system, hormones, and the kidneys",
+        "By heart rate only",
+        "By blood volume only",
+        "By nervous system"
+      ],
+      "hindi": [
+        "तंत्रिका तंत्र, हार्मोन और गुर्दे से जुड़े कई तंत्रों द्वारा",
+        "केवल हृदय गति द्वारा",
+        "केवल रक्त मात्रा द्वारा",
+        "तंत्रिका तंत्र द्वारा"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Blood pressure is regulated by a complex interplay of mechanisms, including the nervous system (sympathetic and parasympathetic), hormones (such as adrenaline, angiotensin II, and aldosterone), and the kidneys (which regulate blood volume).",
+      "hindi": "रक्तचाप तंत्रिका तंत्र (अनुकंपी और परानुकंपी), हार्मोन (जैसे एड्रेनालाईन, एंजियोटेंसिन II और एल्डोस्टेरोन), और गुर्दे (जो रक्त की मात्रा को नियंत्रित करते हैं) सहित कई तंत्रों की जटिल परस्पर क्रिया द्वारा नियंत्रित होता है।"
+    }
+  }
+]

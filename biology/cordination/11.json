@@ -1,233 +1,272 @@
-
 [
-    {
-      "question_name": {
-        "english": "Which part of brain controls memory and learning?",
-        "hindi": "मस्तिष्क का कौन सा भाग स्मृति और सीखने को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Cerebrum",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "सेरेब्रम",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Why do we feel dizzy when spinning around?",
+      "hindi": "चक्कर लगाने पर हमें चक्कर क्यों आते हैं?"
     },
-    {
-      "question_name": {
-        "english": "Which gland secretes calcitonin?",
-        "hindi": "कौन सी ग्रंथि कैल्सीटोनिन स्रावित करती है?"
-      },
-      "option": {
-        "english": [
-          "Thyroid",
-          "Pituitary",
-          "Pancreas",
-          "Parathyroid"
-        ],
-        "hindi": [
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय",
-          "पैराथायरॉइड"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Blood pressure",
+        "Eye movement", 
+        "Inner ear fluid",
+        "Brain pressure"
+      ],
+      "hindi": [
+        "रक्तचाप",
+        "नेत्र गति",
+        "आंतरिक कर्ण द्रव",
+        "मस्तिष्क दबाव"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which hormone regulates calcium metabolism?",
-        "hindi": "कौन सा हार्मोन कैल्शियम चयापचय को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Insulin",
-          "Parathormone",
-          "Thyroxine",
-          "Growth hormone"
-        ],
-        "hindi": [
-          "इंसुलिन",
-          "पैराथोरमोन",
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "answer": 2,
+    "explanation": {
+      "english": "When we spin, the fluid in our inner ear (called endolymph) continues moving even after we stop. This confuses our brain about our position, causing dizziness.",
+      "hindi": "जब हम घूमते हैं, तो हमारे आंतरिक कान में मौजूद द्रव (एंडोलिम्फ) हमारे रुकने के बाद भी हिलता रहता है। इससे हमारे मस्तिष्क को हमारी स्थिति के बारे में भ्रम होता है, जिससे चक्कर आते हैं।"
     },
-    {
-      "question_name": {
-        "english": "What is the function of neurotransmitters?",
-        "hindi": "न्यूरोट्रांसमीटर का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Store energy",
-          "Filter blood",
-          "Produce hormones",
-          "Signal transmission"
-        ],
-        "hindi": [
-          "ऊर्जा संग्रह",
-          "रक्त छानना",
-          "हार्मोन उत्पादन",
-          "संकेत संचरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Why do our pupils dilate in dark?",
+      "hindi": "अंधेरे में हमारी पुतलियां क्यों फैल जाती हैं?"
     },
-    {
-      "question_name": {
-        "english": "Which part of brain controls blood pressure?",
-        "hindi": "मस्तिष्क का कौन सा भाग रक्तचाप को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Pons",
-          "Cerebrum",
-          "Medulla oblongata",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "पोंस",
-          "सेरेब्रम",
-          "मेडुला ऑबलोंगाटा",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Reflex action",
+        "Conscious effort",
+        "Random movement",
+        "Learned response"
+      ],
+      "hindi": [
+        "प्रतिवर्त क्रिया",
+        "सचेत प्रयास",
+        "यादृच्छिक गति",
+        "सीखी गई प्रतिक्रिया"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which hormone is called antidiuretic hormone?",
-        "hindi": "किस हार्मोन को प्रतिमूत्रल हार्मोन कहा जाता है?"
-      },
-      "option": {
-        "english": [
-          "Insulin",
-          "Vasopressin",
-          "Thyroxine",
-          "Cortisol"
-        ],
-        "hindi": [
-          "इंसुलिन",
-          "वैसोप्रेसिन",
-          "थायरॉक्सिन",
-          "कॉर्टिसोल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
+    "answer": 0,
+    "explanation": {
+      "english": "In darkness, our pupils automatically dilate (get bigger) to let in more light. This is a reflex action controlled by our autonomic nervous system to help us see better in low light.",
+      "hindi": "अंधेरे में, हमारी पुतलियां स्वचालित रूप से फैल जाती हैं (बड़ी हो जाती हैं) ताकि अधिक प्रकाश अंदर आ सके। यह हमारी स्वायत्त तंत्रिका प्रणाली द्वारा नियंत्रित एक प्रतिवर्त क्रिया है जो कम रोशनी में बेहतर देखने में मदद करती है।"
     },
-    {
-      "question_name": {
-        "english": "Which gland produces epinephrine?",
-        "hindi": "कौन सी ग्रंथि एपिनेफ्रिन का उत्पादन करती है?"
-      },
-      "option": {
-        "english": [
-          "Adrenal",
-          "Thyroid",
-          "Pituitary",
-          "Pancreas"
-        ],
-        "hindi": [
-          "एड्रेनल",
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Why do climber plants coil around support?",
+      "hindi": "लताएं सहारे के चारों ओर क्यों लिपटती हैं?"
     },
-    {
-      "question_name": {
-        "english": "What is the role of acetylcholine in synapses?",
-        "hindi": "सिनैप्स में एसिटिलकोलीन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Energy storage",
-          "Hormone production",
-          "Waste removal",
-          "Signal transmission"
-        ],
-        "hindi": [
-          "ऊर्जा भंडारण",
-          "हार्मोन उत्पादन",
-          "अपशिष्ट निष्कासन",
-          "संकेत संचरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Random growth",
+        "Thigmotropism",
+        "Phototropism",
+        "Geotropism"
+      ],
+      "hindi": [
+        "यादृच्छिक वृद्धि",
+        "स्पर्शानुवर्तन",
+        "प्रकाशानुवर्तन", 
+        "गुरुत्वानुवर्तन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which part of neuron conducts impulses away from cell body?",
-        "hindi": "न्यूरॉन का कौन सा भाग कोशिका काय से आवेग को दूर ले जाता है?"
-      },
-      "option": {
-        "english": [
-          "Dendrites",
-          "Cell body",
-          "Axon",
-          "Synapse"
-        ],
-        "hindi": [
-          "डेंड्राइट्स",
-          "कोशिका काय",
-          "एक्सॉन",
-          "सिनैप्स"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "explanation": {
+      "english": "Plants respond to touch through thigmotropism. When climbing plants touch a support, they grow and coil around it. This helps them grow upward and get better access to sunlight.",
+      "hindi": "पौधे स्पर्श के प्रति स्पर्शानुवर्तन द्वारा प्रतिक्रिया करते हैं। जब लताएं किसी सहारे को छूती हैं, तो वे उसके चारों ओर बढ़ती और लिपटती हैं। यह उन्हें ऊपर की ओर बढ़ने और सूर्य के प्रकाश तक बेहतर पहुंच प्राप्त करने में मदद करता है।"
     },
-    {
-      "question_name": {
-        "english": "Which hormone deficiency causes diabetes insipidus?",
-        "hindi": "किस हार्मोन की कमी से डायबिटीज इनसिपिडस होता है?"
-      },
-      "option": {
-        "english": [
-          "Insulin",
-          "Vasopressin",
-          "Thyroxine",
-          "Growth hormone"
-        ],
-        "hindi": [
-          "इंसुलिन",
-          "वैसोप्रेसिन",
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
-  ]
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Why do we get goosebumps when scared?",
+      "hindi": "डर के समय रोंगटे क्यों खड़े हो जाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Blood flow",
+        "Muscle tension",
+        "Nerve signals",
+        "Fight-flight response"
+      ],
+      "hindi": [
+        "रक्त प्रवाह",
+        "मांसपेशी तनाव",
+        "तंत्रिका संकेत",
+        "लड़ो-या-भागो प्रतिक्रिया"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "When we're scared, our body's fight-or-flight response is activated. This causes tiny muscles attached to our hair follicles to contract, making our hair stand up and creating goosebumps.",
+      "hindi": "जब हम डरते हैं, तो हमारे शरीर की लड़ो-या-भागो प्रतिक्रिया सक्रिय हो जाती है। इससे हमारे बालों के रोम-कूपों से जुड़ी छोटी मांसपेशियां सिकुड़ जाती हैं, जिससे हमारे बाल खड़े हो जाते हैं और रोंगटे खड़े हो जाते हैं।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Why do we feel sleepy after heavy meal?",
+      "hindi": "भारी भोजन के बाद नींद क्यों आती है?"
+    },
+    "option": {
+      "english": [
+        "Low oxygen",
+        "High sugar",
+        "Blood diversion",
+        "Brain fatigue"
+      ],
+      "hindi": [
+        "ऑक्सीजन की कमी",
+        "शर्करा की अधिकता",
+        "रक्त का मार्ग परिवर्तन",
+        "मस्तिष्क थकान"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "After a heavy meal, more blood flows to our digestive system to help with digestion. This reduces blood flow to the brain temporarily, making us feel sleepy and less alert.",
+      "hindi": "भारी भोजन के बाद, पाचन में मदद के लिए हमारी पाचन प्रणाली में अधिक रक्त प्रवाहित होता है। इससे मस्तिष्क में रक्त का प्रवाह अस्थायी रूप से कम हो जाता है, जिससे हमें नींद आती है और सतर्कता कम हो जाती है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Why do we yawn when seeing others yawn?",
+      "hindi": "दूसरों को जम्हाई लेते देख हमें जम्हाई क्यों आती है?"
+    },
+    "option": {
+      "english": [
+        "Oxygen need",
+        "Reflex action",
+        "Tiredness",
+        "Random action"
+      ],
+      "hindi": [
+        "ऑक्सीजन की आवश्यकता",
+        "प्रतिवर्त क्रिया",
+        "थकान",
+        "यादृच्छिक क्रिया"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Yawning is contagious due to our brain's automatic mirroring response. When we see someone yawn, our brain triggers the same reflex action in us. This is called social mirroring.",
+      "hindi": "हमारे मस्तिष्क की स्वचालित अनुकरण प्रतिक्रिया के कारण जम्हाई संक्रामक होती है। जब हम किसी को जम्हाई लेते देखते हैं, तो हमारा मस्तिष्क हममें भी वही प्रतिवर्त क्रिया शुरू कर देता है। इसे सामाजिक अनुकरण कहते हैं।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Why do we get brain freeze while eating ice cream?",
+      "hindi": "आइसक्रीम खाते समय दिमाग में तीव्र दर्द क्यों होता है?"
+    },
+    "option": {
+      "english": [
+        "Blood vessel response",
+        "Nerve damage",
+        "Brain cooling",
+        "Tooth sensitivity"
+      ],
+      "hindi": [
+        "रक्त वाहिका प्रतिक्रिया",
+        "तंत्रिका क्षति",
+        "मस्तिष्क शीतलन",
+        "दांत संवेदनशीलता"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "When cold food touches the roof of our mouth, blood vessels in that area quickly contract and then expand. This rapid change triggers pain receptors, sending pain signals to the brain.",
+      "hindi": "जब ठंडा भोजन हमारे मुंह की छत को छूता है, तो उस क्षेत्र की रक्त वाहिकाएं तेजी से सिकुड़ती और फिर फैलती हैं। यह तेज बदलाव दर्द ग्राही को सक्रिय करता है, जो मस्तिष्क को दर्द के संकेत भेजता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Why do we get hiccups?",
+      "hindi": "हिचकी क्यों आती है?"
+    },
+    "option": {
+      "english": [
+        "Stomach spasm",
+        "Heart problem",
+        "Lung issue",
+        "Diaphragm spasm"
+      ],
+      "hindi": [
+        "पेट की ऐंठन",
+        "हृदय समस्या",
+        "फेफड़े की समस्या",
+        "डायाफ्राम की ऐंठन"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Hiccups occur when our diaphragm (the muscle below our lungs) suddenly contracts involuntarily. This causes us to quickly suck in air, which hits our voice box, creating the 'hic' sound.",
+      "hindi": "हिचकी तब होती है जब हमारा डायाफ्राम (फेफड़ों के नीचे की मांसपेशी) अचानक अनैच्छिक रूप से सिकुड़ता है। इससे हम तेजी से हवा अंदर खींचते हैं, जो हमारे स्वर यंत्र से टकराती है, जिससे 'हिक' की आवाज आती है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Why do we feel tingling when foot falls asleep?",
+      "hindi": "पैर के सुन्न होने पर झनझनाहट क्यों होती है?"
+    },
+    "option": {
+      "english": [
+        "Blood clot",
+        "Muscle damage",
+        "Nerve compression",
+        "Bone pressure"
+      ],
+      "hindi": [
+        "रक्त का थक्का",
+        "मांसपेशी क्षति",
+        "तंत्रिका संपीड़न",
+        "हड्डी का दबाव"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "When we sit in one position for too long, we compress the nerves in our foot. When we move again, these nerves start sending confused signals to the brain, causing a tingling sensation.",
+      "hindi": "जब हम लंबे समय तक एक ही स्थिति में बैठते हैं, तो हमारे पैर की तंत्रिकाएं दब जाती हैं। जब हम फिर से हिलते हैं, तो ये तंत्रिकाएं मस्तिष्क को भ्रमित संकेत भेजना शुरू कर देती हैं, जिससे झनझनाहट होती है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Why do we get motion sickness in vehicles?",
+      "hindi": "वाहनों में गति-रोग क्यों होता है?"
+    },
+    "option": {
+      "english": [
+        "Speed fear",
+        "Sensory conflict",
+        "Weak stomach",
+        "Poor vision"
+      ],
+      "hindi": [
+        "गति का भय",
+        "संवेदी असंगति",
+        "कमजोर पेट",
+        "कमजोर दृष्टि"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Motion sickness happens when there's a conflict between what our eyes see and what our inner ear senses about movement. Our brain gets confused by these mixed signals, causing nausea and dizziness.",
+      "hindi": "गति-रोग तब होता है जब हमारी आंखें जो देखती हैं और हमारा आंतरिक कान गति के बारे में जो महसूस करता है, उनमें विरोधाभास होता है। हमारा मस्तिष्क इन मिश्रित संकेतों से भ्रमित हो जाता है, जिससे मतली और चक्कर आते हैं।"
+    },
+    "image": null,
+    "medium": "hard"
+  }
+]

@@ -7,9 +7,9 @@
       "option": {
         "english": [
           "No respiration",
-          "Both types",
+          "Aerobic respiration",
           "Anaerobic respiration",
-          "Aerobic respiration"
+          "Both types"
         ],
         "hindi": [
           "कोई श्वसन नहीं",
@@ -17,6 +17,11 @@
           "अवायवीय श्वसन",
           "वायवीय श्वसन"
         ]
+        
+      },
+      "explanation": {
+        "english": "During intense exercise, muscle cells undergo anaerobic respiration due to insufficient oxygen supply, producing lactic acid as a byproduct.",
+        "hindi": "तीव्र व्यायाम के दौरान, ऑक्सीजन की अपर्याप्त आपूर्ति के कारण मांसपेशी कोशिकाएं अवायवीय श्वसन करती हैं, जिससे लैक्टिक एसिड उपोत्पाद के रूप में बनता है।"
       },
       "answer": 2,
       "image": null,
@@ -41,6 +46,10 @@
           "एंजाइम स्रावित करना"
         ]
       },
+      "explanation": {
+        "english": "Villi increase the surface area of the small intestine, allowing for greater absorption of nutrients from digested food.",
+        "hindi": "कूपिकाएं छोटी आंत का सतह क्षेत्र बढ़ाती हैं, जिससे पचे हुए भोजन से अधिक पोषक तत्वों का अवशोषण होता है।"
+      },
       "answer": 0,
       "image": null,
       "medium": "easy"
@@ -64,32 +73,40 @@
           "हाइड्रोजन"
         ]
       },
+      "explanation": {
+        "english": "During photosynthesis, plants convert carbon dioxide and water into glucose and release oxygen as a byproduct.",
+        "hindi": "प्रकाश संश्लेषण के दौरान, पौधे कार्बन डाइऑक्साइड और पानी को ग्लूकोज में परिवर्तित करते हैं और ऑक्सीजन को उपोत्पाद के रूप में छोड़ते हैं।"
+      },
       "answer": 1,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the function of platelets?",
-        "hindi": "प्लेटलेट्स का क्या कार्य है?"
+        "english": "Which process is responsible for the movement of water from the roots to the leaves of a plant?",
+        "hindi": "पौधे की जड़ों से पत्तियों तक पानी की गति के लिए कौन सी प्रक्रिया जिम्मेदार है?"
       },
       "option": {
         "english": [
-          "Transport oxygen",
-          "Fight infection",
-          "Produce antibodies",
-          "Blood clotting"
+          "Photosynthesis",
+          "Respiration",
+          "Digestion",
+          "Transpiration"
         ],
         "hindi": [
-          "ऑक्सीजन परिवहन",
-          "संक्रमण से लड़ना",
-          "एंटीबॉडी उत्पादन",
-          "रक्त का थक्का जमाना"
+          "प्रकाश संश्लेषण",
+          "श्वसन",
+          "पाचन",
+          "वाष्पोत्सर्जन"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Transpiration is the process by which water evaporates from the leaves of plants, creating a 'pull' that draws water up from the roots through the xylem vessels.",
+        "hindi": "वाष्पोत्सर्जन वह प्रक्रिया है जिसके द्वारा पौधों की पत्तियों से पानी वाष्पित हो जाता है, जिससे एक 'खिंचाव' पैदा होता है जो जड़ों से जाइलम वाहिकाओं के माध्यम से पानी को ऊपर खींचता है।"
+      }
     },
     {
       "question_name": {
@@ -109,78 +126,94 @@
           "डायाफ्राम शिथिल होता है",
           "डायाफ्राम संकुचित होता है"
         ]
-      },    
+      },
+      "explanation": {
+        "english": "During expiration, the diaphragm relaxes and moves upward, reducing the chest cavity volume and forcing air out of the lungs.",
+        "hindi": "उच्छ्वास के दौरान, डायाफ्राम शिथिल होकर ऊपर की ओर जाता है, जिससे छाती की गुहा का आयतन कम हो जाता है और फेफड़ों से हवा बाहर निकल जाती है।"
+      },
       "answer": 2,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "In the given heart diagram, identify the blood flow path marked in red:",
-        "hindi": "दिए गए हृदय चित्र में, लाल रंग से चिह्नित रक्त प्रवाह पथ की पहचान करें:"
+        "english": "Which blood vessels carry deoxygenated blood to the lungs?",
+        "hindi": "कौन सी रक्त वाहिकाएं अऑक्सीकृत रक्त को फेफड़ों तक ले जाती हैं?"
       },
       "option": {
         "english": [
-          "Systemic circulation",
-          "Pulmonary circulation",
-          "Hepatic circulation",
-          "Coronary circulation"
+          "Pulmonary vein",
+          "Pulmonary artery",
+          "Aorta",
+          "Vena cava"
         ],
         "hindi": [
-          "दैहिक परिसंचरण",
-          "फुफ्फुसीय परिसंचरण",
-          "यकृत परिसंचरण",
-          "कोरोनरी परिसंचरण"
+          "फुफ्फुसीय शिरा",
+          "फुफ्फुसीय धमनी",
+          "महाधमनी",
+          "महाशिरा"
         ]
+      },
+      "explanation": {
+        "english": "The pulmonary artery carries deoxygenated blood from the right ventricle to the lungs for oxygenation.",
+        "hindi": "फुफ्फुसीय धमनी अऑक्सीकृत रक्त को दाएं निलय से फेफड़ों तक ऑक्सीजनीकरण के लिए ले जाती है।"
       },
       "answer": 1,
-      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M150,50C100,30,50,60,50,100C50,150,150,180,150,180C150,180,250,150,250,100C250,60,200,30,150,50' fill='#ff9999'/><path d='M150,75L150,25' stroke='red' stroke-width='2'/><path d='M150,75L200,75' stroke='red' stroke-width='2'/><circle cx='150' cy='75' r='5' fill='red'/></svg>",
+      "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "In the nephron diagram, what process occurs at the marked region?",
-        "hindi": "नेफ्रॉन के चित्र में, चिह्नित क्षेत्र में कौन सी प्रक्रिया होती है?"
+        "english": "What is the main function of loop of Henle in nephron?",
+        "hindi": "नेफ्रॉन में हेनले के लूप का मुख्य कार्य क्या है?"
       },
       "option": {
         "english": [
-          "Selective reabsorption",
-          "Concentration",
-          "Tubular secretion",
-          "Ultrafiltration"
+          "Concentration of urine",
+          "Filtration of blood",
+          "Removal of toxins",
+          "Reabsorption of glucose"
         ],
         "hindi": [
-          "चयनात्मक पुनरावशोषण",
-          "सांद्रण",
-          "नलिका स्रावण",
-          "अति निस्यंदन"
+          "मूत्र का सांद्रण",
+          "रक्त का छनना",
+          "विषाक्त पदार्थों का निष्कासन",
+          "ग्लूकोज का पुनरावशोषण"
         ]
+      },
+      "explanation": {
+        "english": "The loop of Henle helps concentrate urine by creating a concentration gradient in the medulla of the kidney.",
+        "hindi": "हेनले का लूप गुर्दे के मज्जा में सांद्रता प्रवणता बनाकर मूत्र को सांद्रित करने में मदद करता है।"
       },
       "answer": 0,
-      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M100,50C150,50,150,150,100,150' fill='none' stroke='black'/><path d='M125,75C175,75,175,125,125,125' fill='none' stroke='red'/><circle cx='150' cy='100' r='3' fill='red'/><path d='M100,50C80,75,80,125,100,150' fill='none' stroke='black'/></svg>",
+      "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "In the stomata mechanism diagram, what is happening?",
-        "hindi": "रंध्र क्रियाविधि के चित्र में क्या हो रहा है?"
+        "english": "What causes stomata to open during the day?",
+        "hindi": "दिन के दौरान रंध्र खुलने का क्या कारण होता है?"
       },
       "option": {
         "english": [
-          "Gas exchange",
-          "Water loss",
-          "Closing of stomata",
-          "Opening of stomata"
+          "Decrease in CO2",
+          "Decrease in oxygen",
+          "Decrease in light",
+          "Increase in guard cell turgor"
         ],
         "hindi": [
-          "गैस विनिमय",
-          "जल की हानि",
-          "रंध्र का बंद होना",
-          "रंध्र का खुलना"
+          "CO2 में कमी",
+          "ऑक्सीजन में कमी",
+          "प्रकाश में कमी",
+          "रक्षी कोशिकाओं में टर्गर की वृद्धि"
         ]
       },
+      "explanation": {
+        "english": "Stomata open when guard cells absorb water and become turgid due to active transport of potassium ions, increasing their turgor pressure.",
+        "hindi": "रंध्र तब खुलते हैं जब रक्षी कोशिकाएं पोटैशियम आयनों के सक्रिय परिवहन के कारण पानी अवशोषित करती हैं और टर्गिड हो जाती हैं, जिससे उनका टर्गर दबाव बढ़ जाता है।"
+      },
       "answer": 3,
-      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><path d='M100,100C120,80,180,80,200,100C180,120,120,120,100,100' fill='#90EE90'/><path d='M140,90C160,90,160,110,140,110' fill='white'/><circle cx='130' cy='95' r='2' fill='darkgreen'/><circle cx='170' cy='95' r='2' fill='darkgreen'/><path d='M120,85L180,85' stroke='blue' stroke-width='1' stroke-dasharray='2,2'/></svg>",
+      "image": null,
       "medium": "medium"
     },
     {
@@ -202,31 +235,39 @@
           "शरीर के आकार के कारण"
         ]
       },
+      "explanation": {
+        "english": "Humans need double circulation because they are warm-blooded and have higher energy requirements, requiring efficient oxygen delivery to tissues.",
+        "hindi": "मनुष्यों को दोहरा परिसंचरण की आवश्यकता होती है क्योंकि वे गर्म रक्त वाले हैं और उनकी ऊर्जा आवश्यकताएं अधिक होती हैं, जिसके लिए ऊतकों में ऑक्सीजन की कुशल डिलीवरी की आवश्यकता होती है।"
+      },
       "answer": 2,
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "How does kidney maintain blood pH?",
-        "hindi": "गुर्दा रक्त का pH कैसे नियंत्रित करता है?"
+        "english": "A patient has a genetic disorder that impairs the ability of their kidneys to reabsorb sodium. How would this likely affect their blood pressure, and why?",
+        "hindi": "एक रोगी को एक आनुवंशिक विकार है जो सोडियम को पुन: अवशोषित करने की उनकी गुर्दे की क्षमता को कम करता है। यह उनके रक्तचाप को कैसे प्रभावित करेगा और क्यों?"
       },
       "option": {
         "english": [
-          "By controlling water balance",
-          "By regulating hydrogen ion concentration",
-          "By removing excess salts",
-          "By filtering proteins"
+          "Increase blood pressure due to increased water retention.",
+          "Decrease blood pressure due to decreased water retention.",
+          "No effect on blood pressure as sodium is not involved in its regulation.",
+          "Increase blood pressure due to increased sodium levels in the blood."
         ],
         "hindi": [
-          "जल संतुलन नियंत्रित करके",
-          "हाइड्रोजन आयन सांद्रता नियंत्रित करके",
-          "अतिरिक्त लवण निकालकर",
-          "प्रोटीन छानकर"
+          "बढ़े हुए जल प्रतिधारण के कारण रक्तचाप में वृद्धि।",
+          "कम जल प्रतिधारण के कारण रक्तचाप में कमी।",
+          "रक्तचाप पर कोई प्रभाव नहीं पड़ता क्योंकि सोडियम इसके नियमन में शामिल नहीं है।",
+          "रक्त में सोडियम के स्तर में वृद्धि के कारण रक्तचाप में वृद्धि।"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Sodium reabsorption is linked to water reabsorption in the kidneys. If sodium reabsorption is impaired, less water will be reabsorbed, leading to a decrease in blood volume and consequently, a decrease in blood pressure.",
+        "hindi": "सोडियम पुन:अवशोषण गुर्दे में जल पुन:अवशोषण से जुड़ा हुआ है। यदि सोडियम पुन:अवशोषण बाधित होता है, तो कम पानी पुन:अवशोषित होगा, जिससे रक्त की मात्रा में कमी आएगी और परिणामस्वरूप, रक्तचाप में कमी आएगी।"
+      }
     }
-  ] 
+  ]

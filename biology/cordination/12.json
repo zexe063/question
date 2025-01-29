@@ -1,233 +1,272 @@
-
 [
     {
       "question_name": {
-        "english": "What is the function of synapse?",
-        "hindi": "सिनैप्स का क्या कार्य है?"
+        "english": "Why do we get headache during fever?",
+        "hindi": "बुखार में सिरदर्द क्यों होता है?"
       },
       "option": {
         "english": [
-          "Store energy",
-          "Filter blood",
-          "Produce hormones",
-          "Transfer signals"
+          "Dehydration",
+          "Blood pressure",
+          "Brain fatigue", 
+          "Blood vessel dilation"
         ],
         "hindi": [
-          "ऊर्जा संग्रह",
-          "रक्त छानना",
-          "हार्मोन उत्पादन",
-          "संकेत स्थानांतरण"
+          "निर्जलीकरण",
+          "रक्तचाप",
+          "मस्तिष्क थकान",
+          "रक्त वाहिका का फैलना"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "During fever, blood vessels in our brain dilate (expand) to increase blood flow. This expansion puts pressure on surrounding tissues causing headache.",
+        "hindi": "बुखार के दौरान, हमारे मस्तिष्क में रक्त वाहिकाएं फैल जाती हैं जिससे रक्त प्रवाह बढ़ जाता है। इस फैलाव से आस-पास के ऊतकों पर दबाव पड़ता है जिससे सिरदर्द होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which part of brain is responsible for maintaining body temperature?",
-        "hindi": "मस्तिष्क का कौन सा भाग शरीर के तापमान को बनाए रखने के लिए जिम्मेदार है?"
+        "english": "Why do onions make us cry?",
+        "hindi": "प्याज काटने से आंखों में पानी क्यों आता है?"
       },
       "option": {
         "english": [
-          "Medulla",
-          "Pons",
-          "Hypothalamus",
-          "Cerebellum"
+          "Sharp smell",
+          "Eye strain",
+          "Chemical reaction",
+          "Emotional response"
         ],
         "hindi": [
-          "मेडुला",
-          "पोंस",
-          "हाइपोथैलेमस",
-          "सेरेबेलम"
+          "तीखी गंध",
+          "आंखों का तनाव",
+          "रासायनिक प्रतिक्रिया",
+          "भावनात्मक प्रतिक्रिया"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When we cut onions, they release a chemical that reacts with the water in our eyes to form a mild acid. This irritates our eyes, making them produce tears to wash away the irritant.",
+        "hindi": "जब हम प्याज काटते हैं, तो उससे एक रसायन निकलता है जो हमारी आंखों के पानी से मिलकर हल्का अम्ल बनाता है। यह आंखों में जलन पैदा करता है, जिससे आंखें आंसू बनाकर इस जलन को धोने की कोशिश करती हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gland secretes parathormone?",
-        "hindi": "कौन सी ग्रंथि पैराथोरमोन स्रावित करती है?"
+        "english": "Why do we feel ticklish in certain body parts?",
+        "hindi": "शरीर के कुछ हिस्सों में गुदगुदी क्यों होती है?"
       },
       "option": {
         "english": [
-          "Parathyroid",
-          "Thyroid",
-          "Pituitary",
-          "Adrenal"
+          "Nerve endings",
+          "Skin thickness",
+          "Muscle movement",
+          "Blood flow"
         ],
         "hindi": [
-          "पैराथायरॉइड",
-          "थायरॉइड",
-          "पीयूष",
-          "एड्रेनल"
+          "तंत्रिका के सिरे",
+          "त्वचा की मोटाई",
+          "मांसपेशी गति",
+          "रक्त प्रवाह"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Some parts of our body have more nerve endings close to the skin surface. When these areas are touched lightly, these sensitive nerve endings send signals to the brain causing a ticklish sensation.",
+        "hindi": "हमारे शरीर के कुछ हिस्सों में त्वचा की सतह के पास अधिक तंत्रिका सिरे होते हैं। जब इन क्षेत्रों को हल्के से छुआ जाता है, तो ये संवेदनशील तंत्रिका सिरे मस्तिष्क को संकेत भेजते हैं जिससे गुदगुदी का एहसास होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which hormone stimulates milk production after childbirth?",
-        "hindi": "प्रसव के बाद कौन सा हार्मोन दूध उत्पादन को उत्तेजित करता है?"
+        "english": "Why do we sneeze in bright light?",
+        "hindi": "तेज रोशनी में छींक क्यों आती है?"
       },
       "option": {
         "english": [
-          "Estrogen",
-          "Prolactin",
-          "Oxytocin",
-          "Progesterone"
+          "Dust allergy",
+          "Photic reflex",
+          "Eye strain",
+          "Random response"
         ],
         "hindi": [
-          "एस्ट्रोजन",
-          "प्रोलैक्टिन",
-          "ऑक्सीटोसिन",
-          "प्रोजेस्टेरोन"
+          "धूल एलर्जी",
+          "प्रकाश प्रतिक्रिया",
+          "आंखों का तनाव",
+          "यादृच्छिक प्रतिक्रिया"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "This is called the photic sneeze reflex. When bright light enters our eyes, it can accidentally trigger the nerve that controls sneezing. This is a natural reflex that some people have.",
+        "hindi": "इसे प्रकाश छींक प्रतिवर्त कहते हैं। जब तेज रोशनी हमारी आंखों में प्रवेश करती है, तो यह गलती से छींक को नियंत्रित करने वाली तंत्रिका को उत्तेजित कर देती है। यह एक प्राकृतिक प्रतिक्रिया है जो कुछ लोगों में होती है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of myelin sheath?",
-        "hindi": "माइलिन आवरण की क्या भूमिका है?"
+        "english": "Why do we feel pain after exercise?",
+        "hindi": "व्यायाम के बाद दर्द क्यों होता है?"
       },
       "option": {
         "english": [
-          "Energy storage",
-          "Signal processing",
-          "Waste removal",
-          "Insulation"
+          "Blood loss",
+          "Nerve damage",
+          "Joint wear",
+          "Lactic acid"
         ],
         "hindi": [
-          "ऊर्जा भंडारण",
-          "संकेत प्रसंस्करण",
-          "अपशिष्ट निष्कासन",
-          "विद्युतरोधन"
+          "रक्त की कमी",
+          "तंत्रिका क्षति",
+          "जोड़ों का घिसना",
+          "लैक्टिक अम्ल"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "During intense exercise, our muscles produce lactic acid when they don't get enough oxygen. This acid buildup causes temporary muscle pain and soreness.",
+        "hindi": "कड़े व्यायाम के दौरान, जब हमारी मांसपेशियों को पर्याप्त ऑक्सीजन नहीं मिलती, तो वे लैक्टिक एसिड उत्पन्न करती हैं। इस एसिड के जमा होने से अस्थायी मांसपेशी दर्द और जकड़न होती है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gland becomes enlarged in Goiter?",
-        "hindi": "घेंघा में कौन सी ग्रंथि बढ़ जाती है?"
+        "english": "Why do plants grow faster in rainy season?",
+        "hindi": "बरसात में पौधे तेजी से क्यों बढ़ते हैं?"
       },
       "option": {
         "english": [
-          "Thyroid",
-          "Pituitary",
-          "Pancreas",
-          "Adrenal"
+          "Cell turgidity",
+          "More sunlight",
+          "Less heat",
+          "Wind movement"
         ],
         "hindi": [
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय",
-          "एड्रेनल"
+          "कोशिका स्फीति",
+          "अधिक धूप",
+          "कम गर्मी",
+          "हवा की गति"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "During rainy season, plant cells absorb more water and become turgid (swollen). This increased water pressure in cells helps plants grow taller and faster.",
+        "hindi": "बरसात के मौसम में पौधों की कोशिकाएं अधिक पानी सोखकर स्फीत (फूली हुई) हो जाती हैं। कोशिकाओं में पानी का यह बढ़ा हुआ दबाव पौधों को लंबा और तेजी से बढ़ने में मदद करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which part of brain interprets taste?",
-        "hindi": "मस्तिष्क का कौन सा भाग स्वाद की व्याख्या करता है?"
+        "english": "Why do we feel thirsty after eating salty food?",
+        "hindi": "नमकीन खाने के बाद प्यास क्यों लगती है?"
       },
       "option": {
         "english": [
-          "Medulla",
-          "Pons",
-          "Temporal lobe",
-          "Cerebellum"
+          "Taste buds",
+          "Dry mouth",
+          "Osmotic effect",
+          "Tongue irritation"
         ],
         "hindi": [
-          "मेडुला",
-          "पोंस",
-          "कनपटी पालि",
-          "सेरेबेलम"
+          "स्वाद कलिकाएं",
+          "मुंह सूखना",
+          "परासरण प्रभाव",
+          "जीभ में जलन"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "When we eat salty food, it increases salt concentration in our blood. To balance this, our body needs more water. This process is called osmosis, which makes us feel thirsty.",
+        "hindi": "जब हम नमकीन खाना खाते हैं, तो हमारे रक्त में नमक की मात्रा बढ़ जाती है। इसे संतुलित करने के लिए हमारे शरीर को अधिक पानी की जरूरत होती है। इस प्रक्रिया को परासरण कहते हैं, जिससे हमें प्यास लगती है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which hormone controls menstrual cycle?",
-        "hindi": "कौन सा हार्मोन मासिक धर्म चक्र को नियंत्रित करता है?"
+        "english": "Why do our eyes adjust quickly from dark to light but slowly from light to dark?",
+        "hindi": "हमारी आंखें अंधेरे से उजाले में जल्दी समायोजित क्यों हो जाती हैं लेकिन उजाले से अंधेरे में धीरे?"
       },
       "option": {
         "english": [
-          "Thyroxine",
-          "Estrogen",
-          "Insulin",
-          "Growth hormone"
+          "Eye structure",
+          "Rhodopsin response",
+          "Pupil size",
+          "Brain processing"
         ],
         "hindi": [
-          "थायरॉक्सिन",
-          "एस्ट्रोजन",
-          "इंसुलिन",
-          "वृद्धि हार्मोन"
+          "आंख की संरचना",
+          "रोडोप्सिन प्रतिक्रिया",
+          "पुतली का आकार",
+          "मस्तिष्क प्रक्रिया"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "Our eyes contain a chemical called rhodopsin that helps us see in dim light. Bright light quickly breaks down rhodopsin, but it takes time to rebuild in darkness, making our eyes adjust slowly to dark.",
+        "hindi": "हमारी आंखों में रोडोप्सिन नामक एक रसायन होता है जो कम रोशनी में देखने में मदद करता है। तेज रोशनी रोडोप्सिन को जल्दी तोड़ देती है, लेकिन अंधेरे में इसके पुनर्निर्माण में समय लगता है, इसलिए हमारी आंखें अंधेरे में धीरे-धीरे समायोजित होती हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What happens during a reflex action?",
-        "hindi": "प्रतिवर्ती क्रिया के दौरान क्या होता है?"
+        "english": "Why do we feel more energetic in morning?",
+        "hindi": "सुबह के समय अधिक ऊर्जावान क्यों महसूस होता है?"
       },
       "option": {
         "english": [
-          "Conscious response",
-          "Planned movement",
-          "Voluntary action",
-          "Involuntary response"
+          "Fresh air",
+          "Less noise",
+          "Cool weather",
+          "Circadian rhythm"
         ],
         "hindi": [
-          "सचेत प्रतिक्रिया",
-          "योजनाबद्ध गति",
-          "ऐच्छिक क्रिया",
-          "अनैच्छिक प्रतिक्रिया"
+          "ताजी हवा",
+          "कम शोर",
+          "ठंडा मौसम",
+          "सर्कैडियन रिदम"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Our body follows a natural daily cycle called circadian rhythm. In the morning, our body releases more energy hormones like cortisol, making us feel more alert and energetic.",
+        "hindi": "हमारा शरीर एक प्राकृतिक दैनिक चक्र का पालन करता है जिसे सर्कैडियन रिदम कहते हैं। सुबह के समय, हमारा शरीर कॉर्टिसोल जैसे ऊर्जा हार्मोन अधिक मात्रा में छोड़ता है, जिससे हम अधिक सतर्क और ऊर्जावान महसूस करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gland regulates blood calcium levels?",
-        "hindi": "कौन सी ग्रंथि रक्त कैल्शियम स्तर को नियंत्रित करती है?"
+        "english": "Why do we get muscle cramps during swimming?",
+        "hindi": "तैरते समय मांसपेशियों में ऐंठन क्यों होती है?"
       },
       "option": {
         "english": [
-          "Parathyroid",
-          "Thyroid",
-          "Pituitary",
-          "Pancreas"
+          "Electrolyte imbalance",
+          "Water pressure",
+          "Muscle fatigue",
+          "Temperature change"
         ],
         "hindi": [
-          "पैराथायरॉइड",
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय"
+          "इलेक्ट्रोलाइट असंतुलन",
+          "जल दाब",
+          "मांसपेशी थकान",
+          "तापमान परिवर्तन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "While swimming, we lose important minerals (electrolytes) through sweat. This loss disturbs the balance of minerals needed for proper muscle function, leading to cramps.",
+        "hindi": "तैरते समय, पसीने के द्वारा हम महत्वपूर्ण खनिज (इलेक्ट्रोलाइट्स) खो देते हैं। इस कमी से मांसपेशियों के सही कार्य के लिए आवश्यक खनिजों का संतुलन बिगड़ जाता है, जिससे ऐंठन होती है।"
+      }
     }
-  ]
+]

@@ -1,232 +1,273 @@
 [
-    {
-      "question_name": {
-        "english": "What is the function of valves in veins?",
-        "hindi": "शिराओं में वाल्व का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Prevent backflow of blood",
-          "Increase blood flow",
-          "Filter blood",
-          "Mix blood"
-        ],
-        "hindi": [
-          "रक्त के पीछे की ओर बहने को रोकना",
-          "रक्त प्रवाह बढ़ाना",
-          "रक्त छानना",
-          "रक्त मिश्रित करना"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the function of valves in veins?",
+      "hindi": "शिराओं में वाल्व का क्या कार्य है?"
     },
-    {
-      "question_name": {
-        "english": "Which process helps in absorption of water in roots?",
-        "hindi": "जड़ों में जल अवशोषण में कौन सी प्रक्रिया सहायक है?"
-      },
-      "option": {
-        "english": [
-          "Diffusion",
-          "Osmosis",
-          "Active transport",
-          "Transpiration"
-        ],
-        "hindi": [
-          "विसरण",
-          "परासरण",
-          "सक्रिय परिवहन",
-          "वाष्पोत्सर्जन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Prevent backflow of blood",
+        "Increase blood flow",
+        "Filter blood",
+        "Mix blood"
+      ],
+      "hindi": [
+        "रक्त के पीछे की ओर बहने को रोकना",
+        "रक्त प्रवाह बढ़ाना",
+        "रक्त छानना",
+        "रक्त मिश्रित करना"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the role of bile in digestion?",
-        "hindi": "पाचन में पित्त की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Breaks proteins",
-          "Emulsifies fats",
-          "Digests carbohydrates",
-          "Absorbs minerals"
-        ],
-        "hindi": [
-          "प्रोटीन तोड़ता है",
-          "वसा का पायसीकरण करता है",
-          "कार्बोहाइड्रेट पचाता है",
-          "खनिज अवशोषित करता है"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which part of blood carries oxygen?",
-        "hindi": "रक्त का कौन सा भाग ऑक्सीजन ले जाता है?"
-      },
-      "option": {
-        "english": [
-          "White blood cells",
-          "Platelets",
-          "Plasma",
-          "Hemoglobin"
-        ],
-        "hindi": [
-          "श्वेत रक्त कणिकाएं",
-          "प्लेटलेट्स",
-          "प्लाज्मा",
-          "हीमोग्लोबिन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the main function of lymph?",
-        "hindi": "लसीका का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Transport oxygen",
-          "Return tissue fluid to blood",
-          "Digest food",
-          "Produce hormones"
-        ],
-        "hindi": [
-          "ऑक्सीजन का परिवहन",
-          "ऊतक द्रव को रक्त में वापस लाना",
-          "भोजन पचाना",
-          "हार्मोन उत्पन्न करना"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What causes the first heart sound?",
-        "hindi": "पहली हृदय ध्वनि किस कारण होती है?"
-      },
-      "option": {
-        "english": [
-          "Closing of semilunar valves",
-          "Opening of AV valves",
-          "Closing of AV valves",
-          "Blood flow in arteries"
-        ],
-        "hindi": [
-          "अर्धचंद्राकार वाल्वों का बंद होना",
-          "AV वाल्वों का खुलना",
-          "AV वाल्वों का बंद होना",
-          "धमनियों में रक्त प्रवाह"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "How do plants respond to water stress?",
-        "hindi": "पौधे जल तनाव पर कैसे प्रतिक्रिया करते हैं?"
-      },
-      "option": {
-        "english": [
-          "Increase transpiration",
-          "Close stomata",
-          "Increase root growth",
-          "Shed leaves"
-        ],
-        "hindi": [
-          "वाष्पोत्सर्जन बढ़ाते हैं",
-          "रंध्र बंद करते हैं",
-          "जड़ों की वृद्धि बढ़ाते हैं",
-          "पत्तियां गिराते हैं"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of carbonic anhydrase in blood?",
-        "hindi": "रक्त में कार्बोनिक एनहाइड्रेज की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Transport CO2",
-          "Form bicarbonate ions",
-          "Carry oxygen",
-          "Regulate pH"
-        ],
-        "hindi": [
-          "CO2 का परिवहन",
-          "बाइकार्बोनेट आयन बनाना",
-          "ऑक्सीजन ले जाना",
-          "pH नियंत्रित करना"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why does glomerular filtration rate remain constant?",
-        "hindi": "ग्लोमेरुलर निस्यंदन दर स्थिर क्यों रहती है?"
-      },
-      "option": {
-        "english": [
-          "Due to hormones",
-          "Due to blood pressure",
-          "Due to autoregulation",
-          "Due to osmotic pressure"
-        ],
-        "hindi": [
-          "हार्मोन के कारण",
-          "रक्तचाप के कारण",
-          "स्वतः नियमन के कारण",
-          "परासरणी दाब के कारण"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What causes the exchange of gases in alveoli?",
-        "hindi": "वायु कूपिकाओं में गैसों का आदान-प्रदान किस कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "Active transport",
-          "Diffusion gradient",
-          "Osmotic pressure",
-          "Muscular action"
-        ],
-        "hindi": [
-          "सक्रिय परिवहन",
-          "विसरण प्रवणता",
-          "परासरणी दाब",
-          "पेशीय क्रिया"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Valves in veins prevent the backflow of blood, ensuring that blood flows in one direction towards the heart, especially against gravity.",
+      "hindi": "शिराओं में वाल्व रक्त के पीछे की ओर बहने को रोकते हैं, यह सुनिश्चित करते हुए कि रक्त एक दिशा में हृदय की ओर बहे, खासकर गुरुत्वाकर्षण के विरुद्ध।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which process helps in absorption of water in roots?",
+      "hindi": "जड़ों में जल अवशोषण में कौन सी प्रक्रिया सहायक है?"
+    },
+    "option": {
+      "english": [
+        "Diffusion",
+        "Osmosis",
+        "Active transport",
+        "Transpiration"
+      ],
+      "hindi": [
+        "विसरण",
+        "परासरण",
+        "सक्रिय परिवहन",
+        "वाष्पोत्सर्जन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Osmosis is the process by which water moves from a region of higher water potential to a region of lower water potential across a semi-permeable membrane, such as that in root cells.",
+      "hindi": "परासरण वह प्रक्रिया है जिसके द्वारा जल उच्च जल विभव वाले क्षेत्र से कम जल विभव वाले क्षेत्र में अर्ध-पारगम्य झिल्ली, जैसे कि जड़ कोशिकाओं में होती है, से होकर गुजरता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the primary role of the oesophagus in the human digestive system?",
+      "hindi": "मानव पाचन तंत्र में ग्रासनली की प्राथमिक भूमिका क्या है?"
+    },
+    "option": {
+      "english": [
+        "To break down food using enzymes",
+        "To absorb nutrients into the bloodstream",
+        "To store bile for fat digestion",
+        "To transport food from the mouth to the stomach"
+      ],
+      "hindi": [
+        "एंजाइमों का उपयोग करके भोजन को तोड़ना",
+        "पोषक तत्वों को रक्तप्रवाह में अवशोषित करना",
+        "वसा पाचन के लिए पित्त का भंडारण करना",
+        "भोजन को मुंह से पेट तक पहुंचाना"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The oesophagus is a muscular tube that connects the mouth to the stomach. Its main function is to transport food via peristalsis (muscle contractions).",
+      "hindi": "ग्रासनली एक पेशीय नली होती है जो मुंह को पेट से जोड़ती है। इसका मुख्य कार्य क्रमाकुंचन (मांसपेशियों के संकुचन) के माध्यम से भोजन का परिवहन करना है।"
+    }
+  },
+
+  {
+    "question_name": {
+      "english": "Which part of blood carries oxygen?",
+      "hindi": "रक्त का कौन सा भाग ऑक्सीजन ले जाता है?"
+    },
+    "option": {
+      "english": [
+        "Plasma",
+        "Platelets",
+        "Hemoglobin",
+        "White blood cells"
+      ],
+      "hindi": [
+        "प्लाज्मा",
+        "प्लेटलेट्स",
+        "हीमोग्लोबिन",
+        "श्वेत रक्त कणिकाएं"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Hemoglobin, a protein found in red blood cells, is responsible for carrying oxygen from the lungs to the body tissues.",
+      "hindi": "हीमोग्लोबिन, लाल रक्त कोशिकाओं में पाया जाने वाला एक प्रोटीन, फेफड़ों से शरीर के ऊतकों तक ऑक्सीजन ले जाने के लिए जिम्मेदार है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of lymph?",
+      "hindi": "लसीका का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Return tissue fluid to blood",
+        "Transport oxygen",
+        "Digest food",
+        "Produce hormones"
+      ],
+      "hindi": [
+        "ऊतक द्रव को रक्त में वापस लाना",
+        "ऑक्सीजन का परिवहन",
+        "भोजन पचाना",
+        "हार्मोन उत्पन्न करना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The lymphatic system returns excess interstitial fluid (tissue fluid) back to the bloodstream, helping to maintain fluid balance and blood volume.",
+      "hindi": "लसीका तंत्र अतिरिक्त अंतरालीय द्रव (ऊतक द्रव) को वापस रक्तप्रवाह में लौटाता है, जिससे द्रव संतुलन और रक्त की मात्रा बनाए रखने में मदद मिलती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes the first heart sound?",
+      "hindi": "पहली हृदय ध्वनि किस कारण होती है?"
+    },
+    "option": {
+      "english": [
+        "Closing of semilunar valves",
+        "Opening of AV valves",
+        "Closing of AV valves",
+        "Blood flow in arteries"
+      ],
+      "hindi": [
+        "अर्धचंद्राकार वाल्वों का बंद होना",
+        "AV वाल्वों का खुलना",
+        "AV वाल्वों का बंद होना",
+        "धमनियों में रक्त प्रवाह"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The first heart sound, often described as \"lub,\" is caused by the closure of the atrioventricular (AV) valves (mitral and tricuspid) at the beginning of ventricular contraction (systole).",
+      "hindi": "पहली हृदय ध्वनि, जिसे अक्सर \"लब\" के रूप में वर्णित किया जाता है, निलय संकुचन (सिस्टोल) की शुरुआत में अलिंद-निलय (AV) वाल्व (मिट्रल और ट्राइकसपिड) के बंद होने के कारण होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How do plants respond to water stress?",
+      "hindi": "पौधे जल तनाव पर कैसे प्रतिक्रिया करते हैं?"
+    },
+    "option": {
+      "english": [
+        "Shed leaves",
+        "Increase root growth",
+        "Increase transpiration",
+        "Close stomata"
+      ],
+      "hindi": [
+        "पत्तियां गिराते हैं",
+        "जड़ों की वृद्धि बढ़ाते हैं",
+        "वाष्पोत्सर्जन बढ़ाते हैं",
+        "रंध्र बंद करते हैं"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Plants respond to water stress by closing their stomata, which are small pores on the leaves that regulate gas exchange and water loss. Closing stomata reduces water loss through transpiration.",
+      "hindi": "पौधे जल तनाव पर अपने रंध्रों को बंद करके प्रतिक्रिया करते हैं, जो पत्तियों पर छोटे छिद्र होते हैं जो गैस विनिमय और जल हानि को नियंत्रित करते हैं। रंध्रों को बंद करने से वाष्पोत्सर्जन के माध्यम से जल की हानि कम हो जाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of carbonic anhydrase in blood?",
+      "hindi": "रक्त में कार्बोनिक एनहाइड्रेज की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Regulate pH",
+        "Form bicarbonate ions",
+        "Carry oxygen",
+        "Transport CO2"
+      ],
+      "hindi": [
+        "pH नियंत्रित करना",
+        "बाइकार्बोनेट आयन बनाना",
+        "ऑक्सीजन ले जाना",
+        "CO2 का परिवहन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Carbonic anhydrase is an enzyme that catalyzes the reversible reaction between carbon dioxide (CO2) and water (H2O) to form carbonic acid (H2CO3), which then dissociates into bicarbonate ions (HCO3-) and hydrogen ions (H+). This process plays a vital role in CO2 transport and blood pH regulation.",
+      "hindi": "कार्बोनिक एनहाइड्रेज एक एंजाइम है जो कार्बन डाइऑक्साइड (CO2) और पानी (H2O) के बीच प्रतिवर्ती प्रतिक्रिया को उत्प्रेरित करके कार्बोनिक एसिड (H2CO3) बनाता है, जो फिर बाइकार्बोनेट आयनों (HCO3-) और हाइड्रोजन आयनों (H+) में अलग हो जाता है। यह प्रक्रिया CO2 परिवहन और रक्त pH नियमन में महत्वपूर्ण भूमिका निभाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does glomerular filtration rate remain constant?",
+      "hindi": "ग्लोमेरुलर निस्यंदन दर स्थिर क्यों रहती है?"
+    },
+    "option": {
+      "english": [
+        "Due to autoregulation",
+        "Due to hormones",
+        "Due to blood pressure",
+        "Due to osmotic pressure"
+      ],
+      "hindi": [
+        "स्वतः नियमन के कारण",
+        "हार्मोन के कारण",
+        "रक्तचाप के कारण",
+        "परासरणी दाब के कारण"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Glomerular filtration rate (GFR) remains relatively constant due to autoregulatory mechanisms within the kidneys. These mechanisms involve the constriction or dilation of the afferent and efferent arterioles that supply blood to the glomerulus, helping to maintain a stable filtration pressure.",
+      "hindi": "ग्लोमेरुलर निस्पंदन दर (GFR) गुर्दे के भीतर स्व-नियामक तंत्र के कारण अपेक्षाकृत स्थिर रहती है। इन तंत्रों में अभिवाही और अपवाही धमनिकाओं का संकुचन या फैलाव शामिल होता है जो ग्लोमेरुलस को रक्त की आपूर्ति करते हैं, जिससे एक स्थिर निस्पंदन दबाव बनाए रखने में मदद मिलती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes the exchange of gases in alveoli?",
+      "hindi": "वायु कूपिकाओं में गैसों का आदान-प्रदान किस कारण होता है?"
+    },
+    "option": {
+      "english": [
+        "Osmotic pressure",
+        "Muscular action",
+        "Diffusion gradient",
+        "Active transport"
+      ],
+      "hindi": [
+        "परासरणी दाब",
+        "पेशीय क्रिया",
+        "विसरण प्रवणता",
+        "सक्रिय परिवहन"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Gas exchange in the alveoli occurs due to the diffusion gradient of oxygen and carbon dioxide between the air in the alveoli and the blood in the capillaries. Oxygen diffuses from the alveoli into the blood, while carbon dioxide diffuses from the blood into the alveoli.",
+      "hindi": "वायु कूपिकाओं में गैसों का आदान-प्रदान वायु कूपिकाओं में हवा और केशिकाओं में रक्त के बीच ऑक्सीजन और कार्बन डाइऑक्साइड की विसरण प्रवणता के कारण होता है। ऑक्सीजन वायु कूपिकाओं से रक्त में विसरित होती है, जबकि कार्बन डाइऑक्साइड रक्त से वायु कूपिकाओं में विसरित होती है।"
+    }
+  }
+]

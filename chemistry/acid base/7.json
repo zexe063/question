@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Vinegar",
-          "Citric acid",
+          "Citric acid", 
           "Milk of magnesia",
           "Boric acid"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Milk of magnesia (Mg(OH)₂) is a base that neutralizes excess stomach acid (HCl) during indigestion. The reaction is: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O. This provides relief from acidity.",
+        "hindi": "मैग्नीशिया का दूध (Mg(OH)₂) एक क्षार है जो अपच के दौरान अतिरिक्त पेट के अम्ल (HCl) को निष्प्रभावी करता है। अभिक्रिया है: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O. यह अम्लता से राहत प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Human blood maintains a slightly basic pH between 7.3-7.5. This narrow range is essential for proper functioning of enzymes and other biological processes. Any significant change in blood pH can be harmful for the body.",
+        "hindi": "मानव रक्त का pH 7.3-7.5 के बीच थोड़ा क्षारीय होता है। यह संकीर्ण परास एंजाइमों और अन्य जैविक प्रक्रियाओं के उचित कार्य के लिए आवश्यक है। रक्त के pH में कोई भी महत्वपूर्ण परिवर्तन शरीर के लिए हानिकारक हो सकता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Phenolphthalein is a common acid-base indicator that is colorless in acidic solutions (pH < 8.2) but turns pink in basic solutions (pH > 8.2). It is commonly used in titrations to determine the endpoint when an acid is completely neutralized by a base.",
+        "hindi": "फिनॉल्फ्थेलीन एक सामान्य अम्ल-क्षार सूचक है जो अम्लीय विलयन में रंगहीन (pH < 8.2) होता है लेकिन क्षारीय विलयन में गुलाबी (pH > 8.2) हो जाता है। इसका उपयोग अम्ल द्वारा क्षार के पूर्ण उदासीनीकरण के अंत बिंदु को निर्धारित करने के लिए अनुमापन में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "NaHCO₃ is commonly known as baking soda. When heated during baking, it releases CO₂ gas which makes the cake/bread rise: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑. It is also used as an antacid to treat acidity.",
+        "hindi": "NaHCO₃ को आमतौर पर बेकिंग सोडा के नाम से जाना जाता है। बेकिंग के दौरान गरम करने पर, यह CO₂ गैस छोड़ता है जो केक/ब्रेड को फुलाता है: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂↑. इसका उपयोग अम्लता के इलाज के लिए एंटासिड के रूप में भी किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Lactic acid is produced in curd by the bacterial fermentation of milk. This gives curd its sour taste. It is a weak acid that helps in digestion and is good for our health.",
+        "hindi": "दही में लैक्टिक एसिड दूध के जीवाणु किण्वन द्वारा उत्पन्न होता है। यह दही को खट्टा स्वाद देता है। यह एक दुर्बल अम्ल है जो पाचन में मदद करता है और हमारे स्वास्थ्य के लिए अच्छा है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "NaCl (table salt) is a neutral salt formed from strong acid (HCl) and strong base (NaOH). When dissolved in water, it does not affect the pH of solution, so it doesn't change phenolphthalein's color. The reaction is: HCl + NaOH → NaCl + H₂O",
+        "hindi": "NaCl (खाने का नमक) एक उदासीन लवण है जो प्रबल अम्ल (HCl) और प्रबल क्षार (NaOH) से बनता है। पानी में घुलने पर यह विलयन के pH को प्रभावित नहीं करता, इसलिए यह फिनॉल्फ्थेलीन का रंग नहीं बदलता। अभिक्रिया है: HCl + NaOH → NaCl + H₂O"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When zinc metal reacts with dilute hydrochloric acid, zinc chloride and hydrogen gas are formed: Zn + 2HCl → ZnCl₂ + H₂↑. This is a single displacement reaction where zinc displaces hydrogen from the acid.",
+        "hindi": "जब जिंक धातु तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करती है, तो जिंक क्लोराइड और हाइड्रोजन गैस बनती है: Zn + 2HCl → ZnCl₂ + H₂↑. यह एक एकल विस्थापन अभिक्रिया है जहां जिंक अम्ल से हाइड्रोजन को विस्थापित करता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "NaOH (sodium hydroxide) solution has the highest pH as it is a strong base. Pure water has pH = 7 (neutral), milk is slightly acidic (pH ≈ 6.5), and lemon juice is acidic (pH ≈ 2) due to citric acid.",
+        "hindi": "NaOH (सोडियम हाइड्रॉक्साइड) विलयन का pH सबसे अधिक होता है क्योंकि यह एक प्रबल क्षार है। शुद्ध जल का pH = 7 (उदासीन), दूध थोड़ा अम्लीय (pH ≈ 6.5), और नींबू का रस साइट्रिक एसिड के कारण अम्लीय (pH ≈ 2) होता है।"
+      }
     },
     {
       "question_name": {
@@ -191,20 +223,24 @@
       "option": {
         "english": [
           "2",
-          "12",
           "10",
+          "12",
           "4"
         ],
         "hindi": [
           "2",
-          "12",
           "10",
+          "12",
           "4"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "For [OH⁻] = 1 × 10⁻² M: First find pOH = -log[OH⁻] = -log(10⁻²) = 2. Then use pH + pOH = 14, so pH = 14 - pOH = 14 - 2 = 12. The solution is basic as pH > 7.",
+        "hindi": "[OH⁻] = 1 × 10⁻² M के लिए: पहले pOH = -log[OH⁻] = -log(10⁻²) = 2 ज्ञात करें। फिर pH + pOH = 14 का उपयोग करें, तो pH = 14 - pOH = 14 - 2 = 12. विलयन क्षारीय है क्योंकि pH > 7 है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "H₂SO₄ (sulfuric acid) is a diprotic acid that gives two H⁺ ions and one SO₄²⁻ ion. The correct dissociation equation is H₂SO₄ → 2H⁺ + SO₄²⁻. This makes it a strong acid that completely ionizes in water.",
+        "hindi": "H₂SO₄ (सल्फ्यूरिक एसिड) एक द्विप्रोटिक अम्ल है जो दो H⁺ आयन और एक SO₄²⁻ आयन देता है। सही वियोजन समीकरण है H₂SO₄ → 2H⁺ + SO₄²⁻. यह इसे एक प्रबल अम्ल बनाता है जो पानी में पूरी तरह से आयनित हो जाता है।"
+      }
     }
 ]

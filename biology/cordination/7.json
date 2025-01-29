@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which part of brain is responsible for posture?",
-        "hindi": "मस्तिष्क का कौन सा भाग मुद्रा के लिए जिम्मेदार है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Cerebellum",
-          "Cerebrum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "सेरेबेलम",
-          "सेरेब्रम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which part of the brain helps in maintaining balance while walking?",
+      "hindi": "चलते समय संतुलन बनाए रखने में मस्तिष्क का कौन सा भाग मदद करता है?"
     },
-    {
-      "question_name": {
-        "english": "Which gland produces melatonin?",
-        "hindi": "कौन सी ग्रंथि मेलाटोनिन का उत्पादन करती है?"
-      },
-      "option": {
-        "english": [
-          "Pineal",
-          "Thyroid",
-          "Pituitary",
-          "Adrenal"
-        ],
-        "hindi": [
-          "पीनियल",
-          "थायरॉइड",
-          "पीयूष",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Medulla",
+        "Hypothalamus", 
+        "Cerebellum",
+        "Cerebrum"
+      ],
+      "hindi": [
+        "मेडुला",
+        "हाइपोथैलेमस",
+        "सेरेबेलम",
+        "सेरेब्रम"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which hormone stimulates milk production?",
-        "hindi": "कौन सा हार्मोन दूध उत्पादन को उत्तेजित करता है?"
-      },
-      "option": {
-        "english": [
-          "Estrogen",
-          "Prolactin",
-          "Thyroxine",
-          "Oxytocin"
-        ],
-        "hindi": [
-          "एस्ट्रोजन",
-          "प्रोलैक्टिन",
-          "थायरॉक्सिन",
-          "ऑक्सीटोसिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of nodes of Ranvier?",
-        "hindi": "रैनवियर की गांठों का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Store energy",
-          "Filter blood",
-          "Produce hormones",
-          "Saltatory conduction"
-        ],
-        "hindi": [
-          "ऊर्जा संग्रह",
-          "रक्त छानना",
-          "हार्मोन उत्पादन",
-          "उछाल चालन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which part controls emotional behavior?",
-        "hindi": "कौन सा भाग भावनात्मक व्यवहार को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Limbic system",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "लिम्बिक तंत्र",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone controls blood calcium?",
-        "hindi": "कौन सा हार्मोन रक्त कैल्शियम को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Insulin",
-          "Parathormone",
-          "Thyroxine",
-          "Adrenaline"
-        ],
-        "hindi": [
-          "इंसुलिन",
-          "पैराथोरमोन",
-          "थायरॉक्सिन",
-          "एड्रेनालिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which gland regulates metabolism?",
-        "hindi": "कौन सी ग्रंथि चयापचय को नियंत्रित करती है?"
-      },
-      "option": {
-        "english": [
-          "Thyroid",
-          "Pancreas",
-          "Adrenal",
-          "Pituitary"
-        ],
-        "hindi": [
-          "थायरॉइड",
-          "अग्न्याशय",
-          "एड्रेनल",
-          "पीयूष"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What causes nastic movements in plants?",
-        "hindi": "पौधों में अनुकुंचन गति का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "Light",
-          "Gravity",
-          "Water",
-          "Touch"
-        ],
-        "hindi": [
-          "प्रकाश",
-          "गुरुत्व",
-          "जल",
-          "स्पर्श"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which neurotransmitter causes depression?",
-        "hindi": "कौन सा न्यूरोट्रांसमीटर अवसाद का कारण बनता है?"
-      },
-      "option": {
-        "english": [
-          "GABA",
-          "Dopamine",
-          "Serotonin deficiency",
-          "Acetylcholine"
-        ],
-        "hindi": [
-          "गाबा",
-          "डोपामाइन",
-          "सेरोटोनिन की कमी",
-          "एसिटिलकोलीन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone deficiency causes cretinism?",
-        "hindi": "किस हार्मोन की कमी से क्रेटिनिज्म होता है?"
-      },
-      "option": {
-        "english": [
-          "Growth hormone",
-          "Thyroxine",
-          "Insulin",
-          "Adrenaline"
-        ],
-        "hindi": [
-          "वृद्धि हार्मोन",
-          "थायरॉक्सिन",
-          "इंसुलिन",
-          "एड्रेनालिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The cerebellum is responsible for maintaining balance and posture. It coordinates our movements and helps us walk smoothly without falling.",
+      "hindi": "सेरेबेलम संतुलन और मुद्रा बनाए रखने के लिए जिम्मेदार है। यह हमारी गति को नियंत्रित करता है और बिना गिरे चलने में मदद करता है।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which structure protects spinal cord?",
+      "hindi": "रीढ़ की हड्डी की सुरक्षा कौन करता है?"
+    },
+    "option": {
+      "english": [
+        "Vertebral column",
+        "Ribs",
+        "Skull",
+        "Muscles"
+      ],
+      "hindi": [
+        "कशेरुक दंड",
+        "पसलियां",
+        "खोपड़ी",
+        "मांसपेशियां"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The vertebral column (backbone) is made up of 33 vertebrae that surround and protect our spinal cord from damage.",
+      "hindi": "कशेरुक दंड (रीढ़ की हड्डी) 33 कशेरुकों से बनी होती है जो हमारी रीढ़ की हड्डी को नुकसान से बचाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of joint is present in our knee?",
+      "hindi": "हमारे घुटने में किस प्रकार की संधि पाई जाती है?"
+    },
+    "option": {
+      "english": [
+        "Fixed joint",
+        "Hinge joint",
+        "Ball and socket",
+        "Pivot joint"
+      ],
+      "hindi": [
+        "स्थिर संधि",
+        "कब्जा संधि",
+        "गेंद और गड्ढा संधि",
+        "धुरी संधि"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The knee has a hinge joint that allows movement in one plane - forward and backward, similar to a door hinge.",
+      "hindi": "घुटने में कब्जा संधि होती है जो एक दिशा में गति की अनुमति देती है - आगे और पीछे, दरवाजे के कब्जे की तरह।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What helps in rapid response to touching a hot object?",
+      "hindi": "गर्म वस्तु को छूने पर त्वरित प्रतिक्रिया में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Brain thinking",
+        "Memory",
+        "Learning",
+        "Reflex action"
+      ],
+      "hindi": [
+        "मस्तिष्क सोच",
+        "स्मृति",
+        "सीखना",
+        "प्रतिवर्त क्रिया"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Reflex actions are quick, automatic responses that protect us from harm. They don't need brain thinking and happen through the spinal cord.",
+      "hindi": "प्रतिवर्त क्रिया त्वरित, स्वचालित प्रतिक्रियाएं हैं जो हमें नुकसान से बचाती हैं। इन्हें मस्तिष्क की सोच की आवश्यकता नहीं होती और रीढ़ की हड्डी के माध्यम से होती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of neuron contains nucleus?",
+      "hindi": "न्यूरॉन के किस भाग में केंद्रक पाया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Axon",
+        "Dendrite",
+        "Cell body",
+        "Nerve ending"
+      ],
+      "hindi": [
+        "एक्सॉन",
+        "डेंड्राइट",
+        "कोशिका काय",
+        "तंत्रिका अंत"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The cell body (soma) contains the nucleus which controls all cell activities. It's the main part where the neuron's life processes occur.",
+      "hindi": "कोशिका काय (सोमा) में केंद्रक होता है जो सभी कोशिका गतिविधियों को नियंत्रित करता है। यह वह मुख्य भाग है जहां न्यूरॉन की जीवन प्रक्रियाएं होती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of peripheral nervous system (PNS)?",
+      "hindi": "परिधीय तंत्रिका तंत्र (पी.एन.एस.) का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Process thoughts",
+        "Connect CNS to body parts",
+        "Store memories",
+        "Control emotions"
+      ],
+      "hindi": [
+        "विचारों की प्रक्रिया",
+        "सी.एन.एस. को शरीर के अंगों से जोड़ना",
+        "स्मृतियों का भंडारण",
+        "भावनाओं का नियंत्रण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The PNS consists of nerves that connect the central nervous system (brain and spinal cord) to all parts of the body like muscles and organs.",
+      "hindi": "पी.एन.एस. में वे तंत्रिकाएं होती हैं जो केंद्रीय तंत्रिका तंत्र (मस्तिष्क और रीढ़ की हड्डी) को शरीर के सभी हिस्सों जैसे मांसपेशियों और अंगों से जोड़ती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which tissue carries messages from sense organs to brain?",
+      "hindi": "कौन सा ऊतक ज्ञानेंद्रियों से मस्तिष्क तक संदेश पहुंचाता है?"
+    },
+    "option": {
+      "english": [
+        "Nervous tissue",
+        "Muscular tissue",
+        "Blood",
+        "Bone"
+      ],
+      "hindi": [
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक",
+        "रक्त",
+        "अस्थि"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Nervous tissue is made of specialized cells called neurons that can quickly carry electrical signals from sense organs to the brain.",
+      "hindi": "तंत्रिका ऊतक विशेष कोशिकाओं से बना होता है जिन्हें न्यूरॉन कहते हैं जो ज्ञानेंद्रियों से मस्तिष्क तक विद्युत संकेतों को तेजी से ले जा सकते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of movement is shown by roots towards water?",
+      "hindi": "जड़ें पानी की ओर किस प्रकार की गति दर्शाती हैं?"
+    },
+    "option": {
+      "english": [
+        "Phototropism",
+        "Geotropism",
+        "Thigmotropism",
+        "Hydrotropism"
+      ],
+      "hindi": [
+        "प्रकाशानुवर्तन",
+        "गुरुत्वानुवर्तन",
+        "स्पर्शानुवर्तन",
+        "जलानुवर्तन"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Hydrotropism is the movement of plant roots towards water. This helps plants find water sources in soil for their survival.",
+      "hindi": "जलानुवर्तन पौधों की जड़ों की पानी की ओर गति है। यह पौधों को अपने जीवन के लिए मिट्टी में पानी के स्रोत खोजने में मदद करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of medulla oblongata in the brain?",
+      "hindi": "मस्तिष्क में मेडुला ओब्लोंगाटा का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Controls voluntary actions",
+        "Maintains balance",
+        "Controls involuntary actions",
+        "Processes vision"
+      ],
+      "hindi": [
+        "ऐच्छिक क्रियाओं का नियंत्रण",
+        "संतुलन बनाए रखना",
+        "अनैच्छिक क्रियाओं का नियंत्रण",
+        "दृष्टि का प्रसंस्करण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Medulla oblongata controls involuntary actions like breathing, heartbeat, blood pressure, swallowing, and vomiting that happen without our conscious effort.",
+      "hindi": "मेडुला ओब्लोंगाटा अनैच्छिक क्रियाओं जैसे सांस लेना, हृदय गति, रक्तचाप, निगलना और उल्टी को नियंत्रित करता है जो हमारे सचेत प्रयास के बिना होती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of movement is shown by tendrils?",
+      "hindi": "प्रतान किस प्रकार की गति दर्शाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Geotropism",
+        "Thigmotropism",
+        "Phototropism",
+        "Hydrotropism"
+      ],
+      "hindi": [
+        "गुरुत्वानुवर्तन",
+        "स्पर्शानुवर्तन",
+        "प्रकाशानुवर्तन",
+        "जलानुवर्तन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Tendrils show thigmotropism - movement in response to touch. When they touch a support, they coil around it to help the plant climb.",
+      "hindi": "प्रतान स्पर्शानुवर्तन दर्शाते हैं - स्पर्श के प्रति गति। जब वे किसी सहारे को छूते हैं, तो पौधे को चढ़ने में मदद करने के लिए उसके चारों ओर लिपट जाते हैं।"
+    }
+  }
+]

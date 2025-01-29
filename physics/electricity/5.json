@@ -1,232 +1,132 @@
-[
-    {
-      "question_name": {
-        "english": "What is the SI unit of electrical resistivity?",
-        "hindi": "विद्युत प्रतिरोधकता का SI मात्रक क्या है?"
-      },
-      "option": {
-        "english": [
-          "ohm (Ω)",
-          "ohm-meter (Ω-m)",
-          "ohm/meter (Ω/m)",
-          "ohm-meter² (Ω-m²)"
-        ],
-        "hindi": [
-          "ओम (Ω)",
-          "ओम-मीटर (Ω-m)",
-          "ओम/मीटर (Ω/m)",
-          "ओम-मीटर² (Ω-m²)"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which wire in a three-pin socket carries the highest potential?",
-        "hindi": "तीन-पिन सॉकेट में कौन सा तार उच्चतम विभव ले जाता है?"
-      },
-      "option": {
-        "english": [
-          "Neutral wire",
-          "Earth wire",
-          "Live wire",
-          "All have same potential"
-        ],
-        "hindi": [
-          "न्यूट्रल तार",
-          "अर्थ तार",
-          "लाइव तार",
-          "सभी का विभव समान होता है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What happens to the resistance of a wire if its length is doubled but area remains same?",
-        "hindi": "एक तार के प्रतिरोध में क्या होता है यदि उसकी लंबाई दोगुनी कर दी जाए परंतु क्षेत्रफल समान रहे?"
-      },
-      "option": {
-        "english": [
-          "Becomes half",
-          "Becomes double",
-          "Remains same",
-          "Becomes four times"
-        ],
-        "hindi": [
-          "आधा हो जाता है",
-          "दोगुना हो जाता है",
-          "समान रहता है",
-          "चार गुना हो जाता है"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the cost of running a 2000W air conditioner for 8 hours if electricity rate is ₹8 per unit.",
-        "hindi": "2000W के एयर कंडीशनर को 8 घंटे चलाने की लागत की गणना करें यदि बिजली की दर ₹8 प्रति यूनिट है।"
-      },
-      "option": {
-        "english": [
-          "₹96",
-          "₹128",
-          "₹156",
-          "₹192"
-        ],
-        "hindi": [
-          "₹96",
-          "₹128",
-          "₹156",
-          "₹192"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "If voltage across a 40Ω resistor is 20V, what is the power dissipated?",
-        "hindi": "यदि 40Ω प्रतिरोधक के सिरों पर 20V विभवांतर है, तो व्यय की गई शक्ति क्या होगी?"
-      },
-      "option": {
-        "english": [
-          "5W",
-          "10W",
-          "15W",
-          "20W"
-        ],
-        "hindi": [
-          "5W",
-          "10W",
-          "15W",
-          "20W"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Identify the incorrect connection in this domestic circuit:",
-        "hindi": "इस घरेलू परिपथ में गलत कनेक्शन की पहचान करें:"
-      },
-      "option": {
-        "english": [
-          "Fuse connection",
-          "Switch connection",
-          "Socket connection",
-          "Main wire connection"
-        ],
-        "hindi": [
-          "फ्यूज कनेक्शन",
-          "स्विच कनेक्शन",
-          "सॉकेट कनेक्शन",
-          "मुख्य तार कनेक्शन"
-        ]
-      },
-      "answer": 0,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='75' x2='250' y2='75' stroke='black'/><rect x='100' y='65' width='20' height='20' fill='none' stroke='black'/><circle cx='150' cy='75' r='10' fill='none' stroke='black'/><rect x='180' y='60' width='30' height='30' fill='none' stroke='black'/></svg>",
-      "medium": "medium"
-    },
-    {
+ [
+      {
         "question_name": {
-            "english": "Which electrical quantity is being measured in this setup?",
-            "hindi": "इस व्यवस्था में कौन सी विद्युत राशि मापी जा रही है?"
+          "english": "What is the purpose of earthing in electrical appliances?",
+          "hindi": "विद्युत उपकरणों में अर्थिंग का क्या उद्देश्य है?"
         },
         "option": {
-            "english": [
-                "Current",
-                "Voltage",
-                "Power",
-                "Resistance"
-            ],
-            "hindi": [
-                "धारा",
-                "वोल्टेज",
-                "शक्ति",
-                "प्रतिरोध"
-            ]
+          "english": ["Increase current", "Safety from shock", "Reduce voltage", "Save energy"],
+          "hindi": ["करंट बढ़ाएं", "बिजली के झटके से सुरक्षा", "वोल्टेज कम करें", "ऊर्जा बचाएं"]
         },
         "answer": 1,
-        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='60' height='30' fill='none' stroke='black'/><text x='140' y='70'>V</text><line x1='120' y1='65' x2='80' y2='65' stroke='black'/><line x1='180' y1='65' x2='220' y2='65' stroke='black'/><rect x='220' y='55' width='40' height='20' fill='none' stroke='black'/><text x='230' y='70'>R</text></svg>",
+        "medium": "easy"
+      },
+      {
+        "question_name": {
+          "english": "Advantage of parallel circuits in households?",
+          "hindi": "घरेलू सर्किट में समानांतर संयोजन का लाभ?"
+        },
+        "option": {
+          "english": ["Same voltage", "Less wiring", "Lower current", "Cheaper"],
+          "hindi": ["समान वोल्टेज", "कम तार", "कम धारा", "सस्ता"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy"
+      },
+      {
+        "question_name": {
+          "english": "Material used in electric heater elements?",
+          "hindi": "विद्युत हीटर के तत्व में कौन सा पदार्थ प्रयुक्त होता है?"
+        },
+        "option": {
+          "english": ["Copper", "Aluminum", "Nichrome", "Iron"],
+          "hindi": ["तांबा", "एल्युमीनियम", "नाइक्रोम", "लोहा"]
+        },
+        "answer": 2, 
+        "image": null,
+        "medium": "easy"
+      },
+      {
+        "question_name": {
+          "english": "Voltage across a 30Ω resistor dissipating 120W?",
+          "hindi": "30Ω प्रतिरोधक पर वोल्टेज (120W व्यय)?"
+        },
+        "option": {
+          "english": ["60V", "120V", "30V", "90V"],
+          "hindi": ["60V", "120V", "30V", "90V"]
+        },
+        "answer": 0, 
+        "image": null,
+        "medium": "easy"
+      },
+      {
+        "question_name": {
+          "english": "Component represented by this symbol?",
+          "hindi": "इस प्रतीक द्वारा कौन सा घटक दर्शाया जाता है?"
+        },
+        "option": {
+          "english": ["Resistor", "Capacitor", "Diode", "Battery"],
+          "hindi": ["प्रतिरोधक", "संधारित्र", "डायोड", "बैटरी"]
+        },
+        "answer": 1, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='100' y1='75' x2='140' y2='75' stroke='black'/><line x1='160' y1='55' x2='160' y2='95' stroke='black'/><line x1='140' y1='55' x2='140' y2='95' stroke='black'/></svg>",
+        "medium": "easy"
+      },
+      {
+        "question_name": {
+          "english": "Identify the type of switch:",
+          "hindi": "स्विच का प्रकार पहचानें:"
+        },
+        "option": {
+          "english": ["SPST", "SPDT", "DPST", "DPDT"],
+          "hindi": ["SPST", "SPDT", "DPST", "DPDT"]
+        },
+        "answer": 1, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='75' r='3' fill='black'/><line x1='100' y1='75' x2='150' y2='60' stroke='black'/><line x1='60' y1='75' x2='100' y2='75' stroke='black'/><line x1='150' y1='60' x2='190' y2='60' stroke='black'/><line x1='150' y1='90' x2='190' y2='90' stroke='black'/></svg>",
         "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which safety device is shown in the household circuit?",
-        "hindi": "घरेलू परिपथ में कौन सा सुरक्षा उपकरण दर्शाया गया है?"
       },
-      "option": {
-        "english": [
-          "Switch",
-          "MCB",
-          "Socket",
-          "Earthing"
-        ],
-        "hindi": [
-          "स्विच",
-          "MCB",
-          "सॉकेट",
-          "अर्थिंग"
-        ]
+      {
+        "question_name": {
+          "english": "What is the total current in this circuit?",
+          "hindi": "इस सर्किट में कुल धारा क्या है?"
+        },
+        "option": {
+          "english": ["1A", "2A", "3A", "4A"],
+          "hindi": ["1A", "2A", "3A", "4A"]
+        },
+        "answer": 2, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='60' r='15' fill='none' stroke='black'/><text x='145' y='65'>A</text><line x1='80' y1='60' x2='135' y2='60' stroke='black'/><line x1='165' y1='60' x2='220' y2='60' stroke='black'/><rect x='180' y='50' width='40' height='20' fill='none' stroke='black'/><text x='190' y='65'>3Ω</text><text x='60' y='65'>9V</text></svg>",
+        "medium": "medium"
       },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='60' height='30' fill='none' stroke='black'/><line x1='150' y1='80' x2='150' y2='100' stroke='black'/><path d='M 140 60 L 160 80 M 140 80 L 160 60' stroke='black' fill='none'/></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Calculate the effective resistance between points A and B:",
-        "hindi": "बिंदु A और B के बीच प्रभावी प्रतिरोध की गणना करें:"
+      {
+        "question_name": {
+          "english": "Which connection is shown here?",
+          "hindi": "यहाँ कौन सा कनेक्शन दिखाया गया है?"
+        },
+        "option": {
+          "english": ["Series", "Parallel", "Mixed", "None"],
+          "hindi": ["श्रेणी", "समानांतर", "मिश्रित", "कोई नहीं"]
+        },
+        "answer": 1, 
+        "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='140' y1='60' x2='250' y2='60' stroke='black'/><line x1='140' y1='100' x2='250' y2='100' stroke='black'/></svg>",
+        "medium": "medium"
       },
-      "option": {
-        "english": [
-          "3Ω",
-          "6Ω",
-          "9Ω",
-          "12Ω"
-        ],
-        "hindi": [
-          "3Ω",
-          "6Ω",
-          "9Ω",
-          "12Ω"
-        ]
+      {
+        "question_name": {
+          "english": "Impedance of R=12Ω and XL=5Ω in AC circuit?",
+          "hindi": "AC परिपथ में R=12Ω और XL=5Ω की प्रतिबाधा?"
+        },
+        "option": {
+          "english": ["13Ω", "17Ω", "7Ω", "10Ω"],
+          "hindi": ["13Ω", "17Ω", "7Ω", "10Ω"]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard"
       },
-      "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><rect x='100' y='50' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='110' y='65'>12Ω</text><text x='110' y='105'>12Ω</text><text x='40' y='35'>A</text><text x='260' y='35'>B</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Why are electric bulbs filled with inert gas? Explain:",
-        "hindi": "विद्युत बल्बों में निष्क्रिय गैस क्यों भरी जाती है? समझाएं:"
-      },
-      "option": {
-        "english": [
-          "To increase brightness",
-          "To prevent filament oxidation",
-          "To reduce power consumption",
-          "To increase bulb life only"
-        ],
-        "hindi": [
-          "चमक बढ़ाने के लिए",
-          "फिलामेंट के ऑक्सीकरण को रोकने के लिए",
-          "बिजली की खपत कम करने के लिए",
-          "केवल बल्ब का जीवन बढ़ाने के लिए"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
-  ]
+      {
+        "question_name": {
+          "english": "Phase difference in inductive AC circuit?",
+          "hindi": "प्रेरकीय AC परिपथ में कला अंतर?"
+        },
+        "option": {
+          "english": ["Voltage leads by 90°", "Current leads by 90°", "In phase", "180° out of phase"],
+          "hindi": ["वोल्टेज 90° आगे", "धारा 90° आगे", "समान कला", "180° असमान कला"]
+        },
+        "answer": 0, 
+        "image": null,
+        "medium": "hard"
+      }
+    ]
+  

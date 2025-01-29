@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "pH = 4",
-          "pH = 5",
+          "pH = 5", 
           "pH = 6",
           "pH = 3"
         ],
         "hindi": [
           "pH = 4",
           "pH = 5",
-          "pH = 6",
+          "pH = 6", 
           "pH = 3"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Lower pH means higher H⁺ concentration. pH = 3 has more H⁺ ions than pH 4, 5 or 6.",
+        "hindi": "कम pH का मतलब H⁺ आयनों की अधिक सांद्रता है। pH = 3 में pH 4, 5 या 6 की तुलना में H⁺ आयन अधिक होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -36,14 +40,18 @@
         ],
         "hindi": [
           "NaCl",
-          "KCl",
+          "KCl", 
           "Na₂CO₃",
           "CaCl₂"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Na₂CO₃ (washing soda) reacts with calcium and magnesium salts in hard water to form insoluble carbonates: CaCl₂ + Na₂CO₃ → CaCO₃↓ + 2NaCl",
+        "hindi": "Na₂CO₃ (धोने का सोडा) कठोर जल में कैल्शियम और मैग्नीशियम लवणों से क्रिया करके अघुलनशील कार्बोनेट बनाता है: CaCl₂ + Na₂CO₃ → CaCO₃↓ + 2NaCl"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "NH₄OH partially dissociates in water: NH₄OH ⇌ NH₄⁺ + OH⁻. Other options are strong bases that completely dissociate.",
+        "hindi": "NH₄OH जल में आंशिक रूप से विघटित होता है: NH₄OH ⇌ NH₄⁺ + OH⁻। अन्य विकल्प प्रबल क्षार हैं जो पूरी तरह से विघटित हो जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -75,21 +87,25 @@
       },
       "option": {
         "english": [
-          "[H⁺] = [OH⁻]",
           "[H⁺] > [OH⁻]",
+          "[H⁺] = [OH⁻]",
           "[H⁺] < [OH⁻]",
           "No ions present"
         ],
         "hindi": [
-          "[H⁺] = [OH⁻]",
           "[H⁺] > [OH⁻]",
+          "[H⁺] = [OH⁻]",
           "[H⁺] < [OH⁻]",
           "कोई आयन नहीं"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Water dissociates as: H₂O ⇌ H⁺ + OH⁻. At 25°C, [H⁺] = [OH⁻] = 1×10⁻⁷ mol/L, giving pH = 7",
+        "hindi": "जल का विघटन होता है: H₂O ⇌ H⁺ + OH⁻। 25°C पर, [H⁺] = [OH⁻] = 1×10⁻⁷ mol/L, जिससे pH = 7 होता है"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃COONa + HCl → CH₃COOH + NaCl. Acetic acid (vinegar) is formed which gives characteristic smell.",
+        "hindi": "CH₃COONa + HCl → CH₃COOH + NaCl। एसीटिक एसिड (सिरका) बनता है जो विशिष्ट गंध देता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Bacteria convert milk sugar (lactose) into lactic acid: C₁₂H₂₂O₁₁ + H₂O → 4CH₃CHOHCOOH",
+        "hindi": "बैक्टीरिया दूध की शक्कर (लैक्टोज) को लैक्टिक एसिड में बदलते हैं: C₁₂H₂₂O₁₁ + H₂O → 4CH₃CHOHCOOH"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "CaO removes water from NaOH solution: 2NaOH(aq) + CaO → 2NaOH(s) + Ca(OH)₂",
+        "hindi": "CaO NaOH विलयन से जल को हटाता है: 2NaOH(aq) + CaO → 2NaOH(s) + Ca(OH)₂"
+      }
     },
     {
       "question_name": {
@@ -181,52 +209,64 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Na₂CO₃ + H₂O → 2Na⁺ + CO₃²⁻ + H₂O → 2Na⁺ + HCO₃⁻ + OH⁻. OH⁻ ions make solution basic.",
+        "hindi": "Na₂CO₃ + H₂O → 2Na⁺ + CO₃²⁻ + H₂O → 2Na⁺ + HCO₃⁻ + OH⁻। OH⁻ आयन विलयन को क्षारीय बनाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Calculate pOH when [H⁺] = 1×10⁻² M",
-        "hindi": "pOH की गणना करें जब [H⁺] = 1×10⁻² M हो"
+        "english": "What color does red cabbage juice turn in a strong base like NaOH?",
+        "hindi": "लाल पत्तागोभी का रस मजबूत क्षार जैसे NaOH में किस रंग का हो जाता है?"
       },
       "option": {
         "english": [
-          "2",
-          "12",
-          "10",
-          "14"
+          "Red",
+          "Purple",
+          "Pink",
+          "Yellow"
         ],
         "hindi": [
-          "2",
-          "12",
-          "10",
-          "14"
+          "लाल",
+          "बैंगनी",
+          "गुलाबी",
+          "पीला"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Red cabbage juice contains anthocyanin pigments that act as natural indicators. In strong bases like NaOH (pH > 11), it turns yellow in color.",
+        "hindi": "लाल पत्तागोभी के रस में एंथोसायनिन वर्णक होते हैं जो प्राकृतिक सूचक का काम करते हैं। मजबूत क्षार जैसे NaOH (pH > 11) में, यह पीले रंग का हो जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Why does tooth decay occur in acidic conditions?",
-        "hindi": "अम्लीय परिस्थितियों में दांत क्षय क्यों होता है?"
+        "english": "What is the main use of gypsum in agriculture?",
+        "hindi": "कृषि में जिप्सम का मुख्य उपयोग क्या है?"
       },
       "option": {
         "english": [
-          "Bacteria growth",
-          "Sugar breakdown",
-          "Calcium dissolves",
-          "Enamel softens"
+          "Soil conditioning",
+          "Pest control",
+          "Weed removal",
+          "Plant growth"
         ],
         "hindi": [
-          "बैक्टीरिया वृद्धि",
-          "शक्कर टूटना",
-          "कैल्शियम घुलना",
-          "एनेमल का नरम होना"
+          "मिट्टी का उपचार",
+          "कीट नियंत्रण",
+          "खरपतवार हटाना",
+          "पौधों की वृद्धि"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Gypsum (CaSO₄·2H₂O) is used as a soil conditioner in agriculture. It helps improve soil structure, reduces soil compaction, and provides calcium and sulfur nutrients to plants.",
+        "hindi": "जिप्सम (CaSO₄·2H₂O) का उपयोग कृषि में मिट्टी के उपचार के लिए किया जाता है। यह मिट्टी की संरचना में सुधार करता है, मिट्टी के संघनन को कम करता है, और पौधों को कैल्शियम और सल्फर पोषक तत्व प्रदान करता है।"
+      }
     }
 ]

@@ -8,7 +8,7 @@
         "english": [
           "Red",
           "Green",
-          "Blue",
+          "Blue", 
           "Black"
         ],
         "hindi": [
@@ -20,7 +20,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When copper vessels are exposed to air and moisture, they form a green layer of basic copper carbonate [CuCO₃.Cu(OH)₂]. This process is called corrosion. The reaction is: 2Cu + O₂ + CO₂ + H₂O → CuCO₃.Cu(OH)₂ (green)",
+        "hindi": "जब तांबे के बर्तन हवा और नमी के संपर्क में आते हैं, तो उन पर बेसिक कॉपर कार्बोनेट [CuCO₃.Cu(OH)₂] की हरी परत बन जाती है। इस प्रक्रिया को संक्षारण कहते हैं। अभिक्रिया: 2Cu + O₂ + CO₂ + H₂O → CuCO₃.Cu(OH)₂ (हरा)"
+      }
+    },
+    {
+      "question_name": {
+        "english": "Why is copper used as a cathode in electrorefining of copper?",
+        "hindi": "कॉपर के विद्युत परिष्करण में कैथोड के रूप में तांबे का उपयोग क्यों किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "High melting point",
+          "Low cost",
+          "High reactivity",
+          "High purity"
+        ],
+        "hindi": [
+          "उच्च गलनांक",
+          "कम लागत",
+          "उच्च प्रतिक्रियाशीलता",
+          "उच्च शुद्धता"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "Pure copper is used as cathode in copper electrorefining because it helps deposit pure copper from impure copper (anode). At anode: Cu → Cu²⁺ + 2e⁻. At cathode: Cu²⁺ + 2e⁻ → Cu. Impurities settle as anode mud.",
+        "hindi": "कॉपर के विद्युत परिष्करण में शुद्ध तांबे का कैथोड के रूप में उपयोग किया जाता है क्योंकि यह अशुद्ध तांबे (एनोड) से शुद्ध तांबा जमा करने में मदद करता है। एनोड पर: Cu → Cu²⁺ + 2e⁻। कैथोड पर: Cu²⁺ + 2e⁻ → Cu। अशुद्धियां एनोड मड के रूप में नीचे बैठ जाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -31,42 +62,23 @@
         "english": [
           "Iron",
           "Aluminum",
-          "Lead",
-          "Copper"
+          "Copper",
+          "Lead"
         ],
         "hindi": [
           "लोहा",
           "एल्युमिनियम",
-          "सीसा",
-          "तांबा"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the chemical formula of rust?",
-        "hindi": "जंग का रासायनिक सूत्र क्या है?"
-      },
-      "option": {
-        "english": [
-          "FeO",
-          "Fe₂O₃",
-          "Fe₂O₃.xH₂O",
-          "Fe₃O₄"
-        ],
-        "hindi": [
-          "FeO",
-          "Fe₂O₃",
-          "Fe₂O₃.xH₂O",
-          "Fe₃O₄"
+          "तांबा",
+          "सीसा"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Copper is used in lightning conductors because it has high electrical conductivity and is resistant to atmospheric corrosion. It safely conducts lightning strikes to the ground, protecting buildings from damage.",
+        "hindi": "तड़ित चालक में तांबे का उपयोग किया जाता है क्योंकि इसमें उच्च विद्युत चालकता होती है और यह वायुमंडलीय संक्षारण का प्रतिरोध करता है। यह बिजली को सुरक्षित रूप से जमीन तक पहुंचाता है, जिससे इमारतों को नुकसान से बचाया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,76 +101,92 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Mercury forms amalgams (alloys) with other metals at room temperature because it is liquid. For example, dental amalgam is made by mixing mercury with silver, tin and copper. This property makes mercury useful in dental fillings.",
+        "hindi": "पारा कमरे के तापमान पर अन्य धातुओं के साथ अमलगम (मिश्रधातु) बनाता है क्योंकि यह द्रव अवस्था में होता है। उदाहरण के लिए, दंत अमलगम पारे को चांदी, टिन और तांबे के साथ मिलाकर बनाया जाता है। यह गुण पारे को दांतों की फिलिंग में उपयोगी बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the common name of sodium carbonate?",
-        "hindi": "सोडियम कार्बोनेट का सामान्य नाम क्या है?"
+        "english": "Why are cooking utensils made of stainless steel instead of pure iron?",
+        "hindi": "खाना पकाने के बर्तन शुद्ध लोहे की बजाय स्टेनलेस स्टील के क्यों बनाए जाते हैं?"
       },
       "option": {
         "english": [
-          "Baking soda",
-          "Washing soda",
-          "Caustic soda",
-          "Plaster of Paris"
+          "Pure iron is expensive",
+          "Pure iron rusts easily",
+          "Pure iron is too soft",
+          "Pure iron is heavy"
         ],
         "hindi": [
-          "बेकिंग सोडा",
-          "धोने का सोडा",
-          "कास्टिक सोडा",
-          "प्लास्टर ऑफ पेरिस"
+          "शुद्ध लोहा महंगा होता है",
+          "शुद्ध लोहे में आसानी से जंग लगता है",
+          "शुद्ध लोहा बहुत नरम होता है",
+          "शुद्ध लोहा भारी होता है"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "Stainless steel is used for cooking utensils because it is durable, non-reactive, and easy to clean. It is also resistant to rusting and corrosion.",
+        "hindi": "स्टेनलेस स्टील खाना पकाने के बर्तनों के लिए उपयोग किया जाता है क्योंकि यह दुर्लभ है, प्रतिक्रियाशील है और साफ करना आसान है। यह जंग लगने और संक्षारण से भी रोकता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas is produced when zinc reacts with sodium hydroxide?",
-        "hindi": "जस्ता सोडियम हाइड्रॉक्साइड से अभिक्रिया करके कौन सी गैस बनाता है?"
+        "english": "Why is gold used in making jewelry but not in making tools?",
+        "hindi": "सोने का उपयोग आभूषण बनाने में किया जाता है लेकिन औजार बनाने में क्यों नहीं?"
       },
       "option": {
         "english": [
-          "Oxygen",
-          "Carbon dioxide",
-          "Hydrogen",
-          "Nitrogen"
+          "Gold is expensive",
+          "Gold is yellow in color",
+          "Gold is too soft for tools",
+          "Gold is heavy"
         ],
         "hindi": [
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन",
-          "नाइट्रोजन"
+          "सोना महंगा होता है",
+          "सोना पीले रंग का होता है",
+          "सोना औजारों के लिए बहुत नरम होता है",
+          "सोना भारी होता है"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Gold is used in jewelry because it is soft and ductile, making it easy to shape into intricate designs. It is also resistant to corrosion and tarnishing.",
+        "hindi": "सोना आभूषणों में उपयोग किया जाता है क्योंकि यह नरम और तन्य होता है, जिससे इसे विशेष आकार देना आसान होता है। यह अशुद्धि और वर्षा से भी रोकता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the nature of zinc oxide?",
-        "hindi": "जिंक ऑक्साइड की प्रकृति कैसी होती है?"
+        "english": "Why is aluminum used in making power transmission lines instead of copper?",
+        "hindi": "बिजली के तारों में तांबे की जगह एल्युमिनियम का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Basic",
-          "Acidic",
-          "Neutral",
-          "Amphoteric"
+          "Aluminum is more reactive",
+          "Aluminum is stronger",
+          "Aluminum is more ductile",
+          "Aluminum is cheaper and lighter"
         ],
         "hindi": [
-          "क्षारीय",
-          "अम्लीय",
-          "उदासीन",
-          "उभयधर्मी"
+          "एल्युमिनियम अधिक क्रियाशील होता है",
+          "एल्युमिनियम अधिक मजबूत होता है",
+          "एल्युमिनियम अधिक तन्य होता है",
+          "एल्युमिनियम सस्ता और हल्का होता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Aluminum is used in making power transmission lines instead of copper because it is lighter and cheaper. Aluminum is also more ductile and can be easily shaped into wires.",
+        "hindi": "बिजली के तारों में तांबे की जगह एल्युमिनियम का उपयोग किया जाता है क्योंकि यह हल्का और सस्ता होता है। एल्युमिनियम अधिक तन्य होता है और इसे आसानी से तारों में ढाला जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Sodium is so soft that it can be cut with a knife. It's stored in kerosene because it reacts violently with water: 2Na + 2H₂O → 2NaOH + H₂↑. The reaction is exothermic and the hydrogen produced may catch fire due to the heat released.",
+        "hindi": "सोडियम इतना नरम होता है कि इसे चाकू से काटा जा सकता है। इसे केरोसीन में रखा जाता है क्योंकि यह पानी से तीव्र अभिक्रिया करता है: 2Na + 2H₂O → 2NaOH + H₂↑. यह अभिक्रिया ऊष्माक्षेपी है और उत्पन्न हाइड्रोजन निकली हुई गर्मी से जल सकती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Coating iron with tin is called tinning. It protects iron from rusting and is used in making food containers (tin cans). The tin coating prevents food from coming in contact with iron, which could cause contamination. Rusting equation: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O",
+        "hindi": "लोहे पर टिन की परत चढ़ाने को टिन लेपन कहते हैं। यह लोहे को जंग से बचाता है और खाद्य पदार्थों के डिब्बे (टिन के डिब्बे) बनाने में प्रयोग किया जाता है। टिन की परत भोजन को लोहे के संपर्क में आने से रोकती है, जो संदूषण का कारण बन सकता है। जंग का समीकरण: 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Bauxite (Al₂O₃.2H₂O) is the main ore of aluminum. Aluminum is extracted from bauxite using the Hall-Heroult process. First, pure alumina (Al₂O₃) is obtained from bauxite using the Bayer's process. Then, alumina is electrolyzed in molten cryolite to get pure aluminum.",
+        "hindi": "बॉक्साइट (Al₂O₃.2H₂O) एल्युमिनियम का मुख्य अयस्क है। एल्युमिनियम को बॉक्साइट से हॉल-हेरॉल्ट प्रक्रिया द्वारा निकाला जाता है। पहले, बेयर प्रक्रिया द्वारा बॉक्साइट से शुद्ध एल्युमिना (Al₂O₃) प्राप्त किया जाता है। फिर, पिघले क्रायोलाइट में एल्युमिना का विद्युत अपघटन करके शुद्ध एल्युमिनियम प्राप्त किया जाता है।"
+      }
     }
 ]

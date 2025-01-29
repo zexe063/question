@@ -1,147 +1,146 @@
-
 [
     {
       "question_name": {
-        "english": "Why are electrical appliances connected in parallel in household circuits instead of series?",
-        "hindi": "घरेलू परिपथों में विद्युत उपकरणों को श्रेणी के बजाय समानांतर क्यों जोड़ा जाता है?"
+        "english": "What is the purpose of tin coating on copper wires used in domestic circuits?",
+        "hindi": "घरेलू परिपथों में प्रयुक्त तांबे के तारों पर टिन की परत का क्या उद्देश्य है?"
       },
       "option": {
         "english": [
-          "To reduce total current",
-          "To get independent operation and same voltage",
-          "To increase resistance",
-          "To save electricity"
+          "To increase conductivity",
+          "To prevent oxidation",
+          "To increase flexibility",
+          "To reduce cost"
         ],
         "hindi": [
-          "कुल धारा कम करने के लिए",
-          "स्वतंत्र संचालन और समान वोल्टेज प्राप्त करने के लिए",
-          "प्रतिरोध बढ़ाने के लिए",
-          "बिजली बचाने के लिए"
+          "चालकता बढ़ाने के लिए",
+          "ऑक्सीकरण रोकने के लिए",
+          "लचीलापन बढ़ाने के लिए",
+          "लागत कम करने के लिए"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the relationship between resistance and cross-sectional area of a conductor?",
-        "hindi": "चालक के प्रतिरोध और उसके अनुप्रस्थ काट क्षेत्रफल में क्या संबंध होता है?"
+        "english": "Which color indicates the live wire in domestic wiring?",
+        "hindi": "घरेलू वायरिंग में लाइव तार को कौन सा रंग दर्शाता है?"
       },
       "option": {
         "english": [
-          "Directly proportional",
-          "Inversely proportional",
-          "No relationship",
-          "Square relationship"
+          "Green",
+          "Black",
+          "Red",
+          "Blue"
         ],
         "hindi": [
-          "समानुपाती",
-          "व्युत्क्रमानुपाती",
-          "कोई संबंध नहीं",
-          "वर्ग संबंध"
+          "हरा",
+          "काला",
+          "लाल",
+          "नीला"
         ]
       },
-      "answer": 1,
+      "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Why does a bulb's filament have more resistance than its connecting wires?",
-        "hindi": "बल्ब का फिलामेंट उसके कनेक्टिंग तारों से अधिक प्रतिरोध क्यों रखता है?"
+        "english": "What is the minimum rating of a fuse wire used in domestic circuits?",
+        "hindi": "घरेलू परिपथों में प्रयुक्त फ्यूज तार की न्यूनतम रेटिंग क्या होती है?"
       },
       "option": {
         "english": [
-          "Different material and thickness",
-          "Greater length",
-          "Higher temperature",
-          "More current flow"
+          "5A",
+          "10A",
+          "15A",
+          "20A"
         ],
         "hindi": [
-          "अलग पदार्थ और मोटाई",
-          "अधिक लंबाई",
-          "उच्च तापमान",
-          "अधिक धारा प्रवाह"
+          "5A",
+          "10A",
+          "15A",
+          "20A"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Calculate the resistance of a wire of length 10m if 1m of same wire has resistance 2Ω at constant temperature.",
-        "hindi": "10 मीटर लंबे तार का प्रतिरोध ज्ञात करें यदि उसी तार का 1 मीटर स्थिर तापमान पर 2Ω प्रतिरोध रखता है।"
+        "english": "A wire of resistance 20Ω is cut into four equal parts. What is the resistance of each part?",
+        "hindi": "20Ω प्रतिरोध वाले तार को चार बराबर भागों में काटा जाता है। प्रत्येक भाग का प्रतिरोध क्या होगा?"
       },
       "option": {
         "english": [
+          "80Ω",
           "5Ω",
           "10Ω",
-          "15Ω",
-          "20Ω"
+          "40Ω"
         ],
         "hindi": [
+          "80Ω",
           "5Ω",
           "10Ω",
-          "15Ω",
-          "20Ω"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Find the current in the circuit if total heat produced is 1800J in 2 minutes across a 10Ω resistor.",
-        "hindi": "परिपथ में धारा ज्ञात करें यदि 10Ω प्रतिरोधक में 2 मिनट में कुल 1800J ऊष्मा उत्पन्न होती है।"
-      },
-      "option": {
-        "english": [
-          "2A",
-          "3A",
-          "4A",
-          "5A"
-        ],
-        "hindi": [
-          "2A",
-          "3A",
-          "4A",
-          "5A"
+          "40Ω"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "In this potentiometer circuit, what is the potential difference across XY?",
-        "hindi": "इस विभवमापी परिपथ में, XY के बीच विभवांतर क्या है?"
+        "english": "Calculate the heat energy produced in a 2Ω resistor when 5A current flows for 2 minutes.",
+        "hindi": "2Ω प्रतिरोधक में उत्पन्न ऊष्मा ऊर्जा की गणना करें जब 5A धारा 2 मिनट तक प्रवाहित होती है।"
       },
       "option": {
         "english": [
-          "3V",
+          "6000J",
+          "3000J",
+          "1200J",
+          "600J"
+        ],
+        "hindi": [
+          "6000J",
+          "3000J",
+          "1200J",
+          "600J"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "medium"
+    },
+    {
+      "question_name": {
+        "english": "What is the voltage across the 6Ω resistor in this circuit?",
+        "hindi": "इस परिपथ में 6Ω प्रतिरोधक के सिरों पर वोल्टेज क्या है?"
+      },
+      "option": {
+        "english": [
+          "4V",
           "6V",
-          "9V",
+          "8V",
           "12V"
         ],
         "hindi": [
-          "3V",
+          "4V",
           "6V",
-          "9V",
+          "8V",
           "12V"
         ]
       },
       "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><line x1='50' y1='60' x2='250' y2='60' stroke='black'/><text x='100' y='50'>X</text><text x='200' y='50'>Y</text><text x='40' y='70'>24V</text><circle cx='100' cy='60' r='3' fill='black'/><circle cx='200' cy='60' r='3' fill='black'/></svg>",
-      "medium": "hard"
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='40' height='20' fill='none' stroke='black'/><text x='130' y='65'>6Ω</text><line x1='80' y1='60' x2='120' y2='60' stroke='black'/><line x1='160' y1='60' x2='200' y2='60' stroke='black'/><text x='70' y='50'>2A</text></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Find the equivalent resistance of this combination:",
-        "hindi": "इस संयोजन का तुल्य प्रतिरोध ज्ञात करें:"
+        "english": "Identify the value of R₂ that makes both resistors dissipate equal power:",
+        "hindi": "R₂ का वह मान पहचानें जो दोनों प्रतिरोधकों को समान शक्ति व्यय करवाता है:"
       },
       "option": {
         "english": [
@@ -158,76 +157,76 @@
         ]
       },
       "answer": 1,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='30' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='60' width='40' height='20' fill='none' stroke='black'/><rect x='160' y='45' width='40' height='20' fill='none' stroke='black'/><text x='110' y='45'>12Ω</text><text x='110' y='75'>12Ω</text><text x='170' y='60'>24Ω</text></svg>",
-      "medium": "hard"
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='105' y='55'>8Ω</text><text x='105' y='105'>R₂</text><text x='50' y='70'>12V</text></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Calculate the current through the ammeter:",
-        "hindi": "एमीटर से प्रवाहित धारा की गणना करें:"
+        "english": "Which appliance is incorrectly rated for 220V supply?",
+        "hindi": "कौन सा उपकरण 220V आपूर्ति के लिए गलत रेट किया गया है?"
       },
       "option": {
         "english": [
-          "1A",
-          "2A",
-          "3A",
-          "4A"
+          "1100W geyser",
+          "440W fan",
+          "55W bulb",
+          "22W LED"
         ],
         "hindi": [
-          "1A",
-          "2A",
-          "3A",
-          "4A"
+          "1100W गीजर",
+          "440W पंखा",
+          "55W बल्ब",
+          "22W LED"
         ]
       },
       "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><circle cx='150' cy='60' r='15' fill='none' stroke='black'/><text x='142' y='65'>A</text><rect x='200' y='50' width='40' height='20' fill='none' stroke='black'/><text x='210' y='65'>6Ω</text><text x='80' y='65'>18V</text></svg>",
-      "medium": "hard"
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='50' y='30' width='200' height='90' fill='none' stroke='black'/><text x='60' y='50'>220V</text><line x1='100' y1='60' x2='200' y2='60' stroke='black'/><circle cx='150' cy='90' r='15' fill='none' stroke='black'/></svg>",
+      "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Find the total power consumed in this circuit:",
-        "hindi": "इस परिपथ में कुल खपत शक्ति ज्ञात करें:"
+        "english": "Calculate the current through R₁ in this circuit if battery voltage is 12V:",
+        "hindi": "इस परिपथ में R₁ से प्रवाहित धारा की गणना करें यदि बैटरी का वोल्टेज 12V है:"
       },
       "option": {
         "english": [
-          "72W",
-          "144W",
-          "216W",
-          "288W"
+          "1A",
+          "2A",
+          "3A",
+          "4A"
         ],
         "hindi": [
-          "72W",
-          "144W",
-          "216W",
-          "288W"
-        ]
-      },
-      "answer": 3,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='120' y='90' width='40' height='20' fill='none' stroke='black'/><text x='125' y='55'>8Ω</text><text x='125' y='105'>8Ω</text><text x='80' y='70'>24V</text></svg>",
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A heating element draws 5A on 220V. Calculate its resistance at operating temperature if it's 20% more than room temperature resistance.",
-        "hindi": "एक तापन तत्व 220V पर 5A खींचता है। परिचालन तापमान पर इसका प्रतिरोध ज्ञात करें यदि यह कमरे के तापमान के प्रतिरोध से 20% अधिक है।"
-      },
-      "option": {
-        "english": [
-          "44Ω",
-          "52.8Ω",
-          "48Ω",
-          "55Ω"
-        ],
-        "hindi": [
-          "44Ω",
-          "52.8Ω",
-          "48Ω",
-          "55Ω"
+          "1A",
+          "2A",
+          "3A",
+          "4A"
         ]
       },
       "answer": 1,
-      "image": null,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='100' y='40' width='40' height='20' fill='none' stroke='black'/><rect x='100' y='90' width='40' height='20' fill='none' stroke='black'/><text x='105' y='55'>R₁=6Ω</text><text x='105' y='105'>R₂=6Ω</text><text x='50' y='70'>12V</text><line x1='50' y1='30' x2='250' y2='30' stroke='black'/><line x1='50' y1='30' x2='50' y2='120' stroke='black'/><line x1='250' y1='30' x2='250' y2='120' stroke='black'/><line x1='50' y1='120' x2='250' y2='120' stroke='black'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In the circuit shown, calculate the power dissipated in the 4Ω resistor:",
+        "hindi": "दर्शाए गए परिपथ में 4Ω प्रतिरोधक में व्यय शक्ति की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "16W",
+          "32W",
+          "64W",
+          "128W"
+        ],
+        "hindi": [
+          "16W",
+          "32W",
+          "64W",
+          "128W"
+        ]
+      },
+      "answer": 2,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><rect x='120' y='50' width='40' height='20' fill='none' stroke='black'/><text x='125' y='65'>4Ω</text><line x1='80' y1='60' x2='120' y2='60' stroke='black'/><line x1='160' y1='60' x2='200' y2='60' stroke='black'/><text x='70' y='50'>16V</text></svg>",
       "medium": "hard"
     }
   ]

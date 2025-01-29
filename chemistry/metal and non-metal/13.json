@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What happens when a metal oxide reacts with water?",
-        "hindi": "धातु ऑक्साइड जल से अभिक्रिया करके क्या बनाता है?"
-      },
-      "option": {
-        "english": [
-          "Salt",
-          "Metal hydroxide",
-          "Metal",
-          "Hydrogen"
-        ],
-        "hindi": [
-          "लवण",
-          "धातु हाइड्रॉक्साइड",
-          "धातु",
-          "हाइड्रोजन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the purpose of greasing metal tools?",
+      "hindi": "धातु के औजारों को ग्रीस लगाने का क्या उद्देश्य है?"
     },
+    "option": {
+      "english": [
+        "To make them shiny",
+        "To prevent rusting",
+        "To make them heavy",
+        "To make them soft"
+      ],
+      "hindi": [
+        "चमकदार बनाने के लिए", 
+        "जंग लगने से रोकने के लिए",
+        "भारी बनाने के लिए",
+        "नरम बनाने के लिए"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Greasing metal tools prevents rusting by creating a protective layer of oil on the surface. This layer helps to keep the metal from reacting with oxygen and moisture, which can cause corrosion.",
+      "hindi": "धातु के औजारों को ग्रीस लगाने से जंग लगने से रोकने के लिए। इस परत से धातु को ऑक्सीजन और जल से अभिक्रिया नहीं करने में मदद मिलती है, जो जंग लगने का कारण बनती है।"
+    }
+  },
     {
       "question_name": {
         "english": "Why are metals good conductors of heat?",
@@ -43,30 +47,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Metals are good conductors of heat because they have free electrons in their structure. These electrons can move freely throughout the metal and transfer heat energy quickly from hot regions to cold regions. This is why metal utensils heat up quickly when placed on fire.",
+        "hindi": "धातुएं ऊष्मा की अच्छी चालक होती हैं क्योंकि उनकी संरचना में मुक्त इलेक्ट्रॉन होते हैं। ये इलेक्ट्रॉन धातु में स्वतंत्र रूप से घूम सकते हैं और ऊष्मा ऊर्जा को गर्म क्षेत्रों से ठंडे क्षेत्रों में जल्दी स्थानांतरित कर सकते हैं। इसीलिए धातु के बर्तन आग पर रखने पर जल्दी गर्म हो जाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What is formed when metals react with acids?",
-        "hindi": "धातुएं अम्लों से अभिक्रिया करके क्या बनाती हैं?"
+        "english": "What is anodizing used for in metals?",
+        "hindi": "धातुओं में एनोडाइजिंग का क्या उपयोग होता है?"
       },
       "option": {
         "english": [
-          "Base and water",
-          "Oxide and water",
-          "Salt and hydrogen",
-          "Only salt"
+          "For decoration",
+          "For protection from corrosion",
+          "For increasing hardness",
+          "All of these"
         ],
         "hindi": [
-          "क्षार और जल",
-          "ऑक्साइड और जल",
-          "लवण और हाइड्रोजन",
-          "केवल लवण"
+          "सजावट के लिए",
+          "जंग से सुरक्षा के लिए", 
+          "कठोरता बढ़ाने के लिए",
+          "ये सभी"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Anodizing is an electrochemical process that converts the metal surface into a decorative, durable, corrosion-resistant, anodic oxide finish. For example, when aluminum is anodized, it forms a thick protective layer of aluminum oxide (Al₂O₃) that increases hardness and prevents further corrosion.",
+        "hindi": "एनोडाइजिंग एक विद्युत-रासायनिक प्रक्रिया है जो धातु की सतह को एक सजावटी, टिकाऊ, जंग-रोधी, एनोडिक ऑक्साइड परत में बदलती है। उदाहरण के लिए, जब एल्युमिनियम को एनोडाइज किया जाता है, तो यह एल्युमिनियम ऑक्साइड (Al₂O₃) की एक मोटी सुरक्षात्मक परत बनाता है जो कठोरता बढ़ाती है और आगे जंग को रोकती है।"
+      }
     },
     {
       "question_name": {
@@ -89,30 +101,38 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Tin-lead alloy is used in making fuse wire because it has a low melting point. When excessive current flows through the circuit, the fuse wire melts quickly due to heating (Joule heating effect) and breaks the circuit, protecting electrical appliances from damage.",
+        "hindi": "फ्यूज तार बनाने में टिन-लेड मिश्रधातु का उपयोग किया जाता है क्योंकि इसका गलनांक कम होता है। जब परिपथ में अधिक धारा प्रवाहित होती है, तो फ्यूज तार गर्म होकर (जूल ऊष्मन प्रभाव) जल्दी पिघल जाता है और परिपथ को तोड़ देता है, जिससे विद्युत उपकरणों को नुकसान से बचाया जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the chemical name of plaster of Paris?",
-        "hindi": "प्लास्टर ऑफ पेरिस का रासायनिक नाम क्या है?"
+        "english": "Which metal is used in making artificial joints?",
+        "hindi": "कृत्रिम जोड़ों को बनाने में किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "CaSO₄",
-          "CaSO₄.2H₂O",
-          "CaSO₄.½H₂O",
-          "CaCO₃"
+          "Copper",
+          "Titanium",
+          "Aluminum",
+          "Lead"
         ],
         "hindi": [
-          "CaSO₄",
-          "CaSO₄.2H₂O",
-          "CaSO₄.½H₂O",
-          "CaCO₃"
+          "तांबा",
+          "टाइटेनियम",
+          "एल्युमिनियम",
+          "सीसा"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Titanium is used in making artificial joints because it is lightweight, very strong, and biocompatible (not rejected by human body). It also does not corrode inside the body and can last for many years. Titanium forms a protective oxide layer (TiO₂) that makes it resistant to corrosion.",
+        "hindi": "टाइटेनियम का उपयोग कृत्रिम जोड़ों को बनाने में किया जाता है क्योंकि यह हल्का, बहुत मजबूत और जैव-अनुकूल (मानव शरीर द्वारा अस्वीकृत नहीं) होता है। यह शरीर के अंदर जंग भी नहीं लगाता और कई वर्षों तक चल सकता है। टाइटेनियम एक सुरक्षात्मक ऑक्साइड परत (TiO₂) बनाता है जो इसे जंग से बचाती है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Phosphorus is added to steel to increase its hardness and strength. When small amounts (0.04-0.12%) of phosphorus are added to steel, it forms iron phosphide (Fe₃P) which increases the tensile strength and hardness of steel. This makes the steel more suitable for construction purposes.",
+        "hindi": "स्टील में फॉस्फोरस को कठोरता और मजबूती बढ़ाने के लिए मिलाया जाता है। जब स्टील में थोड़ी मात्रा (0.04-0.12%) में फॉस्फोरस मिलाया जाता है, तो यह आयरन फॉस्फाइड (Fe₃P) बनाता है जो स्टील की तन्य शक्ति और कठोरता को बढ़ाता है। इससे स्टील निर्माण कार्यों के लिए अधिक उपयुक्त बन जाती है।"
+      }
     },
     {
       "question_name": {
@@ -158,30 +182,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In galvanization, zinc forms a protective coating on iron/steel to prevent rusting. When zinc is coated on iron, it forms a layer of zinc oxide (ZnO) on exposure to air. This zinc coating acts as a sacrificial metal - it corrodes first, protecting the iron underneath. The reaction is: Zn + O₂ → ZnO (protective layer).",
+        "hindi": "जस्तीकरण में, जस्ता लोहे/स्टील पर जंग को रोकने के लिए एक सुरक्षात्मक परत बनाता है। जब लोहे पर जस्ता चढ़ाया जाता है, तो हवा के संपर्क में आने पर यह जिंक ऑक्साइड (ZnO) की एक परत बनाता है। यह जस्ते की परत त्यागी धातु के रूप में कार्य करती है - यह पहले स्वयं क्षय होती है, जिससे नीचे का लोहा सुरक्षित रहता है। अभिक्रिया है: Zn + O₂ → ZnO (सुरक्षात्मक परत)।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas is produced when metals react with steam?",
-        "hindi": "धातुएं भाप से अभिक्रिया करके कौन सी गैस बनाती हैं?"
+        "english": "Why are copper vessels not used for storing pickles?",
+        "hindi": "अचार को स्टोर करने के लिए तांबे के बर्तनों का उपयोग क्यों नहीं किया जाता है?"
       },
       "option": {
         "english": [
-          "Hydrogen",
-          "Oxygen",
-          "Carbon dioxide",
-          "Nitrogen"
+          "Copper reacts with acids",
+          "Copper is expensive",
+          "Copper changes color",
+          "Copper is heavy"
         ],
         "hindi": [
-          "हाइड्रोजन",
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन"
+          "तांबा अम्लों से अभिक्रिया करता है",
+          "तांबा महंगा होता है",
+          "तांबे का रंग बदल जाता है",
+          "तांबा भारी होता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Copper reacts with acids, which can cause the metal to corrode and change color. This makes it unsuitable for storing acidic foods like pickles.",
+        "hindi": "तांबा अम्लों से अभिक्रिया करता है, जो धातु को जंग लगने और रंग बदलने का कारण बनता है। इसलिए इसे अम्लीय खाद्य पदार्थों को स्टोर करने के लिए उपयुक्त नहीं है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Sodium is kept in kerosene to prevent its reaction with oxygen and moisture in air. Sodium is highly reactive and reacts violently with water: 2Na + 2H₂O → 2NaOH + H₂↑. Kerosene, being oil, doesn't react with sodium and keeps it safe by preventing contact with air and moisture.",
+        "hindi": "सोडियम को हवा में मौजूद ऑक्सीजन और नमी से अभिक्रिया को रोकने के लिए केरोसीन में रखा जाता है। सोडियम अत्यधिक क्रियाशील होता है और पानी से तीव्र अभिक्रिया करता है: 2Na + 2H₂O → 2NaOH + H₂↑। केरोसीन तेल होने के कारण सोडियम से अभिक्रिया नहीं करता और हवा तथा नमी के संपर्क को रोककर इसे सुरक्षित रखता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Bauxite (Al₂O₃·2H₂O) is the main ore from which aluminum is extracted. In the extraction process, bauxite is first purified to alumina (Al₂O₃) using Bayer's process. Then aluminum is obtained from alumina by electrolysis: 2Al₂O₃ → 4Al + 3O₂. This process is called Hall-Heroult process.",
+        "hindi": "बॉक्साइट (Al₂O₃·2H₂O) मुख्य अयस्क है जिससे एल्युमिनियम निकाला जाता है। निष्कर्षण प्रक्रिया में, बॉक्साइट को पहले बेयर प्रक्रिया द्वारा एल्युमिना (Al₂O₃) में शुद्ध किया जाता है। फिर एल्युमिना से विद्युत अपघटन द्वारा एल्युमिनियम प्राप्त किया जाता है: 2Al₂O₃ → 4Al + 3O₂। इस प्रक्रिया को हॉल-हेरॉल्ट प्रक्रिया कहते हैं।"
+      }
     }
 ]

@@ -6,17 +6,21 @@
       },
       "option": {
         "english": [
-          "Estrogen",
+          "Both Estrogen and Progesterone",
           "Insulin",
-          "Adrenaline",
+          "Adrenaline", 
           "Thyroxine"
         ],
         "hindi": [
-          "एस्ट्रोजन",
+          "एस्ट्रोजन और प्रोजेस्टेरोन",
           "इंसुलिन",
           "एड्रेनालिन",
           "थायरॉक्सिन"
         ]
+      },
+      "explanation": {
+        "english": "Estrogen and Progesterone work together to regulate the menstrual cycle. Estrogen helps develop the uterine lining and triggers ovulation, while Progesterone prepares the uterus for possible pregnancy. These hormones are produced by the ovaries and their levels fluctuate throughout the cycle, controlling the various phases.",
+        "hindi": "एस्ट्रोजन और प्रोजेस्टेरोन मिलकर मासिक धर्म चक्र को नियंत्रित करते हैं। एस्ट्रोजन गर्भाशय की परत के विकास में मदद करता है और अंडोत्सर्जन को ट्रिगर करता है, जबकि प्रोजेस्टेरोन गर्भाशय को संभावित गर्भावस्था के लिए तैयार करता है। ये हार्मोन अंडाशय द्वारा उत्पादित होते हैं और चक्र के दौरान इनके स्तर में उतार-चढ़ाव होता है, जो विभिन्न चरणों को नियंत्रित करता है।"
       },
       "answer": 0,  
       "image": null,
@@ -41,6 +45,10 @@
           "कोई नहीं"
         ]
       },
+      "explanation": {
+        "english": "Vegetative propagation is a type of asexual reproduction where new plants grow from vegetative parts like stems, roots, or leaves without seeds. Common examples include potato growing from eyes, growth of new plants from runners in strawberries, and reproduction through bulbs in onion. This method produces plants identical to the parent plant.",
+        "hindi": "काययिक प्रवर्धन अलैंगिक जनन का एक प्रकार है जहां नए पौधे बीज के बिना तना, जड़, या पत्तियों जैसे काययिक भागों से विकसित होते हैं। सामान्य उदाहरणों में आलू की आंखों से नए पौधे का विकास, स्ट्रॉबेरी में रनर से नए पौधों का विकास, और प्याज में कंद के माध्यम से प्रजनन शामिल हैं। इस विधि से मूल पौधे के समान पौधे उत्पन्न होते हैं।"
+      },
       "answer": 2,
       "image": null,
       "medium": "easy"
@@ -63,6 +71,10 @@
           "सर्विक्स",
           "उल्बकोष"
         ]
+      },
+      "explanation": {
+        "english": "The amnion is a thin, tough membrane that forms a fluid-filled sac around the developing embryo. This amniotic fluid cushions the embryo, protects it from physical shock and temperature changes, allows for movement, and prevents the embryo from drying out. It's crucial for proper fetal development and protection.",
+        "hindi": "उल्बकोष (एमनियन) एक पतली, मजबूत झिल्ली है जो विकासशील भ्रूण के चारों ओर तरल से भरी थैली बनाती है। यह एमनियोटिक तरल भ्रूण को कुशन प्रदान करता है, इसे भौतिक आघात और तापमान परिवर्तन से बचाता है, हलचल की अनुमति देता है, और भ्रूण को सूखने से रोकता है। यह उचित गर्भस्थ विकास और सुरक्षा के लिए महत्वपूर्ण है।"
       },
       "answer": 3,  
       "image": null,
@@ -87,6 +99,10 @@
           "शुक्राणु उत्पादन"
         ]
       },
+      "explanation": {
+        "english": "The epididymis is a long, coiled tube located at the back of each testicle that stores and matures sperm cells. Here, sperm cells complete their development and gain the ability to swim. The epididymis can store sperm for several weeks, keeping them viable until they're needed for reproduction.",
+        "hindi": "एपिडिडिमिस प्रत्येक वृषण के पीछे स्थित एक लंबी, कुंडलित नली है जो शुक्राणु कोशिकाओं को संग्रहित और परिपक्व करती है। यहां, शुक्राणु कोशिकाएं अपना विकास पूरा करती हैं और तैरने की क्षमता प्राप्त करती हैं। एपिडिडिमिस कई सप्ताह तक शुक्राणुओं को संग्रहित कर सकता है, जब तक प्रजनन के लिए आवश्यक न हों, उन्हें जीवित रखता है।"
+      },
       "answer": 1,  
       "image": null,
       "medium": "easy"
@@ -109,6 +125,10 @@
           "मुकुलन",
           "समसूत्री विभाजन"
         ]
+      },
+      "explanation": {
+        "english": "Oogenesis is the process of forming female gametes (eggs/ova) in females. It begins before birth and involves the formation of primary oocytes that remain dormant until puberty. During each menstrual cycle, usually one oocyte matures into an ovum through meiotic division, resulting in a haploid cell ready for fertilization.",
+        "hindi": "अंडजनन मादाओं में मादा युग्मक (अंडे/अंडाणु) बनाने की प्रक्रिया है। यह जन्म से पहले शुरू होती है और प्राथमिक अंडाणुओं के निर्माण में शामिल होती है जो यौवन तक निष्क्रिय रहती हैं। प्रत्येक मासिक धर्म चक्र के दौरान, आमतौर पर एक अंडाणु अर्धसूत्री विभाजन के माध्यम से एक अंडे में परिपक्व होता है, जिसके परिणामस्वरूप निषेचन के लिए तैयार अगुणित कोशिका बनती है।"
       },
       "answer": 0,  
       "image": null,
@@ -133,6 +153,10 @@
           "अंडा एकत्र करना"
         ]
       },
+      "explanation": {
+        "english": "Fimbriae are finger-like projections at the end of fallopian tubes that sweep over the surface of the ovary. When ovulation occurs, these fimbriae create gentle movements to catch and guide the released egg into the fallopian tube. This process is crucial for successful fertilization as it ensures the egg enters the correct path.",
+        "hindi": "फिम्ब्रिए फैलोपियन ट्यूब के अंत में उंगली जैसी संरचनाएं हैं जो अंडाशय की सतह पर झाड़ू की तरह कार्य करती हैं। जब अंडोत्सर्जन होता है, ये फिम्ब्रिए निकले हुए अंडे को पकड़ने और फैलोपियन ट्यूब में मार्गदर्शित करने के लिए हल्की गति करते हैं। यह प्रक्रिया सफल निषेचन के लिए महत्वपूर्ण है क्योंकि यह सुनिश्चित करती है कि अंडा सही मार्ग में प्रवेश करे।"
+      },
       "answer": 3,  
       "image": null,
       "medium": "medium"
@@ -155,6 +179,10 @@
           "एंडोमेट्रियम",
           "एपिथीलियम"
         ]
+      },
+      "explanation": {
+        "english": "The endometrium is the innermost layer of the uterus where the embryo implants and develops. This layer undergoes cyclic changes during the menstrual cycle, thickening with blood vessels and nutrients to prepare for possible pregnancy. If fertilization occurs, the embryo implants here and receives nourishment through this layer.",
+        "hindi": "एंडोमेट्रियम गर्भाशय की सबसे भीतरी परत है जहां भ्रूण प्रत्यारोपित होता है और विकसित होता है। यह परत मासिक धर्म चक्र के दौरान चक्रीय परिवर्तनों से गुजरती है, संभावित गर्भावस्था की तैयारी के लिए रक्त वाहिकाओं और पोषक तत्वों के साथ मोटी होती है। यदि निषेचन होता है, तो भ्रूण यहां प्रत्यारोपित होता है और इस परत के माध्यम से पोषण प्राप्त करता है।"
       },
       "answer": 2,  
       "image": null,
@@ -179,6 +207,10 @@
           "गति"
         ]
       },
+      "explanation": {
+        "english": "The acrosome is a specialized structure at the head of a sperm cell containing enzymes. During fertilization, these enzymes help the sperm penetrate the outer layers of the egg cell. The acrosome reaction releases these enzymes, allowing the sperm to digest its way through the egg's protective barriers and achieve fertilization.",
+        "hindi": "एक्रोसोम शुक्राणु कोशिका के सिर पर स्थित एक विशेष संरचना है जिसमें एंजाइम होते हैं। निषेचन के दौरान, ये एंजाइम शुक्राणु को अंडे की कोशिका की बाहरी परतों में प्रवेश करने में मदद करते हैं। एक्रोसोम प्रतिक्रिया इन एंजाइमों को मुक्त करती है, जो शुक्राणु को अंडे के सुरक्षात्मक अवरोधों को पचाने और निषेचन प्राप्त करने की अनुमति देती है।"
+      },
       "answer": 1,  
       "image": null,
       "medium": "medium"
@@ -201,6 +233,10 @@
           "GnRH",
           "FSH"
         ]
+      },
+      "explanation": {
+        "english": "Progesterone is crucial for maintaining pregnancy. Initially produced by the corpus luteum and later by the placenta, it helps maintain the uterine lining, prevents uterine contractions, supports the developing placenta, and prepares the body for childbirth. Low progesterone levels can lead to pregnancy complications.",
+        "hindi": "प्रोजेस्टेरोन गर्भावस्था को बनाए रखने के लिए महत्वपूर्ण है। शुरुआत में कॉर्पस ल्यूटियम और बाद में प्लेसेंटा द्वारा उत्पादित, यह गर्भाशय की परत को बनाए रखने में मदद करता है, गर्भाशय की संकुचन को रोकता है, विकासशील प्लेसेंटा का समर्थन करता है, और प्रसव के लिए शरीर को तैयार करता है। प्रोजेस्टेरोन के निम्न स्तर से गर्भावस्था में जटिलताएं हो सकती हैं।"
       },
       "answer": 0,  
       "image": null,
@@ -225,8 +261,12 @@
           "कई शुक्राणु"
         ]
       },
-    "answer": 2,  
+      "explanation": {
+        "english": "Multiple pregnancy commonly occurs due to multiple ovulation, where more than one egg is released and fertilized during the same cycle. This results in fraternal twins or multiples. Each embryo develops from a separate egg and sperm, leading to siblings who share the pregnancy but have different genetic makeup.",
+        "hindi": "बहु गर्भावस्था आमतौर पर बहु अंडोत्सर्ग के कारण होती है, जहां एक ही चक्र के दौरान एक से अधिक अंडे निकलते हैं और निषेचित होते हैं। इसके परिणामस्वरूप भ्रातृ जुड़वां या बहु भ्रूण बनते हैं। प्रत्येक भ्रूण अलग-अलग अंडे और शुक्राणु से विकसित होता है, जिससे ऐसे सहोदर बनते हैं जो गर्भावस्था साझा करते हैं लेकिन उनकी आनुवंशिक संरचना अलग होती है।"
+      },
+      "answer": 2,  
       "image": null,
       "medium": "hard"
     }
-  ]
+]

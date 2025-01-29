@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "Iron",
-          "Copper",
+          "Copper", 
           "Silver",
           "Sodium"
         ],
         "hindi": [
           "लोहा",
           "तांबा",
-          "चांदी",
+          "चांदी", 
           "सोडियम"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium is used in traffic signals because it produces bright yellow light when electricity passes through its vapor. This makes the signals highly visible.",
+        "hindi": "सोडियम का उपयोग यातायात संकेतों में किया जाता है क्योंकि जब इसकी वाष्प से विद्युत गुजरती है तो यह चमकदार पीली रोशनी उत्पन्न करता है। इससे संकेत अधिक दृश्यमान होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -30,7 +34,7 @@
       "option": {
         "english": [
           "Ductility",
-          "Conductivity",
+          "Conductivity", 
           "Sonority",
           "Malleability"
         ],
@@ -43,12 +47,16 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sonority is the property of metals that allows them to produce sound when struck. This happens because metals can vibrate easily due to their closely packed atoms.",
+        "hindi": "ध्वनिकता धातुओं का वह गुण है जो उन्हें टकराने पर ध्वनि उत्पन्न करने की क्षमता देता है। यह इसलिए होता है क्योंकि धातुओं के परमाणु पास-पास होते हैं जिससे वे आसानी से कंपन कर सकते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which metal is stored under kerosene?",
-        "hindi": "किस धातु को केरोसीन में रखा जाता है?"
+        "english": "Which metal is stored under water?",
+        "hindi": "किस धातु को पानी में रखा जाता है?"
       },
       "option": {
         "english": [
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium is stored under water because it is highly reactive with water and air. The reaction with water is: 2Na + 2H₂O → 2NaOH + H₂ (gas). Water protects sodium from contact with moisture and oxygen.",
+        "hindi": "सोडियम को पानी में रखा जाता है क्योंकि यह पानी और हवा के साथ बहुत तेजी से प्रतिक्रिया करता है। पानी के साथ प्रतिक्रिया: 2Na + 2H₂O → 2NaOH + H₂ (गैस)। पानी सोडियम को नमी और ऑक्सीजन के संपर्क से बचाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Metals have metallic bonding where the positively charged metal ions are held together by a sea of free electrons. This explains their properties like electrical conductivity and malleability.",
+        "hindi": "धातुओं में धात्विक बंधन होता है जहां धनावेशित धातु आयन मुक्त इलेक्ट्रॉनों के समुद्र द्वारा एक साथ जुड़े रहते हैं। यह उनके गुणों जैसे विद्युत चालकता और आघातवर्धनीयता को समझाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Graphite (a form of carbon) is used in pencils, not lead metal. It is soft and leaves marks on paper because its layers can easily slide over each other due to weak van der Waals forces.",
+        "hindi": "पेंसिल में ग्रेफाइट (कार्बन का एक रूप) का उपयोग किया जाता है, न कि सीसा धातु का। यह नरम होता है और कागज पर निशान छोड़ता है क्योंकि इसकी परतें कमजोर वैन डर वाल्स बलों के कारण आसानी से एक दूसरे पर फिसल सकती हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Copper sulphate (CuSO₄) solution is blue due to the presence of Cu²⁺ ions. When water is added to white anhydrous CuSO₄, it forms blue CuSO₄·5H₂O (copper sulphate pentahydrate).",
+        "hindi": "कॉपर सल्फेट (CuSO₄) का विलयन Cu²⁺ आयनों की उपस्थिति के कारण नीला होता है। जब सफेद जलरहित CuSO₄ में पानी मिलाया जाता है, तो यह नीला CuSO₄·5H₂O (कॉपर सल्फेट पेंटाहाइड्रेट) बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
-          "Copper",
-          "Iron",
+          "Mercury",
+          "Lead",
           "Zinc",
           "Silver"
         ],
         "hindi": [
-          "तांबा",
-          "लोहा",
+          "पारा",
+          "लेड",
           "जस्ता",
           "चांदी"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Zinc forms amphoteric oxide (ZnO) which reacts with both acids and bases. With acid: ZnO + 2HCl → ZnCl₂ + H₂O. With base: ZnO + 2NaOH → Na₂ZnO₂ + H₂O",
+        "hindi": "जस्ता उभयधर्मी ऑक्साइड (ZnO) बनाता है जो अम्ल और क्षार दोनों से प्रतिक्रिया करता है। अम्ल के साथ: ZnO + 2HCl → ZnCl₂ + H₂O। क्षार के साथ: ZnO + 2NaOH → Na₂ZnO₂ + H₂O"
+      }
     },
     {
       "question_name": {
@@ -167,44 +195,52 @@
       },
       "option": {
         "english": [
-          "Reducing agent",
           "Oxidizing agent",
+          "Reducing agent",
           "Catalyst",
           "None"
         ],
         "hindi": [
-          "अपचायक",
           "ऑक्सीकारक",
+          "अपचायक",
           "उत्प्रेरक",
           "कोई नहीं"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Carbon acts as a reducing agent in metal extraction. For example, in iron extraction: Fe₂O₃ + 3C → 2Fe + 3CO. Carbon reduces the metal oxide by removing oxygen, forming CO gas.",
+        "hindi": "धातु निष्कर्षण में कार्बन अपचायक का काम करता है। उदाहरण के लिए, लोहे के निष्कर्षण में: Fe₂O₃ + 3C → 2Fe + 3CO. कार्बन धातु ऑक्साइड से ऑक्सीजन को हटाकर उसे अपचयित करता है और CO गैस बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the chemical name of quick lime?",
-        "hindi": "बिना बुझे चूने का रासायनिक नाम क्या है?"
+        "english": "Why is graphite used in pencils despite being a form of carbon?",
+        "hindi": "कार्बन का रूप होने के बावजूद पेंसिल में ग्रेफाइट का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "CaCO₃",
-          "Ca(OH)₂",
-          "CaO",
-          "CaCl₂"
+          "It is black in color",
+          "It is cheap",
+          "It is easily available",
+          "It has layered structure that can leave marks"
         ],
         "hindi": [
-          "CaCO₃",
-          "Ca(OH)₂",
-          "CaO",
-          "CaCl₂"
+          "यह काले रंग का होता है",
+          "यह सस्ता होता है",
+          "यह आसानी से उपलब्ध होता है",
+          "इसकी परतदार संरचना निशान छोड़ सकती है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Graphite is used in pencils because it is black in color, cheap, and has a layered structure that can leave marks.",
+        "hindi": "ग्रेफाइट पेंसिल में उपयोग किया जाता है क्योंकि यह काले रंग का होता है, सस्ता होता है और इसकी परतदार संरचना निशान छोड़ सकती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Sodium is extracted by electrolysis of molten sodium chloride (NaCl). At cathode: Na⁺ + e⁻ → Na (metal). At anode: 2Cl⁻ → Cl₂ + 2e⁻. Electrolysis is used because sodium is too reactive to be extracted by carbon reduction.",
+        "hindi": "सोडियम पिघले हुए सोडियम क्लोराइड (NaCl) के विद्युत अपघटन द्वारा निकाला जाता है। कैथोड पर: Na⁺ + e⁻ → Na (धातु)। एनोड पर: 2Cl⁻ → Cl₂ + 2e⁻। विद्युत अपघटन का उपयोग किया जाता है क्योंकि सोडियम इतना अधिक क्रियाशील है कि इसे कार्बन अपचयन द्वारा नहीं निकाला जा सकता।"
+      }
     }
 ]

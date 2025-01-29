@@ -1,26 +1,30 @@
 [
     {
       "question_name": {
-        "english": "Which indicator is used in acid-base titration?",
-        "hindi": "अम्ल-क्षार अनुमापन में किस सूचक का उपयोग किया जाता है?"
+        "english": "What is the formula of gypsum?",
+        "hindi": "जिप्सम का सूत्र क्या है?"
       },
       "option": {
         "english": [
-          "Turmeric",
-          "China rose",
-          "Phenolphthalein",
-          "Red cabbage"
+          "CaCO₃",
+          "Ca(OH)₂", 
+          "CaSO₄·2H₂O",
+          "CaO"
         ],
         "hindi": [
-          "हल्दी",
-          "चाइना रोज",
-          "फिनॉल्फ्थेलीन",
-          "लाल पत्तागोभी"
+          "CaCO₃",
+          "Ca(OH)₂",
+          "CaSO₄·2H₂O", 
+          "CaO"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Gypsum (CaSO₄·2H₂O) is a naturally occurring mineral. The '2H₂O' shows it has 2 water molecules attached to calcium sulfate. It is commonly used in making plaster of Paris.",
+        "hindi": "जिप्सम (CaSO₄·2H₂O) एक प्राकृतिक खनिज है। '2H₂O' दर्शाता है कि इसमें कैल्शियम सल्फेट के साथ 2 पानी के अणु जुड़े हैं। इसका उपयोग प्लास्टर ऑफ पेरिस बनाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -43,30 +47,38 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "H₂SO₄ (Sulfuric acid) is a dibasic acid because it has two replaceable hydrogen atoms that can form two types of salts. For example: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O",
+        "hindi": "H₂SO₄ (सल्फ्यूरिक एसिड) एक द्विक्षारकीय अम्ल है क्योंकि इसमें दो प्रतिस्थापनीय हाइड्रोजन परमाणु होते हैं जो दो प्रकार के लवण बना सकते हैं। उदाहरण: H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O"
+      }
     },
     {
       "question_name": {
-        "english": "What is the color of phenolphthalein in basic solution?",
-        "hindi": "क्षारीय विलयन में फिनॉल्फ्थेलीन का रंग क्या होता है?"
+        "english": "What is the formula of bleaching powder?",
+        "hindi": "ब्लीचिंग पाउडर का सूत्र क्या है?"
       },
       "option": {
         "english": [
-          "Colorless",
-          "Pink",
-          "Yellow",
-          "Orange"
+          "NaClO",
+          "CaOCl₂",
+          "KClO₃",
+          "Ca(ClO)₂"
         ],
         "hindi": [
-          "रंगहीन",
-          "गुलाबी",
-          "पीला",
-          "नारंगी"
+          "NaClO",
+          "CaOCl₂",
+          "KClO₃",
+          "Ca(ClO)₂"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Bleaching powder (CaOCl₂) is made by passing chlorine gas over slaked lime. Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O. It is used for disinfection and bleaching.",
+        "hindi": "ब्लीचिंग पाउडर (CaOCl₂) बुझे हुए चूने पर क्लोरीन गैस प्रवाहित करके बनाया जाता है। Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O. इसका उपयोग कीटाणुनाशन और विरंजन के लिए किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -78,18 +90,22 @@
           "NaCl",
           "AgNO₃",
           "KBr",
-          "Na₂S₂O₃"
+          "AgCl"
         ],
         "hindi": [
           "NaCl",
           "AgNO₃",
           "KBr",
-          "Na₂S₂O₃"
+          "AgCl"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Silver chloride (AgCl) is light-sensitive and turns gray when exposed to light. AgNO₃ + NaCl → AgCl + NaNO₃. This property makes it useful in photography.",
+        "hindi": "सिल्वर क्लोराइड (AgCl) प्रकाश-संवेदनशील है और प्रकाश के संपर्क में आने पर भूरा हो जाता है। AgNO₃ + NaCl → AgCl + NaNO₃. यह गुण इसे फोटोग्राफी में उपयोगी बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Zinc reacts with sodium hydroxide to form sodium zincate and hydrogen gas. Reaction: Zn + 2NaOH → Na₂ZnO₂ + H₂↑. This shows zinc's amphoteric nature.",
+        "hindi": "जिंक सोडियम हाइड्रॉक्साइड से क्रिया करके सोडियम जिंकेट और हाइड्रोजन गैस बनाता है। अभिक्रिया: Zn + 2NaOH → Na₂ZnO₂ + H₂↑. यह जिंक की उभयधर्मी प्रकृति दर्शाता है।"
+      }
     },
     {
       "question_name": {
@@ -121,67 +141,79 @@
       },
       "option": {
         "english": [
-          "Presence of OH⁻",
           "High pH",
+          "Presence of OH⁻",
           "Electrical conductivity",
           "Bitter taste"
         ],
         "hindi": [
-          "OH⁻ की उपस्थिति",
           "उच्च pH",
+          "OH⁻ की उपस्थिति",
           "विद्युत चालकता",
           "कड़वा स्वाद"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The hydroxide ions (OH⁻) in bases react with oils on our skin to form soap-like substances through saponification. This gives bases their characteristic slippery feel.",
+        "hindi": "क्षारों में मौजूद हाइड्रॉक्साइड आयन (OH⁻) हमारी त्वचा के तेल से क्रिया करके साबुनीकरण द्वारा साबुन जैसे पदार्थ बनाते हैं। इससे क्षारों में फिसलन वाला गुण आता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas is produced when Na₂CO₃ reacts with HCl?",
-        "hindi": "Na₂CO₃ जब HCl से अभिक्रिया करता है तो कौन सी गैस बनती है?"
+        "english": "What makes bleaching powder unique compared to other chlorine compounds?",
+        "hindi": "ब्लीचिंग पाउडर को अन्य क्लोरीन यौगिकों से क्या विशेष बनाता है?"
       },
       "option": {
         "english": [
-          "CO₂",
-          "H₂",
-          "O₂",
-          "Cl₂"
+          "Contains both Ca²⁺ and OCl⁻",
+          "Stable at room temperature",
+          "Releases chlorine slowly",
+          "Forms basic solution"
         ],
         "hindi": [
-          "CO₂",
-          "H₂",
-          "O₂",
-          "Cl₂"
+          "Ca²⁺ और OCl⁻ दोनों युक्त",
+          "कमरे के तापमान पर स्थिर",
+          "धीरे-धीरे क्लोरीन छोड़ता है",
+          "क्षारीय विलयन बनाता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium", 
+      "explanation": {
+        "english": "Bleaching powder (CaOCl₂) is unique because it contains both Ca²⁺ and OCl⁻ ions in a stable form. The formula can be written as Ca(OCl)Cl, showing it has both oxidizing chlorine (OCl⁻) and ionic chlorine (Cl⁻), making it effective for both bleaching and disinfection.",
+        "hindi": "ब्लीचिंग पाउडर (CaOCl₂) विशेष है क्योंकि इसमें Ca²⁺ और OCl⁻ दोनों आयन स्थिर रूप में मौजूद हैं। इसका सूत्र Ca(OCl)Cl के रूप में लिखा जा सकता है, जो दर्शाता है कि इसमें ऑक्सीकरण क्लोरीन (OCl⁻) और आयनिक क्लोरीन (Cl⁻) दोनों हैं, जो इसे विरंजन और कीटाणुनाशन दोनों के लिए प्रभावी बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the pH of a solution with [OH⁻] = 1×10⁻³ M?",
-        "hindi": "[OH⁻] = 1×10⁻³ M वाले विलयन का pH क्या होगा?"
+        "english": "What is the main use of bleaching powder in water treatment?",
+        "hindi": "जल शोधन में ब्लीचिंग पाउडर का मुख्य उपयोग क्या है?"
       },
       "option": {
         "english": [
-          "3",
-          "11",
-          "7",
-          "14"
+          "To remove hardness",
+          "To adjust pH",
+          "To remove color",
+          "To kill germs"
         ],
         "hindi": [
-          "3",
-          "11",
-          "7",
-          "14"
+          "कठोरता हटाने के लिए",
+          "pH समायोजित करने के लिए",
+          "रंग हटाने के लिए",
+          "कीटाणुओं को मारने के लिए"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Bleaching powder releases chlorine in water: CaOCl₂ + H₂O → Ca(OH)₂ + Cl₂. This chlorine acts as a disinfectant and kills harmful bacteria and germs.",
+        "hindi": "ब्लीचिंग पाउडर पानी में क्लोरीन छोड़ता है: CaOCl₂ + H₂O → Ca(OH)₂ + Cl₂. यह क्लोरीन कीटाणुनाशक का काम करती है और हानिकारक बैक्टीरिया और कीटाणुओं को मारती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Copper is less reactive than hydrogen, so it cannot displace H₂ from acids. Other metals like Zn, Fe, Mg are more reactive and form salt + H₂: Zn + 2HCl → ZnCl₂ + H₂↑",
+        "hindi": "तांबा हाइड्रोजन से कम क्रियाशील है, इसलिए यह अम्लों से H₂ को विस्थापित नहीं कर सकता। Zn, Fe, Mg जैसी अन्य धातुएं अधिक क्रियाशील हैं और लवण + H₂ बनाती हैं: Zn + 2HCl → ZnCl₂ + H₂↑"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Baking soda (NaHCO₃) is made using carbonic acid (H₂CO₃). NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃. This process is called Solvay process.",
+        "hindi": "बेकिंग सोडा (NaHCO₃) कार्बोनिक एसिड (H₂CO₃) का उपयोग करके बनाया जाता है। NaCl + H₂O + CO₂ + NH₃ → NH₄Cl + NaHCO₃. इस प्रक्रिया को सोल्वे प्रक्रिया कहते हैं।"
+      }
     }
 ]

@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which gland is called the master gland?",
-        "hindi": "किस ग्रंथि को मास्टर ग्रंथि कहा जाता है?"
-      },
-      "option": {
-        "english": [
-          "Pituitary",
-          "Thyroid",
-          "Pancreas",
-          "Adrenal"
-        ],
-        "hindi": [
-          "पीयूष",
-          "थायरॉइड",
-          "अग्न्याशय",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which part of brain is responsible for maintaining posture?",
+      "hindi": "शरीर की मुद्रा बनाए रखने के लिए मस्तिष्क का कौन सा भाग जिम्मेदार है?"
     },
-    {
-      "question_name": {
-        "english": "Which hormone is responsible for fight or flight response?",
-        "hindi": "लड़ो या भागो प्रतिक्रिया के लिए कौन सा हार्मोन जिम्मेदार है?"
-      },
-      "option": {
-        "english": [
-          "Thyroxine",
-          "Adrenaline",
-          "Insulin",
-          "Growth hormone"
-        ],
-        "hindi": [
-          "थायरॉक्सिन",
-          "एड्रेनालिन",
-          "इंसुलिन",
-          "वृद्धि हार्मोन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Cerebellum",
+        "Pons", 
+        "Medulla",
+        "Cerebrum"
+      ],
+      "hindi": [
+        "सेरेबेलम",
+        "पोंस",
+        "मेडुला", 
+        "सेरेब्रम"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the function of hypothalamus?",
-        "hindi": "हाइपोथैलेमस का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Memory",
-          "Balance",
-          "Vision",
-          "Body temperature"
-        ],
-        "hindi": [
-          "स्मृति",
-          "संतुलन",
-          "दृष्टि",
-          "शरीर का तापमान"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which plant hormone promotes stem elongation?",
-        "hindi": "कौन सा पादप हार्मोन तना लंबाई को बढ़ावा देता है?"
-      },
-      "option": {
-        "english": [
-          "Ethylene",
-          "Abscisic acid",
-          "Gibberellin",
-          "Cytokinin"
-        ],
-        "hindi": [
-          "एथिलीन",
-          "एब्सिसिक एसिड",
-          "जिबरेलिन",
-          "साइटोकाइनिन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which part of brain controls involuntary actions?",
-        "hindi": "मस्तिष्क का कौन सा भाग अनैच्छिक क्रियाओं को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Cerebrum",
-          "Cerebellum",
-          "Pons"
-        ],
-        "hindi": [
-          "मेडुला",
-          "सेरेब्रम",
-          "सेरेबेलम",
-          "पोंस"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of auxins in phototropism?",
-        "hindi": "प्रकाशानुवर्तन में ऑक्सिन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Root growth",
-          "Leaf fall",
-          "Stem bending",
-          "Fruit ripening"
-        ],
-        "hindi": [
-          "जड़ वृद्धि",
-          "पत्ती गिरना",
-          "तना मुड़ना",
-          "फल पकना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What happens during synaptic transmission?",
-        "hindi": "सिनैप्टिक संचरण के दौरान क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "Blood flow",
-          "Hormone release",
-          "Muscle contraction",
-          "Chemical transfer"
-        ],
-        "hindi": [
-          "रक्त प्रवाह",
-          "हार्मोन स्राव",
-          "मांसपेशी संकुचन",
-          "रासायनिक स्थानांतरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which hormone is responsible for water reabsorption in kidneys?",
-        "hindi": "गुर्दे में जल के पुनरावशोषण के लिए कौन सा हार्मोन जिम्मेदार है?"
-      },
-      "option": {
-        "english": [
-          "ADH",
-          "Insulin",
-          "Thyroxine",
-          "Cortisol"
-        ],
-        "hindi": [
-          "एडीएच",
-          "इंसुलिन",
-          "थायरॉक्सिन",
-          "कॉर्टिसोल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which gland becomes overactive in Graves' disease?",
-        "hindi": "ग्रेव्स रोग में कौन सी ग्रंथि अधिक सक्रिय हो जाती है?"
-      },
-      "option": {
-        "english": [
-          "Thyroid",
-          "Pituitary",
-          "Pancreas",
-          "Adrenal"
-        ],
-        "hindi": [
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Which plant hormone inhibits lateral bud growth?",
-        "hindi": "कौन सा पादप हार्मोन पार्श्व कली की वृद्धि को रोकता है?"
-      },
-      "option": {
-        "english": [
-          "Cytokinin",
-          "Ethylene",
-          "Auxin",
-          "Gibberellin"
-        ],
-        "hindi": [
-          "साइटोकाइनिन",
-          "एथिलीन",
-          "ऑक्सिन",
-          "जिबरेलिन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The cerebellum is located at the back of the brain and helps maintain balance and posture. It coordinates our movements and helps us stand, walk and sit properly. Think of it as the body's balance control center.",
+      "hindi": "सेरेबेलम मस्तिष्क के पिछले भाग में स्थित होता है और संतुलन और मुद्रा बनाए रखने में मदद करता है। यह हमारी गतिविधियों का समन्वय करता है और हमें सही तरीके से खड़े होने, चलने और बैठने में मदद करता है। इसे शरीर का संतुलन नियंत्रण केंद्र समझें।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "What type of response is blinking of eyes when bright light falls on them?",
+      "hindi": "तेज रोशनी पड़ने पर आंखों का झपकना किस प्रकार की प्रतिक्रिया है?"
+    },
+    "option": {
+      "english": [
+        "Voluntary action",
+        "Reflex action",
+        "Learned action",
+        "Planned action"
+      ],
+      "hindi": [
+        "ऐच्छिक क्रिया",
+        "प्रतिवर्त क्रिया",
+        "सीखी गई क्रिया",
+        "योजनाबद्ध क्रिया"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Eye blinking when bright light falls is a reflex action - an automatic, involuntary response to protect our eyes. We don't need to think about it, our body does it automatically. Just like when we touch something hot, we quickly pull our hand away without thinking.",
+      "hindi": "तेज रोशनी पड़ने पर आंखों का झपकना एक प्रतिवर्त क्रिया है - यह आंखों की सुरक्षा के लिए एक स्वचालित, अनैच्छिक प्रतिक्रिया है। हमें इसके बारे में सोचने की जरूरत नहीं होती, हमारा शरीर इसे अपने आप करता है। बिल्कुल वैसे ही जैसे जब हम कुछ गर्म छूते हैं, तो बिना सोचे हाथ पीछे खींच लेते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What happens when we touch a hot object?",
+      "hindi": "जब हम किसी गर्म वस्तु को छूते हैं तो क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Think and then respond",
+        "No response",
+        "Slow response",
+        "Immediate withdrawal"
+      ],
+      "hindi": [
+        "सोचकर प्रतिक्रिया करना",
+        "तुरंत हाथ हटाना",
+        "कोई प्रतिक्रिया नहीं",
+        "तुरंत हाथ हटाना"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When we touch something hot, our body immediately withdraws without thinking. This is a reflex action to prevent injury. The message goes from our skin to spinal cord and back to muscles, bypassing the brain for quick response.",
+      "hindi": "जब हम कोई गर्म वस्तु छूते हैं, तो हमारा शरीर बिना सोचे तुरंत हाथ पीछे खींच लेता है। यह चोट से बचने के लिए एक प्रतिवर्त क्रिया है। संदेश हमारी त्वचा से रीढ़ की हड्डी तक और वापस मांसपेशियों तक जाता है, तेज प्रतिक्रिया के लिए मस्तिष्क को छोड़कर।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which movement in plants is independent of growth?",
+      "hindi": "पौधों में कौन सी गति वृद्धि से स्वतंत्र होती है?"
+    },
+    "option": {
+      "english": [
+        "Phototropism",
+        "Geotropism",
+        "Nastic movement",
+        "Hydrotropism"
+      ],
+      "hindi": [
+        "प्रकाशानुवर्तन",
+        "गुरुत्वानुवर्तन",
+        "अनुवर्तन गति",
+        "जलानुवर्तन"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Nastic movements are quick responses in plants that don't involve growth. For example, touch-me-not plant leaves folding when touched, or flowers closing at night. These movements are temporary and reversible, unlike growth movements like bending towards light.",
+      "hindi": "अनुवर्तन गति पौधों में तेज प्रतिक्रियाएं हैं जो वृद्धि से जुड़ी नहीं होतीं। उदाहरण के लिए, छूने पर छुई-मुई की पत्तियों का मुड़ना, या रात में फूलों का बंद होना। ये गतियां अस्थायी और उलट सकने वाली होती हैं, प्रकाश की ओर झुकने जैसी वृद्धि गतियों के विपरीत।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of axon in a neuron?",
+      "hindi": "न्यूरॉन में एक्सॉन का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Conduct impulses",
+        "Store information",
+        "Produce energy",
+        "Filter waste"
+      ],
+      "hindi": [
+        "आवेग संचालन",
+        "सूचना संग्रह",
+        "ऊर्जा उत्पादन",
+        "अपशिष्ट छानना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The axon is like a long wire in a neuron that carries electrical messages (impulses) from one end to another. Just like a wire carries electricity in your house, axon carries messages in your body from one nerve cell to another or to muscles.",
+      "hindi": "एक्सॉन न्यूरॉन में एक लंबी तार की तरह होता है जो एक सिरे से दूसरे सिरे तक विद्युत संदेश (आवेग) ले जाता है। बिल्कुल वैसे ही जैसे तार आपके घर में बिजली ले जाती है, एक्सॉन आपके शरीर में एक तंत्रिका कोशिका से दूसरी तक या मांसपेशियों तक संदेश ले जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of brain interprets taste?",
+      "hindi": "मस्तिष्क का कौन सा भाग स्वाद की व्याख्या करता है?"
+    },
+    "option": {
+      "english": [
+        "Medulla",
+        "Pons",
+        "Cerebrum",
+        "Cerebellum"
+      ],
+      "hindi": [
+        "मेडुला",
+        "पोंस",
+        "सेरेब्रम",
+        "सेरेबेलम"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The cerebrum is the largest part of the brain that helps us think, remember and feel sensations. It has special areas that understand different tastes like sweet, sour, salty, and bitter when signals come from our tongue.",
+      "hindi": "सेरेब्रम मस्तिष्क का सबसे बड़ा भाग है जो हमें सोचने, याद रखने और संवेदनाओं को महसूस करने में मदद करता है। इसमें विशेष क्षेत्र होते हैं जो जीभ से आने वाले संकेतों के आधार पर मीठा, खट्टा, नमकीन और कड़वा जैसे विभिन्न स्वादों को समझते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of tissue connects neurons to muscles?",
+      "hindi": "कौन सा ऊतक न्यूरॉन्स को मांसपेशियों से जोड़ता है?"
+    },
+    "option": {
+      "english": [
+        "Blood vessels",
+        "Tendons",
+        "Ligaments",
+        "Nerve endings"
+      ],
+      "hindi": [
+        "रक्त वाहिकाएं",
+        "कंडराएं",
+        "स्नायु",
+        "तंत्रिका अंत"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Nerve endings are special structures at the end of neurons that connect to muscles. They are like tiny messengers that tell muscles when to move by releasing chemical signals. This connection helps us move our body parts when we want to.",
+      "hindi": "तंत्रिका अंत न्यूरॉन के अंत में विशेष संरचनाएं हैं जो मांसपेशियों से जुड़ती हैं। ये छोटे संदेशवाहक की तरह होते हैं जो रासायनिक संकेत छोड़कर मांसपेशियों को बताते हैं कि कब हिलना है। यह कनेक्शन हमें अपने शरीर के अंगों को इच्छानुसार हिलाने में मदद करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which movement helps plants climb up support?",
+      "hindi": "कौन सी गति पौधों को सहारे पर चढ़ने में मदद करती है?"
+    },
+    "option": {
+      "english": [
+        "Tendril coiling",
+        "Thigmotropism",
+        "Phototropism",
+        "Geotropism"
+      ],
+      "hindi": [
+        "प्रतान कुंडलन",
+        "स्पर्शानुवर्तन",
+        "प्रकाशानुवर्तन",
+        "गुरुत्वानुवर्तन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Thigmotropism is the movement of plants in response to touch. When climbing plants like peas touch a support, they grow and bend around it. This helps them climb up and get better access to sunlight. It's like the plant feeling its way up a support.",
+      "hindi": "स्पर्शानुवर्तन स्पर्श के प्रति पौधों की गति है। जब मटर जैसे चढ़ने वाले पौधे किसी सहारे को छूते हैं, तो वे उसके चारों ओर बढ़ते और मुड़ते हैं। यह उन्हें ऊपर चढ़ने और धूप तक बेहतर पहुंच प्राप्त करने में मदद करता है। यह ऐसा है जैसे पौधा सहारे पर अपना रास्ता महसूस कर रहा हो।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What happens during a synapse?",
+      "hindi": "सिनैप्स के दौरान क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Chemical transfer",
+        "Blood flow",
+        "Energy production",
+        "Muscle contraction"
+      ],
+      "hindi": [
+        "रासायनिक स्थानांतरण",
+        "रक्त प्रवाह",
+        "ऊर्जा उत्पादन",
+        "मांसपेशी संकुचन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "During a synapse, chemical messages pass from one nerve cell to another. Think of it like passing a note between two friends - one nerve cell releases chemicals that the next nerve cell receives. This is how messages travel through our nervous system.",
+      "hindi": "सिनैप्स के दौरान, एक तंत्रिका कोशिका से दूसरी में रासायनिक संदेश पास होते हैं। इसे दो दोस्तों के बीच एक नोट पास करने की तरह समझें - एक तंत्रिका कोशिका रसायन छोड़ती है जिसे अगली तंत्रिका कोशिका प्राप्त करती है। इसी तरह संदेश हमारी तंत्रिका तंत्र में यात्रा करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of brain controls emotions?",
+      "hindi": "मस्तिष्क का कौन सा भाग भावनाओं को नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Medulla",
+        "Cerebellum",
+        "Cerebrum",
+        "Hypothalamus"
+      ],
+      "hindi": [
+        "मेडुला",
+        "सेरेबेलम",
+        "सेरेब्रम",
+        "हाइपोथैलेमस"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "The cerebrum controls our emotions, along with thinking and memory. It helps us feel happy, sad, angry, or scared. Different parts of the cerebrum work together to understand and respond to situations with appropriate emotions.",
+      "hindi": "सेरेब्रम सोचने और याददाश्त के साथ-साथ हमारी भावनाओं को नियंत्रित करता है। यह हमें खुश, दुखी, गुस्सा या डरा हुआ महसूस करने में मदद करता है। सेरेब्रम के विभिन्न भाग परिस्थितियों को समझने और उचित भावनाओं के साथ प्रतिक्रिया करने के लिए एक साथ काम करते हैं।"
+    }
+  }
+]

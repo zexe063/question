@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What is the function of villi in intestine?",
-        "hindi": "आंत में कूपिकाओं का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Secrete enzymes",
-          "Increase absorption area",
-          "Store nutrients",
-          "Filter blood"
-        ],
-        "hindi": [
-          "एंजाइम स्रावित करना",
-          "अवशोषण क्षेत्र बढ़ाना",
-          "पोषक तत्वों का संग्रह",
-          "रक्त छानना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the function of villi in the intestine?",
+      "hindi": "आंत में विल्ली (villi) का क्या कार्य है?"
     },
-    {
-      "question_name": {
-        "english": "Which blood cells help in immunity?",
-        "hindi": "कौन सी रक्त कोशिकाएं प्रतिरक्षा में मदद करती हैं?"
-      },
-      "option": {
-        "english": [
-          "Red blood cells",
-          "White blood cells",
-          "Platelets",
-          "Plasma cells"
-        ],
-        "hindi": [
-          "लाल रक्त कोशिकाएं",
-          "श्वेत रक्त कोशिकाएं",
-          "प्लेटलेट्स",
-          "प्लाज्मा कोशिकाएं"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Secrete enzymes",
+        "Increase absorption area",
+        "Store nutrients",
+        "Filter blood"
+      ],
+      "hindi": [
+        "एंजाइम स्रावित करना",
+        "अवशोषण क्षेत्र बढ़ाना",
+        "पोषक तत्वों का संग्रह",
+        "रक्त छानना"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the role of root hairs?",
-        "hindi": "मूल रोमों की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Support plant",
-          "Store food",
-          "Absorb water",
-          "Produce hormones"
-        ],
-        "hindi": [
-          "पौधे को सहारा",
-          "भोजन संग्रह",
-          "जल अवशोषण",
-          "हार्मोन उत्पादन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which enzyme digests proteins in stomach?",
-        "hindi": "आमाशय में कौन सा एंजाइम प्रोटीन को पचाता है?"
-      },
-      "option": {
-        "english": [
-          "Amylase",
-          "Lipase",
-          "Pepsin",
-          "Trypsin"
-        ],
-        "hindi": [
-          "एमाइलेज",
-          "लाइपेज",
-          "पेप्सिन",
-          "ट्रिप्सिन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of plasma?",
-        "hindi": "प्लाज्मा का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Transport nutrients",
-          "Fight infection",
-          "Clot blood",
-          "Carry oxygen"
-        ],
-        "hindi": [
-          "पोषक तत्वों का परिवहन",
-          "संक्रमण से लड़ना",
-          "रक्त का थक्का जमाना",
-          "ऑक्सीजन ले जाना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "How does water enter leaf cells?",
-        "hindi": "जल पत्ती की कोशिकाओं में कैसे प्रवेश करता है?"
-      },
-      "option": {
-        "english": [
-          "Through stomata",
-          "By osmosis",
-          "Through cuticle",
-          "By active transport"
-        ],
-        "hindi": [
-          "रंध्रों से",
-          "परासरण से",
-          "क्यूटिकल से",
-          "सक्रिय परिवहन से"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What causes the pulse in arteries?",
-        "hindi": "धमनियों में नब्ज किस कारण होती है?"
-      },
-      "option": {
-        "english": [
-          "Heart contraction",
-          "Blood pressure",
-          "Elastic walls",
-          "Valve action"
-        ],
-        "hindi": [
-          "हृदय संकुचन",
-          "रक्तचाप",
-          "लोचदार दीवारें",
-          "वाल्व क्रिया"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What regulates the heart beat?",
-        "hindi": "हृदय की धड़कन को क्या नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Brain",
-          "SA node",
-          "Nerves",
-          "Hormones"
-        ],
-        "hindi": [
-          "मस्तिष्क",
-          "SA नोड",
-          "तंत्रिकाएं",
-          "हार्मोन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "How is blood pH maintained in body?",
-        "hindi": "शरीर में रक्त का pH कैसे नियंत्रित होता है?"
-      },
-      "option": {
-        "english": [
-          "By buffer system",
-          "By kidneys alone",
-          "By lungs alone",
-          "By liver"
-        ],
-        "hindi": [
-          "बफर तंत्र द्वारा",
-          "केवल गुर्दों द्वारा",
-          "केवल फेफड़ों द्वारा",
-          "यकृत द्वारा"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What controls the selective reabsorption in kidneys?",
-        "hindi": "गुर्दे में चयनात्मक पुनरावशोषण को क्या नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Blood pressure",
-          "Hormones",
-          "Osmotic pressure",
-          "Filtration rate"
-        ],
-        "hindi": [
-          "रक्तचाप",
-          "हार्मोन",
-          "परासरणी दाब",
-          "निस्यंदन दर"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Villi are small, finger-like projections in the small intestine that significantly increase the surface area for nutrient absorption.",
+      "hindi": "विल्ली छोटी आंत में छोटी, उंगली जैसी संरचनाएं होती हैं जो पोषक तत्वों के अवशोषण के लिए सतह क्षेत्र को काफी बढ़ा देती हैं।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which blood cells help in immunity?",
+      "hindi": "कौन सी रक्त कोशिकाएं प्रतिरक्षा में मदद करती हैं?"
+    },
+    "option": {
+      "english": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "hindi": [
+        "लाल रक्त कोशिकाएं",
+        "श्वेत रक्त कोशिकाएं",
+        "प्लेटलेट्स",
+        "प्लाज्मा कोशिकाएं"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "White blood cells, also known as leukocytes, are the primary cells of the immune system, defending the body against infections and foreign invaders.",
+      "hindi": "श्वेत रक्त कोशिकाएं, जिन्हें ल्यूकोसाइट्स भी कहा जाता है, प्रतिरक्षा प्रणाली की प्राथमिक कोशिकाएं हैं, जो संक्रमण और बाहरी आक्रमणकारियों से शरीर की रक्षा करती हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of root hairs?",
+      "hindi": "मूल रोमों की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Support plant",
+        "Store food",
+        "Absorb water and minerals",
+        "Produce hormones"
+      ],
+      "hindi": [
+        "पौधे को सहारा",
+        "भोजन संग्रह",
+        "जल और खनिज अवशोषण",
+        "हार्मोन उत्पादन"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Root hairs are tiny extensions of root epidermal cells that greatly increase the surface area for absorption of water and minerals from the soil.",
+      "hindi": "मूल रोम जड़ अधिचर्म कोशिकाओं के छोटे-छोटे विस्तार होते हैं जो मिट्टी से पानी और खनिजों के अवशोषण के लिए सतह क्षेत्र को काफी बढ़ा देते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which enzyme digests proteins in the stomach?",
+      "hindi": "आमाशय में कौन सा एंजाइम प्रोटीन को पचाता है?"
+    },
+    "option": {
+      "english": [
+        "Amylase",
+        "Lipase",
+        "Pepsin",
+        "Trypsin"
+      ],
+      "hindi": [
+        "एमाइलेज",
+        "लाइपेज",
+        "पेप्सिन",
+        "ट्रिप्सिन"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Pepsin is the primary enzyme in the stomach that breaks down proteins into smaller peptides.",
+      "hindi": "पेप्सिन आमाशय में मुख्य एंजाइम है जो प्रोटीन को छोटे पेप्टाइड्स में तोड़ता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of blood plasma?",
+      "hindi": "रक्त प्लाज्मा का क्या कार्य है?"
+    },
+    "option": {
+      "english": [
+        "Transport nutrients, hormones, and waste products",
+        "Fight infection",
+        "Clot blood",
+        "Carry oxygen"
+      ],
+      "hindi": [
+        "पोषक तत्वों, हार्मोन और अपशिष्ट उत्पादों का परिवहन",
+        "संक्रमण से लड़ना",
+        "रक्त का थक्का जमाना",
+        "ऑक्सीजन ले जाना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Blood plasma is the liquid component of blood that transports nutrients, hormones, waste products, and other substances throughout the body.",
+      "hindi": "रक्त प्लाज्मा रक्त का तरल घटक है जो पोषक तत्वों, हार्मोन, अपशिष्ट उत्पादों और अन्य पदार्थों को पूरे शरीर में पहुंचाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How does water enter leaf cells?",
+      "hindi": "जल पत्ती की कोशिकाओं में कैसे प्रवेश करता है?"
+    },
+    "option": {
+      "english": [
+        "Through stomata",
+        "By osmosis",
+        "Through cuticle",
+        "By active transport"
+      ],
+      "hindi": [
+        "रंध्रों से",
+        "परासरण से",
+        "क्यूटिकल से",
+        "सक्रिय परिवहन से"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Water enters leaf cells primarily by osmosis, moving from a region of higher water potential (xylem) to a region of lower water potential (leaf cells).",
+      "hindi": "पानी मुख्य रूप से परासरण द्वारा पत्ती की कोशिकाओं में प्रवेश करता है, उच्च जल विभव (जाइलम) के क्षेत्र से कम जल विभव (पत्ती कोशिकाओं) के क्षेत्र में जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes the pulse in arteries?",
+      "hindi": "धमनियों में नब्ज किस कारण होती है?"
+    },
+    "option": {
+      "english": [
+        "Ventricular contraction",
+        "Blood pressure",
+        "Elastic walls",
+        "Valve action"
+      ],
+      "hindi": [
+        "निलय संकुचन",
+        "रक्तचाप",
+        "लोचदार दीवारें",
+        "वाल्व क्रिया"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The pulse in arteries is caused by the pressure wave generated by the contraction of the left ventricle (ventricular systole), which forces blood into the aorta and subsequently into other arteries.",
+      "hindi": "धमनियों में नब्ज बाएं निलय के संकुचन (निलय सिस्टोल) से उत्पन्न दबाव तरंग के कारण होती है, जो रक्त को महाधमनी और उसके बाद अन्य धमनियों में धकेलती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What regulates the heart beat?",
+      "hindi": "हृदय की धड़कन को क्या नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Brain",
+        "Sinoatrial (SA) node",
+        "Nerves",
+        "Hormones"
+      ],
+      "hindi": [
+        "मस्तिष्क",
+        "सिनोट्रायल (SA) नोड",
+        "तंत्रिकाएं",
+        "हार्मोन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The sinoatrial (SA) node, also known as the pacemaker of the heart, is a group of specialized cells in the right atrium that generates electrical impulses, setting the rhythm and regulating the heart beat.",
+      "hindi": "सिनोट्रायल (SA) नोड, जिसे हृदय का पेसमेकर भी कहा जाता है, दाएं अलिंद में विशेष कोशिकाओं का एक समूह है जो विद्युत आवेग उत्पन्न करता है, लय सेट करता है और हृदय की धड़कन को नियंत्रित करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How is blood pH maintained in the body?",
+      "hindi": "शरीर में रक्त का pH कैसे बना रहता है?"
+    },
+    "option": {
+      "english": [
+        "By the combined action of buffer systems, the respiratory system, and the kidneys",
+        "By kidneys alone",
+        "By lungs alone",
+        "By liver"
+      ],
+      "hindi": [
+        "बफर सिस्टम, श्वसन तंत्र और गुर्दे की संयुक्त क्रिया द्वारा",
+        "केवल गुर्दे द्वारा",
+        "केवल फेफड़ों द्वारा",
+        "यकृत द्वारा"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Blood pH is maintained within a narrow range by the combined action of buffer systems (e.g., bicarbonate buffer), the respiratory system (regulating CO2 levels), and the kidneys (excreting H+ ions and reabsorbing bicarbonate).",
+      "hindi": "रक्त का pH बफर सिस्टम (जैसे, बाइकार्बोनेट बफर), श्वसन तंत्र (CO2 के स्तर को नियंत्रित करना), और गुर्दे (H+ आयनों का उत्सर्जन और बाइकार्बोनेट का पुन:अवशोषण) की संयुक्त क्रिया द्वारा एक संकीर्ण सीमा के भीतर बनाए रखा जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What controls the selective reabsorption in kidneys?",
+      "hindi": "गुर्दे में चयनात्मक पुनरावशोषण को क्या नियंत्रित करता है?"
+    },
+    "option": {
+      "english": [
+        "Blood pressure",
+        "Hormones",
+        "Osmotic pressure",
+        "Filtration rate"
+      ],
+      "hindi": [
+        "रक्तचाप",
+        "हार्मोन",
+        "परासरणी दाब",
+        "निस्पंदन दर"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Selective reabsorption in the kidneys, particularly in the proximal and distal convoluted tubules, is regulated by various hormones, including antidiuretic hormone (ADH), aldosterone, and parathyroid hormone (PTH).",
+      "hindi": "गुर्दे में चयनात्मक पुन:अवशोषण, विशेष रूप से समीपस्थ और दूरस्थ संवलित नलिकाओं में, एंटीडाययूरेटिक हार्मोन (ADH), एल्डोस्टेरोन और पैराथाइरॉइड हार्मोन (PTH) सहित विभिन्न हार्मोनों द्वारा नियंत्रित होता है।"
+    }
+  }
+]

@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -8,7 +7,7 @@
       "option": {
         "english": [
           "Store eggs",
-          "Filter blood",
+          "Filter blood", 
           "Host embryo",
           "Produce hormones"
         ],
@@ -20,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The uterus is a pear-shaped organ in females that hosts and nourishes the developing embryo during pregnancy. It provides a safe environment with rich blood supply for the baby to grow.",
+        "hindi": "गर्भाशय महिलाओं में एक नाशपाती के आकार का अंग है जो गर्भावस्था के दौरान विकसित भ्रूण को आश्रय और पोषण प्रदान करता है। यह बच्चे के विकास के लिए रक्त की समृद्ध आपूर्ति के साथ एक सुरक्षित वातावरण प्रदान करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -37,82 +40,97 @@
         ],
         "hindi": [
           "प्रोजेस्टेरोन",
-          "एस्ट्रोजन",
+          "एस्ट्रोजन", 
           "FSH",
           "LH"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Progesterone is crucial for maintaining the uterine lining during pregnancy. It helps prepare and maintain the uterus for potential pregnancy by promoting endometrial growth.",
+        "hindi": "प्रोजेस्टेरोन गर्भावस्था के दौरान गर्भाशय की परत को बनाए रखने के लिए महत्वपूर्ण है। यह एंडोमेट्रियल वृद्धि को बढ़ावा देकर संभावित गर्भावस्था के लिए गर्भाशय को तैयार करने और बनाए रखने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of sperm mitochondria?",
-        "hindi": "शुक्राणु माइटोकॉन्ड्रिया की क्या भूमिका है?"
+        "english": "What gives sperm cells energy to move?",
+        "hindi": "शुक्राणु कोशिकाओं को चलने की ऊर्जा कहाँ से मिलती है?"
       },
       "option": {
         "english": [
-          "DNA storage",
-          "Energy production",
-          "Movement",
-          "Enzyme release"
+          "Glucose",
+          "Fructose",
+          "Protein",
+          "Fat"
         ],
         "hindi": [
-          "DNA संग्रह",
-          "ऊर्जा उत्पादन",
-          "गति",
-          "एंजाइम स्राव"
+          "ग्लूकोज",
+          "फ्रक्टोज",
+          "प्रोटीन",
+          "वसा"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Fructose, provided by seminal fluid, is the main energy source for sperm cells. It helps them swim and stay active while trying to reach the egg for fertilization.",
+        "hindi": "वीर्य द्रव द्वारा प्रदान किया गया फ्रक्टोज, शुक्राणु कोशिकाओं का मुख्य ऊर्जा स्रोत है। यह उन्हें निषेचन के लिए अंडे तक पहुंचने की कोशिश करते समय तैरने और सक्रिय रहने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the function of allantois?",
-        "hindi": "अलैंटॉइस का क्या कार्य है?"
+        "english": "Which vitamin is important for reproductive health?",
+        "hindi": "प्रजनन स्वास्थ्य के लिए कौन सा विटामिन महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Nutrient storage",
-          "Hormone production",
-          "Waste storage",
-          "Gas exchange"
+          "Vitamin C",
+          "Vitamin E",
+          "Vitamin A",
+          "Vitamin D"
         ],
         "hindi": [
-          "पोषक तत्व संग्रह",
-          "हार्मोन उत्पादन",
-          "अपशिष्ट संग्रह",
-          "गैस विनिमय"
+          "विटामिन C",
+          "विटामिन E",
+          "विटामिन A",
+          "विटामिन D"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Vitamin D is essential for reproductive health as it helps regulate hormones, supports fertility, and is important for the development of reproductive organs. It also helps in calcium absorption which is crucial during pregnancy.",
+        "hindi": "विटामिन D प्रजनन स्वास्थ्य के लिए आवश्यक है क्योंकि यह हार्मोन को नियंत्रित करने में मदद करता है, प्रजनन क्षमता का समर्थन करता है, और प्रजनन अंगों के विकास के लिए महत्वपूर्ण है। यह कैल्शियम के अवशोषण में भी मदद करता है जो गर्भावस्था के दौरान महत्वपूर्ण होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of Leydig cells?",
-        "hindi": "लीडिग कोशिकाओं की क्या भूमिका है?"
+        "english": "What helps prevent sexually transmitted diseases?",
+        "hindi": "यौन संचारित रोगों को कैसे रोका जा सकता है?"
       },
       "option": {
         "english": [
-          "Sperm storage",
-          "Sperm transport",
-          "Testosterone production",
-          "Sperm nutrition"
+          "Regular exercise",
+          "Healthy diet",
+          "Using protection",
+          "Taking vitamins"
         ],
         "hindi": [
-          "शुक्राणु संग्रह",
-          "शुक्राणु परिवहन",
-          "टेस्टोस्टेरोन उत्पादन",
-          "शुक्राणु पोषण"
+          "नियमित व्यायाम",
+          "स्वस्थ आहार",
+          "सुरक्षा का उपयोग",
+          "विटामिन लेना"
         ]
       },
       "answer": 2,
-      "image": null,
+      "explanation": {
+        "english": "Using protection like condoms is the most effective way to prevent STDs. They create a barrier that prevents direct contact and the transmission of infections between partners.",
+        "hindi": "कंडोम जैसे सुरक्षा साधनों का उपयोग यौन संचारित रोगों को रोकने का सबसे प्रभावी तरीका है। वे एक बाधा बनाते हैं जो साथियों के बीच सीधे संपर्क और संक्रमण के प्रसार को रोकती है।"
+      },
       "medium": "medium"
     },
     {
@@ -135,6 +153,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Menopause occurs due to declining estrogen levels as women age. This natural process happens when the ovaries gradually produce less estrogen, leading to the end of menstrual cycles.",
+        "hindi": "उम्र के साथ एस्ट्रोजन के स्तर में कमी के कारण रजोनिवृत्ति होती है। यह प्राकृतिक प्रक्रिया तब होती है जब अंडाशय धीरे-धीरे कम एस्ट्रोजन का उत्पादन करते हैं, जिससे मासिक धर्म चक्र समाप्त हो जाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -158,53 +180,63 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Cervical mucus helps sperm cells move through the reproductive tract. During ovulation, it becomes thinner and more slippery to facilitate sperm movement towards the egg.",
+        "hindi": "सर्विकल म्यूकस शुक्राणु कोशिकाओं को प्रजनन पथ से गुजरने में मदद करता है। अंडोत्सर्ग के दौरान, यह अंडे की ओर शुक्राणु की गति को सुगम बनाने के लिए पतला और अधिक फिसलन वाला हो जाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the role of cumulus cells?",
-        "hindi": "क्यूमुलस कोशिकाओं की क्या भूमिका है?"
+        "english": "What causes teenage pregnancy risks?",
+        "hindi": "किशोरावस्था में गर्भावस्था के जोखिम का क्या कारण है?"
       },
       "option": {
         "english": [
-          "Hormone production",
-          "Waste removal",
-          "Egg protection",
-          "Sperm guidance"
+          "Poor diet",
+          "Less exercise",
+          "Lack of sleep",
+          "Immature body"
         ],
         "hindi": [
-          "हार्मोन उत्पादन",
-          "अपशिष्ट निष्कासन",
-          "अंडे की सुरक्षा",
-          "शुक्राणु मार्गदर्शन"
+          "खराब आहार",
+          "कम व्यायाम",
+          "नींद की कमी",
+          "अपरिपक्व शरीर"
         ]
       },
       "answer": 3,
-      "image": null,
+      "explanation": {
+        "english": "Teenage pregnancy is risky because the body is not fully mature. The reproductive system and pelvis are still developing, which can lead to complications during pregnancy and childbirth.",
+        "hindi": "किशोरावस्था में गर्भावस्था जोखिम भरी होती है क्योंकि शरीर पूरी तरह से परिपक्व नहीं होता है। प्रजनन प्रणाली और श्रोणि अभी भी विकसित हो रहे होते हैं, जिससे गर्भावस्था और प्रसव के दौरान जटिलताएं हो सकती हैं।"
+      },
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the function of decidua?",
-        "hindi": "डेसीड्युआ का क्या कार्य है?"
+        "english": "What is the importance of colostrum?",
+        "hindi": "कोलोस्ट्रम (पीयूष) का क्या महत्व है?"
       },
       "option": {
         "english": [
-          "Hormone storage",
-          "Nutrient transport",
-          "Embryo support",
-          "Waste removal"
+          "Energy source",
+          "Fluid balance",
+          "Provides immunity",
+          "Temperature control"
         ],
         "hindi": [
-          "हार्मोन संग्रह",
-          "पोषक तत्व परिवहन",
-          "भ्रूण सहायता",
-          "अपशिष्ट निष्कासन"
+          "ऊर्जा स्रोत",
+          "द्रव संतुलन",
+          "रोग प्रतिरोधक क्षमता प्रदान करता है",
+          "तापमान नियंत्रण"
         ]
       },
       "answer": 2,
-      "image": null,
+      "explanation": {
+        "english": "Colostrum is the first milk produced after birth that contains high levels of antibodies. It helps protect newborns from infections by providing them with their first immunity boost.",
+        "hindi": "कोलोस्ट्रम जन्म के बाद का पहला दूध है जिसमें एंटीबॉडी का उच्च स्तर होता है। यह नवजात शिशुओं को उनकी पहली प्रतिरक्षा बढ़ाकर संक्रमण से बचाने में मदद करता है।"
+      },
       "medium": "hard"
     },
     {
@@ -227,7 +259,11 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Milk production stops when prolactin levels decrease. Prolactin is the hormone responsible for milk production, and when its levels fall, milk production naturally decreases and eventually stops.",
+        "hindi": "जब प्रोलैक्टिन का स्तर कम होता है तो दूध का उत्पादन रुक जाता है। प्रोलैक्टिन दूध उत्पादन के लिए जिम्मेदार हार्मोन है, और जब इसका स्तर गिरता है, तो दूध का उत्पादन स्वाभाविक रूप से कम हो जाता है और अंततः रुक जाता है।"
+      },
       "image": null,
       "medium": "hard"
     }
-  ]
+]

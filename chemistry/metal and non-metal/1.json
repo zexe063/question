@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Copper is used in making electric wires because it is an excellent conductor of electricity and is relatively inexpensive compared to other metals like silver. It also has good ductility which means it can be easily drawn into wires.",
+        "hindi": "तांबे का उपयोग विद्युत तारों को बनाने में किया जाता है क्योंकि यह विद्युत का एक उत्कृष्ट चालक है और चांदी जैसी अन्य धातुओं की तुलना में सस्ता है। इसमें अच्छी तन्यता भी होती है जिसका अर्थ है कि इसे आसानी से तार में खींचा जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Aluminum is commonly used in making utensils because it is lightweight, a good conductor of heat, does not rust, and is relatively inexpensive. It also forms a protective oxide layer that prevents further corrosion.",
+        "hindi": "एल्युमिनियम का उपयोग बर्तन बनाने में किया जाता है क्योंकि यह हल्का होता है, ऊष्मा का अच्छा चालक है, इस पर जंग नहीं लगता, और यह अपेक्षाकृत सस्ता होता है। यह एक सुरक्षात्मक ऑक्साइड परत भी बनाता है जो आगे के संक्षारण को रोकता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Gold is the most malleable metal, meaning it can be hammered into very thin sheets without breaking. One gram of gold can be beaten into a sheet of 1 square meter. This property makes it useful in jewelry and decorative items.",
+        "hindi": "सोना सबसे अधिक आघातवर्धनीय धातु है, जिसका अर्थ है कि इसे बिना टूटे बहुत पतली चादरों में पीटा जा सकता है। सोने का एक ग्राम 1 वर्ग मीटर की चादर में पीटा जा सकता है। यह गुण इसे आभूषण और सजावटी वस्तुओं में उपयोगी बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -78,18 +90,22 @@
           "Iron",
           "Lead",
           "Zinc",
-          "Silver"
+          "Gold"
         ],
         "hindi": [
           "लोहा",
           "सीसा",
           "जस्ता",
-          "चांदी"
+          "सोना"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Gold is commonly used in making jewelry because it is precious, has a beautiful lustre, is malleable and ductile, and does not corrode easily. It can be easily shaped into different designs and maintains its shine for a long time.",
+        "hindi": "सोना का उपयोग आभूषण बनाने में किया जाता है क्योंकि यह कीमती है, इसमें सुंदर चमक होती है, यह आघातवर्धनीय और तन्य होती है, और इसमें आसानी से जंग नहीं लगता। इसे आसानी से विभिन्न डिजाइनों में ढाला जा सकता है और यह लंबे समय तक अपनी चमक बनाए रखती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Silver is the best conductor of electricity among all metals. It has the highest electrical conductivity, meaning electrons can flow through it very easily. However, due to its high cost, copper is more commonly used in electrical wiring.",
+        "hindi": "चांदी सभी धातुओं में विद्युत की सबसे अच्छी चालक है। इसमें सबसे अधिक विद्युत चालकता होती है, जिसका अर्थ है कि इलेक्ट्रॉन इसके माध्यम से बहुत आसानी से प्रवाहित हो सकते हैं। हालांकि, इसकी उच्च कीमत के कारण, विद्युत तारों में तांबे का उपयोग अधिक किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When metals react with acids, they form a salt and release hydrogen gas. For example, when zinc reacts with hydrochloric acid, it forms zinc chloride (salt) and hydrogen gas. The general equation is: Metal + Acid → Salt + Hydrogen gas.",
+        "hindi": "जब धातुएं अम्ल से अभिक्रिया करती हैं, तो वे लवण बनाती हैं और हाइड्रोजन गैस निकालती हैं। उदाहरण के लिए, जब जस्ता हाइड्रोक्लोरिक अम्ल से अभिक्रिया करता है, तो जिंक क्लोराइड (लवण) और हाइड्रोजन गैस बनती है। सामान्य समीकरण है: धातु + अम्ल → लवण + हाइड्रोजन गैस।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When metals react with oxygen, they form metal oxides. This process is called oxidation. For example, when iron reacts with oxygen, it forms iron oxide (rust). The reaction becomes faster in the presence of moisture. The general equation is: Metal + Oxygen → Metal oxide.",
+        "hindi": "जब धातुएं ऑक्सीजन से अभिक्रिया करती हैं, तो वे धातु ऑक्साइड बनाती हैं। इस प्रक्रिया को ऑक्सीकरण कहते हैं। उदाहरण के लिए, जब लोहा ऑक्सीजन से अभिक्रिया करता है, तो लोहे का ऑक्साइड (जंग) बनता है। नमी की उपस्थिति में यह अभिक्रिया तेज हो जाती है। सामान्य समीकरण है: धातु + ऑक्सीजन → धातु ऑक्साइड।"
+      }
     },
     {
       "question_name": {
@@ -169,19 +197,23 @@
         "english": [
           "Galvanization",
           "Smelting",
-          "Metallurgy",
-          "Refining"
+          "Refining",
+          "Metallurgy"
         ],
         "hindi": [
           "जस्तीकरण",
           "प्रगलन",
-          "धातुकर्म",
-          "परिष्करण"
+          "परिष्करण",
+          "धातुकर्म"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metallurgy is the process of extracting pure metals from their ores. It involves several steps like concentration of ore, reduction of ore to metal, and refining of metal. Different metals require different methods based on their reactivity and the nature of their ores.",
+        "hindi": "धातुकर्म अयस्क से शुद्ध धातु को निकालने की प्रक्रिया है। इसमें कई चरण शामिल हैं जैसे अयस्क का सांद्रण, अयस्क का धातु में अपचयन, और धातु का परिष्करण। विभिन्न धातुओं के लिए उनकी अभिक्रियाशीलता और उनके अयस्कों की प्रकृति के आधार पर अलग-अलग विधियों की आवश्यकता होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Rust has the chemical formula Fe₂O₃.xH₂O (hydrated iron oxide). It forms when iron reacts with oxygen in the presence of moisture. The 'x' in the formula represents the variable number of water molecules. Rusting is a type of corrosion that weakens iron and steel structures.",
+        "hindi": "जंग का रासायनिक सूत्र Fe₂O₃.xH₂O (जलयोजित आयरन ऑक्साइड) है। यह तब बनता है जब लोहा नमी की उपस्थिति में ऑक्सीजन से अभिक्रिया करता है। सूत्र में 'x' जल अणुओं की परिवर्तनीय संख्या को दर्शाता है। जंग लगना संक्षारण का एक प्रकार है जो लोहे और इस्पात की संरचनाओं को कमजोर कर देता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Potassium can displace all other metals from their salt solutions because it is the most reactive among these options. This is based on the reactivity series of metals, where potassium is near the top. More reactive metals can displace less reactive metals from their compounds.",
+        "hindi": "पोटैशियम अन्य सभी धातुओं को उनके लवण विलयन से विस्थापित कर सकता है क्योंकि यह इन विकल्पों में सबसे अधिक क्रियाशील है। यह धातुओं की क्रियाशीलता श्रेणी पर आधारित है, जहां पोटैशियम शीर्ष के पास है। अधिक क्रियाशील धातुएं कम क्रियाशील धातुओं को उनके यौगिकों से विस्थापित कर सकती हैं।"
+      }
     }
 ]

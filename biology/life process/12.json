@@ -1,234 +1,272 @@
-
 [
-    {
-      "question_name": {
-        "english": "A person has high blood pressure and irregular heartbeat. Which part of the heart might be affected?",
-        "hindi": "एक व्यक्ति को उच्च रक्तचाप और अनियमित हृदय गति है। हृदय का कौन सा भाग प्रभावित हो सकता है?"
-      },
-      "option": {
-        "english": [
-          "Bundle of His",
-          "AV node",
-          "Purkinje fibers",
-          "SA node"
-        ],
-        "hindi": [
-          "हिस बंडल",
-          "AV नोड",
-          "पुरकिंजे फाइबर",
-          "SA नोड"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+  {
+    "question_name": {
+      "english": "A person has high blood pressure and irregular heartbeat. Which part of the heart might be affected?",
+      "hindi": "एक व्यक्ति को उच्च रक्तचाप और अनियमित हृदय गति है। हृदय का कौन सा भाग प्रभावित हो सकता है?"
     },
-    {
-      "question_name": {
-        "english": "During a marathon, an athlete experiences muscle cramps. What could be the reason?",
-        "hindi": "मैराथन के दौरान, एक एथलीट को मांसपेशियों में ऐंठन होती है। इसका क्या कारण हो सकता है?"
-      },
-      "option": {
-        "english": [
-          "Excess oxygen",
-          "High blood sugar",
-          "Lactic acid accumulation",
-          "Low blood pressure"
-        ],
-        "hindi": [
-          "अतिरिक्त ऑक्सीजन",
-          "उच्च रक्त शर्करा",
-          "लैक्टिक अम्ल का जमाव",
-          "निम्न रक्तचाप"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Bundle of His",
+        "AV node",
+        "Purkinje fibers",
+        "SA node"
+      ],
+      "hindi": [
+        "हिस बंडल",
+        "AV नोड",
+        "पुरकिंजे फाइबर",
+        "SA नोड"
+      ]
     },
-    {
-      "question_name": {
-        "english": "A plant shows wilting despite adequate water in soil. What could be the issue?",
-        "hindi": "मिट्टी में पर्याप्त पानी होने के बावजूद एक पौधा मुरझा रहा है। क्या समस्या हो सकती है?"
-      },
-      "option": {
-        "english": [
-          "All of these",
-          "Root damage",
-          "Excess transpiration",
-          "Blocked xylem"
-        ],
-        "hindi": [
-          "ये सभी",
-          "जड़ क्षति",
-          "अत्यधिक वाष्पोत्सर्जन",
-          "अवरुद्ध जाइलम"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A person's urine test shows glucose. What might be happening?",
-        "hindi": "एक व्यक्ति के मूत्र परीक्षण में ग्लूकोज दिखता है। क्या हो रहा हो सकता है?"
-      },
-      "option": {
-        "english": [
-          "Kidney damage",
-          "Both B and C",
-          "Reabsorption failure",
-          "Diabetes"
-        ],
-        "hindi": [
-          "गुर्दे की क्षति",
-          "B और C दोनों",
-          "पुनरावशोषण विफलता",
-          "मधुमेह"
-        ]
-      },
-      "answer": 1,  
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "After eating fatty food, a person experiences indigestion. Which organ's secretion might be insufficient?",
-        "hindi": "वसायुक्त भोजन खाने के बाद, एक व्यक्ति को अपच होती है। किस अंग का स्राव अपर्याप्त हो सकता है?"
-      },
-      "option": {
-        "english": [
-          "Pancreas",
-          "Stomach",
-          "Liver",
-          "Gallbladder"
-        ],
-        "hindi": [
-          "अग्न्याशय",
-          "आमाशय",
-          "यकृत",
-          "पित्ताशय"
-        ]
-      },
-      "answer": 3,
+    "answer": 3,
     "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "A person's blood test shows low hemoglobin but normal RBC count. What could be missing?",
-        "hindi": "एक व्यक्ति के रक्त परीक्षण में हीमोग्लोबिन कम लेकिन RBC सामान्य है। क्या कमी हो सकती है?"
-      },
-      "option": {
-        "english": [
-          "Iron",
-          "Calcium",
-          "Vitamin B12",
-          "Protein"
-        ],
-        "hindi": [
-          "लौह",
-          "कैल्शियम",
-          "विटामिन B12",
-          "प्रोटीन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "During summer, plants in a greenhouse show reduced growth despite adequate nutrients. Why?",
-        "hindi": "गर्मियों में, पर्याप्त पोषक तत्वों के बावजूद ग्रीनहाउस में पौधों की वृद्धि कम हो जाती है। क्यों?"
-      },
-      "option": {
-        "english": [
-          "Excess light",
-          "Low carbon dioxide",
-          "High temperature affecting enzymes",
-          "Too much water"
-        ],
-        "hindi": [
-          "अत्यधिक प्रकाश",
-          "कम कार्बन डाइऑक्साइड",
-          "उच्च तापमान से एंजाइम प्रभावित",
-          "बहुत अधिक पानी"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "A person experiences breathing difficulty at high altitude. What adaptation occurs?",
-        "hindi": "ऊंचाई पर एक व्यक्ति को सांस लेने में कठिनाई होती है। कौन सा अनुकूलन होता है?"
-      },
-      "option": {
-        "english": [
-          "Decreased heart rate",
-          "Increased RBC production",
-          "Reduced oxygen consumption",
-          "Lower hemoglobin affinity"
-        ],
-        "hindi": [
-          "धीमी हृदय गति",
-          "RBC उत्पादन में वृद्धि",
-          "ऑक्सीजन खपत में कमी",
-          "कम हीमोग्लोबिन बंधुता"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "A person's blood pressure drops suddenly. What compensatory mechanism occurs first?",
-        "hindi": "एक व्यक्ति का रक्तचाप अचानक गिर जाता है। कौन सी क्षतिपूरक क्रिया पहले होती है?"
-      },
-      "option": {
-        "english": [
-          "Increased breathing",
-          "Hormone release",
-          "Increased heart rate",
-          "Vasoconstriction"
-        ],
-        "hindi": [
-          "बढ़ा हुआ श्वसन",
-          "हार्मोन स्राव",
-          "बढ़ी हुई हृदय गति",
-          "वाहिका संकुचन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "After exercise, why does breathing rate remain elevated even after heart rate normalizes?",
-        "hindi": "व्यायाम के बाद, हृदय गति सामान्य होने के बाद भी श्वसन दर ऊंची क्यों रहती है?"
-      },
-      "option": {
-        "english": [
-          "All of these",
-          "To supply more oxygen",
-          "To balance pH",
-          "To remove excess CO2"
-        ],
-        "hindi": [
-          "ये सभी",
-          "अधिक ऑक्सीजन देने के लिए",
-          "pH संतुलित करने के लिए",
-          "अतिरिक्त CO2 निकालने के लिए"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+    "medium": "hard",
+    "explanation": {
+      "english": "The SA (sinoatrial) node is the heart's natural pacemaker. Irregularities in the SA node's function can lead to an irregular heartbeat (arrhythmia). High blood pressure can also affect the heart's electrical system over time.",
+      "hindi": "SA (सिनोट्रायल) नोड हृदय का प्राकृतिक पेसमेकर है। SA नोड के कार्य में अनियमितताएं अनियमित हृदय गति (अतालता) का कारण बन सकती हैं। उच्च रक्तचाप समय के साथ हृदय की विद्युत प्रणाली को भी प्रभावित कर सकता है।"
     }
-    
-  ]
+  },
+  {
+    "question_name": {
+      "english": "During a marathon, an athlete experiences muscle cramps. What could be the reason?",
+      "hindi": "मैराथन के दौरान, एक एथलीट को मांसपेशियों में ऐंठन होती है। इसका क्या कारण हो सकता है?"
+    },
+    "option": {
+      "english": [
+        "High blood sugar",
+        "Excess oxygen",
+        "Lactic acid accumulation",
+        "Low blood pressure"
+      ],
+      "hindi": [
+        "उच्च रक्त शर्करा",
+        "अतिरिक्त ऑक्सीजन",
+        "लैक्टिक अम्ल का जमाव",
+        "निम्न रक्तचाप"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Muscle cramps during prolonged exercise are often caused by the buildup of lactic acid, a byproduct of anaerobic metabolism when there isn't enough oxygen available to the muscles.",
+      "hindi": "लंबे समय तक व्यायाम के दौरान मांसपेशियों में ऐंठन अक्सर लैक्टिक एसिड के निर्माण के कारण होती है, जो एनारोबिक चयापचय का एक उपोत्पाद है जब मांसपेशियों को पर्याप्त ऑक्सीजन उपलब्ध नहीं होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "A plant shows wilting despite adequate water in the soil. What could be the issue?",
+      "hindi": "मिट्टी में पर्याप्त पानी होने के बावजूद एक पौधा मुरझा रहा है। क्या समस्या हो सकती है?"
+    },
+    "option": {
+      "english": [
+        "All of these",
+        "Root damage",
+        "Excess transpiration",
+        "Blocked xylem"
+      ],
+      "hindi": [
+        "ये सभी",
+        "जड़ क्षति",
+        "अत्यधिक वाष्पोत्सर्जन",
+        "अवरुद्ध जाइलम"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Wilting, even with adequate water, can be caused by several factors, including root damage (preventing water uptake), excessive transpiration (water loss exceeding uptake), or a blocked xylem ( বাধা water transport).",
+      "hindi": "पर्याप्त पानी के बावजूद, मुरझाने के कई कारण हो सकते हैं, जिनमें जड़ क्षति (पानी का अवशोषण रोकना), अत्यधिक वाष्पोत्सर्जन (पानी की कमी अवशोषण से अधिक), या अवरुद्ध जाइलम (पानी के परिवहन में बाधा) शामिल हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "A person's urine test shows glucose. What might be happening?",
+      "hindi": "एक व्यक्ति के मूत्र परीक्षण में ग्लूकोज दिखता है। क्या हो रहा हो सकता है?"
+    },
+    "option": {
+      "english": [
+        "Reabsorption failure",
+        "Both B and C",
+        "Diabetes",
+        "Kidney damage"
+      ],
+      "hindi": [
+        "पुनरावशोषण विफलता",
+        "B और C दोनों",
+        "मधुमेह",
+        "गुर्दे की क्षति"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Normally, glucose is completely reabsorbed in the kidneys. The presence of glucose in urine (glucosuria) can indicate either diabetes (where blood glucose levels are too high to be fully reabsorbed) or a problem with the kidney's reabsorption mechanism.",
+      "hindi": "आम तौर पर, ग्लूकोज गुर्दे में पूरी तरह से पुन:अवशोषित हो जाता है। मूत्र में ग्लूकोज की उपस्थिति (ग्लाइकोसुरिया) या तो मधुमेह (जहां रक्त शर्करा का स्तर पूरी तरह से पुन:अवशोषित होने के लिए बहुत अधिक होता है) या गुर्दे के पुन:अवशोषण तंत्र में समस्या का संकेत दे सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "After eating fatty food, a person experiences indigestion. Which organ's secretion might be insufficient?",
+      "hindi": "वसायुक्त भोजन खाने के बाद, एक व्यक्ति को अपच होती है। किस अंग का स्राव अपर्याप्त हो सकता है?"
+    },
+    "option": {
+      "english": [
+        "Stomach",
+        "Liver",
+        "Pancreas",
+        "Gallbladder"
+      ],
+      "hindi": [
+        "आमाशय",
+        "यकृत",
+        "अग्न्याशय",
+        "पित्ताशय"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The gallbladder stores and concentrates bile produced by the liver. Bile helps in the digestion of fats. Insufficient bile secretion, either due to a liver problem or a blockage in the gallbladder, can lead to indigestion after a fatty meal.",
+      "hindi": "पित्ताशय यकृत द्वारा उत्पादित पित्त को संग्रहित और केंद्रित करता है। पित्त वसा के पाचन में मदद करता है। अपर्याप्त पित्त स्राव, या तो यकृत की समस्या या पित्ताशय में रुकावट के कारण, वसायुक्त भोजन के बाद अपच का कारण बन सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "A person's blood test shows low hemoglobin but normal RBC count. What could be missing?",
+      "hindi": "एक व्यक्ति के रक्त परीक्षण में हीमोग्लोबिन कम लेकिन RBC सामान्य है। क्या कमी हो सकती है?"
+    },
+    "option": {
+      "english": [
+        "Iron",
+        "Calcium",
+        "Vitamin B12",
+        "Protein"
+      ],
+      "hindi": [
+        "लौह",
+        "कैल्शियम",
+        "विटामिन B12",
+        "प्रोटीन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Iron is a crucial component of hemoglobin. Low hemoglobin with a normal RBC count can indicate iron-deficiency anemia, where the red blood cells are smaller and contain less hemoglobin than normal.",
+      "hindi": "आयरन हीमोग्लोबिन का एक महत्वपूर्ण घटक है। सामान्य RBC गिनती के साथ कम हीमोग्लोबिन आयरन की कमी वाले एनीमिया का संकेत दे सकता है, जहां लाल रक्त कोशिकाएं छोटी होती हैं और उनमें सामान्य से कम हीमोग्लोबिन होता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "During summer, plants in a greenhouse show reduced growth despite adequate nutrients. Why?",
+      "hindi": "गर्मियों में, पर्याप्त पोषक तत्वों के बावजूद ग्रीनहाउस में पौधों की वृद्धि कम हो जाती है। क्यों?"
+    },
+    "option": {
+      "english": [
+        "Low carbon dioxide",
+        "Too much water",
+        "High temperature affecting enzyme activity",
+        "Excess light"
+      ],
+      "hindi": [
+        "कम कार्बन डाइऑक्साइड",
+        "बहुत अधिक पानी",
+        "उच्च तापमान से एंजाइम गतिविधि प्रभावित",
+        "अत्यधिक प्रकाश"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "High temperatures can denature enzymes, which are crucial for various plant processes, including growth. Even with adequate nutrients, reduced enzyme activity due to heat can limit growth.",
+      "hindi": "उच्च तापमान एंजाइमों को विकृत कर सकता है, जो पौधों की वृद्धि सहित विभिन्न प्रक्रियाओं के लिए महत्वपूर्ण हैं। पर्याप्त पोषक तत्वों के बावजूद, गर्मी के कारण एंजाइम गतिविधि में कमी से वृद्धि सीमित हो सकती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "A person experiences breathing difficulty at high altitude. What adaptation occurs?",
+      "hindi": "ऊंचाई पर एक व्यक्ति को सांस लेने में कठिनाई होती है। कौन सा अनुकूलन होता है?"
+    },
+    "option": {
+      "english": [
+        "Reduced oxygen consumption",
+        "Increased RBC production",
+        "Decreased heart rate",
+        "Lower hemoglobin affinity"
+      ],
+      "hindi": [
+        "ऑक्सीजन खपत में कमी",
+        "RBC उत्पादन में वृद्धि",
+        "धीमी हृदय गति",
+        "कम हीमोग्लोबिन बंधुता"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "At high altitudes, the body adapts to the lower oxygen availability by increasing the production of red blood cells (RBCs). More RBCs mean more hemoglobin, which increases the blood's oxygen-carrying capacity.",
+      "hindi": "अधिक ऊंचाई पर, शरीर कम ऑक्सीजन उपलब्धता के अनुकूल होने के लिए लाल रक्त कोशिकाओं (RBC) के उत्पादन को बढ़ाता है। अधिक RBC का अर्थ है अधिक हीमोग्लोबिन, जो रक्त की ऑक्सीजन-वहन क्षमता को बढ़ाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "A person's blood pressure drops suddenly. What compensatory mechanism occurs first?",
+      "hindi": "एक व्यक्ति का रक्तचाप अचानक गिर जाता है। कौन सी क्षतिपूरक क्रिया पहले होती है?"
+    },
+    "option": {
+      "english": [
+        "Increased breathing",
+        "Hormone release",
+        "Increased heart rate",
+        "Vasoconstriction"
+      ],
+      "hindi": [
+        "बढ़ा हुआ श्वसन",
+        "हार्मोन स्राव",
+        "बढ़ी हुई हृदय गति",
+        "वाहिका संकुचन"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "When blood pressure drops suddenly, the body's immediate response is to increase the heart rate in an attempt to maintain blood flow to vital organs.",
+      "hindi": "जब रक्तचाप अचानक गिर जाता है, तो शरीर की तत्काल प्रतिक्रिया महत्वपूर्ण अंगों में रक्त प्रवाह को बनाए रखने के प्रयास में हृदय गति को बढ़ाना है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "After exercise, why does breathing rate remain elevated even after heart rate normalizes?",
+      "hindi": "व्यायाम के बाद, हृदय गति सामान्य होने के बाद भी श्वसन दर ऊंची क्यों रहती है?"
+    },
+    "option": {
+      "english": [
+        "All of these",
+        "To supply more oxygen",
+        "To balance pH",
+        "To remove excess CO2"
+      ],
+      "hindi": [
+        "ये सभी",
+        "अधिक ऑक्सीजन देने के लिए",
+        "pH संतुलित करने के लिए",
+        "अतिरिक्त CO2 निकालने के लिए"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "After exercise, the breathing rate remains elevated to remove excess carbon dioxide (CO2) produced during exercise, to replenish oxygen supplies, and to help restore the body's acid-base (pH) balance.",
+      "hindi": "व्यायाम के बाद, श्वसन दर व्यायाम के दौरान उत्पादित अतिरिक्त कार्बन डाइऑक्साइड (CO2) को निकालने, ऑक्सीजन की आपूर्ति को फिर से भरने और शरीर के अम्ल-क्षार (pH) संतुलन को बहाल करने में मदद करने के लिए उच्च बनी रहती है।"
+    }
+  }
+]

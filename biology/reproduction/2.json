@@ -7,18 +7,22 @@
       "option": {
         "english": [
           "Fallopian tube",
-          "Ovary",
+          "Ovary", 
           "Cervix",
           "Placenta"
         ],
         "hindi": [
           "फैलोपियन ट्यूब",
           "अंडाशय",
-          "सर्विक्स",
+          "सर्विक्स", 
           "प्लेसेंटा"
         ]
       },
-      "answer": 3,  
+      "answer": 3,
+      "explanation": {
+        "english": "The placenta is a temporary organ that develops during pregnancy to connect the developing fetus to the mother's uterus. It allows exchange of nutrients, oxygen and waste products between mother and baby through the umbilical cord. This disc-shaped structure is crucial for fetal development and growth.",
+        "hindi": "प्लेसेंटा एक अस्थायी अंग है जो गर्भावस्था के दौरान विकसित होता है और विकसित भ्रूण को मां के गर्भाशय से जोड़ता है। यह नाभि नाल के माध्यम से मां और बच्चे के बीच पोषक तत्वों, ऑक्सीजन और अपशिष्ट पदार्थों के आदान-प्रदान की अनुमति देता है। यह डिस्क के आकार की संरचना भ्रूण के विकास और वृद्धि के लिए महत्वपूर्ण है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,7 +46,11 @@
         ]
       },
       "answer": 1,
-        "image": null,
+      "explanation": {
+        "english": "Testes are the male reproductive organs that produce sperm cells through the process of spermatogenesis. They also produce the male hormone testosterone which is responsible for development of male secondary sexual characteristics. The testes are located outside the body in the scrotum to maintain optimal temperature for sperm production.",
+        "hindi": "वृषण पुरुष प्रजनन अंग हैं जो शुक्राणुजनन की प्रक्रिया के माध्यम से शुक्राणु कोशिकाएं उत्पन्न करते हैं। वे पुरुष हार्मोन टेस्टोस्टेरोन भी उत्पन्न करते हैं जो पुरुष द्वितीयक यौन विशेषताओं के विकास के लिए जिम्मेदार है। वृषण शुक्राणु उत्पादन के लिए इष्टतम तापमान बनाए रखने के लिए अंडकोश में शरीर के बाहर स्थित होते हैं।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The stigma is the sticky tip of the female part (pistil) of a flower that receives pollen grains during pollination. When pollen lands on the stigma, it germinates and grows down through the style to reach the ovary for fertilization. The stigma's sticky surface helps trap and hold pollen grains effectively.",
+        "hindi": "वर्तिकाग्र फूल के मादा भाग (स्त्रीकेसर) का चिपचिपा सिरा होता है जो परागण के दौरान परागकणों को प्राप्त करता है। जब परागकण वर्तिकाग्र पर गिरता है, तो यह अंकुरित होता है और निषेचन के लिए अंडाशय तक पहुंचने के लिए वर्तिका के माध्यम से नीचे की ओर बढ़ता है। वर्तिकाग्र की चिपचिपी सतह परागकणों को प्रभावी ढंग से पकड़ने और रोके रखने में मदद करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,12 +100,16 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Amoeba reproduces asexually through binary fission where the single-celled organism divides into two identical daughter cells. The process begins with the nucleus dividing (karyokinesis), followed by the cytoplasm splitting (cytokinesis). This is a simple but effective way of reproduction in unicellular organisms.",
+        "hindi": "अमीबा द्विखंडन के माध्यम से अलैंगिक प्रजनन करता है जहां एक कोशिकीय जीव दो समान पुत्री कोशिकाओं में विभाजित होता है। यह प्रक्रिया केंद्रक के विभाजन (कैरियोकाइनेसिस) से शुरू होती है, उसके बाद कोशिका द्रव्य का विभाजन (साइटोकाइनेसिस) होता है। यह एक कोशिकीय जीवों में प्रजनन का एक सरल लेकिन प्रभावी तरीका है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What happens to the ovary after fertilization?",
+        "english": "What happens to the ovary after fertilization in plant?",
         "hindi": "निषेचन के बाद अंडाशय का क्या होता है?"
       },
       "option": {
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "After fertilization, the ovary of the flower develops into a fruit. The ovules inside the ovary develop into seeds. This transformation protects the developing seeds and later helps in seed dispersal. The fruit tissue provides nutrients and protection to the developing seeds within.",
+        "hindi": "निषेचन के बाद, फूल का अंडाशय फल में विकसित होता है। अंडाशय के अंदर के बीजांड बीज में विकसित होते हैं। यह रूपांतरण विकसित हो रहे बीजों की रक्षा करता है और बाद में बीज प्रसार में मदद करता है। फल का ऊतक अंदर विकसित हो रहे बीजों को पोषण और सुरक्षा प्रदान करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Testosterone is the primary male sex hormone that initiates and maintains puberty in males. It triggers the development of secondary sexual characteristics like deeper voice, facial hair growth, increased muscle mass, and maturation of reproductive organs. The hormone is mainly produced in the testes.",
+        "hindi": "टेस्टोस्टेरोन प्राथमिक पुरुष यौन हार्मोन है जो पुरुषों में यौवन की शुरुआत और उसे बनाए रखता है। यह द्वितीयक यौन विशेषताओं जैसे गहरी आवाज, चेहरे के बालों की वृद्धि, मांसपेशियों की वृद्धि और प्रजनन अंगों के परिपक्वन को प्रेरित करता है। यह हार्मोन मुख्य रूप से वृषण में उत्पन्न होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Seminal vesicles are glands that produce a fluid rich in fructose and other nutrients. This fluid makes up about 60% of semen volume and provides essential nutrition and energy for sperm cells to survive and swim. The alkaline nature of seminal fluid also helps protect sperm from the acidic environment of the vagina.",
+        "hindi": "शुक्राशय ग्रंथियां हैं जो फ्रक्टोज और अन्य पोषक तत्वों से भरपूर तरल पदार्थ का उत्पादन करती हैं। यह तरल वीर्य के आयतन का लगभग 60% होता है और शुक्राणु कोशिकाओं के जीवित रहने और तैरने के लिए आवश्यक पोषण और ऊर्जा प्रदान करता है। शुक्राशय तरल की क्षारीय प्रकृति योनि के अम्लीय वातावरण से शुक्राणुओं की रक्षा करने में भी मदद करती है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Fertilization occurs in the fallopian tube, specifically in its ampulla region. After ovulation, the egg moves into the fallopian tube where it meets sperm cells. When a sperm successfully penetrates the egg, their nuclei fuse forming a zygote. The fertilized egg then travels to the uterus for implantation.",
+        "hindi": "निषेचन फैलोपियन ट्यूब में होता है, विशेष रूप से इसके एम्पुला क्षेत्र में। अंडोत्सर्जन के बाद, अंडा फैलोपियन ट्यूब में जाता है जहां यह शुक्राणु कोशिकाओं से मिलता है। जब एक शुक्राणु सफलतापूर्वक अंडे में प्रवेश करता है, तो उनके केंद्रक युग्मनज बनाने के लिए संलयन करते हैं। निषेचित अंडा तब रोपण के लिए गर्भाशय की यात्रा करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Identical twins form when a single fertilized egg (zygote) splits into two separate embryos early in development. Since they come from the same zygote, they share identical genetic material and will look very similar. This is different from fraternal twins, which develop from two separate fertilized eggs.",
+        "hindi": "समरूप जुड़वाँ तब बनते हैं जब एक ही निषेचित अंडा (युग्मनज) विकास के प्रारंभिक चरण में दो अलग भ्रूणों में विभाजित हो जाता है। चूंकि वे एक ही युग्मनज से आते हैं, उनमें समान आनुवंशिक सामग्री होती है और वे बहुत समान दिखते हैं। यह असमरूप जुड़वाँ से अलग है, जो दो अलग-अलग निषेचित अंडों से विकसित होते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The corpus luteum forms from the empty follicle after ovulation and produces progesterone hormone. This hormone is crucial for maintaining pregnancy by preparing and maintaining the uterine lining for embryo implantation. If pregnancy occurs, the corpus luteum continues producing progesterone until the placenta takes over this role.",
+        "hindi": "कॉर्पस ल्यूटियम अंडोत्सर्जन के बाद खाली पुटिका से बनता है और प्रोजेस्टेरोन हार्मोन का उत्पादन करता है। यह हार्मोन भ्रूण के रोपण के लिए गर्भाशय की परत को तैयार करने और बनाए रखने के द्वारा गर्भावस्था को बनाए रखने के लिए महत्वपूर्ण है। यदि गर्भावस्था होती है, तो कॉर्पस ल्यूटियम तब तक प्रोजेस्टेरोन का उत्पादन जारी रखता है जब तक कि प्लेसेंटा इस भूमिका को नहीं ले लेता।"
+      },
       "image": null,
       "medium": "hard"
     }

@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Cerebrum",
-          "Cerebellum",
+          "Cerebellum", 
           "Hypothalamus",
           "Medulla"
         ],
@@ -20,30 +20,33 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Medulla oblongata is located in the hindbrain and controls involuntary actions like breathing, blood pressure, heart rate, swallowing, vomiting etc. It is also called the vital center as it controls essential life functions.",
+        "hindi": "मेडुला ओब्लोंगाटा पश्च मस्तिष्क में स्थित होता है और यह अनैच्छिक क्रियाओं जैसे सांस लेना, रक्तचाप, हृदय गति, निगलना, उल्टी आदि को नियंत्रित करता है। इसे जीवन केंद्र भी कहा जाता है क्योंकि यह आवश्यक जीवन कार्यों को नियंत्रित करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which hormone is secreted during emergency situations?",
-        "hindi": "आपातकालीन स्थितियों में कौन सा हार्मोन स्रावित होता है?"
+        "english": "Which hormone helps in root growth?",
+        "hindi": "कौन सा हार्मोन जड़ों की वृद्धि में मदद करता है?"
       },
       "option": {
         "english": [
-          "Thyroxine",
-          "Adrenaline",
-          "Insulin",
-          "Growth hormone"
+          "Cytokinin",
+          "Auxin",
+          "Ethylene",
+          "Gibberellin"
         ],
         "hindi": [
-          "थायरॉक्सिन",
-          "एड्रेनालिन",
-          "इंसुलिन",
-          "वृद्धि हार्मोन"
+          "साइटोकाइनिन",
+          "ऑक्सिन",
+          "एथिलीन",
+          "जिबरेलिन"
         ]
       },
       "answer": 1,
-      "image": null,
-      "medium": "easy"
+      "medium": "medium"
     },
     {
       "question_name": {
@@ -66,7 +69,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The pituitary gland is called the master gland as it controls other endocrine glands. It secretes growth hormone which promotes growth of bones and muscles, especially during childhood and adolescence.",
+        "hindi": "पीयूष ग्रंथि को मास्टर ग्रंथि कहा जाता है क्योंकि यह अन्य अंतःस्रावी ग्रंथियों को नियंत्रित करती है। यह वृद्धि हार्मोन स्रावित करती है जो विशेष रूप से बचपन और किशोरावस्था के दौरान हड्डियों और मांसपेशियों की वृद्धि को बढ़ावा देता है।"
+      }
     },
     {
       "question_name": {
@@ -89,30 +96,36 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Auxin is a plant hormone that causes phototropism (bending towards light). When light falls on one side of the shoot, auxin moves to the darker side causing more cell elongation there, resulting in bending towards light.",
+        "hindi": "ऑक्सिन एक पादप हार्मोन है जो प्रकाशानुवर्तन (प्रकाश की ओर मुड़ना) का कारण बनता है। जब प्रकाश प्ररोह के एक तरफ पड़ता है, ऑक्सिन अंधेरी तरफ चला जाता है जिससे वहां कोशिकाओं का अधिक लंबन होता है, परिणामस्वरूप प्रकाश की ओर मुड़ जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which structure connects left and right cerebral hemispheres?",
-        "hindi": "कौन सी संरचना बाएं और दाएं प्रमस्तिष्क गोलार्धों को जोड़ती है?"
+        "english": "Which part of brain helps in thinking and memory?",
+        "hindi": "मस्तिष्क का कौन सा भाग सोचने और याद रखने में मदद करता है?"
       },
       "option": {
         "english": [
-          "Thalamus",
-          "Hypothalamus",
+          "Medulla",
           "Pons",
-          "Corpus callosum"
+          "Cerebellum",
+          "Cerebrum"
         ],
         "hindi": [
-          "थैलेमस",
-          "हाइपोथैलेमस",
+          "मेडुला",
           "पोंस",
-          "कॉर्पस कैलोसम"
+          "अनुमस्तिष्क",
+          "प्रमस्तिष्क"
         ]
       },
       "answer": 3,
-      "image": null,
-      "medium": "easy"
+      "explanation": {
+        "english": "The cerebrum is the largest part of the brain. It controls higher mental functions like thinking, reasoning, memory, learning, intelligence and conscious actions. It is divided into left and right hemispheres.",
+        "hindi": "प्रमस्तिष्क मस्तिष्क का सबसे बड़ा भाग है। यह उच्च मानसिक कार्यों जैसे सोचना, तर्क करना, याददाश्त, सीखना, बुद्धि और सचेत क्रियाओं को नियंत्रित करता है। यह बाएं और दाएं गोलार्धों में विभाजित होता है।"
+      }
     },
     {
       "question_name": {
@@ -135,76 +148,92 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Cytokinins promote cell division (cytokinesis) in plants. They are found in high concentrations in young fruits, seeds and roots. They help in formation of new leaves, lateral shoots and delay aging of leaves.",
+        "hindi": "साइटोकाइनिन पौधों में कोशिका विभाजन (साइटोकाइनेसिस) को बढ़ावा देता है। ये युवा फलों, बीजों और जड़ों में उच्च मात्रा में पाए जाते हैं। ये नई पत्तियों, पार्श्व प्ररोहों के निर्माण में मदद करते हैं और पत्तियों की वृद्धावस्था को विलंबित करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of hypothalamus in human body?",
-        "hindi": "मानव शरीर में हाइपोथैलेमस की क्या भूमिका है?"
+        "english": "Which part controls body temperature?",
+        "hindi": "कौन सा भाग शरीर के तापमान को नियंत्रित करता है?"
       },
       "option": {
         "english": [
           "Memory",
-          "Homeostasis",
+          "Hypothalamus",
           "Vision",
           "Movement"
         ],
         "hindi": [
           "स्मृति",
-          "समस्थिति",
+          "हाइपोथैलेमस",
           "दृष्टि",
           "गति"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The hypothalamus maintains body temperature at 37°C. When body temperature rises, it triggers sweating and blood vessel dilation to cool down. When temperature falls, it causes shivering and blood vessel constriction to generate heat.",
+        "hindi": "हाइपोथैलेमस शरीर के तापमान को 37°C पर बनाए रखता है। जब शरीर का तापमान बढ़ता है, तो यह ठंडा करने के लिए पसीना आना और रक्त वाहिकाओं का फैलाव शुरू करता है। जब तापमान गिरता है, तो यह गर्मी पैदा करने के लिए कंपकंपी और रक्त वाहिकाओं के संकुचन का कारण बनता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which hormone maintains calcium balance in blood?",
-        "hindi": "कौन सा हार्मोन रक्त में कैल्शियम संतुलन बनाए रखता है?"
+        "english": "Which gland controls body's metabolism?",
+        "hindi": "कौन सी ग्रंथि शरीर के चयापचय को नियंत्रित करती है?"
       },
       "option": {
         "english": [
-          "Insulin",
-          "Thyroxine",
-          "Calcitonin",
-          "Adrenaline"
+          "Pancreas",
+          "Adrenal",
+          "Thyroid",
+          "Pituitary"
         ],
         "hindi": [
-          "इंसुलिन",
-          "थायरॉक्सिन",
-          "कैल्सीटोनिन",
-          "एड्रेनालिन"
+          "अग्न्याशय",
+          "एड्रेनल",
+          "थायरॉइड",
+          "पीयूष"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The thyroid gland secretes thyroxine hormone which controls the body's metabolic rate - how quickly the body uses energy. It affects heart rate, body temperature, growth and development.",
+        "hindi": "थायरॉइड ग्रंथि थायरॉक्सिन हार्मोन स्रावित करती है जो शरीर की चयापचय दर को नियंत्रित करती है - शरीर कितनी तेजी से ऊर्जा का उपयोग करता है। यह हृदय गति, शरीर के तापमान, वृद्धि और विकास को प्रभावित करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the function of cerebrospinal fluid?",
-        "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
+        "english": "What protects our brain from injury?",
+        "hindi": "हमारे मस्तिष्क को चोट से क्या बचाता है?"
       },
       "option": {
         "english": [
-          "Blood filtration",
-          "Hormone production",
-          "Waste removal",
-          "Shock absorption"
+          "Blood",
+          "Muscles",
+          "Nerves",
+          "Skull"
         ],
         "hindi": [
-          "रक्त छनन",
-          "हार्मोन उत्पादन",
-          "अपशिष्ट निष्कासन",
-          "आघात अवशोषण"
+          "रक्त",
+          "मांसपेशियां",
+          "तंत्रिकाएं",
+          "खोपड़ी"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The skull (cranium) is a hard bony case that protects our delicate brain from injury. Inside the skull, the brain is surrounded by cerebrospinal fluid which acts as a shock absorber.",
+        "hindi": "खोपड़ी (कपाल) एक कठोर हड्डी का आवरण है जो हमारे नाजुक मस्तिष्क को चोट से बचाता है। खोपड़ी के अंदर, मस्तिष्क मस्तिष्क-मेरु द्रव से घिरा होता है जो झटके को कम करने का काम करता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +256,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Abscisic acid (ABA) causes seed dormancy - a period when seeds do not germinate even in favorable conditions. This helps seeds survive unfavorable seasons. ABA also helps plants respond to stress conditions like drought.",
+        "hindi": "एब्सिसिक एसिड (एबीए) बीज प्रसुप्ति का कारण बनता है - एक अवधि जब बीज अनुकूल परिस्थितियों में भी अंकुरित नहीं होते। यह बीजों को प्रतिकूल मौसम में जीवित रहने में मदद करता है। एबीए पौधों को सूखे जैसी तनावपूर्ण परिस्थितियों का सामना करने में भी मदद करता है।"
+      }
     }
   ]

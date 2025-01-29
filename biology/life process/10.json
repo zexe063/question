@@ -6,7 +6,7 @@
     },
     "option": {
       "english": [
-        "Prevent backflow",
+        "Prevent backflow of blood",
         "Pump blood",
         "Filter blood",
         "Mix blood"
@@ -20,7 +20,11 @@
     },
     "answer": 0,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "Heart valves prevent the backflow of blood, ensuring that blood flows in one direction through the heart chambers.",
+      "hindi": "हृदय वाल्व रक्त के उल्टे प्रवाह को रोकते हैं, यह सुनिश्चित करते हुए कि रक्त हृदय कक्षों के माध्यम से एक दिशा में बहता है।"
+    }
   },
   {
     "question_name": {
@@ -29,21 +33,25 @@
     },
     "option": {
       "english": [
+        "Transpiration",
         "Osmosis",
         "Active transport",
-        "Transpiration",
         "Diffusion"
       ],
       "hindi": [
+        "वाष्पोत्सर्जन",
         "परासरण",
         "सक्रिय परिवहन",
-        "वाष्पोत्सर्जन",
         "विसरण"
       ]
     },
     "answer": 1,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "Osmosis is the primary process that facilitates water absorption in roots. Water moves from a region of higher water potential in the soil to a region of lower water potential in the root cells.",
+      "hindi": "परासरण प्राथमिक प्रक्रिया है जो जड़ों में जल अवशोषण की सुविधा प्रदान करती है। पानी मिट्टी में उच्च जल विभव वाले क्षेत्र से जड़ कोशिकाओं में कम जल विभव वाले क्षेत्र में जाता है।"
+    }
   },
   {
     "question_name": {
@@ -66,7 +74,11 @@
     },
     "answer": 3,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "Nephrons are the functional units of the kidneys. They filter blood to remove waste products, regulate blood volume and pressure, and control electrolyte balance.",
+      "hindi": "नेफ्रॉन गुर्दे की कार्यात्मक इकाइयां हैं। वे रक्त से अपशिष्ट उत्पादों को हटाने, रक्त की मात्रा और दबाव को नियंत्रित करने और इलेक्ट्रोलाइट संतुलन को नियंत्रित करने के लिए रक्त को छानते हैं।"
+    }
   },
   {
     "question_name": {
@@ -89,30 +101,38 @@
     },
     "answer": 2,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "The liver is the primary organ for glycogen storage. Glycogen is a complex carbohydrate that serves as a readily available source of glucose for the body.",
+      "hindi": "यकृत ग्लाइकोजन भंडारण के लिए प्राथमिक अंग है। ग्लाइकोजन एक जटिल कार्बोहाइड्रेट है जो शरीर के लिए ग्लूकोज के आसानी से उपलब्ध स्रोत के रूप में कार्य करता है।"
+    }
   },
   {
     "question_name": {
-      "english": "What is the role of bile in digestion?",
-      "hindi": "पाचन में पित्त की क्या भूमिका है?"
+      "english": "What is the primary function of red blood cells in the human body?",
+      "hindi": "मानव शरीर में लाल रक्त कोशिकाओं का प्राथमिक कार्य क्या है?"
     },
     "option": {
       "english": [
-        "Emulsify fats",
-        "Break fats",
-        "Absorb minerals",
-        "Digest proteins"
+        "To transport oxygen to body tissues",
+        "To fight infection and disease",
+        "To clot blood and prevent bleeding",
+        "To carry nerve impulses"
       ],
       "hindi": [
-        "वसा का पायसीकरण",
-        "वसा तोड़ना",
-        "खनिज अवशोषित करना",
-        "प्रोटीन पचाना"
+        "शरीर के ऊतकों तक ऑक्सीजन पहुंचाने के लिए",
+        "संक्रमण और बीमारी से लड़ने के लिए",
+        "रक्त का थक्का जमाने और रक्तस्राव को रोकने के लिए",
+        "तंत्रिका आवेगों को ले जाने के लिए"
       ]
     },
     "answer": 0,
     "image": null,
-    "medium": "easy"
+    "medium": "easy",
+    "explanation": {
+      "english": "Red blood cells contain hemoglobin, a protein that binds to oxygen. Their primary function is to transport oxygen from the lungs to the body's tissues and carry back some carbon dioxide.",
+      "hindi": "लाल रक्त कोशिकाओं में हीमोग्लोबिन होता है, एक प्रोटीन जो ऑक्सीजन से बंधता है। उनका प्राथमिक कार्य फेफड़ों से शरीर के ऊतकों तक ऑक्सीजन पहुंचाना और कुछ कार्बन डाइऑक्साइड को वापस ले जाना है।"
+    }
   },
   {
     "question_name": {
@@ -121,21 +141,25 @@
     },
     "option": {
       "english": [
-        "Blood pressure",
         "Hormones",
+        "Blood pressure",
         "Nervous system",
-        "Electrical signals"
+        "Electrical signals originating in the heart"
       ],
       "hindi": [
-        "रक्तचाप",
         "हार्मोन",
+        "रक्तचाप",
         "तंत्रिका तंत्र",
-        "विद्युत संकेत"
+        "हृदय में उत्पन्न विद्युत संकेत"
       ]
     },
     "answer": 3,
     "image": null,
-    "medium": "medium"
+    "medium": "medium",
+    "explanation": {
+      "english": "The cardiac cycle is initiated and controlled by electrical signals that originate in the sinoatrial (SA) node, the heart's natural pacemaker. These signals spread through the heart, causing the atria and ventricles to contract and relax in a coordinated manner.",
+      "hindi": "हृदय चक्र हृदय के प्राकृतिक पेसमेकर, सिनोट्रायल (SA) नोड में उत्पन्न होने वाले विद्युत संकेतों द्वारा शुरू और नियंत्रित होता है। ये संकेत हृदय में फैलते हैं, जिससे अटरिया और निलय समन्वित तरीके से सिकुड़ते और शिथिल होते हैं।"
+    }
   },
   {
     "question_name": {
@@ -158,7 +182,11 @@
     },
     "answer": 1,
     "image": null,
-    "medium": "medium"
+    "medium": "medium",
+    "explanation": {
+      "english": "Plants transport sugars, primarily sucrose, from source tissues (like leaves) to sink tissues (like roots or fruits) through a specialized vascular tissue called phloem.",
+      "hindi": "पौधे शर्करा, मुख्य रूप से सुक्रोज, को स्रोत ऊतकों (जैसे पत्तियों) से सिंक ऊतकों (जैसे जड़ों या फलों) तक एक विशेष संवहनी ऊतक के माध्यम से ले जाते हैं जिसे फ्लोएम कहा जाता है।"
+    }
   },
   {
     "question_name": {
@@ -167,21 +195,26 @@
     },
     "option": {
       "english": [
-        "Carbon dioxide level",
+         "All of these",
         "Oxygen level",
-        "Brain stem",
-        "All of these"
+        "Carbon dioxide level",
+        "Brain stem"
       ],
       "hindi": [
-        "कार्बन डाइऑक्साइड स्तर",
+        "ये सभी",
         "ऑक्सीजन स्तर",
-        "मस्तिष्क स्तंभ",
-        "ये सभी"
+        "कार्बन डाइऑक्साइड स्तर",
+        "मस्तिष्क स्तंभ"
+        
       ]
     },
     "answer": 2,
     "image": null,
-    "medium": "medium"
+    "medium": "medium",
+    "explanation": {
+      "english": "Breathing rate is primarily regulated by the respiratory center located in the brain stem. This center monitors the levels of carbon dioxide and oxygen in the blood and adjusts the breathing rate accordingly.",
+      "hindi": "श्वसन दर मुख्य रूप से मस्तिष्क स्तंभ में स्थित श्वसन केंद्र द्वारा नियंत्रित होती है। यह केंद्र रक्त में कार्बन डाइऑक्साइड और ऑक्सीजन के स्तर की निगरानी करता है और उसके अनुसार श्वसन दर को समायोजित करता है।"
+    }
   },
   {
     "question_name": {
@@ -190,21 +223,26 @@
     },
     "option": {
       "english": [
-        "Fat deposits",
-        "Blood clots",
         "Multiple factors",
+        "Fat deposits in the arteries",
+        "Blood clots",
         "High blood pressure"
+
       ],
       "hindi": [
-        "वसा जमाव",
-        "रक्त के थक्के",
         "कई कारक",
+        "धमनियों में वसा जमाव",
+        "रक्त के थक्के",
         "उच्च रक्तचाप"
       ]
     },
     "answer": 0,
     "image": null,
-    "medium": "hard"
+    "medium": "hard",
+    "explanation": {
+      "english": "Atherosclerosis is a complex process characterized by the buildup of plaque within the artery walls. This plaque is made up of fat deposits, cholesterol, calcium, and other substances. Multiple factors contribute to its development, including high blood pressure, high cholesterol, smoking, and diabetes.",
+      "hindi": "एथेरोस्क्लेरोसिस एक जटिल प्रक्रिया है जिसमें धमनी की दीवारों के भीतर प्लाक का निर्माण होता है। यह प्लाक वसा जमा, कोलेस्ट्रॉल, कैल्शियम और अन्य पदार्थों से बना होता है। उच्च रक्तचाप, उच्च कोलेस्ट्रॉल, धूम्रपान और मधुमेह सहित कई कारक इसके विकास में योगदान करते हैं।"
+    }
   },
   {
     "question_name": {
@@ -215,18 +253,22 @@
       "english": [
         "By glucose",
         "By minerals",
-        "By proteins",
-        "By all of these"
+        "By all of these",
+        "By proteins, particularly albumin"
       ],
       "hindi": [
         "ग्लूकोज द्वारा",
         "खनिज द्वारा",
-        "प्रोटीन द्वारा",
-        "इन सभी द्वारा"
+        "इन सभी द्वारा",
+        "प्रोटीन द्वारा, विशेष रूप से एल्ब्यूमिन"
       ]
     },
     "answer": 3,
     "image": null,
-    "medium": "hard"
+    "medium": "hard",
+    "explanation": {
+      "english": "Blood osmotic pressure is primarily maintained by the presence of plasma proteins, particularly albumin. These proteins create an osmotic gradient that draws water into the blood vessels, helping to maintain blood volume and pressure.",
+      "hindi": "रक्त का परासरणी दाब मुख्य रूप से प्लाज्मा प्रोटीन, विशेष रूप से एल्ब्यूमिन की उपस्थिति से बना रहता है। ये प्रोटीन एक परासरणी प्रवणता बनाते हैं जो पानी को रक्त वाहिकाओं में खींचता है, जिससे रक्त की मात्रा और दबाव को बनाए रखने में मदद मिलती है।"
+    }
   }
 ]

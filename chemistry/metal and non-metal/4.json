@@ -1,232 +1,275 @@
+
+
+
 [
-    {
-      "question_name": {
-        "english": "Which metal is used in making electric wires?",
-        "hindi": "विद्युत तारों को बनाने में किस धातु का उपयोग किया जाता है?"
+  {
+    "question_name": {
+        "english": "Why is copper used in making electric wires?",
+        "hindi": "विद्युत तारों को बनाने में तांबे का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Iron",
-          "Lead",
-          "Copper",
-          "Zinc"
+          "It is cheap",
+          "It is strong",
+          "It is a good conductor",
+          "It is lightweight"
         ],
         "hindi": [
-          "लोहा",
-          "सीसा",
-          "तांबा",
-          "जस्ता"
+          "यह सस्ता है",
+          "यह मजबूत है", 
+          "यह अच्छा चालक है",
+          "यह हल्का है"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Copper is used in making electric wires because it is an excellent conductor of electricity due to the presence of free electrons. It has low electrical resistance which means less energy loss. It is also ductile so can be easily drawn into wires.",
+        "hindi": "तांबे का उपयोग विद्युत तारों को बनाने में किया जाता है क्योंकि इसमें मुक्त इलेक्ट्रॉन होते हैं जो इसे विद्युत का उत्कृष्ट चालक बनाते हैं। इसका विद्युत प्रतिरोध कम होता है जिससे ऊर्जा की कम हानि होती है। यह तन्य भी होता है इसलिए आसानी से तार में खींचा जा सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
-    {
-      "question_name": {
-        "english": "What is the most abundant metal in Earth's crust?",
-        "hindi": "पृथ्वी की भूपर्पटी में सबसे अधिक मात्रा में कौन सी धातु पाई जाती है?"
-      },
-      "option": {
-        "english": [
-          "Iron",
-          "Copper",
-          "Gold",
-          "Aluminum"
-        ],
-        "hindi": [
-          "लोहा",
-          "तांबा",
-          "सोना",
-          "एल्युमिनियम"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the most abundant metal in Earth's crust?",
+      "hindi": "पृथ्वी की भूपर्पटी में सबसे अधिक मात्रा में कौन सी धातु पाई जाती है?"
     },
-    {
-      "question_name": {
-        "english": "Which metal is used in galvanization?",
-        "hindi": "जस्तीकरण में किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Copper",
-          "Zinc",
-          "Iron",
-          "Tin"
-        ],
-        "hindi": [
-          "तांबा",
-          "जस्ता",
-          "लोहा",
-          "टिन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Iron",
+        "Copper",
+        "Gold",
+        "Aluminum"
+      ],
+      "hindi": [
+        "लोहा",
+        "तांबा",
+        "सोना",
+        "एल्युमिनियम"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which metal is used in making thermometers?",
-        "hindi": "थर्मामीटर बनाने में किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Mercury",
-          "Copper",
-          "Iron",
-          "Zinc"
-        ],
-        "hindi": [
-          "पारा",
-          "तांबा",
-          "लोहा",
-          "जस्ता"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "answer": 3,
+    "explanation": {
+      "english": "Aluminum is the most abundant metal in Earth's crust (8.1%). It is found in the form of minerals like bauxite (Al2O3·2H2O). Though very abundant, it was discovered late because it is very reactive and is not found in free state in nature.",
+      "hindi": "एल्युमिनियम पृथ्वी की भूपर्पटी में सबसे प्रचुर मात्रा में पाई जाने वाली धातु है (8.1%)। यह बॉक्साइट (Al2O3·2H2O) जैसे खनिजों के रूप में पाया जाता है। बहुत अधिक मात्रा में होने के बावजूद, इसकी खोज देर से हुई क्योंकि यह बहुत अधिक क्रियाशील है और प्रकृति में मुक्त अवस्था में नहीं पाया जाता है।"
     },
-    {
-      "question_name": {
-        "english": "Which metal is used in making magnets?",
-        "hindi": "चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Copper",
-          "Aluminum",
-          "Iron",
-          "Silver"
-        ],
-        "hindi": [
-          "तांबा",
-          "एल्युमिनियम",
-          "लोहा",
-          "चांदी"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is used in galvanization?",
+      "hindi": "जस्तीकरण में किस धातु का उपयोग किया जाता है?"
     },
-    {
-      "question_name": {
-        "english": "What happens when metals react with water?",
-        "hindi": "धातुएं जल से अभिक्रिया करने पर क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "Metal oxide",
-          "Metal hydroxide + H₂",
-          "Metal salt",
-          "No reaction"
-        ],
-        "hindi": [
-          "धातु ऑक्साइड",
-          "धातु हाइड्रॉक्साइड + H₂",
-          "धातु लवण",
-          "कोई अभिक्रिया नहीं"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Copper",
+        "Zinc",
+        "Iron",
+        "Tin"
+      ],
+      "hindi": [
+        "तांबा",
+        "जस्ता",
+        "लोहा",
+        "टिन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the nature of metal oxides?",
-        "hindi": "धातु ऑक्साइड की प्रकृति क्या होती है?"
-      },
-      "option": {
-        "english": [
-          "Acidic",
-          "Neutral",
-          "Amphoteric",
-          "Basic"
-        ],
-        "hindi": [
-          "अम्लीय",
-          "उदासीन",
-          "उभयधर्मी",
-          "क्षारीय"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+    "answer": 1,
+    "explanation": {
+      "english": "Zinc is used in galvanization to protect iron from rusting. When zinc coating is done on iron, zinc acts as a sacrificial metal and corrodes first, protecting the iron underneath. The reaction during rusting: Fe + O2 + H2O → Fe2O3·nH2O (rust). Zinc forms a protective layer of zinc oxide (ZnO) that prevents this reaction.",
+      "hindi": "जस्ते (zinc) का उपयोग लोहे को जंग से बचाने के लिए जस्तीकरण में किया जाता है। जब लोहे पर जस्ते की परत चढ़ाई जाती है, तो जस्ता त्यागी धातु के रूप में कार्य करता है और पहले स्वयं क्षय होता है, जिससे नीचे का लोहा सुरक्षित रहता है। जंग लगने की अभिक्रिया: Fe + O2 + H2O → Fe2O3·nH2O (जंग)। जस्ता, जिंक ऑक्साइड (ZnO) की एक सुरक्षात्मक परत बनाता है जो इस अभिक्रिया को रोकती है।"
     },
-    {
-      "question_name": {
-        "english": "Which metal is used in making steel?",
-        "hindi": "स्टील बनाने में किस धातु का उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Iron",
-          "Copper",
-          "Aluminum",
-          "Zinc"
-        ],
-        "hindi": [
-          "लोहा",
-          "तांबा",
-          "एल्युमिनियम",
-          "जस्ता"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is used in making thermometers?",
+      "hindi": "थर्मामीटर बनाने में किस धातु का उपयोग किया जाता है?"
     },
-    {
-      "question_name": {
-        "english": "What is the process of extracting pure metal from its ore called?",
-        "hindi": "अयस्क से शुद्ध धातु को निकालने की प्रक्रिया को क्या कहते हैं?"
-      },
-      "option": {
-        "english": [
-          "Galvanization",
-          "Smelting",
-          "Metallurgy",
-          "Refining"
-        ],
-        "hindi": [
-          "जस्तीकरण",
-          "प्रगलन",
-          "धातुकर्म",
-          "परिष्करण"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "option": {
+      "english": [
+        "Mercury",
+        "Copper",
+        "Iron",
+        "Zinc"
+      ],
+      "hindi": [
+        "पारा",
+        "तांबा",
+        "लोहा",
+        "जस्ता"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which metal is most reactive?",
-        "hindi": "कौन सी धातु सबसे अधिक क्रियाशील है?"
-      },
-      "option": {
-        "english": [
-          "Copper",
-          "Potassium",
-          "Zinc",
-          "Iron"
-        ],
-        "hindi": [
-          "तांबा",
-          "पोटैशियम",
-          "जस्ता",
-          "लोहा"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
+    "answer": 0,
+    "explanation": {
+      "english": "Mercury is used in thermometers because it is the only metal that is liquid at room temperature (melting point -38.83°C). It expands uniformly with temperature and has a shiny silvery appearance making it easy to read. However, due to its toxic nature, mercury thermometers are being replaced by digital ones.",
+      "hindi": "पारे का उपयोग थर्मामीटर में किया जाता है क्योंकि यह एकमात्र धातु है जो कमरे के तापमान पर तरल होती है (गलनांक -38.83°C)। यह तापमान के साथ एक समान फैलता है और इसकी चमकदार चांदी जैसी दिखावट इसे पढ़ने में आसान बनाती है। हालांकि, इसकी विषाक्तता के कारण, पारा थर्मामीटर को डिजिटल थर्मामीटर से बदला जा रहा है।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is used in making magnets?",
+      "hindi": "चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Copper",
+        "Aluminum",
+        "Iron",
+        "Silver"
+      ],
+      "hindi": [
+        "तांबा",
+        "एल्युमिनियम",
+        "लोहा",
+        "चांदी"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Iron is used in making magnets because it is ferromagnetic - it can be magnetized easily. When iron is brought near a magnet, its domains align in one direction making it magnetic. Iron can be used to make temporary magnets (electromagnets) or permanent magnets when alloyed with other metals.",
+      "hindi": "लोहे का उपयोग चुंबक बनाने में किया जाता है क्योंकि यह लौह-चुंबकीय है - इसे आसानी से चुंबकित किया जा सकता है। जब लोहे को चुंबक के पास लाया जाता है, तो इसके डोमेन एक दिशा में संरेखित हो जाते हैं जिससे यह चुंबकीय हो जाता है। लोहे का उपयोग अस्थायी चुंबक (विद्युत चुंबक) या अन्य धातुओं के साथ मिश्रित करके स्थायी चुंबक बनाने में किया जा सकता है।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Why do metals like sodium and potassium need to be stored in kerosene?",
+      "hindi": "सोडियम और पोटैशियम जैसी धातुओं को केरोसीन में क्यों रखा जाता है?"
+    },
+    "option": {
+      "english": [
+        "To prevent rusting",
+        "To prevent reaction with air and moisture",
+        "To maintain temperature",
+        "To keep them shiny"
+      ],
+      "hindi": [
+        "जंग लगने से बचाने के लिए",
+        "वायु और नमी से अभिक्रिया को रोकने के लिए",
+        "तापमान बनाए रखने के लिए",
+        "चमक बनाए रखने के लिए"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Sodium and potassium are highly reactive metals that react violently with air and moisture. The reactions are: 2Na + O2 → Na2O2 (sodium peroxide) and 2Na + 2H2O → 2NaOH + H2 (explosive!). Storing them in kerosene prevents contact with air and moisture, keeping them safe.",
+      "hindi": "सोडियम और पोटैशियम अत्यधिक क्रियाशील धातुएं हैं जो वायु और नमी के साथ तीव्र अभिक्रिया करती हैं। अभिक्रियाएं हैं: 2Na + O2 → Na2O2 (सोडियम पेरोक्साइड) और 2Na + 2H2O → 2NaOH + H2 (विस्फोटक!)। इन्हें केरोसीन में रखने से वायु और नमी के संपर्क से बचाया जाता है, जिससे ये सुरक्षित रहती हैं।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Why do metals generally have high melting and boiling points?",
+      "hindi": "धातुओं का गलनांक और क्वथनांक उच्च क्यों होता है?"
+    },
+    "option": {
+      "english": [
+        "Due to weak bonds",
+        "Due to low density",
+        "Due to impurities",
+        "Due to strong metallic bonds"
+      ],
+      "hindi": [
+        "कमजोर बंधों के कारण",
+        "कम घनत्व के कारण",
+        "अशुद्धियों के कारण",
+        "मजबूत धात्विक बंधों के कारण"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Metals have high melting and boiling points due to strong metallic bonds. In metals, the positive metal ions are held together by a sea of delocalized electrons. These strong bonds require a lot of energy to break, which is why high temperatures are needed to melt or boil metals.",
+      "hindi": "धातुओं का गलनांक और क्वथनांक मजबूत धात्विक बंधों के कारण उच्च होता है। धातुओं में, धनात्मक धातु आयन विस्थानीकृत इलेक्ट्रॉनों के समुद्र द्वारा एक साथ बंधे होते हैं। इन मजबूत बंधों को तोड़ने के लिए बहुत अधिक ऊर्जा की आवश्यकता होती है, इसलिए धातुओं को पिघलाने या उबालने के लिए उच्च तापमान की आवश्यकता होती है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is used in making steel?",
+      "hindi": "स्टील बनाने में किस धातु का उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Iron",
+        "Copper",
+        "Aluminum",
+        "Zinc"
+      ],
+      "hindi": [
+        "लोहा",
+        "तांबा",
+        "एल्युमिनियम",
+        "जस्ता"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "Iron is used to make steel by adding carbon (0.05-2%). Different types of steel are made by varying carbon content: Mild steel (0.25-0.5% C) for construction, High carbon steel (0.5-1.5% C) for tools. Adding carbon makes iron stronger and harder. The carbon atoms fit between iron atoms making the structure stronger.",
+      "hindi": "स्टील बनाने के लिए लोहे में कार्बन (0.05-2%) मिलाया जाता है। कार्बन की मात्रा बदलकर विभिन्न प्रकार की स्टील बनाई जाती है: मृदु इस्पात (0.25-0.5% C) निर्माण के लिए, उच्च कार्बन इस्पात (0.5-1.5% C) औजारों के लिए। कार्बन मिलाने से लोहा मजबूत और कठोर हो जाता है। कार्बन परमाणु लोहे के परमाणुओं के बीच फिट होकर संरचना को मजबूत बनाते हैं।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Why are metals good conductors of electricity and heat?",
+      "hindi": "धातुएं विद्युत और ऊष्मा की अच्छी चालक क्यों होती हैं?"
+    },
+    "option": {
+      "english": [
+        "Due to their color",
+        "Due to their weight",
+        "Due to free electrons",
+        "Due to their density"
+      ],
+      "hindi": [
+        "उनके रंग के कारण",
+        "उनके वजन के कारण", 
+        "मुक्त इलेक्ट्रॉनों के कारण",
+        "उनके घनत्व के कारण"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Metals are good conductors because they have free electrons in their structure. These electrons can move easily throughout the metal, carrying electrical charge (electricity) and energy (heat). In metallic bonding, each metal atom donates electrons to form a 'sea of electrons' that can move freely through the metal.",
+      "hindi": "धातुएं अच्छी चालक होती हैं क्योंकि उनकी संरचना में मुक्त इलेक्ट्रॉन होते हैं। ये इलेक्ट्रॉन धातु में आसानी से चल सकते हैं, जो विद्युत आवेश (बिजली) और ऊर्जा (ऊष्मा) को ले जाते हैं। धात्विक बंधन में, प्रत्येक धातु परमाणु इलेक्ट्रॉन देकर 'इलेक्ट्रॉनों का समुद्र' बनाता है जो धातु में स्वतंत्र रूप से घूम सकता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Which metal is 2nd reactive after potassium?",
+      "hindi": "कौन सी धातु पोटैशियम के बाद दूसरी सबसे क्रियाशील है?"
+    },
+    "option": {
+      "english": [
+        "Copper",
+        "Sodium",
+        "Zinc",
+        "Iron"
+      ],
+      "hindi": [
+        "तांबा",
+        "सोडियम",
+        "जस्ता",
+        "लोहा"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Sodium is the second most reactive metal after potassium in the reactivity series. The reactivity order is: K > Na > Ca > Mg > Al > Zn > Fe > Cu. Sodium reacts vigorously with water: 2Na + 2H2O → 2NaOH + H2 (with a hissing sound and moving on water surface). It must be stored in kerosene.",
+      "hindi": "सक्रियता श्रेणी में सोडियम, पोटैशियम के बाद दूसरी सबसे अधिक क्रियाशील धातु है। सक्रियता क्रम है: K > Na > Ca > Mg > Al > Zn > Fe > Cu। सोडियम पानी के साथ तीव्र अभिक्रिया करता है: 2Na + 2H2O → 2NaOH + H2 (फुसफुसाहट की आवाज के साथ और पानी की सतह पर चलते हुए)। इसे केरोसीन में संग्रहित करना चाहिए।"
+    },
+    "image": null,
+    "medium": "hard"
+  }
 ]

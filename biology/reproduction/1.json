@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Binary fission",
-          "Fertilization",
+          "Fertilization", 
           "Budding",
           "Fragmentation"
         ],
@@ -18,7 +18,11 @@
           "खंडन"
         ]
       },
-      "answer": 1,      
+      "answer": 1,
+      "explanation": {
+        "english": "Fertilization is the process where a male gamete (sperm) fuses with a female gamete (egg) to form a zygote. This is a crucial step in sexual reproduction that combines genetic material from both parents to create a new organism. In humans, fertilization occurs in the fallopian tube after which the zygote travels to the uterus for implantation.",
+        "hindi": "निषेचन वह प्रक्रिया है जहां एक नर युग्मक (शुक्राणु) मादा युग्मक (अंडा) के साथ संलयन करके युग्मनज बनाता है। यह लैंगिक प्रजनन का एक महत्वपूर्ण चरण है जो दोनों माता-पिता से आनुवंशिक सामग्री को जोड़कर एक नए जीव का निर्माण करता है। मनुष्यों में, निषेचन फैलोपियन ट्यूब में होता है जिसके बाद युग्मनज गर्भाशय में प्रत्यारोपण के लिए यात्रा करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Budding is a type of asexual reproduction where a new organism grows from a small part of the parent's body. A small bud forms on the parent body, develops into a small replica of the parent, and eventually breaks off to live independently. Common examples include hydra and yeast. This method doesn't require two parents and the offspring is genetically identical to the parent.",
+        "hindi": "मुकुलन अलैंगिक प्रजनन का एक प्रकार है जहां एक नया जीव जनक के शरीर के छोटे भाग से विकसित होता है। जनक के शरीर पर एक छोटी सी कली बनती है, जो जनक की एक छोटी प्रतिकृति में विकसित होती है, और अंततः स्वतंत्र रूप से जीवित रहने के लिए अलग हो जाती है। सामान्य उदाहरणों में हाइड्रा और यीस्ट शामिल हैं। इस विधि में दो जनकों की आवश्यकता नहीं होती है और संतति आनुवंशिक रूप से जनक के समान होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,7 +73,11 @@
         ]
       },
       "answer": 2,
-        "image": null,
+      "explanation": {
+        "english": "The ovary of the flower develops into fruit after fertilization. When pollen grains fertilize the egg cells in the ovary, it triggers the ovary to develop into a fruit. The ovules inside the ovary develop into seeds. This is why fruits contain seeds - they were once ovules in the flower's ovary. The fruit provides protection to seeds and helps in their dispersal.",
+        "hindi": "फूल का अंडाशय निषेचन के बाद फल में विकसित होता है। जब परागकण अंडाशय में अंडकोशिकाओं का निषेचन करते हैं, तो यह अंडाशय को फल में विकसित होने के लिए प्रेरित करता है। अंडाशय के अंदर के बीजांड बीज में विकसित होते हैं। इसीलिए फलों में बीज होते हैं - ये एक समय फूल के अंडाशय में बीजांड थे। फल बीजों को सुरक्षा प्रदान करता है और उनके प्रसार में मदद करता है।"
+      },
+      "image": null,
       "medium": "easy"
     },
     {
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Testosterone is the primary male sex hormone produced mainly in the testes. During puberty, it causes development of male secondary sexual characteristics like: deeper voice, facial and body hair growth, increased muscle mass and bone density, growth of adam's apple, and maturation of reproductive organs. It continues to play important roles throughout adult life in maintaining these characteristics.",
+        "hindi": "टेस्टोस्टेरोन मुख्य रूप से वृषण में उत्पादित होने वाला प्राथमिक पुरुष यौन हार्मोन है। यौवनावस्था के दौरान, यह पुरुष द्वितीयक लैंगिक विशेषताओं के विकास का कारण बनता है जैसे: गहरी आवाज, चेहरे और शरीर के बालों का विकास, मांसपेशियों का बढ़ना और हड्डियों का घनत्व, एडम्स एप्पल का विकास, और प्रजनन अंगों का परिपक्व होना। यह वयस्क जीवन में इन विशेषताओं को बनाए रखने में महत्वपूर्ण भूमिका निभाता रहता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -99,18 +115,22 @@
       "option": {
         "english": [
           "Hormone production",
+          "All of these",
           "Nutrient exchange",
-          "Waste removal",
-          "All of these"
+          "Waste removal"
         ],
         "hindi": [
           "हार्मोन उत्पादन",
+          "ये सभी",
           "पोषक तत्वों का आदान-प्रदान",
-          "अपशिष्ट निष्कासन",
-          "ये सभी"
+          "अपशिष्ट निष्कासन"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The placenta is a vital organ that develops during pregnancy and performs multiple crucial functions: 1) It transfers nutrients and oxygen from mother to fetus, 2) Removes waste products from the fetus, 3) Produces important hormones like HCG and progesterone that maintain pregnancy, 4) Acts as a barrier protecting the fetus from harmful substances, and 5) Helps in immune protection of the fetus. It's like a life-support system for the developing baby.",
+        "hindi": "प्लेसेंटा एक महत्वपूर्ण अंग है जो गर्भावस्था के दौरान विकसित होता है और कई महत्वपूर्ण कार्य करता है: 1) यह मां से भ्रूण तक पोषक तत्वों और ऑक्सीजन का स्थानांतरण करता है, 2) भ्रूण से अपशिष्ट पदार्थों को निकालता है, 3) एचसीजी और प्रोजेस्टेरोन जैसे महत्वपूर्ण हार्मोन का उत्पादन करता है जो गर्भावस्था को बनाए रखते हैं, 4) हानिकारक पदार्थों से भ्रूण की रक्षा करने वाली बाधा के रूप में कार्य करता है, और 5) भ्रूण की प्रतिरक्षा सुरक्षा में मदद करता है। यह विकासशील शिशु के लिए एक जीवन सहायक प्रणाली की तरह है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Meiosis ensures genetic variation through several mechanisms: 1) Crossing over during prophase I where chromosomes exchange genetic material, 2) Random alignment of chromosomes during metaphase I, and 3) Independent assortment of chromosomes. This creates unique combinations of genes in gametes. When these gametes unite during fertilization, they produce offspring with different combinations of traits from both parents.",
+        "hindi": "अर्धसूत्री विभाजन कई क्रियाविधियों के माध्यम से आनुवंशिक विविधता सुनिश्चित करता है: 1) प्रोफेज I के दौरान क्रॉसिंग ओवर जहां गुणसूत्र आनुवंशिक सामग्री का आदान-प्रदान करते हैं, 2) मेटाफेज I के दौरान गुणसूत्रों का यादृच्छिक संरेखण, और 3) गुणसूत्रों का स्वतंत्र विन्यास। यह युग्मकों में जीन के अनूठे संयोजन बनाता है। जब ये युग्मक निषेचन के दौरान मिलते हैं, तो वे दोनों माता-पिता से विभिन्न लक्षणों के संयोजन वाली संतान उत्पन्न करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The anther is part of the stamen (male reproductive organ) in flowers that produces pollen grains. Inside the anther, special cells undergo meiosis to form pollen grains containing male gametes. When mature, the anther splits open to release these pollen grains. Each pollen grain has a tough protective outer wall and contains cells that will eventually form sperm cells for fertilization.",
+        "hindi": "परागकोश पुंकेसर (नर प्रजनन अंग) का वह भाग है जो फूलों में परागकण उत्पन्न करता है। परागकोश के अंदर, विशेष कोशिकाएं अर्धसूत्री विभाजन से नर युग्मक युक्त परागकण बनाती हैं। परिपक्व होने पर, परागकोश खुल जाता है और इन परागकणों को मुक्त करता है। प्रत्येक परागकण में एक मजबूत सुरक्षात्मक बाहरी दीवार होती है और इसमें ऐसी कोशिकाएं होती हैं जो अंततः निषेचन के लिए शुक्राणु कोशिकाएं बनेंगी।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA carries genetic information that is passed from parents to offspring during reproduction. It contains genes that determine all inherited characteristics. During reproduction, DNA replicates and passes copies to offspring through gametes. This genetic material provides instructions for development, functioning, and traits of the new organism. DNA ensures continuity of characteristics across generations while allowing for variations through genetic recombination.",
+        "hindi": "DNA आनुवंशिक सूचना वहन करता है जो प्रजनन के दौरान माता-पिता से संतान में स्थानांतरित होती है। इसमें वे जीन होते हैं जो सभी वंशागत विशेषताओं को निर्धारित करते हैं। प्रजनन के दौरान, DNA प्रतिकृति बनाता है और युग्मकों के माध्यम से संतान को प्रतियां पास करता है। यह आनुवंशिक सामग्री नए जीव के विकास, कार्यप्रणाली और लक्षणों के लिए निर्देश प्रदान करती है। DNA आनुवंशिक पुनर्संयोजन के माध्यम से विविधताओं की अनुमति देते हुए पीढ़ियों में विशेषताओं की निरंतरता सुनिश्चित करता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -191,18 +223,22 @@
       "option": {
         "english": [
           "Different flowering time",
+          "All of these",
           "Self-incompatibility",
-          "Position of anthers",
-          "All of these"
+          "Position of anthers"
         ],
         "hindi": [
           "अलग पुष्पन समय",
+          "ये सभी",
           "स्व-असंगतता",
-          "परागकोशों की स्थिति",
-          "ये सभी"
+          "परागकोशों की स्थिति"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Plants have evolved multiple mechanisms to prevent self-pollination and promote cross-pollination: 1) Dichogamy - where male and female parts mature at different times, 2) Self-incompatibility - where pollen from the same flower cannot fertilize its own ovules, 3) Physical separation of anthers and stigma, and 4) Different heights of stamens and pistils (heterostyly). These mechanisms ensure genetic diversity by promoting cross-pollination between different plants.",
+        "hindi": "पौधों ने स्व-परागण को रोकने और पर-परागण को बढ़ावा देने के लिए कई क्रियाविधियां विकसित की हैं: 1) डाइकोगैमी - जहां नर और मादा भाग अलग-अलग समय पर परिपक्व होते हैं, 2) स्व-असंगतता - जहां एक ही फूल का परागकण अपने बीजांडों का निषेचन नहीं कर सकता, 3) परागकोश और वर्तिकाग्र का भौतिक पृथक्करण, और 4) पुंकेसर और स्त्रीकेसर की अलग-अलग ऊंचाई (हेटेरोस्टाइली)। ये क्रियाविधियां विभिन्न पौधों के बीच पर-परागण को बढ़ावा देकर आनुवंशिक विविधता सुनिश्चित करती हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The menstrual cycle prepares the female body for potential pregnancy each month. It involves several phases: 1) Menstruation - shedding of uterine lining, 2) Follicular phase - egg development and uterine lining buildup, 3) Ovulation - release of mature egg, and 4) Luteal phase - uterus prepares for possible implantation. If fertilization doesn't occur, the cycle begins again. This complex process is regulated by hormones and is essential for human reproduction.",
+        "hindi": "मासिक धर्म चक्र प्रत्येक महीने संभावित गर्भावस्था के लिए महिला शरीर को तैयार करता है। इसमें कई चरण शामिल हैं: 1) मासिक धर्म - गर्भाशय की परत का विसर्जन, 2) पुटिका चरण - अंडे का विकास और गर्भाशय की परत का निर्माण, 3) अंडोत्सर्ग - परिपक्व अंडे का विमोचन, और 4) पीतपिंड चरण - गर्भाशय संभावित प्रत्यारोपण के लिए तैयार होता है। यदि निषेचन नहीं होता है, तो चक्र फिर से शुरू होता है। यह जटिल प्रक्रिया हार्मोन द्वारा नियंत्रित होती है और मानव प्रजनन के लिए आवश्यक है।"
+      },
       "image": null,
       "medium": "hard"
     }

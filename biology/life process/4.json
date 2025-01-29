@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What is the function of pancreas in digestion?",
-        "hindi": "पाचन में अग्न्याशय का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Produces bile",
-          "Stores enzymes",
-          "Secretes digestive enzymes",
-          "Absorbs nutrients"
-        ],
-        "hindi": [
-          "पित्त उत्पन्न करता है",
-          "एंजाइम संग्रह करता है",
-          "पाचक एंजाइम स्रावित करता है",
-          "पोषक तत्व अवशोषित करता है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the function of pancreas in digestion?",
+      "hindi": "पाचन में अग्न्याशय का क्या कार्य है?"
     },
-    {
-      "question_name": {
-        "english": "Which blood vessel carries blood to kidneys?",
-        "hindi": "कौन सी रक्त वाहिनी गुर्दे तक रक्त ले जाती है?"
-      },
-      "option": {
-        "english": [
-          "Renal artery",
-          "Renal vein",
-          "Aorta",
-          "Vena cava"
-        ],
-        "hindi": [
-          "वृक्क धमनी",
-          "वृक्क शिरा",
-          "महाधमनी",
-          "महाशिरा"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Produces bile",
+        "Stores enzymes",
+        "Secretes digestive enzymes",
+        "Absorbs nutrients"
+      ],
+      "hindi": [
+        "पित्त उत्पन्न करता है",
+        "एंजाइम संग्रह करता है",
+        "पाचक एंजाइम स्रावित करता है",
+        "पोषक तत्व अवशोषित करता है"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the role of phloem in plants?",
-        "hindi": "पौधों में फ्लोएम की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Transport water",
-          "Transport food",
-          "Store food",
-          "Produce food"
-        ],
-        "hindi": [
-          "जल का परिवहन",
-          "भोजन का परिवहन",
-          "भोजन का संग्रह",
-          "भोजन का उत्पादन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the main function of large intestine?",
-        "hindi": "बड़ी आंत का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Digest food",
-          "Absorb nutrients",
-          "Absorb water",
-          "Produce enzymes"
-        ],
-        "hindi": [
-          "भोजन का पाचन",
-          "पोषक तत्वों का अवशोषण",
-          "जल का अवशोषण",
-          "एंजाइम उत्पादन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which chamber of heart pumps blood to body?",
-        "hindi": "हृदय का कौन सा कक्ष शरीर में रक्त पंप करता है?"
-      },
-      "option": {
-        "english": [
-          "Right atrium",
-          "Left atrium",
-          "Right ventricle",
-          "Left ventricle"
-        ],
-        "hindi": [
-          "दायाँ आलिंद",
-          "बायाँ आलिंद",
-          "दायाँ निलय",
-          "बायाँ निलय"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What causes the opening and closing of stomata?",
-        "hindi": "रंध्रों का खुलना और बंद होना किस कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "Temperature change",
-          "Light intensity",
-          "Turgor pressure",
-          "Wind speed"
-        ],
-        "hindi": [
-          "तापमान परिवर्तन",
-          "प्रकाश की तीव्रता",
-          "दाब स्थितिस्थापकता",
-          "वायु की गति"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "How does blood clotting occur?",
-        "hindi": "रक्त का थक्का कैसे जमता है?"
-      },
-      "option": {
-        "english": [
-          "By white blood cells",
-          "By red blood cells",
-          "By platelets and proteins",
-          "By plasma alone"
-        ],
-        "hindi": [
-          "श्वेत रक्त कोशिकाओं द्वारा",
-          "लाल रक्त कोशिकाओं द्वारा",
-          "प्लेटलेट्स और प्रोटीन द्वारा",
-          "केवल प्लाज्मा द्वारा"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of vascular cambium?",
-        "hindi": "संवहनी कैम्बियम की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Produces bark",
-          "Forms new xylem and phloem",
-          "Stores food",
-          "Protects plant"
-        ],
-        "hindi": [
-          "छाल उत्पन्न करता है",
-          "नया जाइलम और फ्लोएम बनाता है",
-          "भोजन संग्रह करता है",
-          "पौधे की रक्षा करता है"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why is glucose not found in urine normally?",
-        "hindi": "सामान्यतः मूत्र में ग्लूकोज क्यों नहीं पाया जाता?"
-      },
-      "option": {
-        "english": [
-          "Broken down in kidneys",
-          "Converted to other substances",
-          "Completely reabsorbed",
-          "Filtered out in blood"
-        ],
-        "hindi": [
-          "गुर्दे में टूट जाता है",
-          "अन्य पदार्थों में बदल जाता है",
-          "पूरी तरह पुनः अवशोषित हो जाता है",
-          "रक्त में छन जाता है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What causes heart sounds 'lub' and 'dub'?",
-        "hindi": "'लब' और 'डब' हृदय ध्वनियाँ किस कारण होती हैं?"
-      },
-      "option": {
-        "english": [
-          "Blood flow",
-          "Heart muscle contraction",
-          "Valve closure",
-          "Arterial movement"
-        ],
-        "hindi": [
-          "रक्त प्रवाह",
-          "हृदय पेशी संकुचन",
-          "वाल्व का बंद होना",
-          "धमनी की गति"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The pancreas secretes digestive enzymes like amylase, protease, and lipase into the small intestine to break down carbohydrates, proteins, and fats, respectively.",
+      "hindi": "अग्न्याशय पाचक एंजाइम जैसे एमाइलेज, प्रोटीएज और लाइपेज को छोटी आंत में स्रावित करता है ताकि कार्बोहाइड्रेट, प्रोटीन और वसा को क्रमशः तोड़ा जा सके।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which blood vessel carries blood to kidneys?",
+      "hindi": "कौन सी रक्त वाहिनी गुर्दे तक रक्त ले जाती है?"
+    },
+    "option": {
+      "english": [
+        "Vena cava",
+        "Aorta",
+        "Renal vein",
+        "Renal artery"
+      ],
+      "hindi": [
+        "महाशिरा",
+        "महाधमनी",
+        "वृक्क शिरा",
+        "वृक्क धमनी"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The renal artery carries oxygenated blood from the aorta to the kidneys for filtration.",
+      "hindi": "वृक्क धमनी ऑक्सीजनयुक्त रक्त को महाधमनी से गुर्दे तक ले जाती है ताकि रक्त को छाना जा सके।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of phloem in plants?",
+      "hindi": "पौधों में फ्लोएम की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Transport water",
+        "Transport food",
+        "Store food",
+        "Produce food"
+      ],
+      "hindi": [
+        "जल का परिवहन",
+        "भोजन का परिवहन",
+        "भोजन का संग्रह",
+        "भोजन का उत्पादन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Phloem is a vascular tissue responsible for transporting sugars (food) produced during photosynthesis from the leaves to other parts of the plant.",
+      "hindi": "फ्लोएम एक संवहन ऊतक है जो प्रकाश संश्लेषण के दौरान पत्तियों में उत्पादित शर्करा (भोजन) को पौधे के अन्य भागों में पहुंचाने के लिए जिम्मेदार है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of large intestine?",
+      "hindi": "बड़ी आंत का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Absorb water",
+        "Digest food",
+        "Absorb nutrients",
+        "Produce enzymes"
+      ],
+      "hindi": [
+        "जल का अवशोषण",
+        "भोजन का पाचन",
+        "पोषक तत्वों का अवशोषण",
+        "एंजाइम उत्पादन"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The large intestine primarily absorbs water and electrolytes from the remaining indigestible food matter, forming feces.",
+      "hindi": "बड़ी आंत मुख्य रूप से शेष अपाच्य भोजन से पानी और इलेक्ट्रोलाइट्स को अवशोषित करती है, जिससे मल बनता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which chamber of heart pumps blood to body?",
+      "hindi": "हृदय का कौन सा कक्ष शरीर में रक्त पंप करता है?"
+    },
+    "option": {
+      "english": [
+        "Right atrium",
+        "Left atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "hindi": [
+        "दायाँ आलिंद",
+        "बायाँ आलिंद",
+        "बायाँ निलय",
+        "दायाँ निलय"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The left ventricle is the strongest chamber of the heart and is responsible for pumping oxygenated blood to the entire body through the aorta.",
+      "hindi": "बायाँ निलय हृदय का सबसे मजबूत कक्ष है और यह महाधमनी के माध्यम से पूरे शरीर में ऑक्सीजनयुक्त रक्त पंप करने के लिए जिम्मेदार है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes the opening and closing of stomata?",
+      "hindi": "रंध्रों का खुलना और बंद होना किस कारण होता है?"
+    },
+    "option": {
+      "english": [
+        "Temperature change",
+        "Turgor pressure",
+        "Light intensity",
+        "Wind speed"
+      ],
+      "hindi": [
+        "तापमान परिवर्तन",
+        "दाब स्थितिस्थापकता",
+        "प्रकाश की तीव्रता",
+        "वायु की गति"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Changes in turgor pressure in the guard cells, caused by the movement of water and ions, regulate the opening and closing of stomata.",
+      "hindi": "द्वार कोशिकाओं में स्फीति दाब (टर्गर प्रेशर) में परिवर्तन, जो पानी और आयनों की गति के कारण होता है, रंध्रों के खुलने और बंद होने को नियंत्रित करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "How does blood clotting occur?",
+      "hindi": "रक्त का थक्का कैसे जमता है?"
+    },
+    "option": {
+      "english": [
+        "By white blood cells",
+        "By red blood cells",
+        "By plasma alone",
+        "By platelets and proteins"
+      ],
+      "hindi": [
+        "श्वेत रक्त कोशिकाओं द्वारा",
+        "लाल रक्त कोशिकाओं द्वारा",
+        "केवल प्लाज्मा द्वारा",
+        "प्लेटलेट्स और प्रोटीन द्वारा"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Blood clotting involves a complex cascade of events where platelets adhere to the injured site and, along with clotting factors (proteins), form a fibrin mesh to stop bleeding.",
+      "hindi": "रक्त का थक्का जमना एक जटिल प्रक्रिया है जिसमें प्लेटलेट्स चोट वाली जगह पर चिपक जाते हैं और क्लॉटिंग कारकों (प्रोटीन) के साथ मिलकर एक फाइब्रिन जाल बनाते हैं जिससे रक्तस्राव रुक जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of vascular cambium?",
+      "hindi": "संवहनी कैम्बियम की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Forms new xylem and phloem",
+        "Produces bark",
+        "Stores food",
+        "Protects plant"
+      ],
+      "hindi": [
+        "नया जाइलम और फ्लोएम बनाता है",
+        "छाल उत्पन्न करता है",
+        "भोजन संग्रह करता है",
+        "पौधे की रक्षा करता है"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Vascular cambium is a layer of meristematic tissue that produces new xylem (water-conducting) and phloem (food-conducting) tissues, allowing for secondary growth in plants.",
+      "hindi": "संवहनी कैम्बियम विभज्योतकीय ऊतक (मेरिस्टेमेटिक टिशू) की एक परत है जो नए जाइलम (जल-संवाहक) और फ्लोएम (भोजन-संवाहक) ऊतक बनाती है, जिससे पौधों में द्वितीयक वृद्धि होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is glucose not found in urine normally?",
+      "hindi": "सामान्यतः मूत्र में ग्लूकोज क्यों नहीं पाया जाता?"
+    },
+    "option": {
+      "english": [
+        "Broken down in kidneys",
+        "Converted to other substances",
+        "Completely reabsorbed",
+        "Filtered out in blood"
+      ],
+      "hindi": [
+        "गुर्दे में टूट जाता है",
+        "अन्य पदार्थों में बदल जाता है",
+        "पूरी तरह पुनः अवशोषित हो जाता है",
+        "रक्त में छन जाता है"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Normally, all the glucose filtered by the kidneys is reabsorbed back into the bloodstream in the proximal convoluted tubule. Its presence in urine indicates a problem, like diabetes.",
+      "hindi": "सामान्यतः, गुर्दे द्वारा छाना गया सारा ग्लूकोज समीपस्थ संवलित नलिका (प्रॉक्सिमल कनवोल्यूटेड ट्यूब्यूल) में वापस रक्तप्रवाह में पुनः अवशोषित हो जाता है। मूत्र में इसकी उपस्थिति किसी समस्या का संकेत देती है, जैसे कि मधुमेह।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What causes heart sounds 'lub' and 'dub'?",
+      "hindi": "'लब' और 'डब' हृदय ध्वनियाँ किस कारण होती हैं?"
+    },
+    "option": {
+      "english": [
+        "Blood flow",
+        "Valve closure",
+        "Heart muscle contraction",
+        "Arterial movement"
+      ],
+      "hindi": [
+        "रक्त प्रवाह",
+        "वाल्व का बंद होना",
+        "हृदय पेशी संकुचन",
+        "धमनी की गति"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "The 'lub' sound is caused by the closure of the atrioventricular valves (mitral and tricuspid) at the beginning of systole, and the 'dub' sound is caused by the closure of the semilunar valves (aortic and pulmonary) at the end of systole.",
+      "hindi": "'लब' ध्वनि सिस्टोल की शुरुआत में अलिंद-निलय वाल्व (मिट्रल और ट्राइकसपिड) के बंद होने के कारण होती है, और 'डब' ध्वनि सिस्टोल के अंत में अर्धचंद्राकार वाल्व (एओर्टिक और पल्मोनरी) के बंद होने के कारण होती है।"
+    }
+  }
+]

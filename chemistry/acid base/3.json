@@ -19,6 +19,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Sulfuric acid (H₂SO₄) is used in car batteries because it is a strong electrolyte that can conduct electricity effectively. In the battery, it helps convert chemical energy to electrical energy through reaction with lead plates.",
+        "hindi": "कार की बैटरी में सल्फ्यूरिक अम्ल (H₂SO₄) का उपयोग किया जाता है क्योंकि यह एक प्रबल विद्युत अपघट्य है जो विद्युत का प्रभावी चालन कर सकता है। बैटरी में, यह सीसे की प्लेटों के साथ अभिक्रिया करके रासायनिक ऊर्जा को विद्युत ऊर्जा में बदलने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Calcium hydroxide (Ca(OH)₂), also known as slaked lime, is used in whitewashing walls. When applied, it reacts with CO₂ from air to form a white coating of CaCO₃: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O. This coating is durable and gives walls a clean white appearance.",
+        "hindi": "कैल्शियम हाइड्रॉक्साइड (Ca(OH)₂), जिसे बुझा हुआ चूना भी कहते हैं, दीवारों की पुताई में प्रयोग किया जाता है। लगाने पर, यह हवा से CO₂ के साथ अभिक्रिया करके CaCO₃ की सफेद परत बनाता है: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O। यह परत टिकाऊ होती है और दीवारों को स्वच्छ सफेद रूप देती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Lemon juice has a pH of around 2 because it contains citric acid. This makes it acidic but not as strong as mineral acids like HCl. The acidic nature of lemon juice is what gives it its sour taste.",
+        "hindi": "नींबू के रस में साइट्रिक अम्ल होता है, इसलिए इसका pH लगभग 2 होता है। यह इसे अम्लीय बनाता है लेकिन HCl जैसे खनिज अम्लों जितना प्रबल नहीं। नींबू के रस की अम्लीय प्रकृति ही इसे खट्टा स्वाद प्रदान करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Tamarind contains tartaric acid (C₄H₆O₆), which gives it its characteristic sour taste. This is a naturally occurring organic acid found in many fruits. Tartaric acid is a weak acid and is safe for consumption.",
+        "hindi": "इमली में टार्टरिक अम्ल (C₄H₆O₆) पाया जाता है, जो इसे विशिष्ट खट्टा स्वाद प्रदान करता है। यह एक प्राकृतिक रूप से पाया जाने वाला कार्बनिक अम्ल है जो कई फलों में मौजूद होता है। टार्टरिक अम्ल एक दुर्बल अम्ल है और खाने के लिए सुरक्षित है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "HCl in water conducts electricity because it ionizes completely: HCl → H⁺ + Cl⁻. These ions can carry electric current. Sugar, alcohol, and oil don't form ions in water, so they cannot conduct electricity.",
+        "hindi": "जल में HCl विद्युत का चालन करता है क्योंकि यह पूरी तरह से आयनित होता है: HCl → H⁺ + Cl⁻। ये आयन विद्युत धारा का वहन कर सकते हैं। शक्कर, अल्कोहल और तेल जल में आयन नहीं बनाते, इसलिए वे विद्युत का चालन नहीं कर सकते।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -121,19 +141,23 @@
       },
       "option": {
         "english": [
-          "MgO + H₂",
           "Mg(OH)₂",
           "No reaction",
-          "MgO + H₂O"
+          "MgO + H₂O",
+          "MgO + H₂"
         ],
         "hindi": [
-          "MgO + H₂",
           "Mg(OH)₂",
           "कोई अभिक्रिया नहीं",
-          "MgO + H₂O"
+          "MgO + H₂O",
+          "MgO + H₂"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "When magnesium reacts with steam (hot water vapor), it forms magnesium oxide and hydrogen gas. The reaction is: Mg + H₂O → MgO + H₂. This is a displacement reaction where magnesium displaces hydrogen from water at high temperature.",
+        "hindi": "जब मैग्नीशियम भाप (गर्म जल वाष्प) से अभिक्रिया करता है, तो मैग्नीशियम ऑक्साइड और हाइड्रोजन गैस बनती है। अभिक्रिया है: Mg + H₂O → MgO + H₂। यह एक विस्थापन अभिक्रिया है जहाँ मैग्नीशियम उच्च तापमान पर जल से हाइड्रोजन को विस्थापित करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,29 +181,37 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "NaCl (common salt) does not contain water of crystallization. Blue vitriol (CuSO₄·5H₂O), green vitriol (FeSO₄·7H₂O), and gypsum (CaSO₄·2H₂O) all contain water molecules in their crystal structure, but NaCl crystallizes without any water molecules.",
+        "hindi": "NaCl (साधारण नमक) में क्रिस्टलीकरण का जल नहीं होता है। नीला थोथा (CuSO₄·5H₂O), हरा थोथा (FeSO₄·7H₂O), और जिप्सम (CaSO₄·2H₂O) सभी में उनकी क्रिस्टल संरचना में जल अणु होते हैं, लेकिन NaCl बिना किसी जल अणु के क्रिस्टलीकृत होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "The pH of blood in human body is maintained at:",
-        "hindi": "मानव शरीर में रक्त का pH बना रहता है:"
+        "english": "What is the pH value of a solution with [H⁺] = 1 × 10⁻⁸ M?",
+        "hindi": "एक विलयन जिसमें [H⁺] = 1 × 10⁻⁸ M है, उसका pH मान क्या होगा?"
       },
       "option": {
         "english": [
-          "6.5",
-          "7.4",
-          "8.0",
-          "7.0"
+          "6",
+          "8",
+          "7",
+          "9"
         ],
         "hindi": [
-          "6.5",
-          "7.4",
-          "8.0",
-          "7.0"
+          "6",
+          "8",
+          "7",
+          "9"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "To find pH, we use the formula pH = -log[H⁺]. When [H⁺] = 1 × 10⁻⁸ M, pH = -log(1 × 10⁻⁸) = 8. Since pH > 7, this solution is basic. Remember: pH < 7 is acidic, pH = 7 is neutral, pH > 7 is basic.",
+        "hindi": "pH ज्ञात करने के लिए, हम सूत्र pH = -log[H⁺] का उपयोग करते हैं। जब [H⁺] = 1 × 10⁻⁸ M है, तब pH = -log(1 × 10⁻⁸) = 8 होता है। चूंकि pH > 7 है, यह विलयन क्षारीय है। याद रखें: pH < 7 अम्लीय, pH = 7 उदासीन, pH > 7 क्षारीय होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -192,17 +224,21 @@
         "english": [
           "KOH",
           "NH₄OH",
-          "Ca(OH)₂",
+          "Al(OH)₃",
           "Mg(OH)₂"
         ],
         "hindi": [
           "KOH",
           "NH₄OH",
-          "Ca(OH)₂",
+          "Al(OH)₃",
           "Mg(OH)₂"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "KOH (potassium hydroxide) is a strong base because it completely dissociates in water: KOH → K⁺ + OH⁻. The other options are weak bases. NH₄OH is weak because it partially dissociates, while Al(OH)₃ and Mg(OH)₂ have low solubility in water.",
+        "hindi": "KOH (पोटैशियम हाइड्रॉक्साइड) एक प्रबल क्षार है क्योंकि यह जल में पूरी तरह से विघटित होता है: KOH → K⁺ + OH⁻। अन्य विकल्प दुर्बल क्षार हैं। NH₄OH दुर्बल है क्योंकि यह आंशिक रूप से विघटित होता है, जबकि Al(OH)₃ और Mg(OH)₂ की जल में विलेयता कम होती है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "When an acid reacts with a metal carbonate, it forms salt, water, and carbon dioxide gas. For example: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. The CO₂ gas can be tested by passing it through lime water, which turns milky.",
+        "hindi": "जब एक अम्ल धातु कार्बोनेट से अभिक्रिया करता है, तो लवण, जल और कार्बन डाइऑक्साइड गैस बनती है। उदाहरण के लिए: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂। CO₂ गैस की जाँच चूने के पानी से करने पर वह दूधिया हो जाता है।"
+      },
       "image": null,
       "medium": "hard"
     }

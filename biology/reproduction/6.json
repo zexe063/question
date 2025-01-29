@@ -13,13 +13,17 @@
           "Filter sperm"
         ],
         "hindi": [
-          "द्रव उत्पादन",
+          "श्रव उत्पादन",
           "शुक्राणु संग्रह",
-          "शुक्राणु परिवहन",
+          "शुक्राणु परिवहन", 
           "शुक्राणु छानना"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The prostate gland is an important male reproductive organ that produces a fluid which helps nourish and protect sperm cells. This fluid makes up about 30% of semen volume and helps sperm cells survive.",
+        "hindi": "प्रोस्टेट ग्रंथि एक महत्वपूर्ण पुरुष प्रजनन अंग है जो एक तरल पदार्थ का उत्पादन करता है जो शुक्राणु कोशिकाओं को पोषण और सुरक्षा प्रदान करता है। यह तरल वीर्य के आयतन का लगभग 30% होता है और शुक्राणु कोशिकाओं को जीवित रहने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -43,6 +47,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Prolactin is a hormone produced by the pituitary gland that stimulates milk production in mammary glands after childbirth. It is essential for lactation and maintaining milk supply during breastfeeding.",
+        "hindi": "प्रोलैक्टिन पीयूष ग्रंथि द्वारा उत्पादित एक हार्मोन है जो प्रसव के बाद स्तन ग्रंथियों में दूध का उत्पादन करता है। यह स्तनपान के दौरान दूध की आपूर्ति को बनाए रखने के लिए आवश्यक है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -66,6 +74,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Fallopian tubes are the pathways that connect ovaries to the uterus. Their main function is to transport the egg from the ovary to the uterus. This is also where fertilization typically occurs when sperm meets the egg.",
+        "hindi": "फैलोपियन ट्यूब अंडाशय को गर्भाशय से जोड़ने वाली नलियां हैं। इनका मुख्य कार्य अंडे को अंडाशय से गर्भाशय तक पहुंचाना है। यह वह जगह भी है जहां शुक्राणु के अंडे से मिलने पर निषेचन होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -89,6 +101,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Ovulation is the process where a mature egg is released from the ovary. This usually happens around day 14 of a typical 28-day menstrual cycle. The released egg can then be fertilized by sperm in the fallopian tube.",
+        "hindi": "अंडोत्सर्जन वह प्रक्रिया है जिसमें परिपक्व अंडा अंडाशय से निकलता है। यह आमतौर पर 28 दिनों के मासिक धर्म चक्र के 14वें दिन के आसपास होता है। निकला हुआ अंडा फिर फैलोपियन ट्यूब में शुक्राणु द्वारा निषेचित हो सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -112,6 +128,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Sertoli cells are 'nurse cells' found in the testes. They provide nutrition and support to developing sperm cells during spermatogenesis. They also protect the sperm cells by forming a blood-testis barrier.",
+        "hindi": "सर्टोली कोशिकाएं वृषण में पाई जाने वाली 'पोषक कोशिकाएं' हैं। ये शुक्राणु निर्माण के दौरान विकासशील शुक्राणु कोशिकाओं को पोषण और सहायता प्रदान करती हैं। ये रक्त-वृषण अवरोध बनाकर शुक्राणु कोशिकाओं की रक्षा भी करती हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -135,6 +155,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The hypothalamus is a part of the brain that controls hormone production. It releases hormones that signal the pituitary gland to produce reproductive hormones. This creates a hormone cascade that regulates reproduction.",
+        "hindi": "हाइपोथैलेमस मस्तिष्क का वह भाग है जो हार्मोन उत्पादन को नियंत्रित करता है। यह ऐसे हार्मोन छोड़ता है जो पीयूष ग्रंथि को प्रजनन हार्मोन बनाने का संकेत देते हैं। यह प्रजनन को नियंत्रित करने वाला एक हार्मोन प्रवाह बनाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -158,6 +182,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "The chorion is the outermost membrane that surrounds the developing embryo. Its main function is to form the placenta, which provides nutrients and oxygen to the developing baby and removes waste products.",
+        "hindi": "जरायु विकासशील भ्रूण को घेरने वाली सबसे बाहरी झिल्ली है। इसका मुख्य कार्य प्लेसेंटा बनाना है, जो विकासशील शिशु को पोषक तत्व और ऑक्सीजन प्रदान करता है और अपशिष्ट पदार्थों को हटाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -181,52 +209,64 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Oxytocin is known as the 'let-down' hormone. When a baby suckles, it triggers oxytocin release, which causes the milk-producing cells to contract and release milk. This reflex is essential for successful breastfeeding.",
+        "hindi": "ऑक्सीटोसिन को 'लेट-डाउन' हार्मोन के रूप में जाना जाता है। जब शिशु दूध पीता है, तो यह ऑक्सीटोसिन को छोड़ने का कारण बनता है, जो दूध उत्पादक कोशिकाओं को संकुचित करने और दूध छोड़ने का कारण बनता है। यह प्रतिक्षेप सफल स्तनपान के लिए आवश्यक है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the role of actin filaments in sperm?",
-        "hindi": "शुक्राणु में एक्टिन तंतुओं की क्या भूमिका है?"
+        "english": "Which gland produces testosterone?",
+        "hindi": "टेस्टोस्टेरोन का उत्पादन कौन सी ग्रंथि करती है?"
       },
       "option": {
         "english": [
-          "Movement",
-          "Energy production",
-          "DNA storage",
-          "Enzyme production"
+          "Testes gland",
+          "Prostate gland",
+          "Pituitary gland",
+          "Adrenal gland"
         ],
         "hindi": [
-          "गति",
-          "ऊर्जा उत्पादन",
-          "DNA संग्रह",
-          "एंजाइम उत्पादन"
+          "टेस्टिस ग्रंथि",
+          "प्रोस्टेट ग्रंथि",
+          "पीयूष ग्रंथि",
+          "एड्रीनल ग्रंथि"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The testes (testicles) produce testosterone, the primary male sex hormone. Testosterone is responsible for male physical characteristics, sperm production, and sexual development during puberty.",
+        "hindi": "वृषण (टेस्टिस) टेस्टोस्टेरोन का उत्पादन करते हैं, जो प्राथमिक पुरुष यौन हार्मोन है। टेस्टोस्टेरोन पुरुष शारीरिक विशेषताओं, शुक्राणु उत्पादन और यौवन के दौरान यौन विकास के लिए जिम्मेदार है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the function of corona radiata?",
-        "hindi": "कोरोना रेडिएटा का क्या कार्य है?"
+        "english": "What happens to unfertilized egg?",
+        "hindi": "अनिषेचित अंडे का क्या होता है?"
       },
       "option": {
         "english": [
-          "Hormone production",
-          "Sperm attraction",
-          "Egg protection",
-          "Waste removal"
+          "Stored in ovary",
+          "Moves to uterus",
+          "Breaks down",
+          "Forms new egg"
         ],
         "hindi": [
-          "हार्मोन उत्पादन",
-          "शुक्राणु आकर्षण",
-          "अंडे की सुरक्षा",
-          "अपशिष्ट निष्कासन"
+          "अंडाशय में संग्रहित",
+          "गर्भाशय में जाता है",
+          "टूट जाता है",
+          "नया अंडा बनता है"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "If an egg is not fertilized by sperm, it breaks down and is shed along with the uterine lining during menstruation. This process is part of the normal menstrual cycle that occurs approximately every 28 days.",
+        "hindi": "यदि अंडा शुक्राणु द्वारा निषेचित नहीं होता है, तो यह टूट जाता है और मासिक धर्म के दौरान गर्भाशय की परत के साथ बाहर निकल जाता है। यह प्रक्रिया सामान्य मासिक धर्म चक्र का हिस्सा है जो लगभग हर 28 दिनों में होता है।"
+      },
       "image": null,
       "medium": "hard"
     }

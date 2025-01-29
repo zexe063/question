@@ -8,7 +8,7 @@
         "english": [
           "HCl",
           "CH₃COOH",
-          "H₂CO₃",
+          "H₂CO₃", 
           "H₃PO₄"
         ],
         "hindi": [
@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "HCl (Hydrochloric acid) is a strong acid because it completely dissociates in water to form H⁺ and Cl⁻ ions. The reaction is: HCl + H₂O → H₃O⁺ + Cl⁻",
+        "hindi": "HCl (हाइड्रोक्लोरिक अम्ल) एक प्रबल अम्ल है क्योंकि यह पानी में पूरी तरह से आयनित होकर H⁺ और Cl⁻ आयन बनाता है। अभिक्रिया है: HCl + H₂O → H₃O⁺ + Cl⁻"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Turmeric contains curcumin which acts as a natural indicator. When treated with soap (basic), turmeric stains turn red due to the alkaline nature of soap.",
+        "hindi": "हल्दी में करक्यूमिन होता है जो एक प्राकृतिक सूचक की तरह काम करता है। साबुन (क्षारीय) से धोने पर हल्दी के धब्बे साबुन की क्षारीय प्रकृति के कारण लाल हो जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When CO₂ is passed through lime water (Ca(OH)₂), it turns milky due to formation of calcium carbonate. The reaction is: CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O",
+        "hindi": "जब CO₂ को चूने के पानी (Ca(OH)₂) में से गुजारा जाता है, तो कैल्शियम कार्बोनेट बनने के कारण यह दूधिया हो जाता है। अभिक्रिया है: CO₂ + Ca(OH)₂ → CaCO₃↓ + H₂O"
+      }
     },
     {
       "question_name": {
@@ -89,30 +101,38 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "SO₂ is a non-metal oxide that forms sulfurous acid when dissolved in water. The reaction is: SO₂ + H₂O → H₂SO₃ (sulfurous acid)",
+        "hindi": "SO₂ एक अधातु ऑक्साइड है जो पानी में घुलने पर सल्फ्यूरस अम्ल बनाता है। अभिक्रिया है: SO₂ + H₂O → H₂SO₃ (सल्फ्यूरस अम्ल)"
+      }
     },
     {
       "question_name": {
-        "english": "A solution has pH = 7. It is:",
-        "hindi": "एक विलयन का pH = 7 है। यह है:"
+        "english": "What is the nature of a solution that has equal concentration of H⁺ and OH⁻ ions?",
+        "hindi": "एक विलयन की प्रकृति क्या होगी जिसमें H⁺ और OH⁻ आयनों की सांद्रता बराबर है?"
       },
       "option": {
         "english": [
           "Neutral",
           "Basic",
           "Acidic",
-          "Cannot say"
+          "Cannot determine"
         ],
         "hindi": [
           "उदासीन",
           "क्षारीय",
           "अम्लीय",
-          "नहीं कह सकते"
+          "निर्धारित नहीं किया जा सकता"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When H⁺ and OH⁻ ions are in equal concentration (1×10⁻⁷ M at 25°C), the solution is neutral with pH = 7. This is because H⁺ × OH⁻ = 10⁻¹⁴ (water ionization constant)",
+        "hindi": "जब H⁺ और OH⁻ आयनों की सांद्रता बराबर होती है (25°C पर 1×10⁻⁷ M), तो विलयन उदासीन होता है जिसका pH = 7 होता है। ऐसा इसलिए है क्योंकि H⁺ × OH⁻ = 10⁻¹⁴ (जल का आयनन नियतांक)"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Neutralization reaction between acid and base produces salt and water. Example: HCl + NaOH → NaCl + H₂O",
+        "hindi": "अम्ल और क्षार के बीच उदासीनीकरण अभिक्रिया से लवण और जल बनता है। उदाहरण: HCl + NaOH → NaCl + H₂O"
+      }
     },
     {
       "question_name": {
@@ -158,30 +182,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Phenolphthalein is used to test milk because it turns pink in presence of basic substances. Fresh milk is slightly acidic but turns basic when spoiled, which is detected by phenolphthalein.",
+        "hindi": "दूध की जाँच में फिनॉल्फ्थेलीन का उपयोग किया जाता है क्योंकि यह क्षारीय पदार्थों की उपस्थिति में गुलाबी हो जाता है। ताजा दूध थोड़ा अम्लीय होता है लेकिन खराब होने पर क्षारीय हो जाता है, जिसे फिनॉल्फ्थेलीन से पहचाना जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What makes non-metallic oxides acidic in nature?",
-        "hindi": "अधातु ऑक्साइड प्रकृति में अम्लीय क्यों होते हैं?"
+        "english": "Why does tooth decay occur when we eat too many sweets?",
+        "hindi": "अधिक मीठा खाने से दांतों में क्षय क्यों होता है?"
       },
       "option": {
         "english": [
-          "Form H⁺ in water",
-          "Form OH⁻ in water",
-          "Form acids with water",
-          "Don't react with water"
+          "Sugar directly dissolves teeth",
+          "Bacteria produce base",
+          "Bacteria produce acids",
+          "Sugar hardens on teeth"
         ],
         "hindi": [
-          "जल में H⁺ बनाते हैं",
-          "जल में OH⁻ बनाते हैं",
-          "जल से अम्ल बनाते हैं",
-          "जल से अभिक्रिया नहीं करते"
+          "चीनी सीधे दांतों को घोलती है",
+          "बैक्टीरिया क्षार उत्पन्न करते हैं",
+          "बैक्टीरिया अम्ल उत्पन्न करते हैं",
+          "चीनी दांतों पर जम जाती है"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Bacteria in our mouth break down sugar to produce acids. These acids dissolve the calcium in tooth enamel causing decay. The reaction is: C₆H₁₂O₆ → 2C₃H₆O₃ (Glucose → Lactic acid)",
+        "hindi": "हमारे मुंह में मौजूद बैक्टीरिया चीनी को तोड़कर अम्ल बनाते हैं। ये अम्ल दांतों की परत में मौजूद कैल्शियम को घोल देते हैं जिससे क्षय होता है। अभिक्रिया है: C₆H₁₂O₆ → 2C₃H₆O₃ (ग्लूकोज → लैक्टिक अम्ल)"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "pH = -log[H⁺]. When [H⁺] = 1 × 10⁻⁸ M, pH = -log(1 × 10⁻⁸) = 8. Since pH > 7, the solution is basic.",
+        "hindi": "pH = -log[H⁺]. जब [H⁺] = 1 × 10⁻⁸ M है, तब pH = -log(1 × 10⁻⁸) = 8. चूंकि pH > 7 है, विलयन क्षारीय है।"
+      }
     },
     {
       "question_name": {
@@ -215,18 +251,22 @@
         "english": [
           "H₂O + HCl → H₃O⁺ + Cl⁻",
           "H₂O + NH₃ → NH₄⁺ + OH⁻",
-          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻",
-          "2H₂O → H₂ + O₂"
+          "2H₂O → H₂ + O₂",
+          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻"
         ],
         "hindi": [
           "H₂O + HCl → H₃O⁺ + Cl⁻",
           "H₂O + NH₃ → NH₄⁺ + OH⁻",
-          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻",
-          "2H₂O → H₂ + O₂"
+          "2H₂O → H₂ + O₂",
+          "H₂O + H₂O ⇌ H₃O⁺ + OH⁻"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In the auto-ionization of water (H₂O + H₂O ⇌ H₃O⁺ + OH⁻), one water molecule acts as acid by giving H⁺, while another acts as base by accepting H⁺.",
+        "hindi": "जल के स्वत: आयनीकरण (H₂O + H₂O ⇌ H₃O⁺ + OH⁻) में, एक जल अणु H⁺ देकर अम्ल की तरह व्यवहार करता है, जबकि दूसरा H⁺ लेकर क्षार की तरह व्यवहार करता है।"
+      }
     }
 ]

@@ -1,234 +1,272 @@
-
-
 [
-    {
-      "question_name": {
-        "english": "What is the main function of stomata?",
-        "hindi": "रंध्रों का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Storage of food",
-          "Exchange of gases",
-          "Transport of water",
-          "Protein synthesis"
-        ],
-        "hindi": [
-          "भोजन का संग्रहण",
-          "गैसों का आदान-प्रदान",
-          "जल का परिवहन",
-          "प्रोटीन संश्लेषण"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the main function of stomata?",
+      "hindi": "रंध्रों का मुख्य कार्य क्या है?"
     },
-    {
-      "question_name": {
-        "english": "Which organ helps in digestion of proteins?",
-        "hindi": "कौन सा अंग प्रोटीन के पाचन में मदद करता है?"
-      },
-      "option": {
-        "english": [
-          "Stomach",
-          "Small intestine",
-          "Large intestine",
-          "Liver"
-        ],
-        "hindi": [
-          "आमाशय",
-          "छोटी आंत",
-          "बड़ी आंत",
-          "यकृत"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Storage of food",
+        "Exchange of gases",
+        "Transport of water",
+        "Protein synthesis"
+      ],
+      "hindi": [
+        "भोजन का संग्रहण",
+        "गैसों का आदान-प्रदान",
+        "जल का परिवहन",
+        "प्रोटीन संश्लेषण"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the function of haemoglobin?",
-        "hindi": "हीमोग्लोबिन का कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Fight infection",
-          "Blood clotting",
-          "Transport oxygen",
-          "Digest food"
-        ],
-        "hindi": [
-          "संक्रमण से लड़ना",
-          "रक्त का थक्का जमाना",
-          "ऑक्सीजन का परिवहन",
-          "भोजन का पाचन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which part of nephron filters blood?",
-        "hindi": "नेफ्रॉन का कौन सा भाग रक्त को छानता है?"
-      },
-      "option": {
-        "english": [
-          "Loop of Henle",
-          "Collecting duct",
-          "Bowman's capsule",
-          "Ureter"
-        ],
-        "hindi": [
-          "हेनले का लूप",
-          "संग्रही नलिका",
-          "बोमन संपुट",
-          "मूत्रवाहिनी"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of bile in digestion?",
-        "hindi": "पाचन में पित्त की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Digest proteins",
-          "Emulsify fats",
-          "Break carbohydrates",
-          "Absorb vitamins"
-        ],
-        "hindi": [
-          "प्रोटीन का पाचन",
-          "वसा का पायसीकरण",
-          "कार्बोहाइड्रेट का विघटन",
-          "विटामिन का अवशोषण"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which chamber of heart has thickest wall?",
-        "hindi": "हृदय के किस कक्ष की दीवार सबसे मोटी होती है?"
-      },
-      "option": {
-        "english": [
-          "Right atrium",
-          "Left atrium",
-          "Right ventricle",
-          "Left ventricle"
-        ],
-        "hindi": [
-          "दायाँ आलिंद",
-          "बायाँ आलिंद",
-          "दायाँ निलय",
-          "बायाँ निलय"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the main function of kidneys?",
-        "hindi": "गुर्दे का मुख्य कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Digest food",
-          "Produce hormones",
-          "Filter blood",
-          "Store water"
-        ],
-        "hindi": [
-          "भोजन का पाचन",
-          "हार्मोन का उत्पादन",
-          "रक्त को छानना",
-          "जल का संग्रहण"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which blood vessel carries oxygenated blood?",
-        "hindi": "कौन सी रक्त वाहिनी ऑक्सीजनयुक्त रक्त ले जाती है?"
-      },
-      "option": {
-        "english": [
-          "Veins",
-          "Capillaries",
-          "Arteries",
-          "Venules"
-        ],
-        "hindi": [
-          "शिराएं",
-          "केशिकाएं",
-          "धमनियां",
-          "शिरिकाएं"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Where does digestion of starch begin?",
-        "hindi": "स्टार्च का पाचन कहाँ से प्रारंभ होता है?"
-      },
-      "option": {
-        "english": [
-          "Stomach",
-          "Mouth",
-          "Small intestine",
-          "Large intestine"
-        ],
-        "hindi": [
-          "आमाशय",
-          "मुख",
-          "छोटी आंत",
-          "बड़ी आंत"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the function of villi?",
-        "hindi": "कूपिकाओं का कार्य क्या है?"
-      },
-      "option": {
-        "english": [
-          "Secrete enzymes",
-          "Store food",
-          "Absorb nutrients",
-          "Filter blood"
-        ],
-        "hindi": [
-          "एंजाइम स्रावित करना",
-          "भोजन संग्रह करना",
-          "पोषक तत्वों का अवशोषण",
-          "रक्त छानना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Stomata are tiny pores on the surface of leaves that allow for gas exchange. They take in carbon dioxide (CO2) for photosynthesis and release oxygen (O2).",
+      "hindi": "रंध्र पत्तियों की सतह पर छोटे छिद्र होते हैं जो गैसों के आदान-प्रदान के लिए होते हैं। वे प्रकाश संश्लेषण के लिए कार्बन डाइऑक्साइड (CO2) लेते हैं और ऑक्सीजन (O2) छोड़ते हैं।"
     }
-  ]
+  },
+  {
+    "question_name": {
+      "english": "Which organ helps in digestion of proteins?",
+      "hindi": "कौन सा अंग प्रोटीन के पाचन में मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Stomach",
+        "Small intestine",
+        "Large intestine",
+        "Liver"
+      ],
+      "hindi": [
+        "आमाशय",
+        "छोटी आंत",
+        "बड़ी आंत",
+        "यकृत"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The stomach is the primary site for protein digestion. It secretes pepsin, an enzyme that breaks down proteins into smaller peptides.",
+      "hindi": "आमाशय प्रोटीन पाचन के लिए प्राथमिक स्थल है। यह पेप्सिन नामक एक एंजाइम स्रावित करता है जो प्रोटीन को छोटे पेप्टाइड्स में तोड़ता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of haemoglobin?",
+      "hindi": "हीमोग्लोबिन का कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Fight infection",
+        "Blood clotting",
+        "Transport oxygen",
+        "Digest food"
+      ],
+      "hindi": [
+        "संक्रमण से लड़ना",
+        "रक्त का थक्का जमाना",
+        "ऑक्सीजन का परिवहन",
+        "भोजन का पाचन"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Haemoglobin is a protein in red blood cells that binds to oxygen in the lungs and transports it to the body's tissues.",
+      "hindi": "हीमोग्लोबिन लाल रक्त कोशिकाओं में एक प्रोटीन है जो फेफड़ों में ऑक्सीजन से बंधता है और इसे शरीर के ऊतकों तक पहुंचाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which part of nephron filters blood?",
+      "hindi": "नेफ्रॉन का कौन सा भाग रक्त को छानता है?"
+    },
+    "option": {
+      "english": [
+        "Loop of Henle",
+        "Collecting duct",
+        "Ureter",
+        "Bowman's capsule"
+      ],
+      "hindi": [
+        "हेनले का लूप",
+        "संग्रही नलिका",
+        "मूत्रवाहिनी",
+        "बोमन संपुट"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The Bowman's capsule, along with the glomerulus, forms the filtration unit of the nephron. Blood is filtered under pressure in the glomerulus, and the filtrate enters the Bowman's capsule.",
+      "hindi": "बोमन संपुट, ग्लोमेरुलस के साथ मिलकर, नेफ्रॉन की निस्पंदन इकाई बनाता है। ग्लोमेरुलस में रक्त दबाव में छनता है, और निस्पंद बोमन संपुट में प्रवेश करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of bile in digestion?",
+      "hindi": "पाचन में पित्त की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "Digest proteins",
+        "Emulsify fats",
+        "Break carbohydrates",
+        "Absorb vitamins"
+      ],
+      "hindi": [
+        "प्रोटीन का पाचन",
+        "वसा का पायसीकरण",
+        "कार्बोहाइड्रेट का विघटन",
+        "विटामिन का अवशोषण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Bile, produced by the liver and stored in the gallbladder, helps in the digestion of fats by emulsifying them. Emulsification breaks down large fat globules into smaller droplets, increasing their surface area for lipase enzymes to act upon.",
+      "hindi": "पित्त, यकृत द्वारा निर्मित और पित्ताशय में संग्रहित, वसा के पायसीकरण द्वारा वसा पाचन में मदद करता है। पायसीकरण बड़े वसा गोलकों को छोटी बूंदों में तोड़ देता है, जिससे लाइपेज एंजाइमों के कार्य करने के लिए उनका सतह क्षेत्र बढ़ जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which chamber of heart has thickest wall?",
+      "hindi": "हृदय के किस कक्ष की दीवार सबसे मोटी होती है?"
+    },
+    "option": {
+      "english": [
+        "Right atrium",
+        "Left atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "hindi": [
+        "दायाँ आलिंद",
+        "बायाँ आलिंद",
+        "बायाँ निलय",
+        "दायाँ निलय"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The left ventricle has the thickest wall because it pumps oxygenated blood to the entire body through the aorta, requiring more force than other chambers.",
+      "hindi": "बाएं निलय की दीवार सबसे मोटी होती है क्योंकि यह महाधमनी के माध्यम से पूरे शरीर में ऑक्सीजनयुक्त रक्त पंप करता है, जिसके लिए अन्य कक्षों की तुलना में अधिक बल की आवश्यकता होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the main function of kidneys?",
+      "hindi": "गुर्दे का मुख्य कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Filter blood",
+        "Digest food",
+        "Produce hormones",
+        "Store water"
+      ],
+      "hindi": [
+        "रक्त को छानना",
+        "भोजन का पाचन",
+        "हार्मोन का उत्पादन",
+        "जल का संग्रहण"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "The main function of the kidneys is to filter waste products, excess water, and other impurities out of the blood. They also regulate blood pressure, electrolyte balance, and red blood cell production.",
+      "hindi": "गुर्दे का मुख्य कार्य रक्त से अपशिष्ट उत्पादों, अतिरिक्त पानी और अन्य अशुद्धियों को छानना है। वे रक्तचाप, इलेक्ट्रोलाइट संतुलन और लाल रक्त कोशिका उत्पादन को भी नियंत्रित करते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which blood vessel carries oxygenated blood?",
+      "hindi": "कौन सी रक्त वाहिनी ऑक्सीजनयुक्त रक्त ले जाती है?"
+    },
+    "option": {
+      "english": [
+        "Veins",
+        "Capillaries",
+        "Venules",
+        "Arteries"
+      ],
+      "hindi": [
+        "शिराएं",
+        "केशिकाएं",
+        "शिरिकाएं",
+        "धमनियां"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Arteries generally carry oxygenated blood away from the heart to the body tissues. The pulmonary artery is an exception, as it carries deoxygenated blood to the lungs.",
+      "hindi": "धमनियां आमतौर पर ऑक्सीजनयुक्त रक्त को हृदय से शरीर के ऊतकों तक ले जाती हैं। फुफ्फुसीय धमनी एक अपवाद है, क्योंकि यह अऑक्सीकृत रक्त को फेफड़ों तक ले जाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Where does digestion of starch begin?",
+      "hindi": "स्टार्च का पाचन कहाँ से प्रारंभ होता है?"
+    },
+    "option": {
+      "english": [
+        "Stomach",
+        "Mouth",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "hindi": [
+        "आमाशय",
+        "मुख",
+        "छोटी आंत",
+        "बड़ी आंत"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "The digestion of starch begins in the mouth with the action of salivary amylase, an enzyme present in saliva.",
+      "hindi": "स्टार्च का पाचन मुंह में लार एमाइलेज की क्रिया से शुरू होता है, जो लार में मौजूद एक एंजाइम है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the function of villi?",
+      "hindi": "कूपिकाओं का कार्य क्या है?"
+    },
+    "option": {
+      "english": [
+        "Secrete enzymes",
+        "Store food",
+        "Absorb nutrients",
+        "Filter blood"
+      ],
+      "hindi": [
+        "एंजाइम स्रावित करना",
+        "भोजन संग्रह करना",
+        "पोषक तत्वों का अवशोषण",
+        "रक्त छानना"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Villi are small, finger-like projections that line the inner wall of the small intestine. They greatly increase the surface area available for the absorption of nutrients.",
+      "hindi": "विली छोटी, उंगली जैसी संरचनाएं होती हैं जो छोटी आंत की भीतरी दीवार पर पंक्तिबद्ध होती हैं। वे पोषक तत्वों के अवशोषण के लिए उपलब्ध सतह क्षेत्र को बहुत बढ़ा देती हैं।"
+    }
+  }
+]

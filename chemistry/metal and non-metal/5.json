@@ -19,29 +19,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Brass is used in making electrical switches because it is a good conductor of electricity, resistant to corrosion, and has a long life. Brass is an alloy of copper and zinc which makes it more durable than pure metals. It does not react with air and moisture easily.",
+        "hindi": "पीतल का उपयोग विद्युत स्विच बनाने में किया जाता है क्योंकि यह विद्युत का अच्छा चालक है, जंग प्रतिरोधी है और लंबे समय तक चलता है। पीतल तांबे और जस्ते का मिश्र धातु है जो इसे शुद्ध धातुओं से अधिक टिकाऊ बनाता है। यह हवा और नमी के साथ आसानी से प्रतिक्रिया नहीं करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which metal is used in making aircraft bodies?",
-        "hindi": "विमान के बॉडी बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Why is aluminum used in making cooking utensils and food packaging?",
+        "hindi": "खाना पकाने के बर्तन और खाद्य पैकेजिंग में एल्युमीनियम का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Iron",
-          "Copper",
-          "Aluminum",
-          "Zinc"
+          "It is cheap",
+          "It is heavy",
+          "It is lightweight and non-toxic",
+          "It is magnetic"
         ],
         "hindi": [
-          "लोहा",
-          "तांबा",
-          "एल्युमिनियम",
-          "जस्ता"
+          "यह सस्ता है",
+          "यह भारी है",
+          "यह हल्का और गैर विषैला है",
+          "यह चुंबकीय है"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Aluminum is used in cooking utensils and food packaging because it is lightweight, non-toxic, and a good conductor of heat. It forms a protective oxide layer (Al2O3) that prevents further corrosion. It does not react with food items and is safe for cooking. Being lightweight makes it easy to handle.",
+        "hindi": "एल्युमीनियम का उपयोग खाना पकाने के बर्तन और खाद्य पैकेजिंग में किया जाता है क्योंकि यह हल्का, गैर विषैला और ऊष्मा का अच्छा चालक है। यह एक सुरक्षात्मक ऑक्साइड परत (Al2O3) बनाता है जो आगे के जंग को रोकती है। यह खाद्य पदार्थों के साथ प्रतिक्रिया नहीं करता है और खाना पकाने के लिए सुरक्षित है। हल्का होने के कारण इसे संभालना आसान होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,167 +73,199 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Lead is commonly used in car batteries (lead-acid batteries). The battery contains lead plates and lead dioxide plates in sulfuric acid. During discharge: Pb + PbO2 + 2H2SO4 → 2PbSO4 + 2H2O. During charging, this reaction reverses. Lead is used because it can be repeatedly oxidized and reduced in this process.",
+        "hindi": "सीसे का उपयोग कार की बैटरी (लेड-एसिड बैटरी) में किया जाता है। बैटरी में सल्फ्यूरिक एसिड में सीसे की प्लेटें और लेड डाइऑक्साइड की प्लेटें होती हैं। डिस्चार्ज के दौरान: Pb + PbO2 + 2H2SO4 → 2PbSO4 + 2H2O. चार्जिंग के दौरान, यह प्रतिक्रिया उलट जाती है। सीसे का उपयोग किया जाता है क्योंकि इस प्रक्रिया में इसे बार-बार ऑक्सीकृत और अपचयित किया जा सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which metal is used in making dental fillings?",
-        "hindi": "दांतों की फिलिंग में किस धातु का उपयोग किया जाता है?"
+        "english": "Which metal is commonly used in surgical instruments?",
+        "hindi": "शल्य चिकित्सा उपकरणों में किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Gold",
-          "Silver",
           "Copper",
-          "Amalgam"
+          "Aluminum",
+          "Brass",
+          "Stainless Steel"
         ],
         "hindi": [
-          "सोना",
-          "चांदी",
           "तांबा",
-          "अमलगम"
+          "एल्युमिनियम",
+          "पीतल",
+          "स्टेनलेस स्टील"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Stainless steel is used in surgical instruments because it is rust-proof, easy to sterilize, and very durable. It is an alloy of iron with chromium (at least 11%) and nickel. The chromium forms a protective oxide layer (Cr2O3) that prevents rusting. It does not react with body fluids and can be cleaned easily.",
+        "hindi": "स्टेनलेस स्टील का उपयोग सर्जिकल उपकरणों में किया जाता है क्योंकि यह जंग-रोधी है, कीटाणुरहित करने में आसान है और बहुत टिकाऊ है। यह लोहे का क्रोमियम (कम से कम 11%) और निकल के साथ मिश्र धातु है। क्रोमियम एक सुरक्षात्मक ऑक्साइड परत (Cr2O3) बनाता है जो जंग को रोकता है। यह शरीर के तरल पदार्थों के साथ प्रतिक्रिया नहीं करता है और आसानी से साफ किया जा सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which metal is used in making cooking utensils?",
-        "hindi": "खाना पकाने के बर्तन बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Which metal is used in nuclear reactors?",
+        "hindi": "परमाणु रिएक्टर में किस धातु का उपयोग किया जाता है?"
       },
       "option": {
         "english": [
-          "Lead",
+          "Copper",
+          "Uranium",
           "Aluminum",
-          "Mercury",
-          "Zinc"
+          "Iron"
         ],
         "hindi": [
-          "सीसा",
+          "तांबा",
+          "यूरेनियम",
           "एल्युमिनियम",
-          "पारा",
-          "जस्ता"
+          "लोहा"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Uranium is used in nuclear reactors as fuel because it undergoes nuclear fission. When uranium-235 nucleus splits, it releases huge amount of energy: U-235 + neutron → fission products + energy + more neutrons. This chain reaction is controlled in nuclear reactors to generate electricity.",
+        "hindi": "यूरेनियम का उपयोग परमाणु रिएक्टर में ईंधन के रूप में किया जाता है क्योंकि यह नाभिकीय विखंडन से गुजरता है। जब यूरेनियम-235 का नाभिक टूटता है, तो यह बहुत अधिक ऊर्जा मुक्त करता है: U-235 + न्यूट्रॉन → विखंडन उत्पाद + ऊर्जा + अधिक न्यूट्रॉन। बिजली उत्पन्न करने के लिए परमाणु रिएक्टर में इस श्रृंखला अभिक्रिया को नियंत्रित किया जाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What happens when metals react with acids?",
+        "english": "Which is the property of Lusture?",
         "hindi": "धातुएं अम्ल से अभिक्रिया करने पर क्या होता है?"
       },
       "option": {
         "english": [
-          "Only water",
-          "Only gas",
-          "No reaction",
-          "Salt + Hydrogen"
+          "Hardness",
+          "Softness",
+          "Malleability",
+          "Shining"
         ],
         "hindi": [
-          "केवल जल",
-          "केवल गैस",
-          "कोई अभिक्रिया नहीं",
-          "लवण + हाइड्रोजन"
+          "कठोरता",
+          "चिपचिपापन",
+          "विस्तारण",
+          "चमकदारता"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Lusture is the property of metals that makes them shiny and reflective. It is caused by the way light interacts with the surface of the metal. When light hits the surface of a metal, it is reflected in a specific direction. This reflection creates the shiny appearance of the metal.",
+        "hindi": "धातुओं की चमकदारता उनके चमकदार और प्रतिफलन गुण है। यह प्रकाश के धातु के पृष्ठ से इसके साथ कैसे इस्तेमाल होता है। जब प्रकाश धातु के पृष्ठ से मिलता है, तो यह एक विशेष दिशा में प्रतिफलित होता है। यह प्रतिफलन धातु की चमकदारता बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which metal is used in making electromagnets?",
-        "hindi": "विद्युत चुंबक बनाने में किस धातु का उपयोग किया जाता है?"
+        "english": "Why is iron used in making bridges and buildings?",
+        "hindi": "पुल और इमारतें बनाने में लोहे का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Iron",
-          "Copper",
-          "Aluminum",
-          "Zinc"
+          "Due to its strength",
+          "Due to its color",
+          "Due to its cost",
+          "Due to its weight"
         ],
         "hindi": [
-          "लोहा",
-          "तांबा",
-          "एल्युमिनियम",
-          "जस्ता"
+          "इसकी मजबूती के कारण",
+          "इसके रंग के कारण",
+          "इसकी कीमत के कारण", 
+          "इसके वजन के कारण"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Iron is used in making bridges and buildings because of its high tensile strength and durability. When iron is mixed with carbon, it forms steel which is even stronger. Steel can withstand heavy loads and harsh weather conditions. The strong metallic bonds between iron atoms give it these properties. However, it needs to be protected from rusting (Fe + O2 + H2O → Fe2O3·nH2O).",
+        "hindi": "लोहे का उपयोग पुल और इमारतों को बनाने में किया जाता है क्योंकि इसमें उच्च तन्य शक्ति और टिकाऊपन होता है। जब लोहे में कार्बन मिलाया जाता है, तो स्टील बनता है जो और भी मजबूत होता है। स्टील भारी भार और कठोर मौसम की स्थितियों को सहन कर सकता है। लोहे के परमाणुओं के बीच मजबूत धात्विक बंधन इसे ये गुण प्रदान करते हैं। हालांकि, इसे जंग (Fe + O2 + H2O → Fe2O3·nH2O) से बचाने की जरूरत होती है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is steel?",
-        "hindi": "स्टील क्या है?"
+        "english": "Why do metals like iron and copper produce a ringing sound when struck?",
+        "hindi": "लोहा और तांबा जैसी धातुएं आघात करने पर खनकने वाली ध्वनि क्यों उत्पन्न करती हैं?"
       },
       "option": {
         "english": [
-          "Pure iron",
-          "Iron oxide",
-          "Iron + Carbon",
-          "Iron + Zinc"
+          "Due to their weight",
+          "Due to their color",
+          "Due to their sonorous nature",
+          "Due to their hardness"
         ],
         "hindi": [
-          "शुद्ध लोहा",
-          "लोहा ऑक्साइड",
-          "लोहा + कार्बन",
-          "लोहा + जस्ता"
+          "उनके वजन के कारण",
+          "उनके रंग के कारण",
+          "उनकी स्वरयुक्त प्रकृति के कारण",
+          "उनकी कठोरता के कारण"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Metals produce ringing sound when struck because of their sonorous nature. This happens because metals have a regular crystalline structure with strong metallic bonds. When struck, the atoms vibrate in a regular pattern and transfer these vibrations through the metal. These vibrations produce sound waves that we hear as a ringing sound.",
+        "hindi": "धातुएं आघात करने पर खनकने वाली ध्वनि उत्पन्न करती हैं क्योंकि वे स्वरयुक्त होती हैं। ऐसा इसलिए होता है क्योंकि धातुओं में मजबूत धात्विक बंधों के साथ एक नियमित क्रिस्टलीय संरचना होती है। जब आघात किया जाता है, तो परमाणु एक नियमित पैटर्न में कंपन करते हैं और इन कंपनों को धातु के माध्यम से स्थानांतरित करते हैं। ये कंपन ध्वनि तरंगें उत्पन्न करते हैं जिन्हें हम खनकने की आवाज के रूप में सुनते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the chemical formula of rust?",
-        "hindi": "जंग का रासायनिक सूत्र क्या है?"
+        "english": "What is the chemical formula of aluminum chloride?",
+        "hindi": "एल्युमिनियम क्लोराइड का रासायनिक सूत्र क्या है?"
       },
       "option": {
         "english": [
-          "FeO",
-          "Fe₂O₃.xH₂O",
-          "Fe₃O₄",
-          "FeO₂"
+          "AlCl",
+          "AlCl₃",
+          "Al₂Cl₃",
+          "AlCl₂"
         ],
         "hindi": [
-          "FeO",
-          "Fe₂O₃.xH₂O",
-          "Fe₃O₄",
-          "FeO₂"
+          "AlCl",
+          "AlCl₃", 
+          "Al₂Cl₃",
+          "AlCl₂"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The chemical formula of aluminum chloride is AlCl₃. Aluminum has a valency of +3, while chlorine has a valency of -1. To form a neutral compound, one aluminum atom combines with three chlorine atoms. When aluminum reacts with chlorine: 2Al + 3Cl2 → 2AlCl3. AlCl3 is used as a catalyst in many chemical reactions.",
+        "hindi": "एल्युमिनियम क्लोराइड का रासायनिक सूत्र AlCl₃ है। एल्युमिनियम की संयोजकता +3 होती है, जबकि क्लोरीन की संयोजकता -1 होती है। एक उदासीन यौगिक बनाने के लिए, एक एल्युमिनियम परमाणु तीन क्लोरीन परमाणुओं के साथ संयोग करता है। जब एल्युमिनियम क्लोरीन से अभिक्रिया करता है: 2Al + 3Cl2 → 2AlCl3। AlCl3 का उपयोग कई रासायनिक अभिक्रियाओं में उत्प्रेरक के रूप में किया जाता है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "Which metal can displace all other metals from their salt solutions?",
-        "hindi": "कौन सी धातु अन्य सभी धातुओं को उनके लवण विलयन से विस्थापित कर सकती है?"
+        "english": "Why do metals like potassium and sodium float on water while other metals sink?",
+        "hindi": "पोटैशियम और सोडियम जैसी धातुएं पानी पर क्यों तैरती हैं जबकि अन्य धातुएं डूब जाती हैं?"
       },
       "option": {
         "english": [
-          "Copper",
-          "Silver",
-          "Iron",
-          "Potassium"
+          "Due to their color",
+          "Due to their weight",
+          "Due to their hardness",
+          "Due to their low density"
         ],
         "hindi": [
-          "तांबा",
-          "चांदी",
-          "लोहा",
-          "पोटैशियम"
+          "उनके रंग के कारण",
+          "उनके वजन के कारण",
+          "उनकी कठोरता के कारण", 
+          "उनके कम घनत्व के कारण"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Metals like potassium and sodium float on water because their density is less than water (1 g/cm³). Sodium has a density of 0.97 g/cm³ and potassium 0.89 g/cm³. When they react with water: 2Na + 2H2O → 2NaOH + H2↑ and 2K + 2H2O → 2KOH + H2↑. The hydrogen gas produced helps them move on water surface.",
+        "hindi": "पोटैशियम और सोडियम जैसी धातुएं पानी पर तैरती हैं क्योंकि उनका घनत्व पानी (1 g/cm³) से कम होता है। सोडियम का घनत्व 0.97 g/cm³ और पोटैशियम का 0.89 g/cm³ होता है। जब ये पानी से अभिक्रिया करते हैं: 2Na + 2H2O → 2NaOH + H2↑ और 2K + 2H2O → 2KOH + H2↑। उत्पन्न हाइड्रोजन गैस उन्हें पानी की सतह पर चलने में मदद करती है।"
+      },
       "image": null,
       "medium": "hard"
     }

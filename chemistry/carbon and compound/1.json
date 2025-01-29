@@ -8,7 +8,7 @@
         "english": [
           "CH₃-CH₂-OH",
           "CH₃-COOH",
-          "CH₃-CHO",
+          "CH₃-CHO", 
           "CH₃-CO-CH₃"
         ],
         "hindi": [
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ethanoic acid (CH₃COOH) has a carboxyl group (-COOH) attached to a methyl group (CH₃). It is commonly known as acetic acid found in vinegar.",
+        "hindi": "एथेनोइक अम्ल (CH₃COOH) में एक कार्बोक्सिल समूह (-COOH) मेथिल समूह (CH₃) से जुड़ा होता है। इसे सिरके में पाए जाने वाले एसीटिक अम्ल के नाम से भी जाना जाता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ethanol contains hydroxyl group (-OH) which gives it properties of alcohol. This group makes ethanol soluble in water and gives it its characteristic properties. Reaction with sodium: 2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂",
+        "hindi": "एथेनॉल में हाइड्रॉक्सिल समूह (-OH) होता है जो इसे अल्कोहल के गुण प्रदान करता है। यह समूह एथेनॉल को पानी में घुलनशील बनाता है और इसे विशिष्ट गुण प्रदान करता है। सोडियम के साथ अभिक्रिया: 2CH₃CH₂OH + 2Na → 2CH₃CH₂ONa + H₂"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Catenation is the ability of carbon atoms to form bonds with other carbon atoms, making long chains possible. Example: CH₄ → CH₃-CH₃ → CH₃-CH₂-CH₃ → CH₃-CH₂-CH₂-CH₃. This unique property allows formation of millions of carbon compounds.",
+        "hindi": "श्रृंखलन कार्बन परमाणुओं की वह क्षमता है जिससे वे एक दूसरे से जुड़कर लंबी श्रृंखलाएं बना सकते हैं। उदाहरण: CH₄ → CH₃-CH₃ → CH₃-CH₂-CH₃ → CH₃-CH₂-CH₂-CH₃. यह विशेष गुण लाखों कार्बन यौगिकों के निर्माण को संभव बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ethene has molecular formula C₂H₄. It contains a double bond between carbon atoms (H₂C=CH₂) and is the simplest alkene. Addition reaction: H₂C=CH₂ + H₂ → CH₃-CH₃",
+        "hindi": "एथीन का आण्विक सूत्र C₂H₄ है। इसमें कार्बन परमाणुओं के बीच द्विबंध (H₂C=CH₂) होता है और यह सबसे सरल एल्कीन है। योगात्मक अभिक्रिया: H₂C=CH₂ + H₂ → CH₃-CH₃"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃COOH is commonly known as acetic acid. It is found in vinegar and gives it its sour taste and characteristic smell. Reaction with sodium hydroxide: CH₃COOH + NaOH → CH₃COONa + H₂O",
+        "hindi": "CH₃COOH को आम तौर पर एसीटिक अम्ल के नाम से जाना जाता है। यह सिरके में पाया जाता है और इसे खट्टा स्वाद और विशिष्ट गंध प्रदान करता है। सोडियम हाइड्रॉक्साइड के साथ अभिक्रिया: CH₃COOH + NaOH → CH₃COONa + H₂O"
+      }
     },
     {
       "question_name": {
@@ -122,20 +142,24 @@
       "option": {
         "english": [
           "H₂ gas is evolved",
-          "CO₂ gas with sodium ethanoate",
           "Only sodium ethanoate",
+          "CO₂ gas with sodium ethanoate",
           "No reaction"
         ],
         "hindi": [
           "H₂ गैस निकलती है",
-          "CO₂ गैस के साथ सोडियम एथेनोएट",
           "केवल सोडियम एथेनोएट",
+          "CO₂ गैस के साथ सोडियम एथेनोएट",
           "कोई अभिक्रिया नहीं"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When ethanoic acid reacts with sodium carbonate, it produces sodium ethanoate and carbon dioxide gas. The bubbles of CO₂ can be seen during the reaction. Reaction: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑",
+        "hindi": "जब एथेनोइक अम्ल सोडियम कार्बोनेट से क्रिया करता है, तो सोडियम एथेनोएट और कार्बन डाइऑक्साइड गैस बनती है। अभिक्रिया के दौरान CO₂ के बुलबुले देखे जा सकते हैं। अभिक्रिया: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑"
+      }
     },
     {
       "question_name": {
@@ -146,19 +170,23 @@
         "english": [
           "Substitution",
           "Oxidation",
-          "Addition",
-          "Elimination"
+          "Elimination",
+          "Addition"
         ],
         "hindi": [
           "प्रतिस्थापन",
           "ऑक्सीकरण",
-          "योगात्मक",
-          "विलोपन"
+          "विलोपन",
+          "योगात्मक"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When ethene (C₂H₄) is converted to ethane (C₂H₆), hydrogen is added across the double bond. This is an addition reaction where H₂ is added to the molecule. Reaction: CH₂=CH₂ + H₂ → CH₃-CH₃",
+        "hindi": "जब एथीन (C₂H₄) को एथेन (C₂H₆) में परिवर्तित किया जाता है, तो द्विबंध पर हाइड्रोजन जुड़ जाता है। यह एक योगात्मक अभिक्रिया है जिसमें अणु में H₂ जुड़ता है। अभिक्रिया: CH₂=CH₂ + H₂ → CH₃-CH₃"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Propanol",
           "Propanal",
+          "Propanol",
           "Propanone",
           "Propanoic acid"
         ],
         "hindi": [
-          "प्रोपेनॉल",
           "प्रोपैनल",
+          "प्रोपेनॉल",
           "प्रोपेनोन",
           "प्रोपेनोइक अम्ल"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "CH₃-CH₂-CHO is named propanal in IUPAC system. It has 3 carbons (prop-) and an aldehyde group (-al) at the end. Oxidation reaction: CH₃-CH₂-CHO + [O] → CH₃-CH₂-COOH",
+        "hindi": "CH₃-CH₂-CHO को IUPAC प्रणाली में प्रोपैनल कहा जाता है। इसमें 3 कार्बन (प्रोप-) और अंत में एल्डिहाइड समूह (-ऐल) होता है। ऑक्सीकरण अभिक्रिया: CH₃-CH₂-CHO + [O] → CH₃-CH₂-COOH"
+      }
     },
     {
       "question_name": {
@@ -191,20 +223,24 @@
       "option": {
         "english": [
           "sp³",
-          "sp²",
           "sp",
+          "sp²",
           "No hybridization"
         ],
         "hindi": [
           "sp³",
-          "sp²",
           "sp",
+          "sp²",
           "कोई संकरण नहीं"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In ethyne (C₂H₂), carbon atoms are sp hybridized. This allows formation of one sigma and two pi bonds between carbon atoms making a triple bond. Addition reaction: HC≡CH + H₂ → H₂C=CH₂ + H₂ → CH₃-CH₃",
+        "hindi": "एथाइन (C₂H₂) में कार्बन परमाणु sp संकरित होते हैं। यह कार्बन परमाणुओं के बीच एक सिग्मा और दो पाई बंध बनाने की अनुमति देता है जो त्रिबंध बनाते हैं। योगात्मक अभिक्रिया: HC≡CH + H₂ → H₂C=CH₂ + H₂ → CH₃-CH₃"
+      }
     },
     {
       "question_name": {
@@ -214,19 +250,23 @@
       "option": {
         "english": [
           "NaOH",
-          "NaHCO₃",
           "Na metal",
+          "NaHCO₃",
           "H₂O"
         ],
         "hindi": [
           "NaOH",
-          "NaHCO₃",
           "Na धातु",
+          "NaHCO₃",
           "H₂O"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Sodium bicarbonate (NaHCO₃) can distinguish between ethanol and ethanoic acid. Ethanoic acid reacts with NaHCO₃ to produce CO₂ bubbles, while ethanol shows no reaction. Reaction: CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑",
+        "hindi": "सोडियम बाइकार्बोनेट (NaHCO₃) एथेनॉल और एथेनोइक अम्ल में भेद कर सकता है। एथेनोइक अम्ल NaHCO₃ से क्रिया करके CO₂ के बुलबुले बनाता है, जबकि एथेनॉल कोई क्रिया नहीं दर्शाता। अभिक्रिया: CH₃COOH + NaHCO₃ → CH₃COONa + H₂O + CO₂↑"
+      }
     }
 ]

@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which hormone regulates sleep cycle?",
-        "hindi": "कौन सा हार्मोन नींद चक्र को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Thyroxine",
-          "Melatonin",
-          "Insulin",
-          "Cortisol"
-        ],
-        "hindi": [
-          "थायरॉक्सिन",
-          "मेलाटोनिन",
-          "इंसुलिन",
-          "कॉर्टिसोल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which part of brain controls emotional behavior?",
+      "hindi": "मस्तिष्क का कौन सा भाग भावनात्मक व्यवहार को नियंत्रित करता है?"
     },
-    {
-      "question_name": {
-        "english": "What is the function of dendrites?",
-        "hindi": "डेंड्राइट्स का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Store energy",
-          "Process signals",
-          "Filter blood",
-          "Receive signals"
-        ],
-        "hindi": [
-          "ऊर्जा संग्रह",
-          "संकेत प्रक्रिया",
-          "रक्त छानना",
-          "संकेत प्राप्त करना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Medulla",
+        "Limbic system", 
+        "Cerebellum",
+        "Pons"
+      ],
+      "hindi": [
+        "मेडुला",
+        "लिम्बिक तंत्र",
+        "सेरेबेलम",
+        "पोंस"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which part of brain controls hunger?",
-        "hindi": "मस्तिष्क का कौन सा भाग भूख को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Hypothalamus",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "हाइपोथैलेमस",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "answer": 1,
+    "explanation": {
+      "english": "The limbic system is the emotional center of the brain. It controls our feelings like happiness, sadness, fear and anger. Think of it like the brain's emotional control room.",
+      "hindi": "लिम्बिक तंत्र मस्तिष्क का भावनात्मक केंद्र है। यह खुशी, दुख, डर और क्रोध जैसी हमारी भावनाओं को नियंत्रित करता है। इसे मस्तिष्क के भावनात्मक नियंत्रण कक्ष की तरह समझें।"
     },
-    {
-      "question_name": {
-        "english": "Which gland produces testosterone?",
-        "hindi": "कौन सी ग्रंथि टेस्टोस्टेरोन का उत्पादन करती है?"
-      },
-      "option": {
-        "english": [
-          "Testes",
-          "Thyroid",
-          "Pituitary",
-          "Adrenal"
-        ],
-        "hindi": [
-          "वृषण",
-          "थायरॉइड",
-          "पीयूष",
-          "एड्रेनल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the function of cerebrospinal fluid?",
+      "hindi": "मस्तिष्क मेरु द्रव का क्या कार्य है?"
     },
-    {
-      "question_name": {
-        "english": "Which hormone controls water retention?",
-        "hindi": "कौन सा हार्मोन जल धारण को नियंत्रित करता है?"
-      },
-      "option": {
-        "english": [
-          "Insulin",
-          "Vasopressin",
-          "Thyroxine",
-          "Cortisol"
-        ],
-        "hindi": [
-          "इंसुलिन",
-          "वैसोप्रेसिन",
-          "थायरॉक्सिन",
-          "कॉर्टिसोल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Blood filtration",
+        "Energy storage",
+        "Waste removal",
+        "Shock absorption"
+      ],
+      "hindi": [
+        "रक्त छनन",
+        "ऊर्जा भंडारण",
+        "अपशिष्ट निष्कासन",
+        "आघात अवशोषण"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which plant hormone delays leaf senescence?",
-        "hindi": "कौन सा पादप हार्मोन पत्ती जीर्णता को विलंबित करता है?"
-      },
-      "option": {
-        "english": [
-          "Auxin",
-          "Ethylene",
-          "Cytokinin",
-          "Abscisic acid"
-        ],
-        "hindi": [
-          "ऑक्सिन",
-          "एथिलीन",
-          "साइटोकाइनिन",
-          "एब्सिसिक एसिड"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
+    "answer": 3,
+    "explanation": {
+      "english": "Cerebrospinal fluid acts like a cushion around our brain and spinal cord. It protects these delicate organs from shocks and bumps, just like the shock absorbers in a car protect passengers.",
+      "hindi": "मस्तिष्क मेरु द्रव हमारे मस्तिष्क और रीढ़ की हड्डी के चारों ओर गद्दी की तरह काम करता है। यह इन नाजुक अंगों को झटके और चोट से बचाता है, जैसे कार में शॉक एब्जॉर्बर यात्रियों की रक्षा करते हैं।"
     },
-    {
-      "question_name": {
-        "english": "What is the role of myelin sheath in neurons?",
-        "hindi": "न्यूरॉन्स में माइलिन आवरण की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Energy storage",
-          "Signal processing",
-          "Waste removal",
-          "Insulation"
-        ],
-        "hindi": [
-          "ऊर्जा भंडारण",
-          "संकेत प्रसंस्करण",
-          "अपशिष्ट निष्कासन",
-          "विद्युतरोधन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Which movement is shown by Mimosa leaves on touch?",
+      "hindi": "छूने पर छुई-मुई की पत्तियां कौन सी गति दर्शाती हैं?"
     },
-    {
-      "question_name": {
-        "english": "Which gland becomes inactive after childhood?",
-        "hindi": "कौन सी ग्रंथि बचपन के बाद निष्क्रिय हो जाती है?"
-      },
-      "option": {
-        "english": [
-          "Thymus",
-          "Thyroid",
-          "Pituitary",
-          "Pancreas"
-        ],
-        "hindi": [
-          "थाइमस",
-          "थायरॉइड",
-          "पीयूष",
-          "अग्न्याशय"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Phototropism",
+        "Geotropism",
+        "Seismonastic",
+        "Chemotropism"
+      ],
+      "hindi": [
+        "प्रकाशानुवर्तन",
+        "गुरुत्वानुवर्तन",
+        "स्पर्शानुकुंचन",
+        "रासायनानुवर्तन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which hormone deficiency causes gigantism?",
-        "hindi": "किस हार्मोन की कमी से दैत्यता होती है?"
-      },
-      "option": {
-        "english": [
-          "Thyroxine",
-          "Growth hormone excess",
-          "Insulin",
-          "Cortisol"
-        ],
-        "hindi": [
-          "थायरॉक्सिन",
-          "वृद्धि हार्मोन अधिकता",
-          "इंसुलिन",
-          "कॉर्टिसोल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
+    "answer": 2,
+    "explanation": {
+      "english": "Seismonastic movement is a quick response to touch. When we touch the Mimosa (Touch-me-not) plant, its leaves fold quickly. This is a defense mechanism to protect itself from harm.",
+      "hindi": "स्पर्शानुकुंचन स्पर्श के प्रति एक त्वरित प्रतिक्रिया है। जब हम छुई-मुई के पौधे को छूते हैं, तो इसकी पत्तियां तुरंत मुड़ जाती हैं। यह खुद को नुकसान से बचाने की एक सुरक्षा प्रणाली है।"
     },
-    {
-      "question_name": {
-        "english": "Which part of brain is affected in Alzheimer's?",
-        "hindi": "अल्जाइमर में मस्तिष्क का कौन सा भाग प्रभावित होता है?"
-      },
-      "option": {
-        "english": [
-          "Medulla",
-          "Pons",
-          "Hippocampus",
-          "Cerebellum"
-        ],
-        "hindi": [
-          "मेडुला",
-          "पोंस",
-          "हिप्पोकैम्पस",
-          "सेरेबेलम"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    }
-  ]
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which tissue connects muscles to bones?",
+      "hindi": "कौन सा ऊतक मांसपेशियों को हड्डियों से जोड़ता है?"
+    },
+    "option": {
+      "english": [
+        "Tendon",
+        "Ligament",
+        "Cartilage",
+        "Nerve"
+      ],
+      "hindi": [
+        "कंडरा",
+        "स्नायु",
+        "उपास्थि",
+        "तंत्रिका"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "Tendons are strong, flexible bands that connect muscles to bones. Think of them like strong ropes that help muscles pull on bones to create movement. For example, the Achilles tendon connects your calf muscle to your heel bone.",
+      "hindi": "कंडरा मजबूत, लचीली पट्टियां होती हैं जो मांसपेशियों को हड्डियों से जोड़ती हैं। इन्हें मजबूत रस्सियों की तरह समझें जो मांसपेशियों को हड्डियों को खींचकर गति उत्पन्न करने में मदद करती हैं। उदाहरण के लिए, एकिलीज कंडरा आपकी पिंडली की मांसपेशी को एड़ी की हड्डी से जोड़ती है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What type of joint is found in our elbow?",
+      "hindi": "हमारी कोहनी में किस प्रकार की संधि पाई जाती है?"
+    },
+    "option": {
+      "english": [
+        "Ball and socket",
+        "Hinge joint",
+        "Pivot joint",
+        "Fixed joint"
+      ],
+      "hindi": [
+        "गेंद और गड्ढा संधि",
+        "कब्जा संधि",
+        "धुरी संधि",
+        "स्थिर संधि"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "The elbow has a hinge joint that works just like a door hinge. It can only move in one direction - up and down. This helps us bend and straighten our arm in a controlled way.",
+      "hindi": "कोहनी में कब्जा संधि होती है जो दरवाजे के कब्जे की तरह काम करती है। यह केवल एक दिशा में - ऊपर और नीचे की ओर गति कर सकती है। यह हमें अपनी बांह को नियंत्रित तरीके से मोड़ने और सीधा करने में मदद करती है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which structure helps in coordinating complex movements?",
+      "hindi": "कौन सी संरचना जटिल गतियों के समन्वय में मदद करती है?"
+    },
+    "option": {
+      "english": [
+        "Medulla",
+        "Pons",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "hindi": [
+        "मेडुला",
+        "पोंस",
+        "सेरेबेलम",
+        "हाइपोथैलेमस"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "The cerebellum is like our body's balance and coordination center. It helps us perform smooth movements like walking, dancing, or riding a bicycle. Without it, our movements would be jerky and uncoordinated.",
+      "hindi": "सेरेबेलम हमारे शरीर का संतुलन और समन्वय केंद्र है। यह हमें चलने, नृत्य करने या साइकिल चलाने जैसी सहज गतियां करने में मदद करता है। इसके बिना, हमारी गतियां झटकेदार और असंयोजित होंगी।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What helps plants detect gravity?",
+      "hindi": "पौधों को गुरुत्व का पता लगाने में क्या मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "Chloroplasts",
+        "Cell wall",
+        "Vacuole",
+        "Statoliths"
+      ],
+      "hindi": [
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "रिक्तिका",
+        "स्टैटोलिथ"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Statoliths are tiny starch grains in plant cells that sink to the bottom due to gravity. They work like tiny sensors, helping plants know which way is up or down, just like how we use our inner ear for balance.",
+      "hindi": "स्टैटोलिथ पौधों की कोशिकाओं में छोटे स्टार्च के कण होते हैं जो गुरुत्वाकर्षण के कारण नीचे की ओर जमा होते हैं। ये छोटे संवेदक की तरह काम करते हैं, जो पौधों को ऊपर या नीचे की दिशा जानने में मदद करते हैं, जैसे हम संतुलन के लिए अपने आंतरिक कान का उपयोग करते हैं।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Which gland regulates metabolism?",
+      "hindi": "कौन सी ग्रंथि उपापचय को नियंत्रित करती है?"
+    },
+    "option": {
+      "english": [
+        "Thyroid",
+        "Pancreas",
+        "Adrenal",
+        "Pituitary"
+      ],
+      "hindi": [
+        "थायरॉइड",
+        "अग्न्याशय",
+        "एड्रेनल",
+        "पीयूष"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "The thyroid gland controls how quickly your body uses energy (metabolism). It's like a thermostat that controls your body's energy usage. When it works properly, it keeps your body running at the right speed.",
+      "hindi": "थायरॉइड ग्रंथि नियंत्रित करती है कि आपका शरीर ऊर्जा का उपयोग कितनी तेजी से करता है (उपापचय)। यह एक थर्मोस्टैट की तरह है जो आपके शरीर की ऊर्जा के उपयोग को नियंत्रित करता है। जब यह सही ढंग से काम करता है, तो यह आपके शरीर को सही गति से चलाए रखता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "What type of movement is shown by sperm towards egg?",
+      "hindi": "शुक्राणु अंडे की ओर किस प्रकार की गति दर्शाता है?"
+    },
+    "option": {
+      "english": [
+        "Random",
+        "Chemotaxis",
+        "Phototaxis",
+        "Geotaxis"
+      ],
+      "hindi": [
+        "यादृच्छिक",
+        "रासायनानुगमन",
+        "प्रकाशानुगमन",
+        "गुरुत्वानुगमन"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "Chemotaxis is movement in response to chemicals. The egg releases certain chemicals that guide the sperm towards it, like following a chemical trail. It's similar to how ants follow a scent trail to food.",
+      "hindi": "रासायनानुगमन रसायनों के प्रति प्रतिक्रिया में गति है। अंडा कुछ रसायन छोड़ता है जो शुक्राणु को अपनी ओर मार्गदर्शित करते हैं, जैसे एक रासायनिक पथ का अनुसरण करना। यह उसी तरह है जैसे चींटियां भोजन तक पहुंचने के लिए गंध के पथ का अनुसरण करती हैं।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "Which part of brain interprets sensory signals?",
+      "hindi": "मस्तिष्क का कौन सा भाग संवेदी संकेतों की व्याख्या करता है?"
+    },
+    "option": {
+      "english": [
+        "Medulla",
+        "Pons",
+        "Cerebrum",
+        "Cerebellum"
+      ],
+      "hindi": [
+        "मेडुला",
+        "पोंस",
+        "सेरेब्रम",
+        "सेरेबेलम"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "The cerebrum is like the brain's control center. It receives signals from our senses (eyes, ears, skin, etc.) and helps us understand what we're seeing, hearing, or feeling. It's the largest part of the brain that helps us think and make decisions.",
+      "hindi": "सेरेब्रम मस्तिष्क का नियंत्रण केंद्र है। यह हमारी इंद्रियों (आंखें, कान, त्वचा, आदि) से संकेत प्राप्त करता है और हमें समझने में मदद करता है कि हम क्या देख, सुन या महसूस कर रहे हैं। यह मस्तिष्क का सबसे बड़ा भाग है जो हमें सोचने और निर्णय लेने में मदद करता है।"
+    },
+    "image": null,
+    "medium": "hard"
+  }
+]

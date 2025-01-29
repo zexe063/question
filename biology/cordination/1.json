@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -8,7 +7,7 @@
       "option": {
         "english": [
           "Cerebrum",
-          "Cerebellum",
+          "Cerebellum", 
           "Medulla",
           "Pons"
         ],
@@ -21,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The cerebellum is located at the back of the brain and is responsible for maintaining body balance, posture and coordination of voluntary movements. It helps us walk straight and perform precise movements.",
+        "hindi": "अनुमस्तिष्क मस्तिष्क के पिछले भाग में स्थित होता है और शरीर का संतुलन, मुद्रा और स्वैच्छिक गतिविधियों के समन्वय के लिए जिम्मेदार होता है। यह हमें सीधा चलने और सटीक गतिविधियां करने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -32,7 +35,7 @@
         "english": [
           "Pituitary",
           "Thyroid",
-          "Adrenal",
+          "Adrenal", 
           "Pancreas"
         ],
         "hindi": [
@@ -44,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The pituitary gland is called the master gland because it controls the functions of all other endocrine glands in our body. It produces many important hormones that regulate growth, development and metabolism.",
+        "hindi": "पीयूष ग्रंथि को मास्टर ग्रंथि कहा जाता है क्योंकि यह हमारे शरीर की सभी अन्य अंतःस्रावी ग्रंथियों के कार्यों को नियंत्रित करती है। यह कई महत्वपूर्ण हार्मोन बनाती है जो वृद्धि, विकास और चयापचय को नियंत्रित करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -67,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Auxin is a plant hormone that promotes the elongation of cells in shoots, causing the stem to grow longer. It is mainly produced in growing stem tips and helps in stem growth and development.",
+        "hindi": "ऑक्सिन एक पादप हार्मोन है जो अंकुरों में कोशिकाओं की लंबाई को बढ़ावा देता है, जिससे तना लंबा होता है। यह मुख्य रूप से बढ़ते तने के शीर्ष में उत्पन्न होता है और तने की वृद्धि और विकास में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -90,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Receptors are specialized cells that detect changes in our environment (stimuli) like light, sound, touch, taste, and smell. They convert these stimuli into electrical signals that our brain can understand.",
+        "hindi": "ग्राही विशेष कोशिकाएं हैं जो हमारे वातावरण में परिवर्तनों (उद्दीपन) जैसे प्रकाश, ध्वनि, स्पर्श, स्वाद और गंध का पता लगाती हैं। वे इन उद्दीपनों को विद्युत संकेतों में बदलती हैं जिन्हें हमारा मस्तिष्क समझ सकता है।"
+      }
     },
     {
       "question_name": {
@@ -113,30 +128,37 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Blinking is a reflex action - an automatic, rapid response to a stimulus that occurs without conscious thought. When something comes close to our eyes, we blink automatically to protect them.",
+        "hindi": "पलक झपकना एक प्रतिवर्त क्रिया है - यह एक स्वचालित, त्वरित प्रतिक्रिया है जो बिना सोचे-समझे होती है। जब कोई वस्तु हमारी आंखों के पास आती है, तो हम उन्हें बचाने के लिए स्वचालित रूप से पलक झपकाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "How does auxin promote cell elongation? ",
-        "hindi": "ऑक्सिन कोशिका लंबन को कैसे बढ़ावा देता है?"
+        "english": "What happens when a plant grows towards light?",
+        "hindi": "जब पौधा प्रकाश की ओर बढ़ता है तो क्या होता है?"
       },
       "option": {
         "english": [
-          "By cell division",
-          "By protein synthesis",
-          "By wall loosening",
-          "By water absorption"
+          "Random growth",
+          "Root bending",
+          "Stem bending",
+          "Leaf falling"
         ],
         "hindi": [
-          "कोशिका विभाजन द्वारा",
-          "प्रोटीन संश्लेषण द्वारा",
-          "दीवार शिथिलन द्वारा",
-          "जल अवशोषण द्वारा"
+          "अनियमित वृद्धि",
+          "जड़ का मुड़ना",
+          "तने का मुड़ना",
+          "पत्ती का गिरना"
         ]
       },
       "answer": 2,
-      "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When plants grow towards light, their stems bend towards the light source. This movement is called phototropism. It helps plants get more sunlight for photosynthesis.",
+        "hindi": "जब पौधे प्रकाश की ओर बढ़ते हैं, तो उनका तना प्रकाश स्रोत की ओर मुड़ जाता है। इस गति को प्रकाश अनुवर्तन कहते हैं। यह पौधों को प्रकाश संश्लेषण के लिए अधिक सूर्य का प्रकाश प्राप्त करने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -159,75 +181,88 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Insulin is produced by the pancreas and helps control blood sugar levels. When blood sugar rises, insulin helps cells absorb glucose from blood, bringing sugar levels back to normal.",
+        "hindi": "इंसुलिन अग्न्याशय द्वारा उत्पादित होता है और रक्त शर्करा के स्तर को नियंत्रित करने में मदद करता है। जब रक्त शर्करा बढ़ती है, तो इंसुलिन कोशिकाओं को रक्त से ग्लूकोज अवशोषित करने में मदद करता है, जिससे शर्करा का स्तर सामान्य हो जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes the movement of leaves in Mimosa pudica? ",
-        "hindi": "छुई-मुई की पत्तियों में गति का क्या कारण है?"
+        "english": "What type of response is shown by touch-me-not plant?",
+        "hindi": "छुई-मुई पौधा किस प्रकार की प्रतिक्रिया दिखाता है?"
       },
       "option": {
         "english": [
-          "Phototropism",
-          "Geotropism",
-          "Chemotropism",
-          "Thigmonasty"
+          "Light response",
+          "Water response",
+          "Growth response",
+          "Touch response"
         ],
         "hindi": [
-          "प्रकाशानुवर्तन",
-          "गुरुत्वानुवर्तन",
-          "रसायनानुवर्तन",
-          "स्पर्शानुकुंचन"
+          "प्रकाश प्रतिक्रिया",
+          "जल प्रतिक्रिया",
+          "वृद्धि प्रतिक्रिया",
+          "स्पर्श प्रतिक्रिया"
         ]
       },
       "answer": 3,
-      "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The touch-me-not plant (Mimosa pudica) shows thigmonasty - a response to touch. When touched, its leaves fold quickly due to changes in water pressure in special cells at the base of leaflets.",
+        "hindi": "छुई-मुई पौधा स्पर्श के प्रति संवेदनशील होता है। छूने पर इसकी पत्तियां पत्तियों के आधार पर स्थित विशेष कोशिकाओं में जल दाब में परिवर्तन के कारण तुरंत मुड़ जाती हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of myelin sheath in neurons? ",
-        "hindi": "न्यूरॉन्स में माइलिन आवरण की क्या भूमिका है?"
+        "english": "What helps messages travel faster in nerves?",
+        "hindi": "तंत्रिकाओं में संदेश तेजी से यात्रा करने में क्या मदद करता है?"
       },
       "option": {
         "english": [
-          "Energy production",
-          "Impulse speed",
-          "Waste removal",
-          "Hormone secretion"
+          "Blood flow",
+          "Nerve covering",
+          "Muscle tissue",
+          "Brain signals"
         ],
         "hindi": [
-          "ऊर्जा उत्पादन",
-          "आवेग गति",
-          "अपशिष्ट निष्कासन",
-          "हार्मोन स्राव"
+          "रक्त प्रवाह",
+          "तंत्रिका आवरण",
+          "पेशी ऊतक",
+          "मस्तिष्क संकेत"
         ]
       },
       "answer": 1,
-      "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The myelin sheath (nerve covering) helps messages travel faster in nerves. It acts like insulation around electrical wires, allowing electrical signals to move quickly and efficiently along nerve cells.",
+        "hindi": "माइलिन आवरण (तंत्रिका आवरण) तंत्रिकाओं में संदेशों को तेजी से यात्रा करने में मदद करता है। यह बिजली के तारों के चारों ओर इन्सुलेशन की तरह काम करता है, जो विद्युत संकेतों को तंत्रिका कोशिकाओं में तेजी से और कुशलतापूर्वक चलने की अनुमति देता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which hormone is responsible for metamorphosis in insects? ",
-        "hindi": "कीटों में कायांतरण के लिए कौन सा हार्मोन जिम्मेदार है?"
+        "english": "Which gland helps body respond to stress?",
+        "hindi": "कौन सी ग्रंथि तनाव से निपटने में शरीर की मदद करती है?"
       },
       "option": {
         "english": [
-          "Thyroxine",
-          "Insulin",
-          "Ecdysone",
-          "Auxin"
+          "Thyroid",
+          "Pancreas",
+          "Adrenal",
+          "Pituitary"
         ],
         "hindi": [
-          "थायरॉक्सिन",
-          "इंसुलिन",
-          "एक्डाइसोन",
-          "ऑक्सिन"
+          "थायरॉइड",
+          "अग्न्याशय",
+          "एड्रेनल",
+          "पीयूष"
         ]
       },
       "answer": 2,
-      "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The adrenal glands produce adrenaline hormone during stress. This hormone prepares our body for 'fight or flight' response by increasing heart rate, blood pressure and blood sugar levels to give us extra energy.",
+        "hindi": "एड्रेनल ग्रंथियां तनाव के दौरान एड्रेनालिन हार्मोन का उत्पादन करती हैं। यह हार्मोन हृदय गति, रक्तचाप और रक्त शर्करा के स्तर को बढ़ाकर हमारे शरीर को अतिरिक्त ऊर्जा प्रदान करने के लिए तैयार करता है।"
+      }
     }
-  ]
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "question_name": {
+      "english": "In the given circuit, calculate the effective resistance between points A and B:",
+      "hindi": "दिए गए परिपथ में बिंदु A और B के बीच प्रभावी प्रतिरोध की गणना करें:"
+    },
+    "option": {
+      "english": ["4Ω", "6Ω", "8Ω", "10Ω"],
+      "hindi": ["4Ω", "6Ω", "8Ω", "10Ω"]
+    },
+    "answer": 1,
+    "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:#f4f4f4;stroke:#333;stroke-width:2}.wire{stroke:#2c3e50;stroke-width:2.5}.text{font-family:Arial;font-size:14px;fill:#2c3e50}.point{fill:#e74c3c}</style><line class='wire' x1='30' y1='40' x2='50' y2='40'/><path class='resistor' d='M50,30 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><line class='wire' x1='90' y1='40' x2='150' y2='40'/><path class='resistor' d='M150,30 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><line class='wire' x1='190' y1='40' x2='260' y2='40'/><line class='wire' x1='30' y1='40' x2='30' y2='90'/><line class='wire' x1='30' y1='90' x2='100' y2='90'/><path class='resistor' d='M100,80 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><line class='wire' x1='140' y1='90' x2='260' y2='90'/><line class='wire' x1='260' y1='40' x2='260' y2='90'/><circle class='point' cx='30' cy='40' r='3'/><circle class='point' cx='260' cy='40' r='3'/><text class='text' x='60' y='35'>4Ω</text><text class='text' x='160' y='35'>8Ω</text><text class='text' x='110' y='105'>12Ω</text><text class='text' x='20' y='45'>A</text><text class='text' x='270' y='45'>B</text></svg>",
+    "solution": [
+      {
+        "step": 1,
+        "value": {
+          "terms": "First combine the series resistors:",
+          "calculation": "4Ω + 8Ω = 12Ω",
+          "diagram": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.highlight{stroke:#ff4444;stroke-width:3}.dim{stroke:#ccc;stroke-width:2}.text{font-family:Arial;font-size:14px}.math{font-family:Arial;font-size:16px;fill:#ff4444}.arrow{stroke:#ff4444;marker-end:url(#arrow)}</style><defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M 0 0 L 10 5 L 0 10 z' fill='#ff4444'/></marker></defs><path class='highlight' d='M50,30 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><path class='highlight' d='M150,30 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><line class='highlight' x1='90' y1='40' x2='150' y2='40'/><path class='dim' d='M100,80 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><rect x='70' y='80' width='160' height='30' fill='#f8f9fa' stroke='#ddd'/><text class='math' x='80' y='100'>4Ω + 8Ω = 12Ω</text><path class='arrow' d='M150,70 Q120,50 100,40'/></svg>"
+        }
+      },
+      {
+        "step": 2,
+        "value": {
+          "terms": "Now we have two 12Ω resistors in parallel",
+          "calculation": "R = (R₁ × R₂)/(R₁ + R₂)",
+          "diagram": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.highlight{stroke:#ff4444;stroke-width:3}.text{font-family:Arial;font-size:14px}.math{font-family:Arial;font-size:16px;fill:#2c3e50}</style><line class='highlight' x1='30' y1='40' x2='260' y2='40'/><line class='highlight' x1='30' y1='90' x2='260' y2='90'/><line class='highlight' x1='30' y1='40' x2='30' y2='90'/><line class='highlight' x1='260' y1='40' x2='260' y2='90'/><path class='highlight' d='M100,30 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><path class='highlight' d='M100,80 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5' transform='translate(0,10)'/><text class='text' x='110' y='35'>12Ω</text><text class='text' x='110' y='105'>12Ω</text><rect x='50' y='120' width='200' height='25' fill='#f8f9fa' stroke='#ddd'/><text class='math' x='60' y='137'>R = (12 × 12)/(12 + 12)</text></svg>"
+        }
+      },
+      {
+        "step": 3,
+        "value": {
+          "terms": "Using parallel formula:",
+          "calculation": "R = (12 × 12)/(12 + 12) = 144/24 = 6Ω",
+          "diagram": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.final{stroke:#4CAF50;stroke-width:3}.text{font-family:Arial;font-size:14px}.result{font-family:Arial;font-size:18px;fill:#4CAF50}</style><line class='final' x1='30' y1='75' x2='100' y2='75'/><path class='final' d='M100,65 h5 l5,10 l10,-20 l10,20 l10,-20 l5,10 h5'/><line class='final' x1='150' y1='75' x2='260' y2='75'/><circle cx='30' cy='75' r='3' fill='#4CAF50'/><circle cx='260' cy='75' r='3' fill='#4CAF50'/><text class='text' x='20' y='70'>A</text><text class='text' x='270' y='70'>B</text><text class='result' x='115' y='70'>6Ω</text><rect x='50' y='100' width='200' height='40' fill='#f8f9fa' stroke='#ddd'/><text class='text' x='60' y='120'>144/24 = 6Ω</text></svg>"
+        }
+      }
+    ],
+    "medium": "hard"
+  },
+    {
+      "question_name": {
+        "english": "A heating coil draws 5A at 220V. If its radius is doubled keeping length constant, new current will be:",
+        "hindi": "एक हीटिंग कॉइल 220V पर 5A खींचता है। यदि लंबाई स्थिर रखते हुए इसकी त्रिज्या दोगुनी कर दी जाए, नई धारा होगी:"
+      },
+      "option": {
+        "english": [
+          "10A",
+          "15A", 
+          "20A",
+          "25A"
+        ],
+        "hindi": [
+          "10A",
+          "15A",
+          "20A", 
+          "25A"
+        ]
+      },
+      "answer": 2,
+      "explanation": {
+        "english": "1. Resistance R = ρL/A, where A = πr²\n2. When radius doubles, area becomes 4 times\n3. New resistance = R/4\n4. Using V=IR, new current = 4 × original current = 4 × 5A = 20A",
+        "hindi": "1. प्रतिरोध R = ρL/A, जहाँ A = πr²\n2. जब त्रिज्या दोगुनी होती है, क्षेत्रफल 4 गुना हो जाता है\n3. नया प्रतिरोध = R/4\n4. V=IR का उपयोग करते हुए, नई धारा = 4 × मूल धारा = 4 × 5A = 20A"
+      },
+      "image": "<svg width='400' height='200' xmlns='http://www.w3.org/2000/svg'><style>.coil{fill:none;stroke:#333;stroke-width:2}.wire{stroke:#2c3e50;stroke-width:2}.text{font-family:Arial;font-size:14px;fill:#2c3e50}.formula{font-family:Arial;font-size:12px;fill:#666}</style><g transform='translate(50,50)'><path class='coil' d='M0,0 C10,0 10,20 20,20 S30,0 40,0 S50,20 60,20 S70,0 80,0'/><text class='text' x='30' y='-10'>r</text><line class='wire' x1='-20' y1='0' x2='0' y2='0'/><line class='wire' x1='80' y1='0' x2='100' y2='0'/></g><g transform='translate(50,120)'><path class='coil' d='M0,0 C20,0 20,40 40,40 S60,0 80,0 S100,40 120,40 S140,0 160,0'/><text class='text' x='70' y='-20'>2r</text><line class='wire' x1='-20' y1='0' x2='0' y2='0'/><line class='wire' x1='160' y1='0' x2='180' y2='0'/></g><text class='formula' x='250' y='60'>Original: 5A at 220V</text><text class='formula' x='250' y='130'>New: 20A at 220V</text></svg>",
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+           "terms":"Calculate original resistance:",
+           "calculation":"R = V/I = 220V/5A = 44Ω"
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+           "terms":"When radius doubles, area becomes 4 times (A = πr²)",
+           "calculation":null
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+           "terms":"New resistance = R/4 = 44Ω/4 = 11Ω",
+           "calculation":null
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"Using V=IR:",
+           "calculation":"220 = I × 11"
+          }
+        },
+        {
+          "step": 5,
+          "value": {
+           "terms":"New current I = 220/11 = 20A",
+           "calculation":null
+          }
+        }
+      ],
+     
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the current through 6Ω resistor in this Wheatstone bridge:",
+        "hindi": "इस व्हीटस्टोन ब्रिज में 6Ω प्रतिरोधक से प्रवाहित धारा की गणना करें:"
+      },
+      "option": {
+        "english": ["0.5A", "1.0A", "1.5A", "2.0A"],
+        "hindi": ["0.5A", "1.0A", "1.5A", "2.0A"]
+      },
+      "answer": 1,
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}</style><line class='wire' x1='150' y1='50' x2='50' y2='100'/><line class='wire' x1='150' y1='50' x2='250' y2='100'/><line class='wire' x1='50' y1='100' x2='150' y2='150'/><line class='wire' x1='250' y1='100' x2='150' y2='150'/><rect class='resistor' x='80' y='65' width='40' height='20' transform='rotate(-45,100,75)'/><rect class='resistor' x='180' y='65' width='40' height='20' transform='rotate(45,200,75)'/><rect class='resistor' x='80' y='115' width='40' height='20' transform='rotate(45,100,125)'/><rect class='resistor' x='180' y='115' width='40' height='20' transform='rotate(-45,200,125)'/><circle cx='150' cy='50' r='3'/><circle cx='50' cy='100' r='3'/><circle cx='250' cy='100' r='3'/><circle cx='150' cy='150' r='3'/><text class='text' x='90' y='70'>6Ω</text><text class='text' x='190' y='70'>12Ω</text><text class='text' x='90' y='140'>12Ω</text><text class='text' x='190' y='140'>24Ω</text><text class='text' x='150' y='35'>12V</text></svg>",
+
+      "explanation":"helo",
+      
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+            "terms": "Identify the left arm of bridge:",
+            "calculation": "6Ω + 12Ω = 18Ω",
+            "diagram": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none}.normal{stroke:#ccc;stroke-width:2}.highlight{stroke:#ff4444;stroke-width:3}.text{font-family:Arial;font-size:14px}</style><line class='highlight' x1='150' y1='50' x2='50' y2='100'/><line class='highlight' x1='50' y1='100' x2='150' y2='150'/><line class='normal' x1='150' y1='50' x2='250' y2='100'/><line class='normal' x1='250' y1='100' x2='150' y2='150'/><rect class='highlight' x='80' y='65' width='40' height='20' transform='rotate(-45,100,75)'/><rect class='highlight' x='80' y='115' width='40' height='20' transform='rotate(45,100,125)'/><rect class='normal' x='180' y='65' width='40' height='20' transform='rotate(45,200,75)'/><rect class='normal' x='180' y='115' width='40' height='20' transform='rotate(-45,200,125)'/><text class='text' x='90' y='70'>6Ω</text><text class='text' x='90' y='140'>12Ω</text><text class='text' x='150' y='35'>12V</text><rect x='50' y='160' width='200' height='30' fill='#f8f9fa' stroke='#ddd'/><text class='text' x='60' y='180'>Left arm: 6Ω + 12Ω = 18Ω</text></svg>"
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+            "terms": "Current splits equally in both arms",
+            "calculation": "I = V/R = 12V/12Ω = 1.0A",
+            "diagram": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:#333;stroke-width:2}.wire{stroke:#2c3e50;stroke-width:2}.current{stroke:#4CAF50;stroke-width:2;marker-end:url(#arrow)}.text{font-family:Arial;font-size:14px}</style><defs><marker id='arrow' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='6' markerHeight='6' orient='auto'><path d='M 0 0 L 10 5 L 0 10 z' fill='#4CAF50'/></marker></defs><line class='wire' x1='150' y1='50' x2='50' y2='100'/><line class='wire' x1='150' y1='50' x2='250' y2='100'/><path class='current' d='M150,50 Q100,75 90,70'/><text class='text' x='100' y='60'>1.0A</text><rect class='resistor' x='80' y='65' width='40' height='20' transform='rotate(-45,100,75)'/><text class='text' x='90' y='70'>6Ω</text><rect x='50' y='160' width='200' height='30' fill='#f8f9fa' stroke='#ddd'/><text class='text' x='60' y='180'>Current through 6Ω = 1.0A</text></svg>"
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+            "terms": "Final verification",
+            "calculation": "Voltage across 6Ω = I × R = 1.0A × 6Ω = 6V",
+            "diagram": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:#4CAF50;stroke-width:3}.wire{stroke:#2c3e50;stroke-width:2}.text{font-family:Arial;font-size:14px}.result{font-family:Arial;font-size:16px;fill:#4CAF50}</style><rect class='resistor' x='80' y='65' width='40' height='20' transform='rotate(-45,100,75)'/><text class='result' x='90' y='70'>6Ω</text><text class='result' x='70' y='90'>1.0A</text><rect x='50' y='160' width='200' height='30' fill='#f8f9fa' stroke='#ddd'/><text class='text' x='60' y='180'>V = IR = 1.0A × 6Ω = 6V ✓</text></svg>"
+          }
+        }
+      ],
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Three identical cells of EMF 2V and internal resistance 0.2Ω each are connected in parallel. Calculate the current through a 1Ω external resistance:",
+        "hindi": "2V विद्युत वाहक बल और 0.2Ω आंतरिक प्रतिरोध वाली तीन समान सेल समानांतर में जुड़ी हैं। 1Ω बाह्य प्रतिरोध से प्रवाहित धारा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "4A",
+          "5A",
+          "6A",
+          "7A"
+        ],
+        "hindi": [
+          "4A",
+          "5A",
+          "6A",
+          "7A"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "english": "1. For cells in parallel:\n- EMF remains same = 2V\n- Internal resistance becomes r/3 = 0.2/3Ω\n2. Total resistance = 0.067Ω + 1Ω = 1.067Ω\n3. Current = EMF/Total resistance = 2/0.4 = 5A",
+        "hindi": "1. समानांतर में सेल के लिए:\n- विद्युत वाहक बल समान रहता है = 2V\n- आंतरिक प्रतिरोध r/3 = 0.2/3Ω हो जाता है\n2. कुल प्रतिरोध = 0.067Ω + 1Ω = 1.067Ω\n3. धारा = विद्युत वाहक बल/कुल प्रतिरोध = 2/0.4 = 5A"
+      },
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+           "terms":"For cells in parallel, EMF remains same = 2V",
+           "calculation":null
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+           "terms":"Effective internal resistance:",
+           "calculation":"0.2Ω/3 = 0.067Ω"
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+           "terms":"Total resistance = Internal + External:",
+           "calculation":" = 0.067Ω + 1Ω = 1.067Ω"
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"Using Ohm's law:",
+           "calculation":"I = V/R = 2V/1.067Ω"
+          }
+        },
+        {
+          "step": 5,
+          "value": {
+           "terms":"Current = 5A",
+           "calculation":null
+          }
+        }
+      ],
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.cell{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}</style><line class='wire' x1='50' y1='50' x2='250' y2='50'/><line class='wire' x1='50' y1='150' x2='250' y2='150'/><line class='wire' x1='100' y1='50' x2='100' y2='150'/><line class='wire' x1='150' y1='50' x2='150' y2='150'/><line class='wire' x1='200' y1='50' x2='200' y2='150'/><rect class='cell' x='80' y='80' width='40' height='20'/><rect class='cell' x='130' y='80' width='40' height='20'/><rect class='cell' x='180' y='80' width='40' height='20'/><text class='text' x='90' y='95'>2V</text><text class='text' x='140' y='95'>2V</text><text class='text' x='190' y='95'>2V</text><text class='text' x='60' y='70'>0.2Ω</text><text class='text' x='110' y='70'>0.2Ω</text><text class='text' x='160' y='70'>0.2Ω</text><rect class='resistor' x='220' y='80' width='40' height='20'/><text class='text' x='230' y='95'>1Ω</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Find the potential difference across XY in the given network:",
+        "hindi": "दिए गए नेटवर्क में XY के बीच विभवांतर ज्ञात करें:"
+      },
+      "option": {
+        "english": [
+          "2V",
+          "4V",
+          "6V",
+          "8V"
+        ],
+        "hindi": [
+          "2V",
+          "4V",
+          "6V",
+          "8V"
+        ]
+      },
+      "answer": 2,
+      "explanation": {
+        "english": "1. Total resistance = 4Ω + 8Ω = 12Ω\n2. Current = 12V/12Ω = 1A\n3. Voltage across 4Ω = IR = 1A × 4Ω = 4V\n4. Voltage across 8Ω = IR = 1A × 8Ω = 8V\n5. Potential difference XY = 6V",
+        "hindi": "1. कुल प्रतिरोध = 4Ω + 8Ω = 12Ω\n2. धारा = 12V/12Ω = 1A\n3. 4Ω पर वोल्टेज = IR = 1A × 4Ω = 4V\n4. 8Ω पर वोल्टेज = IR = 1A × 8Ω = 8V\n5. XY के बीच विभवांतर = 6V"
+      },
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+           "terms":"Calculate total resistance:",
+           "calculation":"4Ω + 8Ω = 12Ω"
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+           "terms":"Find current using Ohm's law:",
+           "calculation":"I = 12V/12Ω = 1A"
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+           "terms":"Voltage across first 6Ω (up to point X):",
+           "calculation":"1A × 6Ω = 6V"
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"This is the potential difference between X and Y",
+           "calculation":null
+          }
+        },
+        {
+          "step": 5,
+          "value": {
+           "terms":"Therefore, VXY = 6V",
+           "calculation":null
+          }
+        }
+      ],
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}</style><rect x='50' y='50' width='200' height='100' fill='none' stroke='black'/><line class='wire' x1='100' y1='50' x2='100' y2='150'/><line class='wire' x1='200' y1='50' x2='200' y2='150'/><rect class='resistor' x='70' y='90' width='40' height='20'/><rect class='resistor' x='170' y='90' width='40' height='20'/><text class='text' x='80' y='85'>12V</text><text class='text' x='130' y='105'>4Ω</text><text class='text' x='230' y='105'>8Ω</text><circle cx='100' cy='50' r='3'/><circle cx='100' cy='150' r='3'/><text class='text' x='90' y='40'>X</text><text class='text' x='90' y='170'>Y</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A wire of resistance 12Ω is cut into three equal parts which are connected in parallel. The equivalent resistance is:",
+        "hindi": "12Ω प्रतिरोध वाले तार को तीन बराबर भागों में काटा जाता है जो समानांतर में जुड़े हैं। तुल्य प्रतिरोध है:"
+      },
+      "option": {
+        "english": [
+          "1.33Ω",
+          "4Ω",
+          "36Ω",
+          "108Ω"
+        ],
+        "hindi": [
+          "1.33Ω",
+          "4Ω",
+          "36Ω",
+          "108Ω"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "english": "1. Each part has resistance = 12/3 = 4Ω\n2. For parallel combination:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\n3. Therefore R = 4/3 = 1.33Ω",
+        "hindi": "1. प्रत्येक भाग का प्रतिरोध = 12/3 = 4Ω\n2. समानांतर संयोजन के लिए:\n1/R = 1/4 + 1/4 + 1/4 = 3/4\n3. इसलिए R = 4/3 = 1.33Ω"
+      },
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+           "terms":"When wire is cut into three equal parts, each part has resistance:",
+           "calculation":"12Ω/3 = 4Ω"
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+           "terms":"For parallel combination, use formula:",
+           "calculation":"1/R = 1/R₁ + 1/R₂ + 1/R₃"
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+           "terms":"1/R = 1/4 + 1/4 + 1/4 = 3/4",
+           "calculation":null
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"R = 4/3 = 1.33Ω",
+           "calculation":null
+          } 
+        }
+      ],
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}</style><line class='wire' x1='50' y1='50' x2='250' y2='50'/><line class='wire' x1='50' y1='150' x2='250' y2='150'/><rect class='resistor' x='80' y='60' width='40' height='20'/><rect class='resistor' x='130' y='90' width='40' height='20'/><rect class='resistor' x='180' y='60' width='40' height='20'/><text class='text' x='90' y='75'>4Ω</text><text class='text' x='140' y='105'>4Ω</text><text class='text' x='190' y='75'>4Ω</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Calculate the heat produced in joules when current in this circuit flows for 2 minutes:",
+        "hindi": "इस परिपथ में 2 मिनट तक धारा प्रवाहित होने पर जूल में उत्पन्न ऊष्मा की गणना करें:"
+      },
+      "option": {
+        "english": [
+          "14400J",
+          "28800J",
+          "43200J",
+          "57600J"
+        ],
+        "hindi": [
+          "14400J",
+          "28800J",
+          "43200J",
+          "57600J"
+        ]
+      },
+      "answer": 2,
+      "explanation": {
+        "english": "1. Total resistance = 6Ω + 3Ω = 9Ω\n2. Current = 12V/9Ω = 1.33A\n3. Power = I²R = (1.33)² × 9 = 16W\n4. Heat = Power × time = 16 × 120 = 43200J",
+        "hindi": "1. कुल प्रतिरोध = 6Ω + 3Ω = 9Ω\n2. धारा = 12V/9Ω = 1.33A\n3. शक्ति = I²R = (1.33)² × 9 = 16W\n4. ऊष्मा = शक्ति × समय = 16 × 120 = 43200J"
+      },
+      "solution": [
+        {
+          "step": 1,
+          "value": {
+           "terms":"Calculate total resistance:",
+           "calculation":"6Ω + 3Ω = 9Ω"
+          }
+        },
+        {
+          "step": 2,
+          "value": {
+           "terms":"Find current:",
+           "calculation":"I = 12V/9Ω = 1.33A"
+          }
+        },  
+        {
+          "step": 3,
+          "value": {
+           "terms":"Calculate power:",
+           "calculation":"P = I²R = (1.33A)² × 9Ω = 16W"
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"Convert time to seconds:",
+           "calculation":"2 minutes = 120 seconds"
+          }
+        },
+        {
+          "step": 5,
+          "value": {
+           "terms":"Heat energy = Power × time:",
+           "calculation":"16W × 120s = 43200J"
+          }
+        }
+      ],
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}.battery{stroke:black;stroke-width:2}</style><line class='wire' x1='50' y1='50' x2='250' y2='50'/><line class='wire' x1='50' y1='50' x2='50' y2='100'/><line class='wire' x1='250' y1='50' x2='250' y2='100'/><line class='wire' x1='50' y1='100' x2='250' y2='100'/><rect class='resistor' x='120' y='40' width='40' height='20'/><rect class='resistor' x='120' y='90' width='40' height='20'/><line class='battery' x1='70' y1='65' x2='70' y2='85'/><line class='battery' x1='65' y1='75' x2='75' y2='75'/><text class='text' x='130' y='55'>6Ω</text><text class='text' x='130' y='105'>3Ω</text><text class='text' x='40' y='75'>12V</text></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "Two resistors when connected in series give 9Ω and in parallel give 2Ω. Their individual values are:",
+        "hindi": "दो प्रतिरोधक श्रेणीक्रम में जुड़ने पर 9Ω और समानांतर में जुड़ने पर 2Ω देते हैं। उनके व्यक्तिगत मान हैं:"
+      },
+      "option": {
+        "english": [
+          "3Ω, 6Ω",
+          "4Ω, 5Ω",
+          "2Ω, 7Ω",
+          "1Ω, 8Ω"
+        ],
+        "hindi": [
+          "3Ω, 6Ω",
+          "4Ω, 5Ω",
+          "2Ω, 7Ω",
+          "1Ω, 8Ω"
+        ]
+      },
+      "answer": 0,
+      "explanation": {
+        "english": "Let resistances be R₁ and R₂\n1. In series: R₁ + R₂ = 9Ω\n2. In parallel: (R₁×R₂)/(R₁+R₂) = 2Ω\n3. Solving: R₁ = 3Ω, R₂ = 6Ω",
+        "hindi": "मान लें प्रतिरोध R₁ और R₂ हैं\n1. श्रेणीक्रम में: R₁ + R₂ = 9Ω\n2. समानांतर में: (R₁×R₂)/(R₁+R₂) = 2Ω\n3. हल करने पर: R₁ = 3Ω, R₂ = 6Ω"
+      },
+      "solution": [
+        {
+          "step": 1,  
+          "value": {
+           "terms":"For series connection:",
+           "calculation":"R₁ + R₂ = 9Ω"
+          }
+        },
+        {
+          "step": 2, 
+          "value": {
+           "terms":"For parallel connection:",
+           "calculation":"(R₁×R₂)/(R₁+R₂) = 2Ω"
+          }
+        },
+        {
+          "step": 3,
+          "value": {
+           "terms":"Multiply parallel equation by (R₁+R₂):",
+           "calculation":"R₁×R₂ = 2(R₁+R₂)"
+          }
+        },
+        {
+          "step": 4,
+          "value": {
+           "terms":"Substitute R₂ = 9-R₁ from series equation:",
+           "calculation":"R₁(9-R₁) = 2(R₁+9-R₁)"
+          }
+        },
+        {
+          "step": 5,
+          "value": {
+           "terms":"Simplify:",
+           "calculation":"9R₁-R₁² = 18"
+          }
+        },
+        {
+          "step": 6,
+          "value": {
+           "terms":"Rearrange:",
+           "calculation":"R₁²-9R₁+18 = 0"
+          }
+        },
+        {
+          "step": 7,
+          "value": {
+           "terms":"Solve quadratic equation:",
+           "calculation":"R₁ = 3Ω or 6Ω"
+          }
+        },
+        {
+          "step": 8,
+          "value": {
+           "terms":"Therefore R₁ = 3Ω and R₂ = 6Ω",
+           "calculation":null
+          }
+        }
+      ],
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}</style><g transform='translate(50,50)'><text class='text' x='0' y='0'>Series:</text><line class='wire' x1='50' y1='0' x2='200' y2='0'/><rect class='resistor' x='70' y='-10' width='40' height='20'/><rect class='resistor' x='140' y='-10' width='40' height='20'/><text class='text' x='80' y='-15'>3Ω</text><text class='text' x='150' y='-15'>6Ω</text></g><g transform='translate(50,150)'><text class='text' x='0' y='0'>Parallel:</text><line class='wire' x1='50' y1='-20' x2='200' y2='-20'/><line class='wire' x1='50' y1='20' x2='200' y2='20'/><rect class='resistor' x='70' y='-10' width='40' height='20'/><rect class='resistor' x='140' y='-10' width='40' height='20'/><text class='text' x='80' y='-15'>3Ω</text><text class='text' x='150' y='-15'>6Ω</text></g></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "In the given potentiometer circuit, find the position of null point if E1=2V and E2=1.5V:",
+        "hindi": "दिए गए विभवमापी परिपथ में, शून्य बिंदु की स्थिति ज्ञात करें यदि E1=2V और E2=1.5V है:"
+      },
+      "option": {
+        "english": [
+          "60cm",
+          "75cm",
+          "80cm",
+          "90cm"
+        ],
+        "hindi": [
+          "60cm",
+          "75cm",
+          "80cm",
+          "90cm"
+        ]
+      },
+      "answer": 1,
+      "explanation": {
+        "english": "1. In potentiometer, potential drop is proportional to length\n2. Let total length be 100cm\n3. For null point: E₁/E₂ = l₁/l₂\n4. 2/1.5 = 75/100\n5. Therefore, null point is at 75cm",
+        "hindi": "1. विभवमापी में, विभव पात लंबाई के समानुपाती होता है\n2. मान लें कुल लंबाई 100cm है\n3. शून्य बिंदु के लिए: E₁/E₂ = l₁/l₂\n4. 2/1.5 = 75/100\n5. इसलिए, शून्य बिंदु 75cm पर है"
+      },
+      "solution": "Total length = 100cm\nE₁/E₂ = l₁/l₂\n2/1.5 = l₁/100\nl₁ = 75cm",
+      "image": "<svg width='300' height='200' xmlns='http://www.w3.org/2000/svg'><style>.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}.battery{stroke:black;stroke-width:2}.galvanometer{fill:none;stroke:black;stroke-width:2}</style><line class='wire' x1='50' y1='50' x2='250' y2='50'/><line class='wire' x1='50' y1='50' x2='50' y2='150'/><line class='wire' x1='250' y1='50' x2='250' y2='150'/><line class='battery' x1='40' y1='90' x2='60' y2='90'/><line class='battery' x1='45' y1='95' x2='55' y2='95'/><line class='battery' x1='240' y1='90' x2='260' y2='90'/><line class='battery' x1='245' y1='95' x2='255' y2='95'/><circle class='galvanometer' cx='150' cy='120' r='15'/><text class='text' x='145' y='125'>G</text><text class='text' x='30' y='85'>E1</text><text class='text' x='265' y='85'>E2</text><text class='text' x='140' y='40'>Potentiometer wire</text><line class='wire' x1='150' y1='50' x2='150' y2='105'/></svg>",
+      "medium": "hard"
+    },
+    {
+      "question_name": {
+        "english": "A battery of EMF 12V and internal resistance 2Ω is connected to a resistor. If current in circuit is 2A, power dissipated in external resistor is:",
+        "hindi": "12V विद्युत वाहक बल और 2Ω आंतरिक प्रतिरोध वाली बैटरी एक प्रतिरोधक से जुड़ी है। यदि परिपथ में धारा 2A है, तो बाह्य प्रतिरोधक में व्यय शक्ति है:"
+      },
+      "option": {
+        "english": [
+          "16W",
+          "24W",
+          "32W",
+          "40W"
+        ],
+        "hindi": [
+          "16W",
+          "24W",
+          "32W",
+          "40W"
+        ]
+      },
+      "answer": 0,
+      "solution":null,
+      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><style>.resistor{fill:none;stroke:black;stroke-width:2}.wire{stroke:black;stroke-width:2}.text{font-family:Arial;font-size:14px}.battery{stroke:black;stroke-width:2}</style><line class='wire' x1='50' y1='50' x2='250' y2='50'/><line class='wire' x1='50' y1='50' x2='50' y2='100'/><line class='wire' x1='250' y1='50' x2='250' y2='100'/><line class='wire' x1='50' y1='100' x2='250' y2='100'/><rect class='resistor' x='180' y='40' width='40' height='20'/><line class='battery' x1='70' y1='65' x2='70' y2='85'/><line class='battery' x1='65' y1='75' x2='75' y2='75'/><text class='text' x='190' y='35'>4Ω</text><text class='text' x='40' y='75'>12V</text><text class='text' x='85' y='75'>2Ω</text></svg>",
+      "medium": "hard"
+    }
+  ]
