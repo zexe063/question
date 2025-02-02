@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Chlorine",
-          "Fluorine",
+          "Fluorine", 
           "Oxygen",
           "Nitrogen"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fluorine has the highest electronegativity among all elements because it has the smallest atomic size and highest effective nuclear charge in its period. It strongly attracts electrons to complete its outer shell.",
+        "hindi": "फ्लोरीन की विद्युतऋणात्मकता सभी तत्वों में सबसे अधिक होती है क्योंकि इसका परमाणु आकार सबसे छोटा होता है और इसके आवर्त में प्रभावी नाभकीय आवेश सबसे अधिक होता है। यह अपने बाहरी कोश को पूरा करने के लिए इलेक्ट्रॉनों को मजबूती से आकर्षित करता है।"
+      }
     },
     {
       "question_name": {
@@ -30,20 +34,24 @@
       "option": {
         "english": [
           "1",
-          "3",
+          "3", 
           "2",
           "4"
         ],
         "hindi": [
           "1",
           "3",
-          "2",
+          "2", 
           "4"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Period 1 contains only 2 elements - Hydrogen (H) and Helium (He). This is because the first shell (K shell) can hold a maximum of 2 electrons only.",
+        "hindi": "आवर्त 1 में केवल 2 तत्व होते हैं - हाइड्रोजन (H) और हीलियम (He)। ऐसा इसलिए है क्योंकि पहले कोश (K कोश) में अधिकतम 2 ही इलेक्ट्रॉन आ सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Group 1 elements (except Hydrogen) are called alkali metals because they form strong alkaline solutions when they react with water. These metals are very reactive as they have only one electron in their outermost shell.",
+        "hindi": "समूह 1 के तत्वों (हाइड्रोजन को छोड़कर) को क्षार धातु कहा जाता है क्योंकि जब ये पानी से क्रिया करते हैं तो मजबूत क्षारीय घोल बनाते हैं। ये धातुएं बहुत क्रियाशील होती हैं क्योंकि इनके बाहरी कोश में केवल एक इलेक्ट्रॉन होता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Aluminum has valency of 3 because it has 3 electrons in its outermost shell (electronic configuration: 2,8,3). It tends to lose these 3 electrons to achieve a stable electronic configuration like noble gases.",
+        "hindi": "एल्युमिनियम की संयोजकता 3 होती है क्योंकि इसके बाहरी कोश में 3 इलेक्ट्रॉन होते हैं (इलेक्ट्रॉनिक विन्यास: 2,8,3)। यह उत्कृष्ट गैसों की तरह स्थायी इलेक्ट्रॉनिक विन्यास प्राप्त करने के लिए ये 3 इलेक्ट्रॉन खो देता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fluorine is the most reactive halogen because it has the smallest atomic size and highest electronegativity. It needs only one electron to complete its octet, making it extremely reactive to gain that electron.",
+        "hindi": "फ्लोरीन सबसे अधिक क्रियाशील हैलोजन है क्योंकि इसका परमाणु आकार सबसे छोटा और विद्युतऋणात्मकता सबसे अधिक होती है। इसे अपना अष्टक पूरा करने के लिए केवल एक इलेक्ट्रॉन की आवश्यकता होती है, जो इसे वह इलेक्ट्रॉन प्राप्त करने के लिए अत्यधिक क्रियाशील बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Atomic radii decrease across a period because as we move from left to right, the nuclear charge increases while electrons are added to the same shell. This increases the nuclear attraction on outer electrons, pulling them closer to the nucleus.",
+        "hindi": "एक आवर्त में परमाणु त्रिज्या घटती है क्योंकि जब हम बाएं से दाएं जाते हैं, नाभकीय आवेश बढ़ता जाता है जबकि इलेक्ट्रॉन एक ही कोश में जुड़ते हैं। इससे बाहरी इलेक्ट्रॉनों पर नाभकीय आकर्षण बढ़ जाता है, जो उन्हें नाभिक की ओर खींचता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Valency shows periodicity because it depends on the number of electrons in the outermost shell, which repeats in a periodic pattern. Elements in the same group have similar valency as they have same number of valence electrons.",
+        "hindi": "संयोजकता आवर्तता दर्शाती है क्योंकि यह बाहरी कोश में इलेक्ट्रॉनों की संख्या पर निर्भर करती है, जो एक आवर्ती पैटर्न में दोहराती है। एक ही समूह के तत्वों की संयोजकता समान होती है क्योंकि उनके संयोजी इलेक्ट्रॉनों की संख्या समान होती है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Electronic configuration determines an element's position in the periodic table. The period number shows the number of shells, while the group number is related to the number of valence electrons in the outermost shell.",
+        "hindi": "आवर्त सारणी में तत्व की स्थिति इलेक्ट्रॉनिक विन्यास द्वारा निर्धारित होती है। आवर्त संख्या कोशों की संख्या दर्शाती है, जबकि समूह संख्या बाहरी कोश में संयोजी इलेक्ट्रॉनों की संख्या से संबंधित होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Mendeleev's periodic table was more successful because he left gaps for undiscovered elements and correctly predicted their properties. For example, he predicted the properties of Germanium (which he called eka-silicon) before it was discovered.",
+        "hindi": "मेंडलीफ की आवर्त सारणी अधिक सफल थी क्योंकि उन्होंने अज्ञात तत्वों के लिए रिक्त स्थान छोड़े और उनके गुणों की सही भविष्यवाणी की। उदाहरण के लिए, उन्होंने जर्मेनियम (जिसे उन्होंने एका-सिलिकॉन कहा) की खोज से पहले उसके गुणों की भविष्यवाणी की थी।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Noble gases have complete stability because they have completely filled outer shells with 8 electrons (except Helium which has 2). This electronic configuration (octet) makes them very stable and they don't need to gain or lose electrons to become stable.",
+        "hindi": "उत्कृष्ट गैसों में पूर्ण स्थायित्व होता है क्योंकि उनके बाहरी कोश में 8 इलेक्ट्रॉन पूर्ण होते हैं (हीलियम को छोड़कर जिसमें 2 होते हैं)। यह इलेक्ट्रॉनिक विन्यास (अष्टक) उन्हें बहुत स्थिर बनाता है और उन्हें स्थिर होने के लिए इलेक्ट्रॉन लेने या खोने की आवश्यकता नहीं होती।"
+      }
     }
 ]

@@ -1,232 +1,272 @@
 [
-    {
+  {
       "question_name": {
-        "english": "How many elements are in period 2?",
-        "hindi": "आवर्त 2 में कितने तत्व हैं?"
+          "english": "What is the electronic configuration of neon (Ne)?",
+          "hindi": "नियॉन (Ne) का इलेक्ट्रॉनिक विन्यास क्या है?"
       },
       "option": {
-        "english": [
-          "2",
-          "8",
-          "18",
-          "32"
-        ],
-        "hindi": [
-          "2",
-          "8",
-          "18",
-          "32"
-        ]
+          "english": [
+              "1s²2s²2p⁴",
+              "1s²2s²2p⁶", 
+              "1s²2s²2p⁵",
+              "1s²2s¹2p⁶"
+          ],
+          "hindi": [
+              "1s²2s²2p⁴",
+              "1s²2s²2p⁶",
+              "1s²2s²2p⁵", 
+              "1s²2s¹2p⁶"
+          ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
-    },
-    {
+      "medium": "easy",
+      "explanation": {
+          "english": "Neon has 10 electrons. These electrons are arranged in shells. First shell has 2 electrons (1s²). Second shell has 8 electrons (2s²2p⁶). This makes neon very stable.",
+          "hindi": "नियॉन में 10 इलेक्ट्रॉन हैं। ये इलेक्ट्रॉन कक्षाओं में व्यवस्थित हैं। पहली कक्षा में 2 इलेक्ट्रॉन (1s²) हैं। दूसरी कक्षा में 8 इलेक्ट्रॉन (2s²2p⁶) हैं। यह नियॉन को बहुत स्थिर बनाता है।"
+      }
+  },
+  {
       "question_name": {
-        "english": "What is the maximum electrons in d-subshell?",
-        "hindi": "d-उपकोश में अधिकतम इलेक्ट्रॉन कितने होते हैं?"
+          "english": "Which scientist arranged elements in order of increasing atomic mass in groups of three?",
+          "hindi": "किस वैज्ञानिक ने तत्वों को बढ़ते परमाणु द्रव्यमान के क्रम में तीन के समूह में व्यवस्थित किया?"
       },
       "option": {
-        "english": [
-          "2",
-          "6",
-          "8",
-          "10"
-        ],
-        "hindi": [
-          "2",
-          "6",
-          "8",
-          "10"
-        ]
+          "english": [
+              "Mendeleev",
+              "Moseley",
+              "Newlands",
+              "Döbereiner"
+          ],
+          "hindi": [
+              "मेंडलीफ",
+              "मोज़ले",
+              "न्यूलैंड्स",
+              "डोबेराइनर"
+          ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
-    },
-    {
+      "medium": "easy", 
+      "explanation": {
+          "english": "Döbereiner found that similar elements come in groups of three. He arranged them by weight. For example, lithium, sodium and potassium form one such group. Their properties are similar.",
+          "hindi": "डोबेराइनर ने पाया कि समान तत्व तीन के समूह में आते हैं। उन्होंने इन्हें वजन के अनुसार व्यवस्थित किया। उदाहरण के लिए, लिथियम, सोडियम और पोटैशियम एक समूह बनाते हैं। इनके गुण समान हैं।"
+      }
+  },
+  {
       "question_name": {
-        "english": "Which is the most reactive halogen?",
-        "hindi": "सबसे अधिक क्रियाशील हैलोजन कौन है?"
+          "english": "What is the electronic configuration of chlorine ion (Cl⁻)?",
+          "hindi": "क्लोरीन आयन (Cl⁻) का इलेक्ट्रॉनिक विन्यास क्या है?"
       },
       "option": {
-        "english": [
-          "Chlorine",
-          "Bromine",
-          "Fluorine",
-          "Iodine"
-        ],
-        "hindi": [
-          "क्लोरीन",
-          "ब्रोमीन",
-          "फ्लोरीन",
-          "आयोडीन"
-        ]
+          "english": [
+              "1s²2s²2p⁶3s²3p⁵",
+              "1s²2s²2p⁶3s²3p⁴",
+              "1s²2s²2p⁶3s²3p⁶",
+              "1s²2s²2p⁶3s¹3p⁶"
+          ],
+          "hindi": [
+              "1s²2s²2p⁶3s²3p⁵",
+              "1s²2s²2p⁶3s²3p⁴",
+              "1s²2s²2p⁶3s²3p⁶",
+              "1s²2s²2p⁶3s¹3p⁶"
+          ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
-    },
-    {
+      "medium": "easy",
+      "explanation": {
+          "english": "Chlorine atom has 17 electrons. When it gains 1 electron, it becomes Cl⁻ with 18 electrons. These electrons fill up shells completely: 2 in first shell, 8 in second shell, and 8 in third shell.",
+          "hindi": "क्लोरीन परमाणु में 17 इलेक्ट्रॉन होते हैं। जब यह 1 इलेक्ट्रॉन प्राप्त करता है, तो यह 18 इलेक्ट्रॉन वाला Cl⁻ बन जाता है। ये इलेक्ट्रॉन कक्षाओं को पूरी तरह भर देते हैं: पहली कक्षा में 2, दूसरी कक्षा में 8, और तीसरी कक्षा में 8।"
+      }
+  },
+  {
       "question_name": {
-        "english": "Which block contains most elements?",
-        "hindi": "किस ब्लॉक में सबसे अधिक तत्व हैं?"
+          "english": "Which halogen compound is used as antiseptic?",
+          "hindi": "कौन सा हैलोजन यौगिक रोगाणुरोधी के रूप में प्रयोग किया जाता है?"
       },
       "option": {
-        "english": [
-          "d-block",
-          "f-block",
-          "s-block",
-          "p-block"
-        ],
-        "hindi": [
-          "d-ब्लॉक",
-          "f-ब्लॉक",
-          "s-ब्लॉक",
-          "p-ब्लॉक"
-        ]
+          "english": [
+            "Iodine tincture",
+              "Sodium chloride",
+              "Fluorine water",
+              "Bromine solution"
+          ],
+          "hindi": [
+            "आयोडीन टिंचर",
+              "सोडियम क्लोराइड",
+              "फ्लोरीन जल",
+              "ब्रोमीन विलयन"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
-    },
-    {
+      "medium": "medium",
+      "explanation": {
+          "english": "Iodine tincture is brown colored solution. We apply it on cuts and wounds. It kills germs and prevents infection. It is safe to use and easily available in medical stores.",
+          "hindi": "आयोडीन टिंचर भूरे रंग का घोल है। हम इसे कटने और घावों पर लगाते हैं। यह कीटाणुओं को मारता है और संक्रमण को रोकता है। यह उपयोग करने में सुरक्षित है और मेडिकल स्टोर में आसानी से मिल जाता है।"
+      }
+  },
+  {
       "question_name": {
-        "english": "What is the valency of noble gases?",
-        "hindi": "उत्कृष्ट गैसों की संयोजकता क्या होती है?"
+          "english": "What is the electronic configuration of sodium (Na)?",
+          "hindi": "सोडियम (Na) का इलेक्ट्रॉनिक विन्यास क्या है?"
       },
       "option": {
-        "english": [
-          "2",
-          "1",
-          "3",
-          "0"
-        ],
-        "hindi": [
-          "2",
-          "1",
-          "3",
-          "0"
-        ]
+          "english": [
+              "[Ne]3s²",
+              "[Ne]3s¹",
+              "[Ne]3p¹",
+              "[Ne]2s¹"
+          ],
+          "hindi": [
+              "[Ne]3s²",
+              "[Ne]3s¹",
+              "[Ne]3p¹",
+              "[Ne]2s¹"
+          ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
-    },
-    {
+      "medium": "medium",
+      "explanation": {
+          "english": "Sodium has 11 electrons. First 10 electrons are arranged like neon (Ne). The last electron goes in the third shell. So we write it as [Ne]3s¹. This makes sodium very reactive.",
+          "hindi": "सोडियम में 11 इलेक्ट्रॉन हैं। पहले 10 इलेक्ट्रॉन नियॉन (Ne) की तरह व्यवस्थित हैं। अंतिम इलेक्ट्रॉन तीसरी कक्षा में जाता है। इसलिए हम इसे [Ne]3s¹ लिखते हैं। यह सोडियम को बहुत क्रियाशील बनाता है।"
+      }
+  },
+  {
       "question_name": {
-        "english": "Why do atomic radii decrease across a period?",
-        "hindi": "एक आवर्त में परमाणु त्रिज्या क्यों घटती है?"
+          "english": "Which law states that eighth element has properties similar to first?",
+          "hindi": "कौन सा नियम कहता है कि आठवें तत्व के गुण पहले के समान होते हैं?"
       },
       "option": {
-        "english": [
-          "Electron addition",
-          "Shell addition",
-          "Nuclear attraction",
-          "Mass increase"
-        ],
-        "hindi": [
-          "इलेक्ट्रॉन जुड़ने से",
-          "कोश जुड़ने से",
-          "नाभकीय आकर्षण से",
-          "द्रव्यमान बढ़ने से"
-        ]
+          "english": [
+              "Modern Law",
+              "Mendeleev's Law",
+              "Law of Octaves",
+              "Moseley's Law"
+          ],
+          "hindi": [
+              "आधुनिक नियम",
+              "मेंडलीफ का नियम",
+              "अष्टक नियम",
+              "मोज़ले का नियम"
+          ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
-    },
-    {
+      "medium": "medium",
+      "explanation": {
+          "english": "Newlands found that every eighth element behaves like the first one. Just like in music, where eighth note (Sa) is similar to first note (Sa). This pattern worked only for light elements.",
+          "hindi": "न्यूलैंड्स ने पाया कि हर आठवाँ तत्व पहले तत्व की तरह व्यवहार करता है। बिल्कुल संगीत की तरह, जहाँ आठवाँ स्वर (सा) पहले स्वर (सा) के समान होता है। यह पैटर्न केवल हल्के तत्वों के लिए काम करता था।"
+      }
+  },
+  {
       "question_name": {
-        "english": "What causes metallic bonding?",
-        "hindi": "धात्विक बंधन का क्या कारण है?"
+          "english": "What is the general electronic configuration of halogens?",
+          "hindi": "हैलोजन का सामान्य इलेक्ट्रॉनिक विन्यास क्या है?"
       },
       "option": {
-        "english": [
-          "Protons",
-          "Neutrons",
-          "Electrons",
-          "Free electrons"
-        ],
-        "hindi": [
-          "प्रोटॉन",
-          "न्यूट्रॉन",
-          "इलेक्ट्रॉन",
-          "मुक्त इलेक्ट्रॉन"
-        ]
+          "english": [
+              "ns²np⁴",
+              "ns²np³",
+              "ns²np⁶",
+              "ns²np⁵"
+          ],
+          "hindi": [
+              "ns²np⁴",
+              "ns²np³",
+              "ns²np⁶",
+              "ns²np⁵"
+          ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
-    },
-    {
+      "medium": "hard",
+      "explanation": {
+          "english": "All halogens (F, Cl, Br, I) have 7 electrons in their outer shell. Two electrons go in 's' orbital (ns²) and five electrons go in 'p' orbital (np⁵). They need just one more electron to become stable.",
+          "hindi": "सभी हैलोजन (F, Cl, Br, I) के बाहरी कक्ष में 7 इलेक्ट्रॉन होते हैं। दो इलेक्ट्रॉन 's' कक्षक (ns²) में और पाँच इलेक्ट्रॉन 'p' कक्षक (np⁵) में जाते हैं। स्थिर होने के लिए उन्हें बस एक और इलेक्ट्रॉन की जरूरत होती है।"
+      }
+  },
+  {
       "question_name": {
-        "english": "Which element shows inert pair effect?",
-        "hindi": "कौन सा तत्व निष्क्रिय युग्म प्रभाव दर्शाता है?"
+          "english": "Which scientist first showed atomic number determines properties?",
+          "hindi": "किस वैज्ञानिक ने पहली बार दिखाया कि परमाणु संख्या गुणों को निर्धारित करती है?"
       },
       "option": {
-        "english": [
-          "Lead",
-          "Carbon",
-          "Silicon",
-          "Tin"
-        ],
-        "hindi": [
-          "लेड",
-          "कार्बन",
-          "सिलिकॉन",
-          "टिन"
-        ]
+          "english": [
+               "Moseley",
+              "Mendeleev",
+              "Newlands",
+              "Döbereiner"
+          ],
+          "hindi": [
+              "मोज़ले",
+              "मेंडलीफ",
+              "न्यूलैंड्स",
+              "डोबेराइनर"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
-    },
-    {
+      "medium": "hard",
+      "explanation": {
+          "english": "Moseley used X-rays to study elements. He found that properties of elements depend on number of protons (atomic number), not on their weight. This was a very important discovery.",
+          "hindi": "मोज़ले ने तत्वों का अध्ययन करने के लिए एक्स-रे का उपयोग किया। उन्होंने पाया कि तत्वों के गुण प्रोटॉन की संख्या (परमाणु संख्या) पर निर्भर करते हैं, न कि उनके वजन पर। यह एक बहुत महत्वपूर्ण खोज थी।"
+      }
+  },
+  {
       "question_name": {
-        "english": "Why do transition metals form alloys?",
-        "hindi": "संक्रमण धातुएं मिश्र धातु क्यों बनाती हैं?"
+          "english": "Which halogen is used in water treatment?",
+          "hindi": "जल शोधन में किस हैलोजन का उपयोग किया जाता है?"
       },
       "option": {
-        "english": [
-          "Similar atomic radius",
-          "Different atomic radius",
-          "Similar properties",
-          "Different properties"
-        ],
-        "hindi": [
-          "समान परमाणु त्रिज्या",
-          "विभिन्न परमाणु त्रिज्या",
-          "समान गुण",
-          "विभिन्न गुण"
-        ]
+          "english": [
+              "Bromine",
+              "Chlorine",
+              "Iodine",
+              "Fluorine"
+          ],
+          "hindi": [
+              "ब्रोमीन",
+              "क्लोरीन",
+              "आयोडीन",
+              "फ्लोरीन"
+          ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+          "english": "We add chlorine to make water safe for drinking. It kills harmful germs in water. Chlorine is added in very small amounts that are safe for humans but kill germs.",
+          "hindi": "पीने के पानी को सुरक्षित बनाने के लिए हम क्लोरीन मिलाते हैं। यह पानी में हानिकारक कीटाणुओं को मारता है। क्लोरीन बहुत कम मात्रा में मिलाया जाता है जो मनुष्यों के लिए सुरक्षित है लेकिन कीटाणुओं को मार देता है।"
+      }
+  },
+  {
+    "question_name": {
+        "english": "Why does the reactivity of halogens decrease from fluorine to iodine?",
+        "hindi": "हैलोजन की क्रियाशीलता फ्लोरीन से आयोडीन तक क्यों घटती है?"
     },
-    {
-      "question_name": {
-        "english": "What is the effect of lanthanoid contraction?",
-        "hindi": "लैंथेनाइड संकुचन का क्या प्रभाव होता है?"
-      },
-      "option": {
+    "option": {
         "english": [
-          "Size increase",
-          "Mass increase",
-          "Size decrease",
-          "No change"
+            "Because atomic number increases",
+            "Because outer electrons are harder to attract",
+            "Because atomic size increases",
+            "Because they have different colors"
         ],
         "hindi": [
-          "आकार बढ़ता है",
-          "द्रव्यमान बढ़ता है",
-          "आकार घटता है",
-          "कोई परिवर्तन नहीं"
+            "क्योंकि परमाणु संख्या बढ़ती है",
+            "क्योंकि बाहरी इलेक्ट्रॉनों को आकर्षित करना कठिन होता है",
+            "क्योंकि परमाणु आकार बढ़ता है",
+            "क्योंकि उनके रंग अलग-अलग होते हैं"
         ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+        "english": "As we go down the halogen group, atomic size increases. Due to larger size, the nucleus cannot effectively attract electrons from other atoms. This makes it harder for larger halogens like iodine to form bonds compared to smaller ones like fluorine.",
+        "hindi": "जैसे-जैसे हम हैलोजन समूह में नीचे जाते हैं, परमाणु आकार बढ़ता है। बड़े आकार के कारण, नाभिक दूसरे परमाणुओं से इलेक्ट्रॉनों को प्रभावी ढंग से आकर्षित नहीं कर सकता। इस कारण आयोडीन जैसे बड़े हैलोजन के लिए फ्लोरीन जैसे छोटे हैलोजन की तुलना में बंध बनाना कठिन होता है।"
     }
+}
 ]

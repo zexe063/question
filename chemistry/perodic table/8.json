@@ -8,42 +8,50 @@
         "english": [
           "2,2,2",
           "2,3,1",
-          "2,4",
-          "2,4,0"
+          "2,4,0",
+          "2,4"
         ],
         "hindi": [
           "2,2,2",
           "2,3,1",
-          "2,4",
-          "2,4,0"
+          "2,4,0",
+          "2,4"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon has 6 electrons. According to Bohr's model, first shell can have 2 electrons and second shell can have 8 electrons. So carbon has 2 electrons in first shell and 4 electrons in second shell, making its configuration 2,4.",
+        "hindi": "कार्बन में 6 इलेक्ट्रॉन होते हैं। बोर मॉडल के अनुसार, पहले कक्ष में 2 इलेक्ट्रॉन और दूसरे कक्ष में 8 इलेक्ट्रॉन हो सकते हैं। इसलिए कार्बन के पहले कक्ष में 2 और दूसरे कक्ष में 4 इलेक्ट्रॉन हैं, जिससे इसका विन्यास 2,4 होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which period contains lanthanoids?",
-        "hindi": "लैंथेनाइड किस आवर्त में होते हैं?"
+        "english": "Which metal is most reactive in Group 1?",
+        "hindi": "समूह 1 में कौन सी धातु सबसे अधिक क्रियाशील है?"
       },
       "option": {
         "english": [
-          "Period 5",
-          "Period 6",
-          "Period 7",
-          "Period 4"
+          "Lithium",
+          "Sodium",
+          "Francium",
+          "Potassium"
         ],
         "hindi": [
-          "आवर्त 5",
-          "आवर्त 6",
-          "आवर्त 7",
-          "आवर्त 4"
+          "लिथियम",
+          "सोडियम",
+          "फ्रांसियम",
+          "पोटैशियम"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "Francium is most reactive because in Group 1, reactivity increases down the group as atomic size increases. Larger atoms can more easily lose their outer electron to form positive ions.",
+        "hindi": "फ्रांसियम सबसे अधिक क्रियाशील है क्योंकि समूह 1 में, नीचे जाने पर परमाणु का आकार बढ़ता है और क्रियाशीलता बढ़ती जाती है। बड़े परमाणु अपना बाहरी इलेक्ट्रॉन आसानी से खो सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,30 +74,38 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Inert gases like helium, neon, argon are found in p-block. They have completely filled outer shells with 8 electrons (except helium with 2), making them very stable and unreactive.",
+        "hindi": "हीलियम, नियॉन, आर्गन जैसी निष्क्रिय गैसें p-ब्लॉक में पाई जाती हैं। इनके बाहरी कक्ष में 8 इलेक्ट्रॉन पूरी तरह भरे होते हैं (हीलियम में 2), जो इन्हें बहुत स्थिर और अक्रियाशील बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the valency of elements in group 1?",
-        "hindi": "समूह 1 के तत्वों की संयोजकता क्या होती है?"
+        "english": "Why does atomic size decrease across period?",
+        "hindi": "आवर्त में परमाणु आकार क्यों घटता है?"
       },
       "option": {
         "english": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "Electron addition",
+          "Nuclear charge",
+          "Mass increase",
+          "Shell addition"
         ],
         "hindi": [
-          "1",
-          "2",
-          "3",
-          "4"
+          "इलेक्ट्रॉन जुड़ना",
+          "नाभकीय आवेश",
+          "द्रव्यमान बढ़ना",
+          "कोश जुड़ना"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "As we move left to right in a period, electrons are added to the same shell. The nuclear charge increases, pulling the electrons closer to nucleus, which decreases the atomic size.",
+        "hindi": "जब हम आवर्त में बाएं से दाएं जाते हैं, एक ही कक्ष में इलेक्ट्रॉन जुड़ते जाते हैं। नाभकीय आवेश बढ़ता है, जो इलेक्ट्रॉनों को नाभिक की ओर खींचता है, जिससे परमाणु का आकार घटता है।"
+      }
     },
     {
       "question_name": {
@@ -112,30 +128,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Helium has highest ionization energy because it has only 2 electrons very close to nucleus in first shell. These electrons are strongly held by nuclear charge, making it very difficult to remove them.",
+        "hindi": "हीलियम की आयनन ऊर्जा सबसे अधिक है क्योंकि इसके पहले कक्ष में केवल 2 इलेक्ट्रॉन नाभिक के बहुत करीब होते हैं। ये इलेक्ट्रॉन नाभकीय आवेश द्वारा मजबूती से पकड़े जाते हैं, जिन्हें निकालना बहुत कठिन होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Why do d-block elements form colored ions?",
-        "hindi": "d-ब्लॉक तत्व रंगीन आयन क्यों बनाते हैं?"
+        "english": "Why do metals become more reactive down a group?",
+        "hindi": "धातुएं समूह में नीचे जाने पर अधिक क्रियाशील क्यों होती हैं?"
       },
       "option": {
         "english": [
-          "d-d transitions",
-          "s-s transitions",
-          "p-p transitions",
-          "f-f transitions"
+          "Easier to lose electrons",
+          "Harder to lose electrons",
+          "More protons",
+          "Less neutrons"
         ],
         "hindi": [
-          "d-d संक्रमण",
-          "s-s संक्रमण",
-          "p-p संक्रमण",
-          "f-f संक्रमण"
+          "इलेक्ट्रॉन खोना आसान",
+          "इलेक्ट्रॉन खोना कठिन",
+          "अधिक प्रोटॉन",
+          "कम न्यूट्रॉन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Down a group, atomic size increases as new shells are added. The outer electron is farther from nucleus and less tightly held, making it easier for metals to lose electrons and react.",
+        "hindi": "समूह में नीचे जाने पर नए कक्ष जुड़ने से परमाणु का आकार बढ़ता है। बाहरी इलेक्ट्रॉन नाभिक से दूर होता है और कम मजबूती से बंधा होता है, जिससे धातुओं के लिए इलेक्ट्रॉन खोना और प्रतिक्रिया करना आसान हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metallic character is the tendency to lose electrons and form positive ions. Metals easily lose their outer electrons to form positive ions, which gives them their metallic properties.",
+        "hindi": "धात्विक गुण इलेक्ट्रॉन खोने और धनायन बनाने की प्रवृत्ति है। धातुएं आसानी से अपने बाहरी इलेक्ट्रॉन खोकर धनायन बनाती हैं, जो उन्हें धात्विक गुण प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -167,45 +195,53 @@
       },
       "option": {
         "english": [
-          "Nuclear charge",
           "Electronic charge",
+          "Nuclear charge",
           "Mass number",
           "Atomic number"
         ],
         "hindi": [
-          "नाभकीय आवेश",
           "इलेक्ट्रॉनिक आवेश",
+          "नाभकीय आवेश", 
           "द्रव्यमान संख्या",
           "परमाणु संख्या"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The size of an atom depends on two main factors: 1) The number of electron shells - more shells means bigger size, and 2) The nuclear charge (number of protons in nucleus) - it pulls electrons inward. When we go down a group, new shells are added making atoms bigger. When we go across a period, nuclear charge increases which pulls electrons closer, making atoms smaller. This is why atomic size generally increases down a group and decreases across a period.",
+        "hindi": "परमाणु का आकार दो मुख्य कारकों पर निर्भर करता है: 1) इलेक्ट्रॉन कक्षों की संख्या - अधिक कक्ष का मतलब बड़ा आकार, और 2) नाभकीय आवेश (नाभिक में प्रोटॉन की संख्या) - यह इलेक्ट्रॉनों को अंदर की ओर खींचता है। जब हम एक समूह में नीचे जाते हैं, नए कक्ष जुड़ते हैं जिससे परमाणु बड़े होते जाते हैं। जब हम एक आवर्त में आगे बढ़ते हैं, नाभकीय आवेश बढ़ता है जो इलेक्ट्रॉनों को पास खींचता है, जिससे परमाणु छोटे होते जाते हैं। इसलिए परमाणु का आकार आमतौर पर समूह में नीचे जाने पर बढ़ता है और आवर्त में आगे बढ़ने पर घटता है।"
+      }
     },
     {
-      "question_name": {
-        "english": "Why do transition elements show variable oxidation states?",
-        "hindi": "संक्रमण तत्व परिवर्तनशील ऑक्सीकरण अवस्था क्यों दर्शाते हैं?"
-      },
-      "option": {
-        "english": [
-          "s electrons",
-          "p electrons",
-          "f electrons",
-          "d electrons"
-        ],
-        "hindi": [
-          "s इलेक्ट्रॉन",
-          "p इलेक्ट्रॉन",
-          "f इलेक्ट्रॉन",
-          "d इलेक्ट्रॉन"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+    "question_name": {
+      "english": "Why do non-metals form negative ions?",
+      "hindi": "अधातुएं ऋणायन क्यों बनाती हैं?"
     },
+    "option": {
+      "english":[
+        "Low electronegativity",
+        "Large size",
+        "Small size",
+        "High electronegativity"
+      ],
+      "hindi": [
+        "निम्न विद्युतऋणात्मकता",
+        "बड़ा आकार",
+        "छोटा आकार",
+        "उच्च विद्युतऋणात्मकता"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Non-metals have high electronegativity, meaning they strongly attract electrons. They gain electrons to achieve stable electronic configuration like noble gases, forming negative ions.",
+      "hindi": "अधातुओं में उच्च विद्युतऋणात्मकता होती है, जिसका अर्थ है कि वे इलेक्ट्रॉनों को मजबूती से आकर्षित करती हैं। वे उत्कृष्ट गैसों की तरह स्थिर इलेक्ट्रॉनिक विन्यास प्राप्त करने के लिए इलेक्ट्रॉन ग्रहण करती हैं और ऋणायन बनाती हैं।"
+    }
+  },
     {
       "question_name": {
         "english": "Which orbital fills first: 4s or 3d?",
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The 4s orbital fills before 3d according to the Aufbau principle. This is because 4s orbital has slightly lower energy than 3d orbital, even though it is in a higher shell.",
+        "hindi": "आउफबाउ सिद्धांत के अनुसार 4s कक्षक 3d से पहले भरता है। ऐसा इसलिए है क्योंकि 4s कक्षक में 3d कक्षक की तुलना में थोड़ी कम ऊर्जा होती है, भले ही यह उच्च कक्ष में है।"
+      }
     }
 ]

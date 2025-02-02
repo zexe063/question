@@ -34,7 +34,7 @@
       "option": {
         "english": [
           "Cytokinin",
-          "Auxin",
+          "Auxin", 
           "Ethylene",
           "Gibberellin"
         ],
@@ -46,7 +46,11 @@
         ]
       },
       "answer": 1,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Auxin is a plant hormone that promotes root growth and development. It stimulates the elongation of cells in root tips and helps in the formation of lateral roots. Auxin moves downward in the plant (towards roots) and accumulates in the growing root tips where it promotes cell division and elongation.",
+        "hindi": "ऑक्सिन एक पादप हार्मोन है जो जड़ों की वृद्धि और विकास को बढ़ावा देता है। यह जड़ों के अग्र भाग में कोशिकाओं की लंबाई को बढ़ाता है और पार्श्व जड़ों के निर्माण में मदद करता है। ऑक्सिन पौधे में नीचे की ओर (जड़ों की तरफ) गति करता है और बढ़ती हुई जड़ों के अग्र भाग में एकत्रित होता है जहां यह कोशिका विभाजन और वृद्धि को बढ़ावा देता है।"
+      }
     },
     {
       "question_name": {

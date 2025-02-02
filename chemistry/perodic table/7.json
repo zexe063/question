@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What is the maximum electrons in p-subshell?",
-        "hindi": "p-उपकोश में अधिकतम इलेक्ट्रॉन कितने होते हैं?"
-      },
-      "option": {
-        "english": [
-          "2",
-          "6",
-          "10",
-          "14"
-        ],
-        "hindi": [
-          "2",
-          "6",
-          "10",
-          "14"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which element shows most metallic character in period 3?",
+      "hindi": "आवर्त 3 में कौन सा तत्व सबसे अधिक धात्विक गुण दर्शाता है?"
     },
+    "option": {
+      "english": [
+        "Mg",
+        "Al",
+        "Na",
+        "Si"
+      ],
+      "hindi": [
+        "Mg",
+        "Al",
+        "Na",
+        "Si"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Sodium (Na) shows the most metallic character because it has only one electron in its outermost shell which it can easily lose to form positive ions. As we move left to right in a period, metallic character decreases.",
+      "hindi": "सोडियम (Na) सबसे अधिक धात्विक गुण दर्शाता है क्योंकि इसके बाह्यतम कक्ष में केवल एक इलेक्ट्रॉन होता है जिसे यह आसानी से खो सकता है। जैसे-जैसे हम आवर्त में बाएं से दाएं जाते हैं, धात्विक गुण कम होता जाता है।"
+    }
+  },
     {
       "question_name": {
         "english": "Which block contains alkali metals?",
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Alkali metals like sodium and potassium are found in s-block. They have one electron in their outermost shell and are very reactive metals.",
+        "hindi": "सोडियम और पोटैशियम जैसी क्षार धातुएं s-ब्लॉक में पाई जाती हैं। इनके बाह्यतम कक्ष में एक इलेक्ट्रॉन होता है और ये बहुत अधिक क्रियाशील धातुएं होती हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "p-block contains both non-metals like oxygen, chlorine and metalloids like silicon, boron. These elements complete their outer shell by gaining or sharing electrons.",
+        "hindi": "p-ब्लॉक में ऑक्सीजन, क्लोरीन जैसी अधातुएं और सिलिकॉन, बोरॉन जैसी उपधातुएं पाई जाती हैं। ये तत्व इलेक्ट्रॉन प्राप्त करके या साझा करके अपना बाह्य कक्ष पूरा करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Chlorine has the highest electron affinity because it needs only one electron to complete its outer shell and achieve stability like noble gases.",
+        "hindi": "क्लोरीन की इलेक्ट्रॉन बंधुता सबसे अधिक होती है क्योंकि इसे अपना बाह्य कक्ष पूरा करने और उत्कृष्ट गैसों की तरह स्थायित्व प्राप्त करने के लिए केवल एक इलेक्ट्रॉन की आवश्यकता होती है।"
+      }
     },
     {
       "question_name": {
@@ -112,99 +128,119 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Scandium (Sc) with atomic number 21 is the first transition element. Transition elements are metals that form colored compounds and can show multiple oxidation states.",
+        "hindi": "स्कैंडियम (Sc) जिसकी परमाणु संख्या 21 है, पहला संक्रमण तत्व है। संक्रमण तत्व वे धातुएं हैं जो रंगीन यौगिक बनाते हैं और कई ऑक्सीकरण अवस्थाएं दर्शा सकते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Why do transition metals form complex compounds?",
-        "hindi": "संक्रमण धातुएं जटिल यौगिक क्यों बनाती हैं?"
+        "english": "Why do metals conduct electricity?",
+        "hindi": "धातुएं विद्युत का चालन क्यों करती हैं?"
       },
       "option": {
         "english": [
-          "Empty d-orbitals",
-          "Full d-orbitals",
-          "No d-orbitals",
-          "Half d-orbitals"
+          "Due to protons",
+          "Due to free electrons",
+          "Due to neutrons",
+          "Due to shells"
         ],
         "hindi": [
-          "खाली d-कक्षक",
-          "पूर्ण d-कक्षक",
-          "d-कक्षक नहीं",
-          "अर्ध d-कक्षक"
+          "प्रोटॉन के कारण",
+          "मुक्त इलेक्ट्रॉन के कारण",
+          "न्यूट्रॉन के कारण",
+          "कोशों के कारण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metals have free electrons in their crystal structure that can move easily throughout the metal. When voltage is applied, these electrons flow, creating electric current.",
+        "hindi": "धातुओं की क्रिस्टल संरचना में मुक्त इलेक्ट्रॉन होते हैं जो आसानी से धातु में चल सकते हैं। जब वोल्टेज लगाया जाता है, तो ये इलेक्ट्रॉन प्रवाहित होकर विद्युत धारा उत्पन्न करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which orbital fills first according to Aufbau principle?",
-        "hindi": "आफबाउ सिद्धांत के अनुसार कौन सा कक्षक पहले भरता है?"
+        "english": "Why are noble gases unreactive?",
+        "hindi": "उत्कृष्ट गैसें अक्रियाशील क्यों होती हैं?"
       },
       "option": {
         "english": [
-          "4s",
-          "3d",
-          "4p",
-          "3p"
+          "Complete outer shell",
+          "Empty outer shell",
+          "Large size",
+          "Small size"
         ],
         "hindi": [
-          "4s",
-          "3d",
-          "4p",
-          "3p"
+          "पूर्ण बाह्य कोश",
+          "खाली बाह्य कोश",
+          "बड़ा आकार",
+          "छोटा आकार"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Noble gases have completely filled outer shells with 8 electrons (except helium which has 2). This makes them very stable and they don't need to react with other elements.",
+        "hindi": "उत्कृष्ट गैसों के बाह्य कक्ष में 8 इलेक्ट्रॉन पूर्ण रूप से भरे होते हैं (हीलियम को छोड़कर जिसमें 2 हैं)। यह उन्हें बहुत स्थिर बनाता है और उन्हें अन्य तत्वों से प्रतिक्रिया करने की आवश्यकता नहीं होती।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes diagonal relationship in elements?",
-        "hindi": "तत्वों में विकर्ण संबंध का क्या कारण है?"
+        "english": "Why do metals form basic oxides with oxygen?",
+        "hindi": "धातुएं ऑक्सीजन के साथ क्षारीय ऑक्साइड क्यों बनाती हैं?"
       },
       "option": {
         "english": [
-          "Similar mass",
-          "Similar size",
-          "Similar charge",
-          "Similar properties"
+          "Electron acceptance",
+          "Large size",
+          "Small size",
+          "Electron donation"
         ],
         "hindi": [
-          "समान द्रव्यमान",
-          "समान आकार",
-          "समान आवेश",
-          "समान गुण"
+          "इलेक्ट्रॉन ग्रहण",
+          "बड़ा आकार",
+          "छोटा आकार",
+          "इलेक्ट्रॉन त्याग"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metals donate electrons easily to oxygen to form oxides. When these oxides dissolve in water, they form hydroxides which are basic in nature.",
+        "hindi": "धातुएं ऑक्साइड बनाने के लिए ऑक्सीजन को आसानी से इलेक्ट्रॉन देती हैं। जब ये ऑक्साइड पानी में घुलते हैं, तो वे हाइड्रॉक्साइड बनाते हैं जो क्षारीय प्रकृति के होते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Why do inner transition elements show similar properties?",
-        "hindi": "आंतरिक संक्रमण तत्व समान गुण क्यों दर्शाते हैं?"
+        "english": "Why was Cobalt (Co) placed before Nickel (Ni) in the periodic table despite having higher atomic weight?",
+        "hindi": "कोबाल्ट (Co) का परमाणु भार अधिक होने के बावजूद आवर्त सारणी में निकल (Ni) से पहले क्यों रखा गया?"
       },
       "option": {
         "english": [
-          "s-electrons",
-          "p-electrons",
-          "f-electrons",
-          "d-electrons"
+          "Based on atomic mass",
+          "Based on density",
+          "Based on atomic number",
+          "Based on reactivity"
         ],
         "hindi": [
-          "s-इलेक्ट्रॉन",
-          "p-इलेक्ट्रॉन",
-          "f-इलेक्ट्रॉन",
-          "d-इलेक्ट्रॉन"
+          "परमाणु द्रव्यमान के आधार पर",
+          "घनत्व के आधार पर",
+          "परमाणु संख्या के आधार पर",
+          "प्रतिक्रियाशीलता के आधार पर"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Modern periodic table arranges elements based on atomic number (number of protons), not atomic mass. Cobalt has atomic number 27 while Nickel has 28, so Cobalt comes first.",
+        "hindi": "आधुनिक आवर्त सारणी तत्वों को परमाणु द्रव्यमान के बजाय परमाणु संख्या (प्रोटॉन की संख्या) के आधार पर व्यवस्थित करती है। कोबाल्ट की परमाणु संख्या 27 है जबकि निकल की 28 है, इसलिए कोबाल्ट पहले आता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Electronegativity determines whether an element forms acidic or basic oxides. More electronegative elements form acidic oxides while less electronegative elements form basic oxides.",
+        "hindi": "विद्युतऋणात्मकता निर्धारित करती है कि कोई तत्व अम्लीय या क्षारीय ऑक्साइड बनाएगा। अधिक विद्युतऋणात्मक तत्व अम्लीय ऑक्साइड बनाते हैं जबकि कम विद्युतऋणात्मक तत्व क्षारीय ऑक्साइड बनाते हैं।"
+      }
     }
 ]

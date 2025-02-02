@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "p-block",
-          "s-block",
+          "s-block", 
           "d-block",
           "f-block"
         ],
         "hindi": [
           "p-ब्लॉक",
           "s-ब्लॉक",
-          "d-ब्लॉक",
+          "d-ब्लॉक", 
           "f-ब्लॉक"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Elements with electrons in p orbitals belong to p-block. Here 2,8,7 shows 7 electrons in outermost shell which is p orbital, so it's a p-block element.",
+        "hindi": "जिन तत्वों के p कक्षक में इलेक्ट्रॉन होते हैं वे p-ब्लॉक के तत्व होते हैं। यहाँ 2,8,7 दर्शाता है कि बाहरी कक्षा में 7 इलेक्ट्रॉन हैं जो p कक्षक में हैं, इसलिए यह p-ब्लॉक का तत्व है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In group 1, as we go down, new shells are added. Each new shell increases the distance between nucleus and outermost electrons, making atomic radius larger.",
+        "hindi": "समूह 1 में नीचे जाने पर नई कक्षाएं जुड़ती हैं। प्रत्येक नई कक्षा नाभिक और बाहरी इलेक्ट्रॉनों के बीच की दूरी बढ़ाती है, जिससे परमाणु त्रिज्या बड़ी होती जाती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Silicon is a metalloid that shows properties of both metals and non-metals. It can form positive ions like metals and covalent bonds like non-metals.",
+        "hindi": "सिलिकॉन एक उपधातु है जो धातु और अधातु दोनों के गुण दर्शाता है। यह धातुओं की तरह धनायन बना सकता है और अधातुओं की तरह सहसंयोजक बंध बना सकता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Noble gases have completely filled outer shell with 8 electrons (octet). This means 2 electrons in s orbital (ns²) and 6 electrons in p orbital (np⁶), giving ns²np⁶ configuration.",
+        "hindi": "उत्कृष्ट गैसों की बाहरी कक्षा में 8 इलेक्ट्रॉन (अष्टक) पूर्ण रूप से भरे होते हैं। इसका मतलब s कक्षक में 2 इलेक्ट्रॉन (ns²) और p कक्षक में 6 इलेक्ट्रॉन (np⁶) होते हैं, जिससे ns²np⁶ विन्यास बनता है।"
+      }
     },
     {
       "question_name": {
@@ -112,76 +128,91 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Helium has highest first ionization energy because it has only 2 electrons very close to nucleus, making it extremely difficult to remove an electron.",
+        "hindi": "हीलियम की प्रथम आयनन ऊर्जा सबसे अधिक होती है क्योंकि इसमें केवल 2 इलेक्ट्रॉन नाभिक के बहुत करीब होते हैं, जिससे इलेक्ट्रॉन को निकालना बहुत कठिन होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Why do transition elements form colored compounds?",
-        "hindi": "संक्रमण तत्व रंगीन यौगिक क्यों बनाते हैं?"
+        "english": "Why do metals lose electrons while non-metals gain electrons?",
+        "hindi": "धातुएं इलेक्ट्रॉन क्यों खोती हैं जबकि अधातुएं इलेक्ट्रॉन क्यों प्राप्त करती हैं?"
       },
       "option": {
         "english": [
-          "s-s transition",
-          "p-p transition",
-          "d-d transition",
-          "f-f transition"
+          "Due to atomic size",
+          "Due to atomic mass",
+          "To achieve stable configuration",
+          "Due to atomic number"
         ],
         "hindi": [
-          "s-s संक्रमण",
-          "p-p संक्रमण",
-          "d-d संक्रमण",
-          "f-f संक्रमण"
+          "परमाणु आकार के कारण",
+          "परमाणु द्रव्यमान के कारण",
+          "स्थायी विन्यास प्राप्त करने के लिए",
+          "परमाणु संख्या के कारण"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Both metals and non-metals try to achieve stable octet configuration (8 electrons in outer shell). Metals have 1-3 electrons in outer shell, so losing is easier. Non-metals have 5-7 electrons, so gaining is easier.",
+        "hindi": "धातु और अधातु दोनों स्थायी अष्टक विन्यास (बाहरी कक्षा में 8 इलेक्ट्रॉन) प्राप्त करने का प्रयास करते हैं। धातुओं की बाहरी कक्षा में 1-3 इलेक्ट्रॉन होते हैं, इसलिए खोना आसान होता है। अधातुओं में 5-7 इलेक्ट्रॉन होते हैं, इसलिए प्राप्त करना आसान होता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes lanthanoid contraction?",
-        "hindi": "लैंथेनाइड संकुचन का क्या कारण है?"
+        "english": "Why do elements in group 1 react violently with water?",
+        "hindi": "समूह 1 के तत्व पानी से तीव्र अभिक्रिया क्यों करते हैं?"
       },
       "option": {
         "english": [
-          "d-orbital filling",
-          "s-orbital filling",
-          "p-orbital filling",
-          "f-orbital filling"
+          "Due to high atomic mass",
+          "Due to high density",
+          "Due to low melting point",
+          "Due to single electron in outermost shell"
         ],
         "hindi": [
-          "d-कक्षक भरण",
-          "s-कक्षक भरण",
-          "p-कक्षक भरण",
-          "f-कक्षक भरण"
+          "उच्च परमाणु द्रव्यमान के कारण",
+          "उच्च घनत्व के कारण",
+          "निम्न गलनांक के कारण",
+          "बाह्यतम कोश में एक इलेक्ट्रॉन होने के कारण"
         ]
       },
       "answer": 3,
-      "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Group 1 elements (alkali metals) have only one electron in their outer shell. This electron is loosely held and easily lost, making them highly reactive with water to form hydroxides and hydrogen gas.",
+        "hindi": "समूह 1 के तत्वों (क्षार धातुओं) की बाहरी कक्षा में केवल एक इलेक्ट्रॉन होता है। यह इलेक्ट्रॉन ढीला बंधा होता है और आसानी से खो जाता है, जिससे वे पानी के साथ तीव्र अभिक्रिया करके हाइड्रॉक्साइड और हाइड्रोजन गैस बनाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which quantum number determines subshell?",
-        "hindi": "कौन सी क्वांटम संख्या उप-कोश निर्धारित करती है?"
+        "english": "Why does reactivity of metals increase down the group but decrease across period?",
+        "hindi": "धातुओं की क्रियाशीलता समूह में नीचे जाने पर क्यों बढ़ती है लेकिन आवर्त में क्यों घटती है?"
       },
       "option": {
         "english": [
-          "Azimuthal",
-          "Principal",
-          "Magnetic",
-          "Spin"
+          "Due to atomic size changes",
+          "Due to ease of losing electrons",
+          "Due to atomic mass changes",
+          "Due to nuclear charge"
         ],
         "hindi": [
-          "कोणीय",
-          "मुख्य",
-          "चुंबकीय",
-          "चक्रण"
+          "परमाणु आकार परिवर्तन के कारण",
+          "इलेक्ट्रॉन खोने की सुगमता के कारण",
+          "परमाणु द्रव्यमान परिवर्तन के कारण",
+          "नाभकीय आवेश के कारण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "Down the group, atomic size increases and outer electrons are farther from nucleus, making them easier to lose. Across period, nuclear charge increases holding electrons more tightly, making them harder to lose.",
+        "hindi": "समूह में नीचे जाने पर परमाणु आकार बढ़ता है और बाहरी इलेक्ट्रॉन नाभिक से दूर होते हैं, जिससे उन्हें खोना आसान होता है। आवर्त में नाभकीय आवेश बढ़ता है जो इलेक्ट्रॉनों को मजबूती से पकड़े रखता है, जिससे उन्हें खोना कठिन होता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +235,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "d-block elements (transition metals) show variable oxidation states because they can lose electrons from both d and s orbitals. The energy difference between these orbitals is small.",
+        "hindi": "d-ब्लॉक के तत्व (संक्रमण धातुएं) परिवर्तनशील ऑक्सीकरण अवस्था दर्शाते हैं क्योंकि वे d और s कक्षकों से इलेक्ट्रॉन खो सकते हैं। इन कक्षकों के बीच ऊर्जा का अंतर कम होता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +262,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Modern periodic law states that properties of elements are periodic function of their atomic numbers. Atomic number determines number of electrons, which decides chemical properties.",
+        "hindi": "आधुनिक आवर्त नियम कहता है कि तत्वों के गुण उनकी परमाणु संख्या के आवर्त फलन होते हैं। परमाणु संख्या इलेक्ट्रॉनों की संख्या निर्धारित करती है, जो रासायनिक गुणों को तय करती है।"
+      }
     }
 ]

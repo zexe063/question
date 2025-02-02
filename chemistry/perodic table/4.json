@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Period 2",
-          "Period 4",
+          "Period 4", 
           "Period 6",
           "Period 3"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Period 6 contains 32 elements, which is the maximum number of elements in any period of the periodic table. This is because Period 6 includes lanthanides.",
+        "hindi": "आवर्त 6 में 32 तत्व होते हैं, जो आवर्त सारणी के किसी भी आवर्त में सबसे अधिक तत्वों की संख्या है। ऐसा इसलिए है क्योंकि आवर्त 6 में लैंथेनाइड्स शामिल हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Noble gases have 0 valency because they have complete outer shells with 8 electrons (except Helium which has 2). This makes them chemically inert as they don't need to gain or lose electrons.",
+        "hindi": "उत्कृष्ट गैसों की संयोजकता 0 होती है क्योंकि उनके बाहरी कक्ष में 8 इलेक्ट्रॉन पूर्ण होते हैं (हीलियम को छोड़कर जिसमें 2 होते हैं)। इस कारण वे रासायनिक रूप से निष्क्रिय होती हैं क्योंकि उन्हें इलेक्ट्रॉन लेने या देने की आवश्यकता नहीं होती।"
+      }
     },
     {
       "question_name": {
@@ -54,7 +62,7 @@
         "english": [
           "Magnesium",
           "Sodium",
-          "Potassium",
+          "Potassium", 
           "Calcium"
         ],
         "hindi": [
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium (Na) has atomic number 11, with electronic configuration 2,8,1. This means it has 2 electrons in first shell, 8 in second shell, and 1 electron in its outermost shell.",
+        "hindi": "सोडियम (Na) का परमाणु क्रमांक 11 है, जिसका इलेक्ट्रॉनिक विन्यास 2,8,1 है। इसका मतलब है कि पहले कक्ष में 2 इलेक्ट्रॉन, दूसरे में 8, और बाहरी कक्ष में 1 इलेक्ट्रॉन है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Elements in the same group have same valency because they have same number of electrons in their outermost shell. This gives them similar chemical properties and bonding behavior.",
+        "hindi": "एक ही समूह के तत्वों की संयोजकता समान होती है क्योंकि उनके बाहरी कक्ष में इलेक्ट्रॉनों की संख्या समान होती है। इस कारण उनके रासायनिक गुण और बंधन व्यवहार समान होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Mercury is the only metal that exists as a liquid at room temperature (25°C). It has a melting point of -38.83°C, making it liquid in normal conditions.",
+        "hindi": "पारा एकमात्र धातु है जो कमरे के तापमान (25°C) पर तरल अवस्था में पाई जाती है। इसका गलनांक -38.83°C है, जो इसे सामान्य परिस्थितियों में तरल बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -121,21 +141,25 @@
       },
       "option": {
         "english": [
-          "Decreases",
           "Increases",
+          "Decreases",
           "Remains same",
           "First increases then decreases"
         ],
         "hindi": [
-          "घटता है",
           "बढ़ता है",
+          "घटता है",
           "समान रहता है",
           "पहले बढ़ता है फिर घटता है"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In a period, metallic character decreases from left to right because atomic size decreases and electronegativity increases. This makes it harder for atoms to lose electrons, reducing metallic properties.",
+        "hindi": "एक आवर्त में बाएं से दाएं जाने पर धात्विक गुण घटता है क्योंकि परमाणु आकार घटता है और विद्युतऋणात्मकता बढ़ती है। इससे परमाणुओं द्वारा इलेक्ट्रॉन खोना कठिन हो जाता है, जिससे धात्विक गुण कम होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Electronegativity decreases down a group because atomic size increases. With larger atomic size, the nucleus has less attraction for electrons in chemical bonds, reducing electronegativity.",
+        "hindi": "समूह में नीचे जाने पर विद्युतऋणात्मकता घटती है क्योंकि परमाणु आकार बढ़ता है। बड़े परमाणु आकार के कारण नाभिक का रासायनिक बंधों में इलेक्ट्रॉनों के प्रति आकर्षण कम हो जाता है, जिससे विद्युतऋणात्मकता घटती है।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Accept electrons",
-          "Donate electrons",
           "High electronegativity",
+          "Donate electrons",
+          "Lose electrons", 
           "Low electronegativity"
         ],
         "hindi": [
-          "इलेक्ट्रॉन ग्रहण करती हैं",
-          "इलेक्ट्रॉन देती हैं",
           "उच्च विद्युतऋणात्मकता",
+          "इलेक्ट्रॉन देती हैं",
+          "इलेक्ट्रॉनों को खोना",
           "निम्न विद्युतऋणात्मकता"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Non-metals form acidic oxides because they accept electrons (high electronegativity). When these oxides react with water, they form acids by accepting electron pairs from water molecules. For example, sulfur dioxide reacts with water to form sulfurous acid: SO2 + H2O → H2SO3. Similarly, nitrogen dioxide forms nitric acid: 2NO2 + H2O → HNO2 + HNO3. The high electronegativity of non-metals makes their oxides readily accept electron pairs from water to form these acids.",
+        "hindi": "अधातुएं अम्लीय ऑक्साइड बनाती हैं क्योंकि वे इलेक्ट्रॉन ग्रहण करती हैं (उच्च विद्युतऋणात्मकता)। जब ये ऑक्साइड पानी से क्रिया करते हैं, तो वे पानी के अणुओं से इलेक्ट्रॉन युग्म ग्रहण करके अम्ल बनाते हैं। उदाहरण के लिए, सल्फर डाइऑक्साइड पानी से क्रिया करके सल्फ्यूरस अम्ल बनाता है: SO2 + H2O → H2SO3। इसी तरह, नाइट्रोजन डाइऑक्साइड नाइट्रिक अम्ल बनाता है: 2NO2 + H2O → HNO2 + HNO3। अधातुओं की उच्च विद्युतऋणात्मकता के कारण उनके ऑक्साइड पानी से इलेक्ट्रॉन युग्म आसानी से ग्रहण करके ये अम्ल बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Dobereiner arranged similar elements in groups of three (triads) based on atomic mass. The atomic mass of middle element was approximately equal to average of atomic masses of other two elements.",
+        "hindi": "डोबेराइनर ने समान तत्वों को परमाणु द्रव्यमान के आधार पर तीन के समूह (त्रिक) में व्यवस्थित किया। मध्य तत्व का परमाणु द्रव्यमान अन्य दो तत्वों के परमाणु द्रव्यमान के औसत के लगभग बराबर होता था।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Elements in same group have similar electronic configuration in their outermost shell. This determines their chemical behavior, as chemical reactions involve outer shell electrons.",
+        "hindi": "एक ही समूह के तत्वों का बाहरी कक्ष में इलेक्ट्रॉनिक विन्यास समान होता है। यह उनके रासायनिक व्यवहार को निर्धारित करता है, क्योंकि रासायनिक अभिक्रियाएं बाहरी कक्ष के इलेक्ट्रॉनों से होती हैं।"
+      }
     }
 ]

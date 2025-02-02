@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "Magnesium",
-          "Calcium",
+          "Calcium", 
           "Potassium",
           "Sodium"
         ],
         "hindi": [
           "मैग्नीशियम",
           "कैल्शियम",
-          "पोटैशियम",
+          "पोटैशियम", 
           "सोडियम"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Calcium (atomic number 20) is essential for bone formation. It combines with phosphate to form calcium phosphate which gives strength to bones and teeth.",
+        "hindi": "कैल्शियम (परमाणु संख्या 20) हड्डियों के निर्माण के लिए आवश्यक है। यह फॉस्फेट के साथ मिलकर कैल्शियम फॉस्फेट बनाता है जो हड्डियों और दांतों को मजबूती प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -30,7 +34,7 @@
       "option": {
         "english": [
           "Group 17, Period 3",
-          "Group 7, Period 3",
+          "Group 7, Period 3", 
           "Group 17, Period 2",
           "Group 7, Period 2"
         ],
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Element with atomic number 17 is Chlorine. It has 3 shells and 7 valence electrons, placing it in Group 17 (Halogen family) and Period 3.",
+        "hindi": "परमाणु संख्या 17 वाला तत्व क्लोरीन है। इसमें 3 कोश और 7 संयोजी इलेक्ट्रॉन हैं, जो इसे समूह 17 (हैलोजन परिवार) और आवर्त 3 में रखता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Potassium (K) shows most metallic character as it has largest atomic size and lowest ionization energy among given elements, making it easier to lose electrons.",
+        "hindi": "पोटैशियम (K) सबसे अधिक धात्विक गुण दर्शाता है क्योंकि दिए गए तत्वों में इसका परमाणु आकार सबसे बड़ा और आयनीकरण ऊर्जा सबसे कम है, जिससे इलेक्ट्रॉन खोना आसान होता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Element with atomic number 13 is Aluminium. It has 3 valence electrons in its outermost shell which it can lose to form Al3+ ion, giving it a valency of 3.",
+        "hindi": "परमाणु संख्या 13 वाला तत्व एल्युमिनियम है। इसके बाह्यतम कोश में 3 संयोजी इलेक्ट्रॉन हैं जो Al3+ आयन बनाने के लिए खो सकते हैं, इसलिए इसकी संयोजकता 3 है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fluorine has the highest electronegativity among all elements because it has the smallest atomic size and highest effective nuclear charge in its period.",
+        "hindi": "फ्लोरीन की विद्युतऋणात्मकता सभी तत्वों में सबसे अधिक है क्योंकि इसका परमाणु आकार सबसे छोटा और इसके आवर्त में प्रभावी नाभिकीय आवेश सबसे अधिक है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Atomic size decreases from left to right in a period because nuclear charge increases while electrons are added in the same shell, leading to stronger attraction between nucleus and electrons.",
+        "hindi": "एक आवर्त में बाएं से दाएं परमाणु आकार घटता है क्योंकि नाभिकीय आवेश बढ़ता है जबकि इलेक्ट्रॉन एक ही कोश में जुड़ते हैं, जिससे नाभिक और इलेक्ट्रॉनों के बीच आकर्षण बढ़ जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Noble gases have zero valency because their outermost shell is completely filled with 8 electrons (except Helium which has 2). This makes them very stable and unreactive.",
+        "hindi": "उत्कृष्ट गैसों की संयोजकता शून्य होती है क्योंकि उनका बाह्यतम कोश 8 इलेक्ट्रॉनों से पूर्णतः भरा होता है (हीलियम को छोड़कर जिसमें 2 हैं)। यह उन्हें बहुत स्थिर और अक्रियाशील बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metallic character increases down a group because atomic size increases, making it easier for atoms to lose electrons and form positive ions.",
+        "hindi": "एक समूह में नीचे जाने पर धात्विक गुण बढ़ता है क्योंकि परमाणु आकार बढ़ता है, जिससे परमाणुओं के लिए इलेक्ट्रॉन खोकर धनायन बनाना आसान हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Electronic configuration determines reactivity because it tells us about valence electrons, which are involved in chemical bonding and reactions.",
+        "hindi": "इलेक्ट्रॉनिक विन्यास अभिक्रियाशीलता निर्धारित करता है क्योंकि यह संयोजी इलेक्ट्रॉनों के बारे में बताता है, जो रासायनिक बंधन और अभिक्रियाओं में भाग लेते हैं।"
+      }
     },
     {
       "question_name": {
@@ -214,19 +250,23 @@
       "option": {
         "english": [
           "Based on atomic mass",
-          "Left gaps for new elements",
           "Based on atomic number",
+          "Left gaps for new elements",
           "Included all known elements"
         ],
         "hindi": [
           "परमाणु द्रव्यमान पर आधारित",
-          "नए तत्वों के लिए जगह छोड़ी",
           "परमाणु संख्या पर आधारित",
+          "नए तत्वों के लिए जगह छोड़ी",
           "सभी ज्ञात तत्वों को शामिल किया"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Mendeleev's periodic table was more successful because he left gaps for undiscovered elements and predicted their properties correctly based on the periodic trends.",
+        "hindi": "मेंडलीफ की आवर्त सारणी अधिक सफल थी क्योंकि उन्होंने अज्ञात तत्वों के लिए जगह छोड़ी और आवर्त प्रवृत्तियों के आधार पर उनके गुणों की सही भविष्यवाणी की।"
+      }
     }
 ]

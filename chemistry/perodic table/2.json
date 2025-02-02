@@ -20,7 +20,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Silicon is a metalloid that shows properties of both metals and non-metals. It can conduct electricity like metals but is brittle like non-metals.",
+        "hindi": "सिलिकॉन एक धातु-अधातु है जो धातु और अधातु दोनों के गुण दिखाता है। यह धातुओं की तरह बिजली का संचालन कर सकता है लेकिन अधातुओं की तरह भंगुर होता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Modern periodic law states that properties of elements are periodic functions of their atomic numbers. Atomic number determines the electronic configuration and chemical properties.",
+        "hindi": "आधुनिक आवर्त नियम कहता है कि तत्वों के गुण उनकी परमाणु संख्या के आवर्त फलन होते हैं। परमाणु संख्या इलेक्ट्रॉनिक विन्यास और रासायनिक गुणों को निर्धारित करती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Elements in the same period have the same number of electron shells. This is because they are in the same row and electrons fill shells from innermost to outermost.",
+        "hindi": "एक ही आवर्त के तत्वों में इलेक्ट्रॉन कोशों की संख्या समान होती है। ऐसा इसलिए है क्योंकि वे एक ही पंक्ति में हैं और इलेक्ट्रॉन सबसे भीतरी से बाहरी कोश तक भरते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Noble gases are found in Group 18 of the periodic table. They have complete outer shells, making them very stable and unreactive.",
+        "hindi": "उत्कृष्ट गैसें आवर्त सारणी के समूह 18 में पाई जाती हैं। इनके बाहरी कोश पूर्ण होते हैं, जो इन्हें बहुत स्थिर और अक्रियाशील बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Group 1 elements (alkali metals) have valency 1 because they have one electron in their outermost shell which they can lose to form ions.",
+        "hindi": "समूह 1 के तत्वों (क्षार धातुओं) की संयोजकता 1 होती है क्योंकि उनके बाहरी कोश में एक इलेक्ट्रॉन होता है जिसे वे आयन बनाने के लिए खो सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -121,21 +141,25 @@
       },
       "option": {
         "english": [
+          "Increases",
           "Decreases",
           "Remains same",
-          "First decreases then increases",
-          "Increases"
+          "First decreases then increases"
         ],
         "hindi": [
+          "बढ़ती है",
           "घटती है",
           "समान रहती है",
-          "पहले घटती है फिर बढ़ती है",
-          "बढ़ती है"
+          "पहले घटती है फिर बढ़ती है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ionization energy increases across a period because nuclear charge increases while electron shell remains same, making it harder to remove electrons.",
+        "hindi": "आयनीकरण ऊर्जा आवर्त में बढ़ती है क्योंकि नाभिकीय आवेश बढ़ता है जबकि इलेक्ट्रॉन कोश समान रहता है, जिससे इलेक्ट्रॉन को निकालना कठिन हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Fluorine has the highest electronegativity in period 2 because it has the smallest atomic size and highest nuclear charge, strongly attracting electrons.",
+        "hindi": "फ्लोरीन की विद्युतऋणात्मकता आवर्त 2 में सबसे अधिक है क्योंकि इसका परमाणु आकार सबसे छोटा और नाभिकीय आवेश सबसे अधिक है, जो इलेक्ट्रॉनों को मजबूती से आकर्षित करता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Atomic size decreases across a period due to increased nuclear attraction. As protons increase, they pull the same shell of electrons more strongly.",
+        "hindi": "परमाणु आकार आवर्त में नाभिकीय आकर्षण बढ़ने के कारण घटता है। जैसे-जैसे प्रोटॉन बढ़ते हैं, वे इलेक्ट्रॉन के एक ही कोश को अधिक मजबूती से खींचते हैं।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Valency shows periodicity as it repeats in a regular pattern across periods. Elements in the same group have same valency due to similar outer shell electrons.",
+        "hindi": "संयोजकता आवर्तता दर्शाती है क्योंकि यह आवर्तों में नियमित पैटर्न में दोहराती है। एक ही समूह के तत्वों में समान बाहरी कोश इलेक्ट्रॉनों के कारण समान संयोजकता होती है।"
+      }
     },
     {
       "question_name": {
@@ -213,20 +249,24 @@
       },
       "option": {
         "english": [
+            "Limited to light elements",
           "Applied to all elements",
           "Based on atomic mass",
-          "Based on properties",
-          "Limited to light elements"
+          "Based on properties"
         ],
         "hindi": [
+          "हल्के तत्वों तक सीमित",
           "सभी तत्वों पर लागू",
           "परमाणु द्रव्यमान पर आधारित",
-          "गुणों पर आधारित",
-          "हल्के तत्वों तक सीमित"
+          "गुणों पर आधारित"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Newlands' law was not accepted because it worked only for light elements up to calcium. It failed to explain the pattern for heavier elements discovered later.",
+        "hindi": "न्यूलैंड्स का नियम स्वीकार नहीं किया गया क्योंकि यह केवल कैल्शियम तक के हल्के तत्वों के लिए काम करता था। यह बाद में खोजे गए भारी तत्वों के पैटर्न की व्याख्या करने में विफल रहा।"
+      }
     }
 ]

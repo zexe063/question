@@ -1,232 +1,272 @@
 [
     {
-      "question_name": {
-        "english": "Which group elements are called alkali metals?",
-        "hindi": "किस समूह के तत्वों को क्षार धातु कहा जाता है?"
-      },
-      "option": {
-        "english": [
-          "Group 1",
-          "Group 2",
-          "Group 17",
-          "Group 18"
-        ],
-        "hindi": [
-          "समूह 1",
-          "समूह 2",
-          "समूह 17",
-          "समूह 18"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+        "question_name": {
+            "english": "Which of these is a limitation of Newlands' Law of Octaves?",
+            "hindi": "इनमें से कौन न्यूलैंड्स के अष्टक नियम की सीमा है?"
+        },
+        "option": {
+            "english": [
+                "Worked only up to calcium",
+                "Based on atomic number",
+                "Included noble gases",
+                "Predicted new elements"
+            ],
+            "hindi": [
+                "केवल कैल्शियम तक काम किया",
+                "परमाणु संख्या पर आधारित",
+                "उत्कृष्ट गैसों को शामिल किया",
+                "नए तत्वों की भविष्यवाणी की"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "easy",
+        "explanation": {
+            "english": "Newlands arranged elements by increasing atomic mass and found that every 8th element had similar properties, like musical notes. But this pattern only worked up to calcium because after that the properties didn't match in the same way.",
+            "hindi": "न्यूलैंड्स ने तत्वों को बढ़ते परमाणु द्रव्यमान के क्रम में व्यवस्थित किया और पाया कि हर 8वां तत्व संगीत के सुरों की तरह समान गुण रखता है। लेकिन यह पैटर्न केवल कैल्शियम तक ही काम करता था क्योंकि उसके बाद गुण उसी तरह मेल नहीं खाते थे।"
+        }
     },
     {
-      "question_name": {
-        "english": "What is the electronic configuration of Nitrogen (Z=7)?",
-        "hindi": "नाइट्रोजन का इलेक्ट्रॉनिक विन्यास क्या है (Z=7)?"
-      },
-      "option": {
-        "english": [
-          "2,5",
-          "2,8",
-          "2,3",
-          "2,4"
-        ],
-        "hindi": [
-          "2,5",
-          "2,8",
-          "2,3",
-          "2,4"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+        "question_name": {
+            "english": "Which elements form a Döbereiner's triad with potassium?",
+            "hindi": "कौन से तत्व पोटैशियम के साथ डोबेराइनर का त्रिक बनाते हैं?"
+        },
+        "option": {
+            "english": [
+                "Na, Ca",
+                "Li, Na",
+                "Rb, Cs",
+                "Ca, Ba"
+            ],
+            "hindi": [
+                "Na, Ca",
+                "Li, Na",
+                "Rb, Cs",
+                "Ca, Ba"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "easy",
+        "explanation": {
+            "english": "Lithium (Li), sodium (Na), and potassium (K) form a group of three elements called a triad. These elements have similar properties. If you take Li's atomic mass (7) and Na's atomic mass (23), their average gives you K's atomic mass (39).",
+            "hindi": "लिथियम (Li), सोडियम (Na), और पोटैशियम (K) तीन तत्वों का एक समूह बनाते हैं जिसे त्रिक कहते हैं। इन तत्वों के गुण एक जैसे होते हैं। अगर आप Li का परमाणु द्रव्यमान (7) और Na का परमाणु द्रव्यमान (23) लें, तो उनका औसत K का परमाणु द्रव्यमान (39) देता है।"
+        }
     },
     {
-      "question_name": {
-        "english": "Which element shows amphoteric nature?",
-        "hindi": "कौन सा तत्व उभयधर्मी प्रकृति दर्शाता है?"
-      },
-      "option": {
-        "english": [
-          "Sodium",
-          "Chlorine",
-          "Magnesium",
-          "Aluminum"
-        ],
-        "hindi": [
-          "सोडियम",
-          "क्लोरीन",
-          "मैग्नीशियम",
-          "एल्युमिनियम"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+        "question_name": {
+            "english": "Why did Newlands force some elements to fit his octave pattern?",
+            "hindi": "न्यूलैंड्स ने कुछ तत्वों को अपने अष्टक पैटर्न में क्यों जबरदस्ती फिट किया?"
+        },
+        "option": {
+            "english": [
+                "To match atomic mass",
+                "To match properties",
+                "To include all elements",
+                "To match musical notes"
+            ],
+            "hindi": [
+                "परमाणु द्रव्यमान से मिलान के लिए",
+                "गुणों से मिलान के लिए",
+                "सभी तत्वों को शामिल करने के लिए",
+                "संगीत स्वरों से मिलान के लिए"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "easy",
+        "explanation": {
+            "english": "Newlands tried to make his pattern match musical notes (sa, re, ga, ma, pa, dha, ni) by putting elements in groups of 8. He forced some elements into this pattern even when their properties were different, just to keep the musical pattern.",
+            "hindi": "न्यूलैंड्स ने तत्वों को 8 के समूह में रखकर अपने पैटर्न को संगीत के सुरों (सा, रे, गा, मा, पा, धा, नी) से मिलाने की कोशिश की। उन्होंने कुछ तत्वों को इस पैटर्न में जबरदस्ती फिट किया, भले ही उनके गुण अलग थे, सिर्फ संगीत का पैटर्न बनाए रखने के लिए।"
+        }
     },
     {
-      "question_name": {
-        "english": "What is the trend of metallic character in a group?",
-        "hindi": "एक समूह में धात्विक गुण की प्रवृत्ति क्या है?"
-      },
-      "option": {
-        "english": [
-          "Decreases",
-          "No change",
-          "Increases",
-          "First increases then decreases"
-        ],
-        "hindi": [
-          "घटती है",
-          "कोई परिवर्तन नहीं",
-          "बढ़ती है",
-          "पहले बढ़ती फिर घटती है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+        "question_name": {
+            "english": "Which property was used by Döbereiner to group elements?",
+            "hindi": "डोबेराइनर ने तत्वों को समूहित करने के लिए किस गुण का उपयोग किया?"
+        },
+        "option": {
+            "english": [
+                "Atomic number",
+                "Atomic radius",
+                "Atomic mass",
+                "Valency"
+            ],
+            "hindi": [
+                "परमाणु संख्या",
+                "परमाणु त्रिज्या",
+                "परमाणु द्रव्यमान",
+                "संयोजकता"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "medium",
+        "explanation": {
+            "english": "Döbereiner looked at how heavy atoms were (their atomic mass) to group them. He found that if you take three similar elements, the middle one usually has an atomic mass that's halfway between the other two.",
+            "hindi": "डोबेराइनर ने तत्वों को समूहित करने के लिए उनके परमाणु द्रव्यमान को देखा। उन्होंने पाया कि अगर आप तीन समान तत्व लें, तो बीच वाले तत्व का परमाणु द्रव्यमान आमतौर पर अन्य दो के बीच का होता है।"
+        }
     },
     {
-      "question_name": {
-        "english": "Which block contains lanthanoids?",
-        "hindi": "लैंथेनाइड किस ब्लॉक में होते हैं?"
-      },
-      "option": {
-        "english": [
-          "f-block",
-          "d-block",
-          "p-block",
-          "s-block"
-        ],
-        "hindi": [
-          "f-ब्लॉक",
-          "d-ब्लॉक",
-          "p-ब्लॉक",
-          "s-ब्लॉक"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+        "question_name": {
+            "english": "Which was a major drawback of Newlands' Law?",
+            "hindi": "न्यूलैंड्स के नियम की प्रमुख कमी क्या थी?"
+        },
+        "option": {
+            "english": [
+                "No place for noble gases",
+                "Based on atomic mass",
+                "Included all elements",
+                "Predicted new elements"
+            ],
+            "hindi": [
+                "उत्कृष्ट गैसों के लिए कोई जगह नहीं",
+                "परमाणु द्रव्यमान पर आधारित",
+                "सभी तत्वों को शामिल किया",
+                "नए तत्वों की भविष्यवाणी की"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "medium",
+        "explanation": {
+            "english": "When noble gases like helium and neon were discovered, they couldn't fit into Newlands' groups of 8 elements. His pattern was made before these gases were known, so there was no space for them in his arrangement.",
+            "hindi": "जब हीलियम और निऑन जैसी उत्कृष्ट गैसों की खोज हुई, तो वे न्यूलैंड्स के 8 तत्वों के समूह में फिट नहीं हो सकीं। उनका पैटर्न इन गैसों की खोज से पहले बना था, इसलिए उनकी व्यवस्था में इनके लिए कोई जगह नहीं थी।"
+        }
     },
     {
-      "question_name": {
-        "english": "Why do transition elements show catalytic activity?",
-        "hindi": "संक्रमण तत्व उत्प्रेरक क्रिया क्यों दर्शाते हैं?"
-      },
-      "option": {
-        "english": [
-          "Due to size",
-          "Due to mass",
-          "Due to charge",
-          "Due to variable oxidation states"
-        ],
-        "hindi": [
-          "आकार के कारण",
-          "द्रव्यमान के कारण",
-          "आवेश के कारण",
-          "परिवर्तनशील ऑक्सीकरण अवस्था के कारण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+        "question_name": {
+            "english": "What was the main limitation of Döbereiner's classification?",
+            "hindi": "डोबेराइनर के वर्गीकरण की मुख्य सीमा क्या थी?"
+        },
+        "option": {
+            "english": [
+                "Based on atomic mass",
+                "Included all elements",
+                "No noble gases",
+                "Only few triads possible"
+            ],
+            "hindi": [
+                "परमाणु द्रव्यमान पर आधारित",
+                "सभी तत्वों को शामिल किया",
+                "कोई उत्कृष्ट गैस नहीं",
+                "केवल कुछ त्रिक संभव"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "medium",
+        "explanation": {
+            "english": "Döbereiner could only make a few groups of three elements (triads) because not all elements had similar properties and atomic masses that fit the pattern. Most elements were left out of his grouping system.",
+            "hindi": "डोबेराइनर केवल कुछ ही तत्वों के तीन-तीन के समूह (त्रिक) बना पाए क्योंकि सभी तत्वों के गुण और परमाणु द्रव्यमान इस पैटर्न में फिट नहीं होते थे। ज्यादातर तत्व उनके समूहीकरण से बाहर रह गए।"
+        }
     },
     {
-      "question_name": {
-        "english": "What causes diagonal relationship?",
-        "hindi": "विकर्ण संबंध का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "Similar properties",
-          "Similar size",
-          "Similar mass",
-          "Similar charge"
-        ],
-        "hindi": [
-          "समान गुण",
-          "समान आकार",
-          "समान द्रव्यमान",
-          "समान आवेश"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
+        "question_name": {
+            "english": "Which triad of Döbereiner had similar chemical properties?",
+            "hindi": "डोबेराइनर के किस त्रिक के समान रासायनिक गुण थे?"
+        },
+        "option": {
+            "english": [
+                "Li, Be, B",
+                "Cl, Br, I",
+                "Na, Al, Si",
+                "He, Ne, Ar"
+            ],
+            "hindi": [
+                "Li, Be, B",
+                "Cl, Br, I",
+                "Na, Al, Si",
+                "He, Ne, Ar"
+            ]
+        },
+        "answer": 1,
+        "image": null,
+        "medium": "hard",
+        "explanation": {
+            "english": "Chlorine (Cl), bromine (Br), and iodine (I) make a perfect group of three because they all behave similarly in chemical reactions. For example, they all form similar compounds with sodium (NaCl, NaBr, NaI) and have similar colors and smells.",
+            "hindi": "क्लोरीन (Cl), ब्रोमीन (Br), और आयोडीन (I) एक आदर्श त्रिक बनाते हैं क्योंकि ये सभी रासायनिक प्रतिक्रियाओं में एक जैसा व्यवहार करते हैं। उदाहरण के लिए, ये सभी सोडियम के साथ समान यौगिक बनाते हैं (NaCl, NaBr, NaI) और इनके रंग और गंध भी समान होते हैं।"
+        }
     },
     {
-      "question_name": {
-        "english": "Which effect causes gold's yellow color?",
-        "hindi": "सोने का पीला रंग किस प्रभाव के कारण होता है?"
-      },
-      "option": {
-        "english": [
-          "s-s transition",
-          "p-p transition",
-          "d-s transition",
-          "f-f transition"
-        ],
-        "hindi": [
-          "s-s संक्रमण",
-          "p-p संक्रमण",
-          "d-s संक्रमण",
-          "f-f संक्रमण"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
+        "question_name": {
+            "english": "Which element's discovery proved Newlands' Law inadequate?",
+            "hindi": "किस तत्व की खोज ने न्यूलैंड्स के नियम को अपर्याप्त साबित किया?"
+        },
+        "option": {
+            "english": [
+                "Germanium",
+                "Calcium",
+                "Helium",
+                "Sodium"
+            ],
+            "hindi": [
+                "जर्मेनियम",
+                "कैल्शियम",
+                "हीलियम",
+                "सोडियम"
+            ]
+        },
+        "answer": 2,
+        "image": null,
+        "medium": "hard",
+        "explanation": {
+            "english": "When helium was discovered, scientists found that it didn't fit into Newlands' pattern of 8 elements. Helium was a completely new type of element (noble gas) that behaved differently from all known elements at that time.",
+            "hindi": "जब हीलियम की खोज हुई, वैज्ञानिकों ने पाया कि यह न्यूलैंड्स के 8 तत्वों के पैटर्न में फिट नहीं होती। हीलियम एक बिल्कुल नए प्रकार का तत्व (उत्कृष्ट गैस) था जो उस समय ज्ञात सभी तत्वों से अलग व्यवहार करता था।"
+        }
     },
     {
-      "question_name": {
-        "english": "Which quantum number determines orbital orientation?",
-        "hindi": "कौन सी क्वांटम संख्या कक्षक अभिविन्यास निर्धारित करती है?"
-      },
-      "option": {
-        "english": [
-          "Magnetic",
-          "Principal",
-          "Azimuthal",
-          "Spin"
-        ],
-        "hindi": [
-          "चुंबकीय",
-          "मुख्य",
-          "कोणीय",
-          "चक्रण"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+        "question_name": {
+            "english": "Which property of Döbereiner's triads was not always accurate?",
+            "hindi": "डोबेराइनर के त्रिकों का कौन सा गुण हमेशा सटीक नहीं था?"
+        },
+        "option": {
+            "english": [
+                  "Atomic mass average",
+                "Chemical properties",
+                "Physical properties",
+                "Atomic number pattern"
+            ],
+            "hindi": [
+                "परमाणु द्रव्यमान औसत",
+               "रासायनिक गुण",
+                "भौतिक गुण",
+                "परमाणु संख्या पैटर्न"
+            ]
+        },
+        "answer": 0,
+        "image": null,
+        "medium": "hard",
+        "explanation": {
+            "english": "In Döbereiner's groups of three elements, the middle element's atomic mass wasn't always exactly halfway between the first and last elements. Sometimes it was a bit more or less, showing that this pattern wasn't perfect.",
+            "hindi": "डोबेराइनर के तीन तत्वों के समूह में, मध्य तत्व का परमाणु द्रव्यमान हमेशा पहले और अंतिम तत्व के बीच का नहीं होता था। कभी-कभी यह थोड़ा ज्यादा या कम होता था, जो दिखाता है कि यह पैटर्न पूरी तरह सटीक नहीं था।"
+        }
     },
     {
-      "question_name": {
-        "english": "What causes actinoid contraction?",
-        "hindi": "एक्टिनॉइड संकुचन का क्या कारण है?"
-      },
-      "option": {
-        "english": [
-          "d orbital filling",
-          "p orbital filling",
-          "s orbital filling",
-          "f orbital filling"
-        ],
-        "hindi": [
-          "d कक्षक भरण",
-          "p कक्षक भरण",
-          "s कक्षक भरण",
-          "f कक्षक भरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+        "question_name": {
+            "english": "Why do alkali metals form oxides and hydroxides that are basic in nature?",
+            "hindi": "क्षार धातुएं क्षारीय प्रकृति के ऑक्साइड और हाइड्रॉक्साइड क्यों बनाती हैं?"
+        },
+        "option": {
+            "english": [
+                "Because they are soft metals",
+                "Because they are found in nature",
+                "Because they have silver color",
+                "Because they easily lose electrons to form positive ions"
+            ],
+            "hindi": [
+                "क्योंकि वे नरम धातुएं हैं",
+                "क्योंकि वे प्रकृति में पाए जाते हैं",
+                "क्योंकि उनका रंग चांदी जैसा होता है",
+                "क्योंकि वे आसानी से इलेक्ट्रॉन खोकर धनायन बनाते हैं"
+            ]
+        },
+        "answer": 3,
+        "image": null,
+        "medium": "hard",
+        "explanation": {
+            "english": "Alkali metals easily lose their single outer electron to form positive ions (M⁺). When they react with water, they form hydroxides (MOH) which release OH⁻ ions in water, making them basic in nature. This happens because of their low ionization energy and high reactivity.",
+            "hindi": "क्षार धातुएं अपने बाहरी एकल इलेक्ट्रॉन को आसानी से खोकर धनायन (M⁺) बनाती हैं। जब वे पानी से क्रिया करती हैं, तो हाइड्रॉक्साइड (MOH) बनाती हैं जो पानी में OH⁻ आयन छोड़ते हैं, जिससे वे क्षारीय प्रकृति के हो जाते हैं। यह उनकी कम आयनन ऊर्जा और उच्च क्रियाशीलता के कारण होता है।"
+        }
     }
 ]

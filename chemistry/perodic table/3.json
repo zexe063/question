@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Group 17 elements are called halogens. They are highly reactive non-metals that form salts when combined with metals. Common examples are Fluorine (F), Chlorine (Cl), Bromine (Br), and Iodine (I).",
+        "hindi": "समूह 17 के तत्वों को हैलोजन कहा जाता है। ये अत्यधिक क्रियाशील अधातु हैं जो धातुओं के साथ मिलकर लवण बनाते हैं। सामान्य उदाहरण हैं फ्लोरीन (F), क्लोरीन (Cl), ब्रोमीन (Br), और आयोडीन (I)।"
+      }
     },
     {
       "question_name": {
@@ -30,20 +34,24 @@
       "option": {
         "english": [
           "2",
-          "8",
           "18",
+          "8",
           "32"
         ],
         "hindi": [
           "2",
-          "8",
           "18",
+          "8",
           "32"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Period 2 has 8 elements: Lithium (Li), Beryllium (Be), Boron (B), Carbon (C), Nitrogen (N), Oxygen (O), Fluorine (F), and Neon (Ne). These elements have electrons in 2 shells.",
+        "hindi": "आवर्त 2 में 8 तत्व हैं: लिथियम (Li), बेरिलियम (Be), बोरॉन (B), कार्बन (C), नाइट्रोजन (N), ऑक्सीजन (O), फ्लोरीन (F), और नियॉन (Ne)। इन तत्वों में 2 कक्षाओं में इलेक्ट्रॉन होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Rubidium (Rb) has the highest metallic character among these options because metallic character increases down a group. Rb is below Na and K in Group 1, making it more metallic.",
+        "hindi": "रूबीडियम (Rb) में इन विकल्पों में सबसे अधिक धात्विक गुण है क्योंकि एक समूह में नीचे जाने पर धात्विक गुण बढ़ता है। Rb समूह 1 में Na और K के नीचे है, इसलिए यह अधिक धात्विक है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Helium (He) is the first noble gas with atomic number 2. Noble gases have complete outer shells, making them very stable and unreactive.",
+        "hindi": "हीलियम (He) पहली उत्कृष्ट गैस है जिसकी परमाणु संख्या 2 है। उत्कृष्ट गैसों की बाहरी कक्षा पूर्ण होती है, जिससे वे बहुत स्थिर और अक्रियाशील होती हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fluorine is the most reactive non-metal because it has the highest electronegativity and needs only one electron to complete its outer shell. It readily forms compounds with most elements.",
+        "hindi": "फ्लोरीन सबसे अधिक क्रियाशील अधातु है क्योंकि इसमें सबसे अधिक विद्युतऋणात्मकता होती है और इसे अपनी बाहरी कक्षा पूर्ण करने के लिए केवल एक इलेक्ट्रॉन की आवश्यकता होती है। यह अधिकांश तत्वों के साथ आसानी से यौगिक बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Metals form basic oxides because they can easily donate electrons. When metal oxides dissolve in water, they form hydroxides (OH-) which make the solution basic or alkaline.",
+        "hindi": "धातुएं क्षारीय ऑक्साइड बनाती हैं क्योंकि वे आसानी से इलेक्ट्रॉन दान कर सकती हैं। जब धातु ऑक्साइड पानी में घुलते हैं, तो वे हाइड्रॉक्साइड (OH-) बनाते हैं जो विलयन को क्षारीय बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The zigzag line in the periodic table is caused by electronic configuration. It separates metals from non-metals based on how their electrons are arranged, which determines their properties.",
+        "hindi": "आवर्त सारणी में टेढ़ी-मेढ़ी रेखा इलेक्ट्रॉनिक विन्यास के कारण होती है। यह धातुओं को अधातुओं से अलग करती है, जो उनके इलेक्ट्रॉनों की व्यवस्था पर आधारित है, जो उनके गुणों को निर्धारित करती है।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "New shell addition",
           "More electrons",
+          "New shell addition",
           "More protons",
           "Nuclear charge"
         ],
         "hindi": [
-          "नया कोश जुड़ने से",
           "अधिक इलेक्ट्रॉन",
+          "नया कोश जुड़ने से",
           "अधिक प्रोटॉन",
           "नाभकीय आवेश"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Atomic size increases down a group because new electron shells are added. Each new shell is farther from the nucleus, making the atom bigger. For example, sodium is bigger than lithium because it has one more shell.",
+        "hindi": "एक समूह में नीचे जाने पर परमाणु आकार बढ़ता है क्योंकि नई इलेक्ट्रॉन कक्षाएं जुड़ती हैं। प्रत्येक नई कक्षा नाभिक से दूर होती है, जिससे परमाणु बड़ा हो जाता है। उदाहरण के लिए, सोडियम लिथियम से बड़ा होता है क्योंकि इसमें एक अतिरिक्त कक्षा होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Germanium was not discovered when Mendeleev created his periodic table. He predicted its properties and called it 'eka-silicon'. When it was discovered later, its properties matched his predictions closely.",
+        "hindi": "जब मेंडलीफ ने अपनी आवर्त सारणी बनाई तब जर्मेनियम की खोज नहीं हुई थी। उन्होंने इसके गुणों की भविष्यवाणी की और इसे 'एका-सिलिकॉन' नाम दिया। जब बाद में इसकी खोज हुई, तो इसके गुण उनकी भविष्यवाणी से मेल खाते थे।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Noble gases have low boiling points because of weak forces between their atoms. Since they have complete outer shells, they don't form bonds easily. Only weak van der Waals forces exist between noble gas atoms.",
+        "hindi": "उत्कृष्ट गैसों का क्वथनांक कम होता है क्योंकि उनके परमाणुओं के बीच कमजोर बल होते हैं। चूंकि उनकी बाहरी कक्षाएं पूर्ण होती हैं, वे आसानी से बंध नहीं बनाते। उत्कृष्ट गैस परमाणुओं के बीच केवल कमजोर वैन डर वाल्स बल मौजूद होते हैं।"
+      }
     }
 ]
