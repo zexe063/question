@@ -136,27 +136,27 @@
     },
     {
       "question_name": {
-        "english": "Which salt gives acidic solution in water?",
-        "hindi": "कौन सा लवण जल में अम्लीय विलयन देता है?"
+        "english": "Why is hydrochloric acid used in our stomach for digestion?",
+        "hindi": "पाचन के लिए हमारे पेट में हाइड्रोक्लोरिक एसिड का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "NH₄Cl",
-          "NaCl",
-          "Na₂CO₃",
-          "CH₃COONa"
+           "All of the above",
+          "To maintain pH balance",
+          "To kill harmful bacteria",
+          "To break down proteins"
         ],
         "hindi": [
-          "NH₄Cl",
-          "NaCl",
-          "Na₂CO₃",
-          "CH₃COONa"
+           "उपरोक्त सभी",
+          "pH संतुलन बनाए रखने के लिए",
+          "हानिकारक बैक्टीरिया को मारने के लिए",
+          "प्रोटीन को तोड़ने के लिए"
         ]
       },
       "answer": 0,
       "explanation": {
-        "english": "NH₄Cl (Ammonium chloride) gives acidic solution in water because NH₄⁺ ions undergo hydrolysis: NH₄⁺ + H₂O ⇌ NH₄OH + H⁺, producing H⁺ ions that make the solution acidic.",
-        "hindi": "NH₄Cl (अमोनियम क्लोराइड) जल में अम्लीय विलयन देता है क्योंकि NH₄⁺ आयन जलअपघटन से गुजरते हैं: NH₄⁺ + H₂O ⇌ NH₄OH + H⁺, जो H⁺ आयन उत्पन्न करते हैं और विलयन को अम्लीय बनाते हैं।"
+        "english": "HCl in stomach serves multiple purposes: it maintains acidic pH around 1.2-3.0, kills harmful bacteria entering through food, and helps break down proteins by activating the enzyme pepsin. This makes digestion efficient and safe.",
+        "hindi": "पेट में HCl कई उद्देश्यों की पूर्ति करता है: यह 1.2-3.0 के आसपास अम्लीय pH बनाए रखता है, भोजन के माध्यम से प्रवेश करने वाले हानिकारक बैक्टीरिया को मारता है, और पेप्सिन एंजाइम को सक्रिय करके प्रोटीन को तोड़ने में मदद करता है। यह पाचन को कुशल और सुरक्षित बनाता है।"
       },
       "image": null,
       "medium": "medium"

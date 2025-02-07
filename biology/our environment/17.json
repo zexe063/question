@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Better aquatic life",
-          "Clean water",
+          "Clean water", 
           "Good environment",
           "Aquatic life damage"
         ],
@@ -17,6 +17,10 @@
           "अच्छा पर्यावरण",
           "जलीय जीवन क्षति"
         ]
+      },
+      "explanation": {
+        "english": "Thermal pollution occurs when industries release hot water into water bodies. This increases water temperature and reduces dissolved oxygen, making it difficult for aquatic organisms to survive. Fish and other aquatic life need specific temperature ranges to live healthily.",
+        "hindi": "तापीय प्रदूषण तब होता है जब उद्योग गर्म पानी को जल निकायों में छोड़ते हैं। इससे पानी का तापमान बढ़ता है और घुली हुई ऑक्सीजन कम हो जाती है, जिससे जलीय जीवों का जीवित रहना मुश्किल हो जाता है। मछलियों और अन्य जलीय जीवों को स्वस्थ रहने के लिए विशिष्ट तापमान की आवश्यकता होती है।"
       },
       "answer": 3,
       "image": null,
@@ -41,28 +45,36 @@
           "मृत क्षेत्र"
         ]
       },
+      "explanation": {
+        "english": "A biodiversity hotspot is a region with a high concentration of different plant and animal species, especially those found nowhere else on Earth. These areas are important for conservation as they contain many unique species but face threats from human activities.",
+        "hindi": "जैव विविधता हॉटस्पॉट एक ऐसा क्षेत्र है जहाँ विभिन्न पौधों और जानवरों की प्रजातियों की अधिक संख्या पाई जाती है, विशेष रूप से वे जो पृथ्वी पर कहीं और नहीं मिलती हैं। ये क्षेत्र संरक्षण के लिए महत्वपूर्ण हैं क्योंकि इनमें कई अद्वितीय प्रजातियां हैं लेकिन मानवीय गतिविधियों से खतरा है।"
+      },
       "answer": 1,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is soil erosion?",
-        "hindi": "मृदा अपरदन क्या है?"
+        "english": "What is biomedical waste?",
+        "hindi": "जैव चिकित्सा कचरा क्या है?"
       },
       "option": {
         "english": [
-          "Soil formation",
-          "Soil growth",
-          "Soil removal",
-          "Soil addition"
+          "Normal waste",
+          "Food waste",
+          "Hospital waste",
+          "Paper waste"
         ],
         "hindi": [
-          "मिट्टी निर्माण",
-          "मिट्टी वृद्धि",
-          "मिट्टी हटना",
-          "मिट्टी जोड़ना"
+          "सामान्य कचरा",
+          "खाद्य कचरा",
+          "अस्पताल कचरा",
+          "कागज कचरा"
         ]
+      },
+      "explanation": {
+        "english": "Biomedical waste is any waste generated during medical treatment, immunization, or research activities in hospitals. This includes used syringes, bandages, medicines, and other potentially infectious materials that require special handling and disposal methods.",
+        "hindi": "जैव चिकित्सा कचरा वह कचरा है जो अस्पतालों में चिकित्सा उपचार, टीकाकरण या अनुसंधान गतिविधियों के दौरान उत्पन्न होता है। इसमें प्रयुक्त सिरिंज, पट्टियां, दवाएं और अन्य संभावित संक्रामक सामग्री शामिल हैं जिन्हें विशेष हैंडलिंग और निपटान विधियों की आवश्यकता होती है।"
       },
       "answer": 2,
       "image": null,
@@ -77,7 +89,7 @@
         "english": [
           "Living beings",
           "Soil",
-          "Water",
+          "Water", 
           "Air"
         ],
         "hindi": [
@@ -86,6 +98,10 @@
           "जल",
           "वायु"
         ]
+      },
+      "explanation": {
+        "english": "Biotic components are living parts of an ecosystem including plants, animals, bacteria and fungi. These organisms interact with each other through food chains and depend on non-living (abiotic) components like air, water and soil for survival.",
+        "hindi": "जैविक घटक पारिस्थितिकी तंत्र के जीवित भाग हैं जिनमें पौधे, जानवर, बैक्टीरिया और कवक शामिल हैं। ये जीव खाद्य श्रृंखलाओं के माध्यम से एक-दूसरे के साथ संपर्क करते हैं और जीवित रहने के लिए हवा, पानी और मिट्टी जैसे अजैविक घटकों पर निर्भर करते हैं।"
       },
       "answer": 0,
       "image": null,
@@ -110,28 +126,36 @@
           "संसाधन क्षय"
         ]
       },
+      "explanation": {
+        "english": "Overpopulation leads to increased demand for resources like food, water, and energy. This causes depletion of natural resources, increased pollution, deforestation, and puts pressure on public services. It also results in reduced quality of life and environmental degradation.",
+        "hindi": "जनसंख्या वृद्धि से भोजन, पानी और ऊर्जा जैसे संसाधनों की मांग बढ़ जाती है। इससे प्राकृतिक संसाधनों का क्षय, प्रदूषण में वृद्धि, वनों की कटाई होती है और सार्वजनिक सेवाओं पर दबाव पड़ता है। इससे जीवन की गुणवत्ता में कमी और पर्यावरण का क्षरण भी होता है।"
+      },
       "answer": 3,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is biomagnification?",
-        "hindi": "जैव आवर्धन क्या है?"
+        "english": "Why does the pyramid of biomass decrease at higher trophic levels?",
+        "hindi": "उच्च पोषी स्तरों पर जैवभार का पिरामिड क्यों घटता है?"
       },
       "option": {
         "english": [
-          "Toxin decrease",
-          "No change",
-          "Toxin increase",
-          "Better health"
+          "More predators",
+          "More producers",
+          "Energy loss at each level",
+          "More decomposers"
         ],
         "hindi": [
-          "विष कम होना",
-          "कोई परिवर्तन नहीं",
-          "विष बढ़ना",
-          "बेहतर स्वास्थ्य"
+          "अधिक शिकारी",
+          "अधिक उत्पादक",
+          "प्रत्येक स्तर पर ऊर्जा की हानि",
+          "अधिक अपघटक"
         ]
+      },
+      "explanation": {
+        "english": "The pyramid of biomass decreases because only 10% of energy transfers to the next trophic level, while 90% is lost as heat. This means less energy is available to support life at higher levels, resulting in fewer organisms and less total biomass.",
+        "hindi": "जैवभार का पिरामिड इसलिए घटता है क्योंकि केवल 10% ऊर्जा अगले पोषी स्तर में स्थानांतरित होती है, जबकि 90% ऊष्मा के रूप में नष्ट हो जाती है। इसका मतलब है कि उच्च स्तरों पर जीवन को समर्थन देने के लिए कम ऊर्जा उपलब्ध होती है, जिसके परिणामस्वरूप कम जीव और कम कुल जैवभार होता है।"
       },
       "answer": 2,
       "image": null,
@@ -156,6 +180,10 @@
           "कोई पेड़ नहीं"
         ]
       },
+      "explanation": {
+        "english": "Afforestation is the process of planting trees in areas where there were no trees before. It helps prevent soil erosion, increases biodiversity, reduces carbon dioxide in the atmosphere, and provides resources like wood and fruits for human use.",
+        "hindi": "वनरोपण उन क्षेत्रों में पेड़ लगाने की प्रक्रिया है जहां पहले कोई पेड़ नहीं थे। यह मिट्टी के कटाव को रोकने में मदद करता है, जैव विविधता बढ़ाता है, वायुमंडल में कार्बन डाइऑक्साइड को कम करता है, और मानव उपयोग के लिए लकड़ी और फल जैसे संसाधन प्रदान करता है।"
+      },
       "answer": 1,
       "image": null,
       "medium": "medium"
@@ -178,6 +206,10 @@
           "पवन",
           "जल"
         ]
+      },
+      "explanation": {
+        "english": "Coal is a fossil fuel formed from dead plant matter that was compressed over millions of years. Unlike renewable sources like solar or wind, fossil fuels are non-renewable and their burning releases greenhouse gases that contribute to global warming.",
+        "hindi": "कोयला एक जीवाश्म ईंधन है जो लाखों वर्षों में मृत पौधों के पदार्थ के दबाव से बना है। सौर या पवन जैसे नवीकरणीय स्रोतों के विपरीत, जीवाश्म ईंधन गैर-नवीकरणीय हैं और इनके जलने से ग्रीनहाउस गैसें निकलती हैं जो ग्लोबल वार्मिंग में योगदान करती हैं।"
       },
       "answer": 0,
       "image": null,
@@ -202,28 +234,36 @@
           "मृदा क्षरण"
         ]
       },
+      "explanation": {
+        "english": "Land pollution causes soil degradation by contaminating it with chemicals, waste materials, and toxic substances. This reduces soil fertility, kills beneficial soil organisms, affects plant growth, and can enter the food chain, causing health problems for humans and animals.",
+        "hindi": "भूमि प्रदूषण रसायनों, कचरे और विषाक्त पदार्थों से मिट्टी को दूषित करके मृदा क्षरण का कारण बनता है। इससे मिट्टी की उर्वरता कम हो जाती है, लाभदायक मृदा जीव मर जाते हैं, पौधों की वृद्धि प्रभावित होती है, और यह खाद्य श्रृंखला में प्रवेश कर मनुष्यों और जानवरों के लिए स्वास्थ्य समस्याएं पैदा कर सकता है।"
+      },
       "answer": 3,
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is ecological pyramid?",
-        "hindi": "पारिस्थितिक पिरामिड क्या है?"
+        "english": "Why is pyramid of numbers important in understanding an ecosystem?",
+        "hindi": "संख्याओं का पिरामिड पारिस्थितिकी तंत्र को समझने में क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Random structure",
-          "No pattern",
-          "Trophic levels",
-          "Just shape"
+          "Shows only producers",
+          "Represents only consumers",
+          "Shows population at each level",
+          "Only about decomposers"
         ],
         "hindi": [
-          "यादृच्छिक संरचना",
-          "कोई पैटर्न नहीं",
-          "पोषी स्तर",
-          "केवल आकार"
+          "केवल उत्पादकों को दिखाता है",
+          "केवल उपभोक्ताओं का प्रतिनिधित्व करता है",
+          "प्रत्येक स्तर पर जनसंख्या दिखाता है",
+          "केवल अपघटकों के बारे में"
         ]
+      },
+      "explanation": {
+        "english": "The pyramid of numbers shows the population of organisms at each trophic level in an ecosystem. It helps understand the feeding relationships and balance between different species. Generally, the number of organisms decreases from producers to top consumers due to energy loss at each level.",
+        "hindi": "संख्याओं का पिरामिड पारिस्थितिकी तंत्र में प्रत्येक पोषी स्तर पर जीवों की जनसंख्या दिखाता है। यह विभिन्न प्रजातियों के बीच भोजन संबंधों और संतुलन को समझने में मदद करता है। आमतौर पर, प्रत्येक स्तर पर ऊर्जा की हानि के कारण उत्पादकों से शीर्ष उपभोक्ताओं तक जीवों की संख्या घटती जाती है।"
       },
       "answer": 2,
       "image": null,

@@ -20,7 +20,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Radioactive pollution causes serious genetic damage that can be passed to future generations. It can damage DNA, cause mutations, and lead to cancer. Even small amounts of radiation exposure over time can be harmful to living organisms.",
+        "hindi": "रेडियोधर्मी प्रदूषण गंभीर आनुवंशिक क्षति का कारण बनता है जो भविष्य की पीढ़ियों तक पहुंच सकता है। यह डीएनए को नुकसान पहुंचा सकता है, उत्परिवर्तन का कारण बन सकता है, और कैंसर का कारण बन सकता है। समय के साथ विकिरण का छोटा जोखिम भी जीवित जीवों के लिए हानिकारक हो सकता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Habitat fragmentation is when large areas of natural habitat are divided into smaller, isolated patches. This happens due to human activities like building roads, cities, and farms. It makes it hard for animals to move freely and find food, affecting their survival.",
+        "hindi": "आवास विखंडन तब होता है जब प्राकृतिक आवास के बड़े क्षेत्र छोटे, अलग-अलग टुकड़ों में बंट जाते हैं। यह सड़कों, शहरों और खेतों के निर्माण जैसी मानवीय गतिविधियों के कारण होता है। इससे जानवरों को स्वतंत्र रूप से घूमने और भोजन खोजने में कठिनाई होती है, जो उनके जीवन को प्रभावित करता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Wetlands are nature's water purifiers. They filter out pollutants, trap sediments, and remove harmful chemicals from water naturally. Plants and microorganisms in wetlands break down pollutants, making water cleaner for the environment.",
+        "hindi": "आर्द्रभूमि प्रकृति के जल शोधक हैं। वे प्रदूषकों को छानते हैं, तलछट को फंसाते हैं, और पानी से हानिकारक रसायनों को प्राकृतिक रूप से हटाते हैं। आर्द्रभूमि में पौधे और सूक्ष्मजीव प्रदूषकों को तोड़कर पानी को पर्यावरण के लिए स्वच्छ बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,53 +101,65 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Phytoplankton are tiny plants in water that produce oxygen through photosynthesis. They make about 50% of Earth's oxygen and are vital for marine life. They also form the base of ocean food chains and help reduce carbon dioxide from the atmosphere.",
+        "hindi": "फाइटोप्लांकटन पानी में पाए जाने वाले छोटे पौधे हैं जो प्रकाश संश्लेषण द्वारा ऑक्सीजन का उत्पादन करते हैं। वे पृथ्वी की लगभग 50% ऑक्सीजन बनाते हैं और समुद्री जीवन के लिए महत्वपूर्ण हैं। वे समुद्री खाद्य श्रृंखला का आधार भी बनाते हैं और वातावरण से कार्बन डाइऑक्साइड को कम करने में मदद करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes soil salinization?",
-        "hindi": "मृदा लवणीकरण का क्या कारण है?"
+          "english": "What happens when soil gets too much salt?",
+          "hindi": "मिट्टी में अधिक नमक होने पर क्या होता है?"
       },
       "option": {
-        "english": [
-          "Good irrigation",
-          "Rain water",
-          "Fresh water",
-          "Excess irrigation"
-        ],
-        "hindi": [
-          "अच्छी सिंचाई",
-          "वर्षा जल",
-          "ताजा जल",
-          "अत्यधिक सिंचाई"
-        ]
+          "english": [
+              "Better plant growth",
+              "More fertility",
+              "No effect",
+              "Reduced plant growth"
+          ],
+          "hindi": [
+              "बेहतर पौधों की वृद्धि",
+              "अधिक उर्वरता",
+              "कोई प्रभाव नहीं",
+              "पौधों की कम वृद्धि"
+          ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Too much salt in soil makes it hard for plants to absorb water and nutrients. This causes reduced plant growth and can even kill plants. Salt affects soil structure and makes it less fertile. This problem often occurs due to poor irrigation practices or seawater intrusion.",
+        "hindi": "मिट्टी में अधिक नमक होने से पौधों के लिए पानी और पोषक तत्वों को अवशोषित करना कठिन हो जाता है। इससे पौधों की वृद्धि कम हो जाती है और पौधे मर भी सकते हैं। नमक मिट्टी की संरचना को प्रभावित करता है और इसे कम उपजाऊ बनाता है। यह समस्या अक्सर खराब सिंचाई प्रथाओं या समुद्री जल के प्रवेश के कारण होती है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which is a renewable resource?",
-        "hindi": "नवीकरणीय संसाधन कौन सा है?"
+        "english": "Why is wind energy considered the most environmentally friendly resource?",
+        "hindi": "पवन ऊर्जा को सबसे पर्यावरण अनुकूल संसाधन क्यों माना जाता है?"
       },
       "option": {
         "english": [
-          "Wind energy",
-          "Coal",
-          "Petroleum",
-          "Natural gas"
+          "Because it is clean and inexhaustible",
+          "Because it requires mining",
+          "Because it creates pollution",
+          "Because it is limited"
         ],
         "hindi": [
-          "पवन ऊर्जा",
-          "कोयला",
-          "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "क्योंकि यह स्वच्छ और अक्षय है",
+          "क्योंकि इसमें खनन की आवश्यकता होती है",
+          "क्योंकि यह प्रदूषण पैदा करता है",
+          "क्योंकि यह सीमित है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Wind energy is environmentally friendly because it produces no pollution or greenhouse gases. It's renewable, meaning it will never run out. Wind turbines convert wind's kinetic energy into electricity without using fuel or creating waste. It helps reduce dependence on fossil fuels.",
+        "hindi": "पवन ऊर्जा पर्यावरण के अनुकूल है क्योंकि यह कोई प्रदूषण या ग्रीनहाउस गैसें नहीं उत्पन्न करती। यह नवीकरणीय है, जिसका अर्थ है कि यह कभी समाप्त नहीं होगी। पवन टरबाइन बिना ईंधन का उपयोग किए या कचरा उत्पन्न किए हवा की गतिज ऊर्जा को बिजली में बदलते हैं। यह जीवाश्म ईंधन पर निर्भरता को कम करने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -158,54 +182,66 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Wildlife conservation aims to protect animal and plant species from extinction. It helps maintain biodiversity, preserve natural habitats, and keep ecosystems balanced. Conservation ensures that future generations can also see and benefit from diverse wildlife.",
+        "hindi": "वन्यजीव संरक्षण का उद्देश्य जानवरों और पौधों की प्रजातियों को विलुप्त होने से बचाना है। यह जैव विविधता को बनाए रखने, प्राकृतिक आवासों की रक्षा करने और पारिस्थितिक तंत्र को संतुलित रखने में मदद करता है। संरक्षण यह सुनिश्चित करता है कि भविष्य की पीढ़ियां भी विविध वन्यजीवों को देख सकें और उनसे लाभ उठा सकें।"
+      }
     },
     {
       "question_name": {
-        "english": "What is sustainable development?",
-        "hindi": "सतत विकास क्या है?"
+        "english": "Why is biodiversity important for ecosystem stability?",
+        "hindi": "पारिस्थितिकी तंत्र की स्थिरता के लिए जैव विविधता क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Fast growth",
-          "Balanced growth",
-          "No growth",
-          "Rapid development"
+          "Only for food production",
+          "For maintaining ecological balance",
+          "Only for medicine",
+          "Only for tourism"
         ],
         "hindi": [
-          "तेज विकास",
-          "संतुलित विकास",
-          "कोई विकास नहीं",
-          "तीव्र विकास"
+          "केवल खाद्य उत्पादन के लिए",
+          "पारिस्थितिक संतुलन बनाए रखने के लिए",
+          "केवल दवा के लिए",
+          "केवल पर्यटन के लिए"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Biodiversity maintains ecosystem stability by creating complex food webs and relationships between species. More diverse ecosystems are stronger and better able to recover from disturbances. Each species plays a unique role in maintaining natural balance.",
+        "hindi": "जैव विविधता प्रजातियों के बीच जटिल खाद्य जालों और संबंधों को बनाकर पारिस्थितिक तंत्र की स्थिरता को बनाए रखती है। अधिक विविध पारिस्थितिक तंत्र मजबूत होते हैं और गड़बड़ी से उबरने में बेहतर होते हैं। प्रत्येक प्रजाति प्राकृतिक संतुलन बनाए रखने में एक अनूठी भूमिका निभाती है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the effect of ocean acidification?",
-        "hindi": "महासागर अम्लीकरण का क्या प्रभाव है?"
+          "english": "What is the main cause of coral reef destruction?",
+          "hindi": "प्रवाल भित्तियों के विनाश का मुख्य कारण क्या है?"
       },
       "option": {
-        "english": [
-          "Better marine life",
-          "More fish",
-          "Healthy corals",
-          "Coral death"
-        ],
-        "hindi": [
-          "बेहतर समुद्री जीवन",
-          "अधिक मछलियां",
-          "स्वस्थ प्रवाल",
-          "प्रवाल मृत्यु"
-        ]
+          "english": [
+              "Clean water",
+              "Normal temperature",
+              "Fresh water",
+              "Water pollution"
+          ],
+          "hindi": [
+              "स्वच्छ जल",
+              "सामान्य तापमान",
+              "ताजा जल",
+              "जल प्रदूषण"
+          ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
-    },
+      "medium": "hard",
+      "explanation": {
+        "english": "Water pollution is the main cause of coral reef destruction. Pollutants, chemicals, and waste in water harm coral polyps. Rising water temperatures and ocean acidification from pollution cause coral bleaching. When corals die, many marine species lose their habitat and food source.",
+        "hindi": "जल प्रदूषण प्रवाल भित्तियों के विनाश का मुख्य कारण है। पानी में प्रदूषक, रसायन और कचरा प्रवाल पॉलिप्स को नुकसान पहुंचाते हैं। प्रदूषण से पानी का तापमान बढ़ना और महासागर का अम्लीकरण प्रवाल विरंजन का कारण बनता है। जब प्रवाल मरते हैं, तो कई समुद्री प्रजातियां अपना आवास और भोजन स्रोत खो देती हैं।"
+      }
+  },
     {
       "question_name": {
         "english": "Which process helps in water conservation?",
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Rainwater harvesting helps conserve water by collecting and storing rainwater for future use. This reduces dependence on groundwater, prevents water scarcity, and helps recharge groundwater levels. It's a simple but effective way to save water naturally.",
+        "hindi": "वर्षा जल संचयन भविष्य में उपयोग के लिए बारिश के पानी को एकत्र करके और संग्रहित करके जल संरक्षण में मदद करता है। यह भूजल पर निर्भरता को कम करता है, पानी की कमी को रोकता है, और भूजल स्तर को पुनर्भरित करने में मदद करता है। यह प्राकृतिक रूप से पानी बचाने का एक सरल लेकिन प्रभावी तरीका है।"
+      }
     }
   ]

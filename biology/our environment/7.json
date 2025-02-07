@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Water circulation",
-          "Carbon storage",
+          "Carbon storage", 
           "Nitrogen fixation",
           "Oxygen release"
         ],
@@ -20,30 +20,38 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The nitrogen cycle helps convert atmospheric nitrogen into a form that plants can use. Special bacteria in soil and root nodules of legumes fix nitrogen from air into compounds. Plants use these compounds to make proteins. When plants and animals die, decomposers return nitrogen to soil. This cycle is essential for plant growth and protein formation.",
+        "hindi": "नाइट्रोजन चक्र वायुमंडलीय नाइट्रोजन को पौधों के लिए उपयोगी रूप में बदलने में मदद करता है। मिट्टी और फलियों की जड़ों में विशेष बैक्टीरिया हवा से नाइट्रोजन को यौगिकों में स्थिर करते हैं। पौधे प्रोटीन बनाने के लिए इन यौगिकों का उपयोग करते हैं। जब पौधे और जानवर मरते हैं, तो विघटनकर्ता नाइट्रोजन को मिट्टी में वापस कर देते हैं। यह चक्र पौधों की वृद्धि और प्रोटीन निर्माण के लिए आवश्यक है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas causes the most greenhouse effect?",
-        "hindi": "कौन सी गैस सबसे अधिक ग्रीनहाउस प्रभाव पैदा करती है?"
+          "english": "Which greenhouse gas has the highest global warming potential?",
+          "hindi": "किस ग्रीनहाउस गैस की ग्लोबल वार्मिंग क्षमता सबसे अधिक है?"
       },
       "option": {
-        "english": [
-          "Carbon dioxide",
-          "Oxygen",
-          "Nitrogen",
-          "Hydrogen"
-        ],
-        "hindi": [
-          "कार्बन डाइऑक्साइड",
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "हाइड्रोजन"
-        ]
+          "english": [
+              "Methane",
+              "Carbon dioxide",
+              "Water vapor",
+              "Nitrous oxide"
+          ],
+          "hindi": [
+              "मीथेन",
+              "कार्बन डाइऑक्साइड",
+              "जल वाष्प",
+              "नाइट्रस ऑक्साइड"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Methane has the highest global warming potential among common greenhouse gases. Though it stays in the atmosphere for less time than CO2, it traps 25 times more heat. It comes from sources like rice fields, cattle farming, and landfills. Even small amounts of methane can significantly impact global warming.",
+        "hindi": "सामान्य ग्रीनहाउस गैसों में मीथेन की ग्लोबल वार्मिंग क्षमता सबसे अधिक होती है। हालांकि यह CO2 की तुलना में वातावरण में कम समय तक रहती है, यह 25 गुना अधिक गर्मी को फंसाती है। यह धान के खेतों, पशुपालन और लैंडफिल जैसे स्रोतों से आती है। मीथेन की छोटी मात्रा भी ग्लोबल वार्मिंग को महत्वपूर्ण रूप से प्रभावित कर सकती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Soil conservation is vital for protecting fertile topsoil from erosion. It maintains soil fertility, prevents land degradation, and ensures food security. Simple methods like contour plowing, terrace farming, and crop rotation help conserve soil. Without conservation, valuable topsoil can be lost, making land unsuitable for farming.",
+        "hindi": "मिट्टी का संरक्षण उपजाऊ मिट्टी को कटाव से बचाने के लिए महत्वपूर्ण है। यह मिट्टी की उर्वरता बनाए रखता है, भूमि क्षरण को रोकता है, और खाद्य सुरक्षा सुनिश्चित करता है। समोच्च जुताई, सीढ़ीदार खेती और फसल चक्र जैसी सरल विधियां मिट्टी के संरक्षण में मदद करती हैं। संरक्षण के बिना, मूल्यवान मिट्टी खो सकती है, जिससे भूमि खेती के लिए अनुपयुक्त हो जाती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Plastic severely harms marine life. Marine animals often mistake plastic for food and eat it, which can choke them or fill their stomachs, leading to starvation. Small plastic pieces (microplastics) enter the food chain. Plastic can also entangle animals, causing injury or death. It takes hundreds of years to decompose, creating long-term problems.",
+        "hindi": "प्लास्टिक समुद्री जीवन को गंभीर नुकसान पहुंचाता है। समुद्री जानवर अक्सर प्लास्टिक को भोजन समझकर खा लेते हैं, जिससे उनका गला घुट सकता है या पेट भर सकता है, जिससे भूखे मरने की स्थिति पैदा हो जाती है। छोटे प्लास्टिक के टुकड़े (माइक्रोप्लास्टिक) खाद्य श्रृंखला में प्रवेश करते हैं। प्लास्टिक जानवरों को फंसा भी सकता है, जिससे चोट या मृत्यु हो सकती है। इसके विघटन में सैकड़ों साल लगते हैं, जो दीर्घकालिक समस्याएं पैदा करता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Water treatment makes water safe for drinking by removing harmful substances. It removes dirt, bacteria, chemicals, and other contaminants through processes like filtration and disinfection. Clean water prevents waterborne diseases like cholera and typhoid. Treatment is essential for public health and safe drinking water supply.",
+        "hindi": "जल उपचार हानिकारक पदार्थों को हटाकर पानी को पीने योग्य बनाता है। यह छनन और कीटाणुशोधन जैसी प्रक्रियाओं के माध्यम से गंदगी, बैक्टीरिया, रसायन और अन्य प्रदूषकों को हटाता है। स्वच्छ जल हैजा और टाइफाइड जैसी जल जनित बीमारियों को रोकता है। उपचार जन स्वास्थ्य और सुरक्षित पेयजल आपूर्ति के लिए आवश्यक है।"
+      }
     },
     {
       "question_name": {
@@ -135,30 +155,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Vermicomposting uses earthworms to convert organic waste into natural fertilizer. Worms eat kitchen waste, plant materials and convert them into nutrient-rich compost. This compost improves soil fertility, plant growth and is eco-friendly. It's a natural way to recycle organic waste and reduce chemical fertilizer use.",
+        "hindi": "वर्मी कम्पोस्टिंग में केंचुओं का उपयोग जैविक कचरे को प्राकृतिक खाद में बदलने के लिए किया जाता है। केंचुए रसोई के कचरे, पौधों की सामग्री को खाते हैं और उन्हें पोषक तत्वों से भरपूर खाद में बदल देते हैं। यह खाद मिट्टी की उर्वरता, पौधों की वृद्धि में सुधार करती है और पर्यावरण के अनुकूल है। यह जैविक कचरे को रीसायकल करने और रासायनिक उर्वरकों के उपयोग को कम करने का एक प्राकृतिक तरीका है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which is a primary consumer in food chain?",
-        "hindi": "खाद्य श्रृंखला में प्राथमिक उपभोक्ता कौन है?"
+          "english": "What adaptation helps herbivores digest plant cellulose?",
+          "hindi": "शाकाहारी जीवों को पौधों की सेल्युलोज पचाने में कौन सा अनुकूलन मदद करता है?"
       },
       "option": {
-        "english": [
-          "Herbivore",
-          "Carnivore",
-          "Omnivore",
-          "Producer"
-        ],
-        "hindi": [
-          "शाकाहारी",
-          "मांसाहारी",
-          "सर्वाहारी",
-          "उत्पादक"
-        ]
+          "english": [
+              "Special bacteria",
+              "Sharp teeth",
+              "Strong muscles",
+              "Better vision"
+          ],
+          "hindi": [
+              "विशेष बैक्टीरिया",
+              "तेज दांत",
+              "मजबूत मांसपेशियां",
+              "बेहतर दृष्टि"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Herbivores have special bacteria in their digestive system that help break down tough plant cellulose. These bacteria live in specialized parts like the rumen in cows. The bacteria produce enzymes that digest cellulose, which the animal alone cannot break down. This symbiotic relationship helps herbivores get nutrients from plant material.",
+        "hindi": "शाकाहारी जीवों के पाचन तंत्र में विशेष बैक्टीरिया होते हैं जो कठोर पौधे की सेल्युलोज को तोड़ने में मदद करते हैं। ये बैक्टीरिया गायों में रूमेन जैसे विशेष भागों में रहते हैं। बैक्टीरिया ऐसे एंजाइम बनाते हैं जो सेल्युलोज को पचाते हैं, जिसे जानवर अकेले नहीं तोड़ सकता। यह सहजीवी संबंध शाकाहारी जीवों को पौधों से पोषक तत्व प्राप्त करने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -181,30 +209,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Thermal pollution occurs when hot water from industries is released into water bodies. This increases water temperature, reducing dissolved oxygen levels. Many aquatic organisms cannot survive in warm water. It disrupts breeding cycles, kills fish eggs, and can cause mass death of aquatic life. Even small temperature changes can harm sensitive species.",
+        "hindi": "तापीय प्रदूषण तब होता है जब उद्योगों से गर्म पानी जल निकायों में छोड़ा जाता है। इससे पानी का तापमान बढ़ता है, जिससे घुली हुई ऑक्सीजन का स्तर कम हो जाता है। कई जलीय जीव गर्म पानी में जीवित नहीं रह सकते। यह प्रजनन चक्र को बाधित करता है, मछली के अंडों को मारता है, और जलीय जीवन की सामूहिक मृत्यु का कारण बन सकता है। तापमान में छोटे बदलाव भी संवेदनशील प्रजातियों को नुकसान पहुंचा सकते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What is bioaccumulation?",
-        "hindi": "जैव संचयन क्या है?"
+          "english": "What is biological magnification index?",
+          "hindi": "जैविक आवर्धन सूचकांक क्या है?"
       },
       "option": {
-        "english": [
-          "Toxin removal",
-          "Clean process",
-          "Toxin buildup",
-          "Natural process"
-        ],
-        "hindi": [
-          "विष निष्कासन",
-          "स्वच्छ प्रक्रिया",
-          "विष संचय",
-          "प्राकृतिक प्रक्रिया"
-        ]
+          "english": [
+              "Population size",
+              "Species count",
+              "Toxin concentration ratio",
+              "Growth rate"
+          ],
+          "hindi": [
+              "जनसंख्या आकार",
+              "प्रजाति संख्या",
+              "विषाक्त सांद्रता अनुपात",
+              "वृद्धि दर"
+          ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Biological magnification index measures how toxins like pesticides increase in concentration as they move up the food chain. Small amounts in plants become more concentrated in herbivores, and even more in carnivores. For example, DDT concentration increases 10 times at each food chain level, making it very dangerous for top predators.",
+        "hindi": "जैविक आवर्धन सूचकांक मापता है कि कीटनाशक जैसे विषाक्त पदार्थ खाद्य श्रृंखला में ऊपर जाने पर कैसे अधिक सांद्र होते जाते हैं। पौधों में मौजूद छोटी मात्रा शाकाहारियों में अधिक सांद्र हो जाती है, और मांसाहारियों में और भी अधिक। उदाहरण के लिए, DDT की सांद्रता प्रत्येक खाद्य श्रृंखला स्तर पर 10 गुना बढ़ जाती है, जो शीर्ष शिकारियों के लिए बहुत खतरनाक होती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Bioindicators are living organisms that help monitor environmental health. For example, lichens are sensitive to air pollution - their absence indicates poor air quality. Similarly, certain fish species indicate water quality. These natural indicators help detect environmental problems before they become severe.",
+        "hindi": "जैव संकेतक वे जीवित जीव हैं जो पर्यावरण के स्वास्थ्य की निगरानी में मदद करते हैं। उदाहरण के लिए, लाइकेन वायु प्रदूषण के प्रति संवेदनशील होते हैं - उनकी अनुपस्थिति खराब वायु गुणवत्ता को दर्शाती है। इसी तरह, कुछ मछली प्रजातियां जल गुणवत्ता को दर्शाती हैं। ये प्राकृतिक संकेतक पर्यावरणीय समस्याओं को गंभीर होने से पहले पहचानने में मदद करते हैं।"
+      }
     }
   ]

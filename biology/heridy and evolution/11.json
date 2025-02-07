@@ -1,233 +1,272 @@
-
 [
-    {
-      "question_name": {
-        "english": "What is the role of genetic drift in small populations?",
-        "hindi": "छोटी जनसंख्या में आनुवंशिक अपवाह की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Increases variation",
-          "Maintains stability",
-          "Random changes",
-          "Directed evolution"
-        ],
-        "hindi": [
-          "विभिन्नता बढ़ाता है",
-          "स्थिरता बनाए रखता है",
-          "यादृच्छिक परिवर्तन",
-          "निर्देशित विकास"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What causes speciation in organisms?",
+      "hindi": "जीवों में जाति उद्भवन का क्या कारण है?"
     },
-    {
-      "question_name": {
-        "english": "Which molecule forms the genetic material in viruses?",
-        "hindi": "विषाणुओं में कौन सा अणु आनुवंशिक पदार्थ बनाता है?"
-      },
-      "option": {
-        "english": [
-          "DNA or RNA",
-          "Only DNA",
-          "Only RNA",
-          "Proteins"
-        ],
-        "hindi": [
-          "DNA या RNA",
-          "केवल DNA",
-          "केवल RNA",
-          "प्रोटीन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Geographic isolation",
+        "Genetic isolation",
+        "All of these", 
+        "Reproductive isolation"
+      ],
+      "hindi": [
+        "भौगोलिक पृथक्करण",
+        "आनुवंशिक पृथक्करण", 
+        "ये सभी",
+        "प्रजनन पृथक्करण"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the Hardy-Weinberg principle used for?",
-        "hindi": "हार्डी-वेनबर्ग सिद्धांत का उपयोग किसलिए किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Evolution study",
-          "Population genetics",
-          "Cell division",
-          "DNA replication"
-        ],
-        "hindi": [
-          "विकास अध्ययन",
-          "जनसंख्या आनुवंशिकी",
-          "कोशिका विभाजन",
-          "DNA प्रतिकृति"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "answer": 2,
+    "explanation": {
+      "english": "Speciation occurs due to multiple factors working together. Geographic isolation separates populations physically, genetic isolation prevents gene flow between populations, and reproductive isolation stops interbreeding. All these factors together lead to formation of new species.",
+      "hindi": "जाति उद्भवन कई कारकों के एक साथ काम करने से होता है। भौगोलिक पृथक्करण जनसंख्या को भौतिक रूप से अलग करता है, आनुवंशिक पृथक्करण जनसंख्याओं के बीच जीन प्रवाह को रोकता है, और प्रजनन पृथक्करण अंतर्प्रजनन को रोकता है। ये सभी कारक मिलकर नई प्रजातियों के निर्माण का कारण बनते हैं।"
     },
-    {
-      "question_name": {
-        "english": "What is the significance of genetic bottleneck?",
-        "hindi": "आनुवंशिक बॉटलनेक का क्या महत्व है?"
-      },
-      "option": {
-        "english": [
-          "Increases variation",
-          "Maintains diversity",
-          "Reduces variation",
-          "Population reduction"
-        ],
-        "hindi": [
-          "विभिन्नता बढ़ाता है",
-          "विविधता बनाए रखता है",
-          "विभिन्नता घटाता है",
-          "जनसंख्या कम करना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which molecule forms the genetic material in viruses?",
+      "hindi": "विषाणुओं में कौन सा अणु आनुवंशिक पदार्थ बनाता है?"
     },
-    {
-      "question_name": {
-        "english": "What is the role of transposons in genetics?",
-        "hindi": "आनुवंशिकी में ट्रांसपोसोन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Gene repair",
-          "Gene copying",
-          "Gene movement",
-          "Gene deletion"
-        ],
-        "hindi": [
-          "जीन मरम्मत",
-          "जीन प्रतिलिपि",
-          "जीन गतिशीलता",
-          "जीन विलोपन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "DNA or RNA",
+        "Only DNA",
+        "Only RNA",
+        "Proteins"
+      ],
+      "hindi": [
+        "DNA या RNA",
+        "केवल DNA",
+        "केवल RNA",
+        "प्रोटीन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the function of promoter regions in DNA?",
-        "hindi": "DNA में प्रोमोटर क्षेत्रों का क्या कार्य है?"
-      },
-      "option": {
-        "english": [
-          "Stop transcription",
-          "Start transcription",
-          "Copy DNA",
-          "Repair DNA"
-        ],
-        "hindi": [
-          "प्रतिलेखन रोकना",
-          "प्रतिलेखन शुरू करना",
-          "DNA कॉपी करना",
-          "DNA मरम्मत"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
+    "answer": 0,
+    "explanation": {
+      "english": "Viruses can have either DNA or RNA as their genetic material, but not both. This is different from living cells which always have DNA as genetic material. Some viruses like influenza have RNA while others like herpes have DNA.",
+      "hindi": "वायरस में DNA या RNA दोनों में से कोई एक आनुवंशिक पदार्थ हो सकता है, लेकिन दोनों एक साथ नहीं। यह जीवित कोशिकाओं से अलग है जिनमें हमेशा DNA आनुवंशिक पदार्थ होता है। कुछ वायरस जैसे इन्फ्लूएंजा में RNA होता है जबकि अन्य जैसे हर्पीस में DNA होता है।"
     },
-    {
-      "question_name": {
-        "english": "Which type of RNA helps in protein synthesis?",
-        "hindi": "कौन सा RNA प्रोटीन संश्लेषण में मदद करता है?"
-      },
-      "option": {
-        "english": [
-          "All types",
-          "Only mRNA",
-          "Only tRNA",
-          "Only rRNA"
-        ],
-        "hindi": [
-          "सभी प्रकार",
-          "केवल mRNA",
-          "केवल tRNA",
-          "केवल rRNA"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What is the main factor that leads to geographical isolation in species?",
+      "hindi": "प्रजातियों में भौगोलिक अलगाव का मुख्य कारक क्या है?"
     },
-    {
-      "question_name": {
-        "english": "What is the role of mutation in speciation?",
-        "hindi": "जातियों के विकास में उत्परिवर्तन की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "No role",
-          "Minor role",
-          "Major role",
-          "Creates new species"
-        ],
-        "hindi": [
-          "कोई भूमिका नहीं",
-          "छोटी भूमिका",
-          "बड़ी भूमिका",
-          "नई प्रजाति बनाना"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
+    "option": {
+      "english": [
+        "Climate change",
+        "Physical barriers",
+        "Genetic mutation",
+        "Natural selection"
+      ],
+      "hindi": [
+        "जलवायु परिवर्तन",
+        "भौतिक बाधाएं",
+        "आनुवंशिक उत्परिवर्तन",
+        "प्राकृतिक चयन"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is genomic imprinting?",
-        "hindi": "जीनोमिक छाप क्या है?"
-      },
-      "option": {
-        "english": [
-          "DNA copying",
-          "RNA synthesis",
-          "Gene expression pattern",
-          "Protein coding"
-        ],
-        "hindi": [
-          "DNA प्रतिलिपि",
-          "RNA संश्लेषण",
-          "जीन अभिव्यक्ति प्रतिरूप",
-          "प्रोटीन कूटलेखन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "explanation": {
+      "english": "Physical barriers like mountains, oceans, or deserts are the main cause of geographical isolation. These barriers prevent organisms from moving and breeding with other populations, eventually leading to formation of new species.",
+      "hindi": "पर्वत, महासागर या रेगिस्तान जैसी भौतिक बाधाएं भौगोलिक अलगाव का मुख्य कारण हैं। ये बाधाएं जीवों को अन्य आबादी के साथ जाने और प्रजनन करने से रोकती हैं, जो अंततः नई प्रजातियों के निर्माण का कारण बनती हैं।"
     },
-    {
-      "question_name": {
-        "english": "What is the significance of genetic screening?",
-        "hindi": "आनुवंशिक स्क्रीनिंग का क्या महत्व है?"
-      },
-      "option": {
-        "english": [
-          "Treatment",
-          "Prevention",
-          "Diagnosis",
-          "Cure"
-        ],
-        "hindi": [
-          "उपचार",
-          "रोकथाम",
-          "निदान",
-          "इलाज"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    }
-  ]
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What happens when individuals migrate between populations in genetic flow?",
+      "hindi": "आनुवंशिक प्रवाह में जब व्यक्ति जनसंख्या के बीच प्रवास करते हैं तो क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Gene frequency increases",
+        "Gene frequency decreases",
+        "No change in genes",
+        "Population movement"
+      ],
+      "hindi": [
+        "जीन आवृत्ति बढ़ती है",
+        "जीन आवृत्ति घटती है",
+        "जीन में कोई परिवर्तन नहीं",
+        "जनसंख्या का स्थानांतरण"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "When individuals move between populations, they carry their genes with them. This movement of individuals and their genes is called population movement or migration, which helps in mixing genetic material between different populations.",
+      "hindi": "जब व्यक्ति जनसंख्याओं के बीच स्थानांतरित होते हैं, तो वे अपने जीन्स को भी साथ ले जाते हैं। व्यक्तियों और उनके जीन्स का यह स्थानांतरण जनसंख्या का स्थानांतरण या प्रवास कहलाता है, जो विभिन्न जनसंख्याओं के बीच आनुवंशिक पदार्थ के मिश्रण में मदद करता है।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "What are analogous organs examples in animals?",
+      "hindi": "जंतुओं में समवृत्त अंगों के उदाहरण क्या हैं?"
+    },
+    "option": {
+      "english": [
+        "Wings of butterfly and bat",
+        "Fins of fish and flippers of whale",
+        "Wings of birds and insects",
+        "All of these"
+      ],
+      "hindi": [
+        "तितली और चमगादड़ के पंख",
+        "मछली के पंख और व्हेल के फ्लिपर्स",
+        "पक्षियों और कीड़ों के पंख",
+        "ये सभी"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "Wings of birds and insects are analogous organs because they perform the same function (flying) but have different internal structures and origins. This shows how different organisms can develop similar features to adapt to similar environments.",
+      "hindi": "पक्षियों और कीड़ों के पंख समवृत्त अंग हैं क्योंकि वे एक ही कार्य (उड़ना) करते हैं लेकिन उनकी आंतरिक संरचना और उत्पत्ति अलग है। यह दर्शाता है कि कैसे विभिन्न जीव समान वातावरण में ढलने के लिए समान विशेषताएं विकसित कर सकते हैं।"
+    },
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "In Mendel's experiments with pea plants, what trait is shown by pods when one parent has inflated pods and another has constricted pods?",
+      "hindi": "मेंडल के मटर के पौधों के प्रयोगों में, जब एक जनक में फूले हुए फली और दूसरे में सिकुड़ी फली होती है, तो फली में कौन सा लक्षण दिखाई देता है?"
+    },
+    "option": {
+      "english": [
+        "Both types equally",
+        "Inflated pods only",
+        "Mixed pods",
+        "Constricted pods only"
+      ],
+      "hindi": [
+        "दोनों प्रकार समान रूप से",
+        "केवल फूली हुई फली",
+        "मिश्रित फली",
+        "केवल सिकुड़ी फली"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "According to Mendel's law of dominance, when two different traits are crossed, only the dominant trait appears in the first generation. In pea plants, inflated pods are dominant over constricted pods, so all pods in F1 generation will be inflated.",
+      "hindi": "मेंडल के प्रभाविता के नियम के अनुसार, जब दो अलग-अलग लक्षणों को क्रॉस किया जाता है, तो पहली पीढ़ी में केवल प्रभावी लक्षण दिखाई देता है। मटर के पौधों में, फूली हुई फली सिकुड़ी फली पर प्रभावी होती है, इसलिए F1 पीढ़ी में सभी फलियां फूली हुई होंगी।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "Which type of RNA helps in protein synthesis?",
+      "hindi": "कौन सा RNA प्रोटीन संश्लेषण में मदद करता है?"
+    },
+    "option": {
+      "english": [
+        "All types",
+        "Only mRNA",
+        "Only tRNA",
+        "Only rRNA"
+      ],
+      "hindi": [
+        "सभी प्रकार",
+        "केवल mRNA",
+        "केवल tRNA",
+        "केवल rRNA"
+      ]
+    },
+    "answer": 0,
+    "explanation": {
+      "english": "All three types of RNA (mRNA, tRNA, and rRNA) work together in protein synthesis. mRNA carries the genetic code from DNA, tRNA brings amino acids, and rRNA forms part of ribosomes where protein synthesis occurs.",
+      "hindi": "सभी तीन प्रकार के RNA (mRNA, tRNA, और rRNA) प्रोटीन संश्लेषण में एक साथ काम करते हैं। mRNA DNA से आनुवंशिक कोड ले जाता है, tRNA एमिनो एसिड लाता है, और rRNA राइबोसोम का हिस्सा बनाता है जहां प्रोटीन संश्लेषण होता है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "What is the role of mutation in speciation?",
+      "hindi": "जातियों के विकास में उत्परिवर्तन की क्या भूमिका है?"
+    },
+    "option": {
+      "english": [
+        "No role",
+        "Minor role",
+        "Major role",
+        "Creates new species"
+      ],
+      "hindi": [
+        "कोई भूमिका नहीं",
+        "छोटी भूमिका",
+        "बड़ी भूमिका",
+        "नई प्रजाति बनाना"
+      ]
+    },
+    "answer": 3,
+    "explanation": {
+      "english": "Mutations create changes in DNA, leading to new traits. When these changes accumulate over time and the organisms become very different from their ancestors, new species can form. This is how mutation helps create new species.",
+      "hindi": "उत्परिवर्तन DNA में परिवर्तन करता है, जिससे नए लक्षण उत्पन्न होते हैं। जब ये परिवर्तन समय के साथ एकत्रित होते हैं और जीव अपने पूर्वजों से बहुत अलग हो जाते हैं, तो नई प्रजातियां बन सकती हैं। इस तरह उत्परिवर्तन नई प्रजातियों के निर्माण में मदद करता है।"
+    },
+    "image": null,
+    "medium": "medium"
+  },
+  {
+    "question_name": {
+      "english": "According to Mendel's law of dominance, when a pure tall pea plant is crossed with a pure dwarf pea plant, what will be the phenotype of F1 generation?",
+      "hindi": "मेंडल के प्रभाविता के नियम के अनुसार, जब एक शुद्ध लंबे मटर के पौधे को शुद्ध बौने मटर के पौधे के साथ क्रॉस किया जाता है, तो F1 पीढ़ी का फीनोटाइप क्या होगा?"
+    },
+    "option": {
+      "english": [
+        "All dwarf plants",
+        "50% tall and 50% dwarf",
+        "All tall plants",
+        "75% tall and 25% dwarf"
+      ],
+      "hindi": [
+        "सभी बौने पौधे",
+        "50% लंबे और 50% बौने",
+        "सभी लंबे पौधे",
+        "75% लंबे और 25% बौने"
+      ]
+    },
+    "answer": 2,
+    "explanation": {
+      "english": "According to Mendel's law of dominance, in F1 generation, only dominant trait appears. Since tall (T) is dominant over dwarf (t), when pure tall (TT) is crossed with pure dwarf (tt), all F1 plants will have genotype Tt and show tall phenotype.",
+      "hindi": "मेंडल के प्रभाविता के नियम के अनुसार, F1 पीढ़ी में केवल प्रभावी लक्षण दिखाई देता है। चूंकि लंबा (T) बौने (t) पर प्रभावी है, जब शुद्ध लंबे (TT) को शुद्ध बौने (tt) के साथ क्रॉस किया जाता है, तो सभी F1 पौधों का जीनोटाइप Tt होगा और वे लंबे फीनोटाइप को प्रदर्शित करेंगे।"
+    },
+    "image": null,
+    "medium": "hard"
+  },
+  {
+    "question_name": {
+      "english": "In a cross between yellow and green pea seeds, if yellow is dominant, what proportion of F2 generation will show the recessive green color trait?",
+      "hindi": "पीले और हरे मटर के बीजों के क्रॉस में, यदि पीला प्रभावी है, तो F2 पीढ़ी में कितने अनुपात में अप्रभावी हरा रंग का लक्षण दिखाई देगा?"
+    },
+    "option": {
+      "english": [
+        "All seeds green",
+        "1/4 seeds green",
+        "1/2 seeds green",
+        "3/4 seeds green"
+      ],
+      "hindi": [
+        "सभी बीज हरे",
+        "1/4 बीज हरे",
+        "1/2 बीज हरे",
+        "3/4 बीज हरे"
+      ]
+    },
+    "answer": 1,
+    "explanation": {
+      "english": "In F2 generation, the ratio of dominant to recessive trait is 3:1. Since yellow (Y) is dominant over green (y), when F1 plants (Yy) are self-pollinated, F2 generation will show 3/4 yellow seeds (YY, Yy) and 1/4 green seeds (yy).",
+      "hindi": "F2 पीढ़ी में, प्रभावी और अप्रभावी लक्षण का अनुपात 3:1 होता है। चूंकि पीला (Y) हरे (y) पर प्रभावी है, जब F1 पौधों (Yy) का स्व-परागण होता है, तो F2 पीढ़ी में 3/4 पीले बीज (YY, Yy) और 1/4 हरे बीज (yy) होंगे।"
+    },
+    "image": null,
+    "medium": "hard"
+  }
+]

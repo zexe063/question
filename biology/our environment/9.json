@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What is the role of carbon cycle?",
-        "hindi": "कार्बन चक्र की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "Water movement",
-          "Carbon balance",
-          "Nitrogen fixing",
-          "Oxygen production"
-        ],
-        "hindi": [
-          "जल गति",
-          "कार्बन संतुलन",
-          "नाइट्रोजन स्थिरीकरण",
-          "ऑक्सीजन उत्पादन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Which chemical causes water pollution?",
+      "hindi": "कौन सा रसायन जल प्रदूषण का कारण बनता है?"
     },
+    "option": {
+      "english": [
+        "Pure water",
+        "Heavy metals",
+        "Clean water",
+        "Normal water"
+      ],
+      "hindi": [
+        "शुद्ध जल",
+        "भारी धातुएं",
+        "स्वच्छ जल",
+        "सामान्य जल"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Heavy metals like lead, mercury and arsenic are harmful chemicals that cause water pollution. When these metals enter water bodies through industrial waste and mining, they make water toxic. They can harm human health, aquatic life and cannot be removed easily from water.",
+      "hindi": "सीसा, पारा और आर्सेनिक जैसी भारी धातुएं हानिकारक रसायन हैं जो जल प्रदूषण का कारण बनती हैं। जब ये धातुएं औद्योगिक कचरे और खनन के माध्यम से जल में प्रवेश करती हैं, तो वे पानी को विषाक्त बना देती हैं। ये मानव स्वास्थ्य और जलीय जीवन को नुकसान पहुंचा सकती हैं और इन्हें पानी से आसानी से नहीं हटाया जा सकता।"
+    }
+  },
     {
       "question_name": {
         "english": "What is the impact of desertification?",
@@ -43,54 +47,66 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Desertification causes land degradation by turning fertile land into desert-like areas. It happens due to overgrazing, deforestation and climate change. The soil loses its fertility, plants can't grow, and the land becomes useless for farming. This affects food production and people's livelihoods.",
+        "hindi": "मरुस्थलीकरण उपजाऊ भूमि को रेगिस्तान जैसे क्षेत्रों में बदलकर भूमि को नष्ट करता है। यह अति-चराई, वनों की कटाई और जलवायु परिवर्तन के कारण होता है। मिट्टी अपनी उर्वरता खो देती है, पौधे नहीं उग सकते, और भूमि खेती के लिए बेकार हो जाती है। इससे खाद्य उत्पादन और लोगों की आजीविका प्रभावित होती है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the function of wetlands?",
-        "hindi": "आर्द्रभूमि का क्या कार्य है?"
+        "english": "What is the impact of soil salinity?",
+        "hindi": "मृदा लवणता का क्या प्रभाव है?"
       },
       "option": {
         "english": [
-          "Water storage",
-          "Land filling",
-          "Water filtration",
-          "Water removal"
+          "Better growth",
+          "Good crops",
+          "Reduced fertility",
+          "More yield"
         ],
         "hindi": [
-          "जल भंडारण",
-          "भूमि भराव",
-          "जल छनन",
-          "जल निकासी"
+          "बेहतर वृद्धि",
+          "अच्छी फसलें",
+          "कम उर्वरता",
+          "अधिक उपज"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "Soil salinity reduces soil fertility by increasing salt content in soil. Too much salt makes it hard for plants to absorb water and nutrients. This leads to poor plant growth and reduced crop yields. It commonly occurs due to poor irrigation practices and seawater intrusion in coastal areas.",
+        "hindi": "मृदा लवणता मिट्टी में नमक की मात्रा बढ़ाकर मिट्टी की उर्वरता को कम करती है। अधिक नमक पौधों के लिए पानी और पोषक तत्वों को अवशोषित करना कठिन बना देता है। इससे पौधों की कमजोर वृद्धि और फसल उपज में कमी आती है। यह आमतौर पर खराब सिंचाई प्रथाओं और तटीय क्षेत्रों में समुद्री जल के प्रवेश के कारण होता है।"
+      }
     },
-    {
-      "question_name": {
-        "english": "Which gas helps in ozone formation?",
-        "hindi": "कौन सी गैस ओजोन निर्माण में मदद करती है?"
-      },
-      "option": {
+  {
+    "question_name": {
+        "english": "What is the main source of carbon dioxide in carbon cycle?",
+        "hindi": "कार्बन चक्र में कार्बन डाइऑक्साइड का मुख्य स्रोत क्या है?"
+    },
+    "option": {
         "english": [
-          "Oxygen",
-          "Nitrogen",
-          "Carbon dioxide",
-          "Hydrogen"
+          "Respiration",
+            "Plant growth",
+            "Water cycle",
+            "Nitrogen fixing"
         ],
         "hindi": [
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+            "श्वसन",
+            "पौधों की वृद्धि",
+            "जल चक्र",
+            "नाइट्रोजन स्थिरीकरण"
         ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
     },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Respiration is the main source of carbon dioxide in the carbon cycle. During respiration, living organisms break down glucose using oxygen to release energy, producing carbon dioxide as a waste product. This process happens in all living things - humans, animals, plants and even microscopic organisms.",
+      "hindi": "श्वसन कार्बन चक्र में कार्बन डाइऑक्साइड का मुख्य स्रोत है। श्वसन के दौरान, जीव ऊर्जा प्राप्त करने के लिए ऑक्सीजन का उपयोग करके ग्लूकोज को तोड़ते हैं, जिससे अपशिष्ट उत्पाद के रूप में कार्बन डाइऑक्साइड बनती है। यह प्रक्रिया सभी जीवों - मनुष्यों, जानवरों, पौधों और यहां तक कि सूक्ष्म जीवों में भी होती है।"
+    }
+},
     {
       "question_name": {
         "english": "What is the purpose of afforestation?",
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Afforestation means planting trees in areas where there were no trees before. It helps prevent soil erosion, increases rainfall, provides habitat for wildlife and reduces air pollution. Trees also absorb carbon dioxide and help fight climate change. It's an important way to protect our environment.",
+        "hindi": "वनरोपण का अर्थ है उन क्षेत्रों में पेड़ लगाना जहां पहले पेड़ नहीं थे। यह मिट्टी के कटाव को रोकता है, वर्षा बढ़ाता है, वन्यजीवों के लिए आवास प्रदान करता है और वायु प्रदूषण को कम करता है। पेड़ कार्बन डाइऑक्साइड को भी अवशोषित करते हैं और जलवायु परिवर्तन से लड़ने में मदद करते हैं। यह हमारे पर्यावरण की रक्षा का एक महत्वपूर्ण तरीका है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "An ecological pyramid shows how energy flows through an ecosystem. It has producers (plants) at the base and consumers at higher levels. Each level has less energy than the one below because some energy is lost as heat when passed from one level to another. This helps us understand food chains and energy transfer in nature.",
+        "hindi": "पारिस्थितिक पिरामिड दिखाता है कि एक पारिस्थितिकी तंत्र में ऊर्जा कैसे प्रवाहित होती है। इसके आधार में उत्पादक (पौधे) और ऊपरी स्तरों पर उपभोक्ता होते हैं। प्रत्येक स्तर में नीचे के स्तर की तुलना में कम ऊर्जा होती है क्योंकि एक स्तर से दूसरे स्तर तक जाने में कुछ ऊर्जा ऊष्मा के रूप में खो जाती है। यह हमें प्रकृति में खाद्य श्रृंखला और ऊर्जा हस्तांतरण को समझने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Light pollution disrupts natural day-night cycles of living things. Too much artificial light at night confuses animals about their sleeping and feeding times. It affects bird migration, disturbs nocturnal animals, and makes it hard to see stars. In humans, it can disturb sleep patterns and affect health.",
+        "hindi": "प्रकाश प्रदूषण जीवों के प्राकृतिक दिन-रात चक्र को बाधित करता है। रात में बहुत अधिक कृत्रिम प्रकाश जानवरों को उनके सोने और भोजन के समय के बारे में भ्रमित करता है। यह पक्षियों के प्रवास को प्रभावित करता है, रात्रिचर जानवरों को परेशान करता है, और तारों को देखना मुश्किल बनाता है। मनुष्यों में, यह नींद के पैटर्न को बाधित कर सकता है और स्वास्थ्य को प्रभावित कर सकता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Neem extract is a natural pesticide made from neem tree leaves and seeds. It repels and controls many harmful insects but is safe for humans and beneficial insects like bees. Unlike chemical pesticides, it's biodegradable and doesn't harm the environment. It's widely used in organic farming.",
+        "hindi": "नीम अर्क नीम के पेड़ की पत्तियों और बीजों से बना एक प्राकृतिक कीटनाशक है। यह कई हानिकारक कीड़ों को भगाता और नियंत्रित करता है लेकिन मनुष्यों और मधुमक्खियों जैसे लाभदायक कीड़ों के लिए सुरक्षित है। रासायनिक कीटनाशकों के विपरीत, यह जैव-निम्नीकरण योग्य है और पर्यावरण को नुकसान नहीं पहुंचाता। इसका उपयोग जैविक खेती में व्यापक रूप से किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Endemic species are unique to a particular area and contribute to biodiversity. They have adapted to specific local conditions over many years. For example, the Indian Giant Squirrel is found only in India. These species make each region's ecosystem special and their loss can't be replaced.",
+        "hindi": "स्थानिक प्रजातियां किसी विशेष क्षेत्र के लिए अद्वितीय होती हैं और जैव विविधता में योगदान करती हैं। ये कई वर्षों में विशिष्ट स्थानीय परिस्थितियों के अनुकूल हो गई हैं। उदाहरण के लिए, भारतीय विशाल गिलहरी केवल भारत में पाई जाती है। ये प्रजातियां प्रत्येक क्षेत्र के पारिस्थितिकी तंत्र को विशेष बनाती हैं और इनकी हानि की भरपाई नहीं की जा सकती।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "An ecological niche is the specific role or job of a species in its ecosystem. It includes what the species eats, where it lives, when it's active, and how it interacts with other species. For example, a woodpecker's niche includes eating insects from tree bark and making nest holes that other birds can later use.",
+        "hindi": "पारिस्थितिक निकेत एक पारिस्थितिकी तंत्र में किसी प्रजाति की विशिष्ट भूमिका या कार्य है। इसमें शामिल है कि प्रजाति क्या खाती है, कहां रहती है, कब सक्रिय होती है, और अन्य प्रजातियों के साथ कैसे संवाद करती है। उदाहरण के लिए, कठफोड़वा का निकेत पेड़ की छाल से कीड़े खाना और घोंसले के छेद बनाना है जिनका उपयोग बाद में अन्य पक्षी कर सकते हैं।"
+      }
     }
   ]

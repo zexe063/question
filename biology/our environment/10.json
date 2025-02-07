@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "Which gas is essential for photosynthesis?",
-        "hindi": "प्रकाश संश्लेषण के लिए कौन सी गैस आवश्यक है?"
-      },
-      "option": {
+  {
+    "question_name": {
+        "english": "What happens to photosynthesis rate in high CO2 conditions?",
+        "hindi": "उच्च CO2 स्थितियों में प्रकाश संश्लेषण दर का क्या होता है?"
+    },
+    "option": {
         "english": [
-          "Carbon dioxide",
-          "Nitrogen",
-          "Hydrogen",
-          "Helium"
+            "Increases then plateaus",
+            "Continuously decreases",
+            "No change",
+            "Always increases"
         ],
         "hindi": [
-          "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
-          "हाइड्रोजन",
-          "हीलियम"
+            "बढ़ती है फिर स्थिर होती है",
+            "लगातार घटती है",
+            "कोई परिवर्तन नहीं",
+            "हमेशा बढ़ती है"
         ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
     },
+    "answer": 0,
+    "explanation": {
+      "english": "When CO2 levels increase, plants initially photosynthesize faster as more CO2 is available. However, after reaching a certain point, the rate levels off because other factors like light and water become limiting. This is why the rate increases and then plateaus instead of increasing continuously.",
+      "hindi": "जब CO2 का स्तर बढ़ता है, पौधे शुरू में तेजी से प्रकाश संश्लेषण करते हैं क्योंकि अधिक CO2 उपलब्ध होता है। हालांकि, एक निश्चित बिंदु तक पहुंचने के बाद, दर स्थिर हो जाती है क्योंकि प्रकाश और पानी जैसे अन्य कारक सीमित हो जाते हैं। इसलिए दर बढ़ती है और फिर स्थिर हो जाती है, लगातार नहीं बढ़ती।"
+    },
+    "image": null,
+    "medium": "easy"
+},
     {
       "question_name": {
         "english": "What is the role of pollinators?",
@@ -42,29 +46,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Pollinators like bees, butterflies, and birds help plants reproduce by transferring pollen from one flower to another. When they visit flowers for nectar, pollen sticks to their bodies and gets carried to other flowers. This process of pollination allows plants to produce seeds and fruits.",
+        "hindi": "मधुमक्खियां, तितलियां और पक्षी जैसे परागणक एक फूल से दूसरे फूल तक पराग को स्थानांतरित करके पौधों के प्रजनन में मदद करते हैं। जब वे मकरंद के लिए फूलों पर जाते हैं, पराग उनके शरीर से चिपक जाता है और अन्य फूलों तक पहुंच जाता है। परागण की यह प्रक्रिया पौधों को बीज और फल उत्पन्न करने में सक्षम बनाती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the effect of acid rain?",
-        "hindi": "अम्ल वर्षा का क्या प्रभाव है?"
+        "english": "What is pollution control board?",
+        "hindi": "प्रदूषण नियंत्रण बोर्ड क्या है?"
       },
       "option": {
         "english": [
-          "Plant growth",
-          "Soil health",
-          "Clean water",
-          "Environmental damage"
+          "Normal office",
+          "Simple board",
+          "Just name",
+          "Regulatory body"
         ],
         "hindi": [
-          "पौधों की वृद्धि",
-          "मिट्टी का स्वास्थ्य",
-          "स्वच्छ जल",
-          "पर्यावरण क्षति"
+          "सामान्य कार्यालय",
+          "साधारण बोर्ड",
+          "केवल नाम",
+          "नियामक निकाय"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "The Pollution Control Board is a government body that monitors and controls environmental pollution. It sets rules for industries and checks air and water quality. It can take action against those who cause pollution and works to protect our environment from harmful pollutants.",
+        "hindi": "प्रदूषण नियंत्रण बोर्ड एक सरकारी निकाय है जो पर्यावरण प्रदूषण की निगरानी और नियंत्रण करता है। यह उद्योगों के लिए नियम बनाता है और वायु और जल की गुणवत्ता की जांच करता है। यह प्रदूषण फैलाने वालों के खिलाफ कार्रवाई कर सकता है और हानिकारक प्रदूषकों से हमारे पर्यावरण की रक्षा के लिए काम करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,32 +100,40 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Bioremediation is a natural way to clean up pollution using living organisms like bacteria and plants. These organisms break down or remove harmful substances from soil and water. For example, some bacteria can clean up oil spills by eating the oil. It's an eco-friendly method of pollution cleanup.",
+        "hindi": "जैव उपचार बैक्टीरिया और पौधों जैसे जीवित जीवों का उपयोग करके प्रदूषण को साफ करने का एक प्राकृतिक तरीका है। ये जीव मिट्टी और पानी से हानिकारक पदार्थों को तोड़ते या हटाते हैं। उदाहरण के लिए, कुछ बैक्टीरिया तेल को खाकर तेल रिसाव को साफ कर सकते हैं। यह प्रदूषण सफाई का एक पर्यावरण अनुकूल तरीका है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which is a biodegradable material?",
-        "hindi": "जैव-निम्नीकरणीय पदार्थ कौन सा है?"
+          "english": "What is integrated waste management?",
+          "hindi": "एकीकृत अपशिष्ट प्रबंधन क्या है?"
       },
       "option": {
-        "english": [
-          "Paper",
-          "Plastic",
-          "Metal",
-          "Glass"
-        ],
-        "hindi": [
-          "कागज",
-          "प्लास्टिक",
-          "धातु",
-          "कांच"
-        ]
+          "english": [
+            "Multiple methods combined",
+              "Only recycling",
+              "Only landfill",
+              "Only composting"
+          ],
+          "hindi": [
+            "कई विधियों का संयोजन",
+              "केवल पुनर्चक्रण",
+              "केवल लैंडफिल",
+              "केवल कम्पोस्टिंग"
+          ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Integrated waste management combines different methods to handle waste effectively. It includes recycling, composting, landfill, and waste reduction. Using multiple methods together helps manage different types of waste properly and reduces environmental impact better than using just one method.",
+        "hindi": "एकीकृत अपशिष्ट प्रबंधन कचरे को प्रभावी ढंग से संभालने के लिए विभिन्न तरीकों को जोड़ता है। इसमें पुनर्चक्रण, कम्पोस्टिंग, लैंडफिल और कचरा कम करना शामिल है। कई तरीकों को एक साथ उपयोग करने से विभिन्न प्रकार के कचरे का उचित प्रबंधन होता है और केवल एक विधि के उपयोग की तुलना में पर्यावरण पर प्रभाव कम होता है।"
+      },
       "image": null,
       "medium": "easy"
-    },
+  },
     {
       "question_name": {
         "english": "What is the impact of overfishing?",
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Overfishing means catching fish faster than they can reproduce. This leads to declining fish populations and can cause species to become extinct. When too many fish are removed, it disrupts the marine food chain and damages ocean ecosystems. Some fish species may disappear forever if overfishing continues.",
+        "hindi": "अति-मत्स्यन का मतलब है मछलियों को उनके प्रजनन की गति से तेज पकड़ना। इससे मछलियों की आबादी घटती है और प्रजातियां विलुप्त हो सकती हैं। जब बहुत अधिक मछलियां निकाली जाती हैं, तो यह समुद्री खाद्य श्रृंखला को बाधित करता है और महासागर पारिस्थितिकी तंत्र को नुकसान पहुंचाता है। अति-मत्स्यन जारी रहने पर कुछ मछली प्रजातियां हमेशा के लिए समाप्त हो सकती हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Organic farming is a natural method of growing crops without chemical fertilizers and pesticides. It uses natural fertilizers like compost and manure, and natural pest control methods. This farming method is better for soil health, produces healthier food, and protects the environment from harmful chemicals.",
+        "hindi": "जैविक खेती रासायनिक उर्वरकों और कीटनाशकों के बिना फसलें उगाने का एक प्राकृतिक तरीका है। इसमें खाद और गोबर जैसे प्राकृतिक उर्वरकों का उपयोग किया जाता है, और कीट नियंत्रण के प्राकृतिक तरीके अपनाए जाते हैं। यह खेती का तरीका मिट्टी के स्वास्थ्य के लिए बेहतर है, स्वस्थ भोजन पैदा करता है, और पर्यावरण को हानिकारक रसायनों से बचाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Green belts are areas of trees and plants around cities or industrial areas that help control pollution. Trees in green belts filter dust and harmful gases from the air, reduce noise pollution, and provide clean air. They act as natural air purifiers and help maintain environmental balance.",
+        "hindi": "हरित पट्टियां शहरों या औद्योगिक क्षेत्रों के आसपास पेड़ों और पौधों के क्षेत्र हैं जो प्रदूषण को नियंत्रित करने में मदद करते हैं। हरित पट्टी के पेड़ हवा से धूल और हानिकारक गैसों को छानते हैं, ध्वनि प्रदूषण को कम करते हैं, और स्वच्छ हवा प्रदान करते हैं। वे प्राकृतिक वायु शोधक के रूप में कार्य करते हैं और पर्यावरण संतुलन बनाए रखने में मदद करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Forests are natural carbon sinks because trees absorb carbon dioxide from the air during photosynthesis. They store this carbon in their wood, leaves, and roots. This helps reduce greenhouse gases in the atmosphere. Unlike factories, vehicles, or buildings which release carbon, forests help remove it from the air.",
+        "hindi": "जंगल प्राकृतिक कार्बन सिंक हैं क्योंकि पेड़ प्रकाश संश्लेषण के दौरान हवा से कार्बन डाइऑक्साइड को अवशोषित करते हैं। वे इस कार्बन को अपनी लकड़ी, पत्तियों और जड़ों में संग्रहित करते हैं। यह वातावरण में ग्रीनहाउस गैसों को कम करने में मदद करता है। कारखानों, वाहनों या इमारतों के विपरीत जो कार्बन छोड़ते हैं, जंगल इसे हवा से हटाने में मदद करते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Habitat loss occurs when natural areas where animals live are destroyed or changed. When animals lose their homes, they can't find food, shelter, or safe places to raise their young. This leads to declining animal populations and some species may become extinct. For example, when forests are cut down, many birds and animals lose their homes.",
+        "hindi": "आवास हानि तब होती है जब जानवरों के रहने वाले प्राकृतिक क्षेत्र नष्ट या बदल दिए जाते हैं। जब जानवर अपना घर खो देते हैं, तो वे भोजन, आश्रय, या अपने बच्चों को पालने के लिए सुरक्षित स्थान नहीं ढूंढ पाते। इससे जानवरों की आबादी घटती है और कुछ प्रजातियां विलुप्त हो सकती हैं। उदाहरण के लिए, जब जंगल काटे जाते हैं, तो कई पक्षी और जानवर अपना घर खो देते हैं।"
+      },
       "image": null,
       "medium": "hard"
     }

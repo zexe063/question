@@ -1,50 +1,58 @@
 [
-    {
-      "question_name": {
-        "english": "What is food chain?",
-        "hindi": "खाद्य श्रृंखला क्या है?"
-      },
-      "option": {
-        "english": [
-          "Random eating",
-          "No pattern",
-          "Energy transfer",
-          "Just eating"
-        ],
-        "hindi": [
-          "यादृच्छिक भोजन",
-          "कोई पैटर्न नहीं",
-          "ऊर्जा स्थानांतरण",
-          "केवल खाना"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is smog?",
+      "hindi": "धुंध क्या है?"
     },
-    {
-      "question_name": {
-        "english": "Which gas is needed for respiration?",
-        "hindi": "श्वसन के लिए किस गैस की आवश्यकता होती है?"
-      },
-      "option": {
-        "english": [
-          "Oxygen",
-          "Nitrogen",
-          "Carbon dioxide",
-          "Hydrogen"
-        ],
-        "hindi": [
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Clean air",
+        "Pure fog",
+        "Smoke + fog",
+        "Water vapor"
+      ],
+      "hindi": [
+        "स्वच्छ वायु",
+        "शुद्ध कोहरा",
+        "धुआं + कोहरा",
+        "जल वाष्प"
+      ]
     },
+    "explanation": {
+      "english": "Smog is a type of air pollution formed by mixing smoke and fog. It is commonly seen in big cities due to vehicle emissions and industrial pollution. Smog reduces visibility and can cause breathing problems.",
+      "hindi": "धुंध वायु प्रदूषण का एक प्रकार है जो धुएं और कोहरे के मिश्रण से बनता है। यह बड़े शहरों में वाहनों के धुएं और औद्योगिक प्रदूषण के कारण आम तौर पर देखा जाता है। धुंध दृश्यता को कम करती है और सांस लेने में समस्याएं पैदा कर सकती है।"
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy"
+  },
+  {
+    "question_name": {
+      "english": "Why do CFCs damage the ozone layer?",
+      "hindi": "सीएफसी ओजोन परत को क्यों नुकसान पहुंचाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Break down ozone molecules",
+        "Add ozone molecules",
+        "No effect on ozone",
+        "Strengthen ozone layer"
+      ],
+      "hindi": [
+        "ओजोन अणुओं को तोड़ते हैं",
+        "ओजोन अणु जोड़ते हैं",
+        "ओजोन पर कोई प्रभाव नहीं",
+        "ओजोन परत को मजबूत करते हैं"
+      ]
+    },
+    "explanation": {
+      "english": "CFCs (Chlorofluorocarbons) break down ozone molecules in the stratosphere. When CFC molecules reach the ozone layer, UV rays break them down, releasing chlorine atoms. These chlorine atoms destroy ozone molecules, creating holes in the ozone layer that let harmful UV radiation reach Earth.",
+      "hindi": "सीएफसी (क्लोरोफ्लोरोकार्बन) समताप मंडल में ओजोन अणुओं को तोड़ते हैं। जब सीएफसी अणु ओजोन परत तक पहुंचते हैं, पराबैंगनी किरणें उन्हें तोड़ देती हैं, जिससे क्लोरीन परमाणु निकलते हैं। ये क्लोरीन परमाणु ओजोन अणुओं को नष्ट कर देते हैं, जिससे ओजोन परत में छेद बन जाते हैं जो हानिकारक पराबैंगनी विकिरण को पृथ्वी तक पहुंचने देते हैं।"
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy"
+  },
     {
       "question_name": {
         "english": "What is the role of forests?",
@@ -64,28 +72,36 @@
           "खाली स्थान"
         ]
       },
+      "explanation": {
+        "english": "Forests play a crucial role in maintaining environmental balance. They produce oxygen, absorb carbon dioxide, prevent soil erosion, provide habitat to wildlife, maintain the water cycle, and help in rainfall. They are often called the 'lungs of Earth' because they produce oxygen we need to breathe.",
+        "hindi": "जंगल पर्यावरण संतुलन बनाए रखने में महत्वपूर्ण भूमिका निभाते हैं। वे ऑक्सीजन उत्पन्न करते हैं, कार्बन डाइऑक्साइड को अवशोषित करते हैं, मिट्टी के कटाव को रोकते हैं, वन्यजीवों को आवास प्रदान करते हैं, जल चक्र को बनाए रखते हैं, और वर्षा में मदद करते हैं। उन्हें अक्सर 'पृथ्वी के फेफड़े' कहा जाता है क्योंकि वे हमारे सांस लेने के लिए आवश्यक ऑक्सीजन उत्पन्न करते हैं।"
+      },
       "answer": 1,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the effect of water pollution?",
-        "hindi": "जल प्रदूषण का क्या प्रभाव है?"
+        "english": "Why are food webs more stable than food chains?",
+        "hindi": "खाद्य जाल खाद्य श्रृंखलाओं से अधिक स्थिर क्यों होते हैं?"
       },
       "option": {
         "english": [
-          "Clean water",
-          "Better health",
-          "Good aquatic life",
-          "Health hazards"
+          "Less energy flow",
+          "Single food source",
+          "No decomposers",
+           "Multiple feeding relationships"
         ],
         "hindi": [
-          "स्वच्छ जल",
-          "बेहतर स्वास्थ्य",
-          "अच्छा जलीय जीवन",
-          "स्वास्थ्य खतरे"
+          "कम ऊर्जा प्रवाह",
+          "एकल खाद्य स्रोत",
+          "कोई अपघटक नहीं",
+          "बहु आहार संबंध"
         ]
+      },
+      "explanation": {
+        "english": "Food webs are more stable because they have multiple interconnected feeding relationships. If one species becomes scarce, organisms can feed on alternative food sources. This makes the ecosystem more resilient compared to a simple food chain where each species depends on just one food source.",
+        "hindi": "खाद्य जाल अधिक स्थिर होते हैं क्योंकि उनमें कई परस्पर जुड़े आहार संबंध होते हैं। यदि एक प्रजाति दुर्लभ हो जाती है, तो जीव वैकल्पिक भोजन स्रोतों पर निर्भर हो सकते हैं। यह पारिस्थितिकी तंत्र को सरल खाद्य श्रृंखला की तुलना में अधिक लचीला बनाता है जहां प्रत्येक प्रजाति केवल एक भोजन स्रोत पर निर्भर होती है।"
       },
       "answer": 3,
       "image": null,
@@ -100,15 +116,19 @@
         "english": [
           "Habitat destruction",
           "No protection",
-          "Habitat protection",
+            "Habitat protection",
           "Habitat removal"
         ],
         "hindi": [
           "आवास विनाश",
           "कोई संरक्षण नहीं",
-          "आवास संरक्षण",
+           "आवास संरक्षण",
           "आवास निष्कासन"
         ]
+      },
+      "explanation": {
+        "english": "Habitat conservation means protecting natural areas where plants and animals live. It involves preserving forests, wetlands, grasslands and other ecosystems from destruction. This helps maintain biodiversity and ensures survival of different species in their natural environment.",
+        "hindi": "आवास संरक्षण का अर्थ है पौधों और जानवरों के रहने के प्राकृतिक क्षेत्रों की रक्षा करना। इसमें जंगलों, आर्द्रभूमि, घास के मैदानों और अन्य पारिस्थितिक तंत्रों को नष्ट होने से बचाना शामिल है। यह जैव विविधता को बनाए रखने और विभिन्न प्रजातियों के उनके प्राकृतिक वातावरण में जीवित रहने को सुनिश्चित करने में मदद करता है।"
       },
       "answer": 2,
       "image": null,
@@ -133,28 +153,36 @@
           "यादृच्छिक तकनीक"
         ]
       },
+      "explanation": {
+        "english": "Green technology refers to environment-friendly technologies that cause minimal harm to nature. Examples include solar panels, wind turbines, and electric vehicles. These technologies help reduce pollution, conserve natural resources, and fight climate change by using renewable energy sources.",
+        "hindi": "हरित प्रौद्योगिकी का अर्थ है ऐसी पर्यावरण अनुकूल तकनीकें जो प्रकृति को न्यूनतम नुकसान पहुंचाती हैं। इसके उदाहरण हैं सौर पैनल, पवन टरबाइन और इलेक्ट्रिक वाहन। ये तकनीकें नवीकरणीय ऊर्जा स्रोतों का उपयोग करके प्रदूषण को कम करने, प्राकृतिक संसाधनों का संरक्षण करने और जलवायु परिवर्तन से लड़ने में मदद करती हैं।"
+      },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which is a natural resource?",
-        "hindi": "प्राकृतिक संसाधन कौन सा है?"
+        "english": "Why is waste segregation important for the environment?",
+        "hindi": "कचरे का पृथक्करण पर्यावरण के लिए क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Water",
-          "Plastic",
-          "Factory",
-          "Machine"
+          "Enables proper recycling",
+          "Makes waste collection easier",
+          "Reduces landfill space",
+          "Looks organized"
         ],
         "hindi": [
-          "जल",
-          "प्लास्टिक",
-          "कारखाना",
-          "मशीन"
+          "उचित पुनर्चक्रण को सक्षम करता है", 
+          "कचरा संग्रह आसान बनाता है",
+          "लैंडफिल स्थान कम करता है",
+          "व्यवस्थित दिखता है"
         ]
+      },
+      "explanation": {
+        "english": "Waste segregation means separating different types of waste like wet waste (food), dry waste (paper, plastic), and hazardous waste. This separation makes recycling easier and more effective. It reduces pollution, saves resources, and helps create useful products from waste materials instead of them ending up in landfills.",
+        "hindi": "कचरे का पृथक्करण का मतलब है विभिन्न प्रकार के कचरे जैसे गीला कचरा (भोजन), सूखा कचरा (कागज, प्लास्टिक), और खतरनाक कचरे को अलग करना। यह अलगाव पुनर्चक्रण को आसान और अधिक प्रभावी बनाता है। यह प्रदूषण को कम करता है, संसाधनों की बचत करता है, और कचरे को लैंडफिल में जाने के बजाय उससे उपयोगी उत्पाद बनाने में मदद करता है।"
       },
       "answer": 0,
       "image": null,
@@ -179,28 +207,36 @@
           "पर्यावरणीय तनाव"
         ]
       },
+      "explanation": {
+        "english": "Industrialization causes environmental stress through air pollution from factory emissions, water pollution from industrial waste, and soil pollution from chemical dumping. It leads to deforestation, increases greenhouse gases causing global warming, and affects human health through various respiratory and other diseases.",
+        "hindi": "औद्योगीकरण कारखानों से निकलने वाले धुएं से वायु प्रदूषण, औद्योगिक कचरे से जल प्रदूषण, और रासायनिक कचरे से मिट्टी प्रदूषण के माध्यम से पर्यावरणीय तनाव पैदा करता है। यह वनों की कटाई का कारण बनता है, ग्रीनहाउस गैसों को बढ़ाकर ग्लोबल वार्मिंग का कारण बनता है, और विभिन्न श्वसन और अन्य बीमारियों के माध्यम से मानव स्वास्थ्य को प्रभावित करता है।"
+      },
       "answer": 3,
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is ecological succession?",
-        "hindi": "पारिस्थितिक अनुक्रमण क्या है?"
+        "english": "Why is lithosphere important for life on Earth?",
+        "hindi": "पृथ्वी पर जीवन के लिए स्थलमंडल क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "No change",
-          "Random change",
-          "Gradual change",
-          "Sudden change"
+          "Only provides minerals",
+          "Only supports plants",
+          "Provides habitat and resources",
+          "Only stores water"
         ],
         "hindi": [
-          "कोई परिवर्तन नहीं",
-          "यादृच्छिक परिवर्तन",
-          "क्रमिक परिवर्तन",
-          "अचानक परिवर्तन"
+          "केवल खनिज प्रदान करता है",
+          "केवल पौधों को सहारा देता है", 
+          "आवास और संसाधन प्रदान करता है",
+          "केवल पानी संग्रहित करता है"
         ]
+      },
+      "explanation": {
+        "english": "The lithosphere (Earth's crust) is essential as it provides land for habitation, soil for agriculture, minerals for resources, and supports all terrestrial life. It works with other spheres (hydrosphere, atmosphere) to maintain Earth's ecosystems and provides the foundation for all land-based life forms.",
+        "hindi": "स्थलमंडल (पृथ्वी की परत) आवश्यक है क्योंकि यह निवास के लिए भूमि, कृषि के लिए मिट्टी, संसाधनों के लिए खनिज प्रदान करता है, और सभी स्थलीय जीवन को सहारा देता है। यह पृथ्वी के पारिस्थितिक तंत्र को बनाए रखने के लिए अन्य मंडलों (जलमंडल, वायुमंडल) के साथ काम करता है और सभी स्थल-आधारित जीवन रूपों के लिए आधार प्रदान करता है।"
       },
       "answer": 2,
       "image": null,
@@ -208,22 +244,26 @@
     },
     {
       "question_name": {
-        "english": "What is sustainable development?",
-        "hindi": "सतत विकास क्या है?"
+        "english": "Why are pesticides harmful to the environment?",
+        "hindi": "कीटनाशक पर्यावरण के लिए हानिकारक क्यों हैं?"
       },
       "option": {
         "english": [
-          "Rapid growth",
-          "Balanced growth",
-          "No growth",
-          "Harmful growth"
+          "They only kill pests",
+          "They affect entire food chain",
+          "They are natural",
+          "They are biodegradable"
         ],
         "hindi": [
-          "तीव्र विकास",
-          "संतुलित विकास",
-          "कोई विकास नहीं",
-          "हानिकारक विकास"
+          "वे केवल कीड़ों को मारते हैं",
+          "वे पूरी खाद्य श्रृंखला को प्रभावित करते हैं",
+          "वे प्राकृतिक हैं",
+          "वे जैव-निम्नीकरणीय हैं"
         ]
+      },
+      "explanation": {
+        "english": "Pesticides harm the environment by affecting the entire food chain. They not only kill harmful insects but also beneficial ones like bees and butterflies. These chemicals can contaminate soil and water, harm birds and animals that eat affected insects, and eventually affect human health through food contamination.",
+        "hindi": "कीटनाशक पूरी खाद्य श्रृंखला को प्रभावित करके पर्यावरण को नुकसान पहुंचाते हैं। वे न केवल हानिकारक कीड़ों को मारते हैं बल्कि मधुमक्खियों और तितलियों जैसे लाभदायक कीड़ों को भी मारते हैं। ये रसायन मिट्टी और पानी को दूषित कर सकते हैं, प्रभावित कीड़ों को खाने वाले पक्षियों और जानवरों को नुकसान पहुंचा सकते हैं, और अंततः भोजन के दूषित होने से मानव स्वास्थ्य को प्रभावित करते हैं।"
       },
       "answer": 1,
       "image": null,

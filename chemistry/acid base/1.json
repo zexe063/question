@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Green",
-          "Red",
+          "Red", 
           "Blue",
           "Black"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Litmus paper is a natural indicator that changes color in different solutions. In acidic solutions, blue litmus paper turns red. This is a simple way to test if a solution is acidic.",
+        "hindi": "लिटमस पेपर एक प्राकृतिक सूचक है जो विभिन्न विलयनों में रंग बदलता है। अम्लीय विलयन में नीला लिटमस पेपर लाल हो जाता है। यह किसी विलयन के अम्लीय होने की जांच का एक सरल तरीका है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Calcium oxide (lime) is a basic substance that neutralizes acidic soil. When lime is added to acidic soil, it reacts with the acid and makes the soil neutral, which is better for plant growth.",
+        "hindi": "कैल्शियम ऑक्साइड (चूना) एक क्षारीय पदार्थ है जो अम्लीय मिट्टी को उदासीन करता है। जब अम्लीय मिट्टी में चूना मिलाया जाता है, तो यह अम्ल से क्रिया करके मिट्टी को उदासीन बनाता है, जो पौधों की वृद्धि के लिए बेहतर होता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Car batteries contain sulfuric acid (H₂SO₄). This strong acid helps in producing electricity through chemical reactions with lead plates in the battery. The acid acts as an electrolyte.",
+        "hindi": "कार की बैटरी में सल्फ्यूरिक एसिड (H₂SO₄) होता है। यह प्रबल अम्ल बैटरी में लेड प्लेटों के साथ रासायनिक अभिक्रिया द्वारा बिजली उत्पन्न करने में मदद करता है। यह अम्ल विद्युत अपघट्य का काम करता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Pure water has a pH of 7, which means it is neutral - neither acidic nor basic. The pH scale goes from 0 to 14, where values below 7 are acidic and above 7 are basic.",
+        "hindi": "शुद्ध जल का pH 7 होता है, जिसका मतलब है कि यह उदासीन है - न तो अम्लीय और न ही क्षारीय। pH मापक 0 से 14 तक होता है, जहां 7 से कम मान अम्लीय और 7 से ऊपर क्षारीय होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Magnesium hydroxide (Mg(OH)₂) is commonly used as an antacid. It neutralizes excess stomach acid (HCl) by the reaction: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O, providing relief from acidity.",
+        "hindi": "मैग्नीशियम हाइड्रॉक्साइड (Mg(OH)₂) आमतौर पर एंटासिड के रूप में प्रयोग किया जाता है। यह पेट के अतिरिक्त अम्ल (HCl) को इस अभिक्रिया द्वारा उदासीन करता है: Mg(OH)₂ + 2HCl → MgCl₂ + 2H₂O, जो अम्लता से राहत प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When acids react with metals, hydrogen gas is produced. For example, when zinc reacts with hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂↑. The bubbles we see during this reaction are of hydrogen gas.",
+        "hindi": "जब अम्ल धातुओं से क्रिया करते हैं, तो हाइड्रोजन गैस उत्पन्न होती है। उदाहरण के लिए, जब जिंक हाइड्रोक्लोरिक अम्ल से क्रिया करता है: Zn + 2HCl → ZnCl₂ + H₂↑। इस अभिक्रिया के दौरान दिखने वाले बुलबुले हाइड्रोजन गैस के होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ammonium chloride (NH₄Cl) gives an acidic solution in water. When dissolved, NH₄⁺ ions react with water to produce H⁺ ions: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, making the solution acidic.",
+        "hindi": "अमोनियम क्लोराइड (NH₄Cl) जल में अम्लीय विलयन देता है। घुलने पर, NH₄⁺ आयन जल से क्रिया करके H⁺ आयन बनाते हैं: NH₄⁺ + H₂O ⇌ NH₃ + H₃O⁺, जो विलयन को अम्लीय बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Soap solution is basic in nature because soaps are made from strong bases like NaOH. When dissolved in water, soap forms OH⁻ ions, making the solution basic. This is why soap feels slippery to touch.",
+        "hindi": "साबुन का घोल क्षारीय प्रकृति का होता है क्योंकि साबुन NaOH जैसे प्रबल क्षारों से बनाया जाता है। जल में घुलने पर, साबुन OH⁻ आयन बनाता है, जो विलयन को क्षारीय बनाता है। इसीलिए साबुन छूने पर फिसलन महसूस होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Neutralization is a reaction between an acid and a base to form salt and water. NaOH (base) + HCl (acid) → NaCl (salt) + H₂O (water) is a perfect example of neutralization where the product is neutral.",
+        "hindi": "उदासीनीकरण एक अम्ल और क्षार के बीच की अभिक्रिया है जिससे लवण और जल बनता है। NaOH (क्षार) + HCl (अम्ल) → NaCl (लवण) + H₂O (जल) उदासीनीकरण का एक उत्तम उदाहरण है जहां उत्पाद उदासीन होता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "pH = -log[H⁺]. When pH is 2, [H⁺] = 10⁻² M. Remember: as pH decreases by 1, H⁺ concentration increases by 10 times. Lower pH means higher H⁺ concentration.",
+        "hindi": "pH = -log[H⁺]। जब pH 2 है, तब [H⁺] = 10⁻² M होता है। याद रखें: जब pH 1 से घटता है, H⁺ सांद्रता 10 गुना बढ़ जाती है। कम pH का मतलब H⁺ की अधिक सांद्रता है।"
+      }
     }
 ]

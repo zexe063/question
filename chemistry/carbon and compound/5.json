@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Methane (CH₄) is the main component of natural gas. It is the simplest hydrocarbon with one carbon atom bonded to four hydrogen atoms. Natural gas used in homes for cooking contains about 85-95% methane.",
+        "hindi": "मीथेन (CH₄) प्राकृतिक गैस का मुख्य घटक है। यह सबसे सरल हाइड्रोकार्बन है जिसमें एक कार्बन परमाणु चार हाइड्रोजन परमाणुओं से जुड़ा होता है। घरों में खाना पकाने के लिए प्रयोग की जाने वाली प्राकृतिक गैस में लगभग 85-95% मीथेन होता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ethylene glycol is used as antifreeze in car radiators because it lowers the freezing point of water and raises its boiling point. This prevents the water from freezing in winter and boiling in summer, protecting the car's engine.",
+        "hindi": "एथिलीन ग्लाइकॉल का उपयोग कार रेडिएटर में एंटीफ्रीज के रूप में किया जाता है क्योंकि यह पानी का हिमांक कम कर देता है और क्वथनांक बढ़ा देता है। यह सर्दियों में पानी को जमने से और गर्मियों में उबलने से रोकता है, जिससे कार का इंजन सुरक्षित रहता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Pure ethanol (C₂H₅OH) contains 52.2% carbon by mass. This can be calculated by finding the mass of carbon atoms (24) divided by total molecular mass of ethanol (46) multiplied by 100.",
+        "hindi": "शुद्ध एथेनॉल (C₂H₅OH) में द्रव्यमान के अनुसार 52.2% कार्बन होता है। यह कार्बन परमाणुओं के द्रव्यमान (24) को एथेनॉल के कुल आण्विक द्रव्यमान (46) से विभाजित करके और 100 से गुणा करके प्राप्त किया जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When ethanoic acid (CH₃COOH) reacts with sodium bicarbonate (NaHCO₃), it forms sodium acetate (CH₃COONa) and carbon dioxide (CO₂) gas along with water (H₂O). The bubbling of CO₂ gas can be seen during the reaction. This is similar to the fizz produced when vinegar is added to baking soda.",
+        "hindi": "जब एथेनोइक अम्ल (CH₃COOH) सोडियम बाइकार्बोनेट (NaHCO₃) से क्रिया करता है, तो सोडियम एसीटेट (CH₃COONa) और कार्बन डाइऑक्साइड (CO₂) गैस के साथ जल (H₂O) बनता है। अभिक्रिया के दौरान CO₂ गैस के बुलबुले देखे जा सकते हैं। यह उस फिज़ के समान है जो सिरके को बेकिंग सोडा में डालने पर उत्पन्न होती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Acetic acid (CH₃COOH) or ethanoic acid is present in vinegar. Vinegar contains about 5-8% acetic acid in water. It gives vinegar its sour taste and pungent smell. This acid is formed by the fermentation of ethanol by bacteria.",
+        "hindi": "सिरके में एसीटिक अम्ल (CH₃COOH) या एथेनोइक अम्ल पाया जाता है। सिरके में लगभग 5-8% एसीटिक अम्ल पानी में घुला होता है। यह सिरके को खट्टा स्वाद और तीखी गंध प्रदान करता है। यह अम्ल बैक्टीरिया द्वारा एथेनॉल के किण्वन से बनता है।"
+      }
     },
     {
       "question_name": {
@@ -123,19 +143,23 @@
         "english": [
           "Oxidizing agent",
           "Reducing agent",
-          "Catalyst",
-          "Dehydrating agent"
+          "Dehydrating agent",
+          "Catalyst"
         ],
         "hindi": [
           "ऑक्सीकारक",
           "अपचायक",
-          "उत्प्रेरक",
-          "निर्जलीकारक"
+          "निर्जलीकारक",
+          "उत्प्रेरक"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In esterification reaction (reaction between carboxylic acid and alcohol), concentrated H₂SO₄ acts as a catalyst. It speeds up the reaction without being consumed. For example, in the formation of ethyl acetate from ethanol and acetic acid, H₂SO₄ helps the reaction occur faster.",
+        "hindi": "एस्टरीकरण अभिक्रिया (कार्बोक्सिलिक अम्ल और अल्कोहल के बीच अभिक्रिया) में, सांद्र H₂SO₄ उत्प्रेरक की भूमिका निभाता है। यह बिना खपत हुए अभिक्रिया को तेज करता है। उदाहरण के लिए, एथेनॉल और एसीटिक अम्ल से एथिल एसीटेट के निर्माण में, H₂SO₄ अभिक्रिया को तेजी से होने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
+          "Methane",
           "Butane",
           "Propane",
-          "Ethane",
-          "Methane"
+          "Ethane"
         ],
         "hindi": [
+          "मीथेन",
           "ब्यूटेन",
           "प्रोपेन",
-          "एथेन",
-          "मीथेन"
+          "एथेन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Methane (CH₄) has the lowest boiling point (-161.5°C) among these hydrocarbons. This is because methane has the smallest molecular size and weakest intermolecular forces. As the number of carbon atoms increases, the boiling point also increases due to stronger intermolecular forces.",
+        "hindi": "इन हाइड्रोकार्बन में मीथेन (CH₄) का क्वथनांक सबसे कम (-161.5°C) होता है। ऐसा इसलिए है क्योंकि मीथेन का आण्विक आकार सबसे छोटा है और अंतर-आण्विक बल सबसे कमजोर हैं। जैसे-जैसे कार्बन परमाणुओं की संख्या बढ़ती है, अंतर-आण्विक बल मजबूत होने के कारण क्वथनांक भी बढ़ता जाता है।"
+      }
     },
     {
       "question_name": {
@@ -169,19 +197,23 @@
         "english": [
           "Ionic bond",
           "Single bond",
-          "Resonating bond",
-          "Van der Waals"
+          "Covalent bonds",
+          "Resonating bond"
         ],
         "hindi": [
           "आयनिक बंध",
           "एकल बंध",
-          "अनुनाद बंध",
-          "वान डर वाल्स"
+          "सहसंयोजक आबंध",
+          "अनुनाद बंध"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Graphite layers contain covalent bonds between carbon atoms. Each carbon atom is bonded to three other carbon atoms in a hexagonal pattern forming sheets. These sheets are held together by weak van der Waals forces, which makes graphite soft and slippery.",
+        "hindi": "ग्रेफाइट की परतों में कार्बन परमाणुओं के बीच सहसंयोजक बंध पाए जाते हैं। प्रत्येक कार्बन परमाणु षट्कोणीय पैटर्न में तीन अन्य कार्बन परमाणुओं से जुड़ा होता है जो परतें बनाते हैं। ये परतें कमजोर वैन डर वाल्स बलों द्वारा एक साथ जुड़ी होती हैं, जिससे ग्रेफाइट नरम और फिसलन होता है।"
+      }
     },
     {
       "question_name": {
@@ -204,29 +236,37 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The IUPAC name of CH₃-CH₂-CH₂-OH is 1-propanol. In IUPAC naming, we first identify the longest carbon chain (propane here), then add the suffix '-ol' for alcohol group. Since the -OH group is on carbon number 1, it becomes 1-propanol.",
+        "hindi": "CH₃-CH₂-CH₂-OH का IUPAC नाम 1-प्रोपेनॉल है। IUPAC नामकरण में, हम पहले सबसे लंबी कार्बन श्रृंखला की पहचान करते हैं (यहाँ प्रोपेन), फिर अल्कोहल समूह के लिए '-ऑल' प्रत्यय जोड़ते हैं। चूंकि -OH समूह कार्बन संख्या 1 पर है, इसलिए यह 1-प्रोपेनॉल बन जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which mechanism is involved in addition of HBr to ethene?",
-        "hindi": "एथीन में HBr के योग की क्रियाविधि क्या है?"
+        "english": "Why are haloalkanes more reactive than alkanes?",
+        "hindi": "हैलोएल्केन एल्केन की तुलना में अधिक क्रियाशील क्यों होते हैं?"
       },
       "option": {
         "english": [
-          "SN¹ mechanism",
-          "SN² mechanism",
-          "Free radical",
-          "Electrophilic addition"
+          "Due to presence of halogen atom",
+          "Due to presence of carbon-halogen bond",
+          "Due to electronegativity of halogen",
+          "Due to polarity of carbon-halogen bond"
         ],
         "hindi": [
-          "SN¹ क्रियाविधि",
-          "SN² क्रियाविधि",
-          "मुक्त मूलक",
-          "इलेक्ट्रॉनस्नेही योग"
+          "हैलोजन परमाणु की उपस्थिति के कारण",
+          "कार्बन-हैलोजन बंध की उपस्थिति के कारण", 
+          "हैलोजन की विद्युत ऋणात्मकता के कारण",
+          "कार्बन-हैलोजन बंध की ध्रुवीयता के कारण"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Haloalkanes are more reactive than alkanes because of the polarity of the carbon-halogen bond. Halogen atoms are more electronegative than carbon, creating a polar bond. This makes the carbon slightly positive and the halogen slightly negative, making it easier for other reagents to attack and react.",
+        "hindi": "हैलोएल्केन एल्केन की तुलना में अधिक क्रियाशील होते हैं क्योंकि कार्बन-हैलोजन बंध ध्रुवीय होता है। हैलोजन परमाणु कार्बन की तुलना में अधिक विद्युत ऋणात्मक होते हैं, जो एक ध्रुवीय बंध बनाते हैं। इससे कार्बन थोड़ा धनात्मक और हैलोजन थोड़ा ऋणात्मक हो जाता है, जिससे अन्य अभिकर्मकों के लिए आक्रमण करना और अभिक्रिया करना आसान हो जाता है।"
+      }
     }
 ]

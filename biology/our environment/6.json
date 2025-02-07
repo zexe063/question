@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What is the primary source of energy in food chains?",
-        "hindi": "खाद्य श्रृंखलाओं में ऊर्जा का प्राथमिक स्रोत क्या है?"
-      },
-      "option": {
+  {
+    "question_name": {
+        "english": "What happens to energy at each trophic level?",
+        "hindi": "प्रत्येक पोषी स्तर पर ऊर्जा का क्या होता है?"
+    },
+    "option": {
         "english": [
-          "Sun",
-          "Moon",
-          "Earth",
-          "Wind"
+            "Decreases by 90%",
+            "Increases", 
+            "Stays same",
+            "Doubles"
         ],
         "hindi": [
-          "सूर्य",
-          "चंद्रमा",
-          "पृथ्वी",
-          "वायु"
+            "90% कम होती है",
+            "बढ़ती है",
+            "समान रहती है", 
+            "दोगुनी होती है"
         ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
     },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "At each trophic level in a food chain, about 90% of energy is lost as heat and in life processes. Only 10% energy is transferred to the next level. For example, if plants have 1000 joules of energy, herbivores will get only 100 joules, and carnivores will get just 10 joules.",
+      "hindi": "खाद्य श्रृंखला में प्रत्येक पोषी स्तर पर लगभग 90% ऊर्जा ऊष्मा और जीवन प्रक्रियाओं में नष्ट हो जाती है। केवल 10% ऊर्जा अगले स्तर पर स्थानांतरित होती है। उदाहरण के लिए, यदि पौधों में 1000 जूल ऊर्जा है, तो शाकाहारी को केवल 100 जूल और मांसाहारी को केवल 10 जूल मिलेगी।"
+    }
+  },
     {
       "question_name": {
         "english": "What is the role of decomposers in nutrient cycling?",
@@ -43,31 +47,39 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Decomposers like bacteria and fungi break down dead plants and animals into simple nutrients. These nutrients return to the soil and are reused by plants. Without decomposers, dead matter would pile up and nutrients would be locked away, making them unavailable for new life.",
+        "hindi": "बैक्टीरिया और कवक जैसे अपघटक मृत पौधों और जानवरों को सरल पोषक तत्वों में तोड़ते हैं। ये पोषक तत्व मिट्टी में वापस लौट जाते हैं और पौधों द्वारा पुन: उपयोग किए जाते हैं। अपघटकों के बिना, मृत पदार्थ जमा हो जाएंगे और पोषक तत्व बंद हो जाएंगे, जिससे वे नए जीवन के लिए अनुपलब्ध हो जाएंगे।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the impact of greenhouse effect?",
-        "hindi": "ग्रीनहाउस प्रभाव का क्या प्रभाव है?"
+          "english": "What is a greenhouse gas mitigation strategy?",
+          "hindi": "ग्रीनहाउस गैस न्यूनीकरण रणनीति क्या है?"
       },
       "option": {
-        "english": [
-          "Cooling Earth",
-          "No effect",
-          "Normal temperature",
-          "Global warming"
-        ],
-        "hindi": [
-          "पृथ्वी का ठंडा होना",
-          "कोई प्रभाव नहीं",
-          "सामान्य तापमान",
-          "ग्लोबल वार्मिंग"
-        ]
+          "english": [
+              "Increasing emissions",
+              "More deforestation",
+              "Using more fossil fuels",
+              "Using renewable energy"
+          ],
+          "hindi": [
+              "उत्सर्जन बढ़ाना",
+              "अधिक वनों की कटाई",
+              "अधिक जीवाश्म ईंधन का उपयोग",
+              "नवीकरणीय ऊर्जा का उपयोग"
+          ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
-    },
+      "medium": "easy",
+      "explanation": {
+        "english": "Using renewable energy like solar and wind power helps reduce greenhouse gas emissions. These clean energy sources don't release harmful gases like CO2 that cause global warming. Switching from fossil fuels to renewable energy is one of the best ways to fight climate change.",
+        "hindi": "सौर और पवन ऊर्जा जैसी नवीकरणीय ऊर्जा का उपयोग ग्रीनहाउस गैस उत्सर्जन को कम करने में मदद करता है। ये स्वच्छ ऊर्जा स्रोत CO2 जैसी हानिकारक गैसें नहीं छोड़ते जो ग्लोबल वार्मिंग का कारण बनती हैं। जीवाश्म ईंधन से नवीकरणीय ऊर्जा की ओर बढ़ना जलवायु परिवर्तन से लड़ने का सबसे अच्छा तरीका है।"
+      }
+  },
     {
       "question_name": {
         "english": "What is ecological succession?",
@@ -89,31 +101,39 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ecological succession is the gradual process by which ecosystems change over time. It starts with pioneer species colonizing bare ground, followed by more complex communities. For example, after a forest fire, first small plants grow, then shrubs, and finally trees return, creating a mature forest.",
+        "hindi": "पारिस्थितिक अनुक्रमण वह क्रमिक प्रक्रिया है जिसमें पारिस्थितिक तंत्र समय के साथ बदलते हैं। यह अग्रणी प्रजातियों द्वारा खाली जमीन पर बसने से शुरू होता है, उसके बाद अधिक जटिल समुदाय आते हैं। उदाहरण के लिए, जंगल में आग लगने के बाद, पहले छोटे पौधे उगते हैं, फिर झाड़ियां, और अंत में पेड़ वापस आते हैं, जो एक परिपक्व जंगल बनाते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas is most harmful to ozone layer?",
-        "hindi": "ओजोन परत के लिए कौन सी गैस सबसे हानिकारक है?"
+          "english": "How can we prevent ozone depletion?",
+          "hindi": "ओजोन क्षरण को कैसे रोका जा सकता है?"
       },
       "option": {
-        "english": [
-          "CFC",
-          "Oxygen",
-          "Nitrogen",
-          "Carbon dioxide"
-        ],
-        "hindi": [
-          "सीएफसी",
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड"
-        ]
+          "english": [
+              "Ban ozone-depleting substances",
+              "Use more CFCs",
+              "Increase pollution",
+              "No action needed"
+          ],
+          "hindi": [
+              "ओजोन-क्षयकारी पदार्थों पर प्रतिबंध",
+              "अधिक CFC का उपयोग",
+              "प्रदूषण बढ़ाना",
+              "कोई कार्रवाई की आवश्यकता नहीं"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
-    },
+      "medium": "medium",
+      "explanation": {
+        "english": "Ozone depletion can be prevented by banning substances like CFCs found in old refrigerators and aerosol sprays. These chemicals destroy the ozone layer which protects us from harmful UV rays. Using ozone-friendly alternatives and properly disposing of old appliances helps protect the ozone layer.",
+        "hindi": "पुराने रेफ्रिजरेटर और एरोसोल स्प्रे में पाए जाने वाले CFC जैसे पदार्थों पर प्रतिबंध लगाकर ओजोन क्षरण को रोका जा सकता है। ये रसायन ओजोन परत को नष्ट करते हैं जो हमें हानिकारक UV किरणों से बचाती है। ओजोन-अनुकूल विकल्पों का उपयोग और पुराने उपकरणों का उचित निपटान ओजोन परत की रक्षा में मदद करता है।"
+      }
+  },
     {
       "question_name": {
         "english": "What is biomagnification?",
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Biomagnification is the increase in concentration of toxic substances as they move up the food chain. For example, if water contains a small amount of mercury, it builds up in small fish, then in bigger fish that eat them, and becomes most concentrated in top predators like sharks.",
+        "hindi": "जैव आवर्धन खाद्य श्रृंखला में ऊपर जाने पर विषाक्त पदार्थों की सांद्रता में वृद्धि है। उदाहरण के लिए, यदि पानी में थोड़ी मात्रा में पारा है, तो यह छोटी मछलियों में जमा होता है, फिर उन्हें खाने वाली बड़ी मछलियों में, और शार्क जैसे शीर्ष शिकारियों में सबसे अधिक सांद्र हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Eutrophication causes excessive growth of algae in water bodies due to high nutrients from fertilizers and sewage. When these algae die and decompose, they use up oxygen, leading to fish deaths. The water becomes green and murky, harming the aquatic ecosystem.",
+        "hindi": "सुपोषण उर्वरकों और सीवेज से अधिक पोषक तत्वों के कारण जल निकायों में शैवाल की अत्यधिक वृद्धि का कारण बनता है। जब ये शैवाल मरते और सड़ते हैं, तो वे ऑक्सीजन का उपयोग करते हैं, जिससे मछलियां मर जाती हैं। पानी हरा और गंदला हो जाता है, जो जलीय पारिस्थितिकी तंत्र को नुकसान पहुंचाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Biological control uses natural enemies like predators or parasites to control pest populations instead of chemical pesticides. For example, ladybugs eat aphids that damage crops. This method is safe for the environment and doesn't leave harmful chemical residues.",
+        "hindi": "जैविक नियंत्रण रासायनिक कीटनाशकों के बजाय कीट आबादी को नियंत्रित करने के लिए शिकारी या परजीवी जैसे प्राकृतिक दुश्मनों का उपयोग करता है। उदाहरण के लिए, लेडीबग एफिड्स को खाती हैं जो फसलों को नुकसान पहुंचाते हैं। यह विधि पर्यावरण के लिए सुरक्षित है और हानिकारक रासायनिक अवशेष नहीं छोड़ती।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Oceans are Earth's largest ecosystem, covering over 70% of the planet's surface. They contain countless species from tiny plankton to huge whales. Oceans produce half of Earth's oxygen and regulate climate by absorbing heat and CO2.",
+        "hindi": "महासागर पृथ्वी का सबसे बड़ा पारिस्थितिकी तंत्र है, जो ग्रह की सतह का 70% से अधिक हिस्सा कवर करता है। इनमें छोटे प्लैंकटन से लेकर विशाल व्हेल तक असंख्य प्रजातियां पाई जाती हैं। महासागर पृथ्वी की आधी ऑक्सीजन का उत्पादन करते हैं और ऊष्मा और CO2 को अवशोषित करके जलवायु को नियंत्रित करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Keystone species play a crucial role in maintaining ecosystem balance. Like a keystone in an arch, their removal can cause the ecosystem to collapse. For example, tigers control deer populations, which in turn prevents overgrazing of plants, maintaining forest health.",
+        "hindi": "कीस्टोन प्रजातियां पारिस्थितिकी संतुलन बनाए रखने में महत्वपूर्ण भूमिका निभाती हैं। मेहराब में कीस्टोन की तरह, उनके हटने से पारिस्थितिकी तंत्र ध्वस्त हो सकता है। उदाहरण के लिए, बाघ हिरण की आबादी को नियंत्रित करते हैं, जो बदले में पौधों के अति-चराई को रोकता है, जिससे जंगल स्वस्थ रहता है।"
+      }
     }
   ]

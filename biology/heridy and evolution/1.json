@@ -1,4 +1,3 @@
-
 [
     {
       "question_name": {
@@ -8,7 +7,7 @@
       "option": {
         "english": [
           "Male",
-          "Female",
+          "Female", 
           "Can't be determined",
           "Both are possible"
         ],
@@ -20,6 +19,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "A father has XY chromosomes. When father gives X chromosome, the child will be female (XX) as mother always gives X chromosome.",
+        "hindi": "पिता में XY गुणसूत्र होते हैं। जब पिता X गुणसूत्र देता है, तो बच्ची लड़की (XX) होगी क्योंकि माँ हमेशा X गुणसूत्र देती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -43,6 +46,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Blood group is inherited from parents through genes. Weight, knowledge and language are acquired characteristics that depend on environment and learning.",
+        "hindi": "रक्त समूह माता-पिता से जीन के माध्यम से विरासत में मिलता है। वजन, ज्ञान और भाषा अर्जित विशेषताएं हैं जो वातावरण और सीखने पर निर्भर करती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -61,11 +68,15 @@
         "hindi": [
           "X गुणसूत्र",
           "अलिंग गुणसूत्र",
-          "Y गुणसूत्र",
+          "Y गुणसूत्र", 
           "X और Y दोनों"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The Y chromosome from father determines the sex of child. If Y chromosome is inherited, child will be male (XY). If X chromosome is inherited, child will be female (XX).",
+        "hindi": "पिता का Y गुणसूत्र बच्चे का लिंग निर्धारित करता है। अगर Y गुणसूत्र विरासत में मिलता है, तो बच्चा लड़का (XY) होगा। अगर X गुणसूत्र विरासत में मिलता है, तो बच्ची लड़की (XX) होगी।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -89,6 +100,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA carries genetic information and transfers characteristics from parents to offspring. It contains genes that determine our traits and features.",
+        "hindi": "DNA आनुवंशिक जानकारी ले जाता है और माता-पिता से संतान में लक्षणों का स्थानांतरण करता है। इसमें जीन होते हैं जो हमारे लक्षणों और विशेषताओं को निर्धारित करते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -112,6 +127,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "In pea plants, round seeds are dominant over wrinkled seeds. This was discovered by Mendel in his experiments. When round and wrinkled seeds are crossed, first generation shows only round seeds.",
+        "hindi": "मटर के पौधों में, गोल बीज झुर्रीदार बीजों पर प्रभावी होते हैं। मेंडल ने अपने प्रयोगों में यह खोजा था। जब गोल और झुर्रीदार बीजों को क्रॉस किया जाता है, पहली पीढ़ी में केवल गोल बीज दिखाई देते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -135,6 +154,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Humans and chimpanzees share 98.8% of their DNA. This high similarity shows our close evolutionary relationship with chimpanzees, as we shared a common ancestor.",
+        "hindi": "मनुष्यों और चिंपांजी में 98.8% DNA समान है। यह उच्च समानता चिंपांजी के साथ हमारे करीबी विकासवादी संबंध को दर्शाती है, क्योंकि हमारा एक समान पूर्वज था।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -158,6 +181,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Human males have XY sex chromosomes. They inherit X chromosome from mother and Y chromosome from father. This combination determines male characteristics.",
+        "hindi": "मानव पुरुषों में XY लिंग गुणसूत्र होते हैं। वे माँ से X गुणसूत्र और पिता से Y गुणसूत्र प्राप्त करते हैं। यह संयोजन पुरुष लक्षणों को निर्धारित करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -181,6 +208,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Variations help organisms adapt to changing environments. Those with favorable variations survive better and pass these traits to next generations, leading to evolution.",
+        "hindi": "विभिन्नताएं जीवों को बदलते वातावरण में अनुकूलन में मदद करती हैं। अनुकूल विभिन्नताओं वाले जीव बेहतर जीवित रहते हैं और इन लक्षणों को अगली पीढ़ियों में पारित करते हैं, जिससे विकास होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -204,6 +235,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Pure tall pea plant has genotype TT (homozygous dominant). Both alleles are dominant (T) for tallness. When self-pollinated, it always produces tall plants.",
+        "hindi": "शुद्ध लंबे मटर के पौधे का जीनोटाइप TT (समयुग्मजी प्रभावी) होता है। दोनों एलील लंबाई के लिए प्रभावी (T) होते हैं। स्व-परागण होने पर, यह हमेशा लंबे पौधे उत्पन्न करता है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -227,7 +262,11 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Lamarck proposed that characteristics acquired during lifetime can be passed to offspring. Example: He thought giraffes got long necks by stretching to reach leaves, and passed this trait to offspring. However, this theory is now known to be incorrect.",
+        "hindi": "लैमार्क ने प्रस्तावित किया कि जीवनकाल के दौरान प्राप्त विशेषताएं संतान को दी जा सकती हैं। उदाहरण: उन्होंने सोचा कि जिराफ़ की गर्दन पत्तियों तक पहुंचने के लिए खिंचने से लंबी हुई, और यह लक्षण संतान को दिया। हालांकि, यह सिद्धांत अब गलत माना जाता है।"
+      },
       "image": null,
       "medium": "hard"
     }
-  ]
+]

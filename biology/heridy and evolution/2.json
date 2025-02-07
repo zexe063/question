@@ -16,10 +16,14 @@
           "प्राकृतिक चयन",
           "उत्परिवर्तन",
           "अनुकूलन",
-          "जातियन"
+          "जाति विकास"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Speciation is the process by which new species develop from existing species over time. This happens when populations of the same species become isolated and evolve differently.",
+        "hindi": "जाति विकास वह प्रक्रिया है जिसके द्वारा मौजूदा प्रजातियों से समय के साथ नई प्रजातियां विकसित होती हैं। यह तब होता है जब एक ही प्रजाति की आबादी अलग-थलग हो जाती है और अलग-अलग विकसित होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -43,6 +47,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Genes are the basic units of heredity that carry information from parents to offspring. They determine our traits and are passed down through generations.",
+        "hindi": "जीन वंशानुक्रम की मूल इकाइयाँ हैं जो माता-पिता से संतान तक जानकारी ले जाती हैं। वे हमारे लक्षणों को निर्धारित करते हैं और पीढ़ियों से आगे बढ़ते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -66,6 +74,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Human body cells have 23 pairs of chromosomes (total 46). Out of these, 22 pairs are autosomes and 1 pair determines the sex of the person.",
+        "hindi": "मानव शरीर की कोशिकाओं में 23 जोड़े गुणसूत्र (कुल 46) होते हैं। इनमें से 22 जोड़े ऑटोसोम हैं और 1 जोड़ा व्यक्ति का लिंग निर्धारित करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -89,29 +101,37 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Phenotype is the physical appearance or observable characteristics of an organism. For example, your height, eye color, and hair color are all phenotypes.",
+        "hindi": "फीनोटाइप किसी जीव की शारीरिक उपस्थिति या दिखाई देने वाली विशेषताएं हैं। उदाहरण के लिए, आपकी ऊंचाई, आंखों का रंग और बालों का रंग सभी फीनोटाइप हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which human ancestor first used fire?",
-        "hindi": "किस मानव पूर्वज ने सबसे पहले आग का उपयोग किया?"
+        "english": "What is the evidence for evolution from common ancestors?",
+        "hindi": "सामान्य पूर्वजों से विकास का क्या प्रमाण है?"
       },
       "option": {
         "english": [
-          "Australopithecus",
-          "Neanderthals",
-          "Homo habilis",
-          "Homo erectus"
+          "Fossil records",
+          "Homologous organs",
+          "Embryological studies",
+          "All of these"
         ],
         "hindi": [
-          "ऑस्ट्रेलोपिथेकस",
-          "नियंडरथल",
-          "होमो हैबिलिस",
-          "होमो इरेक्टस"
+          "जीवाश्म अभिलेख",
+          "समजात अंग",
+          "भ्रूण विज्ञान अध्ययन",
+          "ये सभी"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Evolution from common ancestors is proved by multiple evidences: fossils show how species changed over time, homologous organs (like human arm and bird wing) show common ancestry, and embryos of different vertebrates look similar in early stages.",
+        "hindi": "सामान्य पूर्वजों से विकास कई प्रमाणों से सिद्ध होता है: जीवाश्म दिखाते हैं कि प्रजातियां समय के साथ कैसे बदलीं, समजात अंग (जैसे मानव की भुजा और पक्षी का पंख) सामान्य वंश दर्शाते हैं, और विभिन्न कशेरुकियों के भ्रूण प्रारंभिक अवस्था में समान दिखते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -135,6 +155,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Chromosomes are thread-like structures made of DNA that carry genes. Each chromosome contains many genes that control different traits of an organism.",
+        "hindi": "गुणसूत्र डीएनए से बने धागे जैसी संरचनाएं हैं जो जीन को वहन करती हैं। प्रत्येक गुणसूत्र में कई जीन होते हैं जो जीव के विभिन्न लक्षणों को नियंत्रित करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -158,6 +182,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "In Mendel's experiments with pea plants, the F2 generation shows a 3:1 ratio of tall to dwarf plants. This means for every 4 plants, 3 are tall and 1 is dwarf, showing dominant and recessive trait inheritance.",
+        "hindi": "मेंडल के मटर के पौधों के प्रयोगों में, F2 पीढ़ी में लंबे से बौने पौधों का अनुपात 3:1 होता है। इसका मतलब है कि हर 4 पौधों में से 3 लंबे और 1 बौना होता है, जो प्रभावी और अप्रभावी लक्षणों की वंशागति दर्शाता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -181,6 +209,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "During sexual reproduction, genes from both parents combine in unique ways. This mixing of genes creates variations in offspring, making each child unique and different from their siblings.",
+        "hindi": "लैंगिक प्रजनन के दौरान, दोनों माता-पिता के जीन अनूठे तरीकों से संयोजित होते हैं। जीनों का यह मिश्रण संतान में विभिन्नताएं पैदा करता है, जिससे प्रत्येक बच्चा अपने भाई-बहनों से अलग और विशिष्ट होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -204,6 +236,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Darwin proposed that natural selection is the main mechanism of evolution. Organisms with favorable traits survive better in their environment and pass these traits to their offspring, while those with unfavorable traits gradually disappear.",
+        "hindi": "डार्विन ने प्रस्तावित किया कि प्राकृतिक चयन विकास की मुख्य क्रियाविधि है। अनुकूल लक्षणों वाले जीव अपने वातावरण में बेहतर जीवित रहते हैं और इन लक्षणों को अपनी संतान को देते हैं, जबकि प्रतिकूल लक्षणों वाले धीरे-धीरे समाप्त हो जाते हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -214,10 +250,10 @@
       },
       "option": {
         "english": [
-          "O negative",
-          "AB positive",
-          "B negative",
-          "A positive"
+          "O Negative ",
+          "AB Positive",
+          "B Negative",
+          "A Positive"
         ],
         "hindi": [
           "O निगेटिव",
@@ -227,6 +263,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "O Negative blood type is the universal donor because it lacks A, B antigens and Rh factor. This means it can be safely given to patients of any blood group without causing a reaction.",
+        "hindi": "O निगेटिव रक्त समूह सार्वभौमिक दाता है क्योंकि इसमें A, B एंटीजन और Rh कारक नहीं होते हैं। इसका मतलब है कि इसे किसी भी रक्त समूह के रोगियों को बिना किसी प्रतिक्रिया के सुरक्षित रूप से दिया जा सकता है।"
+      },
       "image": null,
       "medium": "hard"
     }

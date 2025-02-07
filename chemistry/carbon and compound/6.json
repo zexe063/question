@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃-CH₃ (ethane) is a saturated hydrocarbon because it has only single bonds between carbon atoms. All carbon atoms have formed maximum possible single bonds with hydrogen atoms, making it saturated. Other options have double or triple bonds, making them unsaturated.",
+        "hindi": "CH₃-CH₃ (एथेन) एक संतृप्त हाइड्रोकार्बन है क्योंकि इसमें कार्बन परमाणुओं के बीच केवल एकल बंध हैं। सभी कार्बन परमाणुओं ने हाइड्रोजन परमाणुओं के साथ अधिकतम संभव एकल बंध बनाए हैं, जो इसे संतृप्त बनाता है। अन्य विकल्पों में द्विबंध या त्रिबंध हैं, जो उन्हें असंतृप्त बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -29,21 +33,25 @@
       },
       "option": {
         "english": [
-          "Micelle formation",
           "Hydrolysis",
+          "Micelle formation",
           "Oxidation",
           "Reduction"
         ],
         "hindi": [
-          "मिसेल निर्माण",
           "जल-अपघटन",
+          "मिसेल निर्माण",
           "ऑक्सीकरण",
           "अपचयन"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Soap molecules form micelles around dirt particles. The hydrophobic (water-hating) part of soap attaches to dirt/oil, while the hydrophilic (water-loving) part faces water. This micelle formation helps remove dirt from clothes by suspending it in water.",
+        "hindi": "साबुन के अणु गंदगी के कणों के चारों ओर मिसेल बनाते हैं। साबुन का जल-विकर्षी भाग गंदगी/तेल से जुड़ता है, जबकि जल-अनुरागी भाग पानी की ओर होता है। यह मिसेल निर्माण गंदगी को पानी में निलंबित करके कपड़ों से हटाने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When ethanoic acid (CH₃COOH) reacts with sodium hydroxide (NaOH), it forms sodium ethanoate (CH₃COONa) and water (H₂O). This is a neutralization reaction where acid and base combine to form salt and water. The equation is: CH₃COOH + NaOH → CH₃COONa + H₂O",
+        "hindi": "जब एथेनोइक अम्ल (CH₃COOH) सोडियम हाइड्रॉक्साइड (NaOH) से क्रिया करता है, तो सोडियम एथेनोएट (CH₃COONa) और जल (H₂O) बनता है। यह एक उदासीनीकरण अभिक्रिया है जहां अम्ल और क्षार मिलकर लवण और जल बनाते हैं। समीकरण है: CH₃COOH + NaOH → CH₃COONa + H₂O"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon has 4 valence electrons in its outermost shell. To achieve stability (octet configuration), it needs to share these 4 electrons with other atoms rather than losing or gaining electrons. This sharing of electrons leads to the formation of covalent bonds.",
+        "hindi": "कार्बन के बाह्यतम कक्ष में 4 संयोजी इलेक्ट्रॉन होते हैं। स्थायित्व (अष्टक विन्यास) प्राप्त करने के लिए, इसे इलेक्ट्रॉन खोने या प्राप्त करने के बजाय इन 4 इलेक्ट्रॉनों को अन्य परमाणुओं के साथ साझा करना पड़ता है। इलेक्ट्रॉनों का यह साझाकरण सहसंयोजी बंध बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When ethanol (CH₃CH₂OH) burns in air, it undergoes complete combustion to form carbon dioxide (CO₂) and water vapor (H₂O). The reaction is: CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O. CO₂ is the main gaseous product of this combustion reaction.",
+        "hindi": "जब एथेनॉल (CH₃CH₂OH) वायु में जलता है, तो यह पूर्ण दहन से कार्बन डाइऑक्साइड (CO₂) और जल वाष्प (H₂O) बनाता है। अभिक्रिया है: CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O। CO₂ इस दहन अभिक्रिया का मुख्य गैसीय उत्पाद है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Soaps and detergents differ in their chemical structure. Soaps are sodium or potassium salts of long-chain fatty acids, while detergents are sodium salts of sulphonic acids. Due to this difference, detergents work better in hard water compared to soaps.",
+        "hindi": "साबुन और डिटर्जेंट की रासायनिक संरचना अलग होती है। साबुन लंबी श्रृंखला वाले वसीय अम्लों के सोडियम या पोटैशियम लवण होते हैं, जबकि डिटर्जेंट सल्फोनिक अम्लों के सोडियम लवण होते हैं। इस अंतर के कारण, डिटर्जेंट कठोर जल में साबुन की तुलना में बेहतर काम करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -146,19 +170,23 @@
         "english": [
           "Due to high pH",
           "Due to low solubility",
-          "Due to partial ionization",
-          "Due to high boiling point"
+          "Due to high boiling point",
+          "Due to partial ionization"
         ],
         "hindi": [
           "उच्च pH के कारण",
           "कम घुलनशीलता के कारण",
-          "आंशिक आयनीकरण के कारण",
-          "उच्च क्वथनांक के कारण"
+          "उच्च क्वथनांक के कारण",
+          "आंशिक आयनीकरण के कारण"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanoic acid is a weak acid because it undergoes partial ionization in water. Only a small fraction of ethanoic acid molecules break into H⁺ and CH₃COO⁻ ions in water. This partial ionization results in fewer H⁺ ions in solution, making it a weak acid.",
+        "hindi": "एथेनोइक अम्ल एक दुर्बल अम्ल है क्योंकि यह जल में आंशिक आयनीकरण करता है। एथेनोइक अम्ल के केवल कुछ अणु ही जल में H⁺ और CH₃COO⁻ आयनों में टूटते हैं। इस आंशिक आयनीकरण के कारण विलयन में कम H⁺ आयन होते हैं, जो इसे एक दुर्बल अम्ल बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Hydroxyl",
           "Carboxyl",
+          "Hydroxyl",
           "Carbonyl",
           "Amino"
         ],
         "hindi": [
-          "हाइड्रॉक्सिल",
           "कार्बोक्सिल",
+          "हाइड्रॉक्सिल",
           "कार्बोनिल",
           "एमीनो"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanol (CH₃CH₂OH) contains the hydroxyl group (-OH) as its functional group. This -OH group gives ethanol its characteristic properties like ability to form hydrogen bonds, making it soluble in water and giving it a relatively high boiling point for its size.",
+        "hindi": "एथेनॉल (CH₃CH₂OH) में हाइड्रॉक्सिल समूह (-OH) क्रियात्मक समूह के रूप में मौजूद है। यह -OH समूह एथेनॉल को इसके विशिष्ट गुण प्रदान करता है जैसे हाइड्रोजन बंध बनाने की क्षमता, जो इसे जल में घुलनशील बनाता है और इसके आकार के अनुसार अपेक्षाकृत उच्च क्वथनांक प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -190,21 +222,25 @@
       },
       "option": {
         "english": [
+          "Looks like ice crystals",
           "Due to low melting point",
           "Due to high melting point",
-          "Looks like ice crystals",
           "Found in glaciers"
         ],
         "hindi": [
+          "बर्फ के क्रिस्टल जैसा दिखता है",
           "निम्न गलनांक के कारण",
           "उच्च गलनांक के कारण",
-          "बर्फ के क्रिस्टल जैसा दिखता है",
           "हिमनदों में पाया जाता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Pure acetic acid is called glacial acetic acid because it forms ice-like crystals at room temperature (16.6°C). When pure acetic acid freezes, it looks like ice or glacier, hence the name. This crystalline appearance is due to the strong hydrogen bonding between acetic acid molecules.",
+        "hindi": "शुद्ध एसीटिक अम्ल को हिमीय एसीटिक अम्ल कहा जाता है क्योंकि यह कमरे के तापमान (16.6°C) पर बर्फ जैसे क्रिस्टल बनाता है। जब शुद्ध एसीटिक अम्ल जमता है, तो यह बर्फ या हिमनद की तरह दिखता है, इसलिए यह नाम पड़ा। यह क्रिस्टलीय रूप एसीटिक अम्ल अणुओं के बीच मजबूत हाइड्रोजन बंधन के कारण होता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Carbon forms chains due to catenation - the ability to form bonds with other carbon atoms. Carbon can form strong single, double, or triple bonds with other carbon atoms, leading to long chains and rings. This unique property of carbon makes it form millions of compounds.",
+        "hindi": "कार्बन श्रृंखलन के कारण श्रृंखलाएं बनाता है - यह अन्य कार्बन परमाणुओं के साथ बंध बनाने की क्षमता है। कार्बन अन्य कार्बन परमाणुओं के साथ मजबूत एकल, द्विबंध या त्रिबंध बना सकता है, जिससे लंबी श्रृंखलाएं और वलय बनते हैं। कार्बन का यह विशिष्ट गुण इसे लाखों यौगिक बनाने में सक्षम बनाता है।"
+      }
     }
 ]

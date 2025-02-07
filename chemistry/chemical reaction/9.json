@@ -8,7 +8,7 @@
         "english": [
           "No role",
           "Transferred",
-          "Created",
+          "Created", 
           "Destroyed"
         ],
         "hindi": [
@@ -20,30 +20,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "In redox reactions, electrons are transferred from one substance to another. The substance that loses electrons is oxidized (oxidation) and the substance that gains electrons is reduced (reduction). For example, when iron reacts with oxygen to form rust: Fe → Fe²⁺ + 2e⁻ (oxidation) and O₂ + 4e⁻ → 2O²⁻ (reduction).",
+        "hindi": "रेडॉक्स अभिक्रियाओं में, इलेक्ट्रॉन एक पदार्थ से दूसरे पदार्थ में स्थानांतरित होते हैं। जो पदार्थ इलेक्ट्रॉन खोता है वह ऑक्सीकृत होता है (ऑक्सीकरण) और जो पदार्थ इलेक्ट्रॉन प्राप्त करता है वह अपचयित होता है (अपचयन)। उदाहरण के लिए, जब लोहा ऑक्सीजन से अभिक्रिया करके जंग बनाता है: Fe → Fe²⁺ + 2e⁻ (ऑक्सीकरण) और O₂ + 4e⁻ → 2O²⁻ (अपचयन)।"
+      }
     },
     {
       "question_name": {
-        "english": "What happens in a nuclear reaction?",
-        "hindi": "नाभिकीय अभिक्रिया में क्या होता है?"
+        "english": "Why does the temperature drop in an endothermic reaction?",
+        "hindi": "ऊष्माशोषी अभिक्रिया में तापमान क्यों गिरता है?"
       },
       "option": {
         "english": [
-          "Electron change",
-          "Proton change",
-          "No change",
-          "Nucleus changes"
+          "Heat is released to surroundings",
+          "No energy change occurs",
+          "Light is produced",
+          "Heat is absorbed from surroundings"
         ],
         "hindi": [
-          "इलेक्ट्रॉन परिवर्तन",
-          "प्रोटॉन परिवर्तन",
-          "कोई परिवर्तन नहीं",
-          "नाभिक परिवर्तन"
+          "परिवेश में ऊष्मा मुक्त होती है",
+          "कोई ऊर्जा परिवर्तन नहीं होता",
+          "प्रकाश उत्पन्न होता है",
+          "परिवेश से ऊष्मा अवशोषित होती है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "In an endothermic reaction, heat energy is absorbed from the surroundings, causing the temperature to drop. A common example is the dissolving of ammonium nitrate in water, which is used in instant cold packs. When NH₄NO₃ dissolves in water, it takes heat from surroundings, making the solution and surroundings colder.",
+        "hindi": "ऊष्माशोषी अभिक्रिया में, ऊष्मा ऊर्जा परिवेश से अवशोषित होती है, जिससे तापमान गिर जाता है। एक सामान्य उदाहरण है पानी में अमोनियम नाइट्रेट का घुलना, जिसका उपयोग तत्काल ठंडे पैक में किया जाता है। जब NH₄NO₃ पानी में घुलता है, तो यह परिवेश से ऊष्मा लेता है, जिससे घोल और परिवेश ठंडा हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -66,53 +74,65 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fuel cells involve electrochemical reactions where chemical energy is directly converted into electrical energy. For example, in a hydrogen fuel cell, hydrogen gas reacts with oxygen to produce electricity and water: 2H₂ + O₂ → 2H₂O + electrical energy. This is a clean energy source as it only produces water as a byproduct.",
+        "hindi": "ईंधन सेल में विद्युत रासायनिक अभिक्रियाएं होती हैं जहां रासायनिक ऊर्जा सीधे विद्युत ऊर्जा में परिवर्तित होती है। उदाहरण के लिए, हाइड्रोजन ईंधन सेल में, हाइड्रोजन गैस ऑक्सीजन से अभिक्रिया करके बिजली और पानी बनाती है: 2H₂ + O₂ → 2H₂O + विद्युत ऊर्जा। यह एक स्वच्छ ऊर्जा स्रोत है क्योंकि यह उप-उत्पाद के रूप में केवल पानी उत्पन्न करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which equation shows Contact process?",
-        "hindi": "संपर्क प्रक्रिया को कौन सा समीकरण दर्शाता है?"
+        "english": "Why is respiration considered an exothermic process?",
+        "hindi": "श्वसन को ऊष्माक्षेपी प्रक्रिया क्यों माना जाता है?"
       },
       "option": {
         "english": [
-          "2SO₂ + O₂ ⇌ 2SO₃",
-          "SO₂ + O₂ → SO₃",
-          "2SO₂ → SO₃ + O₂",
-          "SO₂ + O → SO₃"
+          "It releases energy",
+          "It absorbs heat",
+          "It produces oxygen",
+          "It occurs in mitochondria"
         ],
         "hindi": [
-          "2SO₂ + O₂ ⇌ 2SO₃",
-          "SO₂ + O₂ → SO₃",
-          "2SO₂ → SO₃ + O₂",
-          "SO₂ + O → SO₃"
+          "यह ऊर्जा मुक्त करता है",
+          "यह ऊष्मा अवशोषित करता है",
+          "यह ऑक्सीजन उत्पन्न करता है",
+          "यह माइटोकॉन्ड्रिया में होता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "Respiration is an exothermic process because it releases energy in the form of heat. During cellular respiration, glucose reacts with oxygen to produce energy, carbon dioxide and water: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy. This released energy helps maintain our body temperature at 37°C.",
+        "hindi": "श्वसन एक ऊष्माक्षेपी प्रक्रिया है क्योंकि यह ऊष्मा के रूप में ऊर्जा मुक्त करती है। कोशिकीय श्वसन के दौरान, ग्लूकोज ऑक्सीजन से अभिक्रिया करके ऊर्जा, कार्बन डाइऑक्साइड और पानी बनाता है: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ऊर्जा। यह मुक्त ऊर्जा हमारे शरीर के तापमान को 37°C पर बनाए रखने में मदद करती है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of enzymes in biological reactions?",
-        "hindi": "जैविक अभिक्रियाओं में एंजाइमों की क्या भूमिका है?"
+        "english": "Why is electrolysis used to extract aluminum from bauxite?",
+        "hindi": "बॉक्साइट से एल्युमिनियम निकालने के लिए विद्युत अपघटन का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "Reactant",
-          "Biocatalyst",
-          "Product",
-          "Inhibitor"
+          "Aluminum is highly reactive",
+          "A and C",
+          "Aluminum oxide has high melting point",
+          "Bauxite is insoluble in water"
         ],
         "hindi": [
-          "अभिकारक",
-          "जैव-उत्प्रेरक",
-          "उत्पाद",
-          "निरोधक"
+          "एल्युमिनियम अत्यधिक अभिक्रियाशील है",
+          "A और C",
+          "एल्युमिनियम ऑक्साइड का गलनांक उच्च होता है",
+          "बॉक्साइट जल में अघुलनशील होता है"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Electrolysis is used to extract aluminum because: 1) Aluminum is highly reactive and cannot be extracted by reduction with carbon, and 2) Aluminum oxide has a very high melting point (2000°C). Electrolysis allows us to extract pure aluminum from molten aluminum oxide at lower temperatures using electricity.",
+        "hindi": "एल्युमिनियम निकालने के लिए विद्युत अपघटन का उपयोग किया जाता है क्योंकि: 1) एल्युमिनियम अत्यधिक अभिक्रियाशील है और कार्बन से अपचयन द्वारा नहीं निकाला जा सकता, और 2) एल्युमिनियम ऑक्साइड का गलनांक बहुत उच्च (2000°C) होता है। विद्युत अपघटन हमें बिजली का उपयोग करके कम तापमान पर पिघले हुए एल्युमिनियम ऑक्साइड से शुद्ध एल्युमिनियम निकालने की अनुमति देता है।"
+      }
     },
     {
       "question_name": {
@@ -135,76 +155,92 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Nitrogen fixation is a biochemical reaction where atmospheric nitrogen (N₂) is converted into nitrogen compounds useful for plants. This happens in root nodules of leguminous plants with the help of Rhizobium bacteria: N₂ + 8H⁺ + 8e⁻ → 2NH₃ + H₂. These bacteria help in making soil fertile naturally.",
+        "hindi": "नाइट्रोजन स्थिरीकरण एक जैव रासायनिक अभिक्रिया है जहां वायुमंडलीय नाइट्रोजन (N₂) को पौधों के लिए उपयोगी नाइट्रोजन यौगिकों में परिवर्तित किया जाता है। यह दलहनी पौधों की जड़ ग्रंथियों में राइजोबियम बैक्टीरिया की मदद से होता है: N₂ + 8H⁺ + 8e⁻ → 2NH₃ + H₂। ये बैक्टीरिया प्राकृतिक रूप से मिट्टी को उपजाऊ बनाने में मदद करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What happens in a precipitation reaction?",
-        "hindi": "अवक्षेपण अभिक्रिया में क्या होता है?"
+        "english": "What is the role of cryolite in aluminum extraction?",
+        "hindi": "एल्युमिनियम निष्कर्षण में क्रायोलाइट की क्या भूमिका है?"
       },
       "option": {
         "english": [
-          "Gas forms",
-          "Liquid forms",
-          "No change",
-          "Insoluble solid forms"
+          "Acts as a catalyst",
+          "Increases conductivity",
+          "Removes impurities",
+          "Reduces melting point"
         ],
         "hindi": [
-          "गैस बनती है",
-          "द्रव बनता है",
-          "कोई परिवर्तन नहीं",
-          "अघुलनशील ठोस बनता है"
+          "उत्प्रेरक के रूप में कार्य करता है",
+          "चालकता बढ़ाता है",
+          "अशुद्धियों को हटाता है",
+          "गलनांक कम करता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Cryolite (Na₃AlF₆) reduces the melting point of aluminum oxide from 2000°C to about 1000°C in the extraction of aluminum. This saves a lot of energy and makes the process more economical. Cryolite also helps in dissolving aluminum oxide, making the electrolysis process more efficient.",
+        "hindi": "क्रायोलाइट (Na₃AlF₆) एल्युमिनियम के निष्कर्षण में एल्युमिनियम ऑक्साइड का गलनांक 2000°C से घटाकर लगभग 1000°C कर देता है। यह बहुत ऊर्जा बचाता है और प्रक्रिया को अधिक किफायती बनाता है। क्रायोलाइट एल्युमिनियम ऑक्साइड को घोलने में भी मदद करता है, जो विद्युत अपघटन प्रक्रिया को अधिक कुशल बनाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which process shows Ostwald process?",
-        "hindi": "ओस्टवाल्ड प्रक्रिया को कौन सी प्रक्रिया दर्शाती है?"
+        "english": "Why is the thermite reaction used to join railway tracks?",
+        "hindi": "रेलवे पटरियों को जोड़ने के लिए थर्माइट अभिक्रिया का उपयोग क्यों किया जाता है?"
       },
       "option": {
         "english": [
-          "NH₃ + O₂ → NO + H₂O",
-          "N₂ + O₂ → NO₂",
-          "NH₃ → N₂ + H₂",
-          "NO₂ → NO + O₂"
+          "It produces molten iron",
+          "It releases CO₂ gas",
+          "It is a slow reaction",
+          "It requires water"
         ],
         "hindi": [
-          "NH₃ + O₂ → NO + H₂O",
-          "N₂ + O₂ → NO₂",
-          "NH₃ → N₂ + H₂",
-          "NO₂ → NO + O₂"
+          "यह पिघला हुआ लोहा उत्पन्न करता है",
+          "यह CO₂ गैस निकालता है",
+          "यह एक धीमी अभिक्रिया है",
+          "इसे पानी की आवश्यकता होती है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The thermite reaction (Fe₂O₃ + 2Al → 2Fe + Al₂O₃) produces molten iron at very high temperature (about 3000°C). This molten iron is used to weld railway tracks together. The reaction is highly exothermic and produces enough heat to melt iron, making it perfect for welding large iron pieces like railway tracks.",
+        "hindi": "थर्माइट अभिक्रिया (Fe₂O₃ + 2Al → 2Fe + Al₂O₃) बहुत उच्च तापमान (लगभग 3000°C) पर पिघला हुआ लोहा उत्पन्न करती है। इस पिघले हुए लोहे का उपयोग रेलवे पटरियों को एक साथ वेल्ड करने के लिए किया जाता है। यह अभिक्रिया अत्यधिक ऊष्माक्षेपी है और लोहे को पिघलाने के लिए पर्याप्त ऊष्मा उत्पन्न करती है, जो रेलवे पटरियों जैसे लोहे के बड़े टुकड़ों की वेल्डिंग के लिए एकदम सही है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of pressure in equilibrium?",
-        "hindi": "साम्यावस्था में दाब की क्या भूमिका है?"
+        "english": "Why does milk turn sour when left unrefrigerated?",
+        "hindi": "दूध को बिना रेफ्रिजरेट किए छोड़ने पर खट्टा क्यों हो जाता है?"
       },
       "option": {
         "english": [
-          "No effect",
-          "Shifts equilibrium",
-          "Stops reaction",
-          "Changes product"
+          "Due to oxidation",
+          "Due to lactic acid formation",
+          "Due to rancidity",
+          "Due to photosynthesis"
         ],
         "hindi": [
-          "कोई प्रभाव नहीं",
-          "साम्य विस्थापित करता है",
-          "अभिक्रिया रोकता है",
-          "उत्पाद बदलता है"
+          "ऑक्सीकरण के कारण",
+          "लैक्टिक अम्ल के बनने के कारण",
+          "रैंसिडिटी के कारण",
+          "प्रकाश संश्लेषण के कारण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Milk turns sour because bacteria convert lactose (milk sugar) into lactic acid when left at room temperature. The chemical equation is: C₁₂H₂₂O₁₁ + H₂O → 4CH₃CHOHCOOH. This is why we keep milk in the refrigerator - cold temperature slows down bacterial growth and the souring process.",
+        "hindi": "दूध खट्टा हो जाता है क्योंकि जब इसे कमरे के तापमान पर छोड़ा जाता है तो बैक्टीरिया लैक्टोज (दूध की शक्कर) को लैक्टिक अम्ल में बदल देते हैं। रासायनिक समीकरण है: C₁₂H₂₂O₁₁ + H₂O → 4CH₃CHOHCOOH। इसीलिए हम दूध को रेफ्रिजरेटर में रखते हैं - ठंडा तापमान बैक्टीरिया की वृद्धि और खट्टा होने की प्रक्रिया को धीमा कर देता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Photolysis is a decomposition reaction where a compound breaks down in the presence of light. The best example is photosynthesis, where water molecules split into hydrogen and oxygen in the presence of sunlight: 2H₂O → 2H₂ + O₂. This reaction is essential for plants to produce their food.",
+        "hindi": "प्रकाश अपघटन एक अपघटन अभिक्रिया है जहां एक यौगिक प्रकाश की उपस्थिति में टूट जाता है। सबसे अच्छा उदाहरण प्रकाश संश्लेषण है, जहां जल के अणु सूर्य के प्रकाश की उपस्थिति में हाइड्रोजन और ऑक्सीजन में विभाजित हो जाते हैं: 2H₂O → 2H₂ + O₂। यह अभिक्रिया पौधों के भोजन निर्माण के लिए आवश्यक है।"
+      }
     }
   ]

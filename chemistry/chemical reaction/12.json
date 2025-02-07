@@ -1,50 +1,58 @@
 [
-    {
-      "question_name": {
-        "english": "In the thermite reaction Fe₂O₃ + 2Al → Al₂O₃ + 2Fe + Heat, what is the temperature reached?",
-        "hindi": "थर्माइट अभिक्रिया Fe₂O₃ + 2Al → Al₂O₃ + 2Fe + ऊष्मा में, कौन सा तापमान प्राप्त होता है?"
-      },
-      "option": {
-        "english": [
-          "About 1000°C",
-          "About 2000°C",
-          "About 3000°C",
-          "About 4000°C"
-        ],
-        "hindi": [
-          "लगभग 1000°C",
-          "लगभग 2000°C",
-          "लगभग 3000°C",
-          "लगभग 4000°C"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+  {
+    "question_name": {
+      "english": "Why is hydrogen gas collected over water?",
+      "hindi": "हाइड्रोजन गैस को जल के ऊपर क्यों एकत्र किया जाता?"
     },
-    {
-      "question_name": {
-        "english": "Which of these reactions represents the Haber process?",
-        "hindi": "इनमें से कौन सी अभिक्रिया हैबर प्रक्रिया को दर्शाती है?"
-      },
-      "option": {
-        "english": [
-          "N₂ + 3H₂ → 2NH₃",
-          "N₂ + 3H₂ ⇌ 2NH₃",
-          "2N₂ + 3H₂ → 2NH₃",
-          "N₂ + H₂ → NH₃"
-        ],
-        "hindi": [
-          "N₂ + 3H₂ → 2NH₃",
-          "N₂ + 3H₂ ⇌ 2NH₃",
-          "2N₂ + 3H₂ → 2NH₃",
-          "N₂ + H₂ → NH₃"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium-hard"
+    "option": {
+      "english": [
+        "It reacts with water",
+        "It is lighter than air",
+        "It is explosive",
+        "It is insoluble in water"
+      ],
+      "hindi": [
+        "यह जल से अभिक्रिया करती है",
+        "यह हवा से हल्की है",
+        "यह विस्फोटक है",
+        "यह जल में अघुलनशील है"
+      ]
     },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Hydrogen gas is collected over water because it is insoluble in water. When we perform reactions that produce hydrogen gas (like zinc + dilute acid), we can collect the gas by downward displacement of water. Since hydrogen doesn't dissolve in water and is lighter than air, it stays trapped above the water.",
+      "hindi": "हाइड्रोजन गैस को जल के ऊपर इसलिए एकत्र किया जाता है क्योंकि यह जल में अघुलनशील होती है। जब हम हाइड्रोजन गैस उत्पन्न करने वाली अभिक्रियाएं करते हैं (जैसे जिंक + तनु अम्ल), हम जल के नीचे की ओर विस्थापन द्वारा गैस एकत्र कर सकते हैं। चूंकि हाइड्रोजन पानी में नहीं घुलती और हवा से हल्की होती है, यह पानी के ऊपर फंसी रहती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why do we add dilute acid to water during electrolysis and not vice versa?",
+      "hindi": "विद्युत अपघटन के दौरान हम तनु अम्ल को जल में क्यों मिलाते हैं और इसके विपरीत क्यों नहीं?"
+    },
+    "option": {
+      "english": [
+        "To prevent splashing",
+        "To increase conductivity",
+        "To avoid explosion",
+        "To reduce heat"
+      ],
+      "hindi": [
+        "छींटे पड़ने से बचने के लिए",
+        "चालकता बढ़ाने के लिए",
+        "विस्फोट से बचने के लिए",
+        "ऊष्मा कम करने के लिए"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "We always add acid to water, not water to acid, because adding water to acid causes a violent reaction with lots of heat release. This can cause the acid to splash out dangerously. When we add acid to water slowly, the heat gets distributed safely in the larger volume of water. Remember the safety rule: 'AAA - Always Add Acid to water'.",
+      "hindi": "हम हमेशा अम्ल को पानी में मिलाते हैं, पानी को अम्ल में नहीं, क्योंकि पानी को अम्ल में मिलाने से अत्यधिक ऊष्मा निकलने के साथ तीव्र अभिक्रिया होती है। इससे अम्ल खतरनाक तरीके से छिटक सकता है। जब हम धीरे-धीरे अम्ल को पानी में मिलाते हैं, तो ऊष्मा पानी की अधिक मात्रा में सुरक्षित रूप से वितरित हो जाती है। सुरक्षा नियम याद रखें: 'हमेशा अम्ल को पानी में मिलाएं'।"
+    }
+  },
     {
       "question_name": {
         "english": "The chemical name of baking soda is:",
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Baking soda's chemical name is sodium hydrogen carbonate (NaHCO₃). It is a white crystalline solid used in cooking as a leavening agent. When heated or mixed with acids, it releases carbon dioxide gas which makes the dough rise. It is also used as an antacid to relieve indigestion.",
+        "hindi": "बेकिंग सोडा का रासायनिक नाम सोडियम हाइड्रोजन कार्बोनेट (NaHCO₃) है। यह एक सफेद क्रिस्टलीय ठोस है जिसका उपयोग खाना पकाने में खमीर के रूप में किया जाता है। गरम करने या अम्लों के साथ मिलाने पर यह कार्बन डाइऑक्साइड गैस छोड़ता है जो आटे को फुलाता है। इसका उपयोग अम्लपित्त से राहत के लिए एंटासिड के रूप में भी किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Galvanization is the process of coating iron with zinc to prevent rusting. The zinc layer acts as a sacrificial metal - it corrodes first, protecting the iron underneath. This process is commonly used for iron gates, roofing sheets, and other outdoor iron items to increase their lifespan.",
+        "hindi": "यशदलेपन लोहे पर जिंक की परत चढ़ाने की प्रक्रिया है जो जंग लगने से बचाती है। जिंक की परत त्यागी धातु के रूप में कार्य करती है - यह पहले स्वयं क्षय होती है, जिससे नीचे का लोहा सुरक्षित रहता है। इस प्रक्रिया का उपयोग लोहे के गेट, छत की चादरें और बाहरी लोहे की अन्य वस्तुओं के जीवनकाल को बढ़ाने के लिए किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -100,19 +116,23 @@
         "english": [
           "Only CaCO₃ forms",
           "Only Ca(HCO₃)₂ forms",
-          "First CaCO₃, then Ca(HCO₃)₂",
-          "No reaction occurs"
+          "No reaction occurs",
+          "First CaCO₃, then Ca(HCO₃)₂"
         ],
         "hindi": [
           "केवल CaCO₃ बनता है",
           "केवल Ca(HCO₃)₂ बनता है",
-          "पहले CaCO₃, फिर Ca(HCO₃)₂ बनता है",
-          "कोई अभिक्रिया नहीं होती"
+          "कोई अभिक्रिया नहीं होती",
+          "पहले CaCO₃, फिर Ca(HCO₃)₂ बनता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "When CO₂ is passed through lime water (Ca(OH)₂), it first forms insoluble calcium carbonate (CaCO₃) which makes the solution milky. On further passing CO₂, CaCO₃ reacts with CO₂ and water to form soluble calcium bicarbonate (Ca(HCO₃)₂), making the solution clear again. This is a common test for CO₂ gas.",
+        "hindi": "जब CO₂ को चूने के पानी (Ca(OH)₂) में से गुजारा जाता है, तो पहले अघुलनशील कैल्शियम कार्बोनेट (CaCO₃) बनता है जो घोल को दूधिया बना देता है। CO₂ को और अधिक प्रवाहित करने पर, CaCO₃, CO₂ और पानी से क्रिया करके घुलनशील कैल्शियम बाइकार्बोनेट (Ca(HCO₃)₂) बनाता है, जिससे घोल फिर से साफ हो जाता है। यह CO₂ गैस की पहचान का एक सामान्य परीक्षण है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "When sodium carbonate (Na₂CO₃) reacts with hydrochloric acid (HCl), carbon dioxide gas is produced along with sodium chloride and water. The reaction is: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑. The bubbles of CO₂ can be seen effervescing from the solution.",
+        "hindi": "जब सोडियम कार्बोनेट (Na₂CO₃) हाइड्रोक्लोरिक अम्ल (HCl) से क्रिया करता है, तो कार्बन डाइऑक्साइड गैस के साथ सोडियम क्लोराइड और पानी बनता है। अभिक्रिया है: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑। CO₂ के बुलबुले घोल से बुदबुदाते हुए देखे जा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
-          "Only oxidation",
           "Only reduction",
           "Redox reactions",
+          "Oxidation reaction",
           "Neutralization"
         ],
         "hindi": [
-          "केवल ऑक्सीकरण",
           "केवल अपचयन",
           "रेडॉक्स अभिक्रियाएं",
+          "ऑक्सीकरण अभिक्रिया",
           "उदासीनीकरण"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium-hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Photochemical smog forms through oxidation reactions in the presence of sunlight. Vehicle exhaust gases like nitrogen oxides and unburnt hydrocarbons react with oxygen in air under sunlight to form harmful oxidized compounds. These reactions create the brown haze we see in polluted cities.",
+        "hindi": "प्रकाश-रासायनिक धुंध सूर्य के प्रकाश की उपस्थिति में ऑक्सीकरण अभिक्रियाओं द्वारा बनती है। वाहनों से निकलने वाली गैसें जैसे नाइट्रोजन ऑक्साइड और अनजले हाइड्रोकार्बन सूर्य के प्रकाश में वायु के ऑक्सीजन से क्रिया करके हानिकारक ऑक्सीकृत यौगिक बनाते हैं। इन अभिक्रियाओं से प्रदूषित शहरों में दिखने वाली भूरी धुंध बनती है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "When pH decreases from 6 to 2, the solution becomes more acidic. The pH scale runs from 0 to 14, where 7 is neutral. Any decrease in pH below 7 means increasing acidity. Each unit decrease in pH means the solution becomes 10 times more acidic. So from pH 6 to 2, the solution becomes 10,000 times more acidic.",
+        "hindi": "जब pH 6 से घटकर 2 हो जाता है, तो विलयन अधिक अम्लीय हो जाता है। pH मापक 0 से 14 तक होता है, जहाँ 7 उदासीन होता है। 7 से नीचे pH में कोई भी कमी का मतलब अम्लीयता में वृद्धि है। pH में प्रत्येक इकाई की कमी का मतलब है कि विलयन 10 गुना अधिक अम्लीय हो जाता है। इसलिए pH 6 से 2 तक, विलयन 10,000 गुना अधिक अम्लीय हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -192,41 +224,49 @@
         "english": [
           "1:1",
           "1:2",
-          "2:1",
-          "3:1"
+          "3:1",
+          "2:1"
         ],
         "hindi": [
           "1:1",
           "1:2",
-          "2:1",
-          "3:1"
+          "3:1",
+          "2:1"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In water electrolysis, hydrogen and oxygen gases are produced in the ratio of 2:1 by volume. This is because water (H₂O) has 2 hydrogen atoms and 1 oxygen atom. At the cathode, H⁺ ions gain electrons to form H₂ gas, while at the anode, O²⁻ ions lose electrons to form O₂ gas. The reaction is: 2H₂O → 2H₂ + O₂.",
+        "hindi": "जल के विद्युत अपघटन में, हाइड्रोजन और ऑक्सीजन गैसें आयतन में 2:1 के अनुपात में उत्पन्न होती हैं। ऐसा इसलिए है क्योंकि जल (H₂O) में 2 हाइड्रोजन परमाणु और 1 ऑक्सीजन परमाणु होता है। कैथोड पर, H⁺ आयन इलेक्ट्रॉन ग्रहण करके H₂ गैस बनाते हैं, जबकि एनोड पर, O²⁻ आयन इलेक्ट्रॉन खोकर O₂ गैस बनाते हैं। अभिक्रिया है: 2H₂O → 2H₂ + O₂।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the common name of calcium oxide?",
-        "hindi": "कैल्शियम ऑक्साइड का सामान्य नाम क्या है?"
+        "english": "Why do silver articles turn black when exposed to air?",
+        "hindi": "चांदी की वस्तुएं हवा में खुली छोड़ने पर काली क्यों हो जाती हैं?"
       },
       "option": {
         "english": [
-          "Quick lime",
-          "Slaked lime",
-          "Limestone",
-          "Lime water"
+          "Due to reaction with H₂S gas",
+          "Due to rusting",
+          "Due to reaction with oxygen",
+          "Due to moisture absorption"
         ],
         "hindi": [
-          "बिना बुझा चूना",
-          "बुझा हुआ चूना",
-          "चूना पत्थर",
-          "चूने का पानी"
+          "H₂S गैस से अभिक्रिया के कारण",
+          "जंग लगने के कारण",
+          "ऑक्सीजन से अभिक्रिया के कारण",
+          "नमी अवशोषण के कारण"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "hard",
+      "explanation": {
+        "english": "Silver articles turn black when exposed to air because they react with hydrogen sulfide (H₂S) gas present in the air. The reaction forms silver sulfide (Ag₂S), which is black in color: 2Ag + H₂S → Ag₂S + H₂. This is why we keep silver items in airtight containers or wrap them in plastic to prevent tarnishing.",
+        "hindi": "चांदी की वस्तुएं हवा में खुली छोड़ने पर काली हो जाती हैं क्योंकि वे हवा में मौजूद हाइड्रोजन सल्फाइड (H₂S) गैस से क्रिया करती हैं। इस अभिक्रिया से सिल्वर सल्फाइड (Ag₂S) बनता है, जो काले रंग का होता है: 2Ag + H₂S → Ag₂S + H₂। इसीलिए हम चांदी की वस्तुओं को हवाबंद डिब्बों में रखते हैं या प्लास्टिक में लपेटते हैं ताकि वे काली न पड़ें।"
+      }
     }
   ]

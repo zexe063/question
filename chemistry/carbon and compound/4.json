@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Ethanol",
-          "Methanol",
+          "Methanol", 
           "Sodium hydroxide",
           "Ethanoic acid"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Sodium hydroxide (NaOH) is used in soap making. When oils or fats react with sodium hydroxide, they form soap through a process called saponification. This is why sodium hydroxide is a key ingredient in making soaps. The reaction produces soap and glycerin.",
+        "hindi": "साबुन बनाने में सोडियम हाइड्रॉक्साइड (NaOH) का उपयोग किया जाता है। जब तेल या वसा सोडियम हाइड्रॉक्साइड से क्रिया करते हैं, तो वे साबुनीकरण नामक प्रक्रिया द्वारा साबुन बनाते हैं। इसलिए सोडियम हाइड्रॉक्साइड साबुन बनाने में एक महत्वपूर्ण घटक है। इस अभिक्रिया से साबुन और ग्लिसरीन बनते हैं।"
+      }
     },
     {
       "question_name": {
@@ -31,19 +35,23 @@
         "english": [
           "Acidic",
           "Neutral",
-          "Basic",
-          "Amphoteric"
+          "Amphoteric",
+          "Basic"
         ],
         "hindi": [
           "अम्लीय",
           "उदासीन",
-          "क्षारीय",
-          "उभयधर्मी"
+          "उभयधर्मी",
+          "क्षारीय"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Soap solution is basic in nature. When soap dissolves in water, it forms OH⁻ ions which make the solution basic. This is why soap feels slippery to touch and turns red litmus paper blue. The pH of soap solution is usually between 9-10.",
+        "hindi": "साबुन का घोल क्षारीय प्रकृति का होता है। जब साबुन पानी में घुलता है, तो यह OH⁻ आयन बनाता है जो घोल को क्षारीय बनाते हैं। इसलिए साबुन छूने में फिसलन वाला लगता है और लाल लिटमस पेपर को नीला कर देता है। साबुन के घोल का pH सामान्यतः 9-10 के बीच होता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃COOH (acetic acid) has the highest boiling point among these compounds because it forms hydrogen bonds between its molecules. These hydrogen bonds are stronger than the forces between molecules of other compounds listed. This makes more energy (higher temperature) necessary to break these bonds for boiling.",
+        "hindi": "CH₃COOH (एसीटिक एसिड) का क्वथनांक इन यौगिकों में सबसे अधिक होता है क्योंकि यह अपने अणुओं के बीच हाइड्रोजन बंध बनाता है। ये हाइड्रोजन बंध अन्य सूचीबद्ध यौगिकों के अणुओं के बीच के बलों से अधिक मजबूत होते हैं। इसलिए उबलने के लिए इन बंधों को तोड़ने में अधिक ऊर्जा (उच्च तापमान) की आवश्यकता होती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Alkenes have the general formula CₙH₂ₙ, where n is the number of carbon atoms. They contain one double bond between carbon atoms. For example, ethene (C₂H₄) has n=2, propene (C₃H₆) has n=3. All alkenes end with '-ene' in their name.",
+        "hindi": "एल्कीन का सामान्य सूत्र CₙH₂ₙ होता है, जहाँ n कार्बन परमाणुओं की संख्या है। इनमें कार्बन परमाणुओं के बीच एक द्विबंध होता है। उदाहरण के लिए, एथीन (C₂H₄) में n=2, प्रोपीन (C₃H₆) में n=3 होता है। सभी एल्कीन के नाम '-ईन' से समाप्त होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Acetylene (C₂H₂) is used in welding. When burned with oxygen, it produces a very hot flame (about 3300°C) which is ideal for welding metals. This is called oxyacetylene welding. The high temperature helps in melting and joining metals together.",
+        "hindi": "वेल्डिंग में एसीटिलीन (C₂H₂) का उपयोग किया जाता है। जब ऑक्सीजन के साथ जलाया जाता है, तो यह बहुत गर्म लौ (लगभग 3300°C) उत्पन्न करता है जो धातुओं की वेल्डिंग के लिए आदर्श है। इसे ऑक्सी-एसीटिलीन वेल्डिंग कहते हैं। उच्च तापमान धातुओं को पिघलाने और जोड़ने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -121,21 +141,25 @@
       },
       "option": {
         "english": [
-          "Ethyl ethanoate",
           "Ethane",
+          "Ethyl ethanoate",
           "Ethene",
           "Ethyne"
         ],
         "hindi": [
-          "एथिल एथेनोएट",
           "एथेन",
+          "एथिल एथेनोएट",
           "एथीन",
           "एथाइन"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When ethanoic acid reacts with ethanol in presence of concentrated H₂SO₄, it forms ethyl ethanoate (ester) and water. This is called esterification reaction. The sweet-smelling ethyl ethanoate is commonly used in artificial fruit flavors and nail polish removers.",
+        "hindi": "जब एथेनोइक अम्ल सांद्र H₂SO₄ की उपस्थिति में एथेनॉल से क्रिया करता है, तो एथिल एथेनोएट (एस्टर) और पानी बनता है। इसे एस्टरीकरण अभिक्रिया कहते हैं। मीठी गंध वाला एथिल एथेनोएट कृत्रिम फल के स्वाद और नेल पॉलिश रिमूवर में प्रयोग किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Bromine water test is used to detect unsaturation in compounds. When an unsaturated compound is added to reddish-brown bromine water, it decolorizes it. This happens because bromine adds across the double bond. If the compound is saturated, the color of bromine water remains unchanged.",
+        "hindi": "यौगिकों में असंतृप्तता की जाँच के लिए ब्रोमीन जल परीक्षण का उपयोग किया जाता है। जब कोई असंतृप्त यौगिक लाल-भूरे रंग के ब्रोमीन जल में मिलाया जाता है, तो यह उसका रंग बेरंग कर देता है। ऐसा इसलिए होता है क्योंकि ब्रोमीन द्विबंध पर जुड़ जाता है। यदि यौगिक संतृप्त है, तो ब्रोमीन जल का रंग अपरिवर्तित रहता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanol is commonly known as grain alcohol because it is traditionally produced by the fermentation of grains like corn, wheat, and barley. It is the type of alcohol found in alcoholic beverages. It is different from wood alcohol (methanol) which is poisonous.",
+        "hindi": "एथेनॉल को आमतौर पर ग्रेन अल्कोहल के नाम से जाना जाता है क्योंकि इसे परंपरागत रूप से मक्का, गेहूं और जौ जैसे अनाजों के किण्वन से बनाया जाता है। यह मादक पेय में पाया जाने वाला अल्कोहल है। यह वुड अल्कोहल (मेथेनॉल) से अलग है जो जहरीला होता है।"
+      }
     },
     {
       "question_name": {
@@ -191,20 +223,24 @@
       "option": {
         "english": [
           "sp",
-          "sp²",
           "sp³",
+          "sp²",
           "No hybridization"
         ],
         "hindi": [
           "sp",
-          "sp²",
           "sp³",
+          "sp²",
           "कोई संकरण नहीं"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In ethene (C₂H₄), carbon atoms are sp² hybridized. This means each carbon forms three sp² hybrid orbitals that make sigma bonds (two C-H bonds and one C-C bond), and one unhybridized p orbital that forms the C=C double bond. This gives ethene its planar structure.",
+        "hindi": "एथीन (C₂H₄) में कार्बन परमाणु sp² संकरित होते हैं। इसका मतलब है कि प्रत्येक कार्बन तीन sp² संकर कक्षक बनाता है जो सिग्मा बंध बनाते हैं (दो C-H बंध और एक C-C बंध), और एक असंकरित p कक्षक जो C=C द्विबंध बनाता है। यही एथीन को इसकी समतल संरचना प्रदान करता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Potassium permanganate (KMnO₄) is used to convert ethanol to ethanoic acid. It is a strong oxidizing agent that first oxidizes ethanol to acetaldehyde and then to ethanoic acid. This is an oxidation reaction where ethanol loses hydrogen atoms to form ethanoic acid.",
+        "hindi": "पोटैशियम परमैंगनेट (KMnO₄) का उपयोग एथेनॉल को एथेनोइक अम्ल में बदलने के लिए किया जाता है। यह एक प्रबल ऑक्सीकारक है जो पहले एथेनॉल को एसीटैल्डिहाइड में और फिर एथेनोइक अम्ल में ऑक्सीकृत करता है। यह एक ऑक्सीकरण अभिक्रिया है जहाँ एथेनॉल हाइड्रोजन परमाणु खोकर एथेनोइक अम्ल बनाता है।"
+      }
     }
 ]

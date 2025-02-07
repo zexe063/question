@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Combination reaction",
-          "Decomposition reaction",
+          "Decomposition reaction", 
           "Displacement reaction",
           "Double displacement reaction"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium-hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "This is a displacement reaction where aluminum (Al) displaces iron (Fe) from iron oxide (Fe₂O₃). In this reaction, the more reactive metal (Al) displaces the less reactive metal (Fe) from its compound. This reaction is also known as the thermite reaction and produces a lot of heat that can be used for welding railway tracks.",
+        "hindi": "यह एक विस्थापन अभिक्रिया है जहां एल्युमिनियम (Al) आयरन ऑक्साइड (Fe₂O₃) से लोहे (Fe) को विस्थापित करता है। इस अभिक्रिया में, अधिक क्रियाशील धातु (Al) कम क्रियाशील धातु (Fe) को उसके यौगिक से विस्थापित करती है। इस अभिक्रिया को थर्माइट अभिक्रिया भी कहा जाता है और यह बहुत अधिक ऊष्मा उत्पन्न करती है जिसका उपयोग रेल की पटरियों की वेल्डिंग में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "This is a thermal decomposition reaction where lead nitrate breaks down on heating to form lead oxide (yellow solid), nitrogen dioxide (brown gas) and oxygen. The reaction needs to be balanced by using correct coefficients. When we balance the equation, we get 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂.",
+        "hindi": "यह एक ऊष्मीय अपघटन अभिक्रिया है जहां लेड नाइट्रेट गरम करने पर टूटकर लेड ऑक्साइड (पीला ठोस), नाइट्रोजन डाइऑक्साइड (भूरी गैस) और ऑक्सीजन बनाता है। समीकरण को सही गुणांकों का उपयोग करके संतुलित करना आवश्यक है। जब हम समीकरण को संतुलित करते हैं, तो हमें प्राप्त होता है 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "When iron is added to copper sulphate solution (Fe + CuSO₄ → FeSO₄ + Cu), iron being more reactive displaces copper from copper sulphate. The blue color of copper sulphate solution fades and reddish-brown copper metal deposits are seen. This is a displacement reaction where a more reactive metal displaces a less reactive metal from its salt solution.",
+        "hindi": "जब लोहे को कॉपर सल्फेट विलयन में डाला जाता है (Fe + CuSO₄ → FeSO₄ + Cu), लोहा अधिक क्रियाशील होने के कारण कॉपर सल्फेट से कॉपर को विस्थापित कर देता है। कॉपर सल्फेट विलयन का नीला रंग फीका पड़ जाता है और लाल-भूरे रंग की कॉपर धातु जमा हो जाती है। यह एक विस्थापन अभिक्रिया है जहां अधिक क्रियाशील धातु कम क्रियाशील धातु को उसके लवण विलयन से विस्थापित कर देती है।"
+      }
     },
     {
       "question_name": {
@@ -77,19 +89,23 @@
         "english": [
           "Oxidation reaction",
           "Combination reaction",
-          "Decomposition reaction",
-          "Double displacement reaction"
+          "Double displacement reaction",
+          "Decomposition reaction"
         ],
         "hindi": [
           "ऑक्सीकरण अभिक्रिया",
           "संयोजन अभिक्रिया",
-          "अपघटन अभिक्रिया",
-          "द्विविस्थापन अभिक्रिया"
+          "द्विविस्थापन अभिक्रिया",
+          "अपघटन अभिक्रिया"
         ]
       },
-      "answer": 2,
+      "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "When silver chloride is exposed to sunlight, it decomposes to form silver and chlorine (2AgCl → 2Ag + Cl₂). This is why white silver chloride turns grey in sunlight. This is a photochemical decomposition reaction where light energy breaks down silver chloride into its elements. This property is used in black and white photography.",
+        "hindi": "जब सिल्वर क्लोराइड को सूर्य के प्रकाश में रखा जाता है, यह विघटित होकर सिल्वर और क्लोरीन बनाता है (2AgCl → 2Ag + Cl₂)। इसीलिए सफेद सिल्वर क्लोराइड धूप में धूसर हो जाता है। यह एक प्रकाश-रासायनिक अपघटन अभिक्रिया है जहां प्रकाश ऊर्जा सिल्वर क्लोराइड को उसके तत्वों में तोड़ देती है। इस गुण का उपयोग श्याम-श्वेत फोटोग्राफी में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium-hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "In this reaction, copper oxide (CuO) is reduced to copper (Cu) by hydrogen gas. The oxygen is removed from CuO by H₂, forming H₂O. This is a reduction reaction because oxygen is removed from the copper oxide. The black color of CuO changes to reddish-brown color of Cu metal.",
+        "hindi": "इस अभिक्रिया में, कॉपर ऑक्साइड (CuO) का हाइड्रोजन गैस द्वारा कॉपर (Cu) में अपचयन होता है। CuO से ऑक्सीजन H₂ द्वारा हटा दी जाती है, जिससे H₂O बनता है। यह एक अपचयन अभिक्रिया है क्योंकि कॉपर ऑक्साइड से ऑक्सीजन हटाई जाती है। CuO का काला रंग Cu धातु के लाल-भूरे रंग में बदल जाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When calcium carbonate (limestone) is heated, it decomposes to form calcium oxide (quicklime) and carbon dioxide gas: CaCO₃ → CaO + CO₂. This is a thermal decomposition reaction used in the manufacture of cement. The reaction is reversible and is an important part of the lime cycle used in construction.",
+        "hindi": "जब कैल्शियम कार्बोनेट (चूना पत्थर) को गरम किया जाता है, यह विघटित होकर कैल्शियम ऑक्साइड (क्विकलाइम) और कार्बन डाइऑक्साइड गैस बनाता है: CaCO₃ → CaO + CO₂। यह एक ऊष्मीय अपघटन अभिक्रिया है जिसका उपयोग सीमेंट के निर्माण में किया जाता है। यह अभिक्रिया उत्क्रमणीय है और निर्माण में प्रयुक्त चूना चक्र का एक महत्वपूर्ण भाग है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "medium",
+      "explanation": {
+        "english": "When zinc reacts with dilute sulphuric acid, zinc sulphate and hydrogen gas are formed: Zn + H₂SO₄ → ZnSO₄ + H₂. The hydrogen gas evolved can be tested by bringing a burning matchstick near it - it burns with a 'pop' sound. This is a single displacement reaction where zinc displaces hydrogen from the acid.",
+        "hindi": "जब जिंक तनु सल्फ्यूरिक अम्ल से क्रिया करता है, जिंक सल्फेट और हाइड्रोजन गैस बनते हैं: Zn + H₂SO₄ → ZnSO₄ + H₂। उत्सर्जित हाइड्रोजन गैस की जाँच जलती हुई तीली को उसके पास लाकर की जा सकती है - यह 'पॉप' की आवाज के साथ जलती है। यह एक एकल विस्थापन अभिक्रिया है जहां जिंक अम्ल से हाइड्रोजन को विस्थापित करता है।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Green color disappears",
           "Red color appears",
           "Blue color appears",
-          "Yellow color appears"
+          "Yellow color appears",
+          "Green color disappears"
         ],
         "hindi": [
-          "हरा रंग गायब हो जाता है",
           "लाल रंग प्रकट होता है",
           "नीला रंग प्रकट होता है",
-          "पीला रंग प्रकट होता है"
+          "पीला रंग प्रकट होता है",
+          "हरा रंग गायब हो जाता है"
         ]
       },
-      "answer": 0,
+      "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "When green ferrous sulphate crystals (FeSO₄·7H₂O) are heated, they lose water of crystallization and the green color disappears. The crystals become white anhydrous FeSO₄. This is a decomposition reaction where water molecules are removed from the hydrated salt: FeSO₄·7H₂O → FeSO₄ + 7H₂O.",
+        "hindi": "जब हरे फेरस सल्फेट क्रिस्टल (FeSO₄·7H₂O) को गरम किया जाता है, वे क्रिस्टलीकरण का पानी खो देते हैं और हरा रंग गायब हो जाता है। क्रिस्टल सफेद अनार्द्र FeSO₄ बन जाते हैं। यह एक अपघटन अभिक्रिया है जहां जलयोजित लवण से पानी के अणु निकल जाते हैं: FeSO₄·7H₂O → FeSO₄ + 7H₂O।"
+      }
     },
     {
       "question_name": {
@@ -190,21 +222,25 @@
       },
       "option": {
         "english": [
-          "White precipitate of BaSO₄",
           "Blue precipitate of BaSO₄",
           "Green precipitate of BaSO₄",
+          "White precipitate of BaSO₄",
           "Yellow precipitate of BaSO₄"
         ],
         "hindi": [
-          "BaSO₄ का सफेद अवक्षेप",
           "BaSO₄ का नीला अवक्षेप",
           "BaSO₄ का हरा अवक्षेप",
+          "BaSO₄ का सफेद अवक्षेप",
           "BaSO₄ का पीला अवक्षेप"
         ]
       },
-      "answer": 0,
+      "answer": 2,
       "image": null,
-      "medium": "medium-hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "When sodium sulphate solution reacts with barium chloride solution, a white precipitate of barium sulphate is formed: Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl. This is a double displacement reaction where sodium and barium exchange their partners. The white precipitate of BaSO₄ is insoluble in water and is used in X-ray imaging.",
+        "hindi": "जब सोडियम सल्फेट विलयन बेरियम क्लोराइड विलयन से क्रिया करता है, बेरियम सल्फेट का सफेद अवक्षेप बनता है: Na₂SO₄ + BaCl₂ → BaSO₄↓ + 2NaCl। यह एक द्विविस्थापन अभिक्रिया है जहां सोडियम और बेरियम अपने साथी बदल लेते हैं। BaSO₄ का सफेद अवक्षेप पानी में अघुलनशील होता है और एक्स-रे इमेजिंग में प्रयोग किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -213,20 +249,24 @@
       },
       "option": {
         "english": [
-          "Rust",
           "Paint",
+          "Rust",
           "Dust",
           "Grease"
         ],
         "hindi": [
-          "जंग",
           "पेंट",
+          "जंग",
           "धूल",
           "ग्रीस"
         ]
       },
-      "answer": 0,
+      "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "The brown coating on iron is called rust, which is iron oxide (Fe₂O₃·xH₂O). Rusting is a chemical reaction where iron reacts with oxygen in the presence of moisture to form hydrated iron oxide: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O. Rusting causes damage to iron objects and can be prevented by painting, oiling, or galvanization.",
+        "hindi": "लोहे पर भूरी परत को जंग कहते हैं, जो आयरन ऑक्साइड (Fe₂O₃·xH₂O) है। जंग लगना एक रासायनिक अभिक्रिया है जहां लोहा नमी की उपस्थिति में ऑक्सीजन से क्रिया करके जलयोजित आयरन ऑक्साइड बनाता है: 4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O। जंग लगने से लोहे की वस्तुओं को नुकसान होता है और इसे पेंट करके, तेल लगाकर या गैल्वनीकरण द्वारा रोका जा सकता है।"
+      }
     }
   ]

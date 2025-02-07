@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Heterozygous",
-          "Hybrid",
+          "Hybrid", 
           "Homozygous",
           "Heterogeneous"
         ],
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Homozygous means having identical genes for a particular trait. For example, if a pea plant has both tall genes (TT), it is homozygous for height. This results in the plant showing that trait clearly.",
+        "hindi": "समयुग्मजी का अर्थ है किसी विशेष लक्षण के लिए समान जीन होना। उदाहरण के लिए, यदि मटर के पौधे में दोनों लंबाई वाले जीन (TT) हैं, तो वह ऊंचाई के लिए समयुग्मजी है। इसके परिणामस्वरूप पौधा उस लक्षण को स्पष्ट रूप से दर्शाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "All vertebrates (like fish, frogs, birds, and humans) show similar stages during their early development as embryos. This suggests they all evolved from a common ancestor. For example, all vertebrate embryos have gill-like structures in early stages.",
+        "hindi": "सभी कशेरुकी (जैसे मछली, मेंढक, पक्षी और मनुष्य) अपने भ्रूण के रूप में प्रारंभिक विकास के दौरान समान चरणों को दर्शाते हैं। यह दर्शाता है कि वे सभी एक सामान्य पूर्वज से विकसित हुए हैं। उदाहरण के लिए, सभी कशेरुकी भ्रूणों में प्रारंभिक चरणों में गिल जैसी संरचनाएं होती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Testosterone is the main male sex hormone produced by testes. During puberty, it causes development of male features like deeper voice, facial hair growth, and increased muscle mass. It is essential for male reproductive development.",
+        "hindi": "टेस्टोस्टेरोन वृषण द्वारा उत्पादित मुख्य पुरुष यौन हार्मोन है। यौवन के दौरान, यह पुरुष विशेषताओं जैसे गहरी आवाज, चेहरे पर बालों का बढ़ना और मांसपेशियों की वृद्धि का कारण बनता है। यह पुरुष प्रजनन विकास के लिए आवश्यक है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Humans have two types of sex chromosomes: X and Y. Females have two X chromosomes (XX), while males have one X and one Y chromosome (XY). The presence of Y chromosome determines maleness in humans.",
+        "hindi": "मनुष्यों में दो प्रकार के लिंग गुणसूत्र होते हैं: X और Y। महिलाओं में दो X गुणसूत्र (XX) होते हैं, जबकि पुरुषों में एक X और एक Y गुणसूत्र (XY) होता है। Y गुणसूत्र की उपस्थिति मनुष्यों में पुरुषत्व निर्धारित करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Mutation is a sudden change in genes that can be passed to offspring. For example, if radiation causes a change in a plant's DNA, and this change affects flower color, this new trait can be inherited by future generations.",
+        "hindi": "उत्परिवर्तन जीन में एक अचानक परिवर्तन है जो संतान को पारित किया जा सकता है। उदाहरण के लिए, यदि विकिरण पौधे के DNA में परिवर्तन का कारण बनता है, और यह परिवर्तन फूल के रंग को प्रभावित करता है, तो यह नया लक्षण भविष्य की पीढ़ियों द्वारा विरासत में मिल सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "AB positive blood type is the universal recipient because it can receive blood from all blood groups. This is because AB blood type has both A and B antigens, so it won't reject blood containing either A or B antigens.",
+        "hindi": "AB पॉजिटिव रक्त समूह सार्वभौमिक प्राप्तकर्ता है क्योंकि यह सभी रक्त समूहों से रक्त प्राप्त कर सकता है। ऐसा इसलिए है क्योंकि AB रक्त प्रकार में A और B दोनों एंटीजन होते हैं, इसलिए यह A या B एंटीजन युक्त रक्त को अस्वीकार नहीं करेगा।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,29 +181,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA carries genetic information and transfers characteristics from parents to offspring. For example, if a parent has brown eyes, the DNA carrying this trait can be passed to their children, making them likely to have brown eyes too.",
+        "hindi": "DNA आनुवंशिक जानकारी ले जाता है और माता-पिता से संतान में लक्षणों को स्थानांतरित करता है। उदाहरण के लिए, यदि माता-पिता की भूरी आंखें हैं, तो इस लक्षण को ले जाने वाला DNA उनके बच्चों में पारित हो सकता है, जिससे उनकी आंखें भी भूरी होने की संभावना होती है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the number of autosomes in human body cells?",
-        "hindi": "मानव शरीर की कोशिकाओं में अलिंग गुणसूत्रों की संख्या कितनी होती है?"
+        "english": "How many pairs of autosomes are present in human body cells?",
+        "hindi": "मानव शरीर की कोशिकाओं में अलिंग गुणसूत्रों के कितने जोड़े होते हैं?"
       },
       "option": {
         "english": [
-          "44",
-          "46",
+          "22",
           "23",
-          "22"
+          "44",
+          "46"
         ],
         "hindi": [
-          "44",
-          "46",
+          "22",
           "23",
-          "22"
+          "44",
+          "46"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Human body cells have 22 pairs of autosomes (non-sex chromosomes). Along with one pair of sex chromosomes (XX in females or XY in males), this makes a total of 23 pairs or 46 chromosomes in each body cell.",
+        "hindi": "मानव शरीर की कोशिकाओं में अलिंग गुणसूत्रों (गैर-लिंग गुणसूत्र) के 22 जोड़े होते हैं। लिंग गुणसूत्रों के एक जोड़े (महिलाओं में XX या पुरुषों में XY) के साथ, प्रत्येक शरीर की कोशिका में कुल 23 जोड़े या 46 गुणसूत्र होते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Mendel's law of segregation states that the two alleles of a gene separate during gamete formation. For example, in a pea plant with both tall (T) and short (t) alleles, each gamete gets only one allele - either T or t, not both.",
+        "hindi": "मेंडल का पृथक्करण का नियम बताता है कि युग्मक निर्माण के दौरान एक जीन के दो एलील अलग हो जाते हैं। उदाहरण के लिए, लंबे (T) और छोटे (t) दोनों एलील वाले मटर के पौधे में, प्रत्येक युग्मक को केवल एक एलील मिलता है - या तो T या t, दोनों नहीं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "James Watson and Francis Crick discovered DNA's double helix structure in 1953. They showed that DNA looks like a twisted ladder, where the sides are made of sugar and phosphate, and the rungs are made of paired bases (A-T and G-C).",
+        "hindi": "जेम्स वाटसन और फ्रांसिस क्रिक ने 1953 में DNA की द्विकुंडलित संरचना की खोज की। उन्होंने दिखाया कि DNA एक मुड़ी हुई सीढ़ी की तरह दिखता है, जहां किनारे शक्कर और फॉस्फेट के बने होते हैं, और सीढ़ियां युग्मित क्षारों (A-T और G-C) की बनी होती हैं।"
+      },
       "image": null,
       "medium": "hard"
     }

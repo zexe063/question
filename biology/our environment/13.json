@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What is the role of consumers in ecosystem?",
-        "hindi": "पारिस्थितिकी तंत्र में उपभोक्ताओं की क्या भूमिका है?"
-      },
-      "option": {
+  {
+    "question_name": {
+        "english": "What happens when a species is removed from food web?",
+        "hindi": "खाद्य जाल से एक प्रजाति के हटने पर क्या होता है?"
+    },
+    "option": {
         "english": [
-          "Make food",
-          "Eat food",
-          "Clean water",
-          "Produce oxygen"
+            "No effect",
+            "Chain disruption", 
+            "Better balance",
+            "More food"
         ],
         "hindi": [
-          "भोजन बनाना",
-          "भोजन खाना",
-          "जल साफ करना",
-          "ऑक्सीजन उत्पादन"
+            "कोई प्रभाव नहीं",
+            "श्रृंखला में व्यवधान",
+            "बेहतर संतुलन",
+            "अधिक भोजन"
         ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
     },
+    "answer": 1,
+    "explanation": {
+      "english": "When a species is removed from a food web, it disrupts the entire chain. This affects both prey and predator populations, as each species depends on others for food and survival. For example, if rabbits disappear, both grass (their food) and foxes (their predators) are affected.",
+      "hindi": "जब खाद्य जाल से एक प्रजाति को हटाया जाता है, तो यह पूरी श्रृंखला को प्रभावित करता है। यह शिकार और शिकारी दोनों की आबादी को प्रभावित करता है, क्योंकि प्रत्येक प्रजाति भोजन और जीवन के लिए दूसरों पर निर्भर करती है। उदाहरण के लिए, यदि खरगोश गायब हो जाते हैं, तो घास (उनका भोजन) और लोमड़ी (उनके शिकारी) दोनों प्रभावित होते हैं।"
+    },
+    "image": null,
+    "medium": "easy"
+},
     {
       "question_name": {
         "english": "What is the impact of deforestation?",
@@ -31,7 +35,7 @@
         "english": [
           "Better climate",
           "More oxygen",
-          "Clean air",
+          "Clean air", 
           "Climate change"
         ],
         "hindi": [
@@ -42,55 +46,66 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Deforestation leads to climate change by reducing tree cover that absorbs CO2. Trees help maintain the water cycle and prevent soil erosion. When forests are cut down, it leads to increased temperatures, irregular rainfall, and loss of wildlife habitats.",
+        "hindi": "वनों की कटाई से जलवायु परिवर्तन होता है क्योंकि पेड़ों की कमी से CO2 का अवशोषण कम हो जाता है। पेड़ जल चक्र को बनाए रखने और मिट्टी के कटाव को रोकने में मदद करते हैं। जब जंगल काटे जाते हैं, तो तापमान बढ़ता है, अनियमित वर्षा होती है, और वन्यजीवों का आवास नष्ट होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is waste recycling?",
-        "hindi": "कचरा पुनर्चक्रण क्या है?"
+          "english": "Why is plastic recycling important?",
+          "hindi": "प्लास्टिक पुनर्चक्रण क्यों महत्वपूर्ण है?"
       },
       "option": {
-        "english": [
-          "Waste burning",
-          "Waste dumping",
-          "Waste reuse",
-          "Waste spreading"
-        ],
-        "hindi": [
-          "कचरा जलाना",
-          "कचरा डंपिंग",
-          "कचरा पुनर्उपयोग",
-          "कचरा फैलाना"
-        ]
+          "english": [
+              "Wastes energy",
+              "No benefit",
+              "Reduces pollution",
+              "Increases waste"
+          ],
+          "hindi": [
+              "ऊर्जा बर्बाद करता है",
+              "कोई लाभ नहीं",
+              "प्रदूषण कम करता है",
+              "कचरा बढ़ाता है"
+          ]
       },
       "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which gas is most abundant in atmosphere?",
-        "hindi": "वायुमंडल में कौन सी गैस सबसे अधिक मात्रा में है?"
+      "explanation": {
+        "english": "Plastic recycling is important because it reduces pollution and saves resources. Plastic takes hundreds of years to decompose naturally. By recycling, we can reuse plastic materials, reduce landfill waste, and protect our environment from harmful plastic pollution.",
+        "hindi": "प्लास्टिक पुनर्चक्रण महत्वपूर्ण है क्योंकि यह प्रदूषण को कम करता है और संसाधनों की बचत करता है। प्लास्टिक को प्राकृतिक रूप से नष्ट होने में सैकड़ों साल लगते हैं। पुनर्चक्रण से हम प्लास्टिक सामग्री का पुन: उपयोग कर सकते हैं, कचरे को कम कर सकते हैं, और हानिकारक प्लास्टिक प्रदूषण से पर्यावरण की रक्षा कर सकते हैं।"
       },
-      "option": {
+      "image":"null",
+      "medium": "easy"
+  },
+  {
+    "question_name": {
+        "english": "How do plants help in reducing air pollution?",
+        "hindi": "पौधे वायु प्रदूषण को कम करने में कैसे मदद करते हैं?"
+    },
+    "option": {
         "english": [
-          "Nitrogen",
-          "Oxygen",
-          "Carbon dioxide",
-          "Hydrogen"
+            "Absorb pollutants",
+            "Create pollution",
+            "No effect",
+            "Increase pollution"
         ],
         "hindi": [
-          "नाइट्रोजन",
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+            "प्रदूषकों को अवशोषित करते हैं",
+            "प्रदूषण उत्पन्न करते हैं",
+            "कोई प्रभाव नहीं",
+            "प्रदूषण बढ़ाते हैं"
         ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
     },
+    "answer": 0,
+    "explanation": {
+      "english": "Plants help reduce air pollution by absorbing harmful gases like carbon dioxide through photosynthesis. Their leaves can trap dust and other pollutant particles. They also release oxygen which improves air quality. This is why having more plants in cities helps combat air pollution.",
+      "hindi": "पौधे प्रकाश संश्लेषण के माध्यम से कार्बन डाइऑक्साइड जैसी हानिकारक गैसों को अवशोषित करके वायु प्रदूषण को कम करने में मदद करते हैं। उनकी पत्तियां धूल और अन्य प्रदूषक कणों को पकड़ सकती हैं। वे ऑक्सीजन भी छोड़ते हैं जो वायु की गुणवत्ता में सुधार करती है। यही कारण है कि शहरों में अधिक पौधे लगाने से वायु प्रदूषण से लड़ने में मदद मिलती है।"
+    },
+    "medium": "easy"
+},
     {
       "question_name": {
         "english": "What is the purpose of national parks?",
@@ -111,6 +126,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "National parks are protected areas created to conserve wildlife, plants, and natural habitats. They help preserve endangered species, maintain biodiversity, and protect natural resources. While they allow tourism and research, their main purpose is to safeguard nature for future generations.",
+        "hindi": "राष्ट्रीय उद्यान वन्यजीवों, पौधों और प्राकृतिक आवासों के संरक्षण के लिए बनाए गए संरक्षित क्षेत्र हैं। वे लुप्तप्राय प्रजातियों को बचाने, जैव विविधता बनाए रखने और प्राकृतिक संसाधनों की रक्षा में मदद करते हैं। हालांकि वे पर्यटन और अनुसंधान की अनुमति देते हैं, उनका मुख्य उद्देश्य भविष्य की पीढ़ियों के लिए प्रकृति की रक्षा करना है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +153,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Ecological restoration is the process of helping damaged ecosystems recover. This includes replanting trees, cleaning polluted water bodies, and bringing back native species. It helps nature heal and return to its original healthy state.",
+        "hindi": "पारिस्थितिक पुनर्स्थापना क्षतिग्रस्त पारिस्थितिक तंत्र को ठीक करने की प्रक्रिया है। इसमें पेड़ों का पुनर्रोपण, प्रदूषित जल निकायों की सफाई और मूल प्रजातियों को वापस लाना शामिल है। यह प्रकृति को ठीक होने और अपनी मूल स्वस्थ स्थिति में लौटने में मदद करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,29 +180,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Soil erosion causes land degradation by washing away the fertile top soil. This reduces soil fertility, affects plant growth, and can lead to poor crop yields. It happens due to water, wind, and poor farming practices. Prevention methods include terrace farming and planting trees.",
+        "hindi": "मिट्टी का कटाव उपजाऊ ऊपरी मिट्टी को बहा ले जाने से भूमि को नुकसान पहुंचाता है। इससे मिट्टी की उर्वरता कम होती है, पौधों की वृद्धि प्रभावित होती है, और फसल उत्पादन कम हो सकता है। यह पानी, हवा और खराब कृषि प्रथाओं के कारण होता है। रोकथाम के तरीकों में सीढ़ीदार खेती और पेड़ लगाना शामिल है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which is a natural fertilizer?",
-        "hindi": "प्राकृतिक उर्वरक कौन सा है?"
+        "english": "Why is compost considered an eco-friendly fertilizer?",
+        "hindi": "कम्पोस्ट को पर्यावरण के अनुकूल उर्वरक क्यों माना जाता है?"
       },
       "option": {
         "english": [
-          "Compost",
-          "Urea",
-          "DAP",
-          "NPK"
+          "Made from organic waste",
+          "Expensive to produce",
+          "Contains chemicals",
+          "Needs factories"
         ],
         "hindi": [
-          "कम्पोस्ट",
-          "यूरिया",
-          "डीएपी",
-          "एनपीके"
+          "जैविक कचरे से बना",
+          "उत्पादन में महंगा",
+          "रसायन युक्त",
+          "कारखानों की आवश्यकता"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Compost is eco-friendly because it's made from natural organic waste like food scraps and plant materials. It improves soil quality naturally, doesn't contain harmful chemicals, and helps reduce waste. It's a sustainable way to enrich soil and grow healthy plants.",
+        "hindi": "कम्पोस्ट पर्यावरण के अनुकूल है क्योंकि यह भोजन के अवशेष और पौधों की सामग्री जैसे प्राकृतिक जैविक कचरे से बनता है। यह प्राकृतिक रूप से मिट्टी की गुणवत्ता में सुधार करता है, इसमें हानिकारक रसायन नहीं होते, और कचरे को कम करने में मदद करता है। यह मिट्टी को समृद्ध बनाने और स्वस्थ पौधे उगाने का एक टिकाऊ तरीका है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +234,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Environmental monitoring means regularly checking and measuring environmental conditions like air quality, water pollution, and soil health. It helps identify problems early and take action to protect the environment. This regular checking is important to maintain environmental quality.",
+        "hindi": "पर्यावरण निगरानी का अर्थ है वायु गुणवत्ता, जल प्रदूषण और मिट्टी के स्वास्थ्य जैसी पर्यावरणीय स्थितियों की नियमित जांच और माप। यह समस्याओं की जल्दी पहचान करने और पर्यावरण की रक्षा के लिए कार्रवाई करने में मदद करता है। पर्यावरण की गुणवत्ता बनाए रखने के लिए यह नियमित जांच महत्वपूर्ण है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +261,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Carrying capacity is the maximum population of a species that an environment can support with available resources like food, water, and space. When population exceeds this limit, it leads to competition and shortage of resources. This concept helps understand population balance in nature.",
+        "hindi": "वहन क्षमता किसी क्षेत्र में उपलब्ध संसाधनों जैसे भोजन, पानी और स्थान के साथ रह सकने वाली किसी प्रजाति की अधिकतम जनसंख्या है। जब जनसंख्या इस सीमा से अधिक हो जाती है, तो प्रतिस्पर्धा और संसाधनों की कमी होती है। यह अवधारणा प्रकृति में जनसंख्या संतुलन को समझने में मदद करती है।"
+      },
       "image": null,
       "medium": "hard"
     }

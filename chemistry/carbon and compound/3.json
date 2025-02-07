@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Alkanes are saturated hydrocarbons with single bonds only. Their general formula is CₙH₂ₙ₊₂, where n is the number of carbon atoms. For example, methane (CH₄) has n=1, ethane (C₂H₆) has n=2, and so on. All alkanes end with '-ane'.",
+        "hindi": "एल्केन संतृप्त हाइड्रोकार्बन हैं जिनमें केवल एकल बंध होते हैं। इनका सामान्य सूत्र CₙH₂ₙ₊₂ होता है, जहाँ n कार्बन परमाणुओं की संख्या है। उदाहरण के लिए, मीथेन (CH₄) में n=1, ईथेन (C₂H₆) में n=2, और आगे भी। सभी एल्केन का नाम '-ऐन' से समाप्त होता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃COOH (acetic acid) turns blue litmus red because it is an acid. Alcohols (C₂H₅OH, CH₃OH) and aldehydes (CH₃CHO) do not change litmus color as they are neutral. This is a simple test to identify acids - they turn blue litmus red.",
+        "hindi": "CH₃COOH (एसीटिक एसिड) नीले लिटमस को लाल कर देता है क्योंकि यह एक अम्ल है। अल्कोहल (C₂H₅OH, CH₃OH) और एल्डिहाइड (CH₃CHO) लिटमस का रंग नहीं बदलते क्योंकि वे उदासीन होते हैं। यह अम्लों की पहचान का एक सरल परीक्षण है - वे नीले लिटमस को लाल कर देते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When methane (CH₄) burns in excess oxygen, it undergoes complete combustion to form carbon dioxide (CO₂) and water (H₂O). The balanced equation is: CH₄ + 2O₂ → CO₂ + 2H₂O. This is similar to how natural gas burns in our kitchen stoves.",
+        "hindi": "जब मीथेन (CH₄) अधिक ऑक्सीजन में जलता है, तो यह पूर्ण दहन से कार्बन डाइऑक्साइड (CO₂) और पानी (H₂O) बनाता है। संतुलित समीकरण है: CH₄ + 2O₂ → CO₂ + 2H₂O। यह वैसे ही है जैसे हमारे रसोई के चूल्हे में प्राकृतिक गैस जलती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Vinegar (dilute acetic acid) is used as a food preservative. It prevents the growth of microorganisms that cause food spoilage. Common examples include pickles and sauces. Other options like methanol are toxic, while ethanol and propanol are alcohols not used as preservatives.",
+        "hindi": "सिरका (तनु एसीटिक एसिड) खाद्य परिरक्षक के रूप में प्रयोग किया जाता है। यह खाद्य पदार्थों को खराब करने वाले सूक्ष्मजीवों की वृद्धि को रोकता है। सामान्य उदाहरणों में अचार और सॉस शामिल हैं। अन्य विकल्प जैसे मेथेनॉल जहरीले होते हैं, जबकि एथेनॉल और प्रोपेनॉल ऐसे अल्कोहल हैं जिनका उपयोग परिरक्षक के रूप में नहीं किया जाता।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Methane has the molecular formula CH₄. It is the simplest alkane with one carbon atom bonded to four hydrogen atoms in a tetrahedral structure. It is the main component of natural gas and biogas used as fuel in homes.",
+        "hindi": "मीथेन का आण्विक सूत्र CH₄ है। यह सबसे सरल एल्केन है जिसमें एक कार्बन परमाणु चार हाइड्रोजन परमाणुओं से चतुष्फलकीय संरचना में जुड़ा होता है। यह प्राकृतिक गैस और बायोगैस का मुख्य घटक है जो घरों में ईंधन के रूप में प्रयोग किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When ethanol is heated with concentrated H₂SO₄ at 443K, it undergoes dehydration to form ethene (C₂H₄). The reaction is: C₂H₅OH → C₂H₄ + H₂O. H₂SO₄ acts as a dehydrating agent by removing water molecule from ethanol.",
+        "hindi": "जब एथेनॉल को 443K पर सांद्र H₂SO₄ के साथ गरम किया जाता है, तो यह निर्जलीकरण से एथीन (C₂H₄) बनाता है। अभिक्रिया है: C₂H₅OH → C₂H₄ + H₂O। H₂SO₄ निर्जलीकारक के रूप में काम करता है जो एथेनॉल से पानी का अणु निकालता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In benzene, carbon atoms are connected by resonating bonds. This means the electrons are delocalized and move freely between alternate single and double bonds in the ring structure. This makes benzene more stable than if it had fixed single and double bonds.",
+        "hindi": "बेंजीन में कार्बन परमाणु अनुनाद बंध से जुड़े होते हैं। इसका मतलब है कि इलेक्ट्रॉन स्वतंत्र रूप से वलय संरचना में एकल और द्विबंध के बीच घूमते रहते हैं। यह बेंजीन को स्थिर एकल और द्विबंध की तुलना में अधिक स्थायी बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanoic acid (CH₃COOH) has a pH less than 7 because it is an acid. Being a weak acid, its pH is typically between 2-3. All acids have pH less than 7, while bases have pH more than 7, and neutral substances have pH equal to 7.",
+        "hindi": "एथेनोइक अम्ल (CH₃COOH) का pH 7 से कम होता है क्योंकि यह एक अम्ल है। दुर्बल अम्ल होने के कारण, इसका pH सामान्यतः 2-3 के बीच होता है। सभी अम्लों का pH 7 से कम होता है, जबकि क्षारों का pH 7 से अधिक और उदासीन पदार्थों का pH 7 के बराबर होता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "When sodium ethanoate reacts with HCl, no gas is evolved. This is a simple double displacement reaction: CH₃COONa + HCl → CH₃COOH + NaCl. The products are ethanoic acid and sodium chloride, both of which are not gases.",
+        "hindi": "जब सोडियम एथेनोएट HCl से क्रिया करता है, तो कोई गैस नहीं निकलती। यह एक सरल द्विविस्थापन अभिक्रिया है: CH₃COONa + HCl → CH₃COOH + NaCl। उत्पाद एथेनोइक अम्ल और सोडियम क्लोराइड हैं, जो दोनों गैसें नहीं हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Diamond has a tetrahedral structure where each carbon atom is bonded to four other carbon atoms in a 3D arrangement. This strong network of covalent bonds makes diamond the hardest natural substance and gives it its special properties like high melting point and sparkle.",
+        "hindi": "हीरे में चतुष्फलकीय संरचना होती है जहाँ प्रत्येक कार्बन परमाणु त्रिविमीय व्यवस्था में चार अन्य कार्बन परमाणुओं से जुड़ा होता है। सहसंयोजी बंधों का यह मजबूत जाल हीरे को प्राकृतिक रूप से सबसे कठोर पदार्थ बनाता है और इसे उच्च गलनांक और चमक जैसे विशेष गुण प्रदान करता है।"
+      }
     }
 ]

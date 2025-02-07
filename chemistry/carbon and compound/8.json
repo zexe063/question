@@ -1,26 +1,30 @@
 [
     {
       "question_name": {
-        "english": "What happens when ethanoic acid reacts with ethanol?",
-        "hindi": "एथेनोइक अम्ल एथेनॉल से अभिक्रिया करने पर क्या बनता है?"
+        "english": "How many types of chemical bonds are possible in carbon compounds?",
+        "hindi": "कार्बन यौगिकों में कितने प्रकार के रासायनिक बंध संभव हैं?"
       },
       "option": {
         "english": [
-          "Ethyl ethanoate and water",
-          "Ethane and water",
-          "Ethene and water",
-          "Ethyl ethanoate only"
+          "Single and double bonds",
+          "Double and triple bonds", 
+          "Single and triple bonds",
+          "Single, double and triple bonds"
         ],
         "hindi": [
-          "एथिल एथेनोएट और जल",
-          "एथेन और जल",
-          "एथीन और जल",
-          "केवल एथिल एथेनोएट"
+          "एकल और द्विबंध",
+          "द्विबंध और त्रिबंध",
+          "एकल और त्रिबंध",
+          "एकल, द्विबंध और त्रिबंध"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon can form three types of covalent bonds - single bond (one pair of shared electrons), double bond (two pairs of shared electrons), and triple bond (three pairs of shared electrons). For example, ethane has single C-C bond, ethene has double C=C bond, and ethyne has triple C≡C bond.",
+        "hindi": "कार्बन तीन प्रकार के सहसंयोजी बंध बना सकता है - एकल बंध (इलेक्ट्रॉनों का एक जोड़ा साझा), द्विबंध (इलेक्ट्रॉनों के दो जोड़े साझा), और त्रिबंध (इलेक्ट्रॉनों के तीन जोड़े साझा)। उदाहरण के लिए, एथेन में एकल C-C बंध, एथीन में द्विबंध C=C, और एथाइन में त्रिबंध C≡C होता है।"
+      }
     },
     {
       "question_name": {
@@ -30,20 +34,24 @@
       "option": {
         "english": [
           "C₂H₆",
-          "C₂H₄",
           "CH₄",
+          "C₂H₄",
           "C₃H₈"
         ],
         "hindi": [
           "C₂H₆",
-          "C₂H₄",
           "CH₄",
+          "C₂H₄",
           "C₃H₈"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "C₂H₄ (ethene) is an unsaturated hydrocarbon because it contains a double bond between carbon atoms. Unsaturated hydrocarbons have at least one double or triple bond between carbon atoms. They can undergo addition reactions due to these multiple bonds.",
+        "hindi": "C₂H₄ (एथीन) एक असंतृप्त हाइड्रोकार्बन है क्योंकि इसमें कार्बन परमाणुओं के बीच द्विबंध होता है। असंतृप्त हाइड्रोकार्बन में कार्बन परमाणुओं के बीच कम से कम एक द्विबंध या त्रिबंध होता है। ये इन बहुबंधों के कारण योगात्मक अभिक्रियाएं कर सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "CH₃OH (methanol) is commonly known as wood alcohol because it was traditionally produced by the destructive distillation of wood. It is a highly toxic alcohol that should never be consumed as it can cause blindness or death.",
+        "hindi": "CH₃OH (मेथेनॉल) को सामान्यतः वुड अल्कोहल कहा जाता है क्योंकि इसे परंपरागत रूप से लकड़ी के विनाशकारी आसवन से प्राप्त किया जाता था। यह एक अत्यधिक जहरीला अल्कोहल है जिसका सेवन कभी नहीं करना चाहिए क्योंकि यह अंधापन या मृत्यु का कारण बन सकता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Acetone (CH₃COCH₃) is the main component in nail polish removers. It is an excellent solvent that can dissolve nail polish effectively. Acetone belongs to the ketone family and has a characteristic sweet smell.",
+        "hindi": "एसीटोन (CH₃COCH₃) नेल पॉलिश रिमूवर का मुख्य घटक है। यह एक उत्कृष्ट विलायक है जो नेल पॉलिश को प्रभावी ढंग से घोल सकता है। एसीटोन कीटोन परिवार का है और इसमें एक विशिष्ट मीठी गंध होती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In ethane (C₂H₆), the two carbon atoms are joined by a single covalent bond. Each carbon atom shares one electron pair with the other carbon atom, forming a single bond (C-C). The remaining electrons form single bonds with hydrogen atoms.",
+        "hindi": "एथेन (C₂H₆) में, दो कार्बन परमाणु एक एकल सहसंयोजी बंध द्वारा जुड़े होते हैं। प्रत्येक कार्बन परमाणु दूसरे कार्बन परमाणु के साथ एक इलेक्ट्रॉन जोड़ा साझा करता है, जिससे एकल बंध (C-C) बनता है। शेष इलेक्ट्रॉन हाइड्रोजन परमाणुओं के साथ एकल बंध बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Alkynes have the general formula CₙH₂ₙ₋₂, where n is the number of carbon atoms. This formula arises because alkynes contain one triple bond, which uses up four hydrogen atoms. For example, ethyne (C₂H₂) follows this formula where n=2: C₂H₂ₙ₋₂ = C₂H₂.",
+        "hindi": "एल्काइन का सामान्य सूत्र CₙH₂ₙ₋₂ होता है, जहाँ n कार्बन परमाणुओं की संख्या है। यह सूत्र इसलिए है क्योंकि एल्काइन में एक त्रिबंध होता है, जो चार हाइड्रोजन परमाणुओं का उपयोग करता है। उदाहरण के लिए, एथाइन (C₂H₂) इस सूत्र का पालन करता है जहाँ n=2: C₂H₂ₙ₋₂ = C₂H₂।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanoic acid (CH₃COOH) is a weak acid because it partially ionizes in water. When dissolved in water, only a small fraction of ethanoic acid molecules break into H⁺ and CH₃COO⁻ ions. Most molecules remain as CH₃COOH, making it a weak acid.",
+        "hindi": "एथेनोइक अम्ल (CH₃COOH) एक दुर्बल अम्ल है क्योंकि यह जल में आंशिक रूप से आयनित होता है। जल में घुलने पर, एथेनोइक अम्ल के केवल कुछ अणु H⁺ और CH₃COO⁻ आयनों में टूटते हैं। अधिकांश अणु CH₃COOH के रूप में रहते हैं, जो इसे एक दुर्बल अम्ल बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Catalyst",
           "Reactant",
+          "Catalyst",
           "Product",
           "Inhibitor"
         ],
         "hindi": [
-          "उत्प्रेरक",
           "अभिकारक",
+          "उत्प्रेरक",
           "उत्पाद",
           "निरोधक"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Yeast acts as a catalyst in glucose fermentation. It produces enzymes that help convert glucose into ethanol and carbon dioxide without being consumed itself. The reaction is: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. Yeast speeds up this reaction but remains unchanged.",
+        "hindi": "यीस्ट ग्लूकोस के किण्वन में उत्प्रेरक का काम करता है। यह ऐसे एंजाइम उत्पन्न करता है जो ग्लूकोस को एथेनॉल और कार्बन डाइऑक्साइड में बदलने में मदद करते हैं, बिना खुद खपत हुए। अभिक्रिया है: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂। यीस्ट इस अभिक्रिया को तेज करता है लेकिन खुद अपरिवर्तित रहता है।"
+      }
     },
     {
       "question_name": {
@@ -192,19 +224,23 @@
         "english": [
           "Due to large size",
           "Due to small size",
-          "Due to high ionization energy",
-          "Due to low ionization energy"
+          "Due to low ionization energy",
+          "Due to tetravalent nature"
         ],
         "hindi": [
           "बड़े आकार के कारण",
           "छोटे आकार के कारण",
-          "उच्च आयनन ऊर्जा के कारण",
-          "निम्न आयनन ऊर्जा के कारण"
+          "कम आयनीकरण ऊर्जा के कारण",
+          "चतुर्वैलेंट स्वभाव के कारण"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Carbon does not form ionic bonds because of its tetravalent nature (4 valence electrons). To form ionic bonds, carbon would need to either gain or lose 4 electrons, which requires very high energy and is not energetically favorable. Instead, it shares electrons to form covalent bonds.",
+        "hindi": "कार्बन अपने चतुर्संयोजी स्वभाव (4 संयोजी इलेक्ट्रॉन) के कारण आयनिक बंध नहीं बनाता। आयनिक बंध बनाने के लिए, कार्बन को या तो 4 इलेक्ट्रॉन प्राप्त करने या खोने होंगे, जिसके लिए बहुत अधिक ऊर्जा की आवश्यकता होती है और यह ऊर्जा की दृष्टि से अनुकूल नहीं है। इसके बजाय, यह सहसंयोजी बंध बनाने के लिए इलेक्ट्रॉनों को साझा करता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Methane (CH₄) has a tetrahedral shape where the carbon atom is at the center and four hydrogen atoms are at the corners of a tetrahedron. The H-C-H bond angle is 109.5°. This shape occurs because carbon forms four single covalent bonds that arrange themselves to minimize electron repulsion.",
+        "hindi": "मीथेन (CH₄) की आकृति चतुष्फलकीय होती है जहाँ कार्बन परमाणु केंद्र में और चार हाइड्रोजन परमाणु चतुष्फलक के कोनों पर होते हैं। H-C-H बंध कोण 109.5° होता है। यह आकृति इसलिए बनती है क्योंकि कार्बन चार एकल सहसंयोजी बंध बनाता है जो इलेक्ट्रॉन प्रतिकर्षण को कम करने के लिए स्वयं को व्यवस्थित करते हैं।"
+      }
     }
 ]

@@ -8,7 +8,7 @@
         "english": [
           "Ethanol",
           "Vinegar",
-          "Methanol",
+          "Methanol", 
           "Propanol"
         ],
         "hindi": [
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Vinegar (dilute acetic acid) is used as a preservative in pickles because it creates an acidic environment that prevents the growth of harmful bacteria and microorganisms. The acetic acid in vinegar helps maintain the pickle's freshness and extends its shelf life.",
+        "hindi": "सिरका (तनु एसीटिक अम्ल) का उपयोग अचार में परिरक्षक के रूप में किया जाता है क्योंकि यह एक अम्लीय वातावरण बनाता है जो हानिकारक बैक्टीरिया और सूक्ष्मजीवों की वृद्धि को रोकता है। सिरके में मौजूद एसीटिक अम्ल अचार की ताजगी को बनाए रखने और उसकी शेल्फ लाइफ बढ़ाने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When ethanoic acid (CH₃COOH) reacts with washing soda (Na₂CO₃), it forms sodium ethanoate salt, water, and carbon dioxide gas. The reaction is: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂. The bubbles of CO₂ gas can be seen during the reaction.",
+        "hindi": "जब एथेनोइक अम्ल (CH₃COOH) धावन सोडा (Na₂CO₃) से क्रिया करता है, तो सोडियम एथेनोएट लवण, जल और कार्बन डाइऑक्साइड गैस बनती है। अभिक्रिया है: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂। अभिक्रिया के दौरान CO₂ गैस के बुलबुले देखे जा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon shows the highest property of catenation (ability to form bonds with itself) because it can form strong single, double, and triple bonds with other carbon atoms to create long chains and rings. This unique property allows carbon to form millions of compounds, which is why it's the basis of organic chemistry.",
+        "hindi": "कार्बन श्रृंखलन का सबसे अधिक गुण दर्शाता है (स्वयं के साथ बंध बनाने की क्षमता) क्योंकि यह अन्य कार्बन परमाणुओं के साथ मजबूत एकल, द्विबंध और त्रिबंध बनाकर लंबी श्रृंखलाएं और वलय बना सकता है। यह विशेष गुण कार्बन को लाखों यौगिक बनाने में सक्षम बनाता है, इसीलिए यह कार्बनिक रसायन का आधार है।"
+      }
     },
     {
       "question_name": {
@@ -89,30 +101,38 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ethene (C₂H₄) is the simplest alkene. It has two carbon atoms joined by a double bond (C=C) and four hydrogen atoms. The structure is H₂C=CH₂. It is the first member of the alkene family and is an unsaturated hydrocarbon used in making plastics.",
+        "hindi": "एथीन (C₂H₄) सबसे सरल एल्कीन है। इसमें द्विबंध (C=C) से जुड़े दो कार्बन परमाणु और चार हाइड्रोजन परमाणु होते हैं। इसकी संरचना H₂C=CH₂ है। यह एल्कीन परिवार का पहला सदस्य है और प्लास्टिक बनाने में प्रयुक्त होने वाला एक असंतृप्त हाइड्रोकार्बन है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which functional group is present in ketones?",
-        "hindi": "कीटोन में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+        "english": "Why does a ketone molecule contain >C=O functional group?",
+        "hindi": "कीटोन अणु में >C=O क्रियात्मक समूह क्यों होता है?"
       },
       "option": {
         "english": [
-          "-CHO",
-          ">C=O",
-          "-OH",
-          "-COOH"
+          "Because it has a double bond between carbon and oxygen",
+          "Because it has a carbonyl group between two alkyl groups",
+          "Because it forms from oxidation of secondary alcohols",
+          "Because it needs to be reactive for organic reactions"
         ],
         "hindi": [
-          "-CHO",
-          ">C=O",
-          "-OH",
-          "-COOH"
+          "क्योंकि इसमें कार्बन और ऑक्सीजन के बीच द्विबंध होता है",
+          "क्योंकि इसमें दो एल्किल समूहों के बीच कार्बोनिल समूह होता है",
+          "क्योंकि यह द्वितीयक एल्कोहल के ऑक्सीकरण से बनता है",
+          "क्योंकि इसे कार्बनिक अभिक्रियाओं के लिए क्रियाशील होना चाहिए"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "A ketone molecule contains >C=O (carbonyl group) between two alkyl groups (R-CO-R'). This structure gives ketones their characteristic properties. For example, acetone (CH₃-CO-CH₃) is the simplest ketone where the carbonyl group is between two methyl groups.",
+        "hindi": "कीटोन अणु में दो एल्किल समूहों के बीच >C=O (कार्बोनिल समूह) होता है (R-CO-R')। यह संरचना कीटोन को उनके विशिष्ट गुण प्रदान करती है। उदाहरण के लिए, एसीटोन (CH₃-CO-CH₃) सबसे सरल कीटोन है जिसमें कार्बोनिल समूह दो मिथाइल समूहों के बीच होता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethene (C₂H₄) contains a double bond between its carbon atoms (C=C). Each carbon atom shares two pairs of electrons with the other carbon atom, forming a double bond. The structure is H₂C=CH₂, where each carbon also forms single bonds with two hydrogen atoms.",
+        "hindi": "एथीन (C₂H₄) में इसके कार्बन परमाणुओं के बीच एक द्विबंध (C=C) होता है। प्रत्येक कार्बन परमाणु दूसरे कार्बन परमाणु के साथ दो इलेक्ट्रॉन युग्म साझा करता है, जिससे द्विबंध बनता है। संरचना H₂C=CH₂ है, जहाँ प्रत्येक कार्बन दो हाइड्रोजन परमाणुओं के साथ भी एकल बंध बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -145,20 +169,24 @@
       "option": {
         "english": [
           "No effect",
-          "Turns red litmus blue",
           "Turns blue litmus red",
-          "Changes color of both"
+          "Changes color of both",
+          "Turns red litmus blue"
         ],
         "hindi": [
           "कोई प्रभाव नहीं",
-          "लाल लिटमस को नीला करता है",
           "नीले लिटमस को लाल करता है",
-          "दोनों का रंग बदलता है"
+          "दोनों का रंग बदलता है",
+          "लाल लिटमस को नीला करता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Soap solution turns red litmus paper blue because soap is basic in nature. Soaps are sodium or potassium salts of fatty acids (like C₁₇H₃₅COONa). When dissolved in water, they form OH⁻ ions which give the solution its basic properties.",
+        "hindi": "साबुन का घोल लाल लिटमस को नीला कर देता है क्योंकि साबुन प्रकृति में क्षारीय होता है। साबुन वसीय अम्लों के सोडियम या पोटैशियम लवण होते हैं (जैसे C₁₇H₃₅COONa)। जल में घुलने पर, वे OH⁻ आयन बनाते हैं जो घोल को क्षारीय गुण प्रदान करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Methane gas in biogas comes from bacterial decomposition of organic waste (like cow dung, plant waste) in the absence of oxygen (anaerobic decomposition). These bacteria break down complex organic compounds into simpler compounds, producing methane (CH₄) as a major component of biogas.",
+        "hindi": "बायोगैस में मीथेन गैस जैविक कचरे (जैसे गोबर, पौधों का कचरा) के ऑक्सीजन की अनुपस्थिति में जीवाणु अपघटन से आती है (अवायवीय अपघटन)। ये जीवाणु जटिल कार्बनिक यौगिकों को सरल यौगिकों में तोड़ते हैं, जिससे मीथेन (CH₄) बायोगैस के प्रमुख घटक के रूप में उत्पन्न होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Micelle formation occurs due to the hydrophobic (water-hating) end of soap molecules. When soap dissolves in water, the hydrophobic tails cluster together away from water, while the hydrophilic (water-loving) heads face the water. This forms a spherical structure called a micelle that can trap dirt and oil.",
+        "hindi": "साबुन के घोल में मिसेल निर्माण जलविकर्षी (पानी से दूर रहने वाले) सिरे के कारण होता है। जब साबुन पानी में घुलता है, जलविकर्षी पूंछें पानी से दूर एक साथ जमा हो जाती हैं, जबकि जलस्नेही (पानी को पसंद करने वाले) सिरे पानी की ओर होते हैं। इससे एक गोलाकार संरचना बनती है जिसे मिसेल कहते हैं जो धूल और तेल को फंसा सकती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The acidic strength of carboxylic acids depends on the ionization of the -COOH group. When a carboxylic acid (R-COOH) dissolves in water, it releases H⁺ ions: R-COOH + H₂O ⇌ R-COO⁻ + H₃O⁺. The more easily it releases H⁺ ions (ionizes), the stronger the acid is.",
+        "hindi": "कार्बोक्सिलिक अम्लों की अम्लीय प्रबलता -COOH समूह के आयनीकरण पर निर्भर करती है। जब कार्बोक्सिलिक अम्ल (R-COOH) पानी में घुलता है, यह H⁺ आयन छोड़ता है: R-COOH + H₂O ⇌ R-COO⁻ + H₃O⁺। जितनी आसानी से यह H⁺ आयन छोड़ता है (आयनित होता है), अम्ल उतना ही प्रबल होता है।"
+      }
     }
 ]

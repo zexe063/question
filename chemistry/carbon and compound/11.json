@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which of these is used as an antiseptic?",
-        "hindi": "इनमें से किसका उपयोग एंटीसेप्टिक के रूप में किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Ethanol",
-          "Methanol",
-          "Phenol",
-          "Propanol"
-        ],
-        "hindi": [
-          "एथेनॉल",
-          "मेथेनॉल",
-          "फीनॉल",
-          "प्रोपेनॉल"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the formula of sodium ethoxide?",
+      "hindi": "सोडियम एथॉक्साइड का सूत्र क्या है?"
     },
-    {
-      "question_name": {
-        "english": "What is the main component of biogas?",
-        "hindi": "बायोगैस का मुख्य घटक क्या है?"
-      },
-      "option": {
-        "english": [
-          "Methane",
-          "Ethane",
-          "Propane",
-          "Butane"
-        ],
-        "hindi": [
-          "मीथेन",
-          "एथेन",
-          "प्रोपेन",
-          "ब्यूटेन"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "CH₃COONa",
+        "NaOH",
+        "C₂H₅ONa", 
+        "CH₃ONa"
+      ],
+      "hindi": [
+        "CH₃COONa",
+        "NaOH",
+        "C₂H₅ONa",
+        "CH₃ONa"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which of these is used in making perfumes?",
-        "hindi": "इत्र बनाने में इनमें से किसका उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Esters",
-          "Ethers",
-          "Ketones",
-          "Aldehydes"
-        ],
-        "hindi": [
-          "एस्टर",
-          "ईथर",
-          "कीटोन",
-          "एल्डिहाइड"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What happens when ethanoic acid reacts with sodium hydroxide?",
-        "hindi": "एथेनोइक अम्ल सोडियम हाइड्रॉक्साइड से अभिक्रिया करने पर क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "No reaction",
-          "Forms alcohol",
-          "Forms ester",
-          "Forms salt and water"
-        ],
-        "hindi": [
-          "कोई अभिक्रिया नहीं",
-          "अल्कोहल बनता है",
-          "एस्टर बनता है",
-          "लवण और जल बनता है"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which gas is responsible for the greenhouse effect?",
-        "hindi": "ग्रीनहाउस प्रभाव के लिए कौन सी गैस उत्तरदायी है?"
-      },
-      "option": {
-        "english": [
-          "Oxygen",
-          "Nitrogen",
-          "Carbon dioxide",
-          "Hydrogen"
-        ],
-        "hindi": [
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the process of conversion of ethanol to ethanoic acid?",
-        "hindi": "एथेनॉल से एथेनोइक अम्ल बनने की प्रक्रिया क्या है?"
-      },
-      "option": {
-        "english": [
-          "Oxidation",
-          "Reduction",
-          "Hydration",
-          "Dehydration"
-        ],
-        "hindi": [
-          "ऑक्सीकरण",
-          "अपचयन",
-          "जलयोजन",
-          "निर्जलीकरण"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the common name of ethanoic acid?",
-        "hindi": "एथेनोइक अम्ल का सामान्य नाम क्या है?"
-      },
-      "option": {
-        "english": [
-          "Acetic acid",
-          "Formic acid",
-          "Citric acid",
-          "Oxalic acid"
-        ],
-        "hindi": [
-          "एसीटिक अम्ल",
-          "फॉर्मिक अम्ल",
-          "साइट्रिक अम्ल",
-          "ऑक्सैलिक अम्ल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of reactions do alkenes undergo?",
-        "hindi": "एल्कीन किस प्रकार की अभिक्रियाएं करते हैं?"
-      },
-      "option": {
-        "english": [
-          "Substitution",
-          "Elimination",
-          "Addition",
-          "Polymerization"
-        ],
-        "hindi": [
-          "प्रतिस्थापन",
-          "विलोपन",
-          "योगात्मक",
-          "बहुलकीकरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why is pure acetic acid called glacial acetic acid?",
-        "hindi": "शुद्ध एसीटिक अम्ल को हिमीय एसीटिक अम्ल क्यों कहा जाता है?"
-      },
-      "option": {
-        "english": [
-          "Low melting point",
-          "High melting point",
-          "Freezes like ice",
-          "Found in glaciers"
-        ],
-        "hindi": [
-          "निम्न गलनांक",
-          "उच्च गलनांक",
-          "बर्फ की तरह जमता है",
-          "हिमनदों में पाया जाता है"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of concentrated H₂SO₄ in ethanol dehydration?",
-        "hindi": "एथेनॉल के निर्जलीकरण में सांद्र H₂SO₄ की क्या भूमिका होती है?"
-      },
-      "option": {
-        "english": [
-          "Oxidizing agent",
-          "Dehydrating agent",
-          "Reducing agent",
-          "Catalyst"
-        ],
-        "hindi": [
-          "ऑक्सीकारक",
-          "निर्जलीकारक",
-          "अपचायक",
-          "उत्प्रेरक"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Sodium ethoxide (C₂H₅ONa) is formed when sodium metal reacts with ethanol. The reaction is: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. Here sodium replaces the hydrogen of OH group in ethanol to form sodium ethoxide.",
+      "hindi": "सोडियम एथॉक्साइड (C₂H₅ONa) तब बनता है जब सोडियम धातु एथेनॉल से क्रिया करती है। अभिक्रिया है: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂। यहाँ सोडियम, एथेनॉल के OH समूह के हाइड्रोजन को प्रतिस्थापित करके सोडियम एथॉक्साइड बनाता है।"
     }
+  },
+  {
+    "question_name": {
+      "english": "Which of these is used as a fuel?",
+      "hindi": "इनमें से किसका उपयोग ईंधन के रूप में किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "All of these",
+        "CNG",
+        "Ethanol",
+        "Methanol"
+      ],
+      "hindi": [
+        "ये सभी",
+        "CNG",
+        "एथेनॉल",
+        "मेथेनॉल"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "CNG (Compressed Natural Gas, mainly methane), ethanol and methanol are all used as fuels. CNG is used in vehicles, ethanol is mixed with petrol (gasohol), and methanol can be used in racing cars. These are cleaner fuels compared to traditional fossil fuels.",
+      "hindi": "CNG (संपीड़ित प्राकृतिक गैस, मुख्यतः मीथेन), एथेनॉल और मेथेनॉल सभी का उपयोग ईंधन के रूप में किया जाता है। CNG वाहनों में, एथेनॉल पेट्रोल में मिश्रित (गैसोहॉल) और मेथेनॉल रेसिंग कारों में प्रयोग किया जाता है। ये पारंपरिक जीवाश्म ईंधन की तुलना में स्वच्छ ईंधन हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why do structural isomers have different properties despite having same molecular formula?",
+      "hindi": "समान आण्विक सूत्र होने के बावजूद संरचनात्मक समावयवों के गुण अलग-अलग क्यों होते हैं?"
+    },
+    "option": {
+      "english": [
+        "Due to different atomic masses",
+        "Due to different arrangement of atoms",
+        "Due to different number of atoms",
+        "Due to different molecular masses"
+      ],
+      "hindi": [
+        "विभिन्न परमाणु द्रव्यमान के कारण",
+        "परमाणुओं की विभिन्न व्यवस्था के कारण",
+        "परमाणुओं की विभिन्न संख्या के कारण",
+        "विभिन्न आण्विक द्रव्यमान के कारण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Structural isomers have same molecular formula but different arrangements of atoms. For example, butane (CH₃-CH₂-CH₂-CH₃) and isobutane (CH₃-CH(CH₃)-CH₃) have formula C₄H₁₀ but different structures. This different arrangement leads to different physical and chemical properties.",
+      "hindi": "संरचनात्मक समावयवों का आण्विक सूत्र समान होता है लेकिन परमाणुओं की व्यवस्था अलग होती है। उदाहरण के लिए, ब्यूटेन (CH₃-CH₂-CH₂-CH₃) और आइसोब्यूटेन (CH₃-CH(CH₃)-CH₃) का सूत्र C₄H₁₀ है लेकिन संरचना अलग है। यह अलग व्यवस्था भौतिक और रासायनिक गुणों में अंतर लाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which of these has highest carbon content?",
+      "hindi": "इनमें से किसमें कार्बन की मात्रा सबसे अधिक होती है?"
+    },
+    "option": {
+      "english": [
+        "Coal",
+        "Coke",
+        "Diamond",
+        "Graphite"
+      ],
+      "hindi": [
+        "कोयला",
+        "कोक",
+        "हीरा",
+        "ग्रेफाइट"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Graphite has the highest carbon content (100% pure carbon). Coal contains 70-90% carbon along with other elements. Diamond is pure carbon but graphite is more commonly available. Coke is produced by heating coal and has 90-95% carbon content.",
+      "hindi": "ग्रेफाइट में कार्बन की मात्रा सबसे अधिक (100% शुद्ध कार्बन) होती है। कोयले में 70-90% कार्बन और अन्य तत्व होते हैं। हीरा शुद्ध कार्बन है लेकिन ग्रेफाइट अधिक आसानी से उपलब्ध है। कोक कोयले को गरम करके बनाया जाता है और इसमें 90-95% कार्बन होता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of yeast in fermentation?",
+      "hindi": "किण्वन में यीस्ट की क्या भूमिका होती है?"
+    },
+    "option": {
+      "english": [
+        "Product",
+        "Enzyme",
+        "Catalyst",
+        "Reactant"
+      ],
+      "hindi": [
+        "उत्पाद",
+        "एंजाइम",
+        "उत्प्रेरक",
+        "अभिकारक"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Yeast acts as a catalyst in fermentation. It contains enzymes that convert glucose into ethanol and carbon dioxide: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. The yeast itself is not consumed in the reaction but speeds up the process.",
+      "hindi": "यीस्ट किण्वन में उत्प्रेरक का काम करता है। इसमें एंजाइम होते हैं जो ग्लूकोज को एथेनॉल और कार्बन डाइऑक्साइड में बदलते हैं: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂। यीस्ट स्वयं अभिक्रिया में खपत नहीं होता बल्कि प्रक्रिया को तेज करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the hybridization in ethyne?",
+      "hindi": "एथाइन में संकरण क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "sp²",
+        "sp",
+        "sp³",
+        "No hybridization"
+      ],
+      "hindi": [
+        "sp²",
+        "sp",
+        "sp³",
+        "कोई संकरण नहीं"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "In ethyne (HC≡CH), carbon atoms show sp hybridization. Each carbon forms one sp-sp triple bond with other carbon and one sp-s bond with hydrogen. The triple bond consists of one sigma and two pi bonds. This gives ethyne its linear structure.",
+      "hindi": "एथाइन (HC≡CH) में कार्बन परमाणु sp संकरण दर्शाते हैं। प्रत्येक कार्बन दूसरे कार्बन के साथ एक sp-sp त्रिबंध और हाइड्रोजन के साथ एक sp-s बंध बनाता है। त्रिबंध में एक सिग्मा और दो पाई बंध होते हैं। इससे एथाइन को रैखिक संरचना मिलती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of isomerism is shown by butane and isobutane?",
+      "hindi": "ब्यूटेन और आइसोब्यूटेन किस प्रकार की समावयवता दर्शाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Chain isomerism",
+        "Position isomerism",
+        "Geometrical isomerism",
+        "Functional isomerism"
+      ],
+      "hindi": [
+        "श्रृंखला समावयवता",
+        "स्थिति समावयवता",
+        "ज्यामितीय समावयवता",
+        "क्रियात्मक समावयवता"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Butane (CH₃-CH₂-CH₂-CH₃) and isobutane (CH₃-CH(CH₃)-CH₃) show chain isomerism. They have same molecular formula (C₄H₁₀) but different arrangement of carbon chain. In butane, carbons form straight chain while in isobutane they form branched chain.",
+      "hindi": "ब्यूटेन (CH₃-CH₂-CH₂-CH₃) और आइसोब्यूटेन (CH₃-CH(CH₃)-CH₃) श्रृंखला समावयवता दर्शाते हैं। इनका आण्विक सूत्र समान (C₄H₁₀) है लेकिन कार्बन श्रृंखला की व्यवस्था अलग है। ब्यूटेन में कार्बन सीधी श्रृंखला बनाते हैं जबकि आइसोब्यूटेन में शाखित श्रृंखला।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the pH of soap solution?",
+      "hindi": "साबुन के घोल का pH क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Equal to 7",
+        "Zero",
+        "Less than 7",
+        "More than 7"
+      ],
+      "hindi": [
+        "7 के बराबर",
+        "शून्य",
+        "7 से कम",
+        "7 से अधिक"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Soap solution has pH more than 7 (basic nature). Soaps are sodium or potassium salts of fatty acids (like C₁₇H₃₅COONa). When dissolved in water, they undergo hydrolysis to form OH⁻ ions, making the solution basic. This is why soap feels slippery.",
+      "hindi": "साबुन के घोल का pH 7 से अधिक (क्षारीय प्रकृति) होता है। साबुन वसीय अम्लों के सोडियम या पोटैशियम लवण (जैसे C₁₇H₃₅COONa) होते हैं। पानी में घुलने पर ये जलअपघटन से OH⁻ आयन बनाते हैं, जो घोल को क्षारीय बनाता है। इसीलिए साबुन फिसलन भरा लगता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does carbon form covalent bonds instead of ionic bonds?",
+      "hindi": "कार्बन आयनिक बंध के बजाय सहसंयोजी बंध क्यों बनाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to small size",
+        "Due to low ionization energy",
+        "Due to high ionization energy",
+        "Due to large size"
+      ],
+      "hindi": [
+        "छोटे आकार के कारण",
+        "निम्न आयनन ऊर्जा के कारण",
+        "उच्च आयनन ऊर्जा के कारण",
+        "बड़े आकार के कारण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Carbon forms covalent bonds due to its high ionization energy. It needs lot of energy to lose electrons to form C⁴⁺ ions, and it's difficult to gain 4 electrons to form C⁴⁻ ions. So instead, it shares electrons with other atoms to form stable compounds with 8 electrons in outer shell.",
+      "hindi": "कार्बन उच्च आयनन ऊर्जा के कारण सहसंयोजी बंध बनाता है। C⁴⁺ आयन बनाने के लिए इलेक्ट्रॉन खोने में बहुत ऊर्जा चाहिए, और C⁴⁻ आयन बनाने के लिए 4 इलेक्ट्रॉन प्राप्त करना कठिन है। इसलिए यह बाहरी कक्षा में 8 इलेक्ट्रॉन वाले स्थायी यौगिक बनाने के लिए अन्य परमाणुओं के साथ इलेक्ट्रॉन साझा करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is the process of converting fats and oils into soaps called saponification?",
+      "hindi": "वसा और तेलों को साबुन में परिवर्तित करने की प्रक्रिया को साबुनीकरण क्यों कहा जाता है?"
+    },
+    "option": {
+      "english": [
+        "Because it produces soap as end product",
+        "Because it uses sodium hydroxide",
+        "Because it breaks down fats",
+        "Because it's a chemical reaction"
+      ],
+      "hindi": [
+        "क्योंकि यह अंतिम उत्पाद के रूप में साबुन बनाता है",
+        "क्योंकि इसमें सोडियम हाइड्रॉक्साइड का उपयोग होता है",
+        "क्योंकि यह वसा को तोड़ता है",
+        "क्योंकि यह एक रासायनिक अभिक्रिया है"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Saponification uses sodium hydroxide (NaOH) to convert fats/oils into soaps. For example: Fat + NaOH → Soap + Glycerol. The word 'sapo' means soap in Latin. NaOH breaks ester linkages in fats to form sodium salts of fatty acids (soaps) and glycerol.",
+      "hindi": "साबुनीकरण में सोडियम हाइड्रॉक्साइड (NaOH) का उपयोग वसा/तेलों को साबुन में बदलने के लिए किया जाता है। उदाहरण: वसा + NaOH → साबुन + ग्लिसरॉल। लैटिन में 'साबो' का अर्थ साबुन है। NaOH वसा में एस्टर बंधों को तोड़कर वसीय अम्लों के सोडियम लवण (साबुन) और ग्लिसरॉल बनाता है।"
+    }
+  }
 ]

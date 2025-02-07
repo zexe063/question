@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Solar energy",
-          "Wind power",
+          "Wind power", 
           "Natural cycles",
           "Greenhouse gases"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Greenhouse gases like carbon dioxide, methane and water vapor trap heat in Earth's atmosphere. These gases act like a blanket around Earth, preventing heat from escaping into space. This trapped heat causes global warming and climate change.",
+        "hindi": "कार्बन डाइऑक्साइड, मीथेन और जल वाष्प जैसी ग्रीनहाउस गैसें पृथ्वी के वायुमंडल में गर्मी को फंसाती हैं। ये गैसें पृथ्वी के चारों ओर एक कंबल की तरह काम करती हैं, जो गर्मी को अंतरिक्ष में जाने से रोकती हैं। यह फंसी हुई गर्मी ग्लोबल वार्मिंग और जलवायु परिवर्तन का कारण बनती है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most abundant gas in air. Oxygen is second at 21%, while other gases like carbon dioxide make up only a small percentage.",
+        "hindi": "नाइट्रोजन पृथ्वी के वायुमंडल का लगभग 78% भाग बनाती है, जो इसे वायु में सबसे प्रचुर गैस बनाती है। ऑक्सीजन 21% के साथ दूसरे स्थान पर है, जबकि कार्बन डाइऑक्साइड जैसी अन्य गैसें केवल एक छोटा प्रतिशत बनाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Green plants are autotrophs that make their own food through photosynthesis. Using sunlight, carbon dioxide and water, they produce glucose and oxygen. This makes them primary producers in food chains.",
+        "hindi": "हरे पौधे स्वपोषी होते हैं जो प्रकाश संश्लेषण द्वारा अपना भोजन स्वयं बनाते हैं। सूर्य के प्रकाश, कार्बन डाइऑक्साइड और पानी का उपयोग करके, वे ग्लूकोज और ऑक्सीजन का उत्पादन करते हैं। यह उन्हें खाद्य श्रृंखला में प्राथमिक उत्पादक बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Deforestation is the large-scale cutting down of forests. This damages ecosystems, reduces biodiversity, increases soil erosion and contributes to climate change by reducing trees that absorb carbon dioxide.",
+        "hindi": "वनों की कटाई जंगलों को बड़े पैमाने पर काटने की प्रक्रिया है। यह पारिस्थितिक तंत्र को नुकसान पहुंचाती है, जैव विविधता को कम करती है, मिट्टी के कटाव को बढ़ाती है और कार्बन डाइऑक्साइड को अवशोषित करने वाले पेड़ों को कम करके जलवायु परिवर्तन में योगदान करती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Plastic pollution severely damages the environment as plastic does not decompose naturally. It harms marine life, pollutes soil and water, enters food chains, and releases harmful chemicals when burned.",
+        "hindi": "प्लास्टिक प्रदूषण पर्यावरण को गंभीर नुकसान पहुंचाता है क्योंकि प्लास्टिक प्राकृतिक रूप से नष्ट नहीं होता। यह समुद्री जीवन को नुकसान पहुंचाता है, मिट्टी और पानी को प्रदूषित करता है, खाद्य श्रृंखलाओं में प्रवेश करता है, और जलने पर हानिकारक रसायन छोड़ता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Plastic is non-biodegradable as it cannot be broken down naturally by microorganisms. It can persist in the environment for hundreds of years, causing long-term pollution and harm to ecosystems.",
+        "hindi": "प्लास्टिक अजैव-निम्नीकरणीय है क्योंकि यह सूक्ष्मजीवों द्वारा प्राकृतिक रूप से विघटित नहीं हो सकता। यह सैकड़ों वर्षों तक पर्यावरण में बना रह सकता है, जो दीर्घकालिक प्रदूषण और पारिस्थितिक तंत्र को नुकसान पहुंचाता है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
-          "UV protection",
           "Heat production",
+          "UV protection",
           "Rain formation",
           "Wind control"
         ],
         "hindi": [
-          "पराबैंगनी संरक्षण",
           "ऊष्मा उत्पादन",
+          "पराबैंगनी संरक्षण",
           "वर्षा निर्माण",
           "वायु नियंत्रण"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "The ozone layer protects Earth from harmful ultraviolet (UV) radiation from the sun. It acts as a shield in the stratosphere, absorbing most of the UV-B radiation that can cause skin cancer and damage plants.",
+        "hindi": "ओजोन परत पृथ्वी को सूर्य की हानिकारक पराबैंगनी (UV) विकिरण से बचाती है। यह समताप मंडल में एक कवच के रूप में कार्य करती है, जो अधिकांश UV-B विकिरण को अवशोषित करती है जो त्वचा कैंसर का कारण बन सकती है और पौधों को नुकसान पहुंचा सकती है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Sustainable development means meeting present needs without compromising future generations' ability to meet their needs. It balances economic growth with environmental protection and social welfare.",
+        "hindi": "सतत विकास का अर्थ है वर्तमान की जरूरतों को पूरा करना बिना भविष्य की पीढ़ियों की जरूरतों को पूरा करने की क्षमता से समझौता किए। यह आर्थिक विकास को पर्यावरण संरक्षण और सामाजिक कल्याण के साथ संतुलित करता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Deforestation causes soil erosion because tree roots hold soil together. When trees are removed, soil becomes loose and is easily washed away by rain or blown away by wind, leading to land degradation.",
+        "hindi": "वनों की कटाई मृदा अपरदन का कारण बनती है क्योंकि पेड़ों की जड़ें मिट्टी को एक साथ पकड़े रखती हैं। जब पेड़ हटा दिए जाते हैं, तो मिट्टी ढीली हो जाती है और बारिश से बह जाती है या हवा से उड़ जाती है, जिससे भूमि का क्षरण होता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "A forest is a natural ecosystem that develops and maintains itself without human intervention. It contains naturally occurring plants and animals that interact with each other and their environment in a balanced way.",
+        "hindi": "जंगल एक प्राकृतिक पारिस्थितिकी तंत्र है जो मानव हस्तक्षेप के बिना विकसित होता है और स्वयं को बनाए रखता है। इसमें प्राकृतिक रूप से पाए जाने वाले पौधे और जानवर होते हैं जो एक-दूसरे और अपने पर्यावरण के साथ संतुलित तरीके से अंतःक्रिया करते हैं।"
+      }
     }
   ]

@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Rust is iron oxide with water molecules (Fe₂O₃.xH₂O). It forms when iron reacts with oxygen in the presence of moisture. The reddish-brown coating that appears on iron objects is rust. We can prevent rusting by painting, oiling, or galvanizing iron objects.",
+        "hindi": "जंग लोहे का ऑक्साइड है जिसमें पानी के अणु होते हैं (Fe₂O₃.xH₂O)। यह तब बनता है जब लोहा नमी की उपस्थिति में ऑक्सीजन से क्रिया करता है। लोहे की वस्तुओं पर दिखने वाली लाल-भूरी परत जंग है। हम लोहे की वस्तुओं को पेंट करके, तेल लगाकर या गैल्वनीकरण करके जंग लगने से बचा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In a neutralization reaction, an acid reacts with a base to form salt and water. For example: HCl (acid) + NaOH (base) → NaCl (salt) + H₂O (water). The solution becomes neutral (pH = 7) after the reaction. This is why we use milk of magnesia (base) for treating acidity in stomach.",
+        "hindi": "उदासीनीकरण अभिक्रिया में, एक अम्ल क्षार से क्रिया करके लवण और जल बनाता है। उदाहरण: HCl (अम्ल) + NaOH (क्षार) → NaCl (लवण) + H₂O (जल)। अभिक्रिया के बाद विलयन उदासीन (pH = 7) हो जाता है। इसीलिए हम पेट की अम्लता के इलाज के लिए मैग्नीशिया का दूध (क्षार) का उपयोग करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "MnO₂ acts as a catalyst in the decomposition of H₂O₂. A catalyst speeds up a chemical reaction but remains unchanged after the reaction. When MnO₂ is added to H₂O₂, it helps break down H₂O₂ into water and oxygen faster: 2H₂O₂ → 2H₂O + O₂",
+        "hindi": "MnO₂, H₂O₂ के अपघटन में उत्प्रेरक का काम करता है। उत्प्रेरक रासायनिक अभिक्रिया को तेज करता है लेकिन अभिक्रिया के बाद अपरिवर्तित रहता है। जब H₂O₂ में MnO₂ मिलाया जाता है, यह H₂O₂ को जल्दी से पानी और ऑक्सीजन में तोड़ने में मदद करता है: 2H₂O₂ → 2H₂O + O₂"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When metals react with acids, hydrogen gas is produced along with a salt. For example, when zinc reacts with hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂↑. The bubbles you see during the reaction are hydrogen gas. This is a common lab experiment to test for reactive metals.",
+        "hindi": "जब धातुएं अम्लों से क्रिया करती हैं, तो हाइड्रोजन गैस और लवण बनते हैं। उदाहरण के लिए, जब जिंक हाइड्रोक्लोरिक अम्ल से क्रिया करता है: Zn + 2HCl → ZnCl₂ + H₂↑। अभिक्रिया के दौरान दिखने वाले बुलबुले हाइड्रोजन गैस के होते हैं। यह क्रियाशील धातुओं की जांच के लिए एक सामान्य प्रयोगशाला प्रयोग है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Burning of magnesium is an oxidation reaction where magnesium combines with oxygen to form magnesium oxide: 2Mg + O₂ → 2MgO. During this reaction, magnesium burns with a bright white flame. This reaction shows that metals combine with oxygen to form metal oxides.",
+        "hindi": "मैग्नीशियम का जलना एक ऑक्सीकरण अभिक्रिया है जहां मैग्नीशियम ऑक्सीजन से मिलकर मैग्नीशियम ऑक्साइड बनाता है: 2Mg + O₂ → 2MgO। इस अभिक्रिया के दौरान मैग्नीशियम चमकीली सफेद लौ के साथ जलता है। यह अभिक्रिया दर्शाती है कि धातुएं ऑक्सीजन से मिलकर धातु ऑक्साइड बनाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "An endothermic reaction absorbs heat from surroundings, causing temperature to drop. For example, when we dissolve ammonium chloride in water, the solution becomes cold. This is why cold packs used for injuries contain chemicals that undergo endothermic reactions when mixed.",
+        "hindi": "ऊष्माशोषी अभिक्रिया आस-पास से ऊष्मा अवशोषित करती है, जिससे तापमान गिर जाता है। उदाहरण के लिए, जब हम अमोनियम क्लोराइड को पानी में घोलते हैं, तो घोल ठंडा हो जाता है। इसीलिए चोटों के लिए उपयोग किए जाने वाले कोल्ड पैक में ऐसे रसायन होते हैं जो मिश्रण करने पर ऊष्माशोषी अभिक्रिया करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Increasing concentration increases reaction rate because more particles are available to collide and react. For example, iron rusts faster in concentrated salt water than in pure water. This is why we use concentrated acid in labs for faster reactions.",
+        "hindi": "सांद्रता बढ़ाने से अभिक्रिया दर बढ़ जाती है क्योंकि टकराने और अभिक्रिया करने के लिए अधिक कण उपलब्ध होते हैं। उदाहरण के लिए, लोहे में शुद्ध पानी की तुलना में सांद्र नमक के पानी में जल्दी जंग लगती है। इसीलिए हम प्रयोगशालाओं में तेज अभिक्रियाओं के लिए सांद्र अम्ल का उपयोग करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Lime (calcium carbonate) decomposes on heating to form calcium oxide (quicklime) and carbon dioxide: CaCO₃ → CaO + CO₂. This reaction is used in cement industry. When quicklime reacts with water, it forms slaked lime which is used in whitewashing walls.",
+        "hindi": "चूना (कैल्शियम कार्बोनेट) गरम करने पर कैल्शियम ऑक्साइड (क्विकलाइम) और कार्बन डाइऑक्साइड में टूट जाता है: CaCO₃ → CaO + CO₂। यह अभिक्रिया सीमेंट उद्योग में उपयोग की जाती है। जब क्विकलाइम पानी से क्रिया करता है, तो बुझा हुआ चूना बनता है जिसका उपयोग दीवारों की पुताई में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In a storage battery (like car battery), redox reactions occur. During charging, electrical energy converts chemical compounds through oxidation and reduction. When discharging, chemical energy converts back to electrical energy. For example, in lead-acid battery: PbO₂ + Pb + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O",
+        "hindi": "संग्राहक बैटरी (जैसे कार की बैटरी) में रेडॉक्स अभिक्रियाएं होती हैं। चार्जिंग के दौरान, विद्युत ऊर्जा ऑक्सीकरण और अपचयन द्वारा रासायनिक यौगिकों में परिवर्तित होती है। डिस्चार्जिंग के दौरान, रासायनिक ऊर्जा वापस विद्युत ऊर्जा में परिवर्तित होती है। उदाहरण के लिए, लेड-एसिड बैटरी में: PbO₂ + Pb + 2H₂SO₄ ⇌ 2PbSO₄ + 2H₂O"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Chlorophyll acts as a catalyst in photosynthesis. It helps convert sunlight energy into chemical energy. The green pigment absorbs sunlight and enables the reaction: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Without chlorophyll, plants cannot make their food through photosynthesis.",
+        "hindi": "क्लोरोफिल प्रकाश संश्लेषण में उत्प्रेरक का काम करता है। यह सूर्य के प्रकाश की ऊर्जा को रासायनिक ऊर्जा में बदलने में मदद करता है। हरा वर्णक सूर्य के प्रकाश को अवशोषित करता है और अभिक्रिया को संभव बनाता है: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂। क्लोरोफिल के बिना, पौधे प्रकाश संश्लेषण द्वारा अपना भोजन नहीं बना सकते।"
+      }
     }
   ]

@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What is the product of combustion of ethanol?",
-        "hindi": "एथेनॉल के दहन से क्या उत्पाद बनते हैं?"
-      },
-      "option": {
-        "english": [
-          "CO₂ only",
-          "H₂O only",
-          "CO₂ and H₂",
-          "CO₂ and H₂O"
-        ],
-        "hindi": [
-          "केवल CO₂",
-          "केवल H₂O",
-          "CO₂ और H₂",
-          "CO₂ और H₂O"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is the product of combustion of ethanol?",
+      "hindi": "एथेनॉल के दहन से क्या उत्पाद बनते हैं?"
     },
-    {
-      "question_name": {
-        "english": "Which of these has triple bond?",
-        "hindi": "इनमें से किसमें त्रिबंध होता है?"
-      },
-      "option": {
-        "english": [
-          "Ethyne",
-          "Ethene",
-          "Ethane",
-          "Methane"
-        ],
-        "hindi": [
-          "एथाइन",
-          "एथीन",
-          "एथेन",
-          "मीथेन"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "CO₂ only",
+        "H₂O only", 
+        "CO₂ and H₂",
+        "CO₂ and H₂O"
+      ],
+      "hindi": [
+        "केवल CO₂",
+        "केवल H₂O",
+        "CO₂ और H₂",
+        "CO₂ और H₂O"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the number of valence electrons in carbon?",
-        "hindi": "कार्बन में संयोजी इलेक्ट्रॉनों की संख्या क्या है?"
-      },
-      "option": {
-        "english": [
-          "4",
-          "2",
-          "6",
-          "8"
-        ],
-        "hindi": [
-          "4",
-          "2",
-          "6",
-          "8"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which functional group is present in ketones?",
-        "hindi": "कीटोन में कौन सा क्रियात्मक समूह उपस्थित होता है?"
-      },
-      "option": {
-        "english": [
-          "-OH",
-          "-COOH",
-          ">C=O",
-          "-CHO"
-        ],
-        "hindi": [
-          "-OH",
-          "-COOH",
-          ">C=O",
-          "-CHO"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What happens when ethanoic acid reacts with ethanol?",
-        "hindi": "एथेनोइक अम्ल एथेनॉल से अभिक्रिया करने पर क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "No reaction",
-          "Forms ether",
-          "Forms ester",
-          "Forms alkane"
-        ],
-        "hindi": [
-          "कोई अभिक्रिया नहीं",
-          "ईथर बनता है",
-          "एस्टर बनता है",
-          "एल्केन बनता है"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which gas is evolved when sodium carbonate reacts with ethanoic acid?",
-        "hindi": "सोडियम कार्बोनेट एथेनोइक अम्ल से अभिक्रिया करने पर कौन सी गैस निकलती है?"
-      },
-      "option": {
-        "english": [
-          "CO₂",
-          "H₂",
-          "O₂",
-          "CH₄"
-        ],
-        "hindi": [
-          "CO₂",
-          "H₂",
-          "O₂",
-          "CH₄"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the IUPAC name of CH₃-CO-CH₃?",
-        "hindi": "CH₃-CO-CH₃ का IUPAC नाम क्या है?"
-      },
-      "option": {
-        "english": [
-          "Propanone",
-          "Propanal",
-          "Propanol",
-          "Propanoic acid"
-        ],
-        "hindi": [
-          "प्रोपेनोन",
-          "प्रोपैनल",
-          "प्रोपेनॉल",
-          "प्रोपेनोइक अम्ल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which catalyst is used in hydrogenation of vegetable oils?",
-        "hindi": "वनस्पति तेलों के हाइड्रोजनीकरण में कौन सा उत्प्रेरक प्रयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Fe",
-          "Pt",
-          "Ni",
-          "Cu"
-        ],
-        "hindi": [
-          "Fe",
-          "Pt",
-          "Ni",
-          "Cu"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of isomerism is shown by butanal and butanone?",
-        "hindi": "ब्यूटेनल और ब्यूटेनोन किस प्रकार की समावयवता दर्शाते हैं?"
-      },
-      "option": {
-        "english": [
-          "Chain",
-          "Position",
-          "Functional",
-          "Geometrical"
-        ],
-        "hindi": [
-          "श्रृंखला",
-          "स्थिति",
-          "क्रियात्मक",
-          "ज्यामितीय"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is denatured alcohol?",
-        "hindi": "विकृत एल्कोहल क्या है?"
-      },
-      "option": {
-        "english": [
-          "Pure ethanol",
-          "Methanol",
-          "Ethanol + poison",
-          "Propanol"
-        ],
-        "hindi": [
-          "शुद्ध एथेनॉल",
-          "मेथेनॉल",
-          "एथेनॉल + विष",
-          "प्रोपेनॉल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When ethanol (CH₃CH₂OH) burns in oxygen, it undergoes complete combustion to form carbon dioxide (CO₂) and water vapor (H₂O). The balanced equation is: CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O. This is similar to how other fuels burn in air to produce CO₂ and H₂O.",
+      "hindi": "जब एथेनॉल (CH₃CH₂OH) ऑक्सीजन में जलता है, तो यह पूर्ण दहन से कार्बन डाइऑक्साइड (CO₂) और जल वाष्प (H₂O) बनाता है। संतुलित समीकरण है: CH₃CH₂OH + 3O₂ → 2CO₂ + 3H₂O। यह अन्य ईंधनों के हवा में जलने के समान है जिससे CO₂ और H₂O बनते हैं।"
     }
+  },
+  {
+    "question_name": {
+      "english": "Which of these has triple bond?",
+      "hindi": "इनमें से किसमें त्रिबंध होता है?"
+    },
+    "option": {
+      "english": [
+        "Ethene",
+        "Ethyne",
+        "Ethane",
+        "Methane"
+      ],
+      "hindi": [
+        "एथीन",
+        "एथाइन",
+        "एथेन",
+        "मीथेन"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Ethyne (C₂H₂) has a triple bond between its carbon atoms (HC≡CH). This makes it highly unsaturated compared to ethene (double bond) and ethane (single bond). Triple bonds are stronger than double or single bonds and make the molecule more reactive.",
+      "hindi": "एथाइन (C₂H₂) में इसके कार्बन परमाणुओं के बीच एक त्रिबंध होता है (HC≡CH)। यह इसे एथीन (द्विबंध) और एथेन (एकल बंध) की तुलना में अधिक असंतृप्त बनाता है। त्रिबंध द्विबंध या एकल बंध से मजबूत होते हैं और अणु को अधिक क्रियाशील बनाते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the number of valence electrons in carbon?",
+      "hindi": "कार्बन में संयोजी इलेक्ट्रॉनों की संख्या क्या है?"
+    },
+    "option": {
+      "english": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ],
+      "hindi": [
+        "4",
+        "2",
+        "6",
+        "8"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Carbon has 4 valence electrons in its outermost shell. This allows carbon to form 4 covalent bonds by sharing electrons with other atoms. Due to these 4 valence electrons, carbon can form strong bonds with many elements and is the basis of organic chemistry.",
+      "hindi": "कार्बन के बाह्यतम कक्ष में 4 संयोजी इलेक्ट्रॉन होते हैं। यह कार्बन को अन्य परमाणुओं के साथ इलेक्ट्रॉन साझा करके 4 सहसंयोजी बंध बनाने की क्षमता देता है। इन 4 संयोजी इलेक्ट्रॉनों के कारण, कार्बन कई तत्वों के साथ मजबूत बंध बना सकता है और यह कार्बनिक रसायन का आधार है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which functional group is present in ketones?",
+      "hindi": "कीटोन में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+    },
+    "option": {
+      "english": [
+        "-OH",
+        "-COOH",
+        ">C=O",
+        "-CHO"
+      ],
+      "hindi": [
+        "-OH",
+        "-COOH",
+        ">C=O",
+        "-CHO"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Ketones contain the carbonyl group (>C=O) where the carbon of C=O is bonded to two carbon atoms. For example, in acetone (CH₃-CO-CH₃), the C=O group is between two methyl groups. This group gives ketones their characteristic properties.",
+      "hindi": "कीटोन में कार्बोनिल समूह (>C=O) होता है जहां C=O का कार्बन दो कार्बन परमाणुओं से जुड़ा होता है। उदाहरण के लिए, एसीटोन (CH₃-CO-CH₃) में, C=O समूह दो मेथिल समूहों के बीच होता है। यह समूह कीटोन को उनके विशिष्ट गुण प्रदान करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What happens when ethanoic acid reacts with ethanol?",
+      "hindi": "एथेनोइक अम्ल एथेनॉल से अभिक्रिया करने पर क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "No reaction",
+        "Forms ether",
+        "Forms alkane",
+        "Forms ester"
+      ],
+      "hindi": [
+        "कोई अभिक्रिया नहीं",
+        "ईथर बनता है",
+        "एल्केन बनता है",
+        "एस्टर बनता है"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When ethanoic acid (CH₃COOH) reacts with ethanol (CH₃CH₂OH) in presence of concentrated H₂SO₄, it forms an ester called ethyl ethanoate (CH₃COOC₂H₅) and water. This reaction is called esterification. The ester formed has a sweet fruity smell.",
+      "hindi": "जब एथेनोइक अम्ल (CH₃COOH) एथेनॉल (CH₃CH₂OH) से सांद्र H₂SO₄ की उपस्थिति में क्रिया करता है, तो एथिल एथेनोएट (CH₃COOC₂H₅) नामक एस्टर और पानी बनता है। इस क्रिया को एस्टरीकरण कहते हैं। बना हुआ एस्टर मीठी फलों जैसी गंध देता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which gas is evolved when sodium carbonate reacts with ethanoic acid?",
+      "hindi": "सोडियम कार्बोनेट एथेनोइक अम्ल से अभिक्रिया करने पर कौन सी गैस निकलती है?"
+    },
+    "option": {
+      "english": [
+        "CO₂",
+        "H₂",
+        "O₂",
+        "CH₄"
+      ],
+      "hindi": [
+        "CO₂",
+        "H₂",
+        "O₂",
+        "CH₄"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "When sodium carbonate (Na₂CO₃) reacts with ethanoic acid (CH₃COOH), carbon dioxide gas (CO₂) is evolved along with sodium ethanoate and water. The reaction is: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑. The bubbles seen in the reaction are of CO₂ gas.",
+      "hindi": "जब सोडियम कार्बोनेट (Na₂CO₃) एथेनोइक अम्ल (CH₃COOH) से क्रिया करता है, तो कार्बन डाइऑक्साइड गैस (CO₂) के साथ सोडियम एथेनोएट और पानी बनता है। अभिक्रिया है: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂↑। अभिक्रिया में दिखने वाले बुलबुले CO₂ गैस के होते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the IUPAC name of CH₃-CO-CH₃?",
+      "hindi": "CH₃-CO-CH₃ का IUPAC नाम क्या है?"
+    },
+    "option": {
+      "english": [
+        "Butane",
+        "Propan-2-one",
+        "Propanol",
+        "Propanoic acid"
+      ],
+      "hindi": [
+        "ब्यूटेन",
+        "प्रोपेन-2-ऑन",
+        "प्रोपेनॉल",
+        "प्रोपेनोइक अम्ल"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "CH₃-CO-CH₃ is propan-2-one (also called acetone). In IUPAC naming, ketones end with suffix '-one'. The number '2' indicates the position of C=O group. It is the simplest ketone used as a solvent in nail polish removers.",
+      "hindi": "CH₃-CO-CH₃ का नाम प्रोपेन-2-ऑन है (इसे एसीटोन भी कहते हैं)। IUPAC नामकरण में, कीटोन का अंत '-ऑन' से होता है। संख्या '2' C=O समूह की स्थिति दर्शाती है। यह सबसे सरल कीटोन है जिसका उपयोग नेल पॉलिश रिमूवर में विलायक के रूप में किया जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which catalyst is used in hydrogenation of vegetable oils?",
+      "hindi": "वनस्पति तेलों के हाइड्रोजनीकरण में कौन सा उत्प्रेरक प्रयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Fe",
+        "Pt",
+        "Ni",
+        "Cu"
+      ],
+      "hindi": [
+        "Fe",
+        "Pt",
+        "Ni",
+        "Cu"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Nickel (Ni) is used as a catalyst in the hydrogenation of vegetable oils. During this process, liquid vegetable oils (unsaturated) are converted to solid fats (saturated) by adding hydrogen in presence of nickel catalyst. This process is used in making vanaspati ghee from vegetable oil.",
+      "hindi": "वनस्पति तेलों के हाइड्रोजनीकरण में निकल (Ni) को उत्प्रेरक के रूप में प्रयोग किया जाता है। इस प्रक्रिया में, तरल वनस्पति तेल (असंतृप्त) को निकल उत्प्रेरक की उपस्थिति में हाइड्रोजन मिलाकर ठोस वसा (संतृप्त) में बदला जाता है। इस प्रक्रिया का उपयोग वनस्पति तेल से वनस्पति घी बनाने में किया जाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of isomerism is shown by butanal and butanone?",
+      "hindi": "ब्यूटेनल और ब्यूटेनोन किस प्रकार की समावयवता दर्शाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Chain",
+        "Position",
+        "Geometrical",
+        "Functional"
+      ],
+      "hindi": [
+        "श्रृंखला",
+        "स्थिति",
+        "ज्यामितीय",
+        "क्रियात्मक"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Butanal (CH₃CH₂CH₂CHO) and butanone (CH₃CH₂COCH₃) show functional isomerism. They have same molecular formula (C₄H₈O) but different functional groups - aldehyde (-CHO) in butanal and ketone (>C=O) in butanone. This gives them different chemical properties.",
+      "hindi": "ब्यूटेनल (CH₃CH₂CH₂CHO) और ब्यूटेनोन (CH₃CH₂COCH₃) क्रियात्मक समावयवता दर्शाते हैं। इनका अणुसूत्र समान (C₄H₈O) होता है लेकिन क्रियात्मक समूह अलग होते हैं - ब्यूटेनल में ऐल्डिहाइड (-CHO) और ब्यूटेनोन में कीटोन (>C=O)। इस कारण इनके रासायनिक गुण अलग होते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is denatured alcohol?",
+      "hindi": "विकृत एल्कोहल क्या है?"
+    },
+    "option": {
+      "english": [
+        "Ethanol + poison",
+        "Pure ethanol",
+        "Methanol",
+        "Propanol"
+      ],
+      "hindi": [
+        "एथेनॉल + विष",
+        "शुद्ध एथेनॉल",
+        "मेथेनॉल",
+        "प्रोपेनॉल"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Denatured alcohol is ethanol that has been made unfit for drinking by adding poisonous substances like methanol or copper salts. This is done to prevent misuse of industrial alcohol as alcoholic beverages. The added substances make it toxic if consumed but don't affect its industrial uses.",
+      "hindi": "विकृत एल्कोहल वह एथेनॉल है जिसे मेथेनॉल या कॉपर लवण जैसे विषैले पदार्थ मिलाकर पीने के लिए अयोग्य बना दिया जाता है। यह औद्योगिक एल्कोहल के मदिरा के रूप में दुरुपयोग को रोकने के लिए किया जाता है। मिलाए गए पदार्थ इसे पीने पर विषैला बनाते हैं लेकिन इसके औद्योगिक उपयोगों को प्रभावित नहीं करते।"
+    }
+  }
 ]

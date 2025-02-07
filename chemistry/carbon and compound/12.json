@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "What happens when ethanoic acid reacts with ethanol in presence of H₂SO₄?",
-        "hindi": "एथेनोइक अम्ल एथेनॉल से H₂SO₄ की उपस्थिति में अभिक्रिया करने पर क्या बनता है?"
-      },
-      "option": {
-        "english": [
-          "Ethyl ethanoate only",
-          "Water only",
-          "No reaction",
-          "Ethyl ethanoate and water"
-        ],
-        "hindi": [
-          "केवल एथिल एथेनोएट",
-          "केवल जल",
-          "कोई अभिक्रिया नहीं",
-          "एथिल एथेनोएट और जल"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Why does Lewis dot structure show only valence electrons?",
+      "hindi": "लुईस डॉट संरचना केवल संयोजी इलेक्ट्रॉन को क्यों दर्शाती है?"
     },
-    {
-      "question_name": {
-        "english": "Which of these is used as a fuel?",
-        "hindi": "इनमें से किसका उपयोग ईंधन के रूप में किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Ethanol",
-          "Methanol",
-          "CNG",
-          "All of these"
-        ],
-        "hindi": [
-          "एथेनॉल",
-          "मेथेनॉल",
-          "CNG",
-          "ये सभी"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Because inner electrons don't participate in bonding",
+        "Because valence electrons are more stable",
+        "Because inner electrons are more reactive",
+        "Because valence electrons participate in bonding"
+      ],
+      "hindi": [
+        "क्योंकि आंतरिक इलेक्ट्रॉन बंधन में भाग नहीं लेते",
+        "क्योंकि संयोजी इलेक्ट्रॉन अधिक स्थिर होते हैं",
+        "क्योंकि आंतरिक इलेक्ट्रॉन अधिक क्रियाशील होते हैं",
+        "क्योंकि संयोजी इलेक्ट्रॉन बंधन में भाग लेते हैं"
+      ]
     },
-    {
-      "question_name": {
-        "english": "What is the general formula of alkynes?",
-        "hindi": "एल्काइन का सामान्य सूत्र क्या है?"
-      },
-      "option": {
-        "english": [
-          "CₙH₂ₙ₋₂",
-          "CₙH₂ₙ",
-          "CₙH₂ₙ₊₂",
-          "CₙH₂ₙ₊₁"
-        ],
-        "hindi": [
-          "CₙH₂ₙ₋₂",
-          "CₙH₂ₙ",
-          "CₙH₂ₙ₊₂",
-          "CₙH₂ₙ₊₁"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which of these has highest carbon content?",
-        "hindi": "इनमें से किसमें कार्बन की मात्रा सबसे अधिक होती है?"
-      },
-      "option": {
-        "english": [
-          "Diamond",
-          "Graphite",
-          "Coal",
-          "Coke"
-        ],
-        "hindi": [
-          "हीरा",
-          "ग्रेफाइट",
-          "कोयला",
-          "कोक"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of yeast in fermentation?",
-        "hindi": "किण्वन में यीस्ट की क्या भूमिका होती है?"
-      },
-      "option": {
-        "english": [
-          "Reactant",
-          "Product",
-          "Catalyst",
-          "Enzyme"
-        ],
-        "hindi": [
-          "अभिकारक",
-          "उत्पाद",
-          "उत्प्रेरक",
-          "एंजाइम"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the hybridization in ethyne?",
-        "hindi": "एथाइन में संकरण क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "sp",
-          "sp²",
-          "sp³",
-          "No hybridization"
-        ],
-        "hindi": [
-          "sp",
-          "sp²",
-          "sp³",
-          "कोई संकरण नहीं"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of isomerism is shown by butane and isobutane?",
-        "hindi": "ब्यूटेन और आइसोब्यूटेन किस प्रकार की समावयवता दर्शाते हैं?"
-      },
-      "option": {
-        "english": [
-          "Chain isomerism",
-          "Position isomerism",
-          "Functional isomerism",
-          "Geometrical isomerism"
-        ],
-        "hindi": [
-          "श्रृंखला समावयवता",
-          "स्थिति समावयवता",
-          "क्रियात्मक समावयवता",
-          "ज्यामितीय समावयवता"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the pH of soap solution?",
-        "hindi": "साबुन के घोल का pH क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "Less than 7",
-          "Equal to 7",
-          "More than 7",
-          "Zero"
-        ],
-        "hindi": [
-          "7 से कम",
-          "7 के बराबर",
-          "7 से अधिक",
-          "शून्य"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Why does carbon form covalent bonds instead of ionic bonds?",
-        "hindi": "कार्बन आयनिक बंध के बजाय सहसंयोजी बंध क्यों बनाता है?"
-      },
-      "option": {
-        "english": [
-          "Due to large size",
-          "Due to small size",
-          "Due to high ionization energy",
-          "Due to low ionization energy"
-        ],
-        "hindi": [
-          "बड़े आकार के कारण",
-          "छोटे आकार के कारण",
-          "उच्च आयनन ऊर्जा के कारण",
-          "निम्न आयनन ऊर्जा के कारण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "What is the IUPAC name of CH₃-CH₂-CHO?",
-        "hindi": "CH₃-CH₂-CHO का IUPAC नाम क्या है?"
-      },
-      "option": {
-        "english": [
-          "Propanal",
-          "Propanone",
-          "Propanol",
-          "Propanoic acid"
-        ],
-        "hindi": [
-          "प्रोपेनल",
-          "प्रोपेनोन",
-          "प्रोपेनॉल",
-          "प्रोपेनोइक अम्ल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "hard"
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Lewis dot structure shows only valence electrons because these are the electrons in the outermost shell that participate in chemical bonding. Inner shell electrons are tightly held by the nucleus and do not take part in bonding. This makes it easier to understand how atoms share electrons to form chemical bonds.",
+      "hindi": "लुईस डॉट संरचना केवल संयोजी इलेक्ट्रॉन को दिखाती है क्योंकि बाहरी कक्षा के ये इलेक्ट्रॉन ही रासायनिक बंधन में भाग लेते हैं। आंतरिक कक्षा के इलेक्ट्रॉन नाभिक द्वारा मजबूती से बंधे होते हैं और बंधन में भाग नहीं लेते। इससे यह समझना आसान हो जाता है कि परमाणु रासायनिक बंध बनाने के लिए इलेक्ट्रॉनों को कैसे साझा करते हैं।"
     }
+  },
+  {
+    "question_name": {
+      "english": "What happens when sodium metal reacts with ethanol?",
+      "hindi": "सोडियम धातु एथेनॉल से अभिक्रिया करने पर क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Forms oxide",
+        "No reaction",
+        "Forms Sodium ethoxide and hydrogen",
+        "Forms salt and water"
+      ],
+      "hindi": [
+        "ऑक्साइड बनता है",
+        "कोई अभिक्रिया नहीं",
+        "सोडियम एथोक्साइड और हाइड्रोजन बनाता है",
+        "लवण और जल बनता है"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When sodium metal reacts with ethanol (C₂H₅OH), it replaces the hydrogen of the -OH group to form sodium ethoxide (C₂H₅ONa) and releases hydrogen gas. The reaction is: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. This is similar to how sodium reacts with water, but less vigorously.",
+      "hindi": "जब सोडियम धातु एथेनॉल (C₂H₅OH) से क्रिया करती है, तो यह -OH समूह के हाइड्रोजन को प्रतिस्थापित करके सोडियम एथोक्साइड (C₂H₅ONa) बनाती है और हाइड्रोजन गैस निकलती है। अभिक्रिया है: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. यह सोडियम और पानी की अभिक्रिया के समान है, लेकिन कम तीव्र होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why do soap molecules form micelles in water?",
+      "hindi": "साबुन के अणु जल में मिसेल क्यों बनाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Due to their hydrophilic and hydrophobic ends",
+        "Due to their acidic nature",
+        "Due to their basic nature",
+        "Due to their neutral nature"
+      ],
+      "hindi": [
+        "उनके जलस्नेही और जलविकर्षी सिरों के कारण",
+        "उनकी अम्लीय प्रकृति के कारण",
+        "उनकी क्षारीय प्रकृति के कारण", 
+        "उनकी उदासीन प्रकृति के कारण"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Soap molecules have two ends - one hydrophilic (water-loving) and one hydrophobic (water-hating). In water, they arrange themselves into spherical structures called micelles, where the hydrophilic ends face the water and hydrophobic ends cluster inside. This helps trap dirt and grease inside the micelle, making it possible to wash them away with water.",
+      "hindi": "साबुन के अणुओं के दो सिरे होते हैं - एक जलस्नेही (पानी को पसंद करने वाला) और एक जलविकर्षी (पानी को नापसंद करने वाला)। पानी में, वे गोलाकार संरचनाएं बनाते हैं जिन्हें मिसेल कहते हैं, जहां जलस्नेही सिरे पानी की ओर होते हैं और जलविकर्षी सिरे अंदर की ओर एकत्रित होते हैं। यह मैल और ग्रीस को मिसेल के अंदर फंसाने में मदद करता है, जिससे उन्हें पानी के साथ धोया जा सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does carbon form exactly four covalent bonds?",
+      "hindi": "कार्बन ठीक चार सहसंयोजी बंध क्यों बनाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to its atomic size",
+        "Due to its valency of 4",
+        "Due to its atomic number",
+        "Due to its electronic configuration"
+      ],
+      "hindi": [
+        "इसके परमाणु आकार के कारण",
+        "इसकी संयोजकता 4 होने के कारण",
+        "इसकी परमाणु संख्या के कारण",
+        "इसके इलेक्ट्रॉनिक विन्यास के कारण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Carbon has 4 electrons in its outermost shell and needs 4 more electrons to achieve a stable octet configuration (8 electrons). Therefore, it forms exactly 4 covalent bonds by sharing one electron with four other atoms. This valency of 4 is what makes carbon unique and able to form millions of compounds.",
+      "hindi": "कार्बन की बाहरी कक्षा में 4 इलेक्ट्रॉन होते हैं और स्थिर अष्टक विन्यास (8 इलेक्ट्रॉन) प्राप्त करने के लिए इसे 4 और इलेक्ट्रॉन की आवश्यकता होती है। इसलिए, यह चार अन्य परमाणुओं के साथ एक-एक इलेक्ट्रॉन साझा करके ठीक 4 सहसंयोजी बंध बनाता है। यह संयोजकता 4 ही कार्बन को विशिष्ट बनाती है और लाखों यौगिक बनाने में सक्षम बनाती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Which of these is used in denatured spirit?",
+      "hindi": "विकृत स्पिरिट में इनमें से किसका उपयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Butanol",
+        "Propanol",
+        "Methanol",
+        "Ethanol"
+      ],
+      "hindi": [
+        "ब्यूटेनॉल",
+        "प्रोपेनॉल",
+        "मेथेनॉल",
+        "एथेनॉल"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Denatured spirit is ethanol that has been made unfit for drinking by adding small amounts of methanol and other substances. It contains about 95% ethanol. This is done to avoid the misuse of industrial alcohol for drinking purposes, as denatured spirit is toxic if consumed.",
+      "hindi": "विकृत स्पिरिट वह एथेनॉल है जिसे मेथेनॉल और अन्य पदार्थों की थोड़ी मात्रा मिलाकर पीने के लिए अयोग्य बना दिया जाता है। इसमें लगभग 95% एथेनॉल होता है। यह औद्योगिक अल्कोहल के पीने के लिए दुरुपयोग को रोकने के लिए किया जाता है, क्योंकि विकृत स्पिरिट पीने पर जहरीली होती है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does soap form scum with hard water?",
+      "hindi": "साबुन कठोर जल के साथ मैल क्यों बनाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to formation of insoluble calcium salts",
+        "Due to formation of calcium carbonate",
+        "Due to formation of magnesium hydroxide",
+        "Due to formation of sodium chloride"
+      ],
+      "hindi": [
+        "अघुलनशील कैल्शियम लवणों के निर्माण के कारण",
+        "कैल्शियम कार्बोनेट के निर्माण के कारण",
+        "मैग्नीशियम हाइड्रॉक्साइड के निर्माण के कारण", 
+        "सोडियम क्लोराइड के निर्माण के कारण"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Hard water contains calcium and magnesium ions. When soap (sodium salt of fatty acids) reacts with these ions, it forms insoluble calcium and magnesium salts of fatty acids. These insoluble salts appear as a grey, sticky precipitate called soap scum. This is why soap doesn't lather well in hard water.",
+      "hindi": "कठोर जल में कैल्शियम और मैग्नीशियम आयन होते हैं। जब साबुन (वसीय अम्लों का सोडियम लवण) इन आयनों से क्रिया करता है, तो यह वसीय अम्लों के अघुलनशील कैल्शियम और मैग्नीशियम लवण बनाता है। ये अघुलनशील लवण एक धूसर, चिपचिपा अवक्षेप के रूप में दिखाई देते हैं जिसे साबुन का मैल कहते हैं। इसीलिए साबुन कठोर पानी में अच्छी तरह झाग नहीं बनाता।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does carbon show the property of catenation?",
+      "hindi": "कार्बन श्रृंखलन का गुण क्यों दर्शाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to its small size",
+        "Due to its high electronegativity",
+        "Due to its ability to form stable covalent bonds",
+        "Due to its metallic nature"
+      ],
+      "hindi": [
+        "इसके छोटे आकार के कारण",
+        "इसकी उच्च विद्युत ऋणात्मकता के कारण",
+        "स्थायी सहसंयोजी बंध बनाने की क्षमता के कारण",
+        "इसकी धात्विक प्रकृति के कारण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Catenation is the ability of atoms to form long chains with themselves. Carbon shows exceptional catenation property because it can form strong and stable covalent bonds with other carbon atoms. This is possible due to its valency of 4 and the similar size of carbon atoms. This property allows carbon to form millions of compounds, from simple molecules like methane (CH₄) to complex molecules like proteins.",
+      "hindi": "श्रृंखलन परमाणुओं की अपने जैसे परमाणुओं के साथ लंबी श्रृंखलाएं बनाने की क्षमता है। कार्बन असाधारण श्रृंखलन गुण दर्शाता है क्योंकि यह अन्य कार्बन परमाणुओं के साथ मजबूत और स्थायी सहसंयोजी बंध बना सकता है। यह इसकी संयोजकता 4 और कार्बन परमाणुओं के समान आकार के कारण संभव है। यह गुण कार्बन को मीथेन (CH₄) जैसे सरल अणुओं से लेकर प्रोटीन जैसे जटिल अणुओं तक, लाखों यौगिक बनाने की क्षमता प्रदान करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why does ethanol react with sodium metal to produce hydrogen gas?",
+      "hindi": "एथेनॉल सोडियम धातु के साथ अभिक्रिया करके हाइड्रोजन गैस क्यों बनाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to oxidation of ethanol",
+        "Due to replacement of H+ by Na+",
+        "Due to reduction of sodium",
+        "Due to decomposition of ethanol"
+      ],
+      "hindi": [
+        "एथेनॉल के ऑक्सीकरण के कारण",
+        "H+ का Na+ द्वारा प्रतिस्थापन के कारण",
+        "सोडियम के अपचयन के कारण",
+        "एथेनॉल के अपघटन के कारण"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "When ethanol (C₂H₅OH) reacts with sodium metal, the sodium replaces the hydrogen of the -OH group. This happens because sodium is more reactive than hydrogen. The reaction is: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. The hydrogen ions (H+) are replaced by sodium ions (Na+), and the displaced hydrogen atoms combine to form H₂ gas.",
+      "hindi": "जब एथेनॉल (C₂H₅OH) सोडियम धातु से क्रिया करता है, तो सोडियम -OH समूह के हाइड्रोजन को प्रतिस्थापित कर देता है। ऐसा इसलिए होता है क्योंकि सोडियम हाइड्रोजन से अधिक क्रियाशील होता है। अभिक्रिया है: 2C₂H₅OH + 2Na → 2C₂H₅ONa + H₂. हाइड्रोजन आयन (H+) सोडियम आयन (Na+) द्वारा प्रतिस्थापित हो जाते हैं, और विस्थापित हाइड्रोजन परमाणु संयोजित होकर H₂ गैस बनाते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What is the role of sulphuric acid in esterification?",
+      "hindi": "एस्टरीकरण में सल्फ्यूरिक अम्ल की क्या भूमिका होती है?"
+    },
+    "option": {
+      "english": [
+        "Dehydrating agent",
+        "Oxidizing agent",
+        "Reducing agent",
+        "Catalyst"
+      ],
+      "hindi": [
+        "निर्जलीकारक",
+        "ऑक्सीकारक",
+        "अपचायक",
+        "उत्प्रेरक"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "In esterification (reaction between carboxylic acid and alcohol to form ester), concentrated sulphuric acid acts as a catalyst. It speeds up the reaction without being consumed. For example, in the formation of ethyl ethanoate: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, H₂SO₄ helps the reaction proceed faster but remains unchanged at the end.",
+      "hindi": "एस्टरीकरण में (कार्बोक्सिलिक अम्ल और अल्कोहल के बीच एस्टर बनाने की क्रिया), सांद्र सल्फ्यूरिक अम्ल उत्प्रेरक की भूमिका निभाता है। यह बिना खपत हुए अभिक्रिया को तेज करता है। उदाहरण के लिए, एथिल एथेनोएट के निर्माण में: CH₃COOH + C₂H₅OH ⇌ CH₃COOC₂H₅ + H₂O, H₂SO₄ अभिक्रिया को तेजी से आगे बढ़ने में मदद करता है लेकिन अंत में अपरिवर्तित रहता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why do aldehydes show high reactivity compared to other organic compounds?",
+      "hindi": "एल्डिहाइड अन्य कार्बनिक यौगिकों की तुलना में अधिक क्रियाशीलता क्यों दर्शाते हैं?"
+    },
+    "option": {
+      "english": [
+        "Due to presence of carbonyl group",
+        "Due to presence of hydroxyl group",
+        "Due to presence of carboxyl group",
+        "Due to presence of alkyl group"
+      ],
+      "hindi": [
+        "कार्बोनिल समूह की उपस्थिति के कारण",
+        "हाइड्रॉक्सिल समूह की उपस्थिति के कारण",
+        "कार्बोक्सिल समूह की उपस्थिति के कारण",
+        "एल्किल समूह की उपस्थिति के कारण"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Aldehydes show high reactivity due to the presence of the carbonyl group (C=O). In this group, the carbon atom is electron-deficient because oxygen pulls electrons towards itself (due to its high electronegativity). This makes the carbon atom partially positive and very reactive. For example, ethanal (CH₃CHO) easily reacts with many substances due to this carbonyl group.",
+      "hindi": "एल्डिहाइड कार्बोनिल समूह (C=O) की उपस्थिति के कारण उच्च क्रियाशीलता दर्शाते हैं। इस समूह में, कार्बन परमाणु इलेक्ट्रॉन की कमी वाला होता है क्योंकि ऑक्सीजन अपनी उच्च विद्युत ऋणात्मकता के कारण इलेक्ट्रॉनों को अपनी ओर खींचता है। यह कार्बन परमाणु को आंशिक धनावेशित और अत्यधिक क्रियाशील बनाता है। उदाहरण के लिए, एथेनल (CH₃CHO) इस कार्बोनिल समूह के कारण कई पदार्थों के साथ आसानी से क्रिया करता है।"
+    }
+  }
 ]

@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Alleles",
-          "Traits",
+          "Traits", 
           "Linked genes",
           "Phenotypes"
         ],
@@ -19,6 +19,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Linked genes are genes located on the same chromosome that tend to be inherited together. For example, in pea plants, the genes for seed color and seed shape are often inherited together because they are on the same chromosome.",
+        "hindi": "सहलग्न जीन एक ही गुणसूत्र पर स्थित जीन होते हैं जो आमतौर पर एक साथ विरासत में मिलते हैं। उदाहरण के लिए, मटर के पौधों में, बीज के रंग और बीज के आकार के जीन अक्सर एक साथ विरासत में मिलते हैं क्योंकि वे एक ही गुणसूत्र पर होते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "DNA (Deoxyribonucleic Acid) stores genetic information like a recipe book for our body. It contains instructions for making proteins that determine our traits like eye color, height, etc. Just like a book stores information in words, DNA stores information in its base sequences.",
+        "hindi": "डीएनए (डिऑक्सीराइबोन्यूक्लिक एसिड) हमारे शरीर के लिए एक रेसिपी बुक की तरह आनुवंशिक जानकारी संग्रहित करता है। इसमें प्रोटीन बनाने के निर्देश होते हैं जो हमारे लक्षणों जैसे आंखों का रंग, ऊंचाई आदि को निर्धारित करते हैं। जैसे एक किताब में शब्दों में जानकारी होती है, वैसे ही डीएनए अपने बेस क्रम में जानकारी रखता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +73,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "tRNA (transfer RNA) works like a delivery truck that brings amino acids to the protein-making factory (ribosome). It picks up specific amino acids and carries them to the right spot where proteins are being built, following the instructions from mRNA.",
+        "hindi": "tRNA (ट्रांसफर आरएनए) एक डिलीवरी ट्रक की तरह काम करता है जो अमीनो एसिड को प्रोटीन बनाने की फैक्ट्री (राइबोसोम) तक पहुंचाता है। यह विशिष्ट अमीनो एसिड को उठाता है और mRNA के निर्देशों के अनुसार उन्हें सही जगह पर ले जाता है जहां प्रोटीन बन रही होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA replication ensures genetic continuity by making exact copies of DNA before cell division. It's like photocopying a recipe book so each new cell gets the same genetic instructions. This process helps pass traits from parent cells to daughter cells.",
+        "hindi": "DNA प्रतिकृति कोशिका विभाजन से पहले DNA की सटीक प्रतियां बनाकर आनुवंशिक निरंतरता सुनिश्चित करती है। यह एक रेसिपी बुक की फोटोकॉपी करने जैसा है ताकि हर नई कोशिका को एक जैसे आनुवंशिक निर्देश मिलें। यह प्रक्रिया मूल कोशिका से नई कोशिकाओं में लक्षणों को पहुंचाने में मदद करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,29 +127,37 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Stop codons are like full stops in a sentence - they tell the cell when to stop making a protein. Just like a period tells us where a sentence ends, stop codons signal where protein synthesis should end. Without them, proteins would keep growing and wouldn't work properly.",
+        "hindi": "स्टॉप कोडोन वाक्य में पूर्णविराम की तरह होते हैं - वे कोशिका को बताते हैं कि प्रोटीन बनाना कब रोकना है। जैसे पूर्णविराम हमें बताता है कि वाक्य कहां समाप्त होता है, वैसे ही स्टॉप कोडोन संकेत देते हैं कि प्रोटीन संश्लेषण कहां समाप्त होना चाहिए। इनके बिना, प्रोटीन बढ़ती रहेंगी और ठीक से काम नहीं करेंगी।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What causes sickle cell anemia?",
-        "hindi": "दात्र कोशिका एनीमिया का क्या कारण है?"
+        "english": "What happens when both dominant alleles are present in an organism?",
+        "hindi": "जब किसी जीव में दोनों प्रभावी एलील मौजूद होते हैं तो क्या होता है?"
       },
       "option": {
         "english": [
-          "Chromosome deletion",
-          "Gene mutation",
-          "Chromosome addition",
-          "Gene deletion"
+          "Recessive trait appears",
+          "Dominant trait appears",
+          "No trait appears",
+          "Random expression"
         ],
         "hindi": [
-          "गुणसूत्र विलोपन",
-          "जीन उत्परिवर्तन",
-          "गुणसूत्र संयोजन",
-          "जीन विलोपन"
+          "अप्रभावी लक्षण प्रकट होता है",
+          "प्रभावी लक्षण प्रकट होता है",
+          "कोई लक्षण नहीं प्रकट होता",
+          "यादृच्छिक अभिव्यक्ति"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "When both dominant alleles are present (like TT for tall in pea plants), the dominant trait appears. Think of it like a loud voice (dominant) and a whisper (recessive) - if both voices are loud, you'll only hear the loud sound. Similarly, when both alleles are dominant, you see the dominant trait.",
+        "hindi": "जब दोनों प्रभावी एलील मौजूद होते हैं (जैसे मटर के पौधों में लंबाई के लिए TT), तब प्रभावी लक्षण दिखाई देता है। इसे ऊंची आवाज (प्रभावी) और फुसफुसाहट (अप्रभावी) की तरह समझें - यदि दोनों आवाजें ऊंची हैं, तो आप केवल ऊंची आवाज सुनेंगे। इसी तरह, जब दोनों एलील प्रभावी होते हैं, तो आप प्रभावी लक्षण देखते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,75 +181,91 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The first 22 pairs of chromosomes are autosomes, which control general body characteristics. Think of them as the basic instruction set that's same for both males and females. The 23rd pair (sex chromosomes) determines gender, but these first 22 pairs control everything else like eye color, height, etc.",
+        "hindi": "पहले 22 जोड़े गुणसूत्र अलिंग गुणसूत्र होते हैं, जो सामान्य शारीरिक विशेषताओं को नियंत्रित करते हैं। इन्हें मूल निर्देश समूह की तरह समझें जो पुरुष और महिला दोनों में समान होता है। 23वां जोड़ा (लिंग गुणसूत्र) लिंग निर्धारित करता है, लेकिन ये पहले 22 जोड़े आंखों का रंग, ऊंचाई आदि जैसी अन्य सभी चीजों को नियंत्रित करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the role of genetic counseling?",
-        "hindi": "आनुवंशिक परामर्श की क्या भूमिका है?"
+        "english": "Which trait is a recessive trait in pea plants studied by Mendel?",
+        "hindi": "मेंडल द्वारा अध्ययन किए गए मटर के पौधों में कौन सा लक्षण अप्रभावी लक्षण है?"
       },
       "option": {
         "english": [
-          "Treatment",
-          "Diagnosis",
-          "Prevention",
-          "Risk assessment"
+          "Tall stem",
+          "Round seeds",
+          "Yellow seeds",
+          "White flowers"
         ],
         "hindi": [
-          "उपचार",
-          "निदान",
-          "रोकथाम",
-          "जोखिम मूल्यांकन"
+          "लंबा तना",
+          "गोल बीज",
+          "पीले बीज", 
+          "सफेद फूल"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "In Mendel's pea plants, white flowers were a recessive trait while purple flowers were dominant. This means white flowers only appear when both alleles are recessive (ww), while purple flowers appear with even one dominant allele (WW or Ww). It's like needing both parents to have the white flower gene to get white flowers.",
+        "hindi": "मेंडल के मटर के पौधों में, सफेद फूल एक अप्रभावी लक्षण था जबकि बैंगनी फूल प्रभावी थे। इसका मतलब है कि सफेद फूल तभी दिखाई देते हैं जब दोनों एलील अप्रभावी (ww) होते हैं, जबकि बैंगनी फूल एक भी प्रभावी एलील (WW या Ww) होने पर दिखाई देते हैं। यह ऐसा है जैसे सफेद फूल पाने के लिए दोनों माता-पिता में सफेद फूल का जीन होना जरूरी है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is genomic imprinting?",
-        "hindi": "जीनोमिक छाप क्या है?"
+        "english": "Why do dominant traits appear in first generation of offspring?",
+        "hindi": "प्रभावी लक्षण संतति की पहली पीढ़ी में क्यों दिखाई देते हैं?"
       },
       "option": {
         "english": [
-          "DNA replication",
-          "RNA synthesis",
-          "Gene expression pattern",
-          "Protein coding"
+          "Due to mutation",
+          "Due to crossing over",
+          "Due to single copy expression",
+          "Due to recessive genes"
         ],
         "hindi": [
-          "DNA प्रतिकृति",
-          "RNA संश्लेषण",
-          "जीन अभिव्यक्ति प्रतिरूप",
-          "प्रोटीन कूटलेखन"
+          "उत्परिवर्तन के कारण",
+          "क्रॉसिंग ओवर के कारण", 
+          "एकल प्रति अभिव्यक्ति के कारण",
+          "अप्रभावी जीन के कारण"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Dominant traits appear in the first generation because even a single copy of the dominant allele is enough to show the trait. It's like having one working TV remote - even if the other is broken, you can still change channels. Similarly, one dominant allele can express the trait even if the other allele is recessive.",
+        "hindi": "प्रभावी लक्षण पहली पीढ़ी में दिखाई देते हैं क्योंकि प्रभावी एलील की एक प्रति भी लक्षण दिखाने के लिए पर्याप्त होती है। यह एक काम करने वाले टीवी रिमोट की तरह है - भले ही दूसरा खराब हो, आप चैनल बदल सकते हैं। इसी तरह, एक प्रभावी एलील लक्षण को प्रकट कर सकता है, भले ही दूसरा एलील अप्रभावी हो।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the significance of Human Genome Project?",
-        "hindi": "मानव जीनोम परियोजना का क्या महत्व है?"
+        "english": "What is the number of chromosomes in a haploid cell?",
+        "hindi": "अगुणित कोशिका में गुणसूत्रों की संख्या कितनी होती है?"
       },
       "option": {
         "english": [
-          "Disease treatment",
-          "Gene mapping",
-          "Evolution study",
-          "Protein synthesis"
+          "46 chromosomes",
+          "23 chromosomes", 
+          "22 chromosomes",
+          "44 chromosomes"
         ],
         "hindi": [
-          "रोग उपचार",
-          "जीन मानचित्रण",
-          "विकास अध्ययन",
-          "प्रोटीन संश्लेषण"
+          "46 गुणसूत्र",
+          "23 गुणसूत्र",
+          "22 गुणसूत्र",
+          "44 गुणसूत्र"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "A haploid cell has 23 chromosomes - half the number found in normal body cells. Think of it like dealing cards - if a normal cell has a full deck (46), a haploid cell (like sperm or egg) has half the deck (23). This ensures that when sperm and egg combine, the normal number is restored.",
+        "hindi": "एक अगुणित कोशिका में 23 गुणसूत्र होते हैं - सामान्य शरीर कोशिकाओं में पाई जाने वाली संख्या का आधा। इसे ताश के पत्तों की तरह समझें - यदि सामान्य कोशिका में पूरी गड्डी (46) है, तो अगुणित कोशिका (जैसे शुक्राणु या अंडाणु) में आधी गड्डी (23) होती है। यह सुनिश्चित करता है कि जब शुक्राणु और अंडाणु मिलते हैं, तो सामान्य संख्या बहाल हो जाती है।"
+      },
       "image": null,
       "medium": "hard"
     }

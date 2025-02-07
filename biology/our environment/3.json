@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "Oxygen",
-          "Carbon dioxide",
+          "Carbon dioxide", 
           "Nitrogen",
           "Hydrogen"
         ],
         "hindi": [
           "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
+          "नाइट्रोजन", 
           "हाइड्रोजन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "During photosynthesis, plants take in carbon dioxide and water to produce glucose and release oxygen as a byproduct. This oxygen is essential for most life forms on Earth to breathe and survive.",
+        "hindi": "प्रकाश संश्लेषण के दौरान, पौधे कार्बन डाइऑक्साइड और पानी को लेकर ग्लूकोज बनाते हैं और उप-उत्पाद के रूप में ऑक्सीजन छोड़ते हैं। यह ऑक्सीजन पृथ्वी पर अधिकांश जीवों के सांस लेने और जीवित रहने के लिए आवश्यक है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The main function of an ecosystem is energy cycling, which involves the continuous flow of energy between different organisms. Energy moves from producers to consumers to decomposers in a cycle, maintaining the balance of life.",
+        "hindi": "पारिस्थितिकी तंत्र का मुख्य कार्य ऊर्जा चक्रण है, जिसमें विभिन्न जीवों के बीच ऊर्जा का निरंतर प्रवाह होता है। ऊर्जा उत्पादकों से उपभोक्ताओं और अपघटकों तक एक चक्र में चलती है, जो जीवन का संतुलन बनाए रखती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Air pollution causes respiratory problems by irritating our airways and lungs. Common issues include coughing, breathing difficulty, asthma attacks, and other respiratory diseases. The pollutants in air can also affect our heart and overall health.",
+        "hindi": "वायु प्रदूषण हमारी श्वास नली और फेफड़ों को जलन पहुंचाकर श्वसन समस्याएं पैदा करता है। सामान्य समस्याओं में खांसी, सांस लेने में कठिनाई, दमा के दौरे और अन्य श्वसन रोग शामिल हैं। हवा में प्रदूषक हमारे दिल और समग्र स्वास्थ्य को भी प्रभावित कर सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Consumers are organisms that eat other organisms for energy. They cannot make their own food like plants do. In a food chain, they transfer energy from one level to another by eating producers (plants) or other consumers.",
+        "hindi": "उपभोक्ता वे जीव हैं जो ऊर्जा के लिए अन्य जीवों को खाते हैं। वे पौधों की तरह अपना भोजन नहीं बना सकते। खाद्य श्रृंखला में, वे उत्पादकों (पौधों) या अन्य उपभोक्ताओं को खाकर एक स्तर से दूसरे स्तर तक ऊर्जा का स्थानांतरण करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Food waste is biodegradable because it can be naturally broken down by microorganisms into simpler substances. Unlike plastic, metal, or glass, food waste decomposes easily and returns nutrients to the soil.",
+        "hindi": "खाद्य कचरा जैव-निम्नीकरणीय है क्योंकि इसे सूक्ष्मजीवों द्वारा प्राकृतिक रूप से सरल पदार्थों में तोड़ा जा सकता है। प्लास्टिक, धातु या कांच के विपरीत, खाद्य कचरा आसानी से विघटित हो जाता है और पोषक तत्वों को मिट्टी में वापस कर देता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Industrial waste causes water pollution by releasing harmful chemicals and toxins into water bodies. This kills aquatic life, makes water unsafe for drinking and other uses, and disrupts the entire aquatic ecosystem.",
+        "hindi": "औद्योगिक कचरा जल निकायों में हानिकारक रसायनों और विषाक्त पदार्थों को छोड़कर जल प्रदूषण का कारण बनता है। यह जलीय जीवों को मारता है, पानी को पीने और अन्य उपयोगों के लिए असुरक्षित बनाता है, और पूरे जलीय पारिस्थितिकी तंत्र को नष्ट करता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Wetlands maintain ecological balance by providing habitat for many species, controlling floods, filtering water, and storing carbon. They act like nature's kidneys by cleaning water and supporting biodiversity.",
+        "hindi": "आर्द्रभूमि कई प्रजातियों के लिए आवास प्रदान करके, बाढ़ को नियंत्रित करके, पानी को छानकर और कार्बन को संग्रहित करके पारिस्थितिक संतुलन बनाए रखती है। वे पानी को साफ करके और जैव विविधता को समर्थन देकर प्रकृति के गुर्दे की तरह काम करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Microorganisms in soil help in nutrient cycling by breaking down dead organic matter into simpler forms. This process releases essential nutrients that plants can use for growth, making soil fertile and healthy.",
+        "hindi": "मिट्टी में सूक्ष्मजीव मृत कार्बनिक पदार्थों को सरल रूपों में तोड़कर पोषक तत्व चक्रण में मदद करते हैं। यह प्रक्रिया आवश्यक पोषक तत्वों को मुक्त करती है जिनका उपयोग पौधे विकास के लिए कर सकते हैं, जिससे मिट्टी उपजाऊ और स्वस्थ बनती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Chlorofluorocarbons (CFCs) deplete the ozone layer by breaking down ozone molecules in the stratosphere. This creates holes in the ozone layer, allowing harmful UV rays to reach Earth's surface.",
+        "hindi": "क्लोरोफ्लोरोकार्बन (सीएफसी) समताप मंडल में ओजोन अणुओं को तोड़कर ओजोन परत को नष्ट करती है। यह ओजोन परत में छेद बनाती है, जिससे हानिकारक यूवी किरणें पृथ्वी की सतह तक पहुंच जाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Forests regulate the water cycle by absorbing rainfall, storing water in soil, and releasing it slowly through transpiration. They prevent floods, maintain groundwater levels, and ensure steady water flow in rivers.",
+        "hindi": "जंगल वर्षा को अवशोषित करके, मिट्टी में पानी को संग्रहित करके और वाष्पोत्सर्जन के माध्यम से धीरे-धीरे इसे छोड़कर जल चक्र को नियंत्रित करते हैं। वे बाढ़ को रोकते हैं, भूजल स्तर को बनाए रखते हैं और नदियों में स्थिर जल प्रवाह सुनिश्चित करते हैं।"
+      }
     }
   ]

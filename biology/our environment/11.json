@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Random order",
-          "No structure",
+          "No structure", 
           "Energy flow",
           "Just shape"
         ],
@@ -19,32 +19,39 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "A food pyramid shows how energy flows from producers (plants) to different levels of consumers. It helps us understand how energy decreases at each level as it moves up the pyramid.",
+        "hindi": "खाद्य पिरामिड दिखाता है कि ऊर्जा उत्पादकों (पौधों) से विभिन्न स्तर के उपभोक्ताओं तक कैसे प्रवाहित होती है। यह हमें समझने में मदद करता है कि पिरामिड में ऊपर जाने पर प्रत्येक स्तर पर ऊर्जा कैसे कम होती जाती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which gas causes ozone depletion?",
-        "hindi": "कौन सी गैस ओजोन क्षरण का कारण बनती है?"
+          "english": "What is the significance of keystone species in biodiversity?",
+          "hindi": "जैव विविधता में कीस्टोन प्रजातियों का क्या महत्व है?"
       },
       "option": {
-        "english": [
-          "CFC",
-          "Oxygen",
-          "Nitrogen",
-          "Hydrogen"
-        ],
-        "hindi": [
-          "सीएफसी",
-          "ऑक्सीजन",
-          "नाइट्रोजन",
-          "हाइड्रोजन"
-        ]
+          "english": [
+             "Disproportionate impact",
+              "No special role",
+              "Just rare species",
+              "Common species"
+          ],
+          "hindi": [
+            "असमान प्रभाव",
+              "कोई विशेष भूमिका नहीं",
+              "केवल दुर्लभ प्रजातियां",
+              "सामान्य प्रजातियां"
+          ]
       },
       "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
+      "explanation": {
+        "english": "Keystone species are organisms that have a very large effect on their ecosystem despite their small numbers. Their presence is crucial for maintaining biodiversity and ecosystem balance.",
+        "hindi": "कीस्टोन प्रजातियां वे जीव हैं जो कम संख्या में होने के बावजूद अपने पारिस्थितिकी तंत्र पर बहुत बड़ा प्रभाव डालती हैं। जैव विविधता और पारिस्थितिक संतुलन बनाए रखने के लिए उनकी उपस्थिति महत्वपूर्ण है।"
+      },
+      "medium": "hard"
+  },  
     {
       "question_name": {
         "english": "What is the importance of biodiversity?",
@@ -65,31 +72,39 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Biodiversity maintains the balance in ecosystems by providing food chains, pollination, soil fertility, and clean air. It helps nature stay healthy and recover from disturbances.",
+        "hindi": "जैव विविधता खाद्य श्रृंखला, परागण, मिट्टी की उर्वरता और स्वच्छ वायु प्रदान करके पारिस्थितिक तंत्र में संतुलन बनाए रखती है। यह प्रकृति को स्वस्थ रहने और परेशानियों से उबरने में मदद करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the impact of noise pollution?",
-        "hindi": "ध्वनि प्रदूषण का क्या प्रभाव है?"
+        "english": "What is pollution prevention?",
+        "hindi": "प्रदूषण रोकथाम क्या है?"
       },
       "option": {
         "english": [
-          "Better hearing",
-          "No effect",
-          "Good health",
-          "Health problems"
+          "No action",
+          "Just rules",
+          "Simple talk",
+          "Preventive measures"
         ],
         "hindi": [
-          "बेहतर श्रवण",
-          "कोई प्रभाव नहीं",
-          "अच्छा स्वास्थ्य",
-          "स्वास्थ्य समस्याएं"
+          "कोई कार्रवाई नहीं",
+          "केवल नियम",
+          "सामान्य बात",
+          "निवारक उपाय"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Pollution prevention means taking steps to stop pollution before it happens, like using clean energy, reducing waste, and controlling emissions. It's better than cleaning up pollution after it occurs.",
+        "hindi": "प्रदूषण रोकथाम का अर्थ है प्रदूषण होने से पहले ही उसे रोकने के लिए कदम उठाना, जैसे स्वच्छ ऊर्जा का उपयोग, कचरे में कमी, और उत्सर्जन नियंत्रण। यह प्रदूषण हो जाने के बाद सफाई करने से बेहतर है।"
+      },
       "image": null,
-      "medium": "easy"
+      "medium": "medium"
     },
     {
       "question_name": {
@@ -111,6 +126,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Ecological balance is the natural state where all living things exist in harmony with their environment. It includes balanced relationships between different species and their surroundings.",
+        "hindi": "पारिस्थितिक संतुलन वह प्राकृतिक स्थिति है जहां सभी जीव अपने वातावरण के साथ सामंजस्य में रहते हैं। इसमें विभिन्न प्रजातियों और उनके आसपास के वातावरण के बीच संतुलित संबंध शामिल हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,29 +153,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Waste management is the proper collection, treatment, and disposal of waste materials. It includes reducing, reusing, and recycling to minimize environmental impact.",
+        "hindi": "अपशिष्ट प्रबंधन कचरे का उचित संग्रह, उपचार और निपटान है। इसमें पर्यावरण प्रभाव को कम करने के लिए कम करना, पुन: उपयोग और पुनर्चक्रण शामिल है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "Which is a natural ecosystem?",
-        "hindi": "प्राकृतिक पारिस्थितिकी तंत्र कौन सा है?"
+        "english": "Why is forest conservation important for environmental balance?",
+        "hindi": "पर्यावरण संतुलन के लिए वन संरक्षण क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Forest",
-          "Garden",
-          "Farm",
-          "Zoo"
+          "Maintains biodiversity",
+          "Only for tourism",
+          "Only for wood",
+          "Only for animals"
         ],
         "hindi": [
-          "जंगल",
-          "बगीचा",
-          "खेत",
-          "चिड़ियाघर"
+          "जैव विविधता बनाए रखता है",
+          "केवल पर्यटन के लिए",
+          "केवल लकड़ी के लिए",
+          "केवल जानवरों के लिए"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Forests are essential as they maintain biodiversity, prevent soil erosion, regulate climate, produce oxygen, and provide habitat for countless species. They are crucial for Earth's environmental balance.",
+        "hindi": "वन आवश्यक हैं क्योंकि वे जैव विविधता बनाए रखते हैं, मिट्टी के कटाव को रोकते हैं, जलवायु को नियंत्रित करते हैं, ऑक्सीजन उत्पन्न करते हैं और असंख्य प्रजातियों के लिए आवास प्रदान करते हैं। वे पृथ्वी के पर्यावरण संतुलन के लिए महत्वपूर्ण हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +207,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Urbanization often leads to environmental stress through increased pollution, loss of green spaces, waste generation, and habitat destruction. It can disrupt natural ecosystems and biodiversity.",
+        "hindi": "शहरीकरण अक्सर बढ़ते प्रदूषण, हरित क्षेत्रों की हानि, कचरा उत्पादन और आवास विनाश के माध्यम से पर्यावरणीय तनाव का कारण बनता है। यह प्राकृतिक पारिस्थितिक तंत्र और जैव विविधता को नुकसान पहुंचा सकता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +234,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Environmental ethics are moral principles about how humans should interact with nature. It teaches us to respect and protect the environment for current and future generations.",
+        "hindi": "पर्यावरण नैतिकता वे नैतिक सिद्धांत हैं जो बताते हैं कि मनुष्यों को प्रकृति के साथ कैसा व्यवहार करना चाहिए। यह हमें वर्तमान और भविष्य की पीढ़ियों के लिए पर्यावरण का सम्मान और संरक्षण करना सिखाती है।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +261,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Ecological footprint measures how much nature we use to support our lifestyle. It includes the resources we consume and the waste we produce in our daily activities.",
+        "hindi": "पारिस्थितिक पदचिह्न मापता है कि हम अपनी जीवनशैली को समर्थन करने के लिए कितनी प्रकृति का उपयोग करते हैं। इसमें हमारे द्वारा उपयोग किए जाने वाले संसाधन और हमारी दैनिक गतिविधियों में उत्पन्न कचरा शामिल है।"
+      },
       "image": null,
       "medium": "hard"
     }

@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "Which equation represents photosynthesis?",
-        "hindi": "कौन सा समीकरण प्रकाश संश्लेषण को दर्शाता है?"
-      },
-      "option": {
-        "english": [
-          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
-          "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
-          "6CO₂ + H₂O → C₆H₁₂O₆ + O₂",
-          "CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
-        ],
-        "hindi": [
-          "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
-          "CO₂ + H₂O → C₆H₁₂O₆ + O₂",
-          "6CO₂ + H₂O → C₆H₁₂O₆ + O₂",
-          "CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "medium"
+  {
+    "question_name": {
+      "english": "Which reaction is an example of a redox reaction?",
+      "hindi": "कौन सी अभिक्रिया रेडॉक्स अभिक्रिया का उदाहरण है?"
     },
+    "option": {
+      "english": [
+        "Burning of magnesium",
+        "Mixing salt and water",
+        "Boiling water", 
+        "Melting ice"
+      ],
+      "hindi": [
+        "मैग्नीशियम का जलना",
+        "नमक और पानी का मिश्रण",
+        "पानी का उबलना",
+        "बर्फ का पिघलना"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When magnesium burns in air, it combines with oxygen to form magnesium oxide (MgO). In this reaction, magnesium loses electrons (oxidation) and oxygen gains electrons (reduction). The balanced equation is: 2Mg + O₂ → 2MgO. This is a simple example of a redox reaction where both oxidation and reduction happen together.",
+      "hindi": "जब मैग्नीशियम हवा में जलता है, तो यह ऑक्सीजन के साथ मिलकर मैग्नीशियम ऑक्साइड (MgO) बनाता है। इस अभिक्रिया में, मैग्नीशियम इलेक्ट्रॉन खोता है (ऑक्सीकरण) और ऑक्सीजन इलेक्ट्रॉन प्राप्त करता है (अपचयन)। संतुलित समीकरण है: 2Mg + O₂ → 2MgO। यह एक सरल रेडॉक्स अभिक्रिया का उदाहरण है जहां ऑक्सीकरण और अपचयन एक साथ होते हैं।"
+    }
+  },
     {
       "question_name": {
         "english": "What is the nature of energy change in photosynthesis?",
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Photosynthesis is an endothermic reaction because plants absorb energy from sunlight to convert CO₂ and H₂O into glucose and oxygen. The simple equation is: 6CO₂ + 6H₂O + sunlight energy → C₆H₁₂O₆ + 6O₂. Plants store this absorbed solar energy in the glucose molecules they produce.",
+        "hindi": "प्रकाश संश्लेषण एक ऊष्माशोषी अभिक्रिया है क्योंकि पौधे सूर्य के प्रकाश से ऊर्जा अवशोषित करके CO₂ और H₂O को ग्लूकोज और ऑक्सीजन में बदलते हैं। सरल समीकरण है: 6CO₂ + 6H₂O + सूर्य की ऊर्जा → C₆H₁₂O₆ + 6O₂। पौधे इस अवशोषित सौर ऊर्जा को अपने द्वारा निर्मित ग्लूकोज अणुओं में संग्रहित करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,30 +74,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "When calcium carbonate (limestone) is heated, it breaks down into calcium oxide (quicklime) and carbon dioxide gas. The reaction is: CaCO₃ → CaO + CO₂. This is a thermal decomposition reaction commonly used in the manufacture of cement and lime. You can see bubbles of CO₂ gas being released when the reaction occurs.",
+        "hindi": "जब कैल्शियम कार्बोनेट (चूना पत्थर) को गरम किया जाता है, यह कैल्शियम ऑक्साइड (क्विकलाइम) और कार्बन डाइऑक्साइड गैस में टूट जाता है। अभिक्रिया है: CaCO₃ → CaO + CO₂। यह एक ऊष्मीय अपघटन अभिक्रिया है जो सीमेंट और चूने के निर्माण में आमतौर पर उपयोग की जाती है। अभिक्रिया होने पर CO₂ गैस के बुलबुले निकलते हुए देखे जा सकते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What type of reaction is respiration?",
-        "hindi": "श्वसन किस प्रकार की अभिक्रिया है?"
+        "english": "Which reaction involves both oxidation and reduction?",
+        "hindi": "किस अभिक्रिया में ऑक्सीकरण और अपचयन दोनों शामिल हैं?"
       },
       "option": {
         "english": [
-          "Endothermic",
-          "Combination",
-          "Oxidation",
-          "Reduction"
+          "AgNO₃ + NaCl → AgCl + NaNO₃",
+          "CaCO₃ → CaO + CO₂",
+          "Zn + CuSO₄ → ZnSO₄ + Cu",
+          "NaOH + HCl → NaCl + H₂O"
         ],
         "hindi": [
-          "ऊष्माशोषी",
-          "संयोजन",
-          "ऑक्सीकरण",
-          "अपचयन"
+          "AgNO₃ + NaCl → AgCl + NaNO₃",
+          "CaCO₃ → CaO + CO₂",
+          "Zn + CuSO₄ → ZnSO₄ + Cu",
+          "NaOH + HCl → NaCl + H₂O"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "In the reaction Zn + CuSO₄ → ZnSO₄ + Cu, zinc metal loses electrons to form Zn²⁺ (oxidation) while Cu²⁺ ions gain electrons to form copper metal (reduction). This is a single displacement reaction where a more reactive metal (Zn) displaces a less reactive metal (Cu) from its salt solution. The blue color of CuSO₄ solution fades as copper metal deposits.",
+        "hindi": "अभिक्रिया Zn + CuSO₄ → ZnSO₄ + Cu में, जिंक धातु इलेक्ट्रॉन खोकर Zn²⁺ बनाती है (ऑक्सीकरण) जबकि Cu²⁺ आयन इलेक्ट्रॉन प्राप्त करके तांबे की धातु बनाते हैं (अपचयन)। यह एक एकल विस्थापन अभिक्रिया है जहां अधिक क्रियाशील धातु (Zn) कम क्रियाशील धातु (Cu) को उसके लवण विलयन से विस्थापित करती है। CuSO₄ विलयन का नीला रंग तांबे की धातु जमा होने पर फीका पड़ जाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "In anaerobic respiration (respiration without oxygen), glucose breaks down to produce energy, CO₂ and other products like ethanol or lactic acid. For example, in yeast: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. This process is used in making bread, where CO₂ bubbles make the dough rise. In our muscles during intense exercise, glucose converts to lactic acid, producing CO₂.",
+        "hindi": "अवायवीय श्वसन (बिना ऑक्सीजन के श्वसन) में, ग्लूकोज टूटकर ऊर्जा, CO₂ और अन्य उत्पाद जैसे एथेनॉल या लैक्टिक एसिड बनाता है। उदाहरण के लिए, यीस्ट में: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂। इस प्रक्रिया का उपयोग रोटी बनाने में किया जाता है, जहां CO₂ के बुलबुले आटे को फुलाते हैं। कठिन व्यायाम के दौरान हमारी मांसपेशियों में, ग्लूकोज लैक्टिक एसिड में बदलता है, जिससे CO₂ बनती है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "In a glow stick, chemiluminescence occurs - a chemical reaction that produces light. When you bend the stick, a glass tube inside breaks, allowing two chemicals to mix. These chemicals react to form an excited product that releases energy as light. No heat is produced, making glow sticks safe to handle. They are commonly used as emergency light sources.",
+        "hindi": "ग्लो स्टिक में रासायनिक प्रदीप्ति होती है - एक रासायनिक अभिक्रिया जो प्रकाश उत्पन्न करती है। जब आप स्टिक को मोड़ते हैं, अंदर की कांच की नली टूटती है, जिससे दो रसायन मिल जाते हैं। ये रसायन अभिक्रिया करके एक उत्तेजित उत्पाद बनाते हैं जो प्रकाश के रूप में ऊर्जा छोड़ता है। कोई गर्मी नहीं बनती, इसलिए ग्लो स्टिक को पकड़ना सुरक्षित होता है। इनका उपयोग आपातकालीन प्रकाश स्रोत के रूप में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Increasing pressure increases the rate of gaseous reactions. This happens because higher pressure forces gas molecules closer together, making them collide more frequently. For example, in the Haber process (N₂ + 3H₂ → 2NH₃), high pressure is used to increase the production of ammonia. This is like squeezing more people into a room - they bump into each other more often.",
+        "hindi": "दाब बढ़ाने से गैसीय अभिक्रियाओं की दर बढ़ जाती है। ऐसा इसलिए होता है क्योंकि अधिक दाब गैस के अणुओं को एक-दूसरे के करीब लाता है, जिससे वे अधिक बार टकराते हैं। उदाहरण के लिए, हैबर प्रक्रिया (N₂ + 3H₂ → 2NH₃) में, अमोनिया के उत्पादन को बढ़ाने के लिए उच्च दाब का उपयोग किया जाता है। यह एक कमरे में अधिक लोगों को भरने जैसा है - वे एक-दूसरे से अधिक बार टकराते हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Yeast acts as a biological catalyst (enzyme) in fermentation. It helps convert glucose into ethanol and carbon dioxide without being used up itself. The reaction is: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂. This process is used in making bread (CO₂ makes the dough rise) and producing alcoholic beverages. The yeast remains unchanged at the end of the reaction.",
+        "hindi": "यीस्ट किण्वन में जैविक उत्प्रेरक (एंजाइम) के रूप में कार्य करता है। यह स्वयं खपत हुए बिना ग्लूकोज को एथेनॉल और कार्बन डाइऑक्साइड में बदलने में मदद करता है। अभिक्रिया है: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂। इस प्रक्रिया का उपयोग रोटी बनाने (CO₂ आटे को फुलाती है) और मादक पेय बनाने में किया जाता है। अभिक्रिया के अंत में यीस्ट अपरिवर्तित रहता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Nitrogen gas is used in food packaging because it is inert (doesn't react with food) and displaces oxygen. This prevents food from oxidizing (becoming stale or rancid). For example, potato chips packets are filled with nitrogen to keep them crispy and fresh. This is why chips packets appear 'puffy' - they're filled with nitrogen, not air.",
+        "hindi": "खाद्य पैकेजिंग में नाइट्रोजन गैस का उपयोग किया जाता है क्योंकि यह निष्क्रिय होती है (भोजन के साथ प्रतिक्रिया नहीं करती) और ऑक्सीजन को विस्थापित करती है। यह भोजन को ऑक्सीकरण (बासी या खराब होने) से बचाता है। उदाहरण के लिए, चिप्स के पैकेट को नाइट्रोजन से भरा जाता है ताकि वे कुरकुरे और ताजे रहें। इसीलिए चिप्स के पैकेट 'फूले' हुए दिखाई देते हैं - वे हवा से नहीं, नाइट्रोजन से भरे होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Batteries work through redox reactions where one substance is oxidized (loses electrons) and another is reduced (gains electrons). For example, in a simple dry cell battery, zinc metal is oxidized to Zn²⁺ ions while MnO₂ is reduced. These reactions produce electrical energy that powers our devices. When the battery dies, these reactions have stopped.",
+        "hindi": "बैटरियां रेडॉक्स अभिक्रियाओं द्वारा काम करती हैं जहां एक पदार्थ का ऑक्सीकरण (इलेक्ट्रॉन खोना) और दूसरे का अपचयन (इलेक्ट्रॉन प्राप्त करना) होता है। उदाहरण के लिए, एक साधारण शुष्क सेल बैटरी में, जिंक धातु का ऑक्सीकरण होकर Zn²⁺ आयन बनते हैं जबकि MnO₂ का अपचयन होता है। ये अभिक्रियाएं विद्युत ऊर्जा उत्पन्न करती हैं जो हमारे उपकरणों को चलाती है। जब बैटरी खत्म हो जाती है, तो ये अभिक्रियाएं रुक जाती हैं।"
+      }
     }
   ]

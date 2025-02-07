@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What is the role of wetlands?",
-        "hindi": "आर्द्रभूमि की क्या भूमिका है?"
-      },
-      "option": {
-        "english": [
-          "No importance",
-          "Water purification",
-          "Just water",
-          "Empty space"
-        ],
-        "hindi": [
-          "कोई महत्व नहीं",
-          "जल शुद्धिकरण",
-          "केवल पानी",
-          "खाली स्थान"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "What is environmental awareness?",
+      "hindi": "पर्यावरण जागरूकता क्या है?"
     },
+    "option": {
+      "english": [
+        "No knowledge",
+        "Environmental knowledge",
+        "Just information",
+        "Random facts"
+      ],
+      "hindi": [
+        "कोई ज्ञान नहीं",
+        "पर्यावरण ज्ञान",
+        "केवल जानकारी",
+        "यादृच्छिक तथ्य"
+      ]
+    },
+    "explanation": {
+      "english": "Environmental awareness means understanding how human actions affect the environment and taking steps to protect it. It includes knowledge about pollution, conservation, and sustainable practices that help preserve nature for future generations.",
+      "hindi": "पर्यावरण जागरूकता का अर्थ है यह समझना कि मानव गतिविधियां पर्यावरण को कैसे प्रभावित करती हैं और इसकी रक्षा के लिए कदम उठाना। इसमें प्रदूषण, संरक्षण और टिकाऊ प्रथाओं के बारे में ज्ञान शामिल है जो भविष्य की पीढ़ियों के लिए प्रकृति को संरक्षित करने में मदद करता है।"
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy"
+  },
     {
       "question_name": {
         "english": "What is soil profile?",
@@ -41,28 +45,36 @@
           "कोई परत नहीं"
         ]
       },
+      "explanation": {
+        "english": "Soil profile shows different horizontal layers of soil from surface to bedrock. These layers (horizons) include topsoil, subsoil and parent material, each with different properties important for plant growth and water retention.",
+        "hindi": "मृदा प्रोफ़ाइल सतह से चट्टान तक मिट्टी की विभिन्न क्षैतिज परतों को दिखाता है। इन परतों (क्षितिज) में ऊपरी मिट्टी, उप-मिट्टी और मूल सामग्री शामिल हैं, जिनमें से प्रत्येक में पौधों की वृद्धि और जल धारण के लिए महत्वपूर्ण विभिन्न गुण होते हैं।"
+      },
       "answer": 2,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "Which is a renewable resource?",
-        "hindi": "नवीकरणीय संसाधन कौन सा है?"
+        "english": "Why is vermicomposting considered eco-friendly?",
+        "hindi": "वर्मीकम्पोस्टिंग को पर्यावरण के अनुकूल क्यों माना जाता है?"
       },
       "option": {
         "english": [
-          "Solar energy",
-          "Coal",
-          "Petroleum",
-          "Natural gas"
+          "Natural recycling process",
+          "Uses chemicals",
+          "Requires machinery",
+          "Needs electricity"
         ],
         "hindi": [
-          "सौर ऊर्जा",
-          "कोयला",
-          "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "प्राकृतिक पुनर्चक्रण प्रक्रिया",
+          "रसायनों का उपयोग",
+          "मशीनरी की आवश्यकता",
+          "बिजली की जरूरत"
         ]
+      },
+      "explanation": {
+        "english": "Vermicomposting is eco-friendly because it uses earthworms to naturally convert organic waste into rich fertilizer. This process requires no chemicals or electricity, reduces waste in landfills, and produces nutrient-rich soil for plants.",
+        "hindi": "वर्मीकम्पोस्टिंग पर्यावरण के अनुकूल है क्योंकि यह जैविक कचरे को प्राकृतिक रूप से समृद्ध खाद में बदलने के लिए केंचुओं का उपयोग करती है। इस प्रक्रिया में कोई रसायन या बिजली की आवश्यकता नहीं होती है, लैंडफिल में कचरे को कम करती है, और पौधों के लिए पोषक तत्वों से भरपूर मिट्टी का उत्पादन करती है।"
       },
       "answer": 0,
       "image": null,
@@ -70,22 +82,26 @@
     },
     {
       "question_name": {
-        "english": "What is the effect of greenhouse gases?",
-        "hindi": "ग्रीनहाउस गैसों का क्या प्रभाव है?"
+        "english": "Why is waste water treatment important for environmental protection?",
+        "hindi": "पर्यावरण संरक्षण के लिए अपशिष्ट जल उपचार क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Cooling Earth",
-          "No effect",
-          "Better climate",
-          "Global warming"
+          "Only for drinking",
+          "Just for cleaning",
+          "No real purpose",
+          "Prevents water pollution"
         ],
         "hindi": [
-          "पृथ्वी को ठंडा करना",
-          "कोई प्रभाव नहीं",
-          "बेहतर जलवायु",
-          "वैश्विक तापन"
+          "केवल पीने के लिए",
+          "केवल सफाई के लिए",
+          "कोई वास्तविक उद्देश्य नहीं",
+          "जल प्रदूषण को रोकता है"
         ]
+      },
+      "explanation": {
+        "english": "Wastewater treatment is crucial because it removes harmful pollutants before water returns to the environment. This process protects aquatic life, prevents diseases, and makes water safe for reuse in agriculture and industry.",
+        "hindi": "अपशिष्ट जल उपचार महत्वपूर्ण है क्योंकि यह पानी को पर्यावरण में वापस भेजने से पहले हानिकारक प्रदूषकों को हटाता है। यह प्रक्रिया जलीय जीवन की रक्षा करती है, बीमारियों को रोकती है, और कृषि और उद्योग में पुन: उपयोग के लिए पानी को सुरक्षित बनाती है।"
       },
       "answer": 3,
       "image": null,
@@ -110,28 +126,36 @@
           "केवल झील"
         ]
       },
+      "explanation": {
+        "english": "A watershed is an area of land that drains all rainfall and streams into a common water body like a river or lake. It is important for water management and affects the water quality of the region.",
+        "hindi": "जलग्रहण भूमि का वह क्षेत्र है जो सभी वर्षा और जलधाराओं को एक सामान्य जल निकाय जैसे नदी या झील में बहाता है। यह जल प्रबंधन के लिए महत्वपूर्ण है और क्षेत्र की जल गुणवत्ता को प्रभावित करता है।"
+      },
       "answer": 1,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the impact of pesticides?",
-        "hindi": "कीटनाशकों का क्या प्रभाव है?"
+        "english": "Which is an abiotic factor?",
+        "hindi": "अजैविक कारक कौन सा है?"
       },
       "option": {
         "english": [
-          "Better health",
-          "Clean environment",
-          "Good soil",
-          "Environmental damage"
+          "Plants",
+          "Animals",
+          "Bacteria",
+          "Sunlight"
         ],
         "hindi": [
-          "बेहतर स्वास्थ्य",
-          "स्वच्छ पर्यावरण",
-          "अच्छी मिट्टी",
-          "पर्यावरण क्षति"
+          "पौधे",
+          "जानवर",
+          "बैक्टीरिया",
+          "सूर्य का प्रकाश"
         ]
+      },
+      "explanation": {
+        "english": "Abiotic factors are non-living components of an ecosystem like sunlight, water, air, soil, and temperature. These factors are essential for life but are not themselves living things, unlike plants or animals.",
+        "hindi": "अजैविक कारक पारिस्थितिकी तंत्र के निर्जीव घटक हैं जैसे सूर्य का प्रकाश, पानी, हवा, मिट्टी और तापमान। ये कारक जीवन के लिए आवश्यक हैं लेकिन पौधों या जानवरों के विपरीत स्वयं जीवित नहीं हैं।"
       },
       "answer": 3,
       "image": null,
@@ -156,6 +180,10 @@
           "हाइड्रोजन"
         ]
       },
+      "explanation": {
+        "english": "Sulfur dioxide, mainly released from industries and vehicles, combines with water in the atmosphere to form acid rain. This acidic rain damages plants, buildings, and aquatic life when it falls to Earth.",
+        "hindi": "सल्फर डाइऑक्साइड, जो मुख्य रूप से उद्योगों और वाहनों से निकलती है, वायुमंडल में पानी के साथ मिलकर अम्ल वर्षा बनाती है। यह अम्लीय वर्षा जब धरती पर गिरती है तो पौधों, इमारतों और जलीय जीवन को नुकसान पहुंचाती है।"
+      },
       "answer": 0,
       "image": null,
       "medium": "medium"
@@ -178,6 +206,10 @@
           "संरक्षित क्षेत्र",
           "सार्वजनिक पार्क"
         ]
+      },
+      "explanation": {
+        "english": "A wildlife sanctuary is a protected natural area where animals can live safely in their natural habitat. It helps preserve endangered species and maintains biodiversity by protecting animals from hunting and habitat destruction.",
+        "hindi": "वन्यजीव अभयारण्य एक संरक्षित प्राकृतिक क्षेत्र है जहां जानवर अपने प्राकृतिक आवास में सुरक्षित रह सकते हैं। यह जानवरों को शिकार और आवास विनाश से बचाकर लुप्तप्राय प्रजातियों को संरक्षित करने और जैव विविधता को बनाए रखने में मदद करता है।"
       },
       "answer": 2,
       "image": null,
@@ -202,28 +234,36 @@
           "ऊर्जा निकासी"
         ]
       },
+      "explanation": {
+        "english": "Energy conservation means using energy efficiently and avoiding waste. Simple actions like turning off unused lights, using energy-efficient appliances, and proper insulation help save energy and reduce environmental impact.",
+        "hindi": "ऊर्जा संरक्षण का अर्थ है ऊर्जा का कुशलतापूर्वक उपयोग करना और बर्बादी से बचना। अनुपयोगी लाइटें बंद करना, ऊर्जा-कुशल उपकरणों का उपयोग करना और उचित इन्सुलेशन जैसे सरल कार्य ऊर्जा बचाने और पर्यावरणीय प्रभाव को कम करने में मदद करते हैं।"
+      },
       "answer": 1,
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the effect of deforestation?",
-        "hindi": "वनों की कटाई का क्या प्रभाव है?"
+        "english": "Why are abiotic factors essential for an ecosystem?",
+        "hindi": "पारिस्थितिकी तंत्र के लिए अजैविक कारक क्यों आवश्यक हैं?"
       },
       "option": {
         "english": [
-          "Better climate",
-          "More oxygen",
-          "Clean air",
-          "Environmental damage"
+          "Only affect plants",
+          "No importance",
+          "Only affect animals",
+          "Support all life forms"
         ],
         "hindi": [
-          "बेहतर जलवायु",
-          "अधिक ऑक्सीजन",
-          "स्वच्छ वायु",
-          "पर्यावरण क्षति"
+          "केवल पौधों को प्रभावित करते हैं",
+          "कोई महत्व नहीं",
+          "केवल जानवरों को प्रभावित करते हैं",
+          "सभी जीवन रूपों का समर्थन करते हैं"
         ]
+      },
+      "explanation": {
+        "english": "Abiotic factors like sunlight, water, air, and soil are essential because they provide the basic requirements for all life forms. Plants need them for photosynthesis, while animals depend on them for survival, making them crucial for the entire ecosystem.",
+        "hindi": "सूर्य का प्रकाश, पानी, हवा और मिट्टी जैसे अजैविक कारक आवश्यक हैं क्योंकि वे सभी जीवन रूपों के लिए बुनियादी आवश्यकताएं प्रदान करते हैं। पौधों को प्रकाश संश्लेषण के लिए इनकी आवश्यकता होती है, जबकि जानवर अपने जीवन के लिए इन पर निर्भर करते हैं, जो पूरे पारिस्थितिकी तंत्र के लिए महत्वपूर्ण है।"
       },
       "answer": 3,
       "image": null,

@@ -1,26 +1,31 @@
 [
     {
       "question_name": {
-        "english": "What is the number of chromosomes in human gametes?",
-        "hindi": "मानव युग्मकों में गुणसूत्रों की संख्या कितनी होती है?"
+        "english": "What is the Total number of chromosomes in gemets?",
+        "hindi": "युग्मकों में गुणसूत्रों की कुल संख्या कितनी होती है?"
       },
       "option": {
         "english": [
           "23",
-          "46",
+          "46", 
           "22",
           "44"
         ],
         "hindi": [
           "23",
           "46",
-          "22",
+          "22", 
           "44"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Gametes (sperm and egg cells) have 23 chromosomes, which is half the number found in normal body cells (46). This is because during gamete formation through meiosis, the chromosome number is reduced by half so that when fertilization occurs, the normal chromosome number is restored.",
+        "hindi": "युग्मक (शुक्राणु और अंडाणु कोशिकाएं) में 23 गुणसूत्र होते हैं, जो सामान्य शारीरिक कोशिकाओं (46) में पाए जाने वाले गुणसूत्रों की आधी संख्या है। ऐसा इसलिए होता है क्योंकि अर्धसूत्री विभाजन के दौरान गुणसूत्रों की संख्या आधी हो जाती है ताकि निषेचन के समय सामान्य गुणसूत्र संख्या बहाल हो सके।"
+      },
       "image": null,
       "medium": "easy"
+      
     },
     {
       "question_name": {
@@ -42,6 +47,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Recessive traits are those that can skip generations because they are masked by dominant traits. For example, if both parents carry a recessive gene but show the dominant trait, their child might show the recessive trait. This explains why some characteristics appear to skip generations in a family.",
+        "hindi": "अप्रभावी लक्षण वे होते हैं जो पीढ़ियों को छोड़ सकते हैं क्योंकि वे प्रभावी लक्षणों द्वारा छिपे होते हैं। उदाहरण के लिए, यदि दोनों माता-पिता अप्रभावी जीन वहन करते हैं लेकिन प्रभावी लक्षण दिखाते हैं, तो उनके बच्चे में अप्रभावी लक्षण दिखाई दे सकता है। यह बताता है कि परिवार में कुछ विशेषताएं पीढ़ियों को क्यों छोड़ती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,6 +74,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Fossils provide direct evidence of evolution by showing how organisms have changed over millions of years. They are preserved remains or traces of ancient life that help us understand the history of life on Earth. By studying fossils, we can see how species have evolved from simpler forms to more complex ones.",
+        "hindi": "जीवाश्म विकास का प्रत्यक्ष प्रमाण प्रदान करते हैं जो दिखाते हैं कि जीव लाखों वर्षों में कैसे बदले हैं। ये प्राचीन जीवन के संरक्षित अवशेष या निशान हैं जो हमें पृथ्वी पर जीवन के इतिहास को समझने में मदद करते हैं। जीवाश्मों का अध्ययन करके, हम देख सकते हैं कि प्रजातियां सरल रूपों से जटिल रूपों में कैसे विकसित हुई हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +101,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Fraternal twins develop from two different eggs that are fertilized by two different sperm cells. Unlike identical twins, fraternal twins share only about 50% of their genes, just like regular siblings. This is why fraternal twins can be of different genders and look quite different from each other.",
+        "hindi": "असमरूप जुड़वां दो अलग-अलग अंडों से विकसित होते हैं जो दो अलग-अलग शुक्राणु कोशिकाओं द्वारा निषेचित होते हैं। समरूप जुड़वां के विपरीत, असमरूप जुड़वां केवल लगभग 50% जीन साझा करते हैं, जैसे सामान्य भाई-बहन। इसीलिए असमरूप जुड़वां अलग-अलग लिंग के हो सकते हैं और एक दूसरे से काफी अलग दिख सकते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +128,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The Y chromosome determines maleness in humans. Males have XY chromosomes while females have XX. The Y chromosome carries genes that are responsible for male characteristics. If a sperm carrying Y chromosome fertilizes an egg (X), the baby will be male (XY).",
+        "hindi": "Y गुणसूत्र मनुष्यों में पुरुषत्व निर्धारित करता है। पुरुषों में XY गुणसूत्र होते हैं जबकि महिलाओं में XX होते हैं। Y गुणसूत्र में वे जीन होते हैं जो पुरुष विशेषताओं के लिए जिम्मेदार हैं। यदि Y गुणसूत्र वाला शुक्राणु अंडे (X) को निषेचित करता है, तो बच्चा पुरुष (XY) होगा।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -130,10 +151,14 @@
           "विकास",
           "अनुकूलन",
           "उत्परिवर्तन",
-          "जातियन"
+          "जाति विकास"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Speciation is the process by which new species form. This happens when groups of the same species become separated (like by geographical barriers) and develop different characteristics over time due to different environmental conditions. Eventually, they become so different that they can no longer breed with each other.",
+        "hindi": "जाति विकास वह प्रक्रिया है जिससे नई प्रजातियां बनती हैं। यह तब होता है जब एक ही प्रजाति के समूह अलग हो जाते हैं (जैसे भौगोलिक बाधाओं द्वारा) और अलग-अलग पर्यावरणीय परिस्थितियों के कारण समय के साथ अलग-अलग विशेषताएं विकसित करते हैं। अंततः, वे इतने अलग हो जाते हैं कि वे एक दूसरे के साथ प्रजनन नहीं कर सकते।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +182,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Human blood groups (A, B, AB, and O) follow multiple allele inheritance pattern. This means there are more than two alternative forms of genes (alleles) at a single location. The A and B alleles are codominant, while O is recessive. This explains why a person can have blood type A, B, AB, or O.",
+        "hindi": "मानव रक्त समूह (A, B, AB, और O) बहु एलील वंशागति पैटर्न का पालन करते हैं। इसका मतलब है कि एक ही स्थान पर जीन के दो से अधिक वैकल्पिक रूप (एलील) होते हैं। A और B एलील सह-प्रभावी होते हैं, जबकि O अप्रभावी होता है। यह बताता है कि किसी व्यक्ति का रक्त समूह A, B, AB, या O क्यों हो सकता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +209,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Estrogen is the primary female sex hormone responsible for developing secondary sexual characteristics in females during puberty. It causes changes like breast development, widening of hips, and other female body features. This hormone is mainly produced in the ovaries.",
+        "hindi": "एस्ट्रोजन मुख्य महिला यौन हार्मोन है जो यौवन के दौरान महिलाओं में द्वितीयक यौन विशेषताओं के विकास के लिए जिम्मेदार है। यह स्तन विकास, कूल्हों का चौड़ा होना और अन्य महिला शारीरिक विशेषताओं जैसे परिवर्तन लाता है। यह हार्मोन मुख्य रूप से अंडाशय में उत्पन्न होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +236,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The probability of having a male child is 50%. This is because the father's sperm determines the baby's sex - half of his sperm cells carry X chromosomes and half carry Y chromosomes. If a sperm with Y chromosome fertilizes the egg (which always has X chromosome), the baby will be male (XY).",
+        "hindi": "पुरुष संतान होने की प्रायिकता 50% है। ऐसा इसलिए है क्योंकि पिता का शुक्राणु बच्चे का लिंग निर्धारित करता है - उसके आधे शुक्राणु में X गुणसूत्र और आधे में Y गुणसूत्र होते हैं। यदि Y गुणसूत्र वाला शुक्राणु अंडे को (जिसमें हमेशा X गुणसूत्र होता है) निषेचित करता है, तो बच्चा पुरुष (XY) होगा।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -213,19 +250,23 @@
       },
       "option": {
         "english": [
-          "1:2:1",
           "3:1",
           "1:1:1:1",
+          "1:2:1",
           "9:3:3:1"
         ],
         "hindi": [
-          "1:2:1",
           "3:1",
           "1:1:1:1",
+          "1:2:1",
           "9:3:3:1"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "In a monohybrid cross between heterozygous parents (Tt × Tt), the genotype ratio is 1:2:1 (TT:Tt:tt). This means out of every 4 offspring, 1 will be homozygous dominant (TT), 2 will be heterozygous (Tt), and 1 will be homozygous recessive (tt).",
+        "hindi": "विषमयुग्मजी माता-पिता (Tt × Tt) के बीच एकसंकर क्रॉस में, जीनोटाइप अनुपात 1:2:1 (TT:Tt:tt) होता है। इसका मतलब है कि हर 4 संतानों में से, 1 समयुग्मजी प्रभावी (TT), 2 विषमयुग्मजी (Tt), और 1 समयुग्मजी अप्रभावी (tt) होगा।"
+      },
       "image": null,
       "medium": "hard"
     }

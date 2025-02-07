@@ -1,0 +1,272 @@
+[
+    {
+      "question_name": {
+        "english": "Which of these is used as an antiseptic?",
+        "hindi": "इनमें से किसका उपयोग एंटीसेप्टिक के रूप में किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Phenol",
+          "Ethanol", 
+          "Propanol",
+          "Methanol"
+        ],
+        "hindi": [
+          "फीनॉल",
+          "एथेनॉल",
+          "प्रोपेनॉल",
+          "मेथेनॉल"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "Phenol (C₆H₅OH) is commonly used as an antiseptic in hospitals and homes. It kills harmful bacteria and microorganisms. It is also known as carbolic acid and is found in many disinfectants.",
+        "hindi": "फीनॉल (C₆H₅OH) का उपयोग आमतौर पर अस्पतालों और घरों में एंटीसेप्टिक के रूप में किया जाता है। यह हानिकारक बैक्टीरिया और सूक्ष्मजीवों को मारता है। इसे कार्बोलिक एसिड के नाम से भी जाना जाता है और यह कई कीटाणुनाशकों में पाया जाता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What is the main component of biogas?",
+        "hindi": "बायोगैस का मुख्य घटक क्या है?"
+      },
+      "option": {
+        "english": [
+          "Ethane",
+          "Methane",
+          "Butane",
+          "Propane"
+        ],
+        "hindi": [
+          "एथेन",
+          "मीथेन",
+          "ब्यूटेन",
+          "प्रोपेन"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "Methane (CH₄) is the main component of biogas. Biogas is produced by the decomposition of organic matter like animal waste and plant material in the absence of oxygen. This process is called anaerobic decomposition. Biogas is a renewable source of energy used for cooking and generating electricity.",
+        "hindi": "मीथेन (CH₄) बायोगैस का मुख्य घटक है। बायोगैस जैविक पदार्थों जैसे पशु अपशिष्ट और पौधों के पदार्थों के ऑक्सीजन की अनुपस्थिति में अपघटन से बनती है। इस प्रक्रिया को अवायवीय अपघटन कहते हैं। बायोगैस ऊर्जा का एक नवीकरणीय स्रोत है जिसका उपयोग खाना पकाने और बिजली उत्पादन में किया जाता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "Which of these is used in making perfumes?",
+        "hindi": "इत्र बनाने में इनमें से किसका उपयोग किया जाता है?"
+      },
+      "option": {
+        "english": [
+          "Ketones",
+          "Aldehydes",
+          "Ethers",
+          "Esters"
+        ],
+        "hindi": [
+          "कीटोन",
+          "एल्डिहाइड",
+          "ईथर",
+          "एस्टर"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "Esters are organic compounds that have a pleasant fruity smell. They are formed by the reaction between carboxylic acids and alcohols. For example: Ethyl acetate (CH₃COOC₂H₅) has a sweet fruity smell and is used in perfumes. The reaction is: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O",
+        "hindi": "एस्टर कार्बनिक यौगिक हैं जिनमें फलों जैसी मीठी सुगंध होती है। ये कार्बोक्सिलिक अम्ल और अल्कोहल की अभिक्रिया से बनते हैं। उदाहरण के लिए: एथिल एसीटेट (CH₃COOC₂H₅) में मीठी फलों जैसी सुगंध होती है और इसका उपयोग इत्र में किया जाता है। अभिक्रिया है: CH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What happens when methane (CH₄) reacts with chlorine (Cl₂) in presence of sunlight?",
+        "hindi": "मीथेन (CH₄) क्लोरीन (Cl₂) से सूर्य के प्रकाश की उपस्थिति में अभिक्रिया करने पर क्या बनता है?"
+      },
+      "option": {
+        "english": [
+          "No reaction occurs",
+          "Only hydrogen gas forms",
+          "Chloromethane (CH₃Cl) and HCl",
+          "Only carbon dioxide forms"
+        ],
+        "hindi": [
+          "कोई अभिक्रिया नहीं होती",
+          "केवल हाइड्रोजन गैस बनती है",
+          "क्लोरोमीथेन (CH₃Cl) और HCl",
+          "केवल कार्बन डाइऑक्साइड बनता है"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "When methane reacts with chlorine in sunlight, substitution reaction occurs where one hydrogen atom is replaced by chlorine atom. The reaction is: CH₄ + Cl₂ → CH₃Cl + HCl. This is called photochemical chlorination. Sunlight acts as catalyst for this reaction.",
+        "hindi": "जब मीथेन सूर्य के प्रकाश की उपस्थिति में क्लोरीन से अभिक्रिया करती है, तो प्रतिस्थापन अभिक्रिया होती है जिसमें एक हाइड्रोजन परमाणु क्लोरीन परमाणु से प्रतिस्थापित हो जाता है। अभिक्रिया है: CH₄ + Cl₂ → CH₃Cl + HCl। इसे प्रकाश रासायनिक क्लोरीनीकरण कहते हैं। सूर्य का प्रकाश इस अभिक्रिया के लिए उत्प्रेरक का काम करता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "Which gas is responsible for the greenhouse effect?",
+        "hindi": "ग्रीनहाउस प्रभाव के लिए कौन सी गैस उत्तरदायी है?"
+      },
+      "option": {
+        "english": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Hydrogen",
+          "Oxygen"
+        ],
+        "hindi": [
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "ऑक्सीजन"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon dioxide (CO₂) is the main greenhouse gas. It traps heat in Earth's atmosphere, causing global warming. CO₂ is released when we burn fossil fuels like coal and petroleum. Increasing CO₂ levels in atmosphere leads to rise in Earth's temperature.",
+        "hindi": "कार्बन डाइऑक्साइड (CO₂) मुख्य ग्रीनहाउस गैस है। यह पृथ्वी के वायुमंडल में गर्मी को फंसा लेती है, जिससे ग्लोबल वार्मिंग होती है। कोयला और पेट्रोलियम जैसे जीवाश्म ईंधन के जलने से CO₂ निकलती है। वायुमंडल में CO₂ के स्तर में वृद्धि से पृथ्वी का तापमान बढ़ता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What is the process of conversion of ethanol to ethanoic acid?",
+        "hindi": "एथेनॉल से एथेनोइक अम्ल बनने की प्रक्रिया क्या है?"
+      },
+      "option": {
+        "english": [
+          "Hydration",
+          "Dehydration",
+          "Reduction",
+          "Oxidation"
+        ],
+        "hindi": [
+          "जलयोजन",
+          "निर्जलीकरण",
+          "अपचयन",
+          "ऑक्सीकरण"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanol is converted to ethanoic acid by oxidation. The reaction occurs in presence of oxidizing agents like acidified potassium dichromate or oxygen from air with bacteria. The reaction is: CH₃CH₂OH + O₂ → CH₃COOH + H₂O. This is how vinegar (dilute ethanoic acid) is made from alcohol.",
+        "hindi": "एथेनॉल का एथेनोइक अम्ल में परिवर्तन ऑक्सीकरण द्वारा होता है। यह अभिक्रिया अम्लीय पोटैशियम डाइक्रोमेट जैसे ऑक्सीकारक या वायु की ऑक्सीजन और जीवाणुओं की उपस्थिति में होती है। अभिक्रिया है: CH₃CH₂OH + O₂ → CH₃COOH + H₂O। इसी तरह अल्कोहल से सिरका (तनु एथेनोइक अम्ल) बनता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What is the common name of ethanoic acid?",
+        "hindi": "एथेनोइक अम्ल का सामान्य नाम क्या है?"
+      },
+      "option": {
+        "english": [
+          "Formic acid",
+          "Acetic acid",
+          "Oxalic acid",
+          "Citric acid"
+        ],
+        "hindi": [
+          "फॉर्मिक अम्ल",
+          "एसीटिक अम्ल",
+          "ऑक्सैलिक अम्ल",
+          "साइट्रिक अम्ल"
+        ]
+      },
+      "answer": 1,
+      "image": null,
+      "medium": "medium",
+      "explanation": {
+        "english": "Ethanoic acid (CH₃COOH) is commonly known as acetic acid. Its dilute solution (5-8%) in water is called vinegar, which is used in cooking and as a preservative. Pure ethanoic acid is called glacial acetic acid because it freezes and looks like ice crystals.",
+        "hindi": "एथेनोइक अम्ल (CH₃COOH) को आमतौर पर एसीटिक अम्ल के नाम से जाना जाता है। पानी में इसका तनु घोल (5-8%) सिरका कहलाता है, जिसका उपयोग खाना पकाने और परिरक्षक के रूप में किया जाता है। शुद्ध एथेनोइक अम्ल को ग्लेशियल एसीटिक अम्ल कहते हैं क्योंकि यह जम जाता है और बर्फ के क्रिस्टल जैसा दिखता है।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What type of reactions do alkenes undergo?",
+        "hindi": "एल्कीन किस प्रकार की अभिक्रियाएं करते हैं?"
+      },
+      "option": {
+        "english": [
+          "Elimination",
+          "Polymerization",
+           "Addition",
+          "Substitution"
+        ],
+        "hindi": [
+          "विलोपन",
+          "बहुलकीकरण",
+          "योगात्मक",
+          "प्रतिस्थापन"
+        ]
+      },
+      "answer": 2,
+      "image": null,
+      "medium": "medium",
+      "explanation": {
+        "english": "Alkenes undergo addition reactions due to the presence of double bond (C=C). For example, ethene (CH₂=CH₂) reacts with hydrogen to form ethane (CH₃-CH₃): CH₂=CH₂ + H₂ → CH₃-CH₃. Similarly, it can react with halogens, water, etc. The double bond breaks and new atoms/groups add to carbon atoms.",
+        "hindi": "एल्कीन द्विबंध (C=C) की उपस्थिति के कारण योगात्मक अभिक्रियाएं करते हैं। उदाहरण के लिए, एथीन (CH₂=CH₂) हाइड्रोजन से अभिक्रिया करके एथेन (CH₃-CH₃) बनाता है: CH₂=CH₂ + H₂ → CH₃-CH₃। इसी तरह, यह हैलोजन, पानी आदि से भी अभिक्रिया कर सकता है। द्विबंध टूटता है और नए परमाणु/समूह कार्बन परमाणुओं से जुड़ जाते हैं।"
+      }
+    },
+    {
+      "question_name": {
+        "english": "Why do aldehydes give silver mirror test with Tollen's reagent?",
+        "hindi": "एल्डिहाइड टॉलेन अभिकर्मक के साथ सिल्वर मिरर टेस्ट क्यों देते हैं?"
+      },
+      "option": {
+        "english": [
+          "Due to reduction of silver ions to silver metal",
+          "Due to oxidation of aldehyde to carboxylic acid",
+          "Due to formation of silver oxide",
+          "Due to complex formation"
+        ],
+        "hindi": [
+          "सिल्वर आयनों के सिल्वर धातु में अपचयन के कारण",
+          "एल्डिहाइड के कार्बोक्सिलिक अम्ल में ऑक्सीकरण के कारण",
+          "सिल्वर ऑक्साइड के निर्माण के कारण",
+          "जटिल यौगिक के निर्माण के कारण"
+        ]
+      },
+      "answer": 0,
+      "image": null,
+      "medium": "hard",
+      "explanation": {
+        "english": "In silver mirror test, aldehydes reduce silver ions (Ag⁺) in Tollen's reagent to silver metal (Ag). The silver metal deposits as a shiny mirror on the test tube. The aldehyde gets oxidized to carboxylic acid. For example: RCHO + 2[Ag(NH₃)₂]⁺ + 2OH⁻ → RCOOH + 2Ag + 4NH₃ + H₂O",
+        "hindi": "सिल्वर मिरर टेस्ट में, एल्डिहाइड टॉलेन अभिकर्मक में मौजूद सिल्वर आयनों (Ag⁺) को सिल्वर धातु (Ag) में अपचयित कर देता है। सिल्वर धातु परखनली पर चमकदार दर्पण के रूप में जम जाती है। एल्डिहाइड कार्बोक्सिलिक अम्ल में ऑक्सीकृत हो जाता है। उदाहरण के लिए: RCHO + 2[Ag(NH₃)₂]⁺ + 2OH⁻ → RCOOH + 2Ag + 4NH₃ + H₂O"
+      }
+    },
+    {
+      "question_name": {
+        "english": "What is the role of concentrated H₂SO₄ in ethanol dehydration?",
+        "hindi": "एथेनॉल के निर्जलीकरण में सांद्र H₂SO₄ की क्या भूमिका होती है?"
+      },
+      "option": {
+        "english": [
+          "Reducing agent",
+          "Catalyst",
+          "Oxidizing agent",
+          "Dehydrating agent"
+        ],
+        "hindi": [
+          "अपचायक",
+          "उत्प्रेरक",
+          "ऑक्सीकारक",
+          "निर्जलीकारक"
+        ]
+      },
+      "answer": 3,
+      "image": null,
+      "medium": "hard",
+      "explanation": {
+        "english": "Concentrated H₂SO₄ acts as a dehydrating agent in ethanol dehydration. It removes water (H₂O) from ethanol (CH₃CH₂OH) to form ethene (CH₂=CH₂). The reaction occurs at 170°C: CH₃CH₂OH → CH₂=CH₂ + H₂O. This is an elimination reaction where H₂SO₄ removes H₂O from ethanol.",
+        "hindi": "सांद्र H₂SO₄ एथेनॉल के निर्जलीकरण में निर्जलीकारक की भूमिका निभाता है। यह एथेनॉल (CH₃CH₂OH) से पानी (H₂O) को हटाकर एथीन (CH₂=CH₂) बनाता है। यह अभिक्रिया 170°C पर होती है: CH₃CH₂OH → CH₂=CH₂ + H₂O। यह एक विलोपन अभिक्रिया है जहां H₂SO₄ एथेनॉल से H₂O को हटाता है।"
+      }
+    }
+]

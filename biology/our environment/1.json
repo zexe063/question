@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Moon",
-          "Sun",
+          "Sun", 
           "Wind",
           "Water"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The Sun is the primary source of energy in an ecosystem. Through photosynthesis, plants convert solar energy into chemical energy, which then flows through the entire ecosystem.",
+        "hindi": "सूर्य पारिस्थितिकी तंत्र में ऊर्जा का प्राथमिक स्रोत है। प्रकाश संश्लेषण के माध्यम से, पौधे सौर ऊर्जा को रासायनिक ऊर्जा में बदलते हैं, जो फिर पूरे पारिस्थितिकी तंत्र में प्रवाहित होती है।"
+      }
     },
     {
       "question_name": {
@@ -36,14 +40,18 @@
         ],
         "hindi": [
           "कार्बन डाइऑक्साइड",
-          "ऑक्सीजन",
+          "ऑक्सीजन", 
           "नाइट्रोजन",
           "हाइड्रोजन"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon dioxide is the main greenhouse gas that traps heat in Earth's atmosphere. It acts like a blanket, preventing heat from escaping into space and causing global warming.",
+        "hindi": "कार्बन डाइऑक्साइड मुख्य ग्रीनहाउस गैस है जो पृथ्वी के वायुमंडल में गर्मी को फंसाती है। यह एक कंबल की तरह काम करती है, गर्मी को अंतरिक्ष में जाने से रोकती है और ग्लोबल वार्मिंग का कारण बनती है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Decomposers like bacteria and fungi break down dead plants and animals into simpler substances. This process releases nutrients back into the soil, making them available for plants to use again.",
+        "hindi": "बैक्टीरिया और कवक जैसे अपघटक मृत पौधों और जानवरों को सरल पदार्थों में तोड़ते हैं। यह प्रक्रिया पोषक तत्वों को वापस मिट्टी में मुक्त करती है, जिससे पौधे उन्हें फिर से उपयोग कर सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -77,19 +89,23 @@
         "english": [
           "More oxygen",
           "Less rain",
-          "More UV rays",
-          "More clouds"
+          "More clouds",
+          "More UV rays"
         ],
         "hindi": [
           "अधिक ऑक्सीजन",
           "कम वर्षा",
-          "अधिक पराबैंगनी किरणें",
-          "अधिक बादल"
+          "अधिक बादल",
+          "अधिक पराबैंगनी किरणें"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Ozone layer depletion leads to increased UV radiation reaching Earth's surface. This can cause skin cancer, eye damage, and harm to plants and marine life.",
+        "hindi": "ओजोन परत का क्षरण पृथ्वी की सतह तक पहुंचने वाली पराबैंगनी विकिरण में वृद्धि का कारण बनता है। यह त्वचा कैंसर, आंखों को नुकसान और पौधों और समुद्री जीवन को हानि पहुंचा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Industrial waste is a major cause of water pollution. Industries release harmful chemicals and untreated waste into water bodies, making them unsafe for humans and aquatic life.",
+        "hindi": "औद्योगिक कचरा जल प्रदूषण का एक प्रमुख कारण है। उद्योग हानिकारक रसायनों और अनुपचारित कचरे को जल स्रोतों में छोड़ते हैं, जिससे वे मनुष्यों और जलीय जीवन के लिए असुरक्षित हो जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Biodiversity refers to the variety of living organisms in an ecosystem. It includes different species of plants, animals, microorganisms, and their genetic variations.",
+        "hindi": "जैव विविधता एक पारिस्थितिकी तंत्र में जीवित जीवों की विविधता को दर्शाती है। इसमें पौधों, जानवरों, सूक्ष्मजीवों की विभिन्न प्रजातियां और उनके आनुवंशिक भिन्नताएं शामिल हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Solar energy is a renewable resource because it is naturally replenished daily. Unlike fossil fuels, it will never run out as long as the sun exists.",
+        "hindi": "सौर ऊर्जा एक नवीकरणीय संसाधन है क्योंकि यह प्राकृतिक रूप से प्रतिदिन पुनः प्राप्त होती है। जीवाश्म ईंधन के विपरीत, जब तक सूर्य मौजूद है, यह कभी समाप्त नहीं होगी।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Air pollution, particularly sulfur dioxide and nitrogen oxides from industries and vehicles, causes acid rain. These pollutants mix with water in clouds to form acidic precipitation.",
+        "hindi": "वायु प्रदूषण, विशेष रूप से उद्योगों और वाहनों से निकलने वाली सल्फर डाइऑक्साइड और नाइट्रोजन ऑक्साइड, अम्ल वर्षा का कारण बनते हैं। ये प्रदूषक बादलों में पानी के साथ मिलकर अम्लीय वर्षा बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Food chains show how energy transfers from one organism to another in an ecosystem. They help us understand the feeding relationships and energy flow between different species.",
+        "hindi": "खाद्य श्रृंखलाएं दिखाती हैं कि कैसे ऊर्जा एक जीव से दूसरे जीव में स्थानांतरित होती है। वे विभिन्न प्रजातियों के बीच भोजन संबंधों और ऊर्जा प्रवाह को समझने में मदद करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Producers (mainly green plants) make their own food through photosynthesis. They are the foundation of food chains and provide energy for all other organisms in the ecosystem.",
+        "hindi": "उत्पादक (मुख्य रूप से हरे पौधे) प्रकाश संश्लेषण के माध्यम से अपना भोजन स्वयं बनाते हैं। वे खाद्य श्रृंखलाओं की नींव हैं और पारिस्थितिकी तंत्र के सभी अन्य जीवों के लिए ऊर्जा प्रदान करते हैं।"
+      }
     }
   ]

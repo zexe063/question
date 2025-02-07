@@ -1,5 +1,3 @@
-
-
 [
     {
       "question_name": {
@@ -22,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In a combination reaction, two or more reactants combine to form a single product. For example: When coal burns in oxygen, carbon dioxide is formed (C + O₂ → CO₂). This type of reaction usually releases heat.",
+        "hindi": "संयोजन अभिक्रिया में दो या अधिक अभिकारक मिलकर एक उत्पाद बनाते हैं। उदाहरण के लिए: जब कोयला ऑक्सीजन में जलता है, तो कार्बन डाइऑक्साइड बनता है (C + O₂ → CO₂)। इस प्रकार की अभिक्रिया में आमतौर पर ऊष्मा निकलती है।"
+      }
     },
     {
       "question_name": {
@@ -45,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "A balanced equation has equal number of atoms on both sides. In 2H₂ + O₂ → 2H₂O, left side has 4 H atoms and 2 O atoms, and right side also has 4 H atoms and 2 O atoms. This makes it balanced.",
+        "hindi": "संतुलित समीकरण में दोनों तरफ परमाणुओं की संख्या बराबर होती है। 2H₂ + O₂ → 2H₂O में, बाईं ओर 4 H परमाणु और 2 O परमाणु हैं, और दाईं ओर भी 4 H परमाणु और 2 O परमाणु हैं। इसलिए यह संतुलित है।"
+      }
     },
     {
       "question_name": {
@@ -68,7 +74,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "This is a decomposition reaction where one compound breaks down into simpler substances. When limestone (CaCO₃) is heated, it breaks down into quicklime (CaO) and carbon dioxide (CO₂). This is also how cement is made.",
+        "hindi": "यह एक अपघटन अभिक्रिया है जहां एक यौगिक टूटकर सरल पदार्थों में बदल जाता है। जब चूना पत्थर (CaCO₃) को गरम किया जाता है, तो वह बिना बुझा चूना (CaO) और कार्बन डाइऑक्साइड (CO₂) में टूट जाता है। सीमेंट भी इसी तरह बनता है।"
+      }
     },
     {
       "question_name": {
@@ -91,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In an exothermic reaction, heat is released to the surroundings. Common examples are burning of wood or coal, rusting of iron, and setting of cement. When you touch a container with an exothermic reaction, it feels warm.",
+        "hindi": "ऊष्माक्षेपी अभिक्रिया में आस-पास के वातावरण में ऊष्मा निकलती है। सामान्य उदाहरण हैं लकड़ी या कोयले का जलना, लोहे में जंग लगना, और सीमेंट का जमना। जब आप ऊष्माक्षेपी अभिक्रिया वाले बर्तन को छूते हैं, तो वह गरम महसूस होता है।"
+      }
     },
     {
       "question_name": {
@@ -114,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Oxidation is loss of electrons. A common example is rusting of iron where iron loses electrons to oxygen in air. When an apple turns brown after cutting, it's also oxidation. Metals lose electrons to form positive ions in oxidation.",
+        "hindi": "ऑक्सीकरण में इलेक्ट्रॉन की हानि होती है। एक आम उदाहरण है लोहे में जंग लगना जहां लोहा हवा में ऑक्सीजन को इलेक्ट्रॉन देता है। जब सेब काटने के बाद भूरा हो जाता है, वह भी ऑक्सीकरण है। धातुएं ऑक्सीकरण में इलेक्ट्रॉन खोकर धनायन बनाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -137,7 +155,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In Zn + CuSO₄ → ZnSO₄ + Cu, zinc displaces copper from copper sulfate solution. The blue color of CuSO₄ disappears as reddish-brown copper metal forms. More reactive metals can displace less reactive metals from their compounds.",
+        "hindi": "Zn + CuSO₄ → ZnSO₄ + Cu में, जिंक कॉपर सल्फेट विलयन से कॉपर को विस्थापित करता है। CuSO₄ का नीला रंग गायब हो जाता है और लाल-भूरी कॉपर धातु बनती है। अधिक क्रियाशील धातुएं कम क्रियाशील धातुओं को उनके यौगिकों से विस्थापित कर सकती हैं।"
+      }
     },
     {
       "question_name": {
@@ -160,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When zinc reacts with dilute sulfuric acid (H₂SO₄), hydrogen gas is released: Zn + H₂SO₄ → ZnSO₄ + H₂. You can test for hydrogen gas by bringing a burning matchstick near it - it burns with a 'pop' sound.",
+        "hindi": "जब जिंक तनु सल्फ्यूरिक अम्ल (H₂SO₄) से क्रिया करता है, तो हाइड्रोजन गैस निकलती है: Zn + H₂SO₄ → ZnSO₄ + H₂। हाइड्रोजन गैस की जाँच जलती हुई तीली को पास लाकर की जा सकती है - यह 'पॉप' की आवाज के साथ जलती है।"
+      }
     },
     {
       "question_name": {
@@ -183,7 +209,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In photosynthesis, plants use sunlight, CO₂ and water to form glucose and oxygen: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. This process happens in leaves where chlorophyll (green pigment) captures sunlight energy to make food (glucose).",
+        "hindi": "प्रकाश संश्लेषण में पौधे सूर्य के प्रकाश, CO₂ और पानी का उपयोग करके ग्लूकोज और ऑक्सीजन बनाते हैं: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂। यह प्रक्रिया पत्तियों में होती है जहां क्लोरोफिल (हरा वर्णक) सूर्य के प्रकाश की ऊर्जा को भोजन (ग्लूकोज) बनाने के लिए पकड़ता है।"
+      }
     },
     {
       "question_name": {
@@ -206,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Reduction is gain of electrons. When copper oxide is heated with hydrogen, copper oxide is reduced to copper metal: CuO + H₂ → Cu + H₂O. The black CuO turns into reddish-brown Cu as it gains electrons from hydrogen.",
+        "hindi": "अपचयन में इलेक्ट्रॉन की प्राप्ति होती है। जब कॉपर ऑक्साइड को हाइड्रोजन के साथ गरम किया जाता है, कॉपर ऑक्साइड का अपचयन होकर कॉपर धातु बनती है: CuO + H₂ → Cu + H₂O। काला CuO हाइड्रोजन से इलेक्ट्रॉन प्राप्त करके लाल-भूरे Cu में बदल जाता है।"
+      }
     },
     {
       "question_name": {
@@ -229,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "A precipitation reaction forms an insoluble solid (precipitate) when two solutions mix. Example: When silver nitrate solution is added to sodium chloride solution, white silver chloride precipitate forms: AgNO₃ + NaCl → AgCl↓ + NaNO₃",
+        "hindi": "अवक्षेपण अभिक्रिया में दो विलयनों के मिलने पर एक अघुलनशील ठोस (अवक्षेप) बनता है। उदाहरण: जब सिल्वर नाइट्रेट विलयन को सोडियम क्लोराइड विलयन में मिलाया जाता है, तो सफेद सिल्वर क्लोराइड अवक्षेप बनता है: AgNO₃ + NaCl → AgCl↓ + NaNO₃"
+      }
     }
   ]

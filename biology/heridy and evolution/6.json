@@ -21,6 +21,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The bases (A, T, G, C) in DNA carry the genetic code. These bases pair up (A with T, G with C) to store genetic information that determines our traits. Think of them like letters that spell out instructions for our body.",
+        "hindi": "DNA में क्षार (A, T, G, C) आनुवंशिक कोड को वहन करते हैं। ये क्षार जोड़े बनाते हैं (A के साथ T, G के साथ C) जो हमारे लक्षणों को निर्धारित करने वाली आनुवंशिक जानकारी को संग्रहित करते हैं। इन्हें अक्षरों की तरह समझें जो हमारे शरीर के लिए निर्देश लिखते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -44,6 +48,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "RNA acts as a messenger carrying instructions from DNA to make proteins. Like a delivery person taking a message from DNA in the nucleus to the protein-making factory (ribosomes) in the cell, where the message is used to build proteins.",
+        "hindi": "RNA डीएनए से प्रोटीन बनाने के लिए निर्देश ले जाने वाले संदेशवाहक की तरह काम करता है। यह एक संदेशवाहक की तरह है जो नाभिक में डीएनए से संदेश लेकर कोशिका में प्रोटीन बनाने की फैक्ट्री (राइबोसोम) तक पहुंचाता है, जहां इस संदेश का उपयोग प्रोटीन बनाने के लिए किया जाता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -67,6 +75,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "During crossing over, matching chromosomes exchange segments of genetic material. It's like swapping parts between two similar puzzles. This creates new combinations of genes, which is why children can have a mix of traits from both parents.",
+        "hindi": "क्रॉसिंग ओवर के दौरान, मिलते-जुलते गुणसूत्र आनुवंशिक सामग्री के टुकड़ों का आदान-प्रदान करते हैं। यह दो समान पहेलियों के बीच हिस्सों की अदला-बदली की तरह है। इससे जीन के नए संयोजन बनते हैं, इसीलिए बच्चों में माता-पिता दोनों के लक्षणों का मिश्रण हो सकता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -90,6 +102,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "The centromere helps in chromosome movement during cell division. Think of it as a handle that helps pull chromosomes to opposite sides of the cell when the cell divides. Without centromeres, chromosomes couldn't be properly sorted into new cells.",
+        "hindi": "सेंट्रोमियर कोशिका विभाजन के दौरान गुणसूत्र की गति में मदद करता है। इसे एक हैंडल की तरह समझें जो कोशिका विभाजन के समय गुणसूत्रों को कोशिका के विपरीत छोरों की ओर खींचने में मदद करता है। सेंट्रोमियर के बिना, गुणसूत्र नई कोशिकाओं में सही तरीके से विभाजित नहीं हो सकते।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -113,6 +129,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "AU (Adenine-Uracil) pair is not found in DNA. DNA only has AT (Adenine-Thymine) and GC (Guanine-Cytosine) pairs. Uracil (U) is found in RNA instead of Thymine. It's like DNA and RNA use slightly different alphabets to write their genetic instructions.",
+        "hindi": "AU (एडेनीन-यूरेसिल) जोड़ी DNA में नहीं पाई जाती है। DNA में केवल AT (एडेनीन-थाइमीन) और GC (गुआनीन-साइटोसीन) जोड़े होते हैं। यूरेसिल (U) थाइमीन की जगह RNA में पाया जाता है। यह ऐसा है जैसे DNA और RNA अपने आनुवंशिक निर्देशों को लिखने के लिए थोड़े अलग-अलग अक्षरों का उपयोग करते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -136,6 +156,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Mutations create variations in living things by changing DNA sequences. Like typing errors that sometimes create new words, mutations can create new traits. Some may be helpful, allowing organisms to better survive in their environment, while others may be harmful or have no effect.",
+        "hindi": "उत्परिवर्तन DNA अनुक्रमों को बदलकर जीवों में विभिन्नताएं पैदा करता है। टाइपिंग की गलतियों की तरह जो कभी-कभी नए शब्द बनाती हैं, उत्परिवर्तन नए लक्षण बना सकते हैं। कुछ सहायक हो सकते हैं, जो जीवों को अपने वातावरण में बेहतर जीवित रहने में मदद करते हैं, जबकि अन्य हानिकारक हो सकते हैं या कोई प्रभाव नहीं डाल सकते।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -159,6 +183,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "The universal genetic code means that DNA works the same way in all living things - from bacteria to humans. This suggests all life came from one common ancestor, like different branches of a family tree. For example, the DNA code that makes insulin in humans can work in bacteria too!",
+        "hindi": "सार्वभौमिक आनुवंशिक कोड का मतलब है कि DNA सभी जीवों में एक ही तरह से काम करता है - बैक्टीरिया से लेकर मनुष्यों तक। यह दर्शाता है कि सभी जीवन एक सामान्य पूर्वज से आए हैं, जैसे वंश वृक्ष की अलग-अलग शाखाएं। उदाहरण के लिए, मनुष्यों में इंसुलिन बनाने वाला DNA कोड बैक्टीरिया में भी काम कर सकता है!"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -182,6 +210,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Natural selection removes harmful mutations from populations over time. Just like we remove spoiled food from our fridge, nature removes traits that make it harder for organisms to survive. For example, if a mutation makes an animal slower, it might get caught by predators more easily and not pass on its genes.",
+        "hindi": "प्राकृतिक चयन समय के साथ हानिकारक उत्परिवर्तनों को जनसंख्या से हटा देता है। जैसे हम खराब खाना फ्रिज से निकाल देते हैं, प्रकृति उन लक्षणों को हटा देती है जो जीवों के जीवित रहने को कठिन बनाते हैं। उदाहरण के लिए, यदि कोई उत्परिवर्तन किसी जानवर को धीमा बना देता है, तो वह शिकारियों द्वारा आसानी से पकड़ा जा सकता है और अपने जीन को आगे नहीं बढ़ा पाएगा।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -205,29 +237,37 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Sexual reproduction creates genetic variation by mixing genes from two parents. It's like mixing different colored paints - you get new colors! This variation helps species adapt to changing environments. For example, if some plants are resistant to a disease, their offspring might inherit this resistance.",
+        "hindi": "लैंगिक प्रजनन दो माता-पिता के जीन को मिलाकर आनुवंशिक विभिन्नता पैदा करता है। यह अलग-अलग रंगों के पेंट को मिलाने जैसा है - आपको नए रंग मिलते हैं! यह विभिन्नता प्रजातियों को बदलते वातावरण में अनुकूलित होने में मदद करती है। उदाहरण के लिए, यदि कुछ पौधे किसी बीमारी के प्रतिरोधी हैं, तो उनकी संतान में यह प्रतिरोध आ सकता है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the significance of genetic drift in small populations?",
-        "hindi": "छोटी जनसंख्या में आनुवंशिक अपवाह का क्या महत्व है?"
+        "english": "Why do whales and fish have similar body shapes despite being from different evolutionary lineages?",
+        "hindi": "व्हेल और मछली अलग-अलग विकासवादी वंशावली से होने के बावजूद समान शारीरिक आकार क्यों रखते हैं?"
       },
       "option": {
         "english": [
-          "No effect",
-          "Minor changes",
-          "Major changes",
-          "No changes"
+          "Random chance",
+          "Direct ancestry",
+          "Convergent evolution",
+          "No relationship"
         ],
         "hindi": [
-          "कोई प्रभाव नहीं",
-          "मामूली परिवर्तन",
-          "प्रमुख परिवर्तन",
-          "कोई परिवर्तन नहीं"
+          "यादृच्छिक संयोग",
+          "प्रत्यक्ष वंश",
+          "अभिसारी विकास",
+          "कोई संबंध नहीं"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "This is called convergent evolution - when different species develop similar features because they live in similar environments. Like whales and fish both developed streamlined bodies for swimming, even though whales evolved from land mammals. It's like how airplanes and birds both have wings for flying, even though they were developed independently.",
+        "hindi": "इसे अभिसारी विकास कहते हैं - जब अलग-अलग प्रजातियां समान वातावरण में रहने के कारण समान विशेषताएं विकसित करती हैं। जैसे व्हेल और मछली दोनों ने तैरने के लिए धारारेखित शरीर विकसित किए, भले ही व्हेल स्थलीय स्तनधारियों से विकसित हुई। यह वैसा ही है जैसे हवाई जहाज और पक्षियों दोनों के पास उड़ने के लिए पंख हैं, भले ही वे स्वतंत्र रूप से विकसित हुए।"
+      },
       "image": null,
       "medium": "hard"
     }

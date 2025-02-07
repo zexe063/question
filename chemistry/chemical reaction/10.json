@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Rusting is a chemical reaction where iron reacts with oxygen and water to form hydrated iron oxide (rust). The balanced equation is 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O. This reaction happens naturally when iron objects are exposed to both air and moisture. The reddish-brown rust weakens the iron object over time.",
+        "hindi": "जंग लगना एक रासायनिक अभिक्रिया है जहां लोहा ऑक्सीजन और पानी से मिलकर जलयोजित आयरन ऑक्साइड (जंग) बनाता है। संतुलित समीकरण है 4Fe + 3O₂ + 2H₂O → 2Fe₂O₃.H₂O। यह अभिक्रिया स्वाभाविक रूप से तब होती है जब लोहे की वस्तुएं हवा और नमी दोनों के संपर्क में आती हैं। लाल-भूरी जंग समय के साथ लोहे की वस्तु को कमजोर कर देती है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Photosynthesis is a combination reaction where carbon dioxide and water combine in the presence of sunlight and chlorophyll to form glucose and oxygen. The equation is: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Plants use this process to make their food and release oxygen as a byproduct.",
+        "hindi": "प्रकाश संश्लेषण एक संयोजन अभिक्रिया है जहां कार्बन डाइऑक्साइड और पानी सूर्य के प्रकाश और क्लोरोफिल की उपस्थिति में मिलकर ग्लूकोज और ऑक्सीजन बनाते हैं। समीकरण है: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂। पौधे इस प्रक्रिया का उपयोग अपना भोजन बनाने के लिए करते हैं और उपउत्पाद के रूप में ऑक्सीजन छोड़ते हैं।"
+      }
     },
     {
       "question_name": {
@@ -55,41 +63,49 @@
           "Becomes white",
           "No change",
           "Becomes black",
-          "Grey color forms"
+          "Black and grey color forms"
         ],
         "hindi": [
           "सफेद हो जाता है",
           "कोई परिवर्तन नहीं",
           "काला हो जाता है",
-          "धूसर रंग बनता है"
+          "काला और धूसर रंग बनता है"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "When silver chloride is exposed to sunlight, it decomposes to form silver metal and chlorine gas. The white silver chloride turns grey and black due to the formation of silver metal. The reaction is: 2AgCl → 2Ag + Cl₂. This is why photographic films containing silver salts turn black when exposed to light.",
+        "hindi": "जब सिल्वर क्लोराइड को सूर्य के प्रकाश में रखा जाता है, यह विघटित होकर चांदी धातु और क्लोरीन गैस बनाता है। सफेद सिल्वर क्लोराइड चांदी धातु बनने के कारण धूसर और काला हो जाता है। अभिक्रिया है: 2AgCl → 2Ag + Cl₂। इसीलिए चांदी के लवण वाली फोटोग्राफिक फिल्में प्रकाश के संपर्क में आने पर काली हो जाती हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What type of reaction is respiration?",
-        "hindi": "श्वसन किस प्रकार की अभिक्रिया है?"
+        "english": "Which substance prevents oxidation of food?",
+        "hindi": "कौन सा पदार्थ भोजन के ऑक्सीकरण को रोकता है?"
       },
       "option": {
         "english": [
-          "Endothermic",
-          "Physical",
-          "Exothermic",
-          "Neutral"
+          "Preservatives",
+          "Water",
+          "Antioxidants",
+          "Salt"
         ],
         "hindi": [
-          "ऊष्माशोषी",
-          "भौतिक",
-          "ऊष्माक्षेपी",
-          "उदासीन"
+          "परिरक्षक",
+          "पानी",
+          "एंटीऑक्सीडेंट",
+          "नमक"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Antioxidants prevent food from getting spoiled by stopping oxidation reactions. They work by preventing oxygen from reacting with food molecules. Common antioxidants include Vitamin C and E. That's why many packaged foods contain added antioxidants to increase their shelf life.",
+        "hindi": "एंटीऑक्सीडेंट ऑक्सीकरण अभिक्रियाओं को रोककर भोजन को खराब होने से बचाते हैं। वे ऑक्सीजन को भोजन के अणुओं के साथ अभिक्रिया करने से रोकते हैं। सामान्य एंटीऑक्सीडेंट में विटामिन C और E शामिल हैं। इसीलिए कई पैकेज्ड खाद्य पदार्थों में उनकी शेल्फ लाइफ बढ़ाने के लिए एंटीऑक्सीडेंट मिलाए जाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When zinc reacts with dilute sulfuric acid, it forms zinc sulfate and hydrogen gas. The balanced equation is Zn + H₂SO₄ → ZnSO₄ + H₂. This is a single displacement reaction where zinc displaces hydrogen from the acid. The bubbles of hydrogen gas can be seen during the reaction.",
+        "hindi": "जब जिंक तनु सल्फ्यूरिक अम्ल से अभिक्रिया करता है, तो जिंक सल्फेट और हाइड्रोजन गैस बनती है। संतुलित समीकरण है Zn + H₂SO₄ → ZnSO₄ + H₂। यह एक एकल विस्थापन अभिक्रिया है जहां जिंक अम्ल से हाइड्रोजन को विस्थापित करता है। अभिक्रिया के दौरान हाइड्रोजन गैस के बुलबुले देखे जा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When calcium carbonate (limestone) is heated strongly, it breaks down into calcium oxide (quicklime) and carbon dioxide gas. The equation is: CaCO₃ → CaO + CO₂. This decomposition reaction is used in the cement industry. The lime produced is used in making cement and mortar.",
+        "hindi": "जब कैल्शियम कार्बोनेट (चूना पत्थर) को तेज गरम किया जाता है, यह कैल्शियम ऑक्साइड (क्विकलाइम) और कार्बन डाइऑक्साइड गैस में टूट जाता है। समीकरण है: CaCO₃ → CaO + CO₂। इस अपघटन अभिक्रिया का उपयोग सीमेंट उद्योग में किया जाता है। उत्पादित चूने का उपयोग सीमेंट और मोर्टार बनाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Copper sulphate solution is blue in color due to the presence of copper ions (Cu²⁺). When copper sulphate crystals (CuSO₄.5H₂O) are dissolved in water, they form a clear blue solution. This characteristic blue color helps identify copper compounds in chemical tests.",
+        "hindi": "कॉपर सल्फेट का विलयन कॉपर आयनों (Cu²⁺) की उपस्थिति के कारण नीले रंग का होता है। जब कॉपर सल्फेट के क्रिस्टल (CuSO₄.5H₂O) पानी में घुलते हैं, वे एक स्पष्ट नीला घोल बनाते हैं। यह विशिष्ट नीला रंग रासायनिक परीक्षणों में कॉपर यौगिकों की पहचान में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When iron nails are dipped in copper sulphate solution, a displacement reaction occurs: Fe + CuSO₄ → FeSO₄ + Cu. Iron being more reactive displaces copper from copper sulphate. The blue color of the solution fades as copper sulphate converts to iron sulphate, and reddish-brown copper metal deposits on the iron nails.",
+        "hindi": "जब लोहे की कीलों को कॉपर सल्फेट के घोल में डुबोया जाता है, एक विस्थापन अभिक्रिया होती है: Fe + CuSO₄ → FeSO₄ + Cu। लोहा अधिक क्रियाशील होने के कारण कॉपर सल्फेट से कॉपर को विस्थापित कर देता है। घोल का नीला रंग फीका पड़ जाता है क्योंकि कॉपर सल्फेट आयरन सल्फेट में बदल जाता है, और लाल-भूरी कॉपर धातु लोहे की कीलों पर जम जाती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "When zinc reacts with dilute hydrochloric acid, hydrogen gas is produced along with zinc chloride: Zn + 2HCl → ZnCl₂ + H₂. This is a single displacement reaction where zinc displaces hydrogen from the acid. The hydrogen gas produced can be tested by bringing a burning matchstick near it - it burns with a 'pop' sound.",
+        "hindi": "जब जिंक तनु हाइड्रोक्लोरिक अम्ल से अभिक्रिया करता है, तो हाइड्रोजन गैस और जिंक क्लोराइड बनता है: Zn + 2HCl → ZnCl₂ + H₂। यह एक एकल विस्थापन अभिक्रिया है जहां जिंक अम्ल से हाइड्रोजन को विस्थापित करता है। उत्पन्न हाइड्रोजन गैस की जांच जलती हुई तीली को उसके पास लाकर की जा सकती है - यह 'पॉप' की आवाज के साथ जलती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "hard",
+      "explanation": {
+        "english": "When magnesium burns in air, it reacts with oxygen to form magnesium oxide: 2Mg + O₂ → 2MgO. The reaction produces a bright white light and forms a white powder (MgO). This is a combination reaction and is highly exothermic. The bright light produced is used in flash photography and fireworks.",
+        "hindi": "जब मैग्नीशियम हवा में जलता है, यह ऑक्सीजन से अभिक्रिया करके मैग्नीशियम ऑक्साइड बनाता है: 2Mg + O₂ → 2MgO। अभिक्रिया में तेज सफेद प्रकाश निकलता है और सफेद पाउडर (MgO) बनता है। यह एक संयोजन अभिक्रिया है और अत्यधिक ऊष्माक्षेपी है। उत्पन्न तेज प्रकाश का उपयोग फ्लैश फोटोग्राफी और आतिशबाजी में किया जाता है।"
+      }
     }
   ]

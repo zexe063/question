@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Soil hardening",
-          "Soil damage",
+          "Soil damage", 
           "Soil fertility",
           "Soil erosion"
         ],
@@ -20,30 +20,38 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Earthworms help make soil fertile by breaking down dead plants and animals into simpler substances. They also make tunnels in soil which helps air and water to reach plant roots better.",
+        "hindi": "केंचुए मृत पौधों और जानवरों को सरल पदार्थों में तोड़कर मिट्टी को उपजाऊ बनाने में मदद करते हैं। वे मिट्टी में सुरंगें भी बनाते हैं जिससे हवा और पानी पौधों की जड़ों तक बेहतर ढंग से पहुंच सकता है।"
+      }
     },
     {
       "question_name": {
-        "english": "What causes water pollution?",
-        "hindi": "जल प्रदूषण का क्या कारण है?"
+        "english": "What is air quality index?",
+        "hindi": "वायु गुणवत्ता सूचकांक क्या है?"
       },
       "option": {
         "english": [
-          "Clean water",
-          "Rain water",
-          "Fresh water",
-          "Industrial waste"
+          "Random number",
+          "Temperature",
+          "Just number",
+          "Pollution measure"
         ],
         "hindi": [
-          "स्वच्छ जल",
-          "वर्षा जल",
-          "ताजा जल",
-          "औद्योगिक कचरा"
+          "यादृच्छिक संख्या",
+          "तापमान",
+          "केवल संख्या",
+          "प्रदूषण माप"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Air Quality Index (AQI) is a simple number that tells us how clean or polluted the air is. A low AQI means clean air, while a high AQI means the air is polluted and harmful to breathe.",
+        "hindi": "वायु गुणवत्ता सूचकांक एक सरल संख्या है जो हमें बताती है कि हवा कितनी स्वच्छ या प्रदूषित है। कम AQI का मतलब स्वच्छ हवा है, जबकि उच्च AQI का मतलब है कि हवा प्रदूषित है और सांस लेने के लिए हानिकारक है।"
+      }
     },
     {
       "question_name": {
@@ -66,30 +74,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Wildlife sanctuaries protect animals and their natural homes. They give animals a safe place to live, find food, and have babies without being disturbed by humans. This helps save endangered species from dying out.",
+        "hindi": "वन्यजीव अभयारण्य जानवरों और उनके प्राकृतिक घरों की रक्षा करते हैं। वे जानवरों को रहने, भोजन खोजने और मनुष्यों द्वारा परेशान किए बिना बच्चे पैदा करने के लिए एक सुरक्षित स्थान देते हैं। यह विलुप्त होने से बचाने में मदद करता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which is a renewable source of energy?",
-        "hindi": "ऊर्जा का नवीकरणीय स्रोत कौन सा है?"
+        "english": "What is e-waste?",
+        "hindi": "ई-कचरा क्या है?"
       },
       "option": {
         "english": [
-          "Solar energy",
-          "Coal",
-          "Petroleum",
-          "Natural gas"
+          "Electronic waste",
+          "Paper waste",
+          "Food waste",
+          "Plastic waste"
         ],
         "hindi": [
-          "सौर ऊर्जा",
-          "कोयला",
-          "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "इलेक्ट्रॉनिक कचरा",
+          "कागज कचरा",
+          "खाद्य कचरा",
+          "प्लास्टिक कचरा"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "E-waste is old or broken electronic items like phones, computers, and TVs that we throw away. These contain harmful materials that can damage our environment if not disposed of properly.",
+        "hindi": "ई-कचरा पुराने या टूटे हुए इलेक्ट्रॉनिक सामान जैसे फोन, कंप्यूटर और टीवी हैं जिन्हें हम फेंक देते हैं। इनमें हानिकारक पदार्थ होते हैं जो सही तरीके से न निपटाने पर हमारे पर्यावरण को नुकसान पहुंचा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "A food web shows how energy moves from one living thing to another in nature. It starts with plants that get energy from the sun, then animals eat plants, and bigger animals eat smaller ones.",
+        "hindi": "खाद्य जाल दिखाता है कि प्रकृति में ऊर्जा एक जीव से दूसरे में कैसे जाती है। यह पौधों से शुरू होता है जो सूरज से ऊर्जा प्राप्त करते हैं, फिर जानवर पौधों को खाते हैं, और बड़े जानवर छोटे जानवरों को खाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Too much loud noise can damage our ears and cause hearing problems. It can also make it hard to sleep, concentrate, and cause stress. This is why we should avoid very loud sounds and use ear protection when needed.",
+        "hindi": "बहुत अधिक तेज आवाज हमारे कानों को नुकसान पहुंचा सकती है और सुनने में समस्याएं पैदा कर सकती है। इससे सोने और ध्यान केंद्रित करने में कठिनाई हो सकती है और तनाव भी हो सकता है। इसलिए हमें बहुत तेज आवाजों से बचना चाहिए और जरूरत पड़ने पर कान की सुरक्षा करनी चाहिए।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Pesticides can harm the environment by killing helpful insects like bees, making soil less fertile, and polluting water when rain washes them into rivers and lakes. They can also harm birds and other animals that eat poisoned insects.",
+        "hindi": "कीटनाशक मधुमक्खियों जैसे लाभदायक कीड़ों को मारकर, मिट्टी को कम उपजाऊ बनाकर और बारिश के साथ नदियों और झीलों में बहकर पानी को प्रदूषित करके पर्यावरण को नुकसान पहुंचा सकते हैं। ये विषैले कीड़ों को खाने वाले पक्षियों और अन्य जानवरों को भी नुकसान पहुंचा सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Sulfur dioxide from factories and vehicles mixes with rain water to form acid rain. This acid rain can damage plants, buildings, and make water in lakes harmful for fish and other water animals.",
+        "hindi": "कारखानों और वाहनों से निकलने वाली सल्फर डाइऑक्साइड बारिश के पानी के साथ मिलकर अम्ल वर्षा बनाती है। यह अम्ल वर्षा पौधों, इमारतों को नुकसान पहुंचा सकती है और झीलों के पानी को मछलियों और अन्य जलीय जीवों के लिए हानिकारक बना सकती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Coral reefs are like underwater cities where many sea animals live. They provide food and shelter to fish and other marine life. They also protect coastlines from big waves and storms.",
+        "hindi": "प्रवाल भित्तियां पानी के नीचे के शहरों की तरह हैं जहां कई समुद्री जानवर रहते हैं। वे मछलियों और अन्य समुद्री जीवों को भोजन और आश्रय प्रदान करती हैं। वे बड़ी लहरों और तूफानों से तटीय क्षेत्रों की रक्षा भी करती हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Mangroves are special trees that grow near the sea. Their roots protect the coast from big waves and storms. They also provide homes for many fish and birds, and help prevent soil erosion.",
+        "hindi": "मैंग्रोव समुद्र के पास उगने वाले विशेष पेड़ हैं। इनकी जड़ें बड़ी लहरों और तूफानों से तट की रक्षा करती हैं। वे कई मछलियों और पक्षियों को घर भी प्रदान करते हैं, और मिट्टी के कटाव को रोकने में मदद करते हैं।"
+      }
     }
   ]

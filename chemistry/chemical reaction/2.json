@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Heat released",
-          "No change",
+          "No change", 
           "Temperature rises",
           "Heat absorbed"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In an endothermic reaction, heat is absorbed from the surroundings, making the surroundings feel cold. For example, when we dissolve ammonium chloride in water, the beaker feels cold because heat is absorbed from our hands.",
+        "hindi": "ऊष्माशोषी अभिक्रिया में, आस-पास से ऊष्मा अवशोषित होती है, जिससे आस-पास ठंडा महसूस होता है। उदाहरण के लिए, जब हम अमोनियम क्लोराइड को पानी में घोलते हैं, तो बीकर ठंडा महसूस होता है क्योंकि हमारे हाथों से ऊष्मा अवशोषित होती है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Corrosion is the process where metals react with oxygen in the presence of moisture to form metal oxides. The most common example is rusting of iron, where iron reacts with oxygen and water to form reddish-brown iron oxide (rust).",
+        "hindi": "संक्षारण वह प्रक्रिया है जिसमें धातुएं नमी की उपस्थिति में ऑक्सीजन के साथ क्रिया करके धातु ऑक्साइड बनाती हैं। सबसे आम उदाहरण लोहे में जंग लगना है, जहां लोहा ऑक्सीजन और पानी के साथ क्रिया करके लाल-भूरा आयरन ऑक्साइड (जंग) बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Rancidity occurs when fats and oils are oxidized by oxygen in air, causing them to develop an unpleasant smell and taste. This is why potato chips or butter can smell bad if kept for too long. We can prevent rancidity by storing food in airtight containers.",
+        "hindi": "विकृतगंधिता तब होती है जब वसा और तेल हवा में मौजूद ऑक्सीजन द्वारा ऑक्सीकृत हो जाते हैं, जिससे उनमें एक अप्रिय गंध और स्वाद आ जाता है। यही कारण है कि आलू के चिप्स या मक्खन लंबे समय तक रखने पर खराब महक देते हैं। हम खाद्य पदार्थों को हवाबंद डिब्बों में रखकर विकृतगंधिता को रोक सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Respiration is an oxidation reaction where glucose combines with oxygen to produce energy, carbon dioxide and water. The equation is: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + Energy. This process happens in all living cells to produce energy for life processes.",
+        "hindi": "श्वसन एक ऑक्सीकरण अभिक्रिया है जहां ग्लूकोज ऑक्सीजन के साथ मिलकर ऊर्जा, कार्बन डाइऑक्साइड और पानी बनाता है। समीकरण है: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ऊर्जा। यह प्रक्रिया सभी जीवित कोशिकाओं में जीवन प्रक्रियाओं के लिए ऊर्जा उत्पन्न करने के लिए होती है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Silver chloride (AgCl) forms a white precipitate when silver nitrate solution is mixed with sodium chloride solution. The reaction is: AgNO₃ + NaCl → AgCl↓ (white ppt) + NaNO₃. This is a common example of a precipitation reaction in chemistry.",
+        "hindi": "सिल्वर क्लोराइड (AgCl) एक सफेद अवक्षेप बनाता है जब सिल्वर नाइट्रेट विलयन को सोडियम क्लोराइड विलयन के साथ मिलाया जाता है। अभिक्रिया है: AgNO₃ + NaCl → AgCl↓ (सफेद अवक्षेप) + NaNO₃। यह रसायन विज्ञान में अवक्षेपण अभिक्रिया का एक सामान्य उदाहरण है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When hydrochloric acid (HCl) reacts with sodium carbonate (Na₂CO₃), it produces carbon dioxide gas (CO₂). The reaction is: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑. The bubbles you see are CO₂ gas escaping from the solution.",
+        "hindi": "जब हाइड्रोक्लोरिक एसिड (HCl) सोडियम कार्बोनेट (Na₂CO₃) से क्रिया करता है, तो कार्बन डाइऑक्साइड गैस (CO₂) बनती है। अभिक्रिया है: Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂↑। जो बुलबुले आप देखते हैं वह विलयन से निकलती CO₂ गैस है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
-          "Basic",
           "Acidic",
+          "Basic",
           "Neutral",
           "None"
         ],
         "hindi": [
-          "क्षारीय",
           "अम्लीय",
+          "क्षारीय",
           "उदासीन",
           "कोई नहीं"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Rust (Fe₂O₃.xH₂O) is basic in nature. When iron rusts, it forms iron oxide which shows basic properties. This is why rust turns red litmus paper blue, confirming its basic nature. Rust formation damages iron objects by making them weak and brittle.",
+        "hindi": "जंग (Fe₂O₃.xH₂O) क्षारीय प्रकृति की होती है। जब लोहे में जंग लगती है, तो यह आयरन ऑक्साइड बनाता है जो क्षारीय गुण दर्शाता है। इसीलिए जंग लाल लिटमस पेपर को नीला कर देती है, जो इसकी क्षारीय प्रकृति की पुष्टि करता है। जंग लगने से लोहे की वस्तुएं कमजोर और भंगुर हो जाती हैं।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Redox (reduction-oxidation) reactions often show color changes. For example, when copper sulfate solution (blue) reacts with iron metal, it turns green as copper is deposited and iron sulfate (green) is formed. This color change helps us identify redox reactions.",
+        "hindi": "रेडॉक्स (अपचयन-ऑक्सीकरण) अभिक्रियाओं में अक्सर रंग परिवर्तन दिखाई देता है। उदाहरण के लिए, जब कॉपर सल्फेट विलयन (नीला) लोहे की धातु से क्रिया करता है, तो यह हरा हो जाता है क्योंकि कॉपर जमा हो जाता है और आयरन सल्फेट (हरा) बनता है। यह रंग परिवर्तन रेडॉक्स अभिक्रियाओं की पहचान में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In thermal decomposition, a compound breaks down into simpler substances when heated. For example, calcium carbonate (limestone) breaks into calcium oxide and carbon dioxide when heated: CaCO₃ → CaO + CO₂. This is commonly used in making quicklime from limestone.",
+        "hindi": "ऊष्मीय अपघटन में, एक यौगिक गरम करने पर सरल पदार्थों में टूट जाता है। उदाहरण के लिए, कैल्शियम कार्बोनेट (चूना पत्थर) गरम करने पर कैल्शियम ऑक्साइड और कार्बन डाइऑक्साइड में टूट जाता है: CaCO₃ → CaO + CO₂। इसका उपयोग चूना पत्थर से क्विकलाइम बनाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Antioxidants prevent food from becoming rancid by stopping oxidation of fats and oils. Vitamin C and E are natural antioxidants. That's why chips packets are filled with nitrogen gas and contain antioxidants to prevent the chips from becoming rancid.",
+        "hindi": "प्रतिऑक्सीकारक वसा और तेलों के ऑक्सीकरण को रोककर भोजन को विकृतगंधिता से बचाते हैं। विटामिन C और E प्राकृतिक प्रतिऑक्सीकारक हैं। इसीलिए चिप्स के पैकेट में नाइट्रोजन गैस भरी जाती है और प्रतिऑक्सीकारक होते हैं जो चिप्स को विकृतगंधिता से बचाते हैं।"
+      }
     }
   ]

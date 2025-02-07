@@ -7,20 +7,24 @@
       "option": {
         "english": [
           "Speed up oxidation",
-          "Prevent oxidation",
+          "Prevent oxidation", 
           "Increase oxidation",
           "No effect"
         ],
         "hindi": [
           "ऑक्सीकरण तेज करना",
           "ऑक्सीकरण रोकना",
-          "ऑक्सीकरण बढ़ाना",
+          "ऑक्सीकरण बढ़ाना", 
           "कोई प्रभाव नहीं"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Antioxidants prevent oxidation reactions in our body and food items. For example, vitamin C and E act as antioxidants in our body and protect our cells from damage. In food items, they prevent food from becoming rancid and help preserve it for longer time.",
+        "hindi": "प्रतिऑक्सीकारक हमारे शरीर और खाद्य पदार्थों में ऑक्सीकरण अभिक्रियाओं को रोकते हैं। उदाहरण के लिए, विटामिन C और E हमारे शरीर में प्रतिऑक्सीकारक के रूप में कार्य करते हैं और हमारी कोशिकाओं को नुकसान से बचाते हैं। खाद्य पदार्थों में, वे भोजन को खराब होने से रोकते हैं और इसे लंबे समय तक सुरक्षित रखने में मदद करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Digestion is a decomposition reaction where large food molecules break down into smaller molecules. For example, in our stomach, proteins break down into amino acids, carbohydrates into glucose, and fats into fatty acids. This makes food easier to absorb in our body.",
+        "hindi": "पाचन एक अपघटन अभिक्रिया है जहां बड़े भोजन अणु छोटे अणुओं में टूट जाते हैं। उदाहरण के लिए, हमारे पेट में, प्रोटीन अमीनो एसिड में, कार्बोहाइड्रेट ग्लूकोज में, और वसा फैटी एसिड में टूट जाते हैं। इससे भोजन को हमारे शरीर में अवशोषित करना आसान हो जाता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "In bread making, carbon dioxide (CO₂) gas is produced when yeast ferments sugar in the dough. This CO₂ makes the bread rise and become soft and spongy. The small bubbles you see in bread are formed by this CO₂ gas during baking.",
+        "hindi": "रोटी बनाने में, जब खमीर आटे में चीनी का किण्वन करता है तो कार्बन डाइऑक्साइड (CO₂) गैस निकलती है। यह CO₂ रोटी को फूलने और नरम व स्पंजी बनने में मदद करती है। रोटी में दिखने वाले छोटे छिद्र बेकिंग के दौरान इसी CO₂ गैस से बनते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "During electrolysis of water, water (H₂O) breaks down into hydrogen (H₂) and oxygen (O₂) gases. The reaction is: 2H₂O → 2H₂ + O₂. Hydrogen gas forms at the negative electrode (cathode) and oxygen at the positive electrode (anode). This process shows that water is made up of hydrogen and oxygen.",
+        "hindi": "जल के विद्युत अपघटन में, जल (H₂O) हाइड्रोजन (H₂) और ऑक्सीजन (O₂) गैसों में टूट जाता है। अभिक्रिया है: 2H₂O → 2H₂ + O₂। हाइड्रोजन गैस ऋणात्मक इलेक्ट्रोड (कैथोड) पर और ऑक्सीजन धनात्मक इलेक्ट्रोड (एनोड) पर बनती है। यह प्रक्रिया दर्शाती है कि पानी हाइड्रोजन और ऑक्सीजन से बना होता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "In photosynthesis, sunlight acts as an energy source. Plants use this light energy to convert carbon dioxide and water into glucose and oxygen: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. Without sunlight, plants cannot make their food. This is why plants kept in dark cannot survive for long.",
+        "hindi": "प्रकाश संश्लेषण में, सूर्य का प्रकाश ऊर्जा स्रोत के रूप में कार्य करता है। पौधे इस प्रकाश ऊर्जा का उपयोग कार्बन डाइऑक्साइड और पानी को ग्लूकोज और ऑक्सीजन में बदलने के लिए करते हैं: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂। सूर्य के प्रकाश के बिना, पौधे अपना भोजन नहीं बना सकते। इसीलिए अंधेरे में रखे पौधे लंबे समय तक जीवित नहीं रह सकते।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Increasing surface area increases reaction rate because more particles can collide and react. For example, powdered sugar dissolves faster in water than sugar cubes because powder has more surface area. Similarly, we cut vegetables into small pieces to cook them faster.",
+        "hindi": "पृष्ठीय क्षेत्रफल बढ़ाने से अभिक्रिया दर बढ़ जाती है क्योंकि अधिक कण टकरा और अभिक्रिया कर सकते हैं। उदाहरण के लिए, चीनी के टुकड़ों की तुलना में पाउडर चीनी पानी में जल्दी घुलती है क्योंकि पाउडर का पृष्ठीय क्षेत्रफल अधिक होता है। इसी तरह, हम सब्जियों को जल्दी पकाने के लिए छोटे टुकड़ों में काटते हैं।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Methane burns in oxygen to form carbon dioxide and water: CH₄ + 2O₂ → CO₂ + 2H₂O. This is the reaction that occurs when we burn natural gas (mainly methane) in our gas stoves. The blue flame shows complete combustion, producing heat energy we use for cooking.",
+        "hindi": "मीथेन ऑक्सीजन में जलकर कार्बन डाइऑक्साइड और पानी बनाती है: CH₄ + 2O₂ → CO₂ + 2H₂O। यह वही अभिक्रिया है जो हमारे गैस स्टोव में प्राकृतिक गैस (मुख्यतः मीथेन) जलाने पर होती है। नीली लौ पूर्ण दहन दर्शाती है, जो ऊष्मा ऊर्जा उत्पन्न करती है जिसका उपयोग हम खाना पकाने में करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -167,21 +195,25 @@
       },
       "option": {
         "english": [
-          "Oxidation",
-          "Reduction",
-          "Decomposition",
-          "Combination"
+          "Oxidation reaction",
+          "Decomposition reaction",
+          "Redox reaction",
+          "Combination reaction"
         ],
         "hindi": [
-          "ऑक्सीकरण",
-          "अपचयन",
-          "अपघटन",
-          "संयोजन"
+          "ऑक्सीकरण अभिक्रिया",
+          "अपघटन अभिक्रिया",
+          "रेडॉक्स अभिक्रिया",
+          "संयोजन अभिक्रिया"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Fermentation is a redox reaction where both oxidation and reduction occur. For example, when yeast ferments glucose to ethanol: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, glucose is oxidized to ethanol while some molecules are reduced. This process is used in making bread and curd.",
+        "hindi": "किण्वन एक रेडॉक्स अभिक्रिया है जिसमें ऑक्सीकरण और अपचयन दोनों होते हैं। उदाहरण के लिए, जब यीस्ट ग्लूकोज को इथेनॉल में किण्वित करती है: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂, ग्लूकोज का ऑक्सीकरण इथेनॉल में होता है जबकि कुछ अणुओं का अपचयन होता है। इस प्रक्रिया का उपयोग रोटी और दही बनाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Enzymes act as biological catalysts that speed up reactions in our body. For example, the enzyme amylase in our saliva breaks down starch into sugar. Without enzymes, these reactions would be too slow to sustain life. Unlike chemical catalysts, enzymes work at body temperature.",
+        "hindi": "एंजाइम जैविक उत्प्रेरक के रूप में कार्य करते हैं जो हमारे शरीर में अभिक्रियाओं को तेज करते हैं। उदाहरण के लिए, हमारी लार में मौजूद एमाइलेज एंजाइम स्टार्च को शर्करा में तोड़ता है। एंजाइमों के बिना, ये अभिक्रियाएं जीवन को बनाए रखने के लिए बहुत धीमी होंगी। रासायनिक उत्प्रेरकों के विपरीत, एंजाइम शरीर के तापमान पर काम करते हैं।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In a redox reaction, both oxidation and reduction occur simultaneously. For example, when iron rusts: 4Fe + 3O₂ → 2Fe₂O₃, iron is oxidized (loses electrons) while oxygen is reduced (gains electrons). This type of reaction is common in batteries and photosynthesis.",
+        "hindi": "रेडॉक्स अभिक्रिया में ऑक्सीकरण और अपचयन एक साथ होते हैं। उदाहरण के लिए, जब लोहे में जंग लगती है: 4Fe + 3O₂ → 2Fe₂O₃, लोहे का ऑक्सीकरण होता है (इलेक्ट्रॉन खोता है) जबकि ऑक्सीजन का अपचयन होता है (इलेक्ट्रॉन प्राप्त करती है)। इस प्रकार की अभिक्रिया बैटरी और प्रकाश संश्लेषण में आम है।"
+      }
     }
   ]

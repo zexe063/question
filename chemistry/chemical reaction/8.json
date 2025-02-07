@@ -1,27 +1,31 @@
 [
-    {
-      "question_name": {
-        "english": "What happens in a chain reaction?",
-        "hindi": "श्रृंखला अभिक्रिया में क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "One step reaction",
-          "Two step reaction",
-          "Random steps",
-          "Continuous steps"
-        ],
-        "hindi": [
-          "एक चरण अभिक्रिया",
-          "दो चरण अभिक्रिया",
-          "यादृच्छिक चरण",
-          "निरंतर चरण"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "hard"
+  {
+    "question_name": {
+      "english": "Which reaction forms a white precipitate?",
+      "hindi": "कौन सी अभिक्रिया सफेद अवक्षेप बनाती है?"
     },
+    "option": {
+      "english": [
+        "NaOH + HCl",
+        "Zn + H₂SO₄",
+        "CaCO₃ + Heat",
+        "NaCl + AgNO₃"
+      ],
+      "hindi": [
+        "NaOH + HCl",
+        "Zn + H₂SO₄",
+        "CaCO₃ + ऊष्मा",
+        "NaCl + AgNO₃"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "When sodium chloride (NaCl) solution is mixed with silver nitrate (AgNO₃) solution, a white precipitate of silver chloride (AgCl) is formed. The reaction is: NaCl + AgNO₃ → AgCl↓ + NaNO₃. The downward arrow (↓) shows that AgCl forms as a white precipitate.",
+      "hindi": "जब सोडियम क्लोराइड (NaCl) घोल को सिल्वर नाइट्रेट (AgNO₃) घोल के साथ मिलाया जाता है, तो सिल्वर क्लोराइड (AgCl) का सफेद अवक्षेप बनता है। अभिक्रिया है: NaCl + AgNO₃ → AgCl↓ + NaNO₃। नीचे का तीर (↓) दर्शाता है कि AgCl एक सफेद अवक्षेप के रूप में बनता है।"
+    }
+  },
     {
       "question_name": {
         "english": "What type of reaction occurs in nuclear fusion?",
@@ -43,53 +47,65 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "Nuclear fusion is a combination reaction where two light atomic nuclei combine to form a heavier nucleus. For example, when two hydrogen nuclei combine to form helium: ²H + ²H → ⁴He. This reaction releases a huge amount of energy and is the source of energy in stars like our Sun.",
+        "hindi": "नाभिकीय संलयन एक संयोजन अभिक्रिया है जिसमें दो हल्के परमाणु नाभिक मिलकर एक भारी नाभिक बनाते हैं। उदाहरण के लिए, जब दो हाइड्रोजन नाभिक मिलकर हीलियम बनाते हैं: ²H + ²H → ⁴He। यह अभिक्रिया बहुत अधिक ऊर्जा मुक्त करती है और हमारे सूर्य जैसे तारों में ऊर्जा का स्रोत है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which equation shows decomposition of ozone?",
-        "hindi": "ओजोन का अपघटन कौन सा समीकरण दर्शाता है?"
+        "english": "What is the balanced equation for burning methane?",
+        "hindi": "मीथेन के जलने की संतुलित समीकरण क्या है?"
       },
       "option": {
         "english": [
-          "2O₃ → 3O₂",
-          "O₃ → O₂",
-          "3O₂ → 2O₃",
-          "O₂ → O₃"
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO₂ + H₂O",
+          "2CH₄ + 3O₂ → 2CO₂ + 4H₂O",
+          "CH₄ + 3O₂ → CO₂ + 2H₂O"
         ],
         "hindi": [
-          "2O₃ → 3O₂",
-          "O₃ → O₂",
-          "3O₂ → 2O₃",
-          "O₂ → O₃"
+          "CH₄ + 2O₂ → CO₂ + 2H₂O",
+          "CH₄ + O₂ → CO₂ + H₂O",
+          "2CH₄ + 3O₂ → 2CO₂ + 4H₂O",
+          "CH₄ + 3O₂ → CO₂ + 2H₂O"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "When methane (CH₄) burns in oxygen, it produces carbon dioxide and water vapor. The balanced equation is CH₄ + 2O₂ → CO₂ + 2H₂O. This is a combustion reaction that releases heat and light energy. Methane is the main component of natural gas used as cooking fuel.",
+        "hindi": "जब मीथेन (CH₄) ऑक्सीजन में जलता है, तो कार्बन डाइऑक्साइड और जल वाष्प बनते हैं। संतुलित समीकरण है CH₄ + 2O₂ → CO₂ + 2H₂O। यह एक दहन अभिक्रिया है जो ऊष्मा और प्रकाश ऊर्जा मुक्त करती है। मीथेन रसोई ईंधन के रूप में प्रयुक्त प्राकृतिक गैस का मुख्य घटक है।"
+      }
     },
     {
       "question_name": {
-        "english": "What is the role of catalyst in chemical equilibrium?",
-        "hindi": "रासायनिक साम्यावस्था में उत्प्रेरक की क्या भूमिका है?"
+        "english": "What is the formula of rust?",
+        "hindi": "जंग का सूत्र क्या है?"
       },
       "option": {
         "english": [
-          "Changes equilibrium",
-          "Speeds up reaction",
-          "Stops reaction",
-          "No effect"
+          "FeO",
+          "Fe₂O₃·xH₂O",
+          "Fe₃O₄",
+          "FeCO₃"
         ],
         "hindi": [
-          "साम्य बदलता है",
-          "अभिक्रिया तेज करता है",
-          "अभिक्रिया रोकता है",
-          "कोई प्रभाव नहीं"
+          "FeO",
+          "Fe₂O₃·xH₂O",
+          "Fe₃O₄",
+          "FeCO₃"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "Rust is hydrated iron oxide with formula Fe₂O₃·xH₂O. It forms when iron reacts with oxygen in the presence of moisture (water). The reddish-brown rust makes iron weak and brittle. This process is called corrosion and can be prevented by painting, oiling or galvanizing the iron surface.",
+        "hindi": "जंग जलयोजित आयरन ऑक्साइड है जिसका सूत्र Fe₂O₃·xH₂O है। यह तब बनता है जब लोहा नमी (पानी) की उपस्थिति में ऑक्सीजन से अभिक्रिया करता है। लाल-भूरी जंग लोहे को कमजोर और भंगुर बना देती है। इस प्रक्रिया को संक्षारण कहते हैं और इसे लोहे की सतह पर पेंट, तेल या गैल्वनीकरण करके रोका जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -112,30 +128,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "In a reversible reaction, the reaction can occur in both forward and backward directions. For example, when we heat ammonium chloride: NH₄Cl ⇌ NH₃ + HCl. The double arrow (⇌) shows that the products can convert back to reactants. The reaction reaches a state of dynamic equilibrium.",
+        "hindi": "उत्क्रमणीय अभिक्रिया में, अभिक्रिया आगे और पीछे दोनों दिशाओं में हो सकती है। उदाहरण के लिए, जब हम अमोनियम क्लोराइड को गरम करते हैं: NH₄Cl ⇌ NH₃ + HCl। दोहरा तीर (⇌) दर्शाता है कि उत्पाद वापस अभिकारकों में परिवर्तित हो सकते हैं। अभिक्रिया गतिक साम्यावस्था की स्थिति प्राप्त कर लेती है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which equation represents Haber process?",
-        "hindi": "हैबर प्रक्रिया को कौन सा समीकरण दर्शाता है?"
+        "english": "Why is ozone (O₃) considered a better oxidizer than oxygen (O₂)?",
+        "hindi": "ओजोन (O₃) को ऑक्सीजन (O₂) से बेहतर ऑक्सीकारक क्यों माना जाता है?"
       },
       "option": {
         "english": [
-          "N₂ + 3H₂ ⇌ 2NH₃",
-          "N₂ + H₂ → NH₃",
-          "2N₂ + H₂ → 2NH₃",
-          "N₂ + 2H₂ → NH₃"
+          "It releases more oxygen atoms",
+          "It has a stronger bond",
+          "It is less stable",
+          "It is denser"
         ],
         "hindi": [
-          "N₂ + 3H₂ ⇌ 2NH₃",
-          "N₂ + H₂ → NH₃",
-          "2N₂ + H₂ → 2NH₃",
-          "N₂ + 2H₂ → NH₃"
+          "यह अधिक ऑक्सीजन परमाणु मुक्त करता है",
+          "इसमें मजबूत बंध होता है",
+          "यह कम स्थिर होता है",
+          "यह अधिक घना होता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Ozone (O₃) is a better oxidizer because it can release more oxygen atoms than O₂. When ozone decomposes: 2O₃ → 3O₂, it releases an extra oxygen atom that can oxidize other substances. This makes ozone a powerful disinfectant and bleaching agent.",
+        "hindi": "ओजोन (O₃) एक बेहतर ऑक्सीकारक है क्योंकि यह O₂ की तुलना में अधिक ऑक्सीजन परमाणु मुक्त कर सकता है। जब ओजोन विघटित होता है: 2O₃ → 3O₂, यह एक अतिरिक्त ऑक्सीजन परमाणु मुक्त करता है जो अन्य पदार्थों को ऑक्सीकृत कर सकता है। यह ओजोन को एक शक्तिशाली कीटाणुनाशक और विरंजक बनाता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Electroplating involves redox (reduction-oxidation) reactions. At the cathode, metal ions are reduced to metal atoms that coat the object. For example, in silver plating: Ag⁺ + e⁻ → Ag. This process is used to coat cheaper metals with a layer of expensive metals for decoration or protection.",
+        "hindi": "विद्युतलेपन में रेडॉक्स (अपचयन-ऑक्सीकरण) अभिक्रियाएं होती हैं। कैथोड पर, धातु आयन धातु परमाणुओं में अपचयित होकर वस्तु पर परत चढ़ाते हैं। उदाहरण के लिए, चांदी की परत चढ़ाने में: Ag⁺ + e⁻ → Ag। इस प्रक्रिया का उपयोग सजावट या सुरक्षा के लिए सस्ती धातुओं पर महंगी धातुओं की परत चढ़ाने में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Inhibitors slow down chemical reactions by interfering with the reaction process. For example, sodium chloride is added to vegetables to slow down their spoilage. Similarly, preservatives in food items act as inhibitors to slow down decomposition reactions and increase shelf life.",
+        "hindi": "निरोधक अभिक्रिया प्रक्रिया में बाधा डालकर रासायनिक अभिक्रियाओं को धीमा कर देते हैं। उदाहरण के लिए, सब्जियों में सोडियम क्लोराइड डाला जाता है जो उनके खराब होने की प्रक्रिया को धीमा कर देता है। इसी तरह, खाद्य पदार्थों में परिरक्षक निरोधक के रूप में कार्य करते हैं जो विघटन अभिक्रियाओं को धीमा कर शेल्फ लाइफ बढ़ाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "A spontaneous reaction occurs naturally without any external help. For example, rusting of iron occurs spontaneously when iron is exposed to air and moisture. Similarly, the flow of water downhill and the mixing of hot and cold water are spontaneous processes that don't need external energy.",
+        "hindi": "स्वतःप्रवर्तित अभिक्रिया बिना किसी बाहरी सहायता के स्वाभाविक रूप से होती है। उदाहरण के लिए, लोहे में जंग स्वतः लग जाती है जब लोहा हवा और नमी के संपर्क में आता है। इसी तरह, पानी का नीचे की ओर बहना और गरम और ठंडे पानी का मिश्रण स्वतःप्रवर्तित प्रक्रियाएं हैं जिन्हें बाहरी ऊर्जा की आवश्यकता नहीं होती।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Rusting of iron is a chemical change because it forms a new substance (iron oxide) with different properties. The reddish-brown rust has different properties from iron. Other options like melting ice, breaking glass, or cutting paper are physical changes as they don't form new substances.",
+        "hindi": "लोहे में जंग लगना एक रासायनिक परिवर्तन है क्योंकि इसमें अलग गुणों वाला एक नया पदार्थ (आयरन ऑक्साइड) बनता है। लाल-भूरी जंग के गुण लोहे से अलग होते हैं। अन्य विकल्प जैसे बर्फ का पिघलना, कांच का टूटना, या कागज का कटना भौतिक परिवर्तन हैं क्योंकि इनमें नए पदार्थ नहीं बनते।"
+      }
     }
   ]

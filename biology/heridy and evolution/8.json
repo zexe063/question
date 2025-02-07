@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Translation",
-          "Transcription",
+          "Transcription", 
           "Mutation",
           "Replication"
         ],
@@ -19,29 +19,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA replication is the process where DNA makes exact copies of itself before cell division. Just like making a photocopy, the original DNA strand acts as a template to create two identical DNA molecules. This ensures that when a cell divides, each new cell gets the same genetic information.",
+        "hindi": "DNA प्रतिकृति वह प्रक्रिया है जहां कोशिका विभाजन से पहले DNA अपनी सटीक प्रतियां बनाता है। फोटोकॉपी बनाने की तरह, मूल DNA स्ट्रैंड एक टेम्पलेट के रूप में कार्य करता है और दो समान DNA अणु बनाता है। यह सुनिश्चित करता है कि जब कोशिका विभाजित होती है, तो प्रत्येक नई कोशिका को समान आनुवंशिक जानकारी मिलती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of histones in DNA?",
-        "hindi": "DNA में हिस्टोन की क्या भूमिका है?"
+        "english": "How many chromosomes are present in human diploid cells?",
+        "hindi": "मानव द्विगुणित कोशिकाओं में कितने गुणसूत्र होते हैं?"
       },
       "option": {
         "english": [
-          "Energy storage",
-          "Protection",
-          "Packaging",
-          "Replication"
+          "22 pairs",
+          "46 pairs",
+          "23 pairs",
+          "44 pairs"
         ],
         "hindi": [
-          "ऊर्जा भंडारण",
-          "सुरक्षा",
-          "पैकेजिंग",
-          "प्रतिकृति"
+          "22 जोड़े",
+          "46 जोड़े",
+          "23 जोड़े",
+          "44 जोड़े"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Human body cells (except reproductive cells) contain 23 pairs of chromosomes, making a total of 46 chromosomes. Think of chromosomes like instruction books - we get one set of 23 from our mother and another set of 23 from our father, making 23 pairs in total.",
+        "hindi": "मानव शरीर की कोशिकाओं (प्रजनन कोशिकाओं को छोड़कर) में 23 जोड़े गुणसूत्र होते हैं, जो कुल 46 गुणसूत्र बनाते हैं। गुणसूत्रों को निर्देश पुस्तिकाओं की तरह समझें - हमें माँ से 23 का एक सेट और पिता से 23 का दूसरा सेट मिलता है, जो कुल 23 जोड़े बनाते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,52 +73,64 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "In bacteria, the nucleoid region carries hereditary information. Unlike human cells that have a membrane-bound nucleus, bacteria have their DNA floating freely in a region called the nucleoid. It's like having your genetic recipe book lying open on a table instead of being kept in a special room.",
+        "hindi": "जीवाणु में, न्यूक्लियॉइड क्षेत्र वंशानुगत सूचना रखता है। मानव कोशिकाओं की तरह झिल्ली-बद्ध केंद्रक के बजाय, जीवाणु में उनका DNA न्यूक्लियॉइड नामक क्षेत्र में स्वतंत्र रूप से तैरता है। यह ऐसा है जैसे आपकी आनुवंशिक रेसिपी बुक को किसी विशेष कमरे में रखने के बजाय एक मेज पर खुला रखा गया हो।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the function of telomeres?",
-        "hindi": "टेलोमियर का क्या कार्य है?"
+        "english": "What is phenotype in genetics?",
+        "hindi": "आनुवंशिकी में लक्षणप्ररूप क्या है?"
       },
       "option": {
         "english": [
-          "Energy production",
-          "Chromosome protection",
-          "Protein synthesis",
-          "Cell division"
+          "Genetic makeup",
+          "Physical appearance",
+          "Chromosomal structure",
+          "DNA sequence"
         ],
         "hindi": [
-          "ऊर्जा उत्पादन",
-          "गुणसूत्र संरक्षण",
-          "प्रोटीन संश्लेषण",
-          "कोशिका विभाजन"
+          "आनुवंशिक संरचना",
+          "शारीरिक दिखावट",
+          "गुणसूत्र संरचना",
+          "डीएनए अनुक्रम"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Phenotype is the physical appearance or observable characteristics of an organism. For example, your height, eye color, and hair color are all phenotypes. It's like how you look on the outside, which is determined by your genes (genotype) and sometimes influenced by the environment.",
+        "hindi": "लक्षणप्ररूप किसी जीव की शारीरिक दिखावट या दिखाई देने वाली विशेषताएं हैं। उदाहरण के लिए, आपकी ऊंचाई, आंखों का रंग और बालों का रंग सभी लक्षणप्ररूप हैं। यह वैसा है जैसा आप बाहर से दिखते हैं, जो आपके जीन (जीनप्ररूप) द्वारा निर्धारित होता है और कभी-कभी वातावरण से भी प्रभावित होता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the significance of genetic polymorphism?",
-        "hindi": "आनुवंशिक बहुरूपता का क्या महत्व है?"
+        "english": "According to Mendel's law of segregation, what happens to alleles during gamete formation?",
+        "hindi": "मेंडल के पृथक्करण के नियम के अनुसार, युग्मक निर्माण के दौरान एलील का क्या होता है?"
       },
       "option": {
         "english": [
-          "Reduces variation",
-          "Increases disease",
-          "Decreases fitness",
-          "Increases adaptation"
+          "They remain together",
+          "They mutate",
+          "They disappear",
+          "They separate"
         ],
         "hindi": [
-          "विभिन्नता घटाता है",
-          "रोग बढ़ाता है",
-          "फिटनेस घटाता है",
-          "अनुकूलन बढ़ाता है"
+          "वे एक साथ रहते हैं",
+          "वे उत्परिवर्तित होते हैं",
+          "वे गायब हो जाते हैं",
+          "वे अलग हो जाते हैं"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "During gamete formation, paired alleles separate (segregate) from each other. It's like dealing cards - if you have a pair of alleles (Tt), one allele (T or t) goes to each gamete. This ensures that each gamete gets only one allele for each trait.",
+        "hindi": "युग्मक निर्माण के दौरान, युग्मित एलील एक दूसरे से अलग (पृथक) हो जाते हैं। यह ताश के पत्तों को बांटने जैसा है - यदि आपके पास एलील का एक जोड़ा (Tt) है, तो एक एलील (T या t) प्रत्येक युग्मक में जाता है। यह सुनिश्चित करता है कि प्रत्येक युग्मक को प्रत्येक लक्षण के लिए केवल एक एलील मिले।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,98 +154,118 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "tRNA (transfer RNA) carries amino acids during protein synthesis. Think of tRNA as a delivery truck that picks up specific amino acids and brings them to the ribosome where proteins are being built. Each tRNA molecule is specific for one type of amino acid.",
+        "hindi": "tRNA (ट्रांसफर RNA) प्रोटीन संश्लेषण के दौरान अमीनो एसिड को ले जाता है। tRNA को एक डिलीवरी ट्रक की तरह समझें जो विशिष्ट अमीनो एसिड को उठाता है और उन्हें राइबोसोम तक ले जाता है जहां प्रोटीन बनाई जा रही होती है। प्रत्येक tRNA अणु एक प्रकार के अमीनो एसिड के लिए विशिष्ट होता है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the role of regulatory genes?",
-        "hindi": "नियामक जीन की क्या भूमिका है?"
+        "english": "In a monohybrid cross between pure tall (TT) and pure dwarf (tt) pea plants, what will be the phenotype ratio in F2 generation?",
+        "hindi": "शुद्ध लंबे (TT) और शुद्ध बौने (tt) मटर के पौधों के बीच एकसंकर क्रॉस में, F2 पीढ़ी में लक्षणप्ररूप अनुपात क्या होगा?"
       },
       "option": {
         "english": [
-          "Protein synthesis",
-          "Energy production",
-          "Control other genes",
-          "Make enzymes"
+          "1:1",
+          "2:2",
+          "3:1",
+          "4:0"
         ],
         "hindi": [
-          "प्रोटीन संश्लेषण",
-          "ऊर्जा उत्पादन",
-          "अन्य जीन नियंत्रण",
-          "एंजाइम बनाना"
+          "1:1",
+          "2:2",
+          "3:1",
+          "4:0"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "In F2 generation of a monohybrid cross, the phenotype ratio is 3:1 (three tall plants : one dwarf plant). This happens because when F1 plants (all Tt) self-pollinate, some combinations will show the dominant trait (TT or Tt) while only one combination (tt) shows the recessive trait.",
+        "hindi": "एकसंकर क्रॉस की F2 पीढ़ी में, लक्षणप्ररूप अनुपात 3:1 (तीन लंबे पौधे : एक बौना पौधा) होता है। ऐसा इसलिए होता है क्योंकि जब F1 पौधे (सभी Tt) स्व-परागण करते हैं, कुछ संयोजन प्रभावी लक्षण (TT या Tt) दिखाएंगे जबकि केवल एक संयोजन (tt) अप्रभावी लक्षण दिखाएगा।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the function of restriction enzymes?",
-        "hindi": "प्रतिबंधन एंजाइम का क्या कार्य है?"
+        "english": "In a dihybrid cross between plants with round yellow seeds (RRYY) and wrinkled green seeds (rryy), what will be the phenotypic ratio in F2 generation?",
+        "hindi": "गोल पीले बीज (RRYY) और झुर्रीदार हरे बीज (rryy) वाले पौधों के बीच द्विसंकर क्रॉस में, F2 पीढ़ी में लक्षणप्ररूप अनुपात क्या होगा?"
       },
       "option": {
         "english": [
-          "Join DNA",
-          "Cut DNA",
-          "Copy DNA",
-          "Repair DNA"
+          "1:1:1:1",
+          "9:3:3:1",
+          "3:1",
+          "1:2:1"
         ],
         "hindi": [
-          "DNA जोड़ना",
-          "DNA काटना",
-          "DNA कॉपी करना",
-          "DNA मरम्मत"
+          "1:1:1:1",
+          "9:3:3:1",
+          "3:1",
+          "1:2:1"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "In F2 generation of a dihybrid cross, the phenotype ratio is 9:3:3:1. This means out of 16 plants: 9 will have round yellow seeds, 3 will have round green seeds, 3 will have wrinkled yellow seeds, and 1 will have wrinkled green seeds. It's like mixing two different traits, each following the 3:1 ratio.",
+        "hindi": "द्विसंकर क्रॉस की F2 पीढ़ी में, लक्षणप्ररूप अनुपात 9:3:3:1 होता है। इसका मतलब है कि 16 पौधों में से: 9 में गोल पीले बीज होंगे, 3 में गोल हरे बीज होंगे, 3 में झुर्रीदार पीले बीज होंगे, और 1 में झुर्रीदार हरे बीज होंगे। यह दो अलग-अलग लक्षणों को मिश्रित करने जैसा है, जहां प्रत्येक 3:1 के अनुपात का पालन करता है।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is epigenetics?",
-        "hindi": "एपिजेनेटिक्स क्या है?"
+        "english": "According to Mendel's law of dominance, why does a hybrid offspring show only dominant trait in F1 generation when pure tall and dwarf pea plants are crossed?",
+        "hindi": "मेंडल के प्रभावी नियम के अनुसार, जब शुद्ध लंबे और बौने मटर के पौधों को क्रॉस किया जाता है तो F1 पीढ़ी में संकर संतति केवल प्रभावी लक्षण क्यों दिखाती है?"
       },
       "option": {
         "english": [
-          "Gene mutation",
-          "DNA replication",
-          "Protein synthesis",
-          "Gene expression changes"
+          "Due to gene mutation",
+          "Due to recessive allele disappearing",
+          "Due to genetic drift",
+          "Due to dominant allele masking recessive allele"
         ],
         "hindi": [
-          "जीन उत्परिवर्तन",
-          "DNA प्रतिकृति",
-          "प्रोटीन संश्लेषण",
-          "जीन अभिव्यक्ति परिवर्तन"
+          "जीन उत्परिवर्तन के कारण",
+          "अप्रभावी एलील के गायब होने के कारण",
+          "आनुवंशिक अपवाह के कारण",
+          "प्रभावी एलील द्वारा अप्रभावी एलील को दबाने के कारण"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "According to Mendel's law of dominance, when a dominant allele (T) and recessive allele (t) are present together (Tt), only the dominant trait is visible. It's like having two different instructions, but following only the stronger (dominant) one. The recessive trait is hidden but not lost, and can appear in later generations.",
+        "hindi": "मेंडल के प्रभावी नियम के अनुसार, जब प्रभावी एलील (T) और अप्रभावी एलील (t) एक साथ होते हैं (Tt), तो केवल प्रभावी लक्षण दिखाई देता है। यह दो अलग-अलग निर्देशों की तरह है, लेकिन केवल मजबूत (प्रभावी) का पालन किया जाता है। अप्रभावी लक्षण छिपा होता है लेकिन खोता नहीं है, और बाद की पीढ़ियों में दिखाई दे सकता है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the basis of DNA fingerprinting?",
-        "hindi": "DNA फिंगरप्रिंटिंग का आधार क्या है?"
+        "english": "What is the main effect of genetic drift in small populations?",
+        "hindi": "छोटी आबादी में आनुवंशिक अपवाह का मुख्य प्रभाव क्या है?"
       },
       "option": {
         "english": [
-          "Repetitive sequences",
-          "Gene sequence",
-          "Protein sequence",
-          "RNA sequence"
+          "Random changes in allele frequencies",
+          "Directed evolution",
+          "Increased mutation rate",
+          "Natural selection"
         ],
         "hindi": [
-          "दोहराव अनुक्रम",
-          "जीन अनुक्रम",
-          "प्रोटीन अनुक्रम",
-          "RNA अनुक्रम"
+          "एलील आवृत्तियों में यादृच्छिक परिवर्तन",
+          "निर्देशित विकास",
+          "उत्परिवर्तन दर में वृद्धि",
+          "प्राकृतिक चयन"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Genetic drift causes random changes in allele frequencies in small populations. It's like randomly picking marbles from a small bag - if you have few marbles, the chance of picking a particular color can change dramatically with each selection. This random change can lead to some traits becoming more common or disappearing entirely by chance.",
+        "hindi": "आनुवंशिक अपवाह छोटी आबादी में एलील आवृत्तियों में यादृच्छिक परिवर्तन का कारण बनता है। यह एक छोटी थैली से कंचे यादृच्छिक रूप से चुनने जैसा है - यदि आपके पास कम कंचे हैं, तो एक विशेष रंग के चुने जाने की संभावना प्रत्येक चयन के साथ बहुत बदल सकती है। यह यादृच्छिक परिवर्तन कुछ लक्षणों के अधिक सामान्य होने या संयोग से पूरी तरह गायब होने का कारण बन सकता है।"
+      },
       "image": null,
       "medium": "hard"
     }

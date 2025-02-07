@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "When zinc metal is added to blue copper sulfate solution, zinc being more reactive displaces copper from copper sulfate. The blue color fades as copper sulfate gets converted to colorless zinc sulfate. The reaction is: Zn + CuSO₄ → ZnSO₄ + Cu",
+        "hindi": "जब नीले कॉपर सल्फेट घोल में जिंक धातु डाली जाती है, जिंक अधिक क्रियाशील होने के कारण कॉपर सल्फेट से तांबे को विस्थापित कर देती है। नीला रंग फीका पड़ जाता है क्योंकि कॉपर सल्फेट रंगहीन जिंक सल्फेट में बदल जाता है। अभिक्रिया है: Zn + CuSO₄ → ZnSO₄ + Cu"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "When lead nitrate is heated, it breaks down into lead oxide (yellow solid), nitrogen dioxide (brown gas) and oxygen. This is a thermal decomposition reaction. The balanced equation is: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂. Brown fumes of NO₂ can be seen during the reaction.",
+        "hindi": "जब लेड नाइट्रेट को गरम किया जाता है, यह लेड ऑक्साइड (पीला ठोस), नाइट्रोजन डाइऑक्साइड (भूरी गैस) और ऑक्सीजन में टूट जाता है। यह एक ऊष्मीय अपघटन अभिक्रिया है। संतुलित समीकरण है: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂। अभिक्रिया के दौरान NO₂ के भूरे धुएं को देखा जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "In metal reactions, acids act as oxidizing agents. They oxidize metals to form metal salts and hydrogen gas. For example: Zn + H₂SO₄ → ZnSO₄ + H₂. Here sulfuric acid oxidizes zinc metal to zinc ions while hydrogen ions are reduced to hydrogen gas.",
+        "hindi": "धातु अभिक्रियाओं में, अम्ल ऑक्सीकारक के रूप में कार्य करते हैं। वे धातुओं को ऑक्सीकृत करके धातु लवण और हाइड्रोजन गैस बनाते हैं। उदाहरण: Zn + H₂SO₄ → ZnSO₄ + H₂। यहाँ सल्फ्यूरिक अम्ल जिंक धातु को जिंक आयनों में ऑक्सीकृत करता है जबकि हाइड्रोजन आयन हाइड्रोजन गैस में अपचयित होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "easy",
+      "explanation": {
+        "english": "Chemical weathering involves breakdown of rocks through chemical reactions. For example, when rain water (containing carbonic acid) falls on limestone (CaCO₃), it slowly dissolves it: CaCO₃ + H₂CO₃ → Ca(HCO₃)₂. Similarly, iron in rocks rusts on exposure to air and water.",
+        "hindi": "रासायनिक अपक्षय में चट्टानें रासायनिक अभिक्रियाओं द्वारा टूटती हैं। उदाहरण के लिए, जब वर्षा का पानी (जिसमें कार्बोनिक अम्ल होता है) चूना पत्थर (CaCO₃) पर गिरता है, तो यह धीरे-धीरे घुल जाता है: CaCO₃ + H₂CO₃ → Ca(HCO₃)₂। इसी तरह, चट्टानों में मौजूद लोहा हवा और पानी के संपर्क में आने पर जंग लगाता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "easy",
+      "explanation": {
+        "english": "Fireworks involve redox reactions where metal salts are oxidized at high temperatures. For example, when strontium salts burn, they produce red color: 2Sr(NO₃)₂ → 2SrO + 4NO₂ + O₂. Different metal salts produce different colors - copper (blue/green), sodium (yellow), etc.",
+        "hindi": "आतिशबाजी में रेडॉक्स अभिक्रियाएं होती हैं जहां धातु लवण उच्च तापमान पर ऑक्सीकृत होते हैं। उदाहरण के लिए, जब स्ट्रोंटियम लवण जलते हैं, तो वे लाल रंग उत्पन्न करते हैं: 2Sr(NO₃)₂ → 2SrO + 4NO₂ + O₂। विभिन्न धातु लवण अलग-अलग रंग उत्पन्न करते हैं - कॉपर (नीला/हरा), सोडियम (पीला), आदि।"
+      }
     },
     {
       "question_name": {
@@ -135,30 +155,38 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "Light provides energy for the decomposition of silver chloride. When light falls on white silver chloride, it decomposes into silver and chlorine: 2AgCl → 2Ag + Cl₂. This is why silver chloride turns grey in sunlight. This reaction is used in black and white photography.",
+        "hindi": "प्रकाश सिल्वर क्लोराइड के अपघटन के लिए ऊर्जा प्रदान करता है। जब सफेद सिल्वर क्लोराइड पर प्रकाश पड़ता है, यह चांदी और क्लोरीन में टूट जाता है: 2AgCl → 2Ag + Cl₂। इसीलिए सिल्वर क्लोराइड धूप में भूरा हो जाता है। इस अभिक्रिया का उपयोग श्याम-श्वेत फोटोग्राफी में किया जाता है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which gas causes acid rain?",
-        "hindi": "कौन सी गैस अम्ल वर्षा का कारण बनती है?"
+        "english": "Why does the blue color of CuSO₄ solution fade when a zinc strip is dipped in it?",
+        "hindi": "CuSO₄ विलयन का नीला रंग क्यों फीका पड़ जाता है जब उसमें जिंक की पट्टी डुबोई जाती है?"
       },
       "option": {
         "english": [
-          "SO₂",
-          "O₂",
-          "N₂",
-          "H₂"
+          "Zinc displaces copper",
+          "Zinc dissolves in the solution",
+          "Copper evaporates",
+          "A precipitate forms"
         ],
         "hindi": [
-          "SO₂",
-          "O₂",
-          "N₂",
-          "H₂"
+          "जिंक तांबे को विस्थापित करता है",
+          "जिंक विलयन में घुल जाता है",
+          "तांबा वाष्पित हो जाता है",
+          "एक अवक्षेप बनता है"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "medium",
+      "explanation": {
+        "english": "When zinc is dipped in blue copper sulfate solution, zinc being more reactive displaces copper ions from the solution: Zn + CuSO₄ → ZnSO₄ + Cu. The blue color fades because copper sulfate (blue) converts to zinc sulfate (colorless). Reddish-brown copper metal deposits on the zinc strip.",
+        "hindi": "जब जिंक को नीले कॉपर सल्फेट घोल में डुबोया जाता है, जिंक अधिक क्रियाशील होने के कारण घोल से कॉपर आयनों को विस्थापित कर देता है: Zn + CuSO₄ → ZnSO₄ + Cu। नीला रंग फीका पड़ जाता है क्योंकि कॉपर सल्फेट (नीला) जिंक सल्फेट (रंगहीन) में बदल जाता है। लाल-भूरी तांबा धातु जिंक की पट्टी पर जम जाती है।"
+      }
     },
     {
       "question_name": {
@@ -181,30 +209,38 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Combustion is a reaction where a substance combines with oxygen to produce heat and light. For example, when magnesium burns in air: 2Mg + O₂ → 2MgO, it produces bright white light and heat. Similarly, when we burn fuels like wood or gas, they combine with oxygen releasing heat and light.",
+        "hindi": "दहन एक ऐसी अभिक्रिया है जिसमें कोई पदार्थ ऑक्सीजन से मिलकर ऊष्मा और प्रकाश उत्पन्न करता है। उदाहरण के लिए, जब मैग्नीशियम हवा में जलता है: 2Mg + O₂ → 2MgO, यह तेज सफेद प्रकाश और ऊष्मा उत्पन्न करता है। इसी तरह, जब हम लकड़ी या गैस जैसे ईंधन जलाते हैं, वे ऑक्सीजन से मिलकर ऊष्मा और प्रकाश मुक्त करते हैं।"
+      }
     },
     {
       "question_name": {
-        "english": "What type of reaction occurs in nuclear power plants?",
-        "hindi": "परमाणु ऊर्जा संयंत्रों में किस प्रकार की अभिक्रिया होती है?"
+        "english": "Explain the thermite reaction. Which metals are involved?",
+        "hindi": "थर्माइट अभिक्रिया को समझाइए। कौन सी धातुएं शामिल हैं?"
       },
       "option": {
         "english": [
-          "Combination",
-          "Displacement",
-          "Nuclear fission",
-          "Double displacement"
+          "Zinc + Copper sulfate",
+          "Sodium + Water",
+          "Iron oxide + Aluminum",
+          "Calcium + Oxygen"
         ],
         "hindi": [
-          "संयोजन",
-          "विस्थापन",
-          "नाभिकीय विखंडन",
-          "द्विविस्थापन"
+          "जिंक + कॉपर सल्फेट",
+          "सोडियम + जल",
+          "आयरन ऑक्साइड + एल्युमिनियम",
+          "कैल्शियम + ऑक्सीजन"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "The thermite reaction involves aluminum and iron oxide: Fe₂O₃ + 2Al → 2Fe + Al₂O₃. This is a highly exothermic reaction producing molten iron and aluminum oxide. Aluminum, being more reactive, takes oxygen from iron oxide. This reaction is used for welding railway tracks.",
+        "hindi": "थर्माइट अभिक्रिया में एल्युमिनियम और आयरन ऑक्साइड शामिल होते हैं: Fe₂O₃ + 2Al → 2Fe + Al₂O₃। यह एक अत्यधिक ऊष्माक्षेपी अभिक्रिया है जो पिघला हुआ लोहा और एल्युमिनियम ऑक्साइड उत्पन्न करती है। एल्युमिनियम, अधिक क्रियाशील होने के कारण, आयरन ऑक्साइड से ऑक्सीजन ले लेता है। इस अभिक्रिया का उपयोग रेल की पटरियों की वेल्डिंग में किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Temperature controls the rate of chemical reactions. When we increase temperature, particles move faster and collide more frequently, making reactions happen faster. For example, food cooks faster at higher temperatures, and iron rusts faster in warm, humid conditions than in cold, dry conditions.",
+        "hindi": "तापमान रासायनिक अभिक्रियाओं की दर को नियंत्रित करता है। जब हम तापमान बढ़ाते हैं, कण तेजी से गति करते हैं और अधिक बार टकराते हैं, जिससे अभिक्रियाएं तेजी से होती हैं। उदाहरण के लिए, भोजन उच्च तापमान पर जल्दी पकता है, और लोहे में ठंडी, सूखी परिस्थितियों की तुलना में गर्म, नम परिस्थितियों में जल्दी जंग लगता है।"
+      }
     }
   ]

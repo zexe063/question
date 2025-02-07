@@ -19,6 +19,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "A gene is the basic unit of heredity. It is a segment of DNA that carries information for one specific trait, like eye color or height. Genes are passed from parents to children, which is why children often look similar to their parents.",
+        "hindi": "जीन वंशानुक्रम की मूल इकाई है। यह DNA का एक भाग है जो एक विशिष्ट लक्षण, जैसे आंखों का रंग या ऊंचाई के लिए जानकारी रखता है। जीन माता-पिता से बच्चों में जाते हैं, इसलिए बच्चे अक्सर अपने माता-पिता के समान दिखते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,29 +46,37 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The genetic code stores information about our traits. Think of it like a recipe book that contains instructions for making all parts of our body. This code is written in DNA and tells our cells what proteins to make and how our body should develop.",
+        "hindi": "आनुवंशिक कोड हमारे लक्षणों के बारे में जानकारी संग्रहित करता है। इसे एक रेसिपी बुक की तरह समझें जो हमारे शरीर के सभी हिस्सों को बनाने के निर्देश रखती है। यह कोड DNA में लिखा होता है और हमारी कोशिकाओं को बताता है कि कौन से प्रोटीन बनाने हैं और हमारा शरीर कैसे विकसित होना चाहिए।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the significance of DNA methylation?",
-        "hindi": "DNA मिथाइलीकरण का क्या महत्व है?"
+        "english": "What is the relationship between genes and traits?",
+        "hindi": "जीन और लक्षणों के बीच क्या संबंध है?"
       },
       "option": {
         "english": [
-          "Energy production",
-          "Protein synthesis",
-          "Cell division",
-          "Gene regulation"
+          "No relationship",
+          "Traits determine genes",
+           "Random connection",
+           "Genes determine traits"
         ],
         "hindi": [
-          "ऊर्जा उत्पादन",
-          "प्रोटीन संश्लेषण",
-          "कोशिका विभाजन",
-          "जीन नियमन"
+          "कोई संबंध नहीं",
+          "लक्षण जीन को निर्धारित करते हैं",
+          "यादृच्छिक संबंध",
+          "जीन लक्षणों को निर्धारित करते हैं"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Genes determine our traits. For example, if you have genes for brown eyes, you will have brown eyes. The genes you inherit from your parents decide your physical features like height, hair color, and skin color. This is why family members often share similar features.",
+        "hindi": "जीन हमारे लक्षणों को निर्धारित करते हैं। उदाहरण के लिए, यदि आपके पास भूरी आंखों के जीन हैं, तो आपकी आंखें भूरी होंगी। आपके माता-पिता से प्राप्त जीन आपकी शारीरिक विशेषताओं जैसे ऊंचाई, बालों का रंग और त्वचा का रंग तय करते हैं। इसीलिए परिवार के सदस्यों में अक्सर समान विशेषताएं होती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +100,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Nucleotides are the building blocks that form the genetic code in DNA. Just like letters make words, nucleotides (A, T, G, C) combine in different orders to create the genetic instructions that determine our traits. These instructions are passed from parents to children.",
+        "hindi": "न्यूक्लियोटाइड DNA में आनुवंशिक कोड बनाने वाले मूल घटक हैं। जैसे अक्षर शब्द बनाते हैं, वैसे ही न्यूक्लियोटाइड (A, T, G, C) विभिन्न क्रमों में जुड़कर आनुवंशिक निर्देश बनाते हैं जो हमारे लक्षणों को निर्धारित करते हैं। ये निर्देश माता-पिता से बच्चों में जाते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +127,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Mitosis produces two identical cells from one parent cell. This is how our body grows and repairs itself. For example, when you get a cut, mitosis helps create new skin cells that are exactly like the original ones to heal the wound.",
+        "hindi": "समसूत्री विभाजन एक मूल कोशिका से दो समान कोशिकाएं बनाता है। इसी तरह हमारा शरीर बढ़ता है और स्वयं की मरम्मत करता है। उदाहरण के लिए, जब आपको चोट लगती है, तो समसूत्री विभाजन नई त्वचा कोशिकाएं बनाने में मदद करता है जो घाव को भरने के लिए मूल कोशिकाओं के बिल्कुल समान होती हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,29 +154,37 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Chromosomal mutations can create new species by changing the genetic material. Over many generations, these changes can make organisms so different that they become new species. For example, this is how different breeds of dogs evolved from wolves over thousands of years.",
+        "hindi": "गुणसूत्रीय उत्परिवर्तन आनुवंशिक पदार्थ को बदलकर नई प्रजातियां बना सकते हैं। कई पीढ़ियों में, ये परिवर्तन जीवों को इतना अलग बना सकते हैं कि वे नई प्रजातियां बन जाते हैं। उदाहरण के लिए, इसी तरह हजारों वर्षों में भेड़ियों से कुत्तों की विभिन्न नस्लें विकसित हुईं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the purpose of genetic mapping?",
-        "hindi": "आनुवंशिक मानचित्रण का क्या उद्देश्य है?"
+        "english": "What is the importance of fossils in evolution studies?",
+        "hindi": "विकास के अध्ययन में जीवाश्मों का क्या महत्व है?"
       },
       "option": {
         "english": [
-          "Gene location",
-          "Gene function",
-          "Gene structure",
-          "Gene expression"
+          "Show extinct species",
+          "All of these",
+          "Provide timeline",
+          "Show transitional forms"
         ],
         "hindi": [
-          "जीन स्थान",
-          "जीन कार्य",
-          "जीन संरचना",
-          "जीन अभिव्यक्ति"
+          "विलुप्त प्रजातियां दिखाना",
+          "ये सभी",
+          "समय रेखा प्रदान करना",
+          "संक्रमण रूप दिखाना"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Fossils are like nature's history book. They show us extinct animals and plants, help us understand when different species lived (timeline), and reveal how organisms changed over time. For example, fossil records show how fish gradually developed legs and became land animals.",
+        "hindi": "जीवाश्म प्रकृति की इतिहास की किताब की तरह हैं। वे हमें विलुप्त जानवरों और पौधों को दिखाते हैं, विभिन्न प्रजातियां कब रहती थीं (समय रेखा) समझने में मदद करते हैं, और बताते हैं कि जीव समय के साथ कैसे बदले। उदाहरण के लिए, जीवाश्म रिकॉर्ड दिखाते हैं कि मछलियों ने धीरे-धीरे पैर विकसित किए और भूमि के जानवर बन गए।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,52 +208,64 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Genetic diversity helps species survive better. It's like having different tools in a toolbox - the more variety you have, the better prepared you are. For example, if a disease affects some plants, plants with different genes might survive and help the species continue.",
+        "hindi": "आनुवंशिक विविधता प्रजातियों को बेहतर जीवित रहने में मदद करती है। यह एक टूलबॉक्स में विभिन्न उपकरण रखने जैसा है - जितनी अधिक विविधता होगी, आप उतने ही बेहतर तैयार होंगे। उदाहरण के लिए, यदि कोई बीमारी कुछ पौधों को प्रभावित करती है, तो अलग जीन वाले पौधे जीवित रह सकते हैं और प्रजाति को जारी रखने में मदद कर सकते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is the basis of genetic disorders?",
-        "hindi": "आनुवंशिक विकारों का आधार क्या है?"
+        "english": "What is the evidence for evolution from comparative anatomy?",
+        "hindi": "तुलनात्मक शरीर रचना से विकास का क्या प्रमाण मिलता है?"
       },
       "option": {
         "english": [
-          "Gene defect",
-          "Protein excess",
-          "Cell division",
-          "Energy deficiency"
+          "All of these",
+          "Homologous organs",
+          "Analogous organs",
+          "Vestigial organs"
         ],
         "hindi": [
-          "जीन दोष",
-          "प्रोटीन अधिकता",
-          "कोशिका विभाजन",
-          "ऊर्जा की कमी"
+            "ये सभी",
+          "समजात अंग",
+          "समवृत्त अंग",
+          "अवशेषी अंग"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Comparative anatomy shows evolution through three types of organs: 1) Homologous organs like human arm and bird wing have similar structure but different functions, 2) Analogous organs like bird wing and butterfly wing have similar function but different structure, 3) Vestigial organs like human tailbone show features we no longer need.",
+        "hindi": "तुलनात्मक शरीर रचना तीन प्रकार के अंगों के माध्यम से विकास दिखाती है: 1) समजात अंग जैसे मानव की भुजा और पक्षी का पंख जिनकी संरचना समान है लेकिन कार्य अलग हैं, 2) समवृत्त अंग जैसे पक्षी का पंख और तितली का पंख जिनका कार्य समान है लेकिन संरचना अलग है, 3) अवशेषी अंग जैसे मानव की पूंछ की हड्डी जो ऐसी विशेषताएं दिखाती हैं जिनकी अब हमें आवश्यकता नहीं है।"
+      },
       "image": null,
       "medium": "hard"
     },
     {
       "question_name": {
-        "english": "What is the importance of Human Genome Project?",
-        "hindi": "मानव जीनोम परियोजना का क्या महत्व है?"
+        "english": "According to Haldane's theory, what is the primary reason for industrial melanism in peppered moths?",
+        "hindi": "हाल्डेन के सिद्धांत के अनुसार, चित्तीदार पतंगों में औद्योगिक मेलेनिज्म का प्राथमिक कारण क्या है?"
       },
       "option": {
         "english": [
-          "Evolution study",
-          "Disease treatment",
-          "Cell study",
-          "Disease prevention"
+          "Random mutations",
+          "Genetic drift",
+          "Sexual selection",
+          "Natural selection"
         ],
         "hindi": [
-          "विकास अध्ययन",
-          "रोग उपचार",
-          "कोशिका अध्ययन",
-          "रोग निवारण"
+          "यादृच्छिक उत्परिवर्तन",
+          "आनुवंशिक अपवाह",
+          "लैंगिक चयन",
+          "प्राकृतिक चयन"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Natural selection caused industrial melanism in peppered moths. Before industrialization, light-colored moths survived better because they could hide on light-colored tree bark. When pollution made tree bark dark, dark-colored moths survived better because birds couldn't see them easily. This shows how environment affects survival.",
+        "hindi": "प्राकृतिक चयन ने चित्तीदार पतंगों में औद्योगिक मेलेनिज्म को जन्म दिया। औद्योगीकरण से पहले, हल्के रंग के पतंगे बेहतर जीवित रहते थे क्योंकि वे हल्के रंग की पेड़ की छाल पर छिप सकते थे। जब प्रदूषण ने पेड़ की छाल को काला कर दिया, तो काले रंग के पतंगे बेहतर जीवित रहे क्योंकि पक्षी उन्हें आसानी से नहीं देख पाते थे। यह दिखाता है कि पर्यावरण जीवित रहने को कैसे प्रभावित करता है।"
+      },
       "image": null,
       "medium": "hard"
     }

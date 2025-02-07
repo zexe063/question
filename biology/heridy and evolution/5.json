@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Genome",
-          "Allele",
+          "Allele", 
           "Trait",
           "Character"
         ],
@@ -19,52 +19,65 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Alleles are different forms of the same gene. For example, in pea plants, the gene for flower color has two alleles - one for purple flowers and one for white flowers. Each plant inherits one allele from each parent.",
+        "hindi": "एलील एक ही जीन के अलग-अलग रूप होते हैं। उदाहरण के लिए, मटर के पौधों में, फूल के रंग के लिए जीन के दो एलील होते हैं - एक बैंगनी फूलों के लिए और एक सफेद फूलों के लिए। प्रत्येक पौधा प्रत्येक माता-पिता से एक एलील प्राप्त करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the main cause of evolution according to Darwin?",
-        "hindi": "डार्विन के अनुसार विकास का मुख्य कारण क्या है?"
+        "english": "Which of the following is an example of homologous organs?",
+        "hindi": "निम्नलिखित में से कौन समजात अंगों का उदाहरण है?"
       },
       "option": {
         "english": [
-          "Mutation",
-          "Inheritance",
-          "Natural selection",
-          "Adaptation"
+          "Wings of butterfly and bird",
+          "Sweet potato and potato",
+          "Forelimbs of frog and bird",
+          "Wings of insects and bats"
         ],
         "hindi": [
-          "उत्परिवर्तन",
-          "वंशागति",
-          "प्राकृतिक चयन",
-          "अनुकूलन"
+          "तितली और पक्षी के पंख",
+          "शकरकंद और आलू",
+          "मेंढक और पक्षी के अग्रपाद",
+          "कीट और चमगादड़ के पंख"
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Homologous organs have similar basic structure but different functions. The forelimbs of frogs and birds have the same basic bone structure (humerus, radius, ulna) even though frogs use them for jumping and birds for flying. This shows they evolved from a common ancestor.",
+        "hindi": "समजात अंग समान मूल संरचना वाले होते हैं लेकिन उनके कार्य अलग-अलग होते हैं। मेंढक और पक्षियों के अग्रपाद में एक ही मूल हड्डी संरचना (ह्यूमरस, रेडियस, अल्ना) होती है, भले ही मेंढक उनका उपयोग कूदने के लिए और पक्षी उड़ने के लिए करते हैं। यह दर्शाता है कि वे एक सामान्य पूर्वज से विकसित हुए हैं।"
+      },
       "image": null,
       "medium": "easy"
+     
     },
     {
       "question_name": {
-        "english": "Which chromosome pair determines sex in humans?",
-        "hindi": "मनुष्यों में कौन सा गुणसूत्र युग्म लिंग निर्धारित करता है?"
+        "english": "Which of the following is an example of analogous organs?",
+        "hindi": "निम्नलिखित में से कौन सा समवृत्ति अंगों का उदाहरण है?"
       },
       "option": {
         "english": [
-          "23rd pair",
-          "22nd pair",
-          "1st pair",
-          "21st pair"
+          "Wings of birds and insects",
+          "Fins of fish and whale",
+          "Arms of humans and legs of dogs",
+          "Eyes of octopus and humans"
         ],
         "hindi": [
-          "23वाँ युग्म",
-          "22वाँ युग्म",
-          "पहला युग्म",
-          "21वाँ युग्म"
+          "पक्षियों और कीड़ों के पंख",
+          "मछली और व्हेल के पंख",
+          "मनुष्यों की भुजाएं और कुत्तों के पैर",
+          "ऑक्टोपस और मनुष्यों की आंखें"
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Analogous organs have different basic structures but similar functions. The wings of birds and insects look similar and are both used for flying, but they have completely different structures - birds have bones while insects have membranes. They evolved separately to perform similar functions.",
+        "hindi": "समवृत्ति अंगों की मूल संरचना अलग होती है लेकिन कार्य समान होते हैं। पक्षियों और कीड़ों के पंख देखने में समान लगते हैं और दोनों उड़ने के लिए प्रयोग किए जाते हैं, लेकिन उनकी संरचना पूरी तरह अलग है - पक्षियों में हड्डियां होती हैं जबकि कीड़ों में झिल्लियां होती हैं। वे समान कार्य करने के लिए अलग-अलग विकसित हुए हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -88,6 +101,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Nucleic acids (DNA and RNA) carry hereditary information from parents to offspring. DNA contains the instructions for making proteins and other molecules that determine our traits. For example, the DNA sequence determines whether you'll have brown or blue eyes.",
+        "hindi": "न्यूक्लिक अम्ल (DNA और RNA) आनुवंशिक जानकारी को माता-पिता से संतान में ले जाते हैं। DNA में प्रोटीन और अन्य अणुओं को बनाने के निर्देश होते हैं जो हमारे लक्षणों को निर्धारित करते हैं। उदाहरण के लिए, DNA क्रम निर्धारित करता है कि आपकी आंखें भूरी होंगी या नीली।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -111,6 +128,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Genes are the basic units of inheritance. They are segments of DNA that carry instructions for specific traits. When parents pass their genes to children, they pass on these traits. For example, if both parents have genes for brown hair, their child is likely to have brown hair too.",
+        "hindi": "जीन वंशानुक्रम की मूल इकाइयाँ हैं। वे DNA के खंड हैं जो विशिष्ट लक्षणों के लिए निर्देश रखते हैं। जब माता-पिता अपने जीन बच्चों को देते हैं, तो वे ये लक्षण भी देते हैं। उदाहरण के लिए, यदि दोनों माता-पिता में भूरे बालों के जीन हैं, तो उनके बच्चे के भी भूरे बाल होने की संभावना होती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +155,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Variation provides the raw material for natural selection. For example, in a group of beetles, some might be faster than others. If a predator attacks, the faster beetles are more likely to survive and pass their genes to offspring. Over time, the whole population becomes faster.",
+        "hindi": "विभिन्नता प्राकृतिक चयन के लिए कच्चा माल प्रदान करती है। उदाहरण के लिए, भृंगों के एक समूह में, कुछ दूसरों की तुलना में तेज हो सकते हैं। यदि कोई शिकारी हमला करता है, तो तेज भृंगों के बचने और अपने जीन संतान को देने की संभावना अधिक होती है। समय के साथ, पूरी आबादी तेज हो जाती है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +182,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Meiosis occurs during gamete (sperm and egg) formation. It reduces the chromosome number to half so that when sperm and egg unite during fertilization, the normal chromosome number is restored. This ensures that children get half their chromosomes from each parent.",
+        "hindi": "युग्मक (शुक्राणु और अंडा) निर्माण के दौरान अर्धसूत्री विभाजन होता है। यह गुणसूत्रों की संख्या को आधा कर देता है ताकि जब निषेचन के दौरान शुक्राणु और अंडा मिलते हैं, तो सामान्य गुणसूत्र संख्या बहाल हो जाए। यह सुनिश्चित करता है कि बच्चों को प्रत्येक माता-पिता से आधे गुणसूत्र मिलें।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,29 +209,37 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Human height is controlled by multiple genes (polygenic inheritance). Each gene contributes a small effect to the final height. This is why children's height can be anywhere between or even outside their parents' heights. Environment factors like nutrition also affect height.",
+        "hindi": "मानव ऊंचाई कई जीनों द्वारा नियंत्रित होती है (बहुजीनी वंशागति)। प्रत्येक जीन अंतिम ऊंचाई में थोड़ा योगदान करता है। इसीलिए बच्चों की ऊंचाई उनके माता-पिता की ऊंचाई के बीच या उससे बाहर भी हो सकती है। पोषण जैसे पर्यावरणीय कारक भी ऊंचाई को प्रभावित करते हैं।"
+      },
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is genetic drift?",
-        "hindi": "आनुवंशिक अपवाह क्या है?"
+        "english": "What is the role of fossils in studying evolution?",
+        "hindi": "विकास के अध्ययन में जीवाश्मों की क्या भूमिका है?"
       },
       "option": {
         "english": [
-          "Natural selection",
-          "Random change",
-          "Directed evolution",
-          "Planned breeding"
+          "Show age of species",
+          "All of these",
+          "Show missing links",
+          "Show stages of evolution"
         ],
         "hindi": [
-          "प्राकृतिक चयन",
-          "यादृच्छिक परिवर्तन",
-          "निर्देशित विकास",
-          "नियोजित प्रजनन"
+          "प्रजातियों की आयु दिखाना",
+          "ये सभी",
+          "लुप्त कड़ियाँ दिखाना",
+          "विकास के चरण दिखाना"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Fossils help us understand evolution in many ways. They tell us how old species are, show intermediate forms between species (like Archaeopteryx between dinosaurs and birds), and reveal how organisms changed over time. For example, horse fossils show how they evolved from small dog-sized animals to modern horses.",
+        "hindi": "जीवाश्म हमें कई तरीकों से विकास को समझने में मदद करते हैं। वे हमें बताते हैं कि प्रजातियां कितनी पुरानी हैं, प्रजातियों के बीच मध्यवर्ती रूप दिखाते हैं (जैसे डायनासोर और पक्षियों के बीच आर्किओप्टेरिक्स), और दर्शाते हैं कि जीव समय के साथ कैसे बदले। उदाहरण के लिए, घोड़े के जीवाश्म दिखाते हैं कि वे कुत्ते के आकार के छोटे जानवरों से आधुनिक घोड़ों में कैसे विकसित हुए।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +263,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "DNA fingerprinting helps identify individuals because each person's DNA pattern is unique (except identical twins). It's used in criminal investigations to match evidence like blood or hair to suspects, and in paternity testing to determine if someone is the biological parent of a child.",
+        "hindi": "DNA फिंगरप्रिंटिंग व्यक्तियों की पहचान में मदद करती है क्योंकि प्रत्येक व्यक्ति का DNA पैटर्न अद्वितीय होता है (समान जुड़वां को छोड़कर)। इसका उपयोग आपराधिक जांच में रक्त या बाल जैसे साक्ष्यों को संदिग्धों से मिलान करने के लिए, और पितृत्व परीक्षण में यह निर्धारित करने के लिए किया जाता है कि कोई व्यक्ति बच्चे का जैविक माता-पिता है या नहीं।"
+      },
       "image": null,
       "medium": "hard"
     }

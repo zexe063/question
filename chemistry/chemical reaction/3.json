@@ -20,7 +20,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Water forms when hydrogen gas combines with oxygen gas. Two molecules of hydrogen (H₂) react with one molecule of oxygen (O₂) to form two molecules of water (H₂O). This is a combination reaction where hydrogen burns in oxygen to produce water.",
+        "hindi": "जल तब बनता है जब हाइड्रोजन गैस ऑक्सीजन गैस के साथ संयोग करती है। हाइड्रोजन के दो अणु (H₂) ऑक्सीजन के एक अणु (O₂) से क्रिया करके जल (H₂O) के दो अणु बनाते हैं। यह एक संयोजन अभिक्रिया है जहां हाइड्रोजन ऑक्सीजन में जलकर पानी बनाती है।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "This is a double displacement reaction where ions exchange their partners. Silver (Ag⁺) from AgNO₃ combines with chloride (Cl⁻) from NaCl to form AgCl precipitate, while sodium (Na⁺) combines with nitrate (NO₃⁻) to form NaNO₃. Two compounds exchange their ions to form two new compounds.",
+        "hindi": "यह एक द्विविस्थापन अभिक्रिया है जहां आयन अपने साथी बदलते हैं। AgNO₃ से चांदी (Ag⁺) NaCl से क्लोराइड (Cl⁻) के साथ मिलकर AgCl अवक्षेप बनाता है, जबकि सोडियम (Na⁺) नाइट्रेट (NO₃⁻) के साथ मिलकर NaNO₃ बनाता है। दो यौगिक अपने आयनों का आदान-प्रदान करके दो नए यौगिक बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -66,7 +74,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When iron reacts with blue copper sulfate solution (CuSO₄), the blue color fades because copper is displaced by iron. The reaction is: Fe + CuSO₄ → FeSO₄ + Cu. Iron being more reactive displaces copper, forming green iron sulfate solution and reddish-brown copper metal deposits.",
+        "hindi": "जब लोहा नीले कॉपर सल्फेट विलयन (CuSO₄) से क्रिया करता है, तो नीला रंग फीका पड़ जाता है क्योंकि लोहा कॉपर को विस्थापित कर देता है। अभिक्रिया है: Fe + CuSO₄ → FeSO₄ + Cu। लोहा अधिक क्रियाशील होने के कारण कॉपर को विस्थापित करता है, जिससे हरा आयरन सल्फेट विलयन और लाल-भूरी कॉपर धातु जमा होती है।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "A catalyst changes the speed of a chemical reaction without getting used up itself. For example, MnO₂ helps in the faster breakdown of H₂O₂ to give H₂O and O₂. The catalyst remains unchanged at the end of the reaction and can be reused.",
+        "hindi": "उत्प्रेरक स्वयं खपत हुए बिना रासायनिक अभिक्रिया की गति को बदलता है। उदाहरण के लिए, MnO₂ H₂O₂ के H₂O और O₂ में तेजी से टूटने में मदद करता है। अभिक्रिया के अंत में उत्प्रेरक अपरिवर्तित रहता है और इसका पुन: उपयोग किया जा सकता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Photosynthesis is a photochemical reaction that occurs in plant leaves. In this reaction, plants use sunlight energy to convert carbon dioxide and water into glucose and oxygen. The chlorophyll (green pigment) in leaves helps capture sunlight for this process.",
+        "hindi": "प्रकाश संश्लेषण एक प्रकाश रासायनिक अभिक्रिया है जो पौधों की पत्तियों में होती है। इस अभिक्रिया में, पौधे सूर्य के प्रकाश की ऊर्जा का उपयोग कार्बन डाइऑक्साइड और पानी को ग्लूकोज और ऑक्सीजन में बदलने के लिए करते हैं। पत्तियों में क्लोरोफिल (हरा वर्णक) इस प्रक्रिया के लिए सूर्य के प्रकाश को पकड़ने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Increasing temperature increases reaction rate because particles move faster and collide more frequently with more energy. For example, food cooks faster at higher temperatures, and chemical reactions in hot water occur faster than in cold water.",
+        "hindi": "तापमान बढ़ाने से अभिक्रिया दर बढ़ती है क्योंकि कण तेजी से गति करते हैं और अधिक ऊर्जा के साथ अधिक बार टकराते हैं। उदाहरण के लिए, भोजन उच्च तापमान पर तेजी से पकता है, और गर्म पानी में रासायनिक अभिक्रियाएं ठंडे पानी की तुलना में तेजी से होती हैं।"
+      }
     },
     {
       "question_name": {
@@ -145,20 +169,24 @@
       "option": {
         "english": [
           "NaCl + AgNO₃",
-          "2KClO₃ → 2KCl + 3O₂",
           "Zn + HCl",
+          "2KClO₃ → 2KCl + 3O₂",
           "CaCO₃ → CaO + CO₂"
         ],
         "hindi": [
           "NaCl + AgNO₃",
-          "2KClO₃ → 2KCl + 3O₂",
           "Zn + HCl",
+          "2KClO₃ → 2KCl + 3O₂",
           "CaCO₃ → CaO + CO₂"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Potassium chlorate (KClO₃) decomposes on heating to form potassium chloride (KCl) and oxygen gas (O₂). This is a decomposition reaction commonly used in laboratories to prepare oxygen gas. MnO₂ catalyst is used to speed up this reaction.",
+        "hindi": "पोटैशियम क्लोरेट (KClO₃) गरम करने पर टूटकर पोटैशियम क्लोराइड (KCl) और ऑक्सीजन गैस (O₂) बनाता है। यह एक अपघटन अभिक्रिया है जिसका उपयोग प्रयोगशालाओं में ऑक्सीजन गैस बनाने के लिए किया जाता है। इस अभिक्रिया को तेज करने के लिए MnO₂ उत्प्रेरक का उपयोग किया जाता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Decomposition reactions are usually endothermic - they need heat energy to break bonds. For example, calcium carbonate (CaCO₃) needs heat to decompose into calcium oxide (CaO) and carbon dioxide (CO₂). Similarly, water needs electrical energy to break into hydrogen and oxygen.",
+        "hindi": "अपघटन अभिक्रियाएं आमतौर पर ऊष्माशोषी होती हैं - बंधों को तोड़ने के लिए इन्हें ऊष्मा ऊर्जा की आवश्यकता होती है। उदाहरण के लिए, कैल्शियम कार्बोनेट (CaCO₃) को कैल्शियम ऑक्साइड (CaO) और कार्बन डाइऑक्साइड (CO₂) में टूटने के लिए गर्मी की आवश्यकता होती है। इसी तरह, पानी को हाइड्रोजन और ऑक्सीजन में टूटने के लिए विद्युत ऊर्जा की आवश्यकता होती है।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Galvanization is coating iron with zinc to prevent rusting. Zinc acts as a sacrificial metal - it corrodes instead of iron. Common examples are galvanized iron sheets used in roofing and galvanized iron buckets. The zinc coating prevents iron from coming in contact with air and moisture.",
+        "hindi": "जस्ताकरण लोहे पर जस्ता (जिंक) की परत चढ़ाकर जंग को रोकने की विधि है। जस्ता एक त्यागी धातु के रूप में कार्य करता है - यह लोहे के बजाय स्वयं संक्षारित होता है। सामान्य उदाहरण हैं छत में प्रयुक्त जस्ती लोहे की चादरें और जस्ती लोहे की बाल्टियां। जस्ते की परत लोहे को हवा और नमी के संपर्क में आने से रोकती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "In a precipitation reaction, an insoluble solid (precipitate) forms when two solutions are mixed. For example, when silver nitrate solution is mixed with sodium chloride solution, a white solid silver chloride precipitate forms. The reaction is: AgNO₃ + NaCl → AgCl↓ (white ppt) + NaNO₃",
+        "hindi": "अवक्षेपण अभिक्रिया में, दो विलयनों को मिलाने पर एक अघुलनशील ठोस (अवक्षेप) बनता है। उदाहरण के लिए, जब सिल्वर नाइट्रेट विलयन को सोडियम क्लोराइड विलयन के साथ मिलाया जाता है, तो सफेद ठोस सिल्वर क्लोराइड अवक्षेप बनता है। अभिक्रिया है: AgNO₃ + NaCl → AgCl↓ (सफेद अवक्षेप) + NaNO₃"
+      }
     }
   ]

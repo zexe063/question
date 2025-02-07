@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Stratosphere",
-          "Troposphere",
+          "Troposphere", 
           "Mesosphere",
           "Thermosphere"
         ],
@@ -19,32 +19,40 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "The ozone layer is found in the stratosphere layer of Earth's atmosphere, about 15-35 km above Earth's surface. It protects life on Earth by absorbing harmful ultraviolet radiation from the Sun.",
+        "hindi": "ओजोन परत पृथ्वी के वायुमंडल की समताप मंडल परत में पाई जाती है, जो पृथ्वी की सतह से लगभग 15-35 किमी ऊपर है। यह सूर्य से आने वाली हानिकारक पराबैंगनी विकिरण को अवशोषित करके पृथ्वी पर जीवन की रक्षा करती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is water conservation?",
-        "hindi": "जल संरक्षण क्या है?"
+          "english": "What is rainwater harvesting?",
+          "hindi": "वर्षा जल संचयन क्या है?"
       },
       "option": {
-        "english": [
-          "Water waste",
-          "Water saving",
-          "Water pollution",
-          "Water removal"
-        ],
-        "hindi": [
-          "जल बर्बादी",
-          "जल बचत",
-          "जल प्रदूषण",
-          "जल निकासी"
-        ]
+          "english": [
+              "Water wastage",
+              "Collecting rainwater",
+              "Water pollution", 
+              "Water removal"
+          ],
+          "hindi": [
+              "जल बर्बादी",
+              "वर्षा जल एकत्रीकरण",
+              "जल प्रदूषण",
+              "जल निकासी"
+          ]
+      },
+      "explanation": {
+        "english": "Rainwater harvesting is the collection and storage of rainwater for reuse. It helps conserve water resources, recharge groundwater, and reduce water scarcity. Common methods include rooftop collection and storage in tanks.",
+        "hindi": "वर्षा जल संचयन बारिश के पानी को एकत्र करके पुन: उपयोग के लिए संग्रहित करना है। यह जल संसाधनों का संरक्षण करने, भूजल को रिचार्ज करने और जल की कमी को कम करने में मदद करता है। छत पर संग्रहण और टैंकों में भंडारण सामान्य विधियां हैं।"
       },
       "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
+      "image":null,
+      "medium": "medium"
+  },
     {
       "question_name": {
         "english": "What is the effect of air pollution?",
@@ -64,56 +72,68 @@
           "स्वास्थ्य समस्याएं"
         ]
       },
+      "explanation": {
+        "english": "Air pollution causes serious health problems like respiratory diseases, lung infections, and breathing difficulties. It also affects plants, animals and contributes to global warming through greenhouse gases.",
+        "hindi": "वायु प्रदूषण श्वसन रोग, फेफड़ों के संक्रमण और सांस लेने में कठिनाई जैसी गंभीर स्वास्थ्य समस्याएं पैदा करता है। यह पौधों, जानवरों को भी प्रभावित करता है और ग्रीनहाउस गैसों के माध्यम से ग्लोबल वार्मिंग में योगदान करता है।"
+      },
       "answer": 3,
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of decomposers?",
-        "hindi": "अपघटकों की क्या भूमिका है?"
+          "english": "What happens in a food chain when decomposers are removed?",
+          "hindi": "अपघटकों के हटने पर खाद्य श्रृंखला में क्या होता है?"
       },
       "option": {
-        "english": [
-          "Make food",
-          "Eat food",
-          "Break down waste",
-          "Store energy"
-        ],
-        "hindi": [
-          "भोजन बनाना",
-          "भोजन खाना",
-          "कचरा विघटन",
-          "ऊर्जा भंडारण"
-        ]
+          "english": [
+              "Better cycling",
+              "No effect",
+              "Nutrient loss",
+              "More energy"
+          ],
+          "hindi": [
+              "बेहतर चक्रण",
+              "कोई प्रभाव नहीं",
+              "पोषक तत्वों की हानि",
+              "अधिक ऊर्जा"
+          ]
+      },
+      "explanation": {
+        "english": "Decomposers break down dead organisms and waste materials, recycling nutrients back into the ecosystem. Without them, nutrients would remain locked in dead matter, making them unavailable for plants and disrupting the entire food chain.",
+        "hindi": "अपघटक मृत जीवों और अपशिष्ट पदार्थों को तोड़कर पोषक तत्वों को पारिस्थितिकी तंत्र में वापस पहुंचाते हैं। इनके बिना, पोषक तत्व मृत पदार्थों में बंद रह जाएंगे, जिससे वे पौधों के लिए अनुपलब्ध हो जाएंगे और पूरी खाद्य श्रृंखला प्रभावित होगी।"
       },
       "answer": 2,
-      "image": null,
+      "image":null,
       "medium": "easy"
+  },
+  {
+    "question_name": {
+        "english": "What affects photosynthesis in plants?",
+        "hindi": "पौधों में प्रकाश संश्लेषण को क्या प्रभावित करता है?"
     },
-    {
-      "question_name": {
-        "english": "Which is a primary producer?",
-        "hindi": "प्राथमिक उत्पादक कौन है?"
-      },
-      "option": {
+    "option": {
         "english": [
-          "Green plant",
-          "Animal",
-          "Human",
-          "Bacteria"
+            "Light intensity",
+            "Night time",
+            "Darkness",
+            "No water"
         ],
         "hindi": [
-          "हरा पौधा",
-          "जानवर",
-          "मानव",
-          "बैक्टीरिया"
+            "प्रकाश की तीव्रता",
+            "रात का समय",
+            "अंधेरा",
+            "पानी की कमी"
         ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
     },
+    "explanation": {
+      "english": "Light intensity directly affects photosynthesis as it provides the energy needed for plants to convert carbon dioxide and water into glucose. More light generally means more photosynthesis, up to an optimal level.",
+      "hindi": "प्रकाश की तीव्रता प्रकाश संश्लेषण को सीधे प्रभावित करती है क्योंकि यह पौधों को कार्बन डाइऑक्साइड और पानी को ग्लूकोज में बदलने के लिए आवश्यक ऊर्जा प्रदान करती है। अधिक प्रकाश का मतलब आमतौर पर एक इष्टतम स्तर तक अधिक प्रकाश संश्लेषण होता है।"
+    },
+    "answer": 0,
+    "image":null,
+    "medium": "easy"
+},
     {
       "question_name": {
         "english": "What is the impact of mining?",
@@ -133,33 +153,41 @@
           "भूमि विनाश"
         ]
       },
+      "explanation": {
+        "english": "Mining causes severe land destruction through soil erosion, loss of biodiversity, groundwater depletion, and pollution. It removes natural vegetation, displaces wildlife, and can make the land unsuitable for future use.",
+        "hindi": "खनन मिट्टी के कटाव, जैव विविधता की हानि, भूजल की कमी और प्रदूषण के माध्यम से गंभीर भूमि विनाश का कारण बनता है। यह प्राकृतिक वनस्पति को नष्ट करता है, वन्यजीवों को विस्थापित करता है और भूमि को भविष्य के उपयोग के लिए अनुपयुक्त बना सकता है।"
+      },
       "answer": 3,
       "image": null,
       "medium": "medium"
     },
     {
       "question_name": {
-        "english": "What is organic waste?",
-        "hindi": "जैविक कचरा क्या है?"
+          "english": "What is composting of organic waste?",
+          "hindi": "जैविक कचरे की कम्पोस्टिंग क्या है?"
       },
       "option": {
-        "english": [
-          "Plastic",
-          "Biodegradable waste",
-          "Metal",
-          "Glass"
-        ],
-        "hindi": [
-          "प्लास्टिक",
-          "जैव-निम्नीकरणीय कचरा",
-          "धातु",
-          "कांच"
-        ]
+          "english": [
+              "Burning waste",
+              "Natural decomposition",
+              "Dumping waste",
+              "Waste collection"
+          ],
+          "hindi": [
+              "कचरा जलाना",
+              "प्राकृतिक अपघटन",
+              "कचरा डंपिंग",
+              "कचरा संग्रह"
+          ]
+      },
+      "explanation": {
+        "english": "Composting is the natural breakdown of organic waste like food scraps and plant materials by microorganisms. It produces nutrient-rich compost that can be used as natural fertilizer for plants, reducing the need for chemical fertilizers.",
+        "hindi": "कम्पोस्टिंग सूक्ष्मजीवों द्वारा भोजन के अवशेष और पौधों की सामग्री जैसे जैविक कचरे का प्राकृतिक विघटन है। यह पोषक तत्वों से भरपूर खाद बनाती है जिसका उपयोग पौधों के लिए प्राकृतिक उर्वरक के रूप में किया जा सकता है, जिससे रासायनिक उर्वरकों की आवश्यकता कम होती है।"
       },
       "answer": 1,
-      "image": null,
+      "image":null,
       "medium": "medium"
-    },
+  },
     {
       "question_name": {
         "english": "What is environmental impact assessment?",
@@ -178,6 +206,10 @@
           "प्रभाव अध्ययन",
           "त्वरित समीक्षा"
         ]
+      },
+      "explanation": {
+        "english": "Environmental Impact Assessment (EIA) is a study done before starting any major project to understand its effects on the environment. It helps prevent environmental damage by suggesting ways to minimize negative impacts.",
+        "hindi": "पर्यावरणीय प्रभाव आकलन (ईआईए) किसी बड़ी परियोजना को शुरू करने से पहले पर्यावरण पर उसके प्रभावों को समझने के लिए किया जाने वाला अध्ययन है। यह नकारात्मक प्रभावों को कम करने के तरीके सुझाकर पर्यावरण को नुकसान से बचाने में मदद करता है।"
       },
       "answer": 2,
       "image": null,
@@ -202,6 +234,10 @@
           "रोबोट"
         ]
       },
+      "explanation": {
+        "english": "Bees are important natural pollinators that help plants reproduce by transferring pollen between flowers. They are essential for agriculture and maintaining biodiversity in ecosystems.",
+        "hindi": "मधुमक्खियां महत्वपूर्ण प्राकृतिक परागणक हैं जो फूलों के बीच पराग को स्थानांतरित करके पौधों के प्रजनन में मदद करती हैं। वे कृषि और पारिस्थितिक तंत्र में जैव विविधता बनाए रखने के लिए आवश्यक हैं।"
+      },
       "answer": 0,
       "image": null,
       "medium": "hard"
@@ -224,6 +260,10 @@
           "अधिक प्रजातियां",
           "पारिस्थितिकी क्षति"
         ]
+      },
+      "explanation": {
+        "english": "Invasive species harm ecosystems by competing with native species for resources, disrupting food chains, and sometimes causing extinction of local species. They can quickly spread and are difficult to control once established.",
+        "hindi": "आक्रामक प्रजातियां संसाधनों के लिए देशी प्रजातियों के साथ प्रतिस्पर्धा करके, खाद्य श्रृंखलाओं को बाधित करके और कभी-कभी स्थानीय प्रजातियों के विलुप्त होने का कारण बनकर पारिस्थितिक तंत्र को नुकसान पहुंचाती हैं। वे तेजी से फैल सकती हैं और एक बार स्थापित होने के बाद नियंत्रित करना मुश्किल होता है।"
       },
       "answer": 3,
       "image": null,

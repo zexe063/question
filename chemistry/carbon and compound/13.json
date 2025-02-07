@@ -1,232 +1,272 @@
 [
-    {
-      "question_name": {
-        "english": "Which gas is produced when ethanol burns in air?",
-        "hindi": "एथेनॉल हवा में जलने पर कौन सी गैस उत्पन्न होती है?"
-      },
-      "option": {
-        "english": [
-          "CO",
-          "CO₂",
-          "SO₂",
-          "NO₂"
-        ],
-        "hindi": [
-          "CO",
-          "CO₂",
-          "SO₂",
-          "NO₂"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
+  {
+    "question_name": {
+      "english": "Why is the ionic part of detergent called hydrophilic?",
+      "hindi": "डिटर्जेंट का आयनिक भाग जलस्नेही क्यों कहलाता है?"
     },
-    {
-      "question_name": {
-        "english": "What happens when sodium metal reacts with ethanol?",
-        "hindi": "सोडियम धातु एथेनॉल से अभिक्रिया करने पर क्या होता है?"
-      },
-      "option": {
-        "english": [
-          "No reaction",
-          "Forms salt and water",
-          "Forms salt and hydrogen",
-          "Forms oxide"
-        ],
-        "hindi": [
-          "कोई अभिक्रिया नहीं",
-          "लवण और जल बनता है",
-          "लवण और हाइड्रोजन बनता है",
-          "ऑक्साइड बनता है"
-        ]
-      },
-      "answer": 3,
-      "image": null,
-      "medium": "easy"
+    "option": {
+      "english": [
+        "Because it dissolves in water",
+        "Because it attracts water molecules",
+        "Because it repels water molecules", 
+        "Because it forms micelles"
+      ],
+      "hindi": [
+        "क्योंकि यह पानी में घुल जाता है",
+        "क्योंकि यह जल अणुओं को आकर्षित करता है",
+        "क्योंकि यह जल अणुओं को विकर्षित करता है",
+        "क्योंकि यह मिसेल बनाता है"
+      ]
     },
-    {
-      "question_name": {
-        "english": "Which of these has highest boiling point?",
-        "hindi": "इनमें से किसका क्वथनांक सबसे अधिक होता है?"
-      },
-      "option": {
-        "english": [
-          "Ethane",
-          "Ethene",
-          "Ethanol",
-          "Ethanoic acid"
-        ],
-        "hindi": [
-          "एथेन",
-          "एथीन",
-          "एथेनॉल",
-          "एथेनोइक अम्ल"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "What is the common name of CH₃COOH?",
-        "hindi": "CH₃COOH का सामान्य नाम क्या है?"
-      },
-      "option": {
-        "english": [
-          "Acetic acid",
-          "Formic acid",
-          "Citric acid",
-          "Oxalic acid"
-        ],
-        "hindi": [
-          "एसीटिक अम्ल",
-          "फॉर्मिक अम्ल",
-          "साइट्रिक अम्ल",
-          "ऑक्सैलिक अम्ल"
-        ]
-      },
-      "answer": 0,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Which of these is used in denatured spirit?",
-        "hindi": "विकृत स्पिरिट में इनमें से किसका उपयोग किया जाता है?"
-      },
-      "option": {
-        "english": [
-          "Methanol",
-          "Ethanol",
-          "Propanol",
-          "Butanol"
-        ],
-        "hindi": [
-          "मेथेनॉल",
-          "एथेनॉल",
-          "प्रोपेनॉल",
-          "ब्यूटेनॉल"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "easy"
-    },
-    {
-      "question_name": {
-        "english": "Identify the hybridization shown in the carbon atom:",
-        "hindi": "कार्बन परमाणु में दर्शाए गए संकरण को पहचानें:"
-      },
-      "option": {
-        "english": [
-          "sp³",
-          "sp²",
-          "sp",
-          "No hybridization"
-        ],
-        "hindi": [
-          "sp³",
-          "sp²",
-          "sp",
-          "कोई संकरण नहीं"
-        ]
-      },
-      "answer": 2,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='60' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='52' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='-52' stroke='black' stroke-width='2'/><circle cx='60' cy='0' r='15' fill='#9b9b9b'/><circle cx='-30' cy='52' r='15' fill='#9b9b9b'/><circle cx='-30' cy='-52' r='15' fill='#9b9b9b'/><text x='60' y='5' text-anchor='middle' fill='white'>H</text><text x='-30' y='57' text-anchor='middle' fill='white'>H</text><text x='-30' y='-47' text-anchor='middle' fill='white'>H</text></g></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "Which molecular structure is shown in the diagram?",
-        "hindi": "आरेख में कौन सी आण्विक संरचना दिखाई गई है?"
-      },
-      "option": {
-        "english": [
-          "Ethane",
-          "Ethene",
-          "Ethyne",
-          "Methane"
-        ],
-        "hindi": [
-          "एथेन",
-          "एथीन",
-          "एथाइन",
-          "मीथेन"
-        ]
-      },
-      "answer": 3,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(60,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='20' y1='0' x2='160' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='0' x2='120' y2='0' stroke='black' stroke-width='2'/><line x1='60' y1='0' x2='120' y2='0' stroke='black' stroke-width='2'/><circle cx='180' cy='0' r='20' fill='#4a90e2'/><text x='180' y='5' text-anchor='middle' fill='white'>C</text><circle cx='-30' cy='0' r='15' fill='#9b9b9b'/><circle cx='210' cy='0' r='15' fill='#9b9b9b'/><text x='-30' y='5' text-anchor='middle' fill='white'>H</text><text x='210' y='5' text-anchor='middle' fill='white'>H</text></g></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What type of bond angles are shown in this molecule?",
-        "hindi": "इस अणु में किस प्रकार के बंध कोण दिखाए गए हैं?"
-      },
-      "option": {
-        "english": [
-          "90°",
-          "109.5°",
-          "120°",
-          "180°"
-        ],
-        "hindi": [
-          "90°",
-          "109.5°",
-          "120°",
-          "180°"
-        ]
-      },
-      "answer": 0,
-      "image": "<svg width='300' height='150' xmlns='http://www.w3.org/2000/svg'><g transform='translate(150,75)'><circle cx='0' cy='0' r='20' fill='#4a90e2'/><text x='0' y='5' text-anchor='middle' fill='white'>C</text><line x1='0' y1='0' x2='60' y2='0' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='52' stroke='black' stroke-width='2'/><line x1='0' y1='0' x2='-30' y2='-52' stroke='black' stroke-width='2'/><text x='30' y='-20' fill='black'>90°</text><circle cx='60' cy='0' r='15' fill='#9b9b9b'/><circle cx='-30' cy='52' r='15' fill='#9b9b9b'/><circle cx='-30' cy='-52' r='15' fill='#9b9b9b'/><text x='60' y='5' text-anchor='middle' fill='white'>H</text><text x='-30' y='57' text-anchor='middle' fill='white'>H</text><text x='-30' y='-47' text-anchor='middle' fill='white'>H</text></g></svg>",
-      "medium": "medium"
-    },
-    {
-      "question_name": {
-        "english": "What is the role of sulphuric acid in esterification?",
-        "hindi": "एस्टरीकरण में सल्फ्यूरिक अम्ल की क्या भूमिका होती है?"
-      },
-      "option": {
-        "english": [
-          "Oxidizing agent",
-          "Catalyst",
-          "Reducing agent",
-          "Dehydrating agent"
-        ],
-        "hindi": [
-          "ऑक्सीकारक",
-          "उत्प्रेरक",
-          "अपचायक",
-          "निर्जलीकारक"
-        ]
-      },
-      "answer": 1,
-      "image": null,
-      "medium": "hard"
-    },
-    {
-      "question_name": {
-        "english": "Why does ethanoic acid not give effervescence with sodium carbonate?",
-        "hindi": "एथेनोइक अम्ल सोडियम कार्बोनेट के साथ बुदबुदाहट क्यों नहीं करता?"
-      },
-      "option": {
-        "english": [
-          "Strong acid",
-          "Weak acid",
-          "Strong base",
-          "Weak base"
-        ],
-        "hindi": [
-          "प्रबल अम्ल",
-          "दुर्बल अम्ल",
-          "प्रबल क्षार",
-          "दुर्बल क्षार"
-        ]
-      },
-      "answer": 2,
-      "image": null,
-      "medium": "hard"
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "The ionic part (-OSO₃Na) of detergent is called hydrophilic because it attracts water molecules. This happens because water is also polar in nature. The ionic head forms hydrogen bonds with water molecules, making this part water-loving (hydrophilic).",
+      "hindi": "डिटर्जेंट का आयनिक भाग (-OSO₃Na) जलस्नेही कहलाता है क्योंकि यह जल अणुओं को आकर्षित करता है। ऐसा इसलिए होता है क्योंकि पानी भी ध्रुवीय प्रकृति का होता है। आयनिक सिरा पानी के अणुओं के साथ हाइड्रोजन बंध बनाता है, जो इस भाग को जल-प्रेमी (जलस्नेही) बनाता है।"
     }
+  },
+  {
+    "question_name": {
+      "english": "Which functional group is present in ethanol?",
+      "hindi": "एथेनॉल में कौन सा क्रियात्मक समूह उपस्थित होता है?"
+    },
+    "option": {
+      "english": [
+        "-CHO",
+        "-CO-",
+        "-COOH",
+        "-OH"
+      ],
+      "hindi": [
+        "-CHO",
+        "-CO-",
+        "-COOH",
+        "-OH"
+      ]
+    },
+    "answer": 3,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Ethanol (CH₃CH₂OH) contains hydroxyl group (-OH) as its functional group. This -OH group gives ethanol its characteristic properties like ability to form hydrogen bonds with water making it completely soluble in water. Structure: CH₃-CH₂-OH",
+      "hindi": "एथेनॉल (CH₃CH₂OH) में हाइड्रॉक्सिल समूह (-OH) क्रियात्मक समूह के रूप में मौजूद होता है। यह -OH समूह एथेनॉल को इसके विशिष्ट गुण प्रदान करता है जैसे पानी के साथ हाइड्रोजन बंध बनाने की क्षमता जो इसे पानी में पूरी तरह से घुलनशील बनाती है। संरचना: CH₃-CH₂-OH"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why are ammonium and sulphonate salts used in detergents?",
+      "hindi": "डिटर्जेंट में अमोनियम और सल्फोनेट लवण का उपयोग क्यों किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Because they are cheap",
+        "Because they are biodegradable",
+          "Because they are water soluble",
+        "Because they form foam easily"
+      ],
+      "hindi": [
+        "क्योंकि वे सस्ते होते हैं",
+        "क्योंकि वे जैव-निम्नीकरणीय होते हैं",
+          "क्योंकि वे जल में घुलनशील होते हैं",
+        "क्योंकि वे आसानी से झाग बनाते हैं"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Ammonium and sulphonate salts are used in detergents because they are highly water soluble. Their ionic nature allows them to dissolve easily in water, making them effective cleaning agents. These salts form the hydrophilic (water-loving) head of the detergent molecule.",
+      "hindi": "डिटर्जेंट में अमोनियम और सल्फोनेट लवण का उपयोग किया जाता है क्योंकि ये पानी में अत्यधिक घुलनशील होते हैं। इनकी आयनिक प्रकृति इन्हें पानी में आसानी से घुलने की क्षमता देती है, जो इन्हें प्रभावी सफाई एजेंट बनाती है। ये लवण डिटर्जेंट अणु का जलस्नेही (पानी से प्रेम करने वाला) सिरा बनाते हैं।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is concentrated sulphuric acid used in esterification reaction?",
+      "hindi": "एस्टरीकरण अभिक्रिया में सांद्र सल्फ्यूरिक अम्ल का उपयोग क्यों किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "As a dehydrating agent",
+        "As an oxidizing agent", 
+        "As a reducing agent",
+        "As a neutralizing agent"
+      ],
+      "hindi": [
+        "निर्जलीकारक के रूप में",
+        "ऑक्सीकारक के रूप में",
+        "अपचायक के रूप में",
+        "उदासीनीकरण कारक के रूप में"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "In esterification reaction (RCOOH + R'OH ⟶ RCOOR' + H₂O), concentrated H₂SO₄ acts as a dehydrating agent. It removes water molecules formed during the reaction, pushing the reaction forward according to Le Chatelier's principle. Example: CH₃COOH + CH₃CH₂OH ⟶ CH₃COOCH₂CH₃ + H₂O",
+      "hindi": "एस्टरीकरण अभिक्रिया (RCOOH + R'OH ⟶ RCOOR' + H₂O) में, सांद्र H₂SO₄ निर्जलीकारक के रूप में कार्य करता है। यह अभिक्रिया के दौरान बने जल अणुओं को हटाता है, जो ले शातेलिए के सिद्धांत के अनुसार अभिक्रिया को आगे बढ़ाता है। उदाहरण: CH₃COOH + CH₃CH₂OH ⟶ CH₃COOCH₂CH₃ + H₂O"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is concentrated sulphuric acid used as a dehydrating agent in organic reactions?",
+      "hindi": "कार्बनिक अभिक्रियाओं में सांद्र सल्फ्यूरिक अम्ल को निर्जलीकारक के रूप में क्यों प्रयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Because it is a strong acid",
+        "Because it removes water molecules",
+        "Because it is a catalyst",
+        "Because it is an oxidizing agent"
+      ],
+      "hindi": [
+        "क्योंकि यह एक प्रबल अम्ल है",
+        "क्योंकि यह जल अणुओं को हटाता है",
+        "क्योंकि यह एक उत्प्रेरक है",
+        "क्योंकि यह एक ऑक्सीकारक है"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "easy",
+    "explanation": {
+      "english": "Concentrated H₂SO₄ has a strong affinity for water molecules. It removes water formed during organic reactions by forming hydrates (H₂SO₄·H₂O). For example, in alcohol dehydration: CH₃CH₂OH ⟶ CH₂=CH₂ + H₂O, H₂SO₄ removes the water pushing reaction forward.",
+      "hindi": "सांद्र H₂SO₄ में जल अणुओं के प्रति प्रबल आकर्षण होता है। यह कार्बनिक अभिक्रियाओं के दौरान बने जल को हाइड्रेट (H₂SO₄·H₂O) बनाकर हटा देता है। उदाहरण के लिए, अल्कोहल के निर्जलीकरण में: CH₃CH₂OH ⟶ CH₂=CH₂ + H₂O, H₂SO₄ जल को हटाकर अभिक्रिया को आगे बढ़ाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is sodium stearate (C₁₇H₃₅COONa) used in making soaps?",
+      "hindi": "साबुन बनाने में सोडियम स्टीयरेट (C₁₇H₃₅COONa) का उपयोग क्यों किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Because it is a strong base",
+        "Because it is water soluble",
+        "Because it has cleansing properties",
+        "Because it is cheap"
+      ],
+      "hindi": [
+        "क्योंकि यह एक प्रबल क्षार है",
+        "क्योंकि यह जल में घुलनशील है",
+        "क्योंकि इसमें सफाई के गुण हैं",
+        "क्योंकि यह सस्ता है"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Sodium stearate has both hydrophilic (-COONa) and hydrophobic (C₁₇H₃₅-) parts. This structure helps in cleaning by forming micelles around dirt particles. The hydrophobic tail attaches to oil/dirt while the hydrophilic head remains in water, helping remove dirt from clothes.",
+      "hindi": "सोडियम स्टीयरेट में जलस्नेही (-COONa) और जलविरोधी (C₁₇H₃₅-) दोनों भाग होते हैं। यह संरचना गंदगी के कणों के चारों ओर मिसेल बनाकर सफाई में मदद करती है। जलविरोधी पूंछ तेल/गंदगी से जुड़ती है जबकि जलस्नेही सिरा पानी में रहता है, जो कपड़ों से गंदगी हटाने में मदद करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is sodium n-dodecyl sulphate (CH₃-(CH₂)₁₁-OSO₃Na) used as a detergent?",
+      "hindi": "सोडियम एन-डोडेसिल सल्फेट (CH₃-(CH₂)₁₁-OSO₃Na) को डिटर्जेंट के रूप में क्यों प्रयोग किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Due to its high solubility in water",
+        "Due to its low cost",
+        "Due to its cleansing properties",
+        "Due to its strong basic nature"
+      ],
+      "hindi": [
+        "जल में इसकी उच्च घुलनशीलता के कारण",
+        "इसकी कम लागत के कारण",
+        "इसके सफाई गुणों के कारण",
+        "इसकी प्रबल क्षारीय प्रकृति के कारण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Sodium n-dodecyl sulphate has a long hydrocarbon chain (hydrophobic tail) and -OSO₃Na group (hydrophilic head). This structure helps form micelles that trap dirt particles. The hydrophobic tail dissolves in oil/dirt while the hydrophilic head stays in water, making it an effective cleaning agent.",
+      "hindi": "सोडियम एन-डोडेसिल सल्फेट में एक लंबी हाइड्रोकार्बन श्रृंखला (जलविरोधी पूंछ) और -OSO₃Na समूह (जलस्नेही सिरा) होता है। यह संरचना मिसेल बनाने में मदद करती है जो गंदगी के कणों को फंसाते हैं। जलविरोधी पूंछ तेल/गंदगी में घुलती है जबकि जलस्नेही सिरा पानी में रहता है, जो इसे एक प्रभावी सफाई एजेंट बनाता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "Why is ethanoic acid used in making pickles?",
+      "hindi": "अचार बनाने में एथेनोइक अम्ल का उपयोग क्यों किया जाता है?"
+    },
+    "option": {
+      "english": [
+        "Because it acts as a preservative",
+        "Because it adds sour taste",
+        "Because it is cheap",
+        "Because it is colorless"
+      ],
+      "hindi": [
+        "क्योंकि यह परिरक्षक का काम करता है",
+        "क्योंकि यह खट्टा स्वाद देता है",
+        "क्योंकि यह सस्ता है",
+        "क्योंकि यह रंगहीन है"
+      ]
+    },
+    "answer": 0,
+    "image": null,
+    "medium": "medium",
+    "explanation": {
+      "english": "Ethanoic acid (CH₃COOH) creates an acidic environment that prevents the growth of harmful bacteria and fungi in pickles. Its low pH (around 2.4) helps preserve food for longer periods. It also adds the characteristic sour taste to pickles.",
+      "hindi": "एथेनोइक अम्ल (CH₃COOH) एक अम्लीय वातावरण बनाता है जो अचार में हानिकारक बैक्टीरिया और फंगस की वृद्धि को रोकता है। इसका कम pH (लगभग 2.4) भोजन को लंबे समय तक संरक्षित रखने में मदद करता है। यह अचार को विशिष्ट खट्टा स्वाद भी प्रदान करता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What happens when ethanol is oxidized?",
+      "hindi": "एथेनॉल के ऑक्सीकरण पर क्या होता है?"
+    },
+    "option": {
+      "english": [
+        "Forms ethene",
+        "Forms ethanoic acid",
+        "Forms ethane",
+        "Forms ethanal"
+      ],
+      "hindi": [
+        "एथीन बनता है",
+        "एथेनोइक अम्ल बनता है",
+        "एथेन बनता है",
+        "एथैनल बनता है"
+      ]
+    },
+    "answer": 1,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "When ethanol (CH₃CH₂OH) is oxidized, it first forms ethanal (CH₃CHO) and then ethanoic acid (CH₃COOH). The reaction occurs in two steps:\n1. CH₃CH₂OH + [O] → CH₃CHO + H₂O\n2. CH₃CHO + [O] → CH₃COOH\nThis oxidation can be done using oxidizing agents like acidified K₂Cr₂O₇ or KMnO₄.",
+      "hindi": "जब एथेनॉल (CH₃CH₂OH) का ऑक्सीकरण होता है, तो पहले एथैनल (CH₃CHO) और फिर एथेनोइक अम्ल (CH₃COOH) बनता है। अभिक्रिया दो चरणों में होती है:\n1. CH₃CH₂OH + [O] → CH₃CHO + H₂O\n2. CH₃CHO + [O] → CH₃COOH\nयह ऑक्सीकरण अम्लीय K₂Cr₂O₇ या KMnO₄ जैसे ऑक्सीकारक का उपयोग करके किया जा सकता है।"
+    }
+  },
+  {
+    "question_name": {
+      "english": "What type of reaction occurs in soap formation?",
+      "hindi": "साबुन निर्माण में किस प्रकार की अभिक्रिया होती है?"
+    },
+    "option": {
+      "english": [
+        "Reduction",
+        "Hydrolysis",
+        "Saponification",
+        "Oxidation"
+      ],
+      "hindi": [
+        "अपचयन",
+        "जल-अपघटन",
+        "साबुनीकरण",
+        "ऑक्सीकरण"
+      ]
+    },
+    "answer": 2,
+    "image": null,
+    "medium": "hard",
+    "explanation": {
+      "english": "Soap formation occurs through saponification reaction. In this reaction, fats or oils (esters) react with sodium hydroxide (NaOH) to form soap and glycerol. Example:\nFat + NaOH → Soap + Glycerol\n(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃",
+      "hindi": "साबुन का निर्माण साबुनीकरण अभिक्रिया द्वारा होता है। इस अभिक्रिया में, वसा या तेल (एस्टर) सोडियम हाइड्रॉक्साइड (NaOH) से क्रिया करके साबुन और ग्लिसरॉल बनाते हैं। उदाहरण:\nवसा + NaOH → साबुन + ग्लिसरॉल\n(C₁₇H₃₅COO)₃C₃H₅ + 3NaOH → 3C₁₇H₃₅COONa + C₃H₅(OH)₃"
+    }
+  }
 ]

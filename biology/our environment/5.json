@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Clean air",
-          "Vehicle emissions",
+          "Vehicle emissions", 
           "Fresh air",
           "Natural air"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Vehicle emissions are the main cause of air pollution in cities. Cars, trucks and other vehicles release harmful gases like carbon monoxide and nitrogen oxides that make the air dirty and unhealthy to breathe. These pollutants can cause breathing problems and other health issues.",
+        "hindi": "शहरों में वाहनों से होने वाला उत्सर्जन वायु प्रदूषण का मुख्य कारण है। कारें, ट्रक और अन्य वाहन कार्बन मोनोऑक्साइड और नाइट्रोजन ऑक्साइड जैसी हानिकारक गैसें छोड़ते हैं जो हवा को गंदा और सांस लेने के लिए अस्वास्थ्यकर बनाते हैं। ये प्रदूषक सांस लेने में समस्या और अन्य स्वास्थ्य समस्याएं पैदा कर सकते हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,30 +47,38 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Bacteria play a crucial role in the environment as decomposers. They break down dead plants, animals and organic waste into simpler substances that can be reused by plants. This recycling of nutrients is essential for maintaining soil fertility and ecosystem health.",
+        "hindi": "बैक्टीरिया अपघटक के रूप में पर्यावरण में महत्वपूर्ण भूमिका निभाते हैं। वे मृत पौधों, जानवरों और जैविक कचरे को सरल पदार्थों में तोड़ते हैं जिनका पौधों द्वारा पुन: उपयोग किया जा सकता है। पोषक तत्वों का यह पुनर्चक्रण मिट्टी की उर्वरता और पारिस्थितिकी तंत्र के स्वास्थ्य को बनाए रखने के लिए आवश्यक है।"
+      }
     },
     {
       "question_name": {
-        "english": "Which layer protects Earth from UV rays?",
-        "hindi": "कौन सी परत पृथ्वी को पराबैंगनी किरणों से बचाती है?"
+          "english": "Which atmospheric layer contains most weather phenomena?",
+          "hindi": "किस वायुमंडलीय परत में अधिकांश मौसम की घटनाएं होती हैं?"
       },
       "option": {
-        "english": [
-          "Ozone layer",
-          "Troposphere",
-          "Stratosphere",
-          "Mesosphere"
-        ],
-        "hindi": [
-          "ओजोन परत",
-          "क्षोभमंडल",
-          "समतापमंडल",
-          "मध्यमंडल"
-        ]
+          "english": [
+              "Troposphere",
+              "Stratosphere", 
+              "Mesosphere",
+              "Thermosphere"
+          ],
+          "hindi": [
+              "क्षोभमंडल",
+              "समतापमंडल",
+              "मध्यमंडल",
+              "थर्मोस्फीयर"
+          ]
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "The troposphere is the lowest layer of Earth's atmosphere where we live and breathe. It extends up to 10-15 km from Earth's surface. All weather phenomena like clouds, rain, snow and thunderstorms occur in this layer because it contains most of the water vapor and dust particles.",
+        "hindi": "क्षोभमंडल पृथ्वी का सबसे निचला वायुमंडलीय परत है जहां हम रहते और सांस लेते हैं। यह पृथ्वी की सतह से 10-15 किमी तक फैला है। सभी मौसम संबंधी घटनाएं जैसे बादल, वर्षा, बर्फ और आंधी-तूफान इसी परत में होती हैं क्योंकि इसमें अधिकांश जलवाष्प और धूल के कण होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -89,7 +101,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Deforestation leads to climate change by reducing the number of trees that absorb carbon dioxide from the air. When forests are cut down, more CO2 stays in the atmosphere, leading to global warming. It also disrupts local rainfall patterns and can cause soil erosion.",
+        "hindi": "वनों की कटाई से वायु से कार्बन डाइऑक्साइड को अवशोषित करने वाले पेड़ों की संख्या कम हो जाती है, जिससे जलवायु परिवर्तन होता है। जब जंगल काटे जाते हैं, तो वातावरण में अधिक CO2 रहती है, जिससे ग्लोबल वार्मिंग होती है। यह स्थानीय वर्षा के पैटर्न को भी बाधित करता है और मिट्टी के कटाव का कारण बन सकता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Waste segregation means separating different types of waste like wet waste (food scraps), dry waste (paper, plastic), and hazardous waste (batteries, chemicals). This makes recycling easier and reduces environmental pollution. It's an important step in proper waste management.",
+        "hindi": "कचरा पृथक्करण का अर्थ है विभिन्न प्रकार के कचरे जैसे गीला कचरा (खाद्य अवशेष), सूखा कचरा (कागज, प्लास्टिक), और खतरनाक कचरा (बैटरी, रसायन) को अलग करना। इससे पुनर्चक्रण आसान हो जाता है और पर्यावरण प्रदूषण कम होता है। यह उचित कचरा प्रबंधन का एक महत्वपूर्ण चरण है।"
+      }
     },
     {
       "question_name": {
@@ -135,7 +155,11 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Oil spills severely harm marine life by coating animals with oil, making it difficult for birds to fly and fish to breathe. The oil can poison marine animals when they eat contaminated food or breathe toxic fumes. It also destroys habitats and can affect the entire marine food chain.",
+        "hindi": "तेल रिसाव समुद्री जीवों को गंभीर नुकसान पहुंचाता है, जानवरों पर तेल की परत जम जाती है, जिससे पक्षियों को उड़ने और मछलियों को सांस लेने में कठिनाई होती है। जब जानवर दूषित भोजन खाते हैं या जहरीली गैसें सांस लेते हैं तो तेल उन्हें विषाक्त कर सकता है। यह आवास को नष्ट करता है और पूरी समुद्री खाद्य श्रृंखला को प्रभावित कर सकता है।"
+      }
     },
     {
       "question_name": {
@@ -158,7 +182,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Compost is a natural fertilizer made from decomposed organic matter like food scraps, leaves, and plant waste. Unlike chemical fertilizers, it improves soil structure, adds beneficial microorganisms, and releases nutrients slowly. It's eco-friendly and helps reduce waste.",
+        "hindi": "कम्पोस्ट एक प्राकृतिक उर्वरक है जो खाद्य अवशेष, पत्तियों और पौधों के कचरे जैसे विघटित जैविक पदार्थों से बनता है। रासायनिक उर्वरकों के विपरीत, यह मिट्टी की संरचना में सुधार करता है, लाभकारी सूक्ष्मजीवों को जोड़ता है, और धीरे-धीरे पोषक तत्व छोड़ता है। यह पर्यावरण के अनुकूल है और कचरे को कम करने में मदद करता है।"
+      }
     },
     {
       "question_name": {
@@ -181,7 +209,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Wildlife corridors are protected paths that allow animals to move safely between different habitats. They help animals find food, mates, and new territories while avoiding human settlements. These corridors are crucial for maintaining genetic diversity and preventing species isolation.",
+        "hindi": "वन्यजीव गलियारे संरक्षित मार्ग हैं जो जानवरों को विभिन्न आवासों के बीच सुरक्षित रूप से आने-जाने की सुविधा देते हैं। ये जानवरों को भोजन, साथी और नए क्षेत्र खोजने में मदद करते हैं, साथ ही मानव बस्तियों से बचने में भी। ये गलियारे आनुवंशिक विविधता बनाए रखने और प्रजातियों के अलगाव को रोकने के लिए महत्वपूर्ण हैं।"
+      }
     },
     {
       "question_name": {
@@ -204,7 +236,11 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Carbon footprint is the total amount of greenhouse gases (mainly carbon dioxide) released into the atmosphere by our daily activities like using electricity, driving vehicles, or consuming products. Understanding our carbon footprint helps us make choices that reduce our impact on climate change.",
+        "hindi": "कार्बन फुटप्रिंट हमारी दैनिक गतिविधियों जैसे बिजली का उपयोग, वाहन चलाना या उत्पादों का उपभोग करने से वातावरण में छोड़ी जाने वाली कुल ग्रीनहाउस गैसों (मुख्य रूप से कार्बन डाइऑक्साइड) की मात्रा है। अपने कार्बन फुटप्रिंट को समझने से हमें जलवायु परिवर्तन पर अपने प्रभाव को कम करने वाले विकल्प चुनने में मदद मिलती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 3,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Biodiversity hotspots are areas with an exceptionally high number of unique species (endemic species) that are found nowhere else on Earth. These areas are important for conservation because they contain many rare plants and animals that are at risk of extinction due to habitat loss.",
+        "hindi": "जैव विविधता हॉटस्पॉट वे क्षेत्र हैं जहां असाधारण रूप से अधिक संख्या में विशिष्ट प्रजातियां (स्थानिक प्रजातियां) पाई जाती हैं जो पृथ्वी पर कहीं और नहीं मिलतीं। ये क्षेत्र संरक्षण के लिए महत्वपूर्ण हैं क्योंकि इनमें कई दुर्लभ पौधे और जानवर हैं जो आवास के नुकसान के कारण विलुप्त होने के खतरे में हैं।"
+      }
     }
   ]

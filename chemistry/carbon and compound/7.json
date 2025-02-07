@@ -7,7 +7,7 @@
       "option": {
         "english": [
           "Valency",
-          "Atomic size",
+          "Atomic size", 
           "Tetravalency and Catenation",
           "Reactivity"
         ],
@@ -20,7 +20,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Carbon has two unique properties: tetravalency (ability to form 4 bonds) and catenation (ability to form bonds with other carbon atoms). Due to tetravalency, carbon can share its 4 electrons with other atoms. Through catenation, carbon atoms can link together to form long chains and rings. These two properties together allow carbon to form millions of different compounds.",
+        "hindi": "कार्बन के दो विशिष्ट गुण हैं: चतुःसंयोजकता (4 बंध बनाने की क्षमता) और श्रृंखलन (अन्य कार्बन परमाणुओं के साथ बंध बनाने की क्षमता)। चतुःसंयोजकता के कारण, कार्बन अपने 4 इलेक्ट्रॉन अन्य परमाणुओं के साथ साझा कर सकता है। श्रृंखलन के माध्यम से, कार्बन परमाणु लंबी श्रृंखलाएं और वलय बनाने के लिए एक साथ जुड़ सकते हैं। ये दोनों गुण मिलकर कार्बन को लाखों अलग-अलग यौगिक बनाने में सक्षम बनाते हैं।"
+      }
     },
     {
       "question_name": {
@@ -43,7 +47,11 @@
       },
       "answer": 0,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Propane (C₃H₈) has a structural formula CH₃-CH₂-CH₃. It contains three carbon atoms joined by single bonds in a straight chain, with hydrogen atoms attached. The first and last carbon atoms have three hydrogens each (CH₃), while the middle carbon has two hydrogens (CH₂).",
+        "hindi": "प्रोपेन (C₃H₈) का संरचनात्मक सूत्र CH₃-CH₂-CH₃ है। इसमें तीन कार्बन परमाणु एकल बंध द्वारा सीधी श्रृंखला में जुड़े होते हैं, जिनसे हाइड्रोजन परमाणु जुड़े होते हैं। पहले और आखिरी कार्बन परमाणु में तीन-तीन हाइड्रोजन (CH₃) होते हैं, जबकि बीच के कार्बन में दो हाइड्रोजन (CH₂) होते हैं।"
+      }
     },
     {
       "question_name": {
@@ -52,21 +60,25 @@
       },
       "option": {
         "english": [
-          "-CHO",
           "-OH",
+          "-CHO",
           "-COOH",
           "-CO-"
         ],
         "hindi": [
-          "-CHO",
           "-OH",
+          "-CHO",
           "-COOH",
           "-CO-"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Butanal contains the aldehyde functional group (-CHO) at the end of its carbon chain. An aldehyde group consists of a carbon atom double-bonded to an oxygen atom and single-bonded to a hydrogen atom. This -CHO group is responsible for the chemical properties of butanal.",
+        "hindi": "ब्यूटेनल में कार्बन श्रृंखला के अंत में एल्डिहाइड क्रियात्मक समूह (-CHO) होता है। एल्डिहाइड समूह में एक कार्बन परमाणु ऑक्सीजन परमाणु से द्विबंध और हाइड्रोजन परमाणु से एकल बंध बनाता है। यह -CHO समूह ब्यूटेनल के रासायनिक गुणों के लिए जिम्मेदार होता है।"
+      }
     },
     {
       "question_name": {
@@ -77,19 +89,23 @@
         "english": [
           "Ethane",
           "Ethene",
-          "Ethanoic acid",
-          "Sodium ethanoate"
+          "Sodium ethanoate",
+          "Ethanoic acid"
         ],
         "hindi": [
           "एथेन",
           "एथीन",
-          "एथेनोइक अम्ल",
-          "सोडियम एथेनोएट"
+          "सोडियम एथेनोएट",
+          "एथेनोइक अम्ल"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "When ethanol (CH₃CH₂OH) is oxidized with alkaline potassium permanganate (KMnO₄), it forms ethanoic acid (CH₃COOH). This is a two-step oxidation process: first, ethanol is oxidized to ethanal (CH₃CHO), and then ethanal is further oxidized to ethanoic acid. KMnO₄ acts as an oxidizing agent in this reaction.",
+        "hindi": "जब एथेनॉल (CH₃CH₂OH) को क्षारीय पोटैशियम परमैंगनेट (KMnO₄) के साथ ऑक्सीकृत किया जाता है, तो एथेनोइक अम्ल (CH₃COOH) बनता है। यह एक दो-चरणीय ऑक्सीकरण प्रक्रिया है: पहले, एथेनॉल ऑक्सीकृत होकर एथेनल (CH₃CHO) बनता है, और फिर एथेनल आगे ऑक्सीकृत होकर एथेनोइक अम्ल बनता है। KMnO₄ इस अभिक्रिया में ऑक्सीकारक की तरह काम करता है।"
+      }
     },
     {
       "question_name": {
@@ -112,7 +128,11 @@
       },
       "answer": 2,
       "image": null,
-      "medium": "easy"
+      "medium": "easy",
+      "explanation": {
+        "english": "Detergents work better than soaps in hard water because they form soluble calcium salts. Hard water contains calcium and magnesium ions. While soaps react with these ions to form insoluble scum that reduces cleaning effectiveness, detergents form soluble salts that remain in solution and continue cleaning effectively.",
+        "hindi": "डिटर्जेंट कठोर जल में साबुन से बेहतर काम करते हैं क्योंकि वे घुलनशील कैल्शियम लवण बनाते हैं। कठोर जल में कैल्शियम और मैग्नीशियम आयन होते हैं। जहाँ साबुन इन आयनों से क्रिया करके अघुलनशील मैल बनाते हैं जो सफाई क्षमता को कम कर देता है, वहीं डिटर्जेंट घुलनशील लवण बनाते हैं जो घोल में रहते हैं और प्रभावी ढंग से सफाई करते रहते हैं।"
+      }
     },
     {
       "question_name": {
@@ -121,21 +141,25 @@
       },
       "option": {
         "english": [
-          "CO₂ + H₂O",
           "CO + H₂O",
+          "CO₂ + H₂O",
           "C + H₂O",
           "CO₂ + H₂"
         ],
         "hindi": [
-          "CO₂ + H₂O",
           "CO + H₂O",
+          "CO₂ + H₂O",
           "C + H₂O",
           "CO₂ + H₂"
         ]
       },
       "answer": 1,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "When methane (CH₄) undergoes complete combustion in sufficient oxygen, it produces carbon dioxide (CO₂) and water vapor (H₂O). The balanced equation is: CH₄ + 2O₂ → CO₂ + 2H₂O. This is the same reaction that occurs when natural gas burns in our homes for cooking.",
+        "hindi": "जब मीथेन (CH₄) पर्याप्त ऑक्सीजन में पूर्ण दहन करता है, तो कार्बन डाइऑक्साइड (CO₂) और जल वाष्प (H₂O) बनते हैं। संतुलित समीकरण है: CH₄ + 2O₂ → CO₂ + 2H₂O। यह वही अभिक्रिया है जो हमारे घरों में खाना पकाने के लिए प्राकृतिक गैस के जलने पर होती है।"
+      }
     },
     {
       "question_name": {
@@ -144,21 +168,25 @@
       },
       "option": {
         "english": [
+          "Tetrahedral structure",
           "Linear structure",
           "Planar structure",
-          "Tetrahedral structure",
           "Pyramidal structure"
         ],
         "hindi": [
-          "रैखिक संरचना",
-          "समतलीय संरचना",
           "चतुष्फलकीय संरचना",
+           "रैखिक संरचना",
+          "समतलीय संरचना",
           "पिरामिडी संरचना"
         ]
       },
       "answer": 0,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Methane (CH₄) has a tetrahedral electron dot structure. The carbon atom forms four single covalent bonds with hydrogen atoms, arranged in a three-dimensional tetrahedral shape. Each C-H bond forms an angle of 109.5° with other C-H bonds, giving methane its characteristic shape.",
+        "hindi": "मीथेन (CH₄) की इलेक्ट्रॉन बिंदु संरचना चतुष्फलकीय होती है। कार्बन परमाणु हाइड्रोजन परमाणुओं के साथ चार एकल सहसंयोजक बंध बनाता है, जो त्रिविमीय चतुष्फलकीय आकार में व्यवस्थित होते हैं। प्रत्येक C-H बंध अन्य C-H बंधों के साथ 109.5° का कोण बनाता है, जो मीथेन को इसका विशिष्ट आकार देता है।"
+      }
     },
     {
       "question_name": {
@@ -169,19 +197,23 @@
         "english": [
           "Addition",
           "Elimination",
-          "Substitution",
-          "Polymerization"
+          "Polymerization",
+          "Substitution"
         ],
         "hindi": [
           "योगात्मक",
           "विलोपन",
-          "प्रतिस्थापन",
-          "बहुलकीकरण"
+          "बहुलकीकरण",
+          "प्रतिस्थापन"
         ]
       },
       "answer": 3,
       "image": null,
-      "medium": "medium"
+      "medium": "medium",
+      "explanation": {
+        "english": "Saturated hydrocarbons (alkanes) undergo substitution reactions. In these reactions, one or more hydrogen atoms are replaced by other atoms or groups. For example, when methane reacts with chlorine in sunlight, hydrogen is substituted by chlorine to form chloromethane: CH₄ + Cl₂ → CH₃Cl + HCl.",
+        "hindi": "संतृप्त हाइड्रोकार्बन (एल्केन) प्रतिस्थापन अभिक्रियाएं करते हैं। इन अभिक्रियाओं में, एक या अधिक हाइड्रोजन परमाणु दूसरे परमाणुओं या समूहों द्वारा प्रतिस्थापित हो जाते हैं। उदाहरण के लिए, जब मीथेन सूर्य के प्रकाश में क्लोरीन से क्रिया करता है, तो हाइड्रोजन क्लोरीन द्वारा प्रतिस्थापित होकर क्लोरोमीथेन बनाता है: CH₄ + Cl₂ → CH₃Cl + HCl।"
+      }
     },
     {
       "question_name": {
@@ -191,20 +223,24 @@
       "option": {
         "english": [
           "Contains -OH group",
-          "Contains -COOH group",
           "Contains -CHO group",
+          "Contains -COOH group",
           "Contains -CO group"
         ],
         "hindi": [
           "-OH समूह होने के कारण",
-          "-COOH समूह होने के कारण",
           "-CHO समूह होने के कारण",
+          "-COOH समूह होने के कारण",
           "-CO समूह होने के कारण"
         ]
       },
       "answer": 2,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Ethanoic acid is called a carboxylic acid because it contains the -COOH (carboxyl) group. This group consists of a carbon atom double-bonded to an oxygen atom (-C=O) and single-bonded to an -OH group. The presence of -COOH group gives ethanoic acid its acidic properties and makes it part of the carboxylic acid family.",
+        "hindi": "एथेनोइक अम्ल को कार्बोक्सिलिक अम्ल कहा जाता है क्योंकि इसमें -COOH (कार्बोक्सिल) समूह होता है। इस समूह में एक कार्बन परमाणु ऑक्सीजन परमाणु से द्विबंध (-C=O) और -OH समूह से एकल बंध बनाता है। -COOH समूह की उपस्थिति एथेनोइक अम्ल को इसके अम्लीय गुण प्रदान करती है और इसे कार्बोक्सिलिक अम्ल परिवार का हिस्सा बनाती है।"
+      }
     },
     {
       "question_name": {
@@ -227,6 +263,10 @@
       },
       "answer": 1,
       "image": null,
-      "medium": "hard"
+      "medium": "hard",
+      "explanation": {
+        "english": "Saponification is the hydrolysis (breakdown by water) of esters in the presence of a base to form alcohol and soap. For example, when fats or oils (esters) react with sodium hydroxide (base), they form glycerol (alcohol) and sodium salts of fatty acids (soap). This reaction is used in soap making.",
+        "hindi": "साबुनीकरण क्षार की उपस्थिति में एस्टर का जल-अपघटन (पानी द्वारा टूटना) है जिससे अल्कोहल और साबुन बनते हैं। उदाहरण के लिए, जब वसा या तेल (एस्टर) सोडियम हाइड्रॉक्साइड (क्षार) से क्रिया करते हैं, तो ग्लिसरॉल (अल्कोहल) और वसीय अम्लों के सोडियम लवण (साबुन) बनते हैं। इस अभिक्रिया का उपयोग साबुन बनाने में किया जाता है।"
+      }
     }
 ]

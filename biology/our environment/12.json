@@ -19,6 +19,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Oil spills severely damage marine ecosystems by coating the surface of water and marine animals with oil. This prevents oxygen exchange, kills marine life, destroys habitats, and takes years to clean up.",
+        "hindi": "तेल रिसाव पानी की सतह और समुद्री जीवों को तेल से कवर करके समुद्री पारिस्थितिकी को गंभीर नुकसान पहुंचाता है। यह ऑक्सीजन के आदान-प्रदान को रोकता है, समुद्री जीवन को नष्ट करता है, आवासों को नष्ट करता है, और साफ करने में वर्षों लगते हैं।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -42,6 +46,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Soil conservation means protecting soil from erosion and maintaining its fertility. Methods include crop rotation, terracing, contour plowing and planting trees. This helps preserve soil for agriculture and prevents land degradation.",
+        "hindi": "मृदा संरक्षण का अर्थ है मिट्टी को कटाव से बचाना और उसकी उर्वरता बनाए रखना। इसमें फसल चक्र, सीढ़ीदार खेती, समोच्च जुताई और वृक्षारोपण शामिल हैं। यह कृषि के लिए मिट्टी को संरक्षित करने और भूमि के क्षरण को रोकने में मदद करता है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -65,52 +73,64 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Carbon dioxide is the main greenhouse gas. It traps heat in Earth's atmosphere like a greenhouse, causing global warming. It is released by burning fossil fuels, deforestation, and other human activities.",
+        "hindi": "कार्बन डाइऑक्साइड मुख्य ग्रीनहाउस गैस है। यह पृथ्वी के वायुमंडल में ग्रीनहाउस की तरह गर्मी को फंसाती है, जिससे ग्लोबल वार्मिंग होती है। यह जीवाश्म ईंधन के जलने, वनों की कटाई और अन्य मानवीय गतिविधियों से निकलती है।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the role of producers in ecosystem?",
-        "hindi": "पारिस्थितिकी तंत्र में उत्पादकों की क्या भूमिका है?"
+        "english": "Why is ozone layer important for life on Earth?",
+        "hindi": "पृथ्वी पर जीवन के लिए ओजोन परत क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Consume food",
-          "Make food",
-          "Break down",
-          "Clean water"
+          "It produces oxygen",
+          "It blocks harmful UV rays",
+          "It causes rain",
+          "It maintains temperature"
         ],
         "hindi": [
-          "भोजन खाना",
-          "भोजन बनाना",
-          "विघटन करना",
-          "जल साफ करना"
+          "यह ऑक्सीजन उत्पन्न करती है",
+          "यह हानिकारक यूवी किरणों को रोकती है",
+          "यह वर्षा का कारण बनती है",
+          "यह तापमान बनाए रखती है"
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "The ozone layer acts as Earth's sunscreen by blocking harmful ultraviolet (UV) rays from the Sun. Without it, these rays would cause severe skin damage, eye problems, affect plant growth and harm marine life.",
+        "hindi": "ओजोन परत सूर्य की हानिकारक पराबैंगनी (यूवी) किरणों को रोककर पृथ्वी के सनस्क्रीन के रूप में कार्य करती है। इसके बिना, ये किरणें त्वचा को गंभीर नुकसान, आंखों की समस्याएं, पौधों की वृद्धि को प्रभावित और समुद्री जीवन को नुकसान पहुंचाएंगी।"
+      },
       "image": null,
       "medium": "easy"
     },
     {
       "question_name": {
-        "english": "What is the impact of plastic pollution?",
-        "hindi": "प्लास्टिक प्रदूषण का क्या प्रभाव है?"
+        "english": "Why is biodiversity conservation important for ecosystem health?",
+        "hindi": "पारिस्थितिकी तंत्र के स्वास्थ्य के लिए जैव विविधता संरक्षण क्यों महत्वपूर्ण है?"
       },
       "option": {
         "english": [
-          "Clean environment",
-          "Better soil",
-          "Good health",
-          "Environmental damage"
+          "Only for tourism",
+          "Only for food",
+          "Only for medicine",
+          "Maintains ecological balance"
         ],
         "hindi": [
-          "स्वच्छ पर्यावरण",
-          "बेहतर मिट्टी",
-          "अच्छा स्वास्थ्य",
-          "पर्यावरण क्षति"
+          "केवल पर्यटन के लिए",
+          "केवल भोजन के लिए", 
+          "केवल दवा के लिए",
+          "पारिस्थितिक संतुलन बनाए रखता है"
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Biodiversity conservation is vital because each species plays a unique role in the ecosystem. It maintains food chains, helps in pollination, controls pests naturally, and keeps the environment stable. Loss of any species can disturb this balance.",
+        "hindi": "जैव विविधता संरक्षण महत्वपूर्ण है क्योंकि प्रत्येक प्रजाति पारिस्थितिकी तंत्र में एक विशिष्ट भूमिका निभाती है। यह खाद्य श्रृंखलाओं को बनाए रखती है, परागण में मदद करती है, कीटों को प्राकृतिक रूप से नियंत्रित करती है, और पर्यावरण को स्थिर रखती है। किसी भी प्रजाति की हानि इस संतुलन को बिगाड़ सकती है।"
+      },
       "image": null,
       "medium": "easy"
     },
@@ -134,6 +154,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Solar energy is a renewable source because it comes from the Sun and will never run out. Unlike fossil fuels (coal, petroleum, natural gas), it is clean, sustainable, and doesn't cause pollution. It can be used for electricity, heating, and many other purposes.",
+        "hindi": "सौर ऊर्जा एक नवीकरणीय स्रोत है क्योंकि यह सूर्य से आती है और कभी समाप्त नहीं होगी। जीवाश्म ईंधन (कोयला, पेट्रोलियम, प्राकृतिक गैस) के विपरीत, यह स्वच्छ, टिकाऊ है और प्रदूषण नहीं करती। इसका उपयोग बिजली, गर्मी और कई अन्य उद्देश्यों के लिए किया जा सकता है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -157,6 +181,10 @@
         ]
       },
       "answer": 2,
+      "explanation": {
+        "english": "Watershed management involves protecting and conserving water resources in a particular area. It includes methods like rainwater harvesting, preventing soil erosion, and maintaining water bodies to ensure sustainable water supply for human use and ecosystems.",
+        "hindi": "जलग्रहण प्रबंधन में किसी विशेष क्षेत्र में जल संसाधनों की रक्षा और संरक्षण शामिल है। इसमें वर्षा जल संचयन, मिट्टी के कटाव को रोकने और जल निकायों को बनाए रखने जैसी विधियां शामिल हैं ताकि मानव उपयोग और पारिस्थितिक तंत्र के लिए स्थायी जल आपूर्ति सुनिश्चित हो सके।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -180,6 +208,10 @@
         ]
       },
       "answer": 1,
+      "explanation": {
+        "english": "Sustainable agriculture is farming that maintains soil fertility and produces food without harming the environment. It uses natural fertilizers, crop rotation, and biological pest control instead of harmful chemicals. This ensures long-term food production while protecting nature.",
+        "hindi": "सतत कृषि वह खेती है जो मिट्टी की उर्वरता को बनाए रखती है और पर्यावरण को नुकसान पहुंचाए बिना भोजन उत्पादन करती है। यह हानिकारक रसायनों के बजाय प्राकृतिक उर्वरकों, फसल चक्र और जैविक कीट नियंत्रण का उपयोग करती है। यह प्रकृति की रक्षा करते हुए दीर्घकालिक खाद्य उत्पादन सुनिश्चित करती है।"
+      },
       "image": null,
       "medium": "medium"
     },
@@ -203,6 +235,10 @@
         ]
       },
       "answer": 3,
+      "explanation": {
+        "english": "Climate change affects the entire planet by causing rising temperatures, melting ice caps, changing rainfall patterns, and extreme weather events. This leads to floods, droughts, affects agriculture, and threatens many species with extinction.",
+        "hindi": "जलवायु परिवर्तन बढ़ते तापमान, पिघलती बर्फ की चोटियों, बदलते वर्षा पैटर्न और चरम मौसम की घटनाओं के कारण पूरी पृथ्वी को प्रभावित करता है। इससे बाढ़, सूखा होता है, कृषि प्रभावित होती है, और कई प्रजातियां विलुप्त होने के कगार पर पहुंच जाती हैं।"
+      },
       "image": null,
       "medium": "hard"
     },
@@ -226,6 +262,10 @@
         ]
       },
       "answer": 0,
+      "explanation": {
+        "english": "Weathering breaks down rocks into smaller particles through physical, chemical, and biological processes. This creates soil by mixing with organic matter from dead plants and animals. It is a natural process essential for soil formation.",
+        "hindi": "अपक्षय भौतिक, रासायनिक और जैविक प्रक्रियाओं के माध्यम से चट्टानों को छोटे कणों में तोड़ता है। यह मृत पौधों और जानवरों से जैविक पदार्थ के साथ मिश्रण करके मिट्टी बनाता है। यह मृदा निर्माण के लिए एक आवश्यक प्राकृतिक प्रक्रिया है।"
+      },
       "image": null,
       "medium": "hard"
     }
